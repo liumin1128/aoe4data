@@ -70,8 +70,8 @@ const increaseAttackSpeedByPercent = (percent: number) => round(1 / (1 + percent
 const round = (n: number) => Math.round(n * 100) / 100; //(100/(100-33))
 const placeholderAbility =
   (select: Selector) =>
-    (values: number[], item: Item): Modifier[] =>
-      [{ property: "unknown", select, effect: "change", value: 0, type: "ability" }];
+  (values: number[], item: Item): Modifier[] =>
+    [{ property: "unknown", select, effect: "change", value: 0, type: "ability" }];
 
 export const abilityModifiers: Record<string, (values: number[], item: Item) => Modifier[]> = {
   "ability-ring-the-town-bell": placeholderAbility({ id: ["town-center", "capital-town-center"] }),
@@ -499,7 +499,6 @@ export const abilityModifiers: Record<string, (values: number[], item: Item) => 
       type: "ability",
     },
   ],
-
 
   "ability-the-long-wall": ([]) => [
     // All units standing on Walls gain +25% ranged damage.
@@ -4798,7 +4797,7 @@ export const technologyModifiers: Record<string, (values: number[], item: Item) 
   ],
 
   // Increases the maximum number of Yorishiro by +2. Immediately spawns 2 Yorishiro at the Floating Gate.
-  "bunrei": ([b]) => [
+  bunrei: ([b]) => [
     {
       property: "unknown",
       select: { id: ["floating-gate"] },
@@ -4820,7 +4819,7 @@ export const technologyModifiers: Record<string, (values: number[], item: Item) 
   ],
 
   // Buddhist Monks generate 25 gold every 60 seconds.
-  "zen": ([g]) => [
+  zen: ([g]) => [
     {
       property: "goldGeneration",
       select: { id: ["buddhist-monk"] },
@@ -4834,8 +4833,5 @@ export const technologyModifiers: Record<string, (values: number[], item: Item) 
   "five-mountain-ministries": placeholderAbility({ id: ["buddhist-temple", "temple-of-equality"] }),
 
   // Upgrades Buddhist Conversion to Nehan Conversion, which has a 25% shorter cooldown and additionally improves nearby allied units movement speed by +25% when cast.
-  "nehan": placeholderAbility({ id: ["buddhist-monk"] }),
-
-
-
+  nehan: placeholderAbility({ id: ["buddhist-monk"] }),
 };

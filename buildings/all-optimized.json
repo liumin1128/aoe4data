@@ -2529,7 +2529,7 @@
         },
         {
           "type": "fire",
-          "value": 5
+          "value": 6
         }
       ],
       "sight": {
@@ -4621,12 +4621,12 @@
           "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
           "costs": {
             "food": 0,
-            "wood": 300,
+            "wood": 250,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 300,
+            "total": 250,
             "popcap": 0,
             "time": 23
           },
@@ -4729,12 +4729,12 @@
           ],
           "costs": {
             "food": 0,
-            "wood": 300,
+            "wood": 250,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 300,
+            "total": 250,
             "popcap": 0,
             "time": 36
           },
@@ -4754,12 +4754,12 @@
           ],
           "costs": {
             "food": 0,
-            "wood": 200,
+            "wood": 166,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 200,
+            "total": 166,
             "popcap": 0,
             "time": 45
           },
@@ -4789,12 +4789,12 @@
       "age": 3,
       "costs": {
         "food": 0,
-        "wood": 300,
+        "wood": 250,
         "stone": 0,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 300,
+        "total": 250,
         "popcap": 0,
         "time": 45
       },
@@ -6145,12 +6145,12 @@
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises",
           "costs": {
             "food": 0,
-            "wood": 850,
+            "wood": 800,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 850,
+            "total": 800,
             "popcap": 0,
             "time": 150
           },
@@ -9758,7 +9758,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -10143,7 +10143,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -10725,7 +10725,7 @@
         },
         {
           "type": "fire",
-          "value": 5
+          "value": 6
         }
       ],
       "sight": {
@@ -11247,7 +11247,7 @@
         },
         {
           "type": "fire",
-          "value": 5
+          "value": 6
         }
       ],
       "sight": {
@@ -11839,7 +11839,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -12885,7 +12885,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -13915,7 +13915,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -16342,7 +16342,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {
@@ -17330,7 +17330,7 @@
             },
             {
               "type": "fire",
-              "value": 5
+              "value": 6
             }
           ],
           "sight": {

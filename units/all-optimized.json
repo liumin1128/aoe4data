@@ -1896,7 +1896,7 @@
             {
               "name": "Bow",
               "type": "ranged",
-              "damage": 12,
+              "damage": 11,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -1915,7 +1915,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 12,
+                  "value": 11,
                   "type": "passive"
                 },
                 {
@@ -1930,7 +1930,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 12,
+                  "value": 11,
                   "type": "passive"
                 }
               ],
@@ -1956,6 +1956,70 @@
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/camel-archer-3.png",
           "hitpoints": 175,
+          "weapons": [
+            {
+              "name": "Bow",
+              "type": "ranged",
+              "damage": 13,
+              "speed": 1.375,
+              "range": {
+                "min": 0,
+                "max": 3.75
+              },
+              "modifiers": [
+                {
+                  "property": "rangedAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "light",
+                        "melee",
+                        "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 13,
+                  "type": "passive"
+                },
+                {
+                  "property": "rangedAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "light",
+                        "gunpowder",
+                        "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 13,
+                  "type": "passive"
+                }
+              ],
+              "durations": {
+                "aim": 0,
+                "windup": 0,
+                "attack": 0.125,
+                "winddown": 0.5,
+                "reload": 0.75,
+                "setup": 0,
+                "teardown": 0,
+                "cooldown": 0
+              },
+              "attribName": "weapon_camel_archer_3_abb",
+              "pbgid": 200015
+            }
+          ],
+          "armor": [],
+          "id": "camel-archer-3"
+        },
+        "camel-archer-4": {
+          "name": "Elite Camel Archer",
+          "age": 4,
+          "icon": "https://data.aoe4world.com/images/units/camel-archer-4.png",
+          "hitpoints": 200,
           "weapons": [
             {
               "name": "Bow",
@@ -1995,70 +2059,6 @@
                   },
                   "effect": "change",
                   "value": 14,
-                  "type": "passive"
-                }
-              ],
-              "durations": {
-                "aim": 0,
-                "windup": 0,
-                "attack": 0.125,
-                "winddown": 0.5,
-                "reload": 0.75,
-                "setup": 0,
-                "teardown": 0,
-                "cooldown": 0
-              },
-              "attribName": "weapon_camel_archer_3_abb",
-              "pbgid": 200015
-            }
-          ],
-          "armor": [],
-          "id": "camel-archer-3"
-        },
-        "camel-archer-4": {
-          "name": "Elite Camel Archer",
-          "age": 4,
-          "icon": "https://data.aoe4world.com/images/units/camel-archer-4.png",
-          "hitpoints": 200,
-          "weapons": [
-            {
-              "name": "Bow",
-              "type": "ranged",
-              "damage": 15,
-              "speed": 1.375,
-              "range": {
-                "min": 0,
-                "max": 3.75
-              },
-              "modifiers": [
-                {
-                  "property": "rangedAttack",
-                  "target": {
-                    "class": [
-                      [
-                        "light",
-                        "melee",
-                        "infantry"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 15,
-                  "type": "passive"
-                },
-                {
-                  "property": "rangedAttack",
-                  "target": {
-                    "class": [
-                      [
-                        "light",
-                        "gunpowder",
-                        "infantry"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 15,
                   "type": "passive"
                 }
               ],
@@ -2450,7 +2450,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -2501,7 +2501,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -2661,7 +2661,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -2741,7 +2741,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -3425,19 +3425,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 230,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -3452,12 +3439,39 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 215,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
                   ]
                 ]
               },
               "effect": "change",
               "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 35,
               "type": "passive"
             }
           ],
@@ -4398,7 +4412,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -4442,7 +4456,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,
@@ -6575,7 +6589,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -6696,7 +6710,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -6802,7 +6816,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -6923,7 +6937,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -7011,7 +7025,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -7132,7 +7146,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -9700,7 +9714,7 @@
             {
               "name": "Springald",
               "type": "ranged",
-              "damage": 15,
+              "damage": 16,
               "speed": 3.125,
               "range": {
                 "min": 0,
@@ -9791,7 +9805,7 @@
             {
               "name": "Springald",
               "type": "ranged",
-              "damage": 15,
+              "damage": 16,
               "speed": 3.125,
               "range": {
                 "min": 0,
@@ -9867,12 +9881,12 @@
       "producedBy": [
         "siege-workshop"
       ],
-      "hitpoints": 75,
+      "hitpoints": 85,
       "weapons": [
         {
           "name": "Springald",
           "type": "ranged",
-          "damage": 15,
+          "damage": 16,
           "speed": 3.125,
           "range": {
             "min": 0,
@@ -12418,7 +12432,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -12539,7 +12553,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -13060,19 +13074,6 @@
                   "target": {
                     "class": [
                       [
-                        "building"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 410,
-                  "type": "passive"
-                },
-                {
-                  "property": "siegeAttack",
-                  "target": {
-                    "class": [
-                      [
                         "naval",
                         "unit"
                       ]
@@ -13087,7 +13088,34 @@
                   "target": {
                     "class": [
                       [
+                        "building"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 375,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
                         "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 50,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "war",
+                        "elephant"
                       ]
                     ]
                   },
@@ -13134,19 +13162,6 @@
                   "target": {
                     "class": [
                       [
-                        "building"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 410,
-                  "type": "passive"
-                },
-                {
-                  "property": "siegeAttack",
-                  "target": {
-                    "class": [
-                      [
                         "naval",
                         "unit"
                       ]
@@ -13161,7 +13176,34 @@
                   "target": {
                     "class": [
                       [
+                        "building"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 375,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
                         "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 50,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "war",
+                        "elephant"
                       ]
                     ]
                   },
@@ -13227,19 +13269,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 410,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -13254,7 +13283,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 375,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -14337,10 +14393,9 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Light Ranged Gunpowder Infantry"
+        "Ranged Gunpowder Infantry"
       ],
       "classes": [
-        "light",
         "ranged",
         "gunpowder",
         "infantry"
@@ -14365,6 +14420,15 @@
             "by"
           ],
           "description": "Advanced ranged infantry with thrown explosive canisters that deal damage in a small area.\n+ Deals area damage\n- Low single target damage\n- Slow movement speed\n\nMercenary that can be purchased per 2 units for a total of 480 Olive Oil.\n\nRequires the Silk Road Contract.",
+          "classes": [
+            "light",
+            "ranged",
+            "gunpowder",
+            "infantry"
+          ],
+          "displayClasses": [
+            "Light Ranged Gunpowder Infantry"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -15088,8 +15152,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 115,
-        "total": 115,
+        "oliveoil": 120,
+        "total": 120,
         "popcap": 1,
         "time": 80
       },
@@ -16366,7 +16430,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/units/longbowman-2.png",
-      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 450 Olive Oil.\n\nRequires the Western Mercenary Contract.",
+      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 470 Olive Oil.\n\nRequires the Western Mercenary Contract.",
       "variations": [
         {
           "id": "longbowman-2",
@@ -16485,8 +16549,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 90,
-        "total": 90,
+        "oliveoil": 94,
+        "total": 94,
         "popcap": 1,
         "time": 75
       },
@@ -17527,7 +17591,7 @@
           "speed": 6.5,
           "range": {
             "min": 3,
-            "max": 7
+            "max": 7.5
           },
           "modifiers": [
             {
@@ -17689,19 +17753,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -17716,7 +17767,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -18934,7 +19012,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,
@@ -20251,19 +20329,6 @@
                   "target": {
                     "class": [
                       [
-                        "building"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 410,
-                  "type": "passive"
-                },
-                {
-                  "property": "siegeAttack",
-                  "target": {
-                    "class": [
-                      [
                         "naval",
                         "unit"
                       ]
@@ -20278,7 +20343,34 @@
                   "target": {
                     "class": [
                       [
+                        "building"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 375,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
                         "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 50,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "war",
+                        "elephant"
                       ]
                     ]
                   },
@@ -20392,7 +20484,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -20506,7 +20598,7 @@
               "speed": 6.5,
               "range": {
                 "min": 3,
-                "max": 7
+                "max": 7.5
               },
               "modifiers": [
                 {
@@ -20623,12 +20715,12 @@
             "astronomical-clocktower"
           ],
           "icon": "https://data.aoe4world.com/images/units/clocktower-springald-3.png",
-          "hitpoints": 112,
+          "hitpoints": 128,
           "weapons": [
             {
               "name": "Springald",
               "type": "ranged",
-              "damage": 15,
+              "damage": 16,
               "speed": 3.125,
               "range": {
                 "min": 0,
@@ -23694,7 +23786,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 1.625,
               "range": {
                 "min": 0,
@@ -24634,7 +24726,7 @@
       "producedBy": [
         "siege-workshop"
       ],
-      "hitpoints": 225,
+      "hitpoints": 215,
       "weapons": [
         {
           "name": "Ribauldequin",
@@ -24666,7 +24758,7 @@
       "armor": [
         {
           "type": "melee",
-          "value": 15
+          "value": 10
         }
       ],
       "sight": {
@@ -25321,19 +25413,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -25348,7 +25427,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -25556,19 +25662,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 230,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -25583,12 +25676,39 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 215,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
                   ]
                 ]
               },
               "effect": "change",
               "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 35,
               "type": "passive"
             }
           ],
@@ -25675,7 +25795,7 @@
       "producedBy": [
         "college-of-artillery"
       ],
-      "hitpoints": 225,
+      "hitpoints": 215,
       "weapons": [
         {
           "name": "Ribauldequin",
@@ -25707,7 +25827,7 @@
       "armor": [
         {
           "type": "melee",
-          "value": 15
+          "value": 10
         }
       ],
       "sight": {
@@ -26229,7 +26349,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -30920,7 +31040,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-3.png",
-      "description": "Fast melee unit with high ranged armour and bonus against ranged.\n+ Strong against ranged units\n-weak against armoured melee units",
+      "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against armored melee units",
       "variations": [
         {
           "id": "freeborn-warrior-3",
@@ -30956,7 +31076,7 @@
         "barracks",
         "farimba-garrison"
       ],
-      "hitpoints": 165,
+      "hitpoints": 175,
       "sight": {
         "inner_height": 10,
         "inner_radius": 12,
@@ -31046,7 +31166,7 @@
           "name": "Elite Freeborn Warrior",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-4.png",
-          "hitpoints": 190,
+          "hitpoints": 205,
           "weapons": [
             {
               "name": "Khanda",
@@ -31900,7 +32020,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 38,
+              "damage": 41,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -33076,7 +33196,7 @@
               "speed": 6.5,
               "range": {
                 "min": 3,
-                "max": 7
+                "max": 7.5
               },
               "modifiers": [
                 {
@@ -34137,7 +34257,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 200,
+                  "value": 190,
                   "type": "passive"
                 },
                 {
@@ -34151,7 +34271,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 200,
+                  "value": 190,
                   "type": "passive"
                 }
               ],
@@ -34212,7 +34332,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 200,
+                  "value": 190,
                   "type": "passive"
                 },
                 {
@@ -34226,7 +34346,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 200,
+                  "value": 190,
                   "type": "passive"
                 }
               ],
@@ -34787,7 +34907,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 38,
+              "damage": 41,
               "speed": 1.125,
               "range": {
                 "min": 0,
@@ -37028,7 +37148,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 580,
+                  "value": 525,
                   "type": "passive"
                 },
                 {
@@ -37055,7 +37175,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 150,
+                  "value": 125,
                   "type": "passive"
                 }
               ],
@@ -37211,7 +37331,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -37229,7 +37349,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 5,
                   "type": "passive"
                 }
               ],
@@ -37296,7 +37416,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -37314,7 +37434,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 5,
                   "type": "passive"
                 }
               ],

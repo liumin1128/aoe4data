@@ -665,7 +665,7 @@
             {
               "name": "Bow",
               "type": "ranged",
-              "damage": 12,
+              "damage": 11,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -684,7 +684,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 12,
+                  "value": 11,
                   "type": "passive"
                 },
                 {
@@ -699,7 +699,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 12,
+                  "value": 11,
                   "type": "passive"
                 }
               ],
@@ -774,7 +774,7 @@
             {
               "name": "Bow",
               "type": "ranged",
-              "damage": 14,
+              "damage": 13,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -793,7 +793,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 14,
+                  "value": 13,
                   "type": "passive"
                 },
                 {
@@ -808,7 +808,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 14,
+                  "value": 13,
                   "type": "passive"
                 }
               ],
@@ -883,7 +883,7 @@
             {
               "name": "Bow",
               "type": "ranged",
-              "damage": 15,
+              "damage": 14,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -902,7 +902,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 15,
+                  "value": 14,
                   "type": "passive"
                 },
                 {
@@ -917,7 +917,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 15,
+                  "value": 14,
                   "type": "passive"
                 }
               ],
@@ -1305,7 +1305,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -1628,19 +1628,6 @@
                   "target": {
                     "class": [
                       [
-                        "building"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 230,
-                  "type": "passive"
-                },
-                {
-                  "property": "siegeAttack",
-                  "target": {
-                    "class": [
-                      [
                         "naval",
                         "unit"
                       ]
@@ -1655,12 +1642,39 @@
                   "target": {
                     "class": [
                       [
+                        "building"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 215,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
                         "infantry"
                       ]
                     ]
                   },
                   "effect": "change",
                   "value": 50,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "war",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 35,
                   "type": "passive"
                 }
               ],
@@ -2309,7 +2323,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 35,
+              "damage": 38,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -3170,7 +3184,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -3291,7 +3305,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -3981,12 +3995,12 @@
             "siege-workshop"
           ],
           "icon": "https://data.aoe4world.com/images/units/springald-3.png",
-          "hitpoints": 75,
+          "hitpoints": 85,
           "weapons": [
             {
               "name": "Springald",
               "type": "ranged",
-              "damage": 15,
+              "damage": 16,
               "speed": 3.125,
               "range": {
                 "min": 0,

@@ -672,19 +672,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -699,7 +686,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -888,7 +902,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -1307,7 +1321,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,
@@ -2037,7 +2051,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -2158,7 +2172,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -2279,7 +2293,7 @@
         "siege-workshop"
       ],
       "icon": "https://data.aoe4world.com/images/units/ribauldequin-4.png",
-      "hitpoints": 225,
+      "hitpoints": 215,
       "weapons": [
         {
           "name": "Ribauldequin",
@@ -2311,7 +2325,7 @@
       "armor": [
         {
           "type": "melee",
-          "value": 15
+          "value": 10
         }
       ],
       "sight": {
@@ -2380,19 +2394,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -2407,7 +2408,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -2497,19 +2525,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 230,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -2524,12 +2539,39 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 215,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
                   ]
                 ]
               },
               "effect": "change",
               "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 35,
               "type": "passive"
             }
           ],
@@ -2924,7 +2966,7 @@
         "college-of-artillery"
       ],
       "icon": "https://data.aoe4world.com/images/units/royal-ribauldequin-4.png",
-      "hitpoints": 225,
+      "hitpoints": 215,
       "weapons": [
         {
           "name": "Ribauldequin",
@@ -2956,7 +2998,7 @@
       "armor": [
         {
           "type": "melee",
-          "value": 15
+          "value": 10
         }
       ],
       "sight": {
@@ -3627,12 +3669,12 @@
         "siege-workshop"
       ],
       "icon": "https://data.aoe4world.com/images/units/springald-3.png",
-      "hitpoints": 75,
+      "hitpoints": 85,
       "weapons": [
         {
           "name": "Springald",
           "type": "ranged",
-          "damage": 15,
+          "damage": 16,
           "speed": 3.125,
           "range": {
             "min": 0,

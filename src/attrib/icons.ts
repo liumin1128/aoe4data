@@ -5,7 +5,6 @@ import path from "path";
 import { constants } from "fs";
 
 export async function prepareIcon(icon: string, type: ITEM_TYPES, id: string) {
-
   if (!icon) {
     return [];
   }
@@ -32,7 +31,10 @@ export async function copyIcon(sourcePath, relativeIconPath, overwrite = false) 
     if (!sourcePath) {
       return undefined;
     }
-    const sourceExists = await fs.access(sourcePath).then(() => true).catch(() => false);
+    const sourceExists = await fs
+      .access(sourcePath)
+      .then(() => true)
+      .catch(() => false);
     if (sourceExists) {
       await fs.copyFile(sourcePath, iconPath, constants.COPYFILE_EXCL);
     } else {
@@ -57,7 +59,7 @@ export async function useIcon(icon: string, type: ITEM_TYPES, id: string, overwr
   const iconFolder = FOLDERS[type].IMG;
   const iconFile = `${id}.png`;
   const iconPath = path.join(iconFolder, iconFile);
-  const relativeIconPath = path.join(IMAGE_FOLDER, FOLDERS[type].SLUG, iconFile).replace(/\\/g, '/');
+  const relativeIconPath = path.join(IMAGE_FOLDER, FOLDERS[type].SLUG, iconFile).replace(/\\/g, "/");
   const sourcePath = path.join(ICON_FOLDER, `${icon}.png`);
 
   if (overwrite || !(await fs.stat(iconPath).catch(() => null))) {

@@ -585,19 +585,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 410,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -612,7 +599,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 375,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -693,7 +707,7 @@
         {
           "name": "Bow",
           "type": "ranged",
-          "damage": 12,
+          "damage": 11,
           "speed": 1.375,
           "range": {
             "min": 0,
@@ -712,7 +726,7 @@
                 ]
               },
               "effect": "change",
-              "value": 12,
+              "value": 11,
               "type": "passive"
             },
             {
@@ -727,7 +741,7 @@
                 ]
               },
               "effect": "change",
-              "value": 12,
+              "value": 11,
               "type": "passive"
             }
           ],
@@ -806,7 +820,7 @@
         {
           "name": "Bow",
           "type": "ranged",
-          "damage": 14,
+          "damage": 13,
           "speed": 1.375,
           "range": {
             "min": 0,
@@ -825,7 +839,7 @@
                 ]
               },
               "effect": "change",
-              "value": 14,
+              "value": 13,
               "type": "passive"
             },
             {
@@ -840,7 +854,7 @@
                 ]
               },
               "effect": "change",
-              "value": 14,
+              "value": 13,
               "type": "passive"
             }
           ],
@@ -919,7 +933,7 @@
         {
           "name": "Bow",
           "type": "ranged",
-          "damage": 15,
+          "damage": 14,
           "speed": 1.375,
           "range": {
             "min": 0,
@@ -938,7 +952,7 @@
                 ]
               },
               "effect": "change",
-              "value": 15,
+              "value": 14,
               "type": "passive"
             },
             {
@@ -953,7 +967,7 @@
                 ]
               },
               "effect": "change",
-              "value": 15,
+              "value": 14,
               "type": "passive"
             }
           ],
@@ -1773,7 +1787,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -1824,7 +1838,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -3204,7 +3218,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,
@@ -3980,8 +3994,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 115,
-        "total": 115,
+        "oliveoil": 120,
+        "total": 120,
         "popcap": 1,
         "time": 80
       },
@@ -4099,8 +4113,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 115,
-        "total": 115,
+        "oliveoil": 120,
+        "total": 120,
         "popcap": 1,
         "time": 80
       },
@@ -4218,8 +4232,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 115,
-        "total": 115,
+        "oliveoil": 120,
+        "total": 120,
         "popcap": 1,
         "time": 80
       },
@@ -5390,7 +5404,7 @@
       "civs": [
         "by"
       ],
-      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 450 Olive Oil.\n\nRequires the Western Mercenary Contract.",
+      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 470 Olive Oil.\n\nRequires the Western Mercenary Contract.",
       "classes": [
         "light",
         "ranged",
@@ -5406,8 +5420,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 90,
-        "total": 90,
+        "oliveoil": 94,
+        "total": 94,
         "popcap": 1,
         "time": 75
       },
@@ -5501,7 +5515,7 @@
       "civs": [
         "by"
       ],
-      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 450 Olive Oil.\n\nRequires the Western Mercenary Contract.",
+      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 470 Olive Oil.\n\nRequires the Western Mercenary Contract.",
       "classes": [
         "light",
         "ranged",
@@ -5517,8 +5531,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 90,
-        "total": 90,
+        "oliveoil": 94,
+        "total": 94,
         "popcap": 1,
         "time": 75
       },
@@ -5612,7 +5626,7 @@
       "civs": [
         "by"
       ],
-      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 450 Olive Oil.\n\nRequires the Western Mercenary Contract.",
+      "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen\n\nMercenary that can be purchased per 5 units for a total of 470 Olive Oil.\n\nRequires the Western Mercenary Contract.",
       "classes": [
         "light",
         "ranged",
@@ -5628,8 +5642,8 @@
         "stone": 0,
         "gold": 0,
         "vizier": 0,
-        "oliveoil": 90,
-        "total": 90,
+        "oliveoil": 94,
+        "total": 94,
         "popcap": 1,
         "time": 75
       },
@@ -5795,7 +5809,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -5916,7 +5930,7 @@
                 ]
               },
               "effect": "change",
-              "value": 8,
+              "value": 10,
               "type": "passive"
             }
           ],
@@ -6638,7 +6652,7 @@
           "speed": 6.5,
           "range": {
             "min": 3,
-            "max": 7
+            "max": 7.5
           },
           "modifiers": [
             {
@@ -6756,19 +6770,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -6783,7 +6784,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -7776,12 +7804,12 @@
         "siege-workshop"
       ],
       "icon": "https://data.aoe4world.com/images/units/springald-3.png",
-      "hitpoints": 75,
+      "hitpoints": 85,
       "weapons": [
         {
           "name": "Springald",
           "type": "ranged",
-          "damage": 15,
+          "damage": 16,
           "speed": 3.125,
           "range": {
             "min": 0,
@@ -7892,7 +7920,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,

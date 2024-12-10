@@ -98,8 +98,8 @@ async function buildTechTree(civ: CivConfig, context: RunContext = { debug: fals
       if (icon_url) {
         item.icon = icon_url;
       } else {
-         console.log(`undefined icon for ${file}`, item.icon);
-         item.icon = undefined;
+        console.log(`undefined icon for ${file}`, item.icon);
+        item.icon = undefined;
       }
     }
     item.icon_src = undefined;

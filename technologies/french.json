@@ -1267,13 +1267,13 @@
       ],
       "unique": false,
       "costs": {
-        "food": 500,
+        "food": 400,
         "wood": 0,
         "stone": 0,
-        "gold": 1000,
+        "gold": 800,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 1500,
+        "total": 1200,
         "popcap": 0,
         "time": 90
       },
@@ -3101,7 +3101,7 @@
       "civs": [
         "fr"
       ],
-      "description": "Fill the stables with the best stallions, increasing all cavalry health by +40%.",
+      "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
       "classes": [
         "cavalry",
         "technology"
@@ -3136,7 +3136,7 @@
             ]
           },
           "effect": "multiply",
-          "value": 1.4,
+          "value": 1.35,
           "type": "passive"
         }
       ]
@@ -3152,7 +3152,7 @@
       "civs": [
         "fr"
       ],
-      "description": "Fill the stables with the best stallions, increasing all cavalry health by +40%.",
+      "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
       "classes": [
         "cavalry",
         "technology"
@@ -3187,7 +3187,7 @@
             ]
           },
           "effect": "multiply",
-          "value": 1.4,
+          "value": 1.35,
           "type": "passive"
         }
       ]
@@ -3490,7 +3490,7 @@
       "civs": [
         "fr"
       ],
-      "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+      "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
       "classes": [
         "archer",
         "technology"

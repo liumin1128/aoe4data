@@ -1481,7 +1481,7 @@ workaround("Give capital town centers unique id and clear name", {
     item.costs = NO_COSTS;
     item.baseId = "capital-town-center";
     item.id = "capital-town-center-1";
-    item.icon = 'buildings/capital-town-center.png';
+    item.icon = "buildings/capital-town-center.png";
   },
 });
 

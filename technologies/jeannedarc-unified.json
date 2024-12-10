@@ -1918,13 +1918,13 @@
           ],
           "unique": false,
           "costs": {
-            "food": 500,
+            "food": 400,
             "wood": 0,
             "stone": 0,
-            "gold": 1000,
+            "gold": 800,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 1500,
+            "total": 1200,
             "popcap": 0,
             "time": 90
           },
@@ -3431,7 +3431,7 @@
       ],
       "minAge": 0,
       "icon": "https://data.aoe4world.com/images/abilities/ability-champion-companions-1.png",
-      "description": "Level 3 option\n\nJeanne's Champions become available to train at Keeps.\nGains \"To Arms, Men!\", which rallies 3 Champions to her side.\n\nRequires 500XP",
+      "description": "Level 3 option\n\nJeanne's Champions become available to train at Barracks.\nGains \"To Arms, Men!\", which rallies 3 Champions to her side.\n\nRequires 500XP",
       "variations": [
         {
           "id": "level-3-champion-companions-0",
@@ -3444,7 +3444,7 @@
           "civs": [
             "je"
           ],
-          "description": "Level 3 option\n\nJeanne's Champions become available to train at Keeps.\nGains \"To Arms, Men!\", which rallies 3 Champions to her side.\n\nRequires 500XP",
+          "description": "Level 3 option\n\nJeanne's Champions become available to train at Barracks.\nGains \"To Arms, Men!\", which rallies 3 Champions to her side.\n\nRequires 500XP",
           "classes": [
             "hero",
             "level-up-choice"
@@ -3486,7 +3486,7 @@
       ],
       "minAge": 0,
       "icon": "https://data.aoe4world.com/images/abilities/ability-rider-companions-1.png",
-      "description": "Level 3 option\n\nJeanne's Riders become available to train at Keeps.\nGains \"Riders, Ready!\", which rallies 3 Riders to her side.\n\nRequires 500XP",
+      "description": "Level 3 option\n\nJeanne's Riders become available to train at Stables.\nGains \"Riders, Ready!\", which rallies 3 Riders to her side.\n\nRequires 500XP",
       "variations": [
         {
           "id": "level-3-rider-companions-0",
@@ -3499,7 +3499,7 @@
           "civs": [
             "je"
           ],
-          "description": "Level 3 option\n\nJeanne's Riders become available to train at Keeps.\nGains \"Riders, Ready!\", which rallies 3 Riders to her side.\n\nRequires 500XP",
+          "description": "Level 3 option\n\nJeanne's Riders become available to train at Stables.\nGains \"Riders, Ready!\", which rallies 3 Riders to her side.\n\nRequires 500XP",
           "classes": [
             "hero",
             "level-up-choice"
@@ -4668,7 +4668,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/royal-bloodlines-3.png",
-      "description": "Fill the stables with the best stallions, increasing all cavalry health by +40%.",
+      "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
       "variations": [
         {
           "id": "royal-bloodlines-3",
@@ -4681,7 +4681,7 @@
           "civs": [
             "je"
           ],
-          "description": "Fill the stables with the best stallions, increasing all cavalry health by +40%.",
+          "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
           "classes": [
             "cavalry",
             "technology"
@@ -4716,7 +4716,7 @@
                 ]
               },
               "effect": "multiply",
-              "value": 1.4,
+              "value": 1.35,
               "type": "passive"
             }
           ]
@@ -4732,7 +4732,7 @@
           "civs": [
             "je"
           ],
-          "description": "Fill the stables with the best stallions, increasing all cavalry health by +40%.",
+          "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
           "classes": [
             "cavalry",
             "technology"
@@ -4767,7 +4767,7 @@
                 ]
               },
               "effect": "multiply",
-              "value": 1.4,
+              "value": 1.35,
               "type": "passive"
             }
           ]
@@ -5186,7 +5186,7 @@
       ],
       "minAge": 4,
       "icon": "https://data.aoe4world.com/images/technologies/silk-bowstrings-4.png",
-      "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+      "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
       "variations": [
         {
           "id": "silk-bowstrings-4",
@@ -5199,7 +5199,7 @@
           "civs": [
             "je"
           ],
-          "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+          "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
           "classes": [
             "archer",
             "technology"

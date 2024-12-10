@@ -74,19 +74,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -101,7 +88,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -191,19 +205,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 500,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -218,7 +219,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 450,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 55,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },

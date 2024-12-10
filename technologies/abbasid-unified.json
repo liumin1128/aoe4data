@@ -627,7 +627,7 @@
       ],
       "minAge": 4,
       "icon": "https://data.aoe4world.com/images/technologies/biology-4.png",
-      "description": "Investing in natural sciences increases the health of all cavalry by +30%.",
+      "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
       "variations": [
         {
           "id": "biology-4",
@@ -640,7 +640,7 @@
           "civs": [
             "ab"
           ],
-          "description": "Investing in natural sciences increases the health of all cavalry by +30%.",
+          "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
           "classes": [
             "lancer",
             "technology"
@@ -675,7 +675,7 @@
                 ]
               },
               "effect": "multiply",
-              "value": 1.3,
+              "value": 1.25,
               "type": "passive"
             }
           ]
@@ -2199,13 +2199,13 @@
           ],
           "unique": false,
           "costs": {
-            "food": 500,
+            "food": 400,
             "wood": 0,
             "stone": 0,
-            "gold": 1000,
+            "gold": 800,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 1500,
+            "total": 1200,
             "popcap": 0,
             "time": 90
           },
@@ -2494,7 +2494,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/fertile-crescent-2.png",
-      "description": "Reduce the cost of Economy buildings and Houses by 35%.",
+      "description": "Reduce the cost of Economy buildings and Houses by 30%.",
       "variations": [
         {
           "id": "fertile-crescent-2",
@@ -2507,7 +2507,7 @@
           "civs": [
             "ab"
           ],
-          "description": "Reduce the cost of Economy buildings and Houses by 35%.",
+          "description": "Reduce the cost of Economy buildings and Houses by 30%.",
           "classes": [
             "economic",
             "technology"
@@ -2544,7 +2544,7 @@
                 ]
               },
               "effect": "multiply",
-              "value": 0.65,
+              "value": 0.7,
               "type": "passive"
             }
           ]
@@ -5385,7 +5385,7 @@
       ],
       "minAge": 4,
       "icon": "https://data.aoe4world.com/images/technologies/silk-bowstrings-4.png",
-      "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+      "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
       "variations": [
         {
           "id": "silk-bowstrings-4",
@@ -5398,7 +5398,7 @@
           "civs": [
             "ab"
           ],
-          "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+          "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
           "classes": [
             "archer",
             "technology"

@@ -578,19 +578,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 410,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -605,7 +592,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 375,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -792,19 +806,6 @@
               "target": {
                 "class": [
                   [
-                    "building"
-                  ]
-                ]
-              },
-              "effect": "change",
-              "value": 410,
-              "type": "passive"
-            },
-            {
-              "property": "siegeAttack",
-              "target": {
-                "class": [
-                  [
                     "naval",
                     "unit"
                   ]
@@ -819,7 +820,34 @@
               "target": {
                 "class": [
                   [
+                    "building"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 375,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
                     "infantry"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 50,
+              "type": "passive"
+            },
+            {
+              "property": "siegeAttack",
+              "target": {
+                "class": [
+                  [
+                    "war",
+                    "elephant"
                   ]
                 ]
               },
@@ -912,7 +940,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -1003,7 +1031,7 @@
           "speed": 6.5,
           "range": {
             "min": 3,
-            "max": 7
+            "max": 7.5
           },
           "modifiers": [
             {
@@ -1099,12 +1127,12 @@
         "astronomical-clocktower"
       ],
       "icon": "https://data.aoe4world.com/images/units/clocktower-springald-3.png",
-      "hitpoints": 112,
+      "hitpoints": 128,
       "weapons": [
         {
           "name": "Springald",
           "type": "ranged",
-          "damage": 15,
+          "damage": 16,
           "speed": 3.125,
           "range": {
             "min": 0,
@@ -1229,7 +1257,7 @@
                 ]
               },
               "effect": "change",
-              "value": 375,
+              "value": 350,
               "type": "passive"
             },
             {
@@ -1932,13 +1960,12 @@
       ],
       "description": "Advanced ranged infantry with thrown explosive canisters that deal damage in a small area.\n+ Deals area damage\n- Low single target damage\n- Slow movement speed",
       "classes": [
-        "light",
         "ranged",
         "gunpowder",
         "infantry"
       ],
       "displayClasses": [
-        "Light Ranged Gunpowder Infantry"
+        "Ranged Gunpowder Infantry"
       ],
       "unique": true,
       "costs": {
@@ -2051,7 +2078,7 @@
         {
           "name": "Handcannon",
           "type": "ranged",
-          "damage": 35,
+          "damage": 38,
           "speed": 2.125,
           "range": {
             "min": 0,
@@ -2940,7 +2967,7 @@
           "speed": 6.5,
           "range": {
             "min": 3,
-            "max": 7
+            "max": 7.5
           },
           "modifiers": [
             {
@@ -3874,12 +3901,12 @@
         "siege-workshop"
       ],
       "icon": "https://data.aoe4world.com/images/units/springald-3.png",
-      "hitpoints": 75,
+      "hitpoints": 85,
       "weapons": [
         {
           "name": "Springald",
           "type": "ranged",
-          "damage": 15,
+          "damage": 16,
           "speed": 3.125,
           "range": {
             "min": 0,

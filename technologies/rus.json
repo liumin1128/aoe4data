@@ -458,7 +458,7 @@
       "civs": [
         "ru"
       ],
-      "description": "Investing in natural sciences increases the health of all cavalry by +30%.",
+      "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
       "classes": [
         "lancer",
         "technology"
@@ -493,7 +493,7 @@
             ]
           },
           "effect": "multiply",
-          "value": 1.3,
+          "value": 1.25,
           "type": "passive"
         }
       ]
@@ -1356,13 +1356,13 @@
       ],
       "unique": false,
       "costs": {
-        "food": 500,
+        "food": 400,
         "wood": 0,
         "stone": 0,
-        "gold": 1000,
+        "gold": 800,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 1500,
+        "total": 1200,
         "popcap": 0,
         "time": 90
       },
@@ -1711,7 +1711,7 @@
       "civs": [
         "ru"
       ],
-      "description": "Increase damage of Bombards by +20%. Bombards gain +50% damage vs Infantry.",
+      "description": "Increase damage of Bombards by +20%. Bombards gain +50 damage vs Infantry.",
       "classes": [
         "bombard",
         "technology"
@@ -3546,7 +3546,7 @@
       "civs": [
         "ru"
       ],
-      "description": "Stringing bows with silk grants Archers +2 range and Mounted Archers +1 range.",
+      "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
       "classes": [
         "archer",
         "technology"

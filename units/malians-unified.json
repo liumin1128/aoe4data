@@ -706,19 +706,6 @@
                   "target": {
                     "class": [
                       [
-                        "building"
-                      ]
-                    ]
-                  },
-                  "effect": "change",
-                  "value": 410,
-                  "type": "passive"
-                },
-                {
-                  "property": "siegeAttack",
-                  "target": {
-                    "class": [
-                      [
                         "naval",
                         "unit"
                       ]
@@ -733,7 +720,34 @@
                   "target": {
                     "class": [
                       [
+                        "building"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 375,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
                         "infantry"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 50,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "war",
+                        "elephant"
                       ]
                     ]
                   },
@@ -846,7 +860,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 375,
+                  "value": 350,
                   "type": "passive"
                 },
                 {
@@ -1750,7 +1764,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-3.png",
-      "description": "Fast melee unit with high ranged armour and bonus against ranged.\n+ Strong against ranged units\n-weak against armoured melee units",
+      "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against armored melee units",
       "variations": [
         {
           "id": "freeborn-warrior-3",
@@ -1763,7 +1777,7 @@
           "civs": [
             "ma"
           ],
-          "description": "Fast melee unit with high ranged armour and bonus against ranged.\n+ Strong against ranged units\n-weak against armoured melee units",
+          "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against armored melee units",
           "classes": [
             "melee",
             "infantry"
@@ -1788,7 +1802,7 @@
             "farimba-garrison"
           ],
           "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-3.png",
-          "hitpoints": 165,
+          "hitpoints": 175,
           "weapons": [
             {
               "name": "Khanda",
@@ -1881,7 +1895,7 @@
           "civs": [
             "ma"
           ],
-          "description": "Fast melee unit with high ranged armour and bonus against ranged.\n+ Strong against ranged units\n-weak against armoured melee units",
+          "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against armored melee units",
           "classes": [
             "melee",
             "infantry"
@@ -1906,7 +1920,7 @@
             "farimba-garrison"
           ],
           "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-4.png",
-          "hitpoints": 190,
+          "hitpoints": 205,
           "weapons": [
             {
               "name": "Khanda",
@@ -2680,7 +2694,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -2801,7 +2815,7 @@
                     ]
                   },
                   "effect": "change",
-                  "value": 8,
+                  "value": 10,
                   "type": "passive"
                 }
               ],
@@ -3657,7 +3671,7 @@
             {
               "name": "Handcannon",
               "type": "ranged",
-              "damage": 38,
+              "damage": 41,
               "speed": 2.125,
               "range": {
                 "min": 0,
@@ -4708,12 +4722,12 @@
             "siege-workshop"
           ],
           "icon": "https://data.aoe4world.com/images/units/springald-3.png",
-          "hitpoints": 75,
+          "hitpoints": 85,
           "weapons": [
             {
               "name": "Springald",
               "type": "ranged",
-              "damage": 15,
+              "damage": 16,
               "speed": 3.125,
               "range": {
                 "min": 0,

@@ -78,7 +78,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
         ebpExts?.population_ext?.personnel_pop
       );
 
-    const icon_name = isBuff ? ui_ext.icon?.slice(6) : (ui_ext.icon_name ?? ui_ext.icon);
+    const icon_name = isBuff ? ui_ext.icon?.slice(6) : ui_ext.icon_name ?? ui_ext.icon;
     const [icon_src, icon] = await prepareIcon(icon_name, type, id);
     if (!icon) console.log(`undefined icon for ${file}`, ui_ext.icon_name ?? ui_ext.icon);
 
@@ -330,15 +330,10 @@ function parseAge(name: string, requirements: any, parent_pbg: string) {
 }
 
 function parseSight(sight_ext: any) {
-  const {
-    inner_height = 0,
-    inner_radius = 0,
-    outer_height = 0,
-    outer_radius = 0
-  } = sight_ext?.sight_package || {};
+  const { inner_height = 0, inner_radius = 0, outer_height = 0, outer_radius = 0 } = sight_ext?.sight_package || {};
   // It's a cone and outer_height is negative (which leads to units seeing further from elevation)
   // Calculate the radius at 0 height
-  const base = outer_height === inner_height ? outer_radius : (outer_radius - outer_height * (inner_radius - outer_radius) / (inner_height - outer_height));
+  const base = outer_height === inner_height ? outer_radius : outer_radius - (outer_height * (inner_radius - outer_radius)) / (inner_height - outer_height);
   return {
     inner_height,
     inner_radius,
