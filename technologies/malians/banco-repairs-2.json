@@ -3,6 +3,7 @@
   "baseId": "banco-repairs",
   "type": "technology",
   "name": "Banco Repairs",
+  "nameCN": "堤岸修复",
   "pbgid": 2064216,
   "attribName": "upgrade_banco_repairs_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Buildings are repaired +50% faster.",
+  "descriptionCN": "建筑修理速度 +50%。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

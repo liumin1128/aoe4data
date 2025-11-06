@@ -3,6 +3,7 @@
   "baseId": "condottiero",
   "type": "unit",
   "name": "Condottiero",
+  "nameCN": "意大利佣兵",
   "pbgid": 8999910,
   "attribName": "unit_condottiero_4_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Fast Heavy Infantry that deals more and takes less damage from Gunpowder units.\n+ High damage\n+ Moves quickly\n- High Gold cost",
+  "descriptionCN": "移动迅速的重型步兵，能对火药单位造成更多伤害，且受到火药单位的伤害更低。\n+ 高伤害\n+ 移动速度快\n- 黄金花费高",
   "classes": [
     "annihilation_condition",
     "commanderie_unit",

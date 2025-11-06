@@ -3,6 +3,7 @@
   "baseId": "military-tactics-training",
   "type": "technology",
   "name": "Military Tactics Training",
+  "nameCN": "军事战术训练",
   "pbgid": 5000167,
   "attribName": "upgrade_militarytactics_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Advanced Military Tactics increase your troops' overall effectiveness in battle, improving their bonus damage by +20%.",
+  "descriptionCN": "高级军事战术可以提高部队在战斗中的整体作战能力，使其加成伤害 +20%。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "elite-mangudai",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 130357,
   "attribName": "upgrade_unit_horsearcher_4_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Upgrade Veteran Mangudai to Elite Mangudai.",
+  "descriptionCN": "将老练蒙古突骑升级为精锐蒙古突骑。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "longbowman",
   "type": "unit",
   "name": "Elite Longbowman",
+  "nameCN": "精锐长弓兵",
   "pbgid": 166391,
   "attribName": "unit_archer_4_eng",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Cheap long-ranged infantry with good damage vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen",
+  "descriptionCN": "便宜的远程步兵，能对没有护甲的目标造成可观伤害。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "archer",

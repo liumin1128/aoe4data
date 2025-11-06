@@ -3,6 +3,7 @@
   "baseId": "horseman",
   "type": "unit",
   "name": "Horseman",
+  "nameCN": "骑手",
   "pbgid": 9001012,
   "attribName": "unit_horseman_2_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+  "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
   "classes": [
     "annihilation_condition",
     "cavalry",

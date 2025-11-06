@@ -3,6 +3,7 @@
   "baseId": "level-4-gunpowder-monarch",
   "type": "technology",
   "name": "Gunpowder Monarch",
+  "nameCN": "火药君主",
   "pbgid": 2127603,
   "attribName": "jeanne_d_arc_journey_of_a_hero_gunpowder_monarch_fre_ha_01",
   "age": 0,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Level 4 option\n\nJeanne's Rally Call ability will now call 3 of her chosen companions and a powerful Cannon onto the Battlefield.\nGains the Valorous Inspiration ultimate ability, which greatly increases the attack speed of nearby allies.\n\nRequires 500XP",
+  "descriptionCN": "贞德的号召能力现可在战场上召唤她选择的 3 位同伴和一门威力巨大的加农炮。\n获得勇气鼓舞终极能力，可以大幅提升附近盟友的攻击速度。",
   "classes": [
     "hero",
     "level-up-choice"

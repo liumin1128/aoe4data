@@ -3,6 +3,7 @@
   "baseId": "istanbul-imperial-palace",
   "type": "building",
   "name": "Istanbul Imperial Palace",
+  "nameCN": "伊斯坦布尔皇宫",
   "pbgid": 2055470,
   "attribName": "building_landmark_age2_topkapi_palace_ott",
   "age": 2,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Double the Imperial Council experience around the Landmark and increase the Vizier Point limit by +3.",
+  "descriptionCN": "在地标附近会获得双倍帝国议会经验，并且维齐尔点数上限 +3。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

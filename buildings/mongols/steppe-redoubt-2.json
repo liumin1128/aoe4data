@@ -3,6 +3,7 @@
   "baseId": "steppe-redoubt",
   "type": "building",
   "name": "Steppe Redoubt",
+  "nameCN": "草原防卫据点",
   "pbgid": 136386,
   "attribName": "building_wonder_age2_khara_khoto_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Acts as a Ger. Gold dropped off at this Landmark is increased by +50%.",
+  "descriptionCN": "可作为蒙古包使用。在此地标存放黄金时，获得的黄金 +50%。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

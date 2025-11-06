@@ -3,6 +3,7 @@
   "baseId": "university",
   "type": "building",
   "name": "University",
+  "nameCN": "大学",
   "pbgid": 6753306,
   "attribName": "building_tech_university_jpn_ha_sen",
   "age": 4,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Houses advanced technology that benefit the civilization.",
+  "descriptionCN": "可研究对整个文明有益的先进科技。",
   "classes": [
     "building",
     "research_building",

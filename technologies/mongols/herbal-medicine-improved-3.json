@@ -3,6 +3,7 @@
   "baseId": "herbal-medicine-improved",
   "type": "technology",
   "name": "Herbal Medicine (Improved)",
+  "nameCN": "草药 (已强化)",
   "pbgid": 173459,
   "attribName": "upgrade_unit_religious_herbal_medicine_4_improved_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase the healing rate of religious units by +90%.\nIf Herbal Medicine has already been researched, increase it by +30% instead.",
+  "descriptionCN": "宗教单位的治疗速率 +90%。\n如果已完成草药研究，则 +30%。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

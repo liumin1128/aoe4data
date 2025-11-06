@@ -3,6 +3,7 @@
   "baseId": "brigandine",
   "type": "technology",
   "name": "Brigandine",
+  "nameCN": "布面甲",
   "pbgid": 9001328,
   "attribName": "upgrade_brigandine_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Common soldiers are equipped with more resistant armor. Light cavalry gain +2 armor.",
+  "descriptionCN": "普通士兵配备了更耐用的护甲。轻装骑兵获得 +2 护甲。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

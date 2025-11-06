@@ -3,6 +3,7 @@
   "baseId": "stone-wall",
   "type": "building",
   "name": "Stone Wall",
+  "nameCN": "石墙",
   "pbgid": 2784311,
   "attribName": "building_defense_wall_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+  "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
   "classes": [
     "building",
     "defensive_structure",

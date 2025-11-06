@@ -3,6 +3,7 @@
   "baseId": "ability-artillery-shot",
   "type": "ability",
   "name": "Artillery Shot",
+  "nameCN": "火炮射击",
   "pbgid": 2122116,
   "attribName": "cannon_swap_fre",
   "age": 1,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Loads this Cannon with an Artillery Shot that has an increased range of 5 tiles and 30% more damage.\nCan only target buildings.",
+  "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
   "classes": [],
   "displayClasses": [],
   "costs": {

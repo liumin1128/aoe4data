@@ -3,6 +3,7 @@
   "baseId": "pyrotechnics",
   "type": "technology",
   "name": "Pyrotechnics",
+  "nameCN": "火工技术",
   "pbgid": 216750,
   "attribName": "upgrade_gunpowder_damage_chi",
   "age": 4,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Increase the range of Handcannons by +1.5.",
+  "descriptionCN": "手铳的攻击范围 +1.5。",
   "classes": [
     "chinese_upgrade",
     "scar_imperial_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "veteran-yeomen",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 5000158,
   "attribName": "upgrade_unit_yeoman_3_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Upgrade Yeomen to Veteran Yeomen.",
+  "descriptionCN": "将英皇侍卫升级为老练英皇侍卫。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

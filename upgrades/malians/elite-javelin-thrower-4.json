@@ -3,6 +3,7 @@
   "baseId": "elite-javelin-thrower",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 2062113,
   "attribName": "upgrade_unit_javelin_4_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Upgrades Veteran Javelin Thrower to Elite Javelin Thrower",
+  "descriptionCN": "将老练掷枪兵升级为精锐掷枪兵",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

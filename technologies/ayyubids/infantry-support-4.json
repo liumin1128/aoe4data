@@ -3,6 +3,7 @@
   "baseId": "infantry-support",
   "type": "technology",
   "name": "Infantry Support",
+  "nameCN": "步兵支援",
   "pbgid": 2133427,
   "attribName": "upgrade_mil_infantry_support_abb_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Infantry increase the armor of nearby camels by 3.",
+  "descriptionCN": "步兵会使附近骆驼的护甲增加 3。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "scar_imperial_age_upgrade",

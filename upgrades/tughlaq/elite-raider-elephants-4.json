@@ -3,6 +3,7 @@
   "baseId": "elite-raider-elephants",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 9001285,
   "attribName": "upgrade_unit_war_elephant_raider_4_sul_ha_tug",
   "age": 4,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Upgrade Veteran Raider Elephants to Elite Raider Elephants",
+  "descriptionCN": "将老练突袭大象升级为精锐突袭大象",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

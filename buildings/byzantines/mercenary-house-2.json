@@ -3,6 +3,7 @@
   "baseId": "mercenary-house",
   "type": "building",
   "name": "Mercenary House",
+  "nameCN": "雇佣兵之家",
   "pbgid": 2104751,
   "attribName": "building_unit_mercenary_house_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Produces Mercenary units for Olive Oil after purchasing a Mercenary Contract. One contract can be purchased.\nUnlock another set of Mercenaries with +50% production speed by placing this building near a Trade Post.",
+  "descriptionCN": "购买了雇佣合同后，可生产采集橄榄油的雇佣兵单位。每个玩家只能购买一份合同。\n此外，将该建筑物放置在贸易站附近，还可以解锁另一组雇佣兵，使其生产速度提高 +50%。",
   "classes": [
     "building",
     "merc_house",

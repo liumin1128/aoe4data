@@ -3,6 +3,7 @@
   "baseId": "cannon-emplacement",
   "type": "technology",
   "name": "Cannon Emplacement",
+  "nameCN": "加农炮炮台",
   "pbgid": 186400,
   "attribName": "upgrade_outpost_cannon_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Add a defensive cannon emplacement to this structure. Only one weapon emplacement can be added.",
+  "descriptionCN": "为此建筑添加一座防御型加农炮炮台。只能添加一座武器炮台。",
   "classes": [
     "emplacement_upgrade",
     "military_upgrade",

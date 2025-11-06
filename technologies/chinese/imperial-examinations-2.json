@@ -3,6 +3,7 @@
   "baseId": "imperial-examinations",
   "type": "technology",
   "name": "Imperial Examinations",
+  "nameCN": "科举制",
   "pbgid": 182886,
   "attribName": "upgrade_imperial_examinations_chi",
   "age": 2,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Increase the maximum amount of Gold carried by Imperial Officials from +40 to +70.",
+  "descriptionCN": "将朝廷命官的最大携带黄金数量从 +40 提升至 +70。",
   "classes": [
     "chinese_upgrade",
     "economic_upgrade",

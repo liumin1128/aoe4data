@@ -3,6 +3,7 @@
   "baseId": "elite-atgeirmadr",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 9003586,
   "attribName": "upgrade_unit_spearman_4_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Upgrade Veteran Atgeirmaðr to Elite Atgeirmaðr.",
+  "descriptionCN": "将老练阿特盖尔升级到精锐阿特盖尔。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

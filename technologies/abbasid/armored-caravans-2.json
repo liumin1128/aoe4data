@@ -3,6 +3,7 @@
   "baseId": "armored-caravans",
   "type": "technology",
   "name": "Armored Caravans",
+  "nameCN": "装甲商队",
   "pbgid": 201746,
   "attribName": "upgrade_trade_trader_armor_abb",
   "age": 2,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Grant +3 armor to Traders and Trade Ships.",
+  "descriptionCN": "商人和商船护甲 +3。",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",

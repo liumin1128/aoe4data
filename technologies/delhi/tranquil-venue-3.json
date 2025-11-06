@@ -3,6 +3,7 @@
   "baseId": "tranquil-venue",
   "type": "technology",
   "name": "Tranquil Venue",
+  "nameCN": "宁静之地",
   "pbgid": 200091,
   "attribName": "upgrade_landmark_mosque_heal_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Mosques restore +4 health every second to units that are out of combat.",
+  "descriptionCN": "清真寺可以使脱离战斗的单位每秒回复 +4 生命值。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

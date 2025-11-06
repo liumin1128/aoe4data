@@ -3,6 +3,7 @@
   "baseId": "tanegashima-tate",
   "type": "technology",
   "name": "Tanegashima Tate",
+  "nameCN": "火绳枪盾",
   "pbgid": 9002010,
   "attribName": "upgrade_tanegashima_pavise_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Tanegashima Ashigaru will automatically deploy a standing shield if not moving that increases weapon range by +2 tiles and ranged armor by +2.",
+  "descriptionCN": "火绳枪足轻若不移动，将会自动部署一道站立的盾，可使武器攻击范围 +2 格，远程护甲 +2。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

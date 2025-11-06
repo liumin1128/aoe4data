@@ -3,6 +3,7 @@
   "baseId": "trader",
   "type": "unit",
   "name": "Trader",
+  "nameCN": "商人",
   "pbgid": 2046466,
   "attribName": "unit_trade_cart_ott",
   "age": 2,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+  "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
   "classes": [
     "annihilation_condition",
     "human",

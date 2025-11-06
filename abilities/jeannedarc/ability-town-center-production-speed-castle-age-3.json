@@ -3,6 +3,7 @@
   "baseId": "ability-town-center-production-speed-castle-age",
   "type": "ability",
   "name": "Castle Age Town Center Production Speed",
+  "nameCN": "封地",
   "pbgid": 187280,
   "attribName": "town_center_production_age3_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Town Center production and research speed increased by 20%.",
+  "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "cataphract",
   "type": "unit",
   "name": "Cataphract",
+  "nameCN": "甲胄骑兵",
   "pbgid": 6027069,
   "attribName": "unit_knight_3_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Expensive cavalry with high damage and a powerful Trample ability that charges through enemies.\n+ Heavy armor\n+ Trample deals area damage\n- No base charge attack\n- Slower move speed\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "成本高昂的骑兵，伤害较高，还具备强大的践踏能力，可以冲锋穿过敌人。\n+ 重型护甲\n+ 践踏可造成范围伤害\n- 不具备基础冲锋攻击能力\n- 移动速度较慢\n- 会受到长矛兵及弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

@@ -3,6 +3,7 @@
   "baseId": "ability-production-speed-edict",
   "type": "ability",
   "name": "Production Speed Edict",
+  "nameCN": "生产速度法令",
   "pbgid": 9003680,
   "attribName": "toggle_khan_edict_1_mon_ha_gol",
   "age": 1,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +50%.\nOnly one edict can be active.",
+  "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
   "classes": [],
   "displayClasses": [],
   "costs": {

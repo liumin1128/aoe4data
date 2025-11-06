@@ -3,6 +3,7 @@
   "baseId": "compound-of-the-defender",
   "type": "building",
   "name": "Compound of the Defender",
+  "nameCN": "守护者大院",
   "pbgid": 4058758,
   "attribName": "building_landmark_age2_siri_fort_control_sul_ha_tug",
   "age": 2,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Reduces Stone cost of buildings by 20%.\nUnlocks an additional upgrade to each Tughlaqabad Fort which further enhances health and Governor benefits.",
+  "descriptionCN": "建筑的石材消耗减少 20%。\n为每座腾格拉卡巴德堡垒额外解锁一项升级，进一步提升其生命值和总督增益效果。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

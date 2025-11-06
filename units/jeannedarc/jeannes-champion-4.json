@@ -3,6 +3,7 @@
   "baseId": "jeannes-champion",
   "type": "unit",
   "name": "Jeanne's Elite Champion",
+  "nameCN": "贞德的精锐冠军剑士",
   "pbgid": 2143629,
   "attribName": "unit_rally_manatarms_4_fre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Tough infantry that excels at countering Spearmen.\n+ High armor\n+ Bonus damage against Spearmen\n- Slow move speed\n- Countered by Knights, Lancers, and Crossbowmen\n\nUpgrades to Elite when Jeanne reaches level 4.",
+  "descriptionCN": "强悍的步兵，擅长反制长矛兵。\n+ 高护甲\n+ 对长矛兵可造成额外伤害\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

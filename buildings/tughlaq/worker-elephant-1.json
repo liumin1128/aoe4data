@@ -3,6 +3,7 @@
   "baseId": "worker-elephant",
   "type": "building",
   "name": "Worker Elephant",
+  "nameCN": "工作大象",
   "pbgid": 9005002,
   "attribName": "building_dummy_worker_elephant_sul_ha_tug",
   "age": 1,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Send a new Worker Elephant from the nearest Town Center or Tughlaqabad Fort to the targeted location. \nVillagers automatically gather resources once they reach the location.",
+  "descriptionCN": "将新的工作大象从最近的城镇中心或腾格拉卡巴德堡垒送到目标地点。\n村民到达该地点后，他们会自动采集资源。",
   "classes": [
     "building",
     "economy_building",

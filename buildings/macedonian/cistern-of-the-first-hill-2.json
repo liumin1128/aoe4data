@@ -3,6 +3,7 @@
   "baseId": "cistern-of-the-first-hill",
   "type": "building",
   "name": "Cistern of the First Hill",
+  "nameCN": "地下水宫",
   "pbgid": 9000938,
   "attribName": "building_landmark_age2_cistern_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Charges an ability used for boosting the work rate of military and research buildings. If used on a Mining Camp, Lumber Camp, or Farm, begin earning 160 Gold, Wood, or Food over 60 seconds.\nHolds 9 charges.",
+  "descriptionCN": "充能一项用于提升军事和研究建筑工作速率的能力。如果是对采矿场、伐木场或农田使用，则开始赚取 160 黄金、木材或食物，持续 60 秒。\n保持 9 充能。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

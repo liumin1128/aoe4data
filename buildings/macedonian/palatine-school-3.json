@@ -3,6 +3,7 @@
   "baseId": "palatine-school",
   "type": "building",
   "name": "Palatine School",
+  "nameCN": "贵族学校",
   "pbgid": 9000941,
   "attribName": "building_landmark_age3_western_merc_house_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Elite Cataphracts can be rapidly produced in batches at this Landmark for Silver.",
+  "descriptionCN": "可在此地标花费白银快速批量生产精锐甲胄骑兵。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

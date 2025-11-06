@@ -3,6 +3,7 @@
   "baseId": "springald-emplacement",
   "type": "technology",
   "name": "Springald Emplacement",
+  "nameCN": "扭力弩炮炮台",
   "pbgid": 127371,
   "attribName": "upgrade_keep_springald",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Add a defensive springald emplacement to this structure.",
+  "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

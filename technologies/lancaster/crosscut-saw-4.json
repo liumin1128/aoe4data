@@ -3,6 +3,7 @@
   "baseId": "crosscut-saw",
   "type": "technology",
   "name": "Crosscut Saw",
+  "nameCN": "横切锯",
   "pbgid": 171837,
   "attribName": "upgrade_econ_resource_wood_harvest_rate_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Increase Villagers' gathering rate for Wood by 15% and Wood gatherers carry capacity by +5.",
+  "descriptionCN": "村民的木材采集速率 +15%，木材采集者运载量 +5。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

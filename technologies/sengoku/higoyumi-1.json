@@ -3,6 +3,7 @@
   "baseId": "higoyumi",
   "type": "technology",
   "name": "Higoyumi",
+  "nameCN": "肥后弓",
   "pbgid": 9001755,
   "attribName": "upgrade_yumi_damage_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Grants +1 damage to Yumi Ashigaru.",
+  "descriptionCN": "使日本长弓足轻的伤害 +1。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

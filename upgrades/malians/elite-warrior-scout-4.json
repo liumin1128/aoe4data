@@ -3,6 +3,7 @@
   "baseId": "elite-warrior-scout",
   "type": "upgrade",
   "name": "Elite Warrior Scout",
+  "nameCN": "精锐战士侦察兵",
   "pbgid": 2073305,
   "attribName": "upgrade_unit_scout_mal_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Upgrade Veteran Warrior Scout to Elite Warrior Scout",
+  "descriptionCN": "将老练战士侦察兵升级为精锐战士侦察兵",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

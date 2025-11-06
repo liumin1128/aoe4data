@@ -3,6 +3,7 @@
   "baseId": "stone-wall-tower",
   "type": "building",
   "name": "Stone Wall Tower",
+  "nameCN": "石墙塔",
   "pbgid": 144657,
   "attribName": "building_defense_tower_chi",
   "age": 2,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+  "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
   "classes": [
     "building",
     "defensive_structure",

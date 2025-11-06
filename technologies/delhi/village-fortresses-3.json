@@ -3,6 +3,7 @@
   "baseId": "village-fortresses",
   "type": "technology",
   "name": "Village Fortresses",
+  "nameCN": "村庄要塞",
   "pbgid": 200170,
   "attribName": "upgrade_age2_keep_town_center_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Keeps act like Town Centers, including unit production, population capacity, and technology.",
+  "descriptionCN": "城堡的作用如同城镇中心，包括单位生产、人口容量及科技。",
   "classes": [
     "sultinate_upgrade"
   ],

@@ -3,6 +3,7 @@
   "baseId": "ability-journey-of-a-hero",
   "type": "ability",
   "name": "Journey of a Hero",
+  "nameCN": "英雄之旅",
   "pbgid": 2127657,
   "attribName": "jeanne_d_arc_experience_gain_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Jeanne generates experience for completing tasks such as gathering resources, constructing buildings, hunting boar, capturing Sacred Sites, and participating in combat. Jeanne also gains a small trickle of experience over time.\nAfter earning sufficient experience Jeanne can level up, becoming more powerful and gaining access to unique abilities.",
+  "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
   "classes": [],
   "displayClasses": [],
   "costs": {

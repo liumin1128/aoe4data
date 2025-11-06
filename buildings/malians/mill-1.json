@@ -3,6 +3,7 @@
   "baseId": "mill",
   "type": "building",
   "name": "Mill",
+  "nameCN": "磨坊",
   "pbgid": 2610685,
   "attribName": "building_econ_food_mal",
   "age": 1,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nProduce Cattle which can be harvested for Food by Villagers or garrisoned within Cattle Ranches for Food over time.",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。\n村民可以收获这些牛作为食物，或者将牛放置在养牛场，牛会随着时间的推移生产食物。",
   "classes": [
     "building",
     "economy_building",

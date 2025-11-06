@@ -3,6 +3,7 @@
   "baseId": "barracks",
   "type": "building",
   "name": "Barracks",
+  "nameCN": "兵营",
   "pbgid": 134874,
   "attribName": "building_unit_infantry_control_hre",
   "age": 1,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Produces melee infantry units.",
+  "descriptionCN": "生产近战步兵单位。",
   "classes": [
     "barracks",
     "building",

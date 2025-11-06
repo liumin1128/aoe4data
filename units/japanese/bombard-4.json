@@ -3,6 +3,7 @@
   "baseId": "bombard",
   "type": "unit",
   "name": "Bombard",
+  "nameCN": "手推炮",
   "pbgid": 7319578,
   "attribName": "unit_bombard_4_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+  "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
   "classes": [
     "annihilation_condition",
     "bombard",

@@ -3,6 +3,7 @@
   "baseId": "chamber-of-commerce",
   "type": "building",
   "name": "Chamber of Commerce",
+  "nameCN": "商会",
   "pbgid": 132788,
   "attribName": "building_landmark_age1_chamber_of_commerce_fre",
   "age": 1,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Acts as a Market. Trains one free Trader for each economic technology researched.",
+  "descriptionCN": "作为市场使用。为研究的每项经济技术培训一名自由商人。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

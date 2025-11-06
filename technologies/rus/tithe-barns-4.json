@@ -3,6 +3,7 @@
   "baseId": "tithe-barns",
   "type": "technology",
   "name": "Tithe Barns",
+  "nameCN": "什一税仓库",
   "pbgid": 129407,
   "attribName": "upgrade_unit_religious_tithe_barn_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Relics placed in a Monastery provide an income of +40 Food, +40 Wood, and +10 Stone every minute.",
+  "descriptionCN": "放置在修道院的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
   "classes": [
     "byzantine_upgrade",
     "chinese_ha_01_upgrade",

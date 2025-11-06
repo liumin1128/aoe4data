@@ -3,6 +3,7 @@
   "baseId": "ability-food-festival",
   "type": "ability",
   "name": "Food Festival",
+  "nameCN": "食物节庆",
   "pbgid": 2062644,
   "attribName": "festival_food_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Increase villager gather rate and move speed by +50%",
+  "descriptionCN": "村民的采集速率和移动速度提升 +50%",
   "classes": [],
   "displayClasses": [],
   "costs": {

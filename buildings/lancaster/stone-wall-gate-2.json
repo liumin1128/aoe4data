@@ -3,6 +3,7 @@
   "baseId": "stone-wall-gate",
   "type": "building",
   "name": "Stone Wall Gate",
+  "nameCN": "石墙城门",
   "pbgid": 5000033,
   "attribName": "building_defense_wall_gate_lan",
   "age": 2,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+  "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
   "classes": [
     "building",
     "defensive_structure",

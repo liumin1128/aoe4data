@@ -3,6 +3,7 @@
   "baseId": "the-golden-gate",
   "type": "building",
   "name": "The Golden Gate",
+  "nameCN": "金门",
   "pbgid": 133425,
   "attribName": "building_landmark_age1_golden_gate_vladimir_control_rus",
   "age": 1,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Allows the exchange of resources at a favorable rate. Generates an additional exchange every 50 seconds.",
+  "descriptionCN": "允许以优惠的价格换取资源。每 50 秒会额外产生一次换取机会。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

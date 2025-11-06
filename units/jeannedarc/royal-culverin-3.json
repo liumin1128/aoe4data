@@ -3,6 +3,7 @@
   "baseId": "royal-culverin",
   "type": "unit",
   "name": "Royal Culverin",
+  "nameCN": "皇家长管炮",
   "pbgid": 8041328,
   "attribName": "unit_culverin_4_royal_fre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+  "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
   "classes": [
     "annihilation_condition",
     "culverin",

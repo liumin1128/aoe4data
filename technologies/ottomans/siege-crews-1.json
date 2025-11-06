@@ -3,6 +3,7 @@
   "baseId": "siege-crews",
   "type": "technology",
   "name": "Siege Crews",
+  "nameCN": "攻城人员",
   "pbgid": 2063087,
   "attribName": "upgrade_imperial_manned_siege_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Allows all siege engines to be garrisoned by infantry. While garrisoned, attack and setup speed is increased by +25%.",
+  "descriptionCN": "让步兵可以驻扎在攻城器械中。驻扎时，攻击和架设速度提升 +25%。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

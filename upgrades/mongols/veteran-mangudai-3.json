@@ -3,6 +3,7 @@
   "baseId": "veteran-mangudai",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 130355,
   "attribName": "upgrade_unit_horsearcher_3_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Upgrade Mangudai to Veteran Mangudai.",
+  "descriptionCN": "将蒙古突骑升级为老练蒙古突骑。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "healer-elephant",
   "type": "unit",
   "name": "Elite Healer Elephant",
+  "nameCN": "精锐治疗者大象",
   "pbgid": 9004622,
   "attribName": "unit_war_elephant_tower_healer_4_sul_ha_tug",
   "age": 4,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Support elephant with two mounted Imams that individually heal allied units. Gains additional damage from nearby melee infantry and captures Sacred Sites.\n+ High health and armor\n- Slow movement speed\n- Countered by Spearman & Crossbowmen",
+  "descriptionCN": "后勤大象驮着两名伊玛目，每名伊玛目都可以单独治疗盟友单位。周围有近战步兵时，会获得额外伤害，并能占领圣地。\n+ 高生命值和护甲\n- 移动速度慢\n- 会受到长矛兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

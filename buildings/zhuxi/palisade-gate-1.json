@@ -3,6 +3,7 @@
   "baseId": "palisade-gate",
   "type": "building",
   "name": "Palisade Gate",
+  "nameCN": "木城门",
   "pbgid": 5976475,
   "attribName": "building_defense_palisade_gate_chi_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+  "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
   "classes": [
     "building",
     "defensive_structure",

@@ -3,6 +3,7 @@
   "baseId": "akinji",
   "type": "unit",
   "name": "Akinji",
+  "nameCN": "阿金基轻骑兵",
   "pbgid": 9000524,
   "attribName": "unit_horsearcher_2_ott",
   "age": 2,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Highly mobile long ranged cavalry which fires two arrows in quick succession. \n+ High mobility\n- Weak vs ranged units",
+  "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
   "classes": [
     "annihilation_condition",
     "archer",

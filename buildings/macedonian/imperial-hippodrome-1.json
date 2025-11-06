@@ -3,6 +3,7 @@
   "baseId": "imperial-hippodrome",
   "type": "building",
   "name": "Imperial Hippodrome",
+  "nameCN": "帝国竞技场",
   "pbgid": 9000936,
   "attribName": "building_landmark_age1_hippodrome_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+  "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
   "classes": [
     "age1_landmark2",
     "building",

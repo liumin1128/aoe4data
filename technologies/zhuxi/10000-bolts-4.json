@@ -3,6 +3,7 @@
   "baseId": "10000-bolts",
   "type": "technology",
   "name": "10000 Bolts",
+  "nameCN": "万弩箭",
   "pbgid": 2135959,
   "attribName": "upgrade_library_crossbow_upgrade",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Zhuge Nu and Crossbowmen fire an extra bolt. The additional bolt for Crossbowmen is 40% as effective as the previous bolt.",
+  "descriptionCN": "诸葛弩手和弩手可额外射出一支弩箭。对于弩手而言，这支额外弩箭相当于之前弩箭的 40% 效果。",
   "classes": [
     "chinese_ha_01_upgrade",
     "military_upgrade",

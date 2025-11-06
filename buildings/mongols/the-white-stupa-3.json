@@ -3,6 +3,7 @@
   "baseId": "the-white-stupa",
   "type": "building",
   "name": "The White Stupa",
+  "nameCN": "白色浮屠佛塔",
   "pbgid": 136389,
   "attribName": "building_wonder_age3_stupa_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Acts as an Ovoo and produces 240 Stone per minute without a Stone Outcropping.\nDecreases the Stone cost of double unit production by -50%.",
+  "descriptionCN": "可作为敖包使用，并且不需要石料露头就可以每分钟生产 240 石料。\n双倍单位生产的石料成本 -50%。",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",

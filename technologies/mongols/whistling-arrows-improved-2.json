@@ -3,6 +3,7 @@
   "baseId": "whistling-arrows-improved",
   "type": "technology",
   "name": "Whistling Arrows (Improved)",
+  "nameCN": "镝矢 (已强化)",
   "pbgid": 205802,
   "attribName": "upgrade_khan_signal_arrow_improved_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase the Khan's Signal Arrow duration by +7 seconds and range by +3 tiles.\nIf Whistling Arrows has already been researched, increase the Khan's Signal Arrow duration by +2 seconds and range by +1 tile.",
+  "descriptionCN": "汗的信号箭持续时间 +7 秒，且攻击范围 +3 格。\n如果已完成镝矢研究，则汗的信号箭持续时间 +2 秒，且攻击范围 +1 格。",
   "classes": [
     "mongol_upgrade",
     "scar_feudal_age_upgrade",

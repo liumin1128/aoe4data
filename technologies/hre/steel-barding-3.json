@@ -3,6 +3,7 @@
   "baseId": "steel-barding",
   "type": "technology",
   "name": "Steel Barding",
+  "nameCN": "钢制马甲",
   "pbgid": 2122227,
   "attribName": "upgrade_knight_barding_hre",
   "age": 3,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Grants Knights and Black Riders +2 melee and +2 ranged armor.",
+  "descriptionCN": "赋予骑士和黑骑士 +2 近战和 +2 远程护甲。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

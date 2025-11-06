@@ -3,6 +3,7 @@
   "baseId": "mounted-guns",
   "type": "technology",
   "name": "Mounted Guns",
+  "nameCN": "舰载炮",
   "pbgid": 196882,
   "attribName": "upgrade_naval_mounted_guns",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Replaces Springald Ship weaponry with Cannons which provide greater range and damage.",
+  "descriptionCN": "用加农炮取代扭力弩炮，可实现更远的射程和更大的伤害。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

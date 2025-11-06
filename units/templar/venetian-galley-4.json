@@ -3,6 +3,7 @@
   "baseId": "venetian-galley",
   "type": "unit",
   "name": "Venetian Galley",
+  "nameCN": "威尼斯箭船",
   "pbgid": 8999920,
   "attribName": "unit_naval_galleass_4_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Large oared vessel with a long range forward mounted Trebuchet.\n+ Long Range\n+ Anti-structure specialist",
+  "descriptionCN": "大型带桨船只，拥有一门远程的前置巨型投石机。\n+ 射程远\n+ 反建筑专家",
   "classes": [
     "annihilation_condition",
     "commanderie_unit",

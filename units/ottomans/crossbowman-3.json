@@ -3,6 +3,7 @@
   "baseId": "crossbowman",
   "type": "unit",
   "name": "Crossbowman",
+  "nameCN": "弩手",
   "pbgid": 2046432,
   "attribName": "unit_crossbowman_3_ott",
   "age": 3,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "High damage ranged unit best against heavy targets.\n+ Anti-heavy specialist\n- Low health\n- Countered by Horsemen",
+  "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "crossbow_incendiary_3",

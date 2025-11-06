@@ -3,6 +3,7 @@
   "baseId": "tanegashima-ashigaru",
   "type": "unit",
   "name": "Elite Tanegashima Ashigaru",
+  "nameCN": "精锐火绳枪足轻",
   "pbgid": 5216335,
   "attribName": "unit_handcannon_4_jpn_ha_sen",
   "age": 4,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Powerful ranged infantry that is effective against armored units.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+  "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
   "classes": [
     "annihilation_condition",
     "daimyo_retainer",

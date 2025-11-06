@@ -3,6 +3,7 @@
   "baseId": "ability-golden-age-tier-4",
   "type": "ability",
   "name": "Golden Age Tier 4",
+  "nameCN": "(translation not found) (undefined)",
   "pbgid": 2146741,
   "attribName": "golden_age_tier_4_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "50 Structures: Siege units cost 20% less resources to produce.",
+  "descriptionCN": "(translation not found) (undefined)",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "ability-man-the-sails",
   "type": "ability",
   "name": "Man The Sails",
+  "nameCN": "掌舵人",
   "pbgid": 2101656,
   "attribName": "naval_man_the_sails",
   "age": 1,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+  "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
   "classes": [],
   "displayClasses": [],
   "costs": {

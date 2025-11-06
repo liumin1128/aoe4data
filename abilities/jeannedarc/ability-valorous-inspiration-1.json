@@ -3,6 +3,7 @@
   "baseId": "ability-valorous-inspiration",
   "type": "ability",
   "name": "Valorous Inspiration",
+  "nameCN": "勇气鼓舞",
   "pbgid": 2127606,
   "attribName": "jeanne_d_arc_valorous_inspiration_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Increases the attack speed of all units within 4 tiles by 35% for 20 seconds.\nCooldown: 60 Seconds.",
+  "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

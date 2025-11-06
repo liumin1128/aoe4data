@@ -3,6 +3,7 @@
   "baseId": "explosives",
   "type": "technology",
   "name": "Explosives",
+  "nameCN": "炸药",
   "pbgid": 196883,
   "attribName": "upgrade_naval_explosives",
   "age": 4,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Increase the damage of Incendiary Ships by +40%.",
+  "descriptionCN": "燃烧船伤害 +40%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

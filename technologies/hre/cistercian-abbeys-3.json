@@ -3,6 +3,7 @@
   "baseId": "cistercian-abbeys",
   "type": "technology",
   "name": "Cistercian Abbeys",
+  "nameCN": "西多会修道院",
   "pbgid": 180214,
   "attribName": "upgrade_benediction_hre",
   "age": 3,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Monasteries become self-sufficient, working their lands through Lay Brothers.\nVillagers can drop off resources in Monasteries.\nPrelates can be garrisoned in Monasteries to inspire all nearby Villagers, increasing their gather speed.",
+  "descriptionCN": "修道院可以自给自足，通过俗人兄弟耕种他们的土地。\n村民可以将资源存放在修道院。\n高级教士可以驻扎在修道院中，鼓舞附近的所有村民，提升他们的采集速度。",
   "classes": [
     "economic_upgrade",
     "hre_upgrade",

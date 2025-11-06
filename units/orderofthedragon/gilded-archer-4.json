@@ -3,6 +3,7 @@
   "baseId": "gilded-archer",
   "type": "unit",
   "name": "Elite Gilded Archer",
+  "nameCN": "精锐镀金步弓手",
   "pbgid": 3838492,
   "attribName": "unit_archer_4_hre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+  "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "archer",

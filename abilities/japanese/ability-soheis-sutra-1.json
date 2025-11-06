@@ -3,6 +3,7 @@
   "baseId": "ability-soheis-sutra",
   "type": "ability",
   "name": "Sohei's Sutra",
+  "nameCN": "僧兵经书",
   "pbgid": 2141302,
   "attribName": "monk_debuff_target_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Reduces enemy damage by 50% for 60 seconds.",
+  "descriptionCN": "敌方伤害降低 50%，持续 60 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "jeanne-darc-mounted-archer",
   "type": "unit",
   "name": "Jeanne d'Arc - Mounted Archer",
+  "nameCN": "圣女贞德 - 骑射手",
   "pbgid": 2136359,
   "attribName": "unit_jeanne_d_arc_3_ranged_knight_fre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "A powerful cavalry archer with exceptional range and damage. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Long range\n+ Good damage\n- Countered by Horsemen",
+  "descriptionCN": "强大的骑射手，射程极远、伤害极高。如果贞德被击败，她可以在城镇中心被复活。\n+ 射程远\n+ 伤害高\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "archer",

@@ -3,6 +3,7 @@
   "baseId": "elzbach-palace",
   "type": "building",
   "name": "Elzbach Palace",
+  "nameCN": "埃尔茨巴赫宫殿",
   "pbgid": 5834401,
   "attribName": "building_landmark_age3_eltz_castle_hre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Acts as a Keep with +50% health. All buildings within influence take -25% less damage.",
+  "descriptionCN": "可作为城堡使用，其生命值 +50%。影响范围内的所有建筑受到的伤害 -25%。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

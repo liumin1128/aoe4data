@@ -3,6 +3,7 @@
   "baseId": "agriculture",
   "type": "technology",
   "name": "Agriculture",
+  "nameCN": "农业",
   "pbgid": 200775,
   "attribName": "upgrade_econ_agriculture_abb",
   "age": 3,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Improve Villagers' gathering rate from Farms by +15%.",
+  "descriptionCN": "村民在农田的采集速率 +15%。",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",

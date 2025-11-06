@@ -3,6 +3,7 @@
   "baseId": "expilatores",
   "type": "technology",
   "name": "Expilatores",
+  "nameCN": "掠夺者",
   "pbgid": 2104470,
   "attribName": "upgrade_hippodrome_horseman_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Horseman damage vs. Workers increased by +2. Workers eliminated by your Horsemen reward +30 Gold.",
+  "descriptionCN": "骑手对工人造成的伤害 +2。你的骑手消灭工人时可获得 +30 黄金。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

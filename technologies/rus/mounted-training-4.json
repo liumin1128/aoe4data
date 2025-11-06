@@ -3,6 +3,7 @@
   "baseId": "mounted-training",
   "type": "technology",
   "name": "Mounted Training",
+  "nameCN": "骑射培训",
   "pbgid": 2134250,
   "attribName": "upgrade_horse_archer_mounted_training_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase weapon range of Horse Archers by +1 and unlock the Gallop ability.\nGallop: Activate to move at maximum speed with +2 tile weapon range for 8 seconds.",
+  "descriptionCN": "增加骑射手的武器射程 +1 并解锁疾驰技能。\n疾驰：激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

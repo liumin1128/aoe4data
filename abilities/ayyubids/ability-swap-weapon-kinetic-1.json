@@ -3,6 +3,7 @@
   "baseId": "ability-swap-weapon-kinetic",
   "type": "ability",
   "name": "Swap Weapon (Kinetic)",
+  "nameCN": "切换武器(动能)",
   "pbgid": 2138275,
   "attribName": "mangonel_swap_to_kinetic_weapon",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Switch to solid ammunition, which deals higher damage.",
+  "descriptionCN": "切换为实心弹药，可造成更高的伤害。",
   "classes": [],
   "displayClasses": [],
   "costs": {

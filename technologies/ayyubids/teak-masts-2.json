@@ -3,6 +3,7 @@
   "baseId": "teak-masts",
   "type": "technology",
   "name": "Teak Masts",
+  "nameCN": "柚木桅杆",
   "pbgid": 2033749,
   "attribName": "upgrade_naval_teak_masts_abb",
   "age": 2,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Increase the health of military ships by +10%.",
+  "descriptionCN": "军事船只的生命值增加 +10%。",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",

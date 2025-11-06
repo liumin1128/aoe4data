@@ -3,6 +3,7 @@
   "baseId": "palace-of-swabia",
   "type": "building",
   "name": "Palace of Swabia",
+  "nameCN": "施瓦本宫殿",
   "pbgid": 6467235,
   "attribName": "building_landmark_age3_hohenzollern_castle_hre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Acts as a Town Center. Produces Villagers +200% faster and at -66% cost.\nCost to build this Landmark is reduced by -10%.",
+  "descriptionCN": "可作为城镇中心使用。村民的生产速度 +200% 且成本 -66%。\n建造此地标的成本 -10%。",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "veteran-zhuge-nu",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 166638,
   "attribName": "upgrade_unit_repeater_crossbow_3_chi",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Upgrade Zhuge Nu to Veteran Zhuge Nu.",
+  "descriptionCN": "将诸葛弩手升级为老练诸葛弩手。",
   "classes": [
     "chinese_upgrade",
     "military_upgrade",

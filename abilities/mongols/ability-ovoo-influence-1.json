@@ -3,6 +3,7 @@
   "baseId": "ability-ovoo-influence",
   "type": "ability",
   "name": "Ovoo Influence",
+  "nameCN": "敖包影响力",
   "pbgid": 1457772,
   "attribName": "ovoo_influence_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Buildings within influence have access to double production and improved technology. Pastures within influence produce Sheep at a faster rate.",
+  "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
   "classes": [],
   "displayClasses": [],
   "costs": {

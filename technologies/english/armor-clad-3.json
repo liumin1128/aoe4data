@@ -3,6 +3,7 @@
   "baseId": "armor-clad",
   "type": "technology",
   "name": "Armor Clad",
+  "nameCN": "重装甲",
   "pbgid": 2014110,
   "attribName": "upgrade_armor_clad_eng",
   "age": 3,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increase the ranged and melee armor of Men-at-Arms by +2.",
+  "descriptionCN": "武士的远程和近战护甲 +2。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

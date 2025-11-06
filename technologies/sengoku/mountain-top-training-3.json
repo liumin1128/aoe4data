@@ -3,6 +3,7 @@
   "baseId": "mountain-top-training",
   "type": "technology",
   "name": "Mountain Top Training",
+  "nameCN": "山顶训练",
   "pbgid": 9003392,
   "attribName": "upgrade_temple_monk_move_speed_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Increase Ikko-ikki Monk movement speed by +33%.",
+  "descriptionCN": "一向宗僧兵的移动速度 +33%。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

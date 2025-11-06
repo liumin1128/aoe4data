@@ -3,6 +3,7 @@
   "baseId": "archery-range",
   "type": "building",
   "name": "Archery Range",
+  "nameCN": "靶场",
   "pbgid": 5959804,
   "attribName": "building_unit_ranged_control_chi_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+  "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。",
   "classes": [
     "archery_range",
     "building",

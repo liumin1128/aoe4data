@@ -3,6 +3,7 @@
   "baseId": "additional-barrels",
   "type": "technology",
   "name": "Additional Barrels",
+  "nameCN": "加装炮管",
   "pbgid": 217078,
   "attribName": "upgrade_gunpowder_cost_chi",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Nest of Bees receive 3 additional Rocket Arrows.",
+  "descriptionCN": "一窝蜂获得 3 额外的火箭。",
   "classes": [
     "chinese_upgrade",
     "scar_imperial_age_upgrade",

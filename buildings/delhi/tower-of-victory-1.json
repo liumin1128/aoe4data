@@ -3,6 +3,7 @@
   "baseId": "tower-of-victory",
   "type": "building",
   "name": "Tower of Victory",
+  "nameCN": "胜利之塔",
   "pbgid": 135886,
   "attribName": "building_landmark_age1_qutub_minar_control_sul",
   "age": 1,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Enables Tower of Victory, Mosques, and Madrasas to increase the attack speed of infantry by +20% when produced within their influence.",
+  "descriptionCN": "在胜利之塔、清真寺和穆斯林学塾的影响范围内生产步兵，可将步兵攻击速度提高 20%。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

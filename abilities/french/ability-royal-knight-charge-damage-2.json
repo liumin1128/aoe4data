@@ -3,6 +3,7 @@
   "baseId": "ability-royal-knight-charge-damage",
   "type": "ability",
   "name": "Royal Knight Charge Damage",
+  "nameCN": "皇家骑士冲锋伤害",
   "pbgid": 2032837,
   "attribName": "lancer_charge_bonus_damage",
   "age": 2,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+  "descriptionCN": "伤害提升 5 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

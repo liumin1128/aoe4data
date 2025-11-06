@@ -3,6 +3,7 @@
   "baseId": "ability-return-of-the-saint",
   "type": "ability",
   "name": "Return of the Saint",
+  "nameCN": "圣者归来",
   "pbgid": 2141664,
   "attribName": "jeanne_d_arc_buyback_2_fre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Pay tribute and instantly return Jeanne to the battlefield.",
+  "descriptionCN": "进贡并立即让贞德返回战场。",
   "classes": [],
   "displayClasses": [],
   "costs": {

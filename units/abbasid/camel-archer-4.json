@@ -3,6 +3,7 @@
   "baseId": "camel-archer",
   "type": "unit",
   "name": "Elite Camel Archer",
+  "nameCN": "精锐骆驼射手",
   "pbgid": 200001,
   "attribName": "unit_camel_archer_4_abb",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Highly mobile and durable ranged unit.\n+Bonus damage vs Spearmen\n-High cost",
+  "descriptionCN": "高机动性且耐久的远程单位。\n+对长矛兵有伤害加成\n-高成本",
   "classes": [
     "annihilation_condition",
     "archer",

@@ -3,6 +3,7 @@
   "baseId": "rus-tribute",
   "type": "unit",
   "name": "Rus Tribute",
+  "nameCN": "罗斯贡品",
   "pbgid": 9004749,
   "attribName": "unit_rus_tribute_4_mon_ha_gol",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Rus heavy infantry called into service by the Golden Horde.\n+ Faster than other heavy infantry\n+ Faster attack speed\n+ Additional damage against cavalry\n- Less armored\n- Countered by Knights, Lancers, and Crossbowmen",
+  "descriptionCN": "罗斯重装步兵被金帐汗国征召服役。\n+ 比其他重装步兵更快\n+ 攻击速度更快\n+ 对骑兵造成额外伤害\n- 护甲减弱\n - 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

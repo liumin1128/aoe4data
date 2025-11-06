@@ -3,6 +3,7 @@
   "baseId": "notre-dame",
   "type": "building",
   "name": "Notre Dame",
+  "nameCN": "圣母院",
   "pbgid": 4045205,
   "attribName": "building_wonder_age4_la_grande_cathedral_fre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+  "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
   "classes": [
     "audio_production_landmark",
     "building",

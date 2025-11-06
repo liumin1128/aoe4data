@@ -3,6 +3,7 @@
   "baseId": "ability-arrow-volley",
   "type": "ability",
   "name": "Arrow Volley",
+  "nameCN": "万箭齐发",
   "pbgid": 178834,
   "attribName": "longbow_rate_of_fire_ability",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Reduce Longbowman's time to attack by +1 second for a duration of 6 seconds.",
+  "descriptionCN": "将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

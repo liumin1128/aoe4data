@@ -3,6 +3,7 @@
   "baseId": "adjustable-crossbars",
   "type": "technology",
   "name": "Adjustable Crossbars",
+  "nameCN": "可调式横杆",
   "pbgid": 130999,
   "attribName": "upgrade_siege_adjustable_crossbar",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Increases Mangonel range by +1, blast radius by +75%, and adds +1 projectile to attacks.",
+  "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

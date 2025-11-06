@@ -3,6 +3,7 @@
   "baseId": "steppe-lancers-improved",
   "type": "technology",
   "name": "Steppe Lancers (Improved)",
+  "nameCN": "草原长矛骑兵 (已强化)",
   "pbgid": 2137099,
   "attribName": "upgrade_lancer_healing_improved_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Keshik healing by +2 Health per attack and attack speed by +20%.\nIf Steppe Lancers has already been researched, increase Keshik healing by +1 Health per attack and attack speed by +10%.",
+  "descriptionCN": "每次攻击怯薛骑兵恢复的生命值提升 +2，攻击速度增加 +20%。\n如果已完成草原长矛骑兵研究，每次攻击怯薛骑兵恢复的生命值提升 +1，攻击速度增加 +10%。",
   "classes": [
     "mongol_upgrade",
     "scar_imperial_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "superior-mobility",
   "type": "technology",
   "name": "Superior Mobility",
+  "nameCN": "卓越机动性",
   "pbgid": 178718,
   "attribName": "upgrade_unit_town_center_faster_packing_1_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Packed buildings move and pack/unpack 50% faster.",
+  "descriptionCN": "组装建筑的移动和组装/拆装速度提高 50%。",
   "classes": [
     "economic_upgrade",
     "mongol_upgrade",

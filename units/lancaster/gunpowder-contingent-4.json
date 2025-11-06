@@ -3,6 +3,7 @@
   "baseId": "gunpowder-contingent",
   "type": "unit",
   "name": "Gunpowder Contingent",
+  "nameCN": "火药分遣队",
   "pbgid": 5000294,
   "attribName": "unit_wynguard_gunpowder_contingent_lan",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Produces an army of 2 Ribauldequins and 1 Culverin.",
+  "descriptionCN": "生产一支由 2 个机关炮和 1 个长管炮组成的军队。",
   "classes": [
     "archer",
     "audio_wynguard_rangers",

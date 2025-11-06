@@ -3,6 +3,7 @@
   "baseId": "court-architects",
   "type": "technology",
   "name": "Court Architects",
+  "nameCN": "宫廷建筑师",
   "pbgid": 181942,
   "attribName": "upgrade_tech_university_architecture_4_sul",
   "age": 4,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Patronage of the finest builders increases all building health by +30%.",
+  "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

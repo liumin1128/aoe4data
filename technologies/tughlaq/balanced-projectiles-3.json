@@ -3,6 +3,7 @@
   "baseId": "balanced-projectiles",
   "type": "technology",
   "name": "Balanced Projectiles",
+  "nameCN": "平衡炮弹",
   "pbgid": 9003711,
   "attribName": "upgrade_ranged_damage_ii_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the ranged damage of all arrows and bolts by +1.",
+  "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

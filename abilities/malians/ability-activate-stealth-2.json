@@ -3,6 +3,7 @@
   "baseId": "ability-activate-stealth",
   "type": "ability",
   "name": "Activate Stealth",
+  "nameCN": "激活潜行",
   "pbgid": 2099938,
   "attribName": "activate_stealth_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Enter Stealth for 30 seconds.\nWhile in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, Landmark Town Centers, or they engage in combat.",
+  "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
   "classes": [],
   "displayClasses": [],
   "costs": {

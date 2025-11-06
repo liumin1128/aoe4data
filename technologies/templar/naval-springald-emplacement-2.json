@@ -3,6 +3,7 @@
   "baseId": "naval-springald-emplacement",
   "type": "technology",
   "name": "Naval Springald Emplacement",
+  "nameCN": "海军扭力弩炮炮台",
   "pbgid": 9004567,
   "attribName": "upgrade_naval_springald_emplacement_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Adds a defensive naval springald to this Harbor.",
+  "descriptionCN": "为此巨港添加一部防御型海军扭力弩炮。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

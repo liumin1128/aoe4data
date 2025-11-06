@@ -3,6 +3,7 @@
   "baseId": "veteran-donso",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 2059144,
   "attribName": "upgrade_unit_spearman_3_mal",
   "age": 3,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Upgrade Hardened Dosno to Veteran Donso.",
+  "descriptionCN": "将坚韧当佐兵升级为老练当佐兵。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

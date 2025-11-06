@@ -3,6 +3,7 @@
   "baseId": "ability-spy",
   "type": "ability",
   "name": "Spy",
+  "nameCN": "间谍",
   "pbgid": 2127419,
   "attribName": "shinobi_spy_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Target a visible enemy unit or structure to disguise the Shinobi as a Villager of that player.",
+  "descriptionCN": "瞄准敌方的可见单位或建筑，将忍者伪装成该玩家的村民。",
   "classes": [],
   "displayClasses": [],
   "costs": {

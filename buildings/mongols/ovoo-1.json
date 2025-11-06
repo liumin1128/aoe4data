@@ -3,6 +3,7 @@
   "baseId": "ovoo",
   "type": "building",
   "name": "Ovoo",
+  "nameCN": "敖包",
   "pbgid": 168502,
   "attribName": "building_stone_deposit_ovoo_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Must be built on a Stone Outcropping.\nHarvests 70/100/120/150 Stone per minute by Age. Houses unique Mongol technologies.\nConstructing a new Ovoo will destroy the prior one.",
+  "descriptionCN": "必须建在石料露头上。\n随着时代提升，每分钟采集 70/100/120/150 石料。可研究独特蒙古科技。\n建造新敖包会摧毁旧有的敖包。",
   "classes": [
     "building",
     "ovoo",

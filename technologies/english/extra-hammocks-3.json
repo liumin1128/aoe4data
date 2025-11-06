@@ -3,6 +3,7 @@
   "baseId": "extra-hammocks",
   "type": "technology",
   "name": "Extra Hammocks",
+  "nameCN": "额外吊床",
   "pbgid": 2101642,
   "attribName": "upgrade_naval_extra_hammocks",
   "age": 3,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increases the number of arrows fired by Archer Ships by +1.",
+  "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "outpost",
   "type": "building",
   "name": "Outpost",
+  "nameCN": "哨站",
   "pbgid": 130795,
   "attribName": "building_defense_outpost_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Light garrison and defensible position.\nExtensive line of sight and detects units stealth or disguises.\nCan be upgraded with weaponry.\nYam: Increases the speed of nearby Cavalry and Traders.",
+  "descriptionCN": "简单的驻军及防守位置。\n视野开阔，可侦测匿踪或伪装单位。\n可升级武器。\n驿站：提升附近骑兵和商人的速度。",
   "classes": [
     "building",
     "defensive_structure",

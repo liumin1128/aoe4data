@@ -3,6 +3,7 @@
   "baseId": "palisade",
   "type": "building",
   "name": "Palisade",
+  "nameCN": "木栅栏",
   "pbgid": 8021511,
   "attribName": "building_defense_palisade_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+  "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
   "classes": [
     "building",
     "defensive_structure",

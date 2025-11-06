@@ -3,6 +3,7 @@
   "baseId": "zhu-xis-library",
   "type": "building",
   "name": "Zhu Xi's Library",
+  "nameCN": "朱熹书院",
   "pbgid": 4927324,
   "attribName": "building_landmark_age3_library_chi_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Hosts a range of highly unique upgrades.\nCan unlock Yuan Raiders and Imperial Guards. Only 2 technologies can be researched.",
+  "descriptionCN": "提供一系列非常独特的升级。\n可解锁元朝掠夺者和皇宫卫兵。仅可研究 2 科技。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

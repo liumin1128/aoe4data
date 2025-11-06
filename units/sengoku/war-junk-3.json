@@ -3,6 +3,7 @@
   "baseId": "war-junk",
   "type": "unit",
   "name": "War Junk",
+  "nameCN": "戎克战船",
   "pbgid": 8279765,
   "attribName": "unit_naval_combat_ship_2_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+  "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
   "classes": [
     "annihilation_condition",
     "massive",

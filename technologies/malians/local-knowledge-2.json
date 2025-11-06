@@ -3,6 +3,7 @@
   "baseId": "local-knowledge",
   "type": "technology",
   "name": "Local Knowledge",
+  "nameCN": "本地知识",
   "pbgid": 2064215,
   "attribName": "upgrade_stealth_healing_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Musofadi Warriors and Musofadi Gunners gain +5 healing with each attack for 5 seconds after coming out of stealth.",
+  "descriptionCN": "在解除匿踪之后，穆索法迪战士和穆索法迪火枪兵每次攻击都会获得 +5 的治疗效果，持续 5 秒。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

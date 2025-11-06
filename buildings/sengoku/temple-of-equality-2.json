@@ -3,6 +3,7 @@
   "baseId": "temple-of-equality",
   "type": "building",
   "name": "Temple of Equality",
+  "nameCN": "平等院",
   "pbgid": 6326487,
   "attribName": "building_landmark_age2_buddhist_jpn_ha_sen",
   "age": 2,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Acts as a Buddhist Temple that contains unique Ikko-ikki upgrades. Reduces the cost of training Ikko-ikki monks by 25%.",
+  "descriptionCN": "可作为佛教寺庙使用，其中包含独特的一向一揆升级。可将一向一揆僧侣的训练成本降低 25%。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "red-palace",
   "type": "building",
   "name": "Red Palace",
+  "nameCN": "红宫",
   "pbgid": 132787,
   "attribName": "building_landmark_age2_la_chateau_rouge_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Acts as a Keep. Features high-damage arbalest emplacements. Each garrisoned unit adds an additional arbalest.\nActivates an Arbalest emplacement on all Keeps and Town Centers.",
+  "descriptionCN": "可作为城堡使用，配备高伤害劲弩炮台。每个驻扎单位可额外添加一个劲弩。\n激活所有城堡和城镇中心的劲弩炮台。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "tatara",
   "type": "technology",
   "name": "Tatara",
+  "nameCN": "吹踏鞴制钢法",
   "pbgid": 2136857,
   "attribName": "upgrade_melee_damage_i_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Increase the melee damage of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

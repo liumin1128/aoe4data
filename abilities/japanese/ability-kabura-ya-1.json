@@ -3,6 +3,7 @@
   "baseId": "ability-kabura-ya",
   "type": "ability",
   "name": "Kabura-ya",
+  "nameCN": "鸣镝箭",
   "pbgid": 2127408,
   "attribName": "kaburya_arrow_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Onna-Musha fire a whistling arrow when an enemy is seen, increasing move speed for 10 seconds.",
+  "descriptionCN": "女武者会在看到敌人时发射镝矢以加快移动速度，持续 10 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

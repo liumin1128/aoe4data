@@ -3,6 +3,7 @@
   "baseId": "keshik",
   "type": "unit",
   "name": "Elite Keshik",
+  "nameCN": "精锐怯薛骑兵",
   "pbgid": 9002145,
   "attribName": "unit_stone_knight_4_mon_ha_gol",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Expensive cavalry with high damage and a powerful charge attack. Effective against most units.\n+ Heavy armor\n+ Strong in melee combat\n+ Restores health after every attack\n- Less health than Lancers\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

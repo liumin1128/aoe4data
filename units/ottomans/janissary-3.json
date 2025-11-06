@@ -3,6 +3,7 @@
   "baseId": "janissary",
   "type": "unit",
   "name": "Janissary",
+  "nameCN": "苏丹亲兵",
   "pbgid": 2059265,
   "attribName": "unit_handcannon_3_ott",
   "age": 3,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Powerful infantry effective against cavalry and can repair siege engines.\n+ High damage\n+ Bonus damage against cavalry\n- High cost\n- Slow movement speed\n- Receives additional damage from Archers.",
+  "descriptionCN": "强大的步兵，擅长对抗骑兵，可以修复攻城器械。\n+ 高伤害\n+ 对抗骑兵时可获得伤害加成\n- 高成本\n- 移动速度较慢\n- 会受到来自弓兵的额外伤害",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

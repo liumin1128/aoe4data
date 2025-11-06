@@ -3,6 +3,7 @@
   "baseId": "ability-detonate",
   "type": "ability",
   "name": "Detonate",
+  "nameCN": "引爆",
   "pbgid": 2013822,
   "attribName": "fireship_self_detonate",
   "age": 1,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Detonate the ship.",
+  "descriptionCN": "引爆这艘船只。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "chivalry",
   "type": "technology",
   "name": "Chivalry",
+  "nameCN": "骑士精神",
   "pbgid": 137068,
   "attribName": "upgrade_cavalry_chivalry_fre",
   "age": 2,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Royal Knights regenerate +1 health every 1 seconds when out of combat.",
+  "descriptionCN": "皇家骑士在脱离战斗后每 1 秒可恢复 1 生命值。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

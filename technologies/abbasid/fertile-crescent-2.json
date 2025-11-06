@@ -3,6 +3,7 @@
   "baseId": "fertile-crescent",
   "type": "technology",
   "name": "Fertile Crescent",
+  "nameCN": "新月沃土",
   "pbgid": 2108050,
   "attribName": "upgrade_econ_fertile_crescent_abb",
   "age": 2,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Reduce the cost of Economy buildings and Houses by 30%.",
+  "descriptionCN": "将经济型建筑和房屋的成本降低 30%。",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",

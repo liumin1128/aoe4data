@@ -3,6 +3,7 @@
   "baseId": "howdahs",
   "type": "technology",
   "name": "Howdahs",
+  "nameCN": "象轿兵",
   "pbgid": 200139,
   "attribName": "upgrade_landmark_siege_elephant_sul",
   "age": 4,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Upgrade Tower Elephants to have Elite Crossbowmen as riders instead of Archers. Tower Elephants gain +25% health and +4 ranged armor.",
+  "descriptionCN": "升级箭塔象，让精锐弩手代替弓箭手成为骑兵。箭塔象获得 +25% 生命值和 +4 远程护甲。",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

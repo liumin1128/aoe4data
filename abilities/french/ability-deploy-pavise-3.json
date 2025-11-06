@@ -3,6 +3,7 @@
   "baseId": "ability-deploy-pavise",
   "type": "ability",
   "name": "Deploy Pavise",
+  "nameCN": "部署大盾",
   "pbgid": 212030,
   "attribName": "deploy_pavise_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Activate to increase weapon range by +1 tile and gain +5 ranged armor.\nRemains active for 30 seconds or until the Arbalétrier moves away.",
+  "descriptionCN": "激活可增加 +1 格武器攻击范围，并获得 +5 远程护甲。\n效果持续 30 秒或直到弓弩手移动为止。",
   "classes": [],
   "displayClasses": [],
   "costs": {

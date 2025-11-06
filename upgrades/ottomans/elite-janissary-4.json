@@ -3,6 +3,7 @@
   "baseId": "elite-janissary",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 2060003,
   "attribName": "upgrade_unit_handcannon_4_ott",
   "age": 4,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Upgrade Janissary to Elite Janissary.",
+  "descriptionCN": "将苏丹亲兵升级为精锐苏丹亲兵。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

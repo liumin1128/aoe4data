@@ -3,6 +3,7 @@
   "baseId": "kurultai",
   "type": "building",
   "name": "Kurultai",
+  "nameCN": "忽里勒台",
   "pbgid": 136384,
   "attribName": "building_wonder_age1_kurultai_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Nearby units within its aura heal +1 health every 1 second and gain an additional +20% damage.",
+  "descriptionCN": "其光环内的附近单位每 1 秒治疗 +1 生命值，并获得额外 +20% 伤害。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

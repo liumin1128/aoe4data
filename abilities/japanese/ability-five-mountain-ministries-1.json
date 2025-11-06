@@ -3,6 +3,7 @@
   "baseId": "ability-five-mountain-ministries",
   "type": "ability",
   "name": "Five Mountain Ministries",
+  "nameCN": "五项山地事工",
   "pbgid": 2158018,
   "attribName": "monk_debuff_target_jpn_five_mountain_version",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Every 6 seconds, applies Sohei Sutra to the closest enemy. Sohei Sutra reduces the enemies damage by 50% for 60 seconds.",
+  "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

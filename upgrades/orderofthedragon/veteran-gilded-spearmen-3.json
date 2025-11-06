@@ -3,6 +3,7 @@
   "baseId": "veteran-gilded-spearmen",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 2146731,
   "attribName": "upgrade_unit_spearman_3_hre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Upgrade Hardened Gilded Spearmen to Veteran Gilded Spearmen.",
+  "descriptionCN": "将坚韧镀金长矛兵升级为老练镀金长矛兵。",
   "classes": [
     "hre_ha_01_upgrade",
     "military_upgrade",

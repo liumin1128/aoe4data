@@ -3,6 +3,7 @@
   "baseId": "sipahi",
   "type": "unit",
   "name": "Elite Sipahi",
+  "nameCN": "精锐西帕希骑兵",
   "pbgid": 2046438,
   "attribName": "unit_horseman_4_ott",
   "age": 4,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen",
+  "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
   "classes": [
     "annihilation_condition",
     "cavalry",

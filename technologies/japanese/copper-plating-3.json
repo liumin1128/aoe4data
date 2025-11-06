@@ -3,6 +3,7 @@
   "baseId": "copper-plating",
   "type": "technology",
   "name": "Copper Plating",
+  "nameCN": "镀铜",
   "pbgid": 2127541,
   "attribName": "upgrade_copper_plating_jpn",
   "age": 3,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Improves the fire and ranged armor of ships by +2.",
+  "descriptionCN": "将船只的火力和远程护甲 +2。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "swivel-cannon",
   "type": "technology",
   "name": "Swivel Cannon",
+  "nameCN": "旋转加农炮",
   "pbgid": 2101653,
   "attribName": "upgrade_naval_swivel_cannon",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Springald Ships gain an additional Cannon which fires in 360 degrees.",
+  "descriptionCN": "扭力弩炮船获得了一门额外的加农炮，可以 360 度射击。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

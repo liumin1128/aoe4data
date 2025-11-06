@@ -3,6 +3,7 @@
   "baseId": "tokugawa-shrine",
   "type": "building",
   "name": "Tokugawa Shrine",
+  "nameCN": "德川神社",
   "pbgid": 2140330,
   "attribName": "building_wonder_age4_nikko_toshogu_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+  "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
   "classes": [
     "audio_production_landmark",
     "building",

@@ -3,6 +3,7 @@
   "baseId": "anatolian-hills",
   "type": "technology",
   "name": "Anatolian Hills",
+  "nameCN": "安纳托利亚山丘",
   "pbgid": 2073116,
   "attribName": "upgrade_anatolian_hills_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Spawn 10 sheep at the Landmark Town Center and increase Villager mining speed by +15%.",
+  "descriptionCN": "在地标城镇中心产生 10 只绵羊，并且村民的采矿速度 +15%。",
   "classes": [
     "economic_upgrade",
     "ottoman_upgrade",

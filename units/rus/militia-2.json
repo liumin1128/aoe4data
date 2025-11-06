@@ -3,6 +3,7 @@
   "baseId": "militia",
   "type": "unit",
   "name": "Militia",
+  "nameCN": "民兵",
   "pbgid": 2104839,
   "attribName": "unit_militia_2_rus",
   "age": 2,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Light melee infantry equipped with a polearm.\n+ Fast moving\n- Countered by Archers\n- Can't garrison\n- Loses life over time",
+  "descriptionCN": "配备长矛的轻型近战步兵。\n+ 快速移动\n- 会受到弓兵克制\n- 不能驻军\n- 随时间流逝减少生命值",
   "classes": [
     "annihilation_condition",
     "formational",

@@ -3,6 +3,7 @@
   "baseId": "dervish",
   "type": "unit",
   "name": "Dervish",
+  "nameCN": "德尔维希",
   "pbgid": 2528652,
   "attribName": "unit_monk_3_cambulance_abb_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Mounted Religious unit. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Uses a powerful Mass Heal ability to heal friendly units in an area.\n+ Gains increased Healing when carrying a relic.\n+ High speed.",
+  "descriptionCN": "骑马的宗教单位。可拾取圣物、招降敌方单位以及占领圣地。\n+ 可使用强力的群体治疗能力来治疗区域内的友方单位。\n+ 携带圣物时治疗效果提升。\n+ 速度快。",
   "classes": [
     "annihilation_condition",
     "cambulance",

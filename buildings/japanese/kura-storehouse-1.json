@@ -3,6 +3,7 @@
   "baseId": "kura-storehouse",
   "type": "building",
   "name": "Kura Storehouse",
+  "nameCN": "藏造仓库",
   "pbgid": 2122032,
   "attribName": "building_landmark_age1_storehouse_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Universal drop-off location that creates a Farm around the Landmark every 50 seconds — generates Wood instead when farmland becomes full.",
+  "descriptionCN": "通用存放地点，每 50 秒在地标周围会创建一座农田，农田满时，会生成木材。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

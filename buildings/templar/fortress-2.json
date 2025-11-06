@@ -3,6 +3,7 @@
   "baseId": "fortress",
   "type": "building",
   "name": "Fortress",
+  "nameCN": "要塞",
   "pbgid": 5000214,
   "attribName": "building_defense_fortress_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Unique Landmark fortification for the Knights Templar, can be fully destroyed.\nHas an aura that improves nearby units range.\nEach Fortress increases the number of Pilgrims travelling.",
+  "descriptionCN": "圣殿骑士团独特的地标防御工事，可以被完全摧毁。\n拥有可以提升附近单位射程的光环。\n每拥有一座要塞都可以增加踏上旅途的朝圣者数量。",
   "classes": [
     "audio_production_landmark",
     "building",

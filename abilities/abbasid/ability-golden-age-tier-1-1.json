@@ -3,6 +3,7 @@
   "baseId": "ability-golden-age-tier-1",
   "type": "ability",
   "name": "Golden Age Tier 1",
+  "nameCN": "(translation not found) (undefined)",
   "pbgid": 201563,
   "attribName": "golden_age_tier_1",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "+15% Resource Gathering Rate",
+  "descriptionCN": "(translation not found) (undefined)",
   "classes": [],
   "displayClasses": [],
   "costs": {

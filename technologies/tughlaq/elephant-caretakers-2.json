@@ -3,6 +3,7 @@
   "baseId": "elephant-caretakers",
   "type": "technology",
   "name": "Elephant Caretakers",
+  "nameCN": "大象看护人",
   "pbgid": 9002800,
   "attribName": "upgrade_elephant_caretakers_sul_ha_tug",
   "age": 2,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Elephants regenerate +2 health every 2 seconds when out of combat.",
+  "descriptionCN": "脱离战斗的象兵每 2 秒恢复 +2 生命值。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

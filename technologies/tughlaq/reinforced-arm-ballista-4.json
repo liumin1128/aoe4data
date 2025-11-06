@@ -3,6 +3,7 @@
   "baseId": "reinforced-arm-ballista",
   "type": "technology",
   "name": "Reinforced Arm Ballista",
+  "nameCN": "强化武装弩炮",
   "pbgid": 9001226,
   "attribName": "upgrade_unit_war_elephant_ballista_4_sul_ha_tug",
   "age": 4,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Upgrade Ballista Elephants into Elite Ballista Elephants",
+  "descriptionCN": "将弩炮大象升级为精锐弩炮大象",
   "classes": [
     "sultinate_upgrade"
   ],

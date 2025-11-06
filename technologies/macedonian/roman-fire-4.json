@@ -3,6 +3,7 @@
   "baseId": "roman-fire",
   "type": "technology",
   "name": "Roman Fire",
+  "nameCN": "罗马火",
   "pbgid": 9002994,
   "attribName": "upgrade_flaming_springald_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Springalds gain 15% attack speed and engulf their projectiles with fire, creating a patch of Greek Fire after impact.",
+  "descriptionCN": "扭力弩炮获得 15% 的攻击速度并会用火包裹它们的炮弹，在撞击后产生一片希腊之火。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

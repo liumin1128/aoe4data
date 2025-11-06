@@ -3,6 +3,7 @@
   "baseId": "ability-defense-arrow",
   "type": "ability",
   "name": "Defense Arrow",
+  "nameCN": "防御箭",
   "pbgid": 168628,
   "attribName": "khan_defensive_signal_arrow_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Fires a Signal Arrow that increases the armor of nearby units (including the Khan) by +2 for 5 seconds.",
+  "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的护甲 +2，持续 5 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

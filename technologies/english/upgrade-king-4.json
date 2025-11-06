@@ -3,6 +3,7 @@
   "baseId": "upgrade-king-4",
   "type": "technology",
   "name": "Imperial Age King",
+  "nameCN": "(translation not found) (undefined)",
   "pbgid": 2123168,
   "attribName": "upgrade_abbey_king_imp_2",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increases the health, attack and armor of the King when reaching Imperial Age.",
+  "descriptionCN": "(translation not found) (undefined)",
   "classes": [
     "king",
     "scaling",

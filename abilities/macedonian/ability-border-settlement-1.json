@@ -3,6 +3,7 @@
   "baseId": "ability-border-settlement",
   "type": "ability",
   "name": "Border Settlement",
+  "nameCN": "边境聚落",
   "pbgid": 2140943,
   "attribName": "border_settlement_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Line of sight increased by 7 tiles.",
+  "descriptionCN": "视野范围增加 7 格。",
   "classes": [],
   "displayClasses": [],
   "costs": {

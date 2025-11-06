@@ -3,6 +3,7 @@
   "baseId": "herbal-medicine",
   "type": "technology",
   "name": "Herbal Medicine",
+  "nameCN": "草药",
   "pbgid": 181951,
   "attribName": "upgrade_unit_religious_herbal_medicine_4_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Increase the healing rate of Scholars by +60%.",
+  "descriptionCN": "学者的治疗速率 +60%。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

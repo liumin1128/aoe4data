@@ -3,6 +3,7 @@
   "baseId": "meinwerk-palace",
   "type": "building",
   "name": "Meinwerk Palace",
+  "nameCN": "迈因维克宫殿",
   "pbgid": 3127683,
   "attribName": "building_landmark_age1_imperial_palace_of_paderborn_hre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Acts like a Blacksmith. Technology researched here costs -50% and researches 50% faster. Contains Technologies unique to this Landmark.",
+  "descriptionCN": "可作为铁匠铺使用，在这里，科技研究成本 -50%，研究速度增加 50%。包括这个地标独有的技术",
   "classes": [
     "age1_landmark1",
     "building",

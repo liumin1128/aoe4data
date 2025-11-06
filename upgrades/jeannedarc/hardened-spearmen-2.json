@@ -3,6 +3,7 @@
   "baseId": "hardened-spearmen",
   "type": "upgrade",
   "name": "Upgrade to Hardened",
+  "nameCN": "升级为坚韧",
   "pbgid": 127174,
   "attribName": "upgrade_unit_spearman_2",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Upgrade Spearmen to Hardened Spearmen.",
+  "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

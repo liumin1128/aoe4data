@@ -3,6 +3,7 @@
   "baseId": "kingdom-of-france",
   "type": "technology",
   "name": "Kingdom of France",
+  "nameCN": "法兰西王国",
   "pbgid": 5000202,
   "attribName": "upgrade_age_dark_com_2_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- Land military units are produced +15% faster and cost -5% gold.",
+  "descriptionCN": "- 陆地军事单位生产速度 +15%，黄金花费 -5%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "compound-of-the-defender",
   "type": "building",
   "name": "Compound of the Defender",
+  "nameCN": "守护者大院",
   "pbgid": 135888,
   "attribName": "building_landmark_age2_siri_fort_control_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Infantry units can build Stone Walls, Gates, and Towers. Reduces Stone cost of buildings and their emplacements by 20%.\nContains defensive technologies that ignore building and Imperial Age (IV) requirements.",
+  "descriptionCN": "步兵单位可以建造石墙、城门与箭塔。这些建筑及其炮台的石料成本减少 20%。\n 包括无视建筑及帝王时代 (第四时代) 要求的防御技术。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "pattern-welding",
   "type": "technology",
   "name": "Pattern Welding",
+  "nameCN": "图案焊接",
   "pbgid": 9004683,
   "attribName": "upgrade_arsenal_melee_infantry_damage_4_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the damage of all Melee Infantry by 1.",
+  "descriptionCN": "所有近战步兵的伤害提升 1。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

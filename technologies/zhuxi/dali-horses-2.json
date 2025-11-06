@@ -3,6 +3,7 @@
   "baseId": "dali-horses",
   "type": "technology",
   "name": "Dali Horses",
+  "nameCN": "大理马",
   "pbgid": 9000601,
   "attribName": "upgrade_dali_horses_chi_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Increase the attack speed of Cavalry units by +20%.",
+  "descriptionCN": "骑兵单位的攻击速度 +20%。",
   "classes": [
     "chinese_ha_01_upgrade",
     "military_upgrade",

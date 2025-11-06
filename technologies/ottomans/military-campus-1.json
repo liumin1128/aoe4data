@@ -3,6 +3,7 @@
   "baseId": "military-campus",
   "type": "technology",
   "name": "Military Campus",
+  "nameCN": "军事学校",
   "pbgid": 2059331,
   "attribName": "upgrade_imperial_military_campus_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Increase Military Schools that can be built by +1.",
+  "descriptionCN": "军事学校的建筑上限 +1。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

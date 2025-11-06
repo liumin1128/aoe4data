@@ -3,6 +3,7 @@
   "baseId": "cannon",
   "type": "unit",
   "name": "Cannon",
+  "nameCN": "加农炮",
   "pbgid": 165175,
   "attribName": "unit_cannon_4_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Most powerful siege cannon. Excellent against buildings or any stubborn targets.\n+ Bonus damage to buildings",
+  "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
   "classes": [
     "annihilation_condition",
     "bombard_wheeled",

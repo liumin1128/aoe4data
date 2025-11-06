@@ -3,6 +3,7 @@
   "baseId": "sanctity",
   "type": "technology",
   "name": "Sanctity",
+  "nameCN": "圣洁",
   "pbgid": 181960,
   "attribName": "upgrade_unit_religious_sanctity_4_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Allow Scholars to capture Sacred Sites before the Castle Age (III). Sacred Sites generate +25% more Gold.",
+  "descriptionCN": "可让学者在城堡时代 (第三时代) 之前占领圣地。圣地会额外产生 +25% 黄金。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "jeanne-darc-woman-at-arms",
   "type": "unit",
   "name": "Jeanne d'Arc - Woman-at-Arms",
+  "nameCN": "圣女贞德 - 披甲女战士",
   "pbgid": 2136262,
   "attribName": "unit_jeanne_d_arc_2_womanatarms_fre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Strong heavy infantry leader with good armor and health. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Heavy armor\n- Countered by Knights, Lancers, and Crossbowmen",
+  "descriptionCN": "强大的重型步兵领袖，拥有良好的护甲和生命值。如果贞德被击败，可以在城镇中心将她复活。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

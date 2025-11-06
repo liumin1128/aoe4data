@@ -3,6 +3,7 @@
   "baseId": "council-hall",
   "type": "building",
   "name": "Council Hall",
+  "nameCN": "议会厅",
   "pbgid": 166269,
   "attribName": "building_landmark_age1_westminster_hall_eng",
   "age": 1,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Acts as an Archery Range with all units and technologies. Works +100% faster.\nLongbowmen produced from this landmark are -5% cheaper.",
+  "descriptionCN": "可作为所有单位和科技的靶场使用。工作速度 +100%。\n由此地标生产的长弓兵成本 -5%。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

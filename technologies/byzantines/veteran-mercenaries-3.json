@@ -3,6 +3,7 @@
   "baseId": "veteran-mercenaries",
   "type": "technology",
   "name": "Veteran Contract",
+  "nameCN": "老练合同",
   "pbgid": 2146757,
   "attribName": "upgrade_unit_mercenary_3_tower_alt_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Upgrade Hardened Mercenaries to Veteran Mercenaries.",
+  "descriptionCN": "将坚韧雇佣兵升级为老练雇佣兵。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "mount-lu-academy",
   "type": "building",
   "name": "Mount Lu Academy",
+  "nameCN": "白鹿洞书院",
   "pbgid": 6406822,
   "attribName": "building_landmark_age2_white_deer_grotto_control_chi_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Imperial Officials collect tax twice as often and also collect 20% of taxes as Food.\nContains unique upgrades that greatly improve the Imperial Official unit.",
+  "descriptionCN": "朝廷命官可以频繁征税，还会收取 20% 的税款用于食物的开销。\n包含特殊升级，可以大幅强化朝廷命官单位。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

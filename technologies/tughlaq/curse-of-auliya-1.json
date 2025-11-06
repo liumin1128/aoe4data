@@ -3,6 +3,7 @@
   "baseId": "curse-of-auliya",
   "type": "technology",
   "name": "Curse of Auliya",
+  "nameCN": "阿乌里亚的诅咒",
   "pbgid": 9003826,
   "attribName": "upgrade_keep_curse_of_the_fort",
   "age": 1,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Attackers of this Tughlaqabad Fort are struck by fear, reducing their attack speed by 30% while targeting the Fort.",
+  "descriptionCN": "这座腾格拉卡巴德堡垒的攻击者陷入恐惧之中，以堡垒作为目标时，攻击速度减慢 30%。",
   "classes": [
     "military_upgrade",
     "sultanate_ha_tug_upgrade"

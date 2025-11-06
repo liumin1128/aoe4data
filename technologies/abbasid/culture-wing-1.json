@@ -3,6 +3,7 @@
   "baseId": "culture-wing",
   "type": "technology",
   "name": "Culture Wing",
+  "nameCN": "文化偏殿",
   "pbgid": 2033115,
   "attribName": "upgrade_add_culture_wing",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "The following cultural technologies become available:\n• Preservation of Knowledge (Age II)\n• Medical Centers (Age III)\n• Public Libraries (Age IV)",
+  "descriptionCN": "以下文化科技变为可用：\n• 保存知识 (第二时代)\n• 医疗中心 (第三时代)\n• 公共图书馆 (第四时代)",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

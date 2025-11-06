@@ -3,6 +3,7 @@
   "baseId": "numeri",
   "type": "technology",
   "name": "Numeri",
+  "nameCN": "努梅里",
   "pbgid": 2104471,
   "attribName": "upgrade_hippodrome_cataphract_byz",
   "age": 4,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Enemy units hit by Trample become vulnerable and receive +15% increased damage for 12 seconds.",
+  "descriptionCN": "敌方单位被践踏击中后将变得脆弱，受到的伤害 +15%，持续 12 秒。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

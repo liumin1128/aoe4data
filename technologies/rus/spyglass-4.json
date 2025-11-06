@@ -3,6 +3,7 @@
   "baseId": "spyglass",
   "type": "technology",
   "name": "Spyglass",
+  "nameCN": "小型望远镜",
   "pbgid": 2126207,
   "attribName": "upgrade_scout_los_increase",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase the sight radius of Scouts by 30%.",
+  "descriptionCN": "侦察兵的视线半径增加 30%。",
   "classes": [
     "byzantine_upgrade",
     "crusader_cmp_upgrade",

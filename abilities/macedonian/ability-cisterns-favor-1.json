@@ -3,6 +3,7 @@
   "baseId": "ability-cisterns-favor",
   "type": "ability",
   "name": "Cistern's Favor",
+  "nameCN": "水池的恩惠",
   "pbgid": 9004106,
   "attribName": "landmark_cistern_boost_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Ability can be used on military production or technology buildings to increase their work rate by +150%. If used on Mining Camps, Lumber Camps, or Farms, begin generating 160 Gold, Wood, or Food over 60 seconds.\nRecharges every 90 seconds.",
+  "descriptionCN": "能力可对军事生产或科技建筑使用，使其工作速率 +150%。如果是对采矿场、伐木场或农田使用，则开始产生 160 黄金、木材或食物，持续 60 秒。\n每隔 90 秒补充一次。",
   "classes": [],
   "displayClasses": [],
   "costs": {

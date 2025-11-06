@@ -3,6 +3,7 @@
   "baseId": "ability-melee-defense-drums",
   "type": "ability",
   "name": "Melee Defense Drums",
+  "nameCN": "近战防御战鼓 (关闭)",
   "pbgid": 2074304,
   "attribName": "mehter_melee_armor_buff_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Mehter drums that increase the melee armor of nearby units by +2.",
+  "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的近战护甲增加 +2。",
   "classes": [],
   "displayClasses": [],
   "costs": {

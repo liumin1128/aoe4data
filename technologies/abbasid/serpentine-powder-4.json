@@ -3,6 +3,7 @@
   "baseId": "serpentine-powder",
   "type": "technology",
   "name": "Serpentine Powder",
+  "nameCN": "蛇纹石粉末",
   "pbgid": 9000617,
   "attribName": "upgrade_ranged_leadshot",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "With new gunpowder, Handcannoneers gain +5 damage against melee infantry and gain a brief increase to their movement speed after firing their weapon.",
+  "descriptionCN": "使用新型火药，火枪兵对近战步兵的伤害 +5，并在武器开火后短暂提高移动速度。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

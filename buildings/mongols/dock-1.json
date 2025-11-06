@@ -3,6 +3,7 @@
   "baseId": "dock",
   "type": "building",
   "name": "Dock",
+  "nameCN": "码头",
   "pbgid": 193148,
   "attribName": "building_unit_naval_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+  "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
   "classes": [
     "building",
     "military_only_production",

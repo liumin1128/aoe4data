@@ -3,6 +3,7 @@
   "baseId": "mangonel",
   "type": "unit",
   "name": "Mangonel",
+  "nameCN": "轻型投石车",
   "pbgid": 9001020,
   "attribName": "unit_mangonel_3_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+  "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
   "classes": [
     "annihilation_condition",
     "catapult",

@@ -3,6 +3,7 @@
   "baseId": "guild-hall",
   "type": "building",
   "name": "Guild Hall",
+  "nameCN": "公会大厅",
   "pbgid": 8002900,
   "attribName": "building_landmark_age2_guild_hall_fre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Generates and stores resources over time, the more resources stored the faster they are generated. Select between Food, Wood, Stone, or Gold. Generates stone at half the rate.",
+  "descriptionCN": "可以随时间产生并存放资源；存放的资源越多，产生资源的速度就越快。可选择食物、木材、石料或黄金。产生石料的速度减半。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

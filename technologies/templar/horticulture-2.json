@@ -3,6 +3,7 @@
   "baseId": "horticulture",
   "type": "technology",
   "name": "Horticulture",
+  "nameCN": "园艺学",
   "pbgid": 128049,
   "attribName": "upgrade_econ_resource_food_harvest_rate_2",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+  "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

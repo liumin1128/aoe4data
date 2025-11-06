@@ -3,6 +3,7 @@
   "baseId": "all-seeing-eye",
   "type": "technology",
   "name": "All-Seeing Eye",
+  "nameCN": "全视之眼",
   "pbgid": 200138,
   "attribName": "upgrade_landmark_scholar_sight_range_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Increase the sight range of Scholars by +100%.",
+  "descriptionCN": "学者的视野范围 +100%。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

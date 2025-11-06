@@ -3,6 +3,7 @@
   "baseId": "nagae-yari",
   "type": "technology",
   "name": "Nagae Yari",
+  "nameCN": "日本长枪",
   "pbgid": 2127555,
   "attribName": "upgrade_long_spear_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Spearmen are equipped with a stronger spear that increases weapon range by +20% and damage against cavalry by +15%.",
+  "descriptionCN": "长矛兵配备了较强的长矛，可使武器攻击范围 +20%，对骑兵造成的伤害 +15%。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

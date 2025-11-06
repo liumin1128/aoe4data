@@ -3,6 +3,7 @@
   "baseId": "cheirosiphon",
   "type": "unit",
   "name": "Cheirosiphon",
+  "nameCN": "基耶罗喷火筒",
   "pbgid": 9001048,
   "attribName": "unit_workshop_fire_ram_3_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Durable infantry transport equipped with Greek Fire, effective against Buildings and Walls.\n+ Greek Fire persists on ground\n+ High ranged armor\n+ High health\n- Only attacks buildings\n- Slow move speed",
+  "descriptionCN": "耐久的步兵运输工具，配备了希腊之火，擅长对付建筑和城墙。\n+ 希腊之火可持续在地面上燃烧\n+ 高远程护甲\n+ 高生命值\n- 只能攻击建筑\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "formational",

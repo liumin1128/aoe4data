@@ -3,6 +3,7 @@
   "baseId": "ability-ring-the-town-bell",
   "type": "ability",
   "name": "Ring the Town Bell",
+  "nameCN": "敲响警钟",
   "pbgid": 2149990,
   "attribName": "town_center_town_bell",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+  "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
   "classes": [],
   "displayClasses": [],
   "costs": {

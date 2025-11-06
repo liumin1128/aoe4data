@@ -3,6 +3,7 @@
   "baseId": "heavy-torches",
   "type": "technology",
   "name": "Heavy Torches",
+  "nameCN": "重型火炬",
   "pbgid": 2140414,
   "attribName": "upgrade_dragon_fire_hre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Gilded Spearman torches deal area of effect damage.",
+  "descriptionCN": "镀金长矛兵火炬可造成效果范围伤害。",
   "classes": [
     "military_upgrade"
   ],

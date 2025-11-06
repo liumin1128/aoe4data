@@ -3,6 +3,7 @@
   "baseId": "heavy-dromon",
   "type": "technology",
   "name": "Heavy Dromon",
+  "nameCN": "重型德罗蒙战舰",
   "pbgid": 2145685,
   "attribName": "upgrade_heavy_dromon_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Upgrade all Dromons to leave Greek Fire on the surface or ground where they attack. Man The Sails cooldown also reduced to 20 seconds.",
+  "descriptionCN": "升级所有的德罗蒙战舰，使其可以在攻击目标的表面或地面上留下希腊之火。掌舵人的冷却时间还会缩短至 20 秒。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

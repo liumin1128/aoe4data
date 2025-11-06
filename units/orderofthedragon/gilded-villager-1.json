@@ -3,6 +3,7 @@
   "baseId": "gilded-villager",
   "type": "unit",
   "name": "Gilded Villager",
+  "nameCN": "镀金村民",
   "pbgid": 2513732,
   "attribName": "unit_villager_1_hre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units. Gathers resources 28% quicker and builds and repairs 20% faster than regular Villagers.\n- Weak in combat",
+  "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。与普通村民相比，收集资源速度加快 28%，并且建造和修理速度加快 20%。\n- 战斗能力弱",
   "classes": [
     "annihilation_condition",
     "builder",

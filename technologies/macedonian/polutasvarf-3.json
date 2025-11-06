@@ -3,6 +3,7 @@
   "baseId": "polutasvarf",
   "type": "technology",
   "name": "Polutasvarf",
+  "nameCN": "宫殿掠夺",
   "pbgid": 9002757,
   "attribName": "upgrade_palace_pillaging_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Each Varangian unit that is present for the destruction of a Landmark or Town Center will award the player with a boon of Silver.",
+  "descriptionCN": "当一个地标或城镇中心被摧毁时，附近的所有瓦兰吉单位都会为玩家带来白银增益。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "wynguard-rangers",
   "type": "unit",
   "name": "Wynguard Rangers",
+  "nameCN": "温嘉德长弓兵",
   "pbgid": 2075743,
   "attribName": "unit_wynguard_rangers_eng",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Produces an army of 6 Wynguard Rangers.",
+  "descriptionCN": "生产一支由 6 名温嘉德长弓兵组成的军队。",
   "classes": [
     "archer",
     "audio_wynguard_rangers",

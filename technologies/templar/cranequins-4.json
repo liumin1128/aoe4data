@@ -3,6 +3,7 @@
   "baseId": "cranequins",
   "type": "technology",
   "name": "Cranequins",
+  "nameCN": "齿轮弩",
   "pbgid": 9001317,
   "attribName": "upgrade_cranequin_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Crossbows are able to load stronger bolts that have +0.5 range and +2 damage.",
+  "descriptionCN": "弩能够装载更强的箭矢，这些箭矢的射程 +0.5，伤害 +2。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

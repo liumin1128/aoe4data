@@ -3,6 +3,7 @@
   "baseId": "oda-tactics",
   "type": "technology",
   "name": "Oda Tactics",
+  "nameCN": "织田战术",
   "pbgid": 2140971,
   "attribName": "upgrade_elite_army_tactics_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Tactics from powerful daimyo improves melee infantry, increasing their damage by +15%, torch damage by +15%, and +15% health.",
+  "descriptionCN": "由强大的“大名”领主所教授的战术可提升近战步兵的能力，使其伤害 +15%，火炬伤害 +15%，生命值 +15%。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "aachen-chapel",
   "type": "building",
   "name": "Aachen Chapel",
+  "nameCN": "亚琛教堂",
   "pbgid": 134916,
   "attribName": "building_landmark_age1_palantine_chapel_hre",
   "age": 1,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Inspires units in a large radius so long as a Prelate is garrisoned.\nActs as a drop-off point for all resource types.",
+  "descriptionCN": "高级教士驻扎后可激励大范围内的单位。\n可作为所有类型资源的存放点使用。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

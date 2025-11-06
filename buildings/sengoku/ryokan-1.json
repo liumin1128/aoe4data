@@ -3,6 +3,7 @@
   "baseId": "ryokan",
   "type": "building",
   "name": "Ryokan",
+  "nameCN": "日式旅馆",
   "pbgid": 9001340,
   "attribName": "building_landmark_age1_ryokan_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Increases Population by +60 and nearby units get a permanent healing buff, healing 3 every 5 seconds when out of combat.",
+  "descriptionCN": "人口 +60，附近单位获得永久治疗增益，在脱离战斗后每 5 秒恢复 3 生命值。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

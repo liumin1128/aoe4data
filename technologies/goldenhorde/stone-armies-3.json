@@ -3,6 +3,7 @@
   "baseId": "stone-armies",
   "type": "technology",
   "name": "Stone Armies",
+  "nameCN": "石料军队",
   "pbgid": 9001612,
   "attribName": "upgrade_tent_castle_1_tribute_mon_ha_gol",
   "age": 3,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost and Rus Tributes are upgraded with increased armor and a bardiche axe.",
+  "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
   "classes": [
     "abbasid_wing_upgrade",
     "age_up_upgrade",

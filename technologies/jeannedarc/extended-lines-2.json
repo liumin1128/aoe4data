@@ -3,6 +3,7 @@
   "baseId": "extended-lines",
   "type": "technology",
   "name": "Extended Lines",
+  "nameCN": "延绳钓",
   "pbgid": 2033745,
   "attribName": "upgrade_econ_extended_lines",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Increase the gathering rate of Fishing Ships by +15% and carry capacity by +10.",
+  "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

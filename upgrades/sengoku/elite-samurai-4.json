@@ -3,6 +3,7 @@
   "baseId": "elite-samurai",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 2121990,
   "attribName": "upgrade_unit_manatarms_4_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Upgrade Veteran Samurai to Elite Samurai.",
+  "descriptionCN": "将老练日本武士升级为精锐日本武士。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

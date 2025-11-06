@@ -3,6 +3,7 @@
   "baseId": "market",
   "type": "building",
   "name": "Market",
+  "nameCN": "市场",
   "pbgid": 5000224,
   "attribName": "building_market_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Allows the buying and selling of resources and the activation of Pilgrim Loans.",
+  "descriptionCN": "允许买卖资源并激活朝圣者借贷。",
   "classes": [
     "building",
     "economy_building",

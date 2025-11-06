@@ -3,6 +3,7 @@
   "baseId": "tanegashima-gunsmith",
   "type": "building",
   "name": "Tanegashima Gunsmith",
+  "nameCN": "种子岛枪匠",
   "pbgid": 2122036,
   "attribName": "building_landmark_age3_ozutsu_jpn",
   "age": 3,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Stockpiles weapon supplies every 30 seconds that can be used to instantly produce gunpowder units - comes with 2 stockpiles. Produces Ozutsu, a unique heavy ranged gunpowder infantry with siege damage. Allows access to Ribauldequins.",
+  "descriptionCN": "每 30 秒储备武器供给，可用于立即生产火药单位，并带有 2 储备。生产大筒兵，一种独特的重型远程火药步兵，可造成攻城伤害。允许使用风琴炮。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

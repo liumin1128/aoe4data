@@ -3,6 +3,7 @@
   "baseId": "elite-crossbowmen",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 124651,
   "attribName": "upgrade_unit_crossbowman_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+  "descriptionCN": "将弩手升级为精锐弩手。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

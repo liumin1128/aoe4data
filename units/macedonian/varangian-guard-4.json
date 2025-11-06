@@ -3,6 +3,7 @@
   "baseId": "varangian-guard",
   "type": "unit",
   "name": "Elite Varangian Guard",
+  "nameCN": "精英瓦兰吉卫队",
   "pbgid": 9001019,
   "attribName": "unit_manatarms_4_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Tough infantry with good damage. Can use Berserking to increase damage for reduced armor.\n+ Heavy armor\n+ Increases armor of Transports\n+ Disembarking from Transport Ships grants move speed\n+ Increased armor near allied Wonders\n- Slow move speed\n- Countered by Crossbowmen",
+  "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

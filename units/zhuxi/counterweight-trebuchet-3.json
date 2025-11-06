@@ -3,6 +3,7 @@
   "baseId": "counterweight-trebuchet",
   "type": "unit",
   "name": "Counterweight Trebuchet",
+  "nameCN": "配重式巨型投石机",
   "pbgid": 6588234,
   "attribName": "unit_trebuchet_4_cw_chi_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+  "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
   "classes": [
     "annihilation_condition",
     "catapult",

@@ -3,6 +3,7 @@
   "baseId": "baghlah",
   "type": "unit",
   "name": "Baghlah",
+  "nameCN": "巴格拉战船",
   "pbgid": 193139,
   "attribName": "unit_naval_combat_ship_2_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+  "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
   "classes": [
     "annihilation_condition",
     "massive",

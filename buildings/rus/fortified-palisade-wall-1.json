@@ -3,6 +3,7 @@
   "baseId": "fortified-palisade-wall",
   "type": "building",
   "name": "Fortified Palisade Wall",
+  "nameCN": "硬木栅栏",
   "pbgid": 133573,
   "attribName": "building_defense_palisade_rus",
   "age": 1,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Well-built defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+  "descriptionCN": "坚固的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
   "classes": [
     "building",
     "defensive_structure",

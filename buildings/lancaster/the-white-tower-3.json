@@ -3,6 +3,7 @@
   "baseId": "the-white-tower",
   "type": "building",
   "name": "The White Tower",
+  "nameCN": "白塔",
   "pbgid": 5000043,
   "attribName": "building_landmark_age2_white_tower_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Acts as a Keep with all the behaviors, technologies, and bonuses.\nGrants 3 Earl's Guard upon being fully constructed.",
+  "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。\n建造完成后可获得 3 名伯爵护卫。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

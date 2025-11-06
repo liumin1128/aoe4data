@@ -3,6 +3,7 @@
   "baseId": "ability-proselytize",
   "type": "ability",
   "name": "Proselytize",
+  "nameCN": "传教",
   "pbgid": 2035316,
   "attribName": "monk_conversion_faith_abb",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Attempts to convert a single enemy unit within range of this Imam to your control.",
+  "descriptionCN": "试图招降此伊玛目范围内的单个敌方单位，使其为您所用。",
   "classes": [],
   "displayClasses": [],
   "costs": {

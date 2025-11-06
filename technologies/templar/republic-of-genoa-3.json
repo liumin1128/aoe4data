@@ -3,6 +3,7 @@
   "baseId": "republic-of-genoa",
   "type": "technology",
   "name": "Republic of Genoa",
+  "nameCN": "热那亚共和国",
   "pbgid": 5000207,
   "attribName": "upgrade_age_feudal_com_2_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- Pilgrims generate +20% gold.",
+  "descriptionCN": "- 朝圣者产出的黄金 +20%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

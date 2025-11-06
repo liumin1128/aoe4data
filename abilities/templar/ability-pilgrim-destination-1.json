@@ -3,6 +3,7 @@
   "baseId": "ability-pilgrim-destination",
   "type": "ability",
   "name": "Pilgrim Destination",
+  "nameCN": "朝圣者目的地",
   "pbgid": 5000303,
   "attribName": "pilgrim_target_tem",
   "age": 1,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Select a Sacred Site for your Pilgrims to travel to. Pilgrims cannot travel to a Sacred Site captured by an enemy.",
+  "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "palatine-school",
   "type": "building",
   "name": "Palatine School",
+  "nameCN": "贵族学校",
   "pbgid": 2108057,
   "attribName": "building_landmark_age3_western_merc_house_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "When training Limitanei, Varangian Guards, Cataphracts, or Cheirosiphons there is a 30% chance to also spawn one at this Landmark.",
+  "descriptionCN": "在训练边防军、瓦兰吉卫队、甲胄骑兵或基耶罗喷火筒时，有 30% 的几率在此地标也生成一个相同单位。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

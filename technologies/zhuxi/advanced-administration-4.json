@@ -3,6 +3,7 @@
   "baseId": "advanced-administration",
   "type": "technology",
   "name": "Advanced Administration",
+  "nameCN": "高级管理",
   "pbgid": 2127520,
   "attribName": "upgrade_library_improved_officials",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Imperial Officials gain 150 health and their maximum Gold carried is increased by +80. Imperial Official limit increased by +2.",
+  "descriptionCN": "朝廷命官获得 150 点生命值，并且其最大黄金携带量 +80。朝廷命官上限 +2。",
   "classes": [
     "chinese_ha_01_upgrade",
     "military_upgrade",

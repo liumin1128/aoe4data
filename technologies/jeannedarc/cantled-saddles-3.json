@@ -3,6 +3,7 @@
   "baseId": "cantled-saddles",
   "type": "technology",
   "name": "Cantled Saddles",
+  "nameCN": "高鞍尾马鞍",
   "pbgid": 170541,
   "attribName": "upgrade_cavalry_cantled_saddle_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Increase Royal Knights' bonus damage after a charge from +3 to +10.",
+  "descriptionCN": "皇家骑士在冲锋后的伤害加成从 +3 提升为 +10。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

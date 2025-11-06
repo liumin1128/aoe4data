@@ -3,6 +3,7 @@
   "baseId": "bonus-economic-wing-growth",
   "type": "technology",
   "name": "Growth\n(Bonus Economic Wing)",
+  "nameCN": "经济偏殿：发展",
   "pbgid": 2141099,
   "attribName": "upgrade_add_economy_wing_imperial_a_abb_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Constructs the Economic Wing.\nUpon completion, grants 10 Villagers and all Villagers work +10% faster.",
+  "descriptionCN": "建造经济偏殿。\n完成后获得 10 个村民，且所有村民工作速度提高 +10%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

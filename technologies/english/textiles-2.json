@@ -3,6 +3,7 @@
   "baseId": "textiles",
   "type": "technology",
   "name": "Textiles",
+  "nameCN": "纺织品",
   "pbgid": 2045367,
   "attribName": "upgrade_villager_health",
   "age": 2,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increase Villagers' health by +50%.",
+  "descriptionCN": "村民生命值 +50%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

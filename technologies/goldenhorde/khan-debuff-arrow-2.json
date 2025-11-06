@@ -3,6 +3,7 @@
   "baseId": "khan-debuff-arrow",
   "type": "technology",
   "name": "Khan Debuff Arrow",
+  "nameCN": "汗减益箭矢",
   "pbgid": 9004383,
   "attribName": "upgrade_khan_debuff_arrow_mon_ha_gol",
   "age": 2,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "The Khan can fire a signal arrow that reveals a 10 Tile range and makes enemies receive +10% damage in the targeted area for 15 seconds.",
+  "descriptionCN": "汗可发射一支信号箭，让 10 格范围内的区域变得可见，并让目标区域内的敌人受到的伤害 +10%，持续 15 秒。",
   "classes": [],
   "displayClasses": [
     "Stone Technology"

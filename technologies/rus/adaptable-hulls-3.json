@@ -3,6 +3,7 @@
   "baseId": "adaptable-hulls",
   "type": "technology",
   "name": "Adaptable Hulls",
+  "nameCN": "适应性强的船身",
   "pbgid": 2101764,
   "attribName": "upgrade_naval_adaptable_hulls_rus",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Converting between Lodya Ship types is 50% faster and no longer has a cost penalty.",
+  "descriptionCN": "罗德亚船型之间的转换速度提高了 50%，并且不再有成本损失。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "market",
   "type": "building",
   "name": "Market",
+  "nameCN": "市场",
   "pbgid": 2104738,
   "attribName": "building_econ_market_control_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+  "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
   "classes": [
     "building",
     "economy_building",

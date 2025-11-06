@@ -3,6 +3,7 @@
   "baseId": "ability-battle-veteran",
   "type": "ability",
   "name": "Keshik Healing",
+  "nameCN": "战斗老兵",
   "pbgid": 2131332,
   "attribName": "lancer_healing_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Heals after every attack performed.",
+  "descriptionCN": "每次攻击后恢复生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

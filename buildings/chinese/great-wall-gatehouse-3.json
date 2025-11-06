@@ -3,6 +3,7 @@
   "baseId": "great-wall-gatehouse",
   "type": "building",
   "name": "Great Wall Gatehouse",
+  "nameCN": "长城门楼",
   "pbgid": 9004661,
   "attribName": "building_landmark_age3_great_wall_control_rogue_chi",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Must be built over Stone Walls.\nComes with a Nest of Bees emplacement and provides +25% ranged damage to all units on walls.",
+  "descriptionCN": "必须建造在石墙上。\n自带一个一窝蜂炮台，并可以使城墙上的所有单位的远程伤害 +25%。",
   "classes": [
     "audio_production_landmark",
     "building",

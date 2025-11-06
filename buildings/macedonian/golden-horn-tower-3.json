@@ -3,6 +3,7 @@
   "baseId": "golden-horn-tower",
   "type": "building",
   "name": "Golden Horn Tower",
+  "nameCN": "金角湾塔",
   "pbgid": 9000939,
   "attribName": "building_landmark_age2_galata_tower_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Defensive building equipped with Crossbow emplacements and large Line of Sight. Generates batches of Crossbowman for free over time. \nDetects units in stealth or disguises.",
+  "descriptionCN": "防御建筑，配备弩炮台并拥有广阔视野。随时间推移免费生成一批批弩手。\n可侦测处于匿踪或伪装状态下的单位。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

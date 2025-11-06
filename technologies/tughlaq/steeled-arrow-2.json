@@ -3,6 +3,7 @@
   "baseId": "steeled-arrow",
   "type": "technology",
   "name": "Steeled Arrow",
+  "nameCN": "钢制箭头",
   "pbgid": 5422283,
   "attribName": "upgrade_ranged_damage_i_sul_ha_tug",
   "age": 2,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the ranged damage of all arrows and bolts by +1.",
+  "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

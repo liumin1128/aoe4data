@@ -3,6 +3,7 @@
   "baseId": "ability-conversion",
   "type": "ability",
   "name": "Conversion",
+  "nameCN": "招降",
   "pbgid": 192685,
   "attribName": "monk_conversion",
   "age": 1,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+  "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

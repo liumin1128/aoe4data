@@ -3,6 +3,7 @@
   "baseId": "elite-royal-knights",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 133148,
   "attribName": "upgrade_unit_knight_4_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Upgrade Veteran Royal Knights to Elite Royal Knights.",
+  "descriptionCN": "将老练皇家骑士升级为精锐皇家骑士。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "meditation-gardens",
   "type": "building",
   "name": "Meditation Gardens",
+  "nameCN": "冥想花园",
   "pbgid": 6065722,
   "attribName": "building_landmark_age1_meditation_gardens_control_chi_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Generates resources depending on the type of resources nearby. \nThe more resources are nearby, the more resources are generated. Enemy units nearby disturb the peace and reduce resources generated.",
+  "descriptionCN": "根据附近的资源类型生成资源。\n附近的资源越多，生成的资源越多。附近的敌方单位会扰乱和平状态并减少生成的资源。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

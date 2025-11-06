@@ -3,6 +3,7 @@
   "baseId": "hardened-donso",
   "type": "upgrade",
   "name": "Upgrade to Hardened",
+  "nameCN": "升级为坚韧",
   "pbgid": 2059143,
   "attribName": "upgrade_unit_spearman_2_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Upgrade Donso to Hardened Donso.",
+  "descriptionCN": "将当佐兵升级为坚韧当佐兵。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

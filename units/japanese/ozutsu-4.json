@@ -3,6 +3,7 @@
   "baseId": "ozutsu",
   "type": "unit",
   "name": "Ozutsu",
+  "nameCN": "大筒兵",
   "pbgid": 2124339,
   "attribName": "unit_ozutsu_4_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Ranged infantry equipped with a huge gunpowder weapon that has good weapon range, siege, and splash damage.\n+ Anti-building\n+ Area damage\n- Slow move speed\n- Slow attack speed\n- Countered by Horsemen and Crossbowmen",
+  "descriptionCN": "远程步兵，装备巨大的火药武器，拥有优秀的武器攻击范围、攻城和溅射伤害。\n+ 反建筑\n+ 范围伤害\n- 移动速度慢\n- 攻击速度慢\n- 会受到骑手和弩手克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

@@ -3,6 +3,7 @@
   "baseId": "feudal-military-wing-reinforcement",
   "type": "technology",
   "name": "Reinforcement\n(Feudal Military Wing)",
+  "nameCN": "军事偏殿：援军",
   "pbgid": 2132764,
   "attribName": "upgrade_add_military_wing_dark_a_abb_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Constructs the Military Wing.\nUpon completion, Cavalry units gain the ability to construct siege weapons.\nThe House of Wisdom produces 1 Desert Raider after 15 seconds and then every 2 minutes for the rest of the game.",
+  "descriptionCN": "建造军事偏殿。\n完成后，骑兵单位获得建造攻城武器的能力。\n智慧宫可在 15 秒后生产 1 名沙漠掠夺者，并在本局游戏剩余时间内每 2 分钟生产该数量的沙漠掠夺者。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_wing_upgrade",

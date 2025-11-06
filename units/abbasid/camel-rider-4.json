@@ -3,6 +3,7 @@
   "baseId": "camel-rider",
   "type": "unit",
   "name": "Elite Camel Rider",
+  "nameCN": "精锐骆驼骑兵",
   "pbgid": 200052,
   "attribName": "unit_camel_rider_4_abb",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Highly mobile and durable melee unit effective against all cavalry.\n+Bonus damage to cavalry\n+Causes enemy cavalry to deal less damage\n-High cost",
+  "descriptionCN": "高机动性且耐久的近战单位，擅长对付各类骑兵。\n+ 对骑兵有伤害加成\n+ 可使敌方骑兵造成的伤害降低\n- 高成本",
   "classes": [
     "annihilation_condition",
     "camel",

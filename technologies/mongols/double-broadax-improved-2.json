@@ -3,6 +3,7 @@
   "baseId": "double-broadax-improved",
   "type": "technology",
   "name": "Double Broadax (Improved)",
+  "nameCN": "双阔斧 (已强化)",
   "pbgid": 169035,
   "attribName": "upgrade_econ_resource_wood_harvest_rate_2_improved_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Villagers' gathering rate for Wood by 35%.\nIf Double Broadax has already been researched, increase it by 20% instead.",
+  "descriptionCN": "村民的木材采集速率 +35%。\n如果已完成双宽斧研究，则 +20%。",
   "classes": [
     "economic_upgrade",
     "mongol_upgrade",

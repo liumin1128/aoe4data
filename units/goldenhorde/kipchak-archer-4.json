@@ -3,6 +3,7 @@
   "baseId": "kipchak-archer",
   "type": "unit",
   "name": "Elite Kipchak Archer",
+  "nameCN": "精锐钦察弓兵",
   "pbgid": 9004776,
   "attribName": "unit_kipchak_4_mon_ha_gol",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Highly mobile ranged cavalry effective against slower melee units and will cause units hit to bleed. Any healing will remove the bleed.\n+ High mobility\n- Low damage\n- Weak vs ranged units",
+  "descriptionCN": "机动性高的远程骑兵，擅长对付速度较慢的近战单位，并且击中单位后使其流血。任何治疗都会消除流血状态。\n+ 高机动性\n- 低伤害\n- 不擅长对付远程单位",
   "classes": [
     "annihilation_condition",
     "archer",

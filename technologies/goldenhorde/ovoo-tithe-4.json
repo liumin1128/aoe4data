@@ -3,6 +3,7 @@
   "baseId": "ovoo-tithe",
   "type": "technology",
   "name": "Ovoo Tithe",
+  "nameCN": "敖包什一税",
   "pbgid": 9004463,
   "attribName": "upgrade_ovoo_tithe_barns_mon_ha_gol",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Ovoos provide an income of +60 Food, +60 Wood, and +10 Gold every minute.",
+  "descriptionCN": "敖包每分钟可提供 +60 食物、+60 木材和 +10 黄金收入。",
   "classes": [],
   "displayClasses": [
     "Stone Technology"

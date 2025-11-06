@@ -3,6 +3,7 @@
   "baseId": "kings-palace",
   "type": "building",
   "name": "King's Palace",
+  "nameCN": "王宫",
   "pbgid": 166271,
   "attribName": "building_landmark_age2_westminster_palace_eng",
   "age": 2,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Acts as a Town Center with all the behaviors, technology, units, and bonuses.",
+  "descriptionCN": "可作为城镇中心使用，具备其所有功能、科技、单位以及加成。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

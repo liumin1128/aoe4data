@@ -3,6 +3,7 @@
   "baseId": "ability-daimyo-estate-influence",
   "type": "ability",
   "name": "Daimyo Estate Influence",
+  "nameCN": "大名府邸影响",
   "pbgid": 9003674,
   "attribName": "daimyo_estate_influence_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate.",
+  "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

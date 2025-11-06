@@ -3,6 +3,7 @@
   "baseId": "imperial-red-seals",
   "type": "technology",
   "name": "Imperial Red Seals",
+  "nameCN": "帝王红玺",
   "pbgid": 2127326,
   "attribName": "upgrade_official_limit",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Imperial Official limit increased by +2. Grants an Imperial Official upon completion.",
+  "descriptionCN": "朝廷命官上限 +2。完成后获得一名朝廷命官。",
   "classes": [
     "chinese_ha_01_upgrade",
     "economic_upgrade"

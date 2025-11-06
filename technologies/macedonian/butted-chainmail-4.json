@@ -3,6 +3,7 @@
   "baseId": "butted-chainmail",
   "type": "technology",
   "name": "Butted Chainmail",
+  "nameCN": "对接锁子甲",
   "pbgid": 9004690,
   "attribName": "upgrade_arsenal_melee_infantry_survuvability_6_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the armor of all Melee Infantry by 1 and health by 5%.",
+  "descriptionCN": "所有近战步兵的护甲提升 1，生命值提升 5%。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "baochuan",
   "type": "unit",
   "name": "Baochuan",
+  "nameCN": "宝船",
   "pbgid": 3681048,
   "attribName": "unit_naval_combat_warship_4_chi_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+  "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "gunpowder",

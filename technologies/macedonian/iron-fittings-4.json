@@ -3,6 +3,7 @@
   "baseId": "iron-fittings",
   "type": "technology",
   "name": "Iron Fittings",
+  "nameCN": "铁制配件",
   "pbgid": 9004705,
   "attribName": "upgrade_arsenal_siege_survivability_6_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the health of all siege units by 5%.",
+  "descriptionCN": "所有攻城单位的生命值提升 5%。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

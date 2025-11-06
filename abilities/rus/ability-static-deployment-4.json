@@ -3,6 +3,7 @@
   "baseId": "ability-static-deployment",
   "type": "ability",
   "name": "Static Deployment",
+  "nameCN": "静态部署",
   "pbgid": 182235,
   "attribName": "streltsy_static_deployment_ability_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Streltsy gain +30% attack speed after remaining stationary for 10 seconds.",
+  "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

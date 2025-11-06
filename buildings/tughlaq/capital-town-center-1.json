@@ -3,6 +3,7 @@
   "baseId": "capital-town-center",
   "type": "building",
   "name": "Capital Town Center",
+  "nameCN": "城镇中心",
   "pbgid": 7772395,
   "attribName": "building_town_center_capital_sul_ha_tug",
   "age": 1,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "All resources dropped off here are increased by the Elephant Economics bonus. Produces Villagers, Scouts, Worker Elephants, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+  "descriptionCN": "在此存放的所有资源均会额外获得大象经济加成。可生产村民、侦察兵、工作大象，并能提高人口上限。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测单位匿踪或伪装。",
   "classes": [
     "building",
     "defensive_structure",

@@ -3,6 +3,7 @@
   "baseId": "level-3-champion-companions",
   "type": "technology",
   "name": "Champion Companions",
+  "nameCN": "冠军剑士同伴",
   "pbgid": 2136348,
   "attribName": "jeanne_d_arc_journey_of_a_hero_manatarms_companions_fre_ha_01",
   "age": 0,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Level 3 option\n\nJeanne's Champions become available to train at Barracks.\nGains \"To Arms, Men!\", which rallies 3 Champions to her side.\n\nRequires 500XP",
+  "descriptionCN": "可以在兵营训练贞德冠军剑士了。\n获得“伙计们，拿起武器！”，这可将 3 名冠军剑士集结到她身边。",
   "classes": [
     "hero",
     "level-up-choice"

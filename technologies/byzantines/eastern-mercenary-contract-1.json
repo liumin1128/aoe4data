@@ -3,6 +3,7 @@
   "baseId": "eastern-mercenary-contract",
   "type": "technology",
   "name": "Eastern Mercenary Contract",
+  "nameCN": "东方雇佣兵合同",
   "pbgid": 2146746,
   "attribName": "merc_contract_01_tower_alt_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Unlocks production of Keshik, Ghulam, and Tower Elephant mercenaries.\nKeshik: Feudal Age\nGhulam: Veteran contract\nTower Elephant: Elite contract",
+  "descriptionCN": "解锁怯薛骑兵、古拉姆和箭塔象雇佣兵的生产。\n怯薛骑兵：封建时代\n古拉姆：老练合同\n箭塔象：精锐合同",
   "classes": [
     "byzantine_upgrade"
   ],

@@ -3,6 +3,7 @@
   "baseId": "ability-network-of-citadels",
   "type": "ability",
   "name": "Network of Citadels",
+  "nameCN": "城堡网络",
   "pbgid": 2160807,
   "attribName": "network_of_citadels_eng",
   "age": 1,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +30% increase to attack speed.",
+  "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +30%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

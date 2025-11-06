@@ -3,6 +3,7 @@
   "baseId": "great-bombard",
   "type": "unit",
   "name": "Great Bombard",
+  "nameCN": "重型火炮",
   "pbgid": 2058832,
   "attribName": "unit_great_bombard_4_ott",
   "age": 4,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Largest cannon that can be fielded. Excellent against buildings or groups of targets.\n+ High damage\n+ Area damage\n+ Long Range\n- Must be set up to fire",
+  "descriptionCN": "可供部署的最大型加农炮，非常适合对付建筑或目标群。\n+ 高伤害\n+ 范围伤害\n+ 远射程\n- 必须架设才能开火",
   "classes": [
     "annihilation_condition",
     "formational",

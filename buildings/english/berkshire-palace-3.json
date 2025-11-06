@@ -3,6 +3,7 @@
   "baseId": "berkshire-palace",
   "type": "building",
   "name": "Berkshire Palace",
+  "nameCN": "伯克郡宫殿",
   "pbgid": 166272,
   "attribName": "building_landmark_age3_windsor_castle_eng",
   "age": 3,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Acts as a Keep with increased health and powerful incendiary arrows. All weapons have 14.5 tiles of range.",
+  "descriptionCN": "作为一个城堡使用，拥有增加的生命值和强大的燃烧箭。所有武器都有 14.5 格的射程。",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",

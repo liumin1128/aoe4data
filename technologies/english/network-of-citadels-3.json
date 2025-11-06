@@ -3,6 +3,7 @@
   "baseId": "network-of-citadels",
   "type": "technology",
   "name": "Network of Citadels",
+  "nameCN": "城堡网络",
   "pbgid": 2014204,
   "attribName": "upgrade_network_of_citadels_eng",
   "age": 3,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increase the Network of Castles attack speed bonus from +20% to +30%.",
+  "descriptionCN": "将城堡网络的攻击速度加成从 +20% 提高至 +30%。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

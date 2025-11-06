@@ -3,6 +3,7 @@
   "baseId": "farima-leadership",
   "type": "technology",
   "name": "Farima Leadership",
+  "nameCN": "法里玛领导制",
   "pbgid": 2064217,
   "attribName": "upgrade_sofa_farima_leadership_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Sofa increase the movement speed of nearby infantry by +15%.",
+  "descriptionCN": "索法骑手提高附近步兵的移动速度 +15%。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

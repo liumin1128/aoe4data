@@ -3,6 +3,7 @@
   "baseId": "lettre-de-change",
   "type": "technology",
   "name": "Lettre de Change",
+  "nameCN": "本票",
   "pbgid": 9000053,
   "attribName": "upgrade_lettre_de_change_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Unlocks the Pilgrim Loan abilities, which loan a large sum of food for a return in gold over time.",
+  "descriptionCN": "解锁朝圣者借贷技能，可以出借大量食物以持续获取黄金作为回报。",
   "classes": [
     "economic_upgrade",
     "scar_castle_age_upgrade",

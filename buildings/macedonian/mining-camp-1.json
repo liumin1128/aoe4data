@@ -3,6 +3,7 @@
   "baseId": "mining-camp",
   "type": "building",
   "name": "Mining Camp",
+  "nameCN": "采矿场",
   "pbgid": 9000933,
   "attribName": "building_econ_mining_camp_control_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining. Villagers drop off Silver in addition to Stone and Gold at Mining Camps.",
+  "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。除了在采矿营地存放石料和黄金外，村民还存放白银。",
   "classes": [
     "building",
     "economy_building",

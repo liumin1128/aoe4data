@@ -3,6 +3,7 @@
   "baseId": "mill",
   "type": "building",
   "name": "Mill",
+  "nameCN": "磨坊",
   "pbgid": 4101858,
   "attribName": "building_econ_food_control_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
   "classes": [
     "building",
     "economy_building",

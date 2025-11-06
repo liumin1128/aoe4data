@@ -3,6 +3,7 @@
   "baseId": "aachen-chapel",
   "type": "building",
   "name": "Aachen Chapel",
+  "nameCN": "亚琛教堂",
   "pbgid": 5278895,
   "attribName": "building_landmark_age1_palantine_chapel_hre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Inspires all Villagers in a large radius and increases their gather rate by +15%. \nActs as a drop-off point for all resource types.",
+  "descriptionCN": "鼓舞大范围内所有村民，使他们的采集速率 +15%。\n可作为所有资源类型的存放点使用。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

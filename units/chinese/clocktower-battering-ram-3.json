@@ -3,6 +3,7 @@
   "baseId": "clocktower-battering-ram",
   "type": "unit",
   "name": "Clocktower Battering Ram",
+  "nameCN": "钟楼攻城锤",
   "pbgid": 2120982,
   "attribName": "unit_ram_3_clocktower_chi",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+  "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
   "classes": [
     "annihilation_condition",
     "elite",

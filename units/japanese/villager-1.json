@@ -3,6 +3,7 @@
   "baseId": "villager",
   "type": "unit",
   "name": "Villager",
+  "nameCN": "村民",
   "pbgid": 7287301,
   "attribName": "unit_villager_1_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced.",
+  "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。",
   "classes": [
     "annihilation_condition",
     "builder",

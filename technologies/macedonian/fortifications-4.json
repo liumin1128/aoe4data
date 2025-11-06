@@ -3,6 +3,7 @@
   "baseId": "fortifications",
   "type": "technology",
   "name": "Fortifications",
+  "nameCN": "防御工事",
   "pbgid": 9004668,
   "attribName": "upgrade_arsenal_building_survivability_6_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the health of all buildings by 10%.",
+  "descriptionCN": "所有建筑的生命值提升 10%。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

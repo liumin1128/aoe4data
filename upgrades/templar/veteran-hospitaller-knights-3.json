@@ -3,6 +3,7 @@
   "baseId": "veteran-hospitaller-knights",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 8999915,
   "attribName": "upgrade_unit_hospitaller_3_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Upgrade Hospitaller Knights to Veteran Hospitaller Knights.",
+  "descriptionCN": "将医院骑士升级为老练医院骑士。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

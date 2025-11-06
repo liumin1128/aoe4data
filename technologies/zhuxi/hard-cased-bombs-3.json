@@ -3,6 +3,7 @@
   "baseId": "hard-cased-bombs",
   "type": "technology",
   "name": "Hard Cased Bombs",
+  "nameCN": "硬壳炸弹",
   "pbgid": 2130239,
   "attribName": "upgrade_gunpowder_damage_chi_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Units receive +15% Ranged and Melee damage for 5 seconds when hit by a Grenade.",
+  "descriptionCN": "单位被手榴弹击中时，会在 5 秒内受到 +15% 的远程伤害和近战伤害。",
   "classes": [
     "chinese_ha_01_upgrade",
     "scar_imperial_age_upgrade",

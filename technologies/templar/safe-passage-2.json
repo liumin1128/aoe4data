@@ -3,6 +3,7 @@
   "baseId": "safe-passage",
   "type": "technology",
   "name": "Safe Passage",
+  "nameCN": "安全通道",
   "pbgid": 9000048,
   "attribName": "upgrade_safe_passage_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Activates Pilgrims.\nPilgrims spawn every 60 seconds. Start with 1 pilgrim, gain 1 pilgrims for each Fortress (Max 10).",
+  "descriptionCN": "激活朝圣者。\n朝圣者每 60 秒生成一次。以 1 名朝圣者开局，每拥有一个要塞便可获得 1 名朝圣者 (最多 10 名)。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

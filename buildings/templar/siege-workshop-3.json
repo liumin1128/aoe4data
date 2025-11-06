@@ -3,6 +3,7 @@
   "baseId": "siege-workshop",
   "type": "building",
   "name": "Siege Workshop",
+  "nameCN": "攻城武器厂",
   "pbgid": 5000236,
   "attribName": "building_siege_workshop_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Produces siege engines and powerful gunpowder units.",
+  "descriptionCN": "生产攻城器械和强大的火药单位。",
   "classes": [
     "building",
     "military_only_production",

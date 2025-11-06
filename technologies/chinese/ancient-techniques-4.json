@@ -3,6 +3,7 @@
   "baseId": "ancient-techniques",
   "type": "technology",
   "name": "Ancient Techniques",
+  "nameCN": "古代技术",
   "pbgid": 220924,
   "attribName": "upgrade_dynasty_econ_bonus_chi",
   "age": 4,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Increase the gathering rate of Villagers by +5% for each dynasty achieved.",
+  "descriptionCN": "每达到一个王朝时村民的采集速率 +5%。",
   "classes": [
     "chinese_upgrade",
     "economic_upgrade",

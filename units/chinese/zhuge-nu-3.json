@@ -3,6 +3,7 @@
   "baseId": "zhuge-nu",
   "type": "unit",
   "name": "Veteran Zhuge Nu",
+  "nameCN": "老练诸葛弩手",
   "pbgid": 166630,
   "attribName": "unit_repeater_crossbowman_3_chi",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Fires bolts with a ferocious damage potential against enemy units.\n+ High rate of fire\n- Ineffective vs high ranged armor targets\n- Countered by Horsemen",
+  "descriptionCN": "向敌方单位发射具有巨大伤害潜力的箭矢。\n+ 射速高\n- 对高远程护甲单位无效\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "crossbowman",

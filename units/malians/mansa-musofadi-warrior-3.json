@@ -3,6 +3,7 @@
   "baseId": "mansa-musofadi-warrior",
   "type": "unit",
   "name": "Veteran Mansa Musofadi Warrior",
+  "nameCN": "老练曼萨穆索法迪战士",
   "pbgid": 9000338,
   "attribName": "unit_mansa_musofadi_3_mal",
   "age": 3,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Infantry effective at ambush attacks and countering heavy targets. Has additional melee armor and health.\n+ Can enter stealth\n+ Anti-heavy specialist\n- Low health\n- Countered by Archers\n- Capital Town Centers, Outposts, and Scouts can spot stealth",
+  "descriptionCN": "擅长伏击和克制重型目标的步兵。拥有额外的近战护甲和生命值。\n+ 可以进入匿踪状态\n+ 反重型专家\n- 生命值低\n- 受弓兵克制\n- 首都城镇中心、哨站和侦察兵可以识破匿踪",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

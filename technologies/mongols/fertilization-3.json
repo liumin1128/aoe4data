@@ -3,6 +3,7 @@
   "baseId": "fertilization",
   "type": "technology",
   "name": "Fertilization",
+  "nameCN": "施肥",
   "pbgid": 171292,
   "attribName": "upgrade_econ_resource_food_harvest_rate_3",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+  "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

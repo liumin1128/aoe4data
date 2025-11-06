@@ -3,6 +3,7 @@
   "baseId": "mangonel-emplacement",
   "type": "technology",
   "name": "Mangonel Emplacement",
+  "nameCN": "轻型投石车炮台",
   "pbgid": 2129278,
   "attribName": "upgrade_keep_mangonel_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Add a defensive mangonel emplacement to this structure.",
+  "descriptionCN": "为该建筑增加一座用于防御的轻型投石车炮台。",
   "classes": [
     "byzantine_upgrade",
     "emplacement_upgrade",

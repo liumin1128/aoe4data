@@ -3,6 +3,7 @@
   "baseId": "monk",
   "type": "unit",
   "name": "Monk",
+  "nameCN": "僧侣",
   "pbgid": 6782850,
   "attribName": "unit_monk_2_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Slow movement speed",
+  "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "carrier",

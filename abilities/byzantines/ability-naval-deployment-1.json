@@ -3,6 +3,7 @@
   "baseId": "ability-naval-deployment",
   "type": "ability",
   "name": "Naval Deployment",
+  "nameCN": "海军部署",
   "pbgid": 2146720,
   "attribName": "naval_transport_movespeed_unload_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Increased movement speed after unloading from a Transport Ship.",
+  "descriptionCN": "运输船在卸载后的移动速度加快。",
   "classes": [],
   "displayClasses": [],
   "costs": {},

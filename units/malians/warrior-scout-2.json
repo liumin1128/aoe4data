@@ -3,6 +3,7 @@
   "baseId": "warrior-scout",
   "type": "unit",
   "name": "Warrior Scout",
+  "nameCN": "战士侦察兵",
   "pbgid": 2073403,
   "attribName": "unit_scout_2_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Fast cavalry effective at raiding, exploring the world, hunting wildlife, and herding Sheep.\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak in combat",
+  "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和放牧绵羊。\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
   "classes": [
     "annihilation_condition",
     "carrier",

@@ -3,6 +3,7 @@
   "baseId": "shire-levy",
   "type": "technology",
   "name": "Shire Levy",
+  "nameCN": "郡税",
   "pbgid": 9001243,
   "attribName": "upgrade_shire_levy_3",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
+  "descriptionCN": "征召 8 个英皇侍卫，每拥有一个庄园则可额外获得 1 个英皇侍卫。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

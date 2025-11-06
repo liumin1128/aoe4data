@@ -3,6 +3,7 @@
   "baseId": "long-guns",
   "type": "technology",
   "name": "Long Guns",
+  "nameCN": "长管大炮",
   "pbgid": 2033833,
   "attribName": "upgrade_naval_long_guns_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Increase the damage of naval cannons by +15%.",
+  "descriptionCN": "海军加农炮伤害 +15%。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

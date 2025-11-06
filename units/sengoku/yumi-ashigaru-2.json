@@ -3,6 +3,7 @@
   "baseId": "yumi-ashigaru",
   "type": "unit",
   "name": "Yumi Ashigaru",
+  "nameCN": "弓足轻",
   "pbgid": 7775331,
   "attribName": "unit_archer_2_jpn_ha_sen",
   "age": 2,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Quick and cheap ranged infantry with good damage vs. unarmored targets.\n+ Increased move speed\n+ Cheaper than Archers\n- Reduced health\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+  "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "archer",

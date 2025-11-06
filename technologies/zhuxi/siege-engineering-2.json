@@ -3,6 +3,7 @@
   "baseId": "siege-engineering",
   "type": "technology",
   "name": "Siege Engineering",
+  "nameCN": "攻城工程学",
   "pbgid": 127860,
   "attribName": "upgrade_siege_engineers",
   "age": 2,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field.",
+  "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
   "classes": [
     "byzantine_upgrade",
     "chinese_ha_01_upgrade",

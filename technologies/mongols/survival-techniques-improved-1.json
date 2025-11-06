@@ -3,6 +3,7 @@
   "baseId": "survival-techniques-improved",
   "type": "technology",
   "name": "Survival Techniques (Improved)",
+  "nameCN": "生存技术 (已强化)",
   "pbgid": 203469,
   "attribName": "upgrade_econ_villager_hunting_gear_1_improved_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Villagers' hunted meat gather rate by +25%.\nIf Survival Techniques has already been researched, increase hunted meat gather rate by +10% instead.",
+  "descriptionCN": "村民狩猎肉类采集速率 +25%。\n如果已完成生存技术研究，则村民狩猎肉类采集速率 +10%。",
   "classes": [
     "economic_upgrade",
     "mongol_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "scout",
   "type": "unit",
   "name": "Scout",
+  "nameCN": "侦察兵",
   "pbgid": 4180705,
   "attribName": "unit_scout_1_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+  "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
   "classes": [
     "annihilation_condition",
     "carrier",

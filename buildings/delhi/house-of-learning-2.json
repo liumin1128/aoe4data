@@ -3,6 +3,7 @@
   "baseId": "house-of-learning",
   "type": "building",
   "name": "House of Learning",
+  "nameCN": "学苑",
   "pbgid": 135889,
   "attribName": "building_landmark_age2_khiji_mosque_control_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Grants no immediate bonus other than advancing to the next Age, but contains many unique technologies.",
+  "descriptionCN": "除了发展到下一个时代外不会获得任何立即性加成，但包含许多独特的科技。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

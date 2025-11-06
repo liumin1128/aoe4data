@@ -3,6 +3,7 @@
   "baseId": "hunting-cabin",
   "type": "building",
   "name": "Hunting Cabin",
+  "nameCN": "狩猎小屋",
   "pbgid": 172205,
   "attribName": "building_hunting_cabin_rus",
   "age": 1,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Villagers can drop off Food at this building. It houses technologies to improve Food gathering and produces Scouts.\nGenerates Gold based on the number of nearby trees. Trees in overlapped areas are only counted once.",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究增加食物采集效率和生产侦察兵的科技。\n根据附近的树木数量生产黄金。位于重合区域的树木只计算一次。",
   "classes": [
     "audio_production_landmark",
     "building",

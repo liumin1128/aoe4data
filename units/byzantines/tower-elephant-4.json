@@ -3,6 +3,7 @@
   "baseId": "tower-elephant",
   "type": "unit",
   "name": "Tower Elephant",
+  "nameCN": "箭塔象",
   "pbgid": 2104184,
   "attribName": "unit_war_elephant_tower_4_merc_byz",
   "age": 4,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Powerful ranged cavalry that can fire while moving.\n+ High health\n+ Mounted with powerful Archers\n+ Capable of attacking Stone Walls\n- Slow movement speed\n\nMercenary that can be purchased for 1000 Olive Oil.\n\nRequires the Eastern Mercenary Contract.",
+  "descriptionCN": "强大的远程骑兵，移动时也可进行射击。\n+ 高生命值\n+ 背上有强大的步弓手\n+ 可以攻击石墙\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "cavalry",

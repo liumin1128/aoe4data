@@ -3,6 +3,7 @@
   "baseId": "ability-ranged-defense-drums",
   "type": "ability",
   "name": "Ranged Defense Drums",
+  "nameCN": "远程防御战鼓 (关闭)",
   "pbgid": 2074303,
   "attribName": "mehter_ranged_armor_buff_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Mehter drums that increase the ranged armor of nearby units by +1.",
+  "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的远程护甲增加 +1。",
   "classes": [],
   "displayClasses": [],
   "costs": {

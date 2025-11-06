@@ -3,6 +3,7 @@
   "baseId": "ability-blacksmith-and-university-influence",
   "type": "ability",
   "name": "Blacksmith and University Influence",
+  "nameCN": "铁匠铺和大学的影响",
   "pbgid": 2082042,
   "attribName": "university_blacksmith_influence_ott",
   "age": 2,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%.",
+  "descriptionCN": "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

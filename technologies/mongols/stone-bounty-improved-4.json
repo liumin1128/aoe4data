@@ -3,6 +3,7 @@
   "baseId": "stone-bounty-improved",
   "type": "technology",
   "name": "Stone Bounty (Improved)",
+  "nameCN": "石料赏金 (已强化)",
   "pbgid": 205808,
   "attribName": "upgrade_raid_stone_bounty_improved_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Add +75 Stone to the raid income for igniting a building.\nIf Stone Bounty has already been researched, add +25 Stone to the raid income for igniting a building.",
+  "descriptionCN": "点燃建筑带来的突袭收入 +75 石料。\n如果已完成石料赏金研究，则点燃建筑带来的突袭收入 +25 石料。",
   "classes": [
     "mongol_upgrade",
     "scar_economic_upgrade",

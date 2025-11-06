@@ -3,6 +3,7 @@
   "baseId": "siege-tower",
   "type": "unit",
   "name": "Siege Tower",
+  "nameCN": "攻城塔",
   "pbgid": 134700,
   "attribName": "unit_siege_tower_3_hre",
   "age": 2,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+  "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "formational",

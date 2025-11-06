@@ -3,6 +3,7 @@
   "baseId": "scutage",
   "type": "technology",
   "name": "Scutage",
+  "nameCN": "免役税",
   "pbgid": 9002099,
   "attribName": "upgrade_manor_gold_lan",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "The Lord of Lancaster levies a tax on all vassals to fund war efforts. Manors generate 30 gold per minute.",
+  "descriptionCN": "兰开斯特国王向所有附庸国征税以资助战争。庄园每分钟产生 30 的黄金。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "ability-praesidium",
   "type": "ability",
   "name": "Praesidium",
+  "nameCN": "委员会",
   "pbgid": 2146134,
   "attribName": "toggle_landmark_cistern_influence_4_byz",
   "age": 4,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Building damage taken decreased by -5%/-10%/-15%/-20%/-25% by Water Level while within the influence of a Cistern.",
+  "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

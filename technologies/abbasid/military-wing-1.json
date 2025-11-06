@@ -3,6 +3,7 @@
   "baseId": "military-wing",
   "type": "technology",
   "name": "Military Wing",
+  "nameCN": "军事偏殿",
   "pbgid": 2033117,
   "attribName": "upgrade_add_military_wing",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Constructs the Military Wing. Upon completion, grants 2 Spearmen & 2 Archers (Age II), 2 Camel Riders (Age III), or 3 Handcannoneers (Age IV).\nUnlocks:\n•Boot Camp (Age II)\n•Composite Bows (Age III)\n•Camel Support (Age IV)",
+  "descriptionCN": "建造军事偏殿。完成后可获得 2 名长矛兵和 2 名步弓手 (第二时代)、2 名骆驼骑兵 (第三时代) 或 3 名火枪兵 (第四时代)。\n解锁：\n•新兵训练营 (第二时代) \n•复合弓 (第三时代) \n•骆驼支援 (第四时代)",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

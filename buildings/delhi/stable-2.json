@@ -3,6 +3,7 @@
   "baseId": "stable",
   "type": "building",
   "name": "Stable",
+  "nameCN": "马厩",
   "pbgid": 135860,
   "attribName": "building_unit_cavalry_control_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Produces cavalry military units.",
+  "descriptionCN": "生产骑兵军事单位。",
   "classes": [
     "building",
     "military_only_production",

@@ -3,6 +3,7 @@
   "baseId": "springald-crews",
   "type": "technology",
   "name": "Springald Crews",
+  "nameCN": "扭力弩炮队",
   "pbgid": 2101638,
   "attribName": "upgrade_naval_springald_ship_upgrade_1",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Springald Ships gain +1 range and attack 20% faster.",
+  "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

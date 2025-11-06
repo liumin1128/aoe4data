@@ -3,6 +3,7 @@
   "baseId": "men-at-arms",
   "type": "upgrade",
   "name": "Upgrade to Man-at-Arms",
+  "nameCN": "升级为武士",
   "pbgid": 168041,
   "attribName": "upgrade_unit_manatarms_3_hre",
   "age": 3,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Upgrade Early Men-at-Arms to Men-at-Arms.",
+  "descriptionCN": "将早期武士升级为武士。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "horsemen",
   "type": "upgrade",
   "name": "Upgrade to Horseman",
+  "nameCN": "升级为骑手",
   "pbgid": 129562,
   "attribName": "upgrade_unit_horseman_2_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Upgrade Early Horsemen to Horsemen.",
+  "descriptionCN": "将早期骑手升级为骑手。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

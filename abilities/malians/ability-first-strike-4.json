@@ -3,6 +3,7 @@
   "baseId": "ability-first-strike",
   "type": "ability",
   "name": "First Strike",
+  "nameCN": "先发制人",
   "pbgid": 2067085,
   "attribName": "gbeto_ambush_buff_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Musofadi Warriors and Musofadi Gunners deal double damage on their first attack when breaking stealth.",
+  "descriptionCN": "可提升下一次攻击造成的伤害。",
   "classes": [],
   "displayClasses": [],
   "costs": {

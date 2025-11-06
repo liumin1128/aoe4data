@@ -3,6 +3,7 @@
   "baseId": "huihui-pao",
   "type": "unit",
   "name": "Huihui Pao",
+  "nameCN": "回回炮",
   "pbgid": 2117335,
   "attribName": "unit_khaganate_great_trebuchet_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Massive siege engine with incredible range, extra effective at destroying buildings and walls.\n+ Extremely long range\n- Must be set up to fire\n\nRandomly spawns from the Khaganate Palace.",
+  "descriptionCN": "巨大的攻城器械，攻击范围非常远，特别擅长摧毁建筑物和城墙。\n+ 攻击范围极长\n- 必须架设才能开火",
   "classes": [
     "annihilation_condition",
     "catapult",

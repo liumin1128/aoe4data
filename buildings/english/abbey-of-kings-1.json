@@ -3,6 +3,7 @@
   "baseId": "abbey-of-kings",
   "type": "building",
   "name": "Abbey of Kings",
+  "nameCN": "列王修道院",
   "pbgid": 166274,
   "attribName": "building_landmark_age1_westminster_abbey_eng",
   "age": 1,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds. May also Crown a King, a powerful cavalry leader with a healing aura. Queues production of a free King upon completion.",
+  "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒恢复其 +6 生命值。也可以加冕一位国王，一位带有治疗光环的强大骑兵领袖。完成后自动生产一个免费国王。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

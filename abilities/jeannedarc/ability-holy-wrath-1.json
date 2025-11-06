@@ -3,6 +3,7 @@
   "baseId": "ability-holy-wrath",
   "type": "ability",
   "name": "Holy Wrath",
+  "nameCN": "神圣愤怒",
   "pbgid": 2141553,
   "attribName": "jeanne_d_arc_aoe_damage_ability_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Jeanne unleashes a powerful area of effect attack, striking all enemies within 1.25 tiles for 20 damage.\nCooldown: 8 Seconds.\nRecharge Time: 60 Seconds.\nMax Charges: 4.",
+  "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "ability-dialecticus",
   "type": "ability",
   "name": "Dialecticus",
+  "nameCN": "辩证法",
   "pbgid": 2146133,
   "attribName": "toggle_landmark_cistern_influence_3_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Research rate increased +30%/+60%/+90%/+120%/+150% by Water Level while within the influence of a Cistern.",
+  "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

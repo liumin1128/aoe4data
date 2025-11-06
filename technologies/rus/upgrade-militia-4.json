@@ -3,6 +3,7 @@
   "baseId": "upgrade-militia-4",
   "type": "technology",
   "name": "Imperial Age Militia",
+  "nameCN": "(translation not found) (undefined)",
   "pbgid": 2124315,
   "attribName": "upgrade_militia_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increases the health, attack and armor of Militia when reaching Imperial Age.",
+  "descriptionCN": "(translation not found) (undefined)",
   "classes": [
     "Militia",
     "scaling",

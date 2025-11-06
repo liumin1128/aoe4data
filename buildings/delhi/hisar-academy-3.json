@@ -3,6 +3,7 @@
   "baseId": "hisar-academy",
   "type": "building",
   "name": "Hisar Academy",
+  "nameCN": "希萨尔学院",
   "pbgid": 135890,
   "attribName": "building_landmark_age3_madrasa_e_firoz_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Acts as Madrasa. Generates +12 Food per minute based on the number of technologies researched. Does not apply to emplacements.",
+  "descriptionCN": "可作为穆斯林学塾使用。根据研究科技数量，每分钟产生 +12 份食物。不适用于炮台。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "market",
   "type": "building",
   "name": "Market",
+  "nameCN": "市场",
   "pbgid": 144675,
   "attribName": "building_econ_market_control_chi",
   "age": 2,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+  "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
   "classes": [
     "building",
     "economy_building",

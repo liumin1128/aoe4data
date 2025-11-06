@@ -3,6 +3,7 @@
   "baseId": "crossbowman",
   "type": "unit",
   "name": "Elite Crossbowman",
+  "nameCN": "精锐弩手",
   "pbgid": 9001009,
   "attribName": "unit_crossbowman_4_byz_ha_mac",
   "age": 4,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "High damage ranged unit best against heavy targets.\n+ Anti-heavy specialist\n- Low health\n- Countered by Horsemen",
+  "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "arbalest_animate",

@@ -3,6 +3,7 @@
   "baseId": "high-armory",
   "type": "building",
   "name": "High Armory",
+  "nameCN": "高级军械库",
   "pbgid": 133433,
   "attribName": "building_landmark_age3_kremlin_armoury_rus",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Decrease the cost of siege engines in nearby Siege Workshops by -20%. Contains unique siege engine technologies.",
+  "descriptionCN": "邻近攻城器械厂的攻城器械成本 -20%，并包含独特攻城器械科技。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "khans-hunter",
   "type": "unit",
   "name": "Khan's Hunter",
+  "nameCN": "汗的猎人",
   "pbgid": 9000100,
   "attribName": "unit_khan_hunter_deer_double_2_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Supporting Cavalry Archer that can fire while moving. Has the Khan's Hunter Aura that improves the range of nearby ranged units.\n+High Mobility\n+Excellent Vision\n-Low Health",
+  "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
   "classes": [
     "annihilation_condition",
     "archer",

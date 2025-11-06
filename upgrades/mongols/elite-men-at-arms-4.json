@@ -3,6 +3,7 @@
   "baseId": "elite-men-at-arms",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 136329,
   "attribName": "upgrade_unit_manatarms_4_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+  "descriptionCN": "将武士升级为精锐武士。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

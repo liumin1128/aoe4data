@@ -3,6 +3,7 @@
   "baseId": "feudal-economic-wing-industry",
   "type": "technology",
   "name": "Industry\n(Feudal Economic Wing)",
+  "nameCN": "经济偏殿：工业",
   "pbgid": 2141094,
   "attribName": "upgrade_add_economy_wing_dark_b_abb_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Constructs the Economic Wing.\nUpon completion, awards 400 Wood. Villagers build +30% faster.",
+  "descriptionCN": "建造经济偏殿。\n完成后获得 400 木材。村民建造速度 +30%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

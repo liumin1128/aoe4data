@@ -3,6 +3,7 @@
   "baseId": "fire-stations",
   "type": "technology",
   "name": "Fire Stations",
+  "nameCN": "消防站",
   "pbgid": 2034072,
   "attribName": "upgrade_naval_firestations_hre",
   "age": 2,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Military Ships regenerate +1 health every 2 seconds when out of combat.",
+  "descriptionCN": "军事船只在脱离战斗后每 2 秒可恢复 1 生命值。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "daimyo-palace",
   "type": "technology",
   "name": "Daimyo Palace",
+  "nameCN": "大名官邸",
   "pbgid": 2122005,
   "attribName": "upgrade_capital_tier_2_jpn",
   "age": 2,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Increases the production cap of Bannerman Samurai by +2 and provides a free Villager.\nIncreases Town Center health by +2000, fire armor by +2, adds an additional arrow slit, and adds an aura which enhances Villagers harvest rate from Farms by +40%.",
+  "descriptionCN": "旗本日本武士的生产上限增加 +2，并提供一个免费的村民。\n城镇中心生命值增加 +2000，火焰护甲增加 +2，增加一个额外的射箭槽，并附加一个光环，使村民的农田采集速率提高 +40%。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade"

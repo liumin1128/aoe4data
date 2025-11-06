@@ -3,6 +3,7 @@
   "baseId": "limitanei",
   "type": "unit",
   "name": "Limitanei",
+  "nameCN": "边防军",
   "pbgid": 4820556,
   "attribName": "unit_spearman_1_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Infantry best used against cavalry. Can enter Shield Wall to take reduced ranged damage.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n+ Increased health\n- Shield Wall reduces move speed\n- Weak vs heavy infantry\n- Countered by Archers",
+  "descriptionCN": "最适合用来对付骑兵的步兵。可进入盾墙以减少远程伤害。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n+ 生命值增加\n- 盾墙会降低移动速度\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

@@ -3,6 +3,7 @@
   "baseId": "transport-ship",
   "type": "unit",
   "name": "Transport Ship",
+  "nameCN": "运输船",
   "pbgid": 2046452,
   "attribName": "unit_naval_transport_ship_2_ott",
   "age": 2,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+  "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
   "classes": [
     "annihilation_condition",
     "medium_ship",

@@ -3,6 +3,7 @@
   "baseId": "sea-gate-castle",
   "type": "building",
   "name": "Sea Gate Castle",
+  "nameCN": "海门城堡",
   "pbgid": 2055472,
   "attribName": "building_landmark_age3_kilitbahir_castle_ott",
   "age": 3,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Acts as a Keep with a free Great Bombard emplacement. All Keeps gain an aura that increases Trader and Trade Ship movement speed by +30% and armor by +8.",
+  "descriptionCN": "可作为城堡使用，带有一个重型火炮炮台。所有城堡都会获得光环，使商人和商船的移动速度 +30% ，护甲 +8。",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",

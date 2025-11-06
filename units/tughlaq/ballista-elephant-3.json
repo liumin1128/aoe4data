@@ -3,6 +3,7 @@
   "baseId": "ballista-elephant",
   "type": "unit",
   "name": "Ballista Elephant",
+  "nameCN": "弩炮大象",
   "pbgid": 9001223,
   "attribName": "unit_war_elephant_ballista_3_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Ballista mounted elephant effective at dealing with melee infantry and hitting multiple targets.\n+ High health and armor\n+ Bonus damage vs. melee\n- Slow movement speed",
+  "descriptionCN": "安装在象背上的弩炮能够有效对付近战步兵和打击多个目标。\n+ 高生命值和高护甲\n+ 对近战单位造成额外伤害\n- 移动速度慢",
   "classes": [
     "annihilation_condition",
     "armored",

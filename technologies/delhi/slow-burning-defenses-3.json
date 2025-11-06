@@ -3,6 +3,7 @@
   "baseId": "slow-burning-defenses",
   "type": "technology",
   "name": "Slow-Burning Defenses",
+  "nameCN": "缓燃防御",
   "pbgid": 2108027,
   "attribName": "upgrade_landmark_keep_defense_compond_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Increase the fire armor of Stone Wall Towers, Keeps, and Outposts by +10.",
+  "descriptionCN": "石墙塔、城堡和哨站的火焰护甲 +10。",
   "classes": [],
   "displayClasses": [
     "Defensive Technology"

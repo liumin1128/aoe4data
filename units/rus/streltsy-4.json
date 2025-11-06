@@ -3,6 +3,7 @@
   "baseId": "streltsy",
   "type": "unit",
   "name": "Streltsy",
+  "nameCN": "射击军",
   "pbgid": 133458,
   "attribName": "unit_handcannon_4_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Most powerful ranged infantry with reasonable melee capabilities. Increased attack speed while stationary.\n+ High damage\n+ Lower cost than Handcannoneer\n- Slow movement speed",
+  "descriptionCN": "最强大的远程步兵，还拥有不错的近战能力。静止不动时可提高射速。\n+ 高伤害\n+ 成本低于火枪兵\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

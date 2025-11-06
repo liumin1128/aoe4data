@@ -3,6 +3,7 @@
   "baseId": "dhow",
   "type": "unit",
   "name": "Dhow",
+  "nameCN": "阿拉伯帆船",
   "pbgid": 3179988,
   "attribName": "unit_naval_dhow_2_abb_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Light war vessel armed with a crew of archers.\n+ Increased maneuverability and speed.\n+ Benefits from ranged damage Blacksmith technology",
+  "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
   "classes": [
     "annihilation_condition",
     "archer_ship",

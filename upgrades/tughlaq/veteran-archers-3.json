@@ -3,6 +3,7 @@
   "baseId": "veteran-archers",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 8222465,
   "attribName": "upgrade_unit_archer_3_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Upgrade Archers to Veteran Archers.",
+  "descriptionCN": "将步弓手升级为老练步弓手。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

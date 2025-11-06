@@ -3,6 +3,7 @@
   "baseId": "veteran-spearmen",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 124662,
   "attribName": "upgrade_unit_spearman_3",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+  "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

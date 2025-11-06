@@ -3,6 +3,7 @@
   "baseId": "elite-horsemen",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 124725,
   "attribName": "upgrade_unit_horseman_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+  "descriptionCN": "将老练骑手升级为精锐骑手。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

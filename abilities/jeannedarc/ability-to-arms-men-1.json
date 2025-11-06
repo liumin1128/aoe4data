@@ -3,6 +3,7 @@
   "baseId": "ability-to-arms-men",
   "type": "ability",
   "name": "To Arms, Men!",
+  "nameCN": "大家，拿起武器！",
   "pbgid": 2136640,
   "attribName": "jeanne_d_arc_rallying_call_manatarms_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Jeanne calls 3 Champions to her side.\nCooldown: 240 Seconds.",
+  "descriptionCN": "贞德召唤 3 名冠军剑士到她身边。\n冷却时间：240 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

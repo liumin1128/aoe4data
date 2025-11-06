@@ -3,6 +3,7 @@
   "baseId": "kharash",
   "type": "unit",
   "name": "Kharash",
+  "nameCN": "肉盾",
   "pbgid": 9002140,
   "attribName": "unit_stone_kharash_2_mon_ha_gol",
   "age": 2,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Low health and damage melee infantry that passively increases the armor of nearby units.\n+ Low cost and large recruitment batch \n- Weak against all types",
+  "descriptionCN": "低生命值、低伤害的近战步兵，能被动提升附近单位的护甲。\n+ 价格低廉，可大批量生产 \n- 在对抗所有类型的单位时都处于弱势",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

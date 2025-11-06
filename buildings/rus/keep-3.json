@@ -3,6 +3,7 @@
   "baseId": "keep",
   "type": "building",
   "name": "Keep",
+  "nameCN": "城堡",
   "pbgid": 133437,
   "attribName": "building_defense_keep_control_rus",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+  "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
   "classes": [
     "building",
     "castle",

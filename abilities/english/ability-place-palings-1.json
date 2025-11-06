@@ -3,6 +3,7 @@
   "baseId": "ability-place-palings",
   "type": "ability",
   "name": "Place Palings",
+  "nameCN": "放置拒马",
   "pbgid": 2025568,
   "attribName": "deploy_palings",
   "age": 1,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Enemy cavalry are stunned for 2.5 seconds and take 25 damage.",
+  "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
   "classes": [],
   "displayClasses": [],
   "costs": {

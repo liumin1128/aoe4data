@@ -3,6 +3,7 @@
   "baseId": "ferocious-speed",
   "type": "technology",
   "name": "Ferocious Speed",
+  "nameCN": "狂暴速度",
   "pbgid": 2104589,
   "attribName": "upgrade_varangian_berserk_speed_byz",
   "age": 4,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Varangian Guard increase their move speed by +30% when activating Berserking.",
+  "descriptionCN": "瓦兰吉卫队在激活狂战士时移动速度 +30%。",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",

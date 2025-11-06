@@ -3,6 +3,7 @@
   "baseId": "improved-yari",
   "type": "technology",
   "name": "Improved Yari",
+  "nameCN": "强化日本长枪",
   "pbgid": 9002008,
   "attribName": "upgrade_yari_improved_damage_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Increase Yari Cavalry anti-cavalry damage by +2.",
+  "descriptionCN": "日本长枪骑兵反骑兵伤害 +2。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

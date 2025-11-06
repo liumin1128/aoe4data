@@ -3,6 +3,7 @@
   "baseId": "burgrave-palace",
   "type": "building",
   "name": "Burgrave Palace",
+  "nameCN": "城主宫殿",
   "pbgid": 134918,
   "attribName": "building_landmark_age2_nuremberg_castle_hre",
   "age": 2,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Acts as a Barracks that produces 400% faster.\nInfantry gains +50% charge damage.",
+  "descriptionCN": "可作为兵营使用，生产速度提升 400%。\n步兵的冲锋伤害 +50%。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

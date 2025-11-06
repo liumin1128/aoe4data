@@ -3,6 +3,7 @@
   "baseId": "ability-brewery-delivery",
   "type": "ability",
   "name": "Brewery Delivery",
+  "nameCN": "酒厂送货",
   "pbgid": 9004283,
   "attribName": "brewery_rice_mat_manager_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "When 350 Gold is collected from the Toko-Koji Mats, a Sake delivery is sent to a nearby Matsuri.",
+  "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
   "classes": [],
   "displayClasses": [],
   "costs": {

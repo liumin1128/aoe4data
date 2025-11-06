@@ -3,6 +3,7 @@
   "baseId": "madrasa",
   "type": "building",
   "name": "Madrasa",
+  "nameCN": "穆斯林学塾",
   "pbgid": 199639,
   "attribName": "building_tech_university_control_abb",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Houses advanced technology that benefit the civilization.",
+  "descriptionCN": "可研究对整个文明有益的先进科技。",
   "classes": [
     "building",
     "golden_age_tier_1_building_abb",

@@ -3,6 +3,7 @@
   "baseId": "atgeirmadr",
   "type": "unit",
   "name": "Hardened Atgeirmaðr",
+  "nameCN": "坚韧阿特盖尔",
   "pbgid": 9001039,
   "attribName": "unit_spearman_2_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Infantry best used against mounted units. Attacks faster with nearby Varangians.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against armored infantry\n- Countered by Archers",
+  "descriptionCN": "最适合用来对付骑兵单位的步兵。附近有瓦兰吉单位时，攻击速度更快。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付装甲步兵\n- 会受到弓兵克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

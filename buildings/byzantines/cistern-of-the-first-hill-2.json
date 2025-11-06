@@ -3,6 +3,7 @@
   "baseId": "cistern-of-the-first-hill",
   "type": "building",
   "name": "Cistern of the First Hill",
+  "nameCN": "地下水宫",
   "pbgid": 2104794,
   "attribName": "building_landmark_age2_cistern_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Acts as a Cistern. Unlocks the Pilgrim Flask ability on non-siege military units, which can be activated to increase health regeneration by 25 per second for 6 seconds.\nFlasks refill every 30 seconds to a maximum of 20 active flasks.",
+  "descriptionCN": "可作为蓄水池使用。解锁朝圣者之瓶能力，用于非攻城类军事单位，激活后每秒恢复的生命值增加 25，持续 6 秒。\n瓶子每 30 秒充能一次，最多充能至 20 次。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

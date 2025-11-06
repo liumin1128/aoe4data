@@ -3,6 +3,7 @@
   "baseId": "battering-ram",
   "type": "unit",
   "name": "Battering Ram",
+  "nameCN": "攻城锤",
   "pbgid": 2145247,
   "attribName": "unit_workshop_ram_3_hre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+  "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
   "classes": [
     "annihilation_condition",
     "formational",

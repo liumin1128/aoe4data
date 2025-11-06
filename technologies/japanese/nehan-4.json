@@ -3,6 +3,7 @@
   "baseId": "nehan",
   "type": "technology",
   "name": "Nehan",
+  "nameCN": "涅槃",
   "pbgid": 2158006,
   "attribName": "upgrade_temple_nehan_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Upgrades Buddhist Conversion to Nehan Conversion, which has a 25% shorter cooldown and additionally improves nearby allied units movement speed by +25% when cast.",
+  "descriptionCN": "将佛教皈依升级为涅槃皈依，其冷却缩短 25%，并在施放时附近盟友单位移动速度额外 +25%。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

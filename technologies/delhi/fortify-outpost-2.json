@@ -3,6 +3,7 @@
   "baseId": "fortify-outpost",
   "type": "technology",
   "name": "Fortify Outpost",
+  "nameCN": "强化哨站",
   "pbgid": 127331,
   "attribName": "upgrade_outpost_stone",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Add +1000 health and +5 fire armor to this Outpost.",
+  "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "castle-of-the-crow",
   "type": "building",
   "name": "Castle of the Crow",
+  "nameCN": "乌城",
   "pbgid": 3429541,
   "attribName": "building_landmark_age3_crow_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Acts as a Castle. Reduces the cost of constructing Castles by 33%. Siege units nearby any Castle gain +10% damage and +1 tiles range.",
+  "descriptionCN": "可作为城堡使用。建造城堡的成本降低 33%。所有城堡附近的攻城单位造成的伤害 +10%，射程 +1 格。",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",

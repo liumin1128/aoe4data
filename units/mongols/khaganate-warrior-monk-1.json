@@ -3,6 +3,7 @@
   "baseId": "khaganate-warrior-monk",
   "type": "unit",
   "name": "Khaganate Warrior Monk",
+  "nameCN": "僧侣战士",
   "pbgid": 2104799,
   "attribName": "unit_khaganate_monk_rus_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Military-minded support unit that improves combat capabilities of nearby units after it attacks. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n+ High utility in large armies\n- Low damage\n\nRandomly spawns 2 at the time from the Khaganate Palace.",
+  "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
   "classes": [
     "annihilation_condition",
     "carrier",

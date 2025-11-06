@@ -3,6 +3,7 @@
   "baseId": "palace-guard",
   "type": "unit",
   "name": "Palace Guard",
+  "nameCN": "皇宫卫兵",
   "pbgid": 4841125,
   "attribName": "unit_manatarms_3_chi_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Tough infantry with good damage. Move faster than Men-At-Arms, but with reduced armor.\n+ Heavy armor\n- Countered by Knights, Lancers, and Crossbowmen.",
+  "descriptionCN": "可造成可观伤害的强壮步兵。移动速度比武士快，但护甲更低。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

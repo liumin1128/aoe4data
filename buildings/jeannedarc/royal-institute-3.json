@@ -3,6 +3,7 @@
   "baseId": "royal-institute",
   "type": "building",
   "name": "Royal Institute",
+  "nameCN": "皇家学院",
   "pbgid": 2694641,
   "attribName": "building_landmark_age3_le_grande_university_fre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Houses unique technologies. Research is -30% cheaper here and ignores Age requirements.",
+  "descriptionCN": "可研究独特科技。此建筑的研究成本 -30%，并可无视时代需求。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

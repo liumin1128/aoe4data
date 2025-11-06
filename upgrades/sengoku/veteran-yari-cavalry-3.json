@@ -3,6 +3,7 @@
   "baseId": "veteran-yari-cavalry",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 9002068,
   "attribName": "upgrade_unit_horseman_3_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Upgrade Yari Cavalry to Veteran Yari Cavalry.",
+  "descriptionCN": "将日本长枪骑兵升级为老练日本长枪骑兵。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

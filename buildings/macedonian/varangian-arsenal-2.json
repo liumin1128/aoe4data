@@ -3,6 +3,7 @@
   "baseId": "varangian-arsenal",
   "type": "building",
   "name": "Varangian Arsenal",
+  "nameCN": "瓦兰吉兵工厂",
   "pbgid": 9003576,
   "attribName": "building_tech_unit_varangian_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Houses advanced technology for the Macedonian Dynasty.",
+  "descriptionCN": "推动马其顿王朝的科技发展。",
   "classes": [
     "bowyer",
     "building",

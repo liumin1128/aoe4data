@@ -3,6 +3,7 @@
   "baseId": "donso",
   "type": "unit",
   "name": "Elite Donso",
+  "nameCN": "精锐当佐兵",
   "pbgid": 2851821,
   "attribName": "unit_spearman_4_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Infantry best used against mounted units. Periodically throws a javelin when attacking from ranged.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n+ Comes with melee armor\n- Weak against heavy infantry\n- Countered by Archers and Longbowmen",
+  "descriptionCN": "最适合用来对付骑兵单位的步兵。远程攻击时定期投掷标枪。\n+ 反骑兵专家\n+ 对象兵造成额外伤害\n+ 自带近战护甲\n- 不擅长对付重型步兵\n- 会受到弓兵和长弓兵克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

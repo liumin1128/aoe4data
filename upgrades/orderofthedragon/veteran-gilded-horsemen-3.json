@@ -3,6 +3,7 @@
   "baseId": "veteran-gilded-horsemen",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 2146726,
   "attribName": "upgrade_unit_horseman_3_hre_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Upgrade Gilded Horsemen to Veteran Gilded Horsemen.",
+  "descriptionCN": "将镀金骑手升级为老练镀金骑手。",
   "classes": [
     "hre_ha_01_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "aqueduct",
   "type": "building",
   "name": "Aqueduct",
+  "nameCN": "水渠",
   "pbgid": 2101236,
   "attribName": "building_aqueduct_bastion_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Stone infrastructure to connect water between Cisterns to improve the Water Level of all connected Cisterns. Can be connected to Stone Walls.",
+  "descriptionCN": "石砌基础设施可以连接蓄水池之间的水，从而提高所有相连蓄水池的水位。可以与石墙相连接。",
   "classes": [
     "aqueduct",
     "aqueduct_bastion",

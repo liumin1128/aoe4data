@@ -3,6 +3,7 @@
   "baseId": "slate-and-stone-construction",
   "type": "technology",
   "name": "Slate and Stone Construction",
+  "nameCN": "石板和石造建筑",
   "pbgid": 199503,
   "attribName": "upgrade_building_fire_armor_hre",
   "age": 3,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "All buildings gain +5 fire armor.",
+  "descriptionCN": "所有建筑的火焰护甲 +5。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

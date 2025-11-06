@@ -3,6 +3,7 @@
   "baseId": "town-center",
   "type": "building",
   "name": "Town Center",
+  "nameCN": "城镇中心",
   "pbgid": 178559,
   "attribName": "building_town_center_sul",
   "age": 1,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+  "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
   "classes": [
     "building",
     "emits_herding_interest",

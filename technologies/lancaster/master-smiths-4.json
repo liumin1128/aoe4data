@@ -3,6 +3,7 @@
   "baseId": "master-smiths",
   "type": "technology",
   "name": "Master Smiths",
+  "nameCN": "铁匠大师",
   "pbgid": 188122,
   "attribName": "upgrade_melee_armor_iii",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Increase the melee armor of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的近战护甲 +1。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

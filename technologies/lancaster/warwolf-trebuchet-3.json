@@ -3,6 +3,7 @@
   "baseId": "warwolf-trebuchet",
   "type": "technology",
   "name": "Warwolf Trebuchet",
+  "nameCN": "战狼号巨型投石机",
   "pbgid": 5000165,
   "attribName": "upgrade_warwolf_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Experience from building larger trebuchets increases their range by +2 and health by +50%.",
+  "descriptionCN": "建造更大的巨型投石机的经验值可使其射程 +2，生命值 +50%。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

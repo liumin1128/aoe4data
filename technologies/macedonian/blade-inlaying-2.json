@@ -3,6 +3,7 @@
   "baseId": "blade-inlaying",
   "type": "technology",
   "name": "Blade Inlaying",
+  "nameCN": "刀片嵌饰",
   "pbgid": 9004670,
   "attribName": "upgrade_arsenal_cavalry_damage_2_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the damage of all Cavalry by 1.",
+  "descriptionCN": "所有骑兵的伤害提升 1。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

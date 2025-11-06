@@ -3,6 +3,7 @@
   "baseId": "handcannoneer",
   "type": "unit",
   "name": "Handcannoneer",
+  "nameCN": "火枪兵",
   "pbgid": 132274,
   "attribName": "unit_handcannon_4_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Powerful all-purpose ranged infantry.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+  "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

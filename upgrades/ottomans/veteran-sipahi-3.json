@@ -3,6 +3,7 @@
   "baseId": "veteran-sipahi",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 2063088,
   "attribName": "upgrade_unit_horseman_3_ott",
   "age": 3,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Upgrade Sipahi to Veteran Sipahi.",
+  "descriptionCN": "将西帕希骑兵升级为老练西帕希骑兵。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "professional-scouts",
   "type": "technology",
   "name": "Professional Scouts",
+  "nameCN": "专业侦察兵",
   "pbgid": 182075,
   "attribName": "upgrade_scout_forester_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+  "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "camel-rider-shields",
   "type": "technology",
   "name": "Camel Rider Shields",
+  "nameCN": "骆驼骑兵护盾",
   "pbgid": 200252,
   "attribName": "upgrade_mil_mameluke_shields_abb",
   "age": 3,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Grant Camel Riders shields, improving their melee armor by +3.",
+  "descriptionCN": "提供骆驼骑兵护盾，使近战护甲 +3。",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",

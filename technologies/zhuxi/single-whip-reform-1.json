@@ -3,6 +3,7 @@
   "baseId": "single-whip-reform",
   "type": "technology",
   "name": "Single Whip Reform",
+  "nameCN": "一条鞭法",
   "pbgid": 2127323,
   "attribName": "upgrade_official_movement_speed",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Imperial Officials move 50% faster.",
+  "descriptionCN": "朝廷命官移动速度加快 50%。",
   "classes": [
     "chinese_ha_01_upgrade",
     "economic_upgrade"

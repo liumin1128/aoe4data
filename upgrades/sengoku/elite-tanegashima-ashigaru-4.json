@@ -3,6 +3,7 @@
   "baseId": "elite-tanegashima-ashigaru",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 9001232,
   "attribName": "upgrade_unit_handcannon_4_jpn_ha_sen",
   "age": 4,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Upgrade Tanegashima Ashigaru to Elite Tanegashima Ashigaru",
+  "descriptionCN": "将火绳枪足轻升级为精锐火绳枪足轻",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

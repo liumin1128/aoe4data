@@ -3,6 +3,7 @@
   "baseId": "royal-bloodlines",
   "type": "technology",
   "name": "Royal Bloodlines",
+  "nameCN": "皇室血统",
   "pbgid": 134545,
   "attribName": "upgrade_cavalry_bloodline_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
+  "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
   "classes": [
     "french_upgrade",
     "scar_imperial_age_upgrade",

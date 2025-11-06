@@ -3,6 +3,7 @@
   "baseId": "feudal-military-wing-master-smiths",
   "type": "technology",
   "name": "Master Smiths\n(Feudal Military Wing)",
+  "nameCN": "军事偏殿：铁匠大师",
   "pbgid": 2141101,
   "attribName": "upgrade_add_military_wing_dark_b_abb_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Constructs the Military Wing.\nMilitary Academy and the Blacksmith's damage and armor technologies become free and complete automatically when entering an Age. (Those of other Ages must still be researched as normal).",
+  "descriptionCN": "建造军事偏殿。\n进入一个时代后，军事学院和铁匠铺的伤害和护甲科技将变为免费且会自动完成 (其他时代则必须照常进行研究)。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_wing_upgrade",

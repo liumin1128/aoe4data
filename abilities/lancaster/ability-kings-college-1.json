@@ -3,6 +3,7 @@
   "baseId": "ability-kings-college",
   "type": "ability",
   "name": "King's College",
+  "nameCN": "国王学院",
   "pbgid": 9001565,
   "attribName": "kings_college_research_speed",
   "age": 1,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Granted +15% cheaper research costs by the King's College.",
+  "descriptionCN": "国王学院提供了 +15% 更便宜的研究成本。",
   "classes": [],
   "displayClasses": [],
   "costs": {

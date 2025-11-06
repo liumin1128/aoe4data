@@ -3,6 +3,7 @@
   "baseId": "republic-of-venice",
   "type": "technology",
   "name": "Republic of Venice",
+  "nameCN": "威尼斯共和国",
   "pbgid": 5000212,
   "attribName": "upgrade_age_castle_com_3_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- Reduces the change in the base buy or sell price by 75% when trading resources at the Market.",
+  "descriptionCN": "- 在市场中交易资源时，将基本购买或卖出价格的变化减少 75%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

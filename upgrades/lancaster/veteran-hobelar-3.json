@@ -3,6 +3,7 @@
   "baseId": "veteran-hobelar",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 5000155,
   "attribName": "upgrade_unit_hobelar_3_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Upgrade Hobelar to Veteran Hobelar.",
+  "descriptionCN": "将骑马步兵升级为老练骑马步兵。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

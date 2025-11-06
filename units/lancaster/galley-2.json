@@ -3,6 +3,7 @@
   "baseId": "galley",
   "type": "unit",
   "name": "Galley",
+  "nameCN": "箭船",
   "pbgid": 5000133,
   "attribName": "unit_naval_war_galley_lan",
   "age": 2,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+  "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
   "classes": [
     "annihilation_condition",
     "archer_ship",

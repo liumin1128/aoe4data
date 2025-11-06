@@ -3,6 +3,7 @@
   "baseId": "ability-silk-road",
   "type": "ability",
   "name": "Silk Road",
+  "nameCN": "丝绸之路",
   "pbgid": 186431,
   "attribName": "market_silk_road_passive_ui_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "The types of resources you earn from each Trader is improved based on your total number of active Traders.\n5+ Traders: +10% Food\n10+ Traders: +10% Food, +10% Wood",
+  "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "ability-divine-restoration",
   "type": "ability",
   "name": "Divine Restoration",
+  "nameCN": "神圣恢复",
   "pbgid": 2128763,
   "attribName": "jeanne_d_arc_divine_restoration_fre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Jeanne and nearby allies are blessed, instantly healing for 30% of their missing health.\nCooldown: 120 Seconds.",
+  "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

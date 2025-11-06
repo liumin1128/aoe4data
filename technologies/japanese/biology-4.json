@@ -3,6 +3,7 @@
   "baseId": "biology",
   "type": "technology",
   "name": "Biology",
+  "nameCN": "生物学",
   "pbgid": 127850,
   "attribName": "upgrade_tech_university_biology",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
+  "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

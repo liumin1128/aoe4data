@@ -3,6 +3,7 @@
   "baseId": "level-2-path-of-the-warrior",
   "type": "technology",
   "name": "Path of the Warrior",
+  "nameCN": "战士之路",
   "pbgid": 2136274,
   "attribName": "jeanne_d_arc_journey_of_a_hero_womanatarms_fre_ha_01",
   "age": 0,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Level 2 option\n\nJeanne chooses the path of the Warrior, equipping a two handed sword to engage foes in close combat.\nGains the Holy Wrath ability, which deals area of effect damage around Jeanne.\n\nRequires 500XP",
+  "descriptionCN": "贞德选择了战士之路，装备双手剑后能在近距离对抗敌人。\n获得神圣愤怒能力，可在贞德周围造成有效范围伤害。",
   "classes": [
     "hero",
     "level-up-choice"

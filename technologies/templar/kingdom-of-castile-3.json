@@ -3,6 +3,7 @@
   "baseId": "kingdom-of-castile",
   "type": "technology",
   "name": "Kingdom of Castile",
+  "nameCN": "卡斯蒂利亚王国",
   "pbgid": 5000208,
   "attribName": "upgrade_age_feudal_com_3_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- Units near Sacred Sites gain +20% damage and regenerate health.",
+  "descriptionCN": "- 圣地附近的单位造成的伤害 +20% 并恢复生命值。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

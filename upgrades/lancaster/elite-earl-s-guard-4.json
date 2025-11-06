@@ -3,6 +3,7 @@
   "baseId": "elite-earl-s-guard",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 5000157,
   "attribName": "upgrade_unit_champion_4_lan",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Upgrade Earl's Guard to Elite Earl's Guard.",
+  "descriptionCN": "将伯爵护卫升级为精锐伯爵护卫。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

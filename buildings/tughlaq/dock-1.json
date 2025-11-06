@@ -3,6 +3,7 @@
   "baseId": "dock",
   "type": "building",
   "name": "Dock",
+  "nameCN": "码头",
   "pbgid": 8979045,
   "attribName": "building_unit_naval_sul_ha_tug",
   "age": 1,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Produces naval units. Generates bonus resources from Elephant Economics when Villagers or Fishing Ships drop off Food.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+  "descriptionCN": "生产海军单位。村民或渔船存放食物时，可从大象经济产生额外资源。\n自动修复附近受损的海军单位。\n最多可容纳三艘渔船。",
   "classes": [
     "building",
     "military_only_production",

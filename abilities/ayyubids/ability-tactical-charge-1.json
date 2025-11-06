@@ -3,6 +3,7 @@
   "baseId": "ability-tactical-charge",
   "type": "ability",
   "name": "Tactical Charge",
+  "nameCN": "战术冲锋",
   "pbgid": 2126336,
   "attribName": "camel_knight_charge_damage",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Camel Lancers charge faster, more often, and for longer distances than other heavy cavalry. Camel Lancers deals -25% less baseline charge damage. Each second spent charging increases the charge damage (up to +40%).",
+  "descriptionCN": "与其他重装骑兵相比，骆驼长矛骑兵的冲锋速度更快，发起冲锋的频率更高，距离也更长。骆驼长矛骑兵所造成的基线冲锋伤害 -25%。冲锋所用的每秒时间可提高冲锋的伤害 (最高达 +40%)。",
   "classes": [],
   "displayClasses": [],
   "costs": {

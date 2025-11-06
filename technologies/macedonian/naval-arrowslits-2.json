@@ -3,6 +3,7 @@
   "baseId": "naval-arrowslits",
   "type": "technology",
   "name": "Naval Arrowslits",
+  "nameCN": "海军射箭槽",
   "pbgid": 2076426,
   "attribName": "upgrade_naval_arrowslits",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Add a defensive arrowslit to this Dock which only attacks ships.",
+  "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

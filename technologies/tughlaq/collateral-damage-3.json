@@ -3,6 +3,7 @@
   "baseId": "collateral-damage",
   "type": "technology",
   "name": "Collateral Damage",
+  "nameCN": "附带损坏",
   "pbgid": 9002934,
   "attribName": "upgrade_elephant_building_damage_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Bonus damage dealt by Elephants is increased by 30%.",
+  "descriptionCN": "象兵造成的额外伤害提升 30%。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

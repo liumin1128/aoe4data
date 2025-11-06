@@ -3,6 +3,7 @@
   "baseId": "double-broadax",
   "type": "technology",
   "name": "Double Broadax",
+  "nameCN": "双阔斧",
   "pbgid": 2136379,
   "attribName": "upgrade_econ_resource_wood_harvest_rate_2_jpn",
   "age": 2,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Increase Villagers' gathering rate for Wood by 15%.",
+  "descriptionCN": "村民的木材采集速率 +15%。",
   "classes": [
     "economic_upgrade",
     "japanese_ha_sen_upgrade",

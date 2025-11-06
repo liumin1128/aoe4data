@@ -3,6 +3,7 @@
   "baseId": "lumber-preservation",
   "type": "technology",
   "name": "Lumber Preservation",
+  "nameCN": "木材保存",
   "pbgid": 2136380,
   "attribName": "upgrade_econ_resource_wood_harvest_rate_3_jpn",
   "age": 3,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Increase Villagers' gathering rate for Wood by 15%.",
+  "descriptionCN": "村民的木材采集速率 +15%。",
   "classes": [
     "economic_upgrade",
     "japanese_ha_sen_upgrade",

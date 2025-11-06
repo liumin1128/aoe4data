@@ -3,6 +3,7 @@
   "baseId": "veteran-chevalier-confreres",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 8999904,
   "attribName": "upgrade_unit_confrere_3_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Upgrade Chevalier Confreres to Veteran Chevalier Confreres.",
+  "descriptionCN": "将同伴骑士升级为老练同伴骑士。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

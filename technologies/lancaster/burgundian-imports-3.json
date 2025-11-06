@@ -3,6 +3,7 @@
   "baseId": "burgundian-imports",
   "type": "technology",
   "name": "Burgundian Imports",
+  "nameCN": "勃艮第进口货物",
   "pbgid": 5000166,
   "attribName": "upgrade_burgundianimports_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Importing Burgundian Handcannons enables Handcannoneers to be trained in the Castle Age and reduces Handcannoneer cost by -25%.",
+  "descriptionCN": "引进勃艮第手铳后可以在城堡时代训练火枪兵，并使火枪兵的成本 -25%。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

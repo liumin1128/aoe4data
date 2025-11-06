@@ -3,6 +3,7 @@
   "baseId": "mounted-samurai-odachi",
   "type": "technology",
   "name": "Mounted Samurai Odachi",
+  "nameCN": "骑马日本武士大太刀",
   "pbgid": 9002009,
   "attribName": "upgrade_mounted_samurai_odachi_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Equip Mounted Samurai with an Odachi, a long sword that deals +4 bonus damage against infantry.",
+  "descriptionCN": "为骑马日本武士装备一把大太刀，这是一把长剑，会对步兵造成 +4 的额外伤害。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

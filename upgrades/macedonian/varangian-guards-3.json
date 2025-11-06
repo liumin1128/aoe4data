@@ -3,6 +3,7 @@
   "baseId": "varangian-guards",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 9001739,
   "attribName": "upgrade_unit_manatarms_3_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Upgrade Early Varangian Guards to Varangian Guards.",
+  "descriptionCN": "将早期瓦兰吉卫队升级为瓦兰吉卫队。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "elite-yari-cavalry",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 9002069,
   "attribName": "upgrade_unit_horseman_4_jpn_ha_sen",
   "age": 4,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Upgrade Veteran Yari Cavalry to Elite Yari Cavalry.",
+  "descriptionCN": "将老练日本长枪骑兵升级为精锐日本长枪骑兵。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

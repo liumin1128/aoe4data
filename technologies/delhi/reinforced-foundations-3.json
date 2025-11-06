@@ -3,6 +3,7 @@
   "baseId": "reinforced-foundations",
   "type": "technology",
   "name": "Reinforced Foundations",
+  "nameCN": "强化地基",
   "pbgid": 200696,
   "attribName": "upgrade_landmark_house_popcap_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Villagers and Infantry can garrison inside Houses for protection. Houses gain garrison arrows and +50% Health.",
+  "descriptionCN": "为了获得保护，村民和步兵可以驻扎在房屋内。房屋获得驻军弓箭和 +50% 生命值。",
   "classes": [
     "sultinate_upgrade"
   ],

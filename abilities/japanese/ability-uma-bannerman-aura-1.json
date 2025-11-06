@@ -3,6 +3,7 @@
   "baseId": "ability-uma-bannerman-aura",
   "type": "ability",
   "name": "Uma Bannerman Aura",
+  "nameCN": "骑马旗本武士光环",
   "pbgid": 2127073,
   "attribName": "bannerman_aura_cavalry_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Aura that increases cavalry unit damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+  "descriptionCN": "光环可使骑兵单位的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
   "classes": [],
   "displayClasses": [],
   "costs": {

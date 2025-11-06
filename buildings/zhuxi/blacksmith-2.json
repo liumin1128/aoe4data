@@ -3,6 +3,7 @@
   "baseId": "blacksmith",
   "type": "building",
   "name": "Blacksmith",
+  "nameCN": "铁匠铺",
   "pbgid": 4996231,
   "attribName": "building_tech_unit_infantry_control_chi_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+  "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
   "classes": [
     "blacksmith",
     "building",

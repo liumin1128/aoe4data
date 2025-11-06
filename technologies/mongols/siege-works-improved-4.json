@@ -3,6 +3,7 @@
   "baseId": "siege-works-improved",
   "type": "technology",
   "name": "Siege Works (Improved)",
+  "nameCN": "攻城武器 (已强化)",
   "pbgid": 184769,
   "attribName": "upgrade_siege_works_improved_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "New carpentry techniques increase the health of siege engines by +30%.\nIf Siege Works has already been researched, increase their health by +10% instead.",
+  "descriptionCN": "新的木工技术可使攻城部队的生命值 +30%。\n如果已完成攻城武器研究，则其生命值 +10%。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

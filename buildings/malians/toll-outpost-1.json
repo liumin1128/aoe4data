@@ -3,6 +3,7 @@
   "baseId": "toll-outpost",
   "type": "building",
   "name": "Toll Outpost",
+  "nameCN": "收费哨站",
   "pbgid": 2668497,
   "attribName": "building_defense_outpost_mal",
   "age": 1,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nPassing Traders and Trade Ships instantly provide an additional 8% of their carried Gold. Does not generate any bonus tax if a toll outpost is built within range of another one.",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n经过的商人和商船可立即额外提供其所携带黄金的 8%。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。",
   "classes": [
     "building",
     "defensive_structure",

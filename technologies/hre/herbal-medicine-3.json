@@ -3,6 +3,7 @@
   "baseId": "herbal-medicine",
   "type": "technology",
   "name": "Herbal Medicine",
+  "nameCN": "草药",
   "pbgid": 184583,
   "attribName": "upgrade_unit_religious_herbal_medicine_4_hre",
   "age": 3,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Increase the healing rate of Prelates by +60%.",
+  "descriptionCN": "高级教士的治疗速率 +60%。",
   "classes": [
     "hre_upgrade",
     "military_upgrade",

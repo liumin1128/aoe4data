@@ -3,6 +3,7 @@
   "baseId": "ability-desert-raider-bow",
   "type": "ability",
   "name": "Desert Raider Bow",
+  "nameCN": "沙漠掠夺弓",
   "pbgid": 2138337,
   "attribName": "mamluk_swap_to_bow_weapon",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Swap to a ranged Bow weapon.",
+  "descriptionCN": "切换为远程武器长弓。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "blacksmith",
   "type": "building",
   "name": "Blacksmith",
+  "nameCN": "铁匠铺",
   "pbgid": 5000229,
   "attribName": "building_tech_blacksmith_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Houses technology to improve infantry and cavalry.",
+  "descriptionCN": "可研究强化步兵和骑兵的科技。",
   "classes": [
     "blacksmith",
     "building",

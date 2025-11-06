@@ -3,6 +3,7 @@
   "baseId": "royal-cannon",
   "type": "unit",
   "name": "Royal Cannon",
+  "nameCN": "皇家加农炮",
   "pbgid": 1907351,
   "attribName": "unit_cannon_4_royal_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Most powerful siege cannon. Excellent against buildings or any stubborn targets.\n+ Bonus damage to buildings",
+  "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
   "classes": [
     "annihilation_condition",
     "bombard_wheeled",

@@ -3,6 +3,7 @@
   "baseId": "daimyo",
   "type": "unit",
   "name": "Daimyo",
+  "nameCN": "大名",
   "pbgid": 9001369,
   "attribName": "unit_daimyo_2_jpn_ha_sen",
   "age": 2,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "High health and damage melee cavalry that provides an aura that increases attack speed of nearby military units. Effective against melee units. Limited to one per Daimyo Estate built.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "高生命值、高伤害的近战骑兵，提供的光环可提高附近军事单位的攻击速度。擅长对付近战单位。每个已建造的大名庄园限造一个。\n+ 重型护甲\n+ 近战能力强大\n - 会受到长矛兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

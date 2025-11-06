@@ -3,6 +3,7 @@
   "baseId": "house",
   "type": "building",
   "name": "House",
+  "nameCN": "房屋",
   "pbgid": 3254692,
   "attribName": "building_house_control_sul_ha_tug",
   "age": 1,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increases your maximum Population.",
+  "descriptionCN": "提升您的人口上限。",
   "classes": [
     "building",
     "house",

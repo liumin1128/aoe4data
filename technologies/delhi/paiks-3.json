@@ -3,6 +3,7 @@
   "baseId": "paiks",
   "type": "technology",
   "name": "Paiks",
+  "nameCN": "派",
   "pbgid": 9000115,
   "attribName": "upgrade_landmark_paiks_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Archers and Crossbowmen gain +0.5 range.",
+  "descriptionCN": "弓手和弩手攻击范围 +0.5。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

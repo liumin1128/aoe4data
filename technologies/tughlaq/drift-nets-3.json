@@ -3,6 +3,7 @@
   "baseId": "drift-nets",
   "type": "technology",
   "name": "Drift Nets",
+  "nameCN": "流刺网",
   "pbgid": 6413412,
   "attribName": "upgrade_econ_drift_nets_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the gathering rate of Fishing Ships by +10%, carry capacity by +20 and move speed by +10%.",
+  "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
   "classes": [
     "economic_upgrade",
     "scar_castle_age_upgrade",

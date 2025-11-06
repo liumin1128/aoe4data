@@ -3,6 +3,7 @@
   "baseId": "yari-cavalry-levy",
   "type": "unit",
   "name": "Yari Cavalry Levy",
+  "nameCN": "日本长枪征召骑兵",
   "pbgid": 9003838,
   "attribName": "unit_horseman_levy_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+  "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
   "classes": [
     "annihilation_condition",
     "cavalry",

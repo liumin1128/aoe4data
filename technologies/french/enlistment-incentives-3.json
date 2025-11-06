@@ -3,6 +3,7 @@
   "baseId": "enlistment-incentives",
   "type": "technology",
   "name": "Enlistment Incentives",
+  "nameCN": "募兵奖励",
   "pbgid": 2035320,
   "attribName": "upgrade_landmark_enlistment_incentives_fre",
   "age": 3,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Improves the French influence by reducing unit costs by a further -5%.",
+  "descriptionCN": "提高法兰西人的影响力，使单位的成本额外 -5%。",
   "classes": [
     "french_upgrade",
     "military_upgrade",

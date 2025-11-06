@@ -3,6 +3,7 @@
   "baseId": "samurai",
   "type": "unit",
   "name": "Samurai",
+  "nameCN": "武士",
   "pbgid": 2121968,
   "attribName": "unit_samurai_1_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Heavy infantry with good damage and defense. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Heavy armor\n+ Deflective Armor recharges out of combat\n- Slow move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+  "descriptionCN": "重型步兵，具有优秀的伤害和防御力。同时具有偏转护甲能力，可定期抵挡攻击。\n+ 重型护甲\n+ 脱离战斗后偏转护甲会重新恢复\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

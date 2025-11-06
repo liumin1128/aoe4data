@@ -3,6 +3,7 @@
   "baseId": "efficient-production",
   "type": "technology",
   "name": "Efficient Production",
+  "nameCN": "高效生产",
   "pbgid": 200171,
   "attribName": "upgrade_age2_scholar_military_production_sul",
   "age": 1,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Allow Scholars to garrison in military buildings, boosting production speed by 100%.",
+  "descriptionCN": "允许学者驻扎在军事建筑中，使生产速度提升 100%。",
   "classes": [
     "sultinate_upgrade"
   ],

@@ -3,6 +3,7 @@
   "baseId": "hardened-spearmen",
   "type": "upgrade",
   "name": "Upgrade to Hardened",
+  "nameCN": "升级为坚韧",
   "pbgid": 181871,
   "attribName": "upgrade_unit_spearman_2_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Upgrade Spearmen to Hardened Spearmen.",
+  "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

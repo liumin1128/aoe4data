@@ -3,6 +3,7 @@
   "baseId": "farm",
   "type": "building",
   "name": "Farm",
+  "nameCN": "农田",
   "pbgid": 133572,
   "attribName": "building_resource_farm_control_rus",
   "age": 1,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+  "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
   "classes": [
     "building",
     "farm",

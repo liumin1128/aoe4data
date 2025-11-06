@@ -3,6 +3,7 @@
   "baseId": "ability-abbey-healing",
   "type": "ability",
   "name": "Abbey Healing",
+  "nameCN": "修道院治疗",
   "pbgid": 202453,
   "attribName": "abbey_of_kings_heal_aura_eng",
   "age": 2,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Heals nearby out of combat units by 6 every 1 seconds.",
+  "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

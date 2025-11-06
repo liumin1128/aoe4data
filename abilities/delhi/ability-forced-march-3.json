@@ -3,6 +3,7 @@
   "baseId": "ability-forced-march",
   "type": "ability",
   "name": "Forced March",
+  "nameCN": "急行军",
   "pbgid": 180772,
   "attribName": "infantry_forced_march_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Activate to move 100% faster for 10 seconds, deactivates early when dealing damage.",
+  "descriptionCN": "激活后，移动速度在 10 秒里提高 100%，造成伤害时会提前停用。",
   "classes": [],
   "displayClasses": [],
   "costs": {

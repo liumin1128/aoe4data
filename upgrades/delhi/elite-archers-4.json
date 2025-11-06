@@ -3,6 +3,7 @@
   "baseId": "elite-archers",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 181857,
   "attribName": "upgrade_unit_archer_4_sul",
   "age": 4,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Upgrade Veteran Archers to Elite Archers.",
+  "descriptionCN": "将老练步弓手升级为精锐步弓手。",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

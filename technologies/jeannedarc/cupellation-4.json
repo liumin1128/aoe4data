@@ -3,6 +3,7 @@
   "baseId": "cupellation",
   "type": "technology",
   "name": "Cupellation",
+  "nameCN": "灰吹法",
   "pbgid": 171824,
   "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Gold gatherers drop off 15% more resources.",
+  "descriptionCN": "黄金采集者存放资源量额外 +15%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

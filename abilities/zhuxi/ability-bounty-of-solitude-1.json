@@ -3,6 +3,7 @@
   "baseId": "ability-bounty-of-solitude",
   "type": "ability",
   "name": "Bounty of Solitude",
+  "nameCN": "孤独的恩赐",
   "pbgid": 2127403,
   "attribName": "meditation_gardens_resource_generation",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Generates resources depending on the type of resources nearby. Enemy units within 8 tiles reduce the rate at which resources are generated.",
+  "descriptionCN": "根据附近的资源类型产生资源。8 格内的敌方单位将降低资源的生成速率。",
   "classes": [],
   "displayClasses": [],
   "costs": {

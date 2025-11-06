@@ -3,6 +3,7 @@
   "baseId": "sofa",
   "type": "unit",
   "name": "Elite Sofa",
+  "nameCN": "精锐索法骑手",
   "pbgid": 2705913,
   "attribName": "unit_horseman_4_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Cheaper heavy cavalry for reduced health and armor.\n+ High movement speed\n+ Cheaper cost\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "重装骑兵更低廉，生命值和护甲更少。\n+ 高移动速度\n+ 更便宜的成本\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "cavalry",

@@ -3,6 +3,7 @@
   "baseId": "castle-economic-wing-growth",
   "type": "technology",
   "name": "Growth\n(Castle Economic Wing)",
+  "nameCN": "经济偏殿：发展",
   "pbgid": 2141095,
   "attribName": "upgrade_add_economy_wing_feudal_a_abb_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Constructs the Economic Wing.\nUpon completion, grants 7 Villagers. Orchards gain 100 additional food.",
+  "descriptionCN": "建造经济偏殿。\n完成后获得 7 个村民。果园可额外获得 100 食物。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

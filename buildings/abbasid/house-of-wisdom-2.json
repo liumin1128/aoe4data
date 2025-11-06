@@ -3,6 +3,7 @@
   "baseId": "house-of-wisdom",
   "type": "building",
   "name": "House of Wisdom",
+  "nameCN": "智慧宫",
   "pbgid": 199772,
   "attribName": "building_house_of_wisdom_control_abb",
   "age": 2,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Contains civilization technology for the Abbasid Dynasty.\nAbbasids advance in Ages through the House of Wisdom. Construct wings to advance to the next Age and gain additional technology.",
+  "descriptionCN": "包含黑衣大食王朝的文明科技。\n黑衣大食通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。",
   "classes": [
     "age_up_producer",
     "building",

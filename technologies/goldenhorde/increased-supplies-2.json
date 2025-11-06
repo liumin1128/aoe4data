@@ -3,6 +3,7 @@
   "baseId": "increased-supplies",
   "type": "technology",
   "name": "Increased Supplies",
+  "nameCN": "已增加补给",
   "pbgid": 9001914,
   "attribName": "upgrade_military_production_speed_mon_ha_gol",
   "age": 2,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Increases production speed of Military Buildings by +50%.",
+  "descriptionCN": "军事建筑的生产速度 +50%。",
   "classes": [],
   "displayClasses": [
     "Stone Technology"

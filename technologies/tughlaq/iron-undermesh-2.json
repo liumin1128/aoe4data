@@ -3,6 +3,7 @@
   "baseId": "iron-undermesh",
   "type": "technology",
   "name": "Iron Undermesh",
+  "nameCN": "铁制底网",
   "pbgid": 4551739,
   "attribName": "upgrade_ranged_armor_i_sul_ha_tug",
   "age": 2,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the ranged armor of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

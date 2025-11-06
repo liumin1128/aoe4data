@@ -3,6 +3,7 @@
   "baseId": "specialized-pick",
   "type": "technology",
   "name": "Specialized Pick",
+  "nameCN": "特制矿锄",
   "pbgid": 2032216,
   "attribName": "upgrade_econ_resource_gold_harvest_rate_2_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Villagers' gathering rate for Gold by 15%.",
+  "descriptionCN": "村民的黄金采集速率提升 15%。",
   "classes": [
     "economic_upgrade",
     "mongol_upgrade",

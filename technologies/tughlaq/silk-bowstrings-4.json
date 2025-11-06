@@ -3,6 +3,7 @@
   "baseId": "silk-bowstrings",
   "type": "technology",
   "name": "Silk Bowstrings",
+  "nameCN": "蚕丝弓弦",
   "pbgid": 7350900,
   "attribName": "upgrade_ranged_archer_silkstring_sul_ha_tug",
   "age": 4,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
+  "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1.5，使骑射手的射程 +0.75。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

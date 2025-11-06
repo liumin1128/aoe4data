@@ -3,6 +3,7 @@
   "baseId": "hearty-rations",
   "type": "technology",
   "name": "Hearty Rations",
+  "nameCN": "丰衣足食",
   "pbgid": 200717,
   "attribName": "upgrade_landmark_hearty_rations_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Increase the carrying capacity of Villagers by +10.",
+  "descriptionCN": "村民的运载量 +10。",
   "classes": [
     "military_upgrade",
     "sultinate_upgrade"

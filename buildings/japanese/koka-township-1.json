@@ -3,6 +3,7 @@
   "baseId": "koka-township",
   "type": "building",
   "name": "Koka Township",
+  "nameCN": "甲贺城镇",
   "pbgid": 2122033,
   "attribName": "building_landmark_age1_shinobi_jpn",
   "age": 1,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Can produce Shinobi espionage units which specialize in scouting, sabotage, and assassination. Queues production of a free Shinobi upon completion.",
+  "descriptionCN": "可生产忍者间谍单位，擅长侦察、破坏和暗杀。完成后自动生产一个免费的忍者。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

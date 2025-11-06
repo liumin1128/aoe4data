@@ -3,6 +3,7 @@
   "baseId": "musofadi-gunner",
   "type": "unit",
   "name": "Musofadi Gunner",
+  "nameCN": "穆索法迪火枪兵",
   "pbgid": 2810898,
   "attribName": "unit_handcannon_4_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Powerful ranged infantry effective at ambush attacks.\n+ Increased movement speed\n+ Can enter stealth\n+ High damage\n- High cost",
+  "descriptionCN": "强大的远程步兵，擅长伏击。\n+ 移动速度增加\n+ 可以进入潜行\n+ 高伤害\n- 高成本",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

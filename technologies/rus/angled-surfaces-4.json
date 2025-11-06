@@ -3,6 +3,7 @@
   "baseId": "angled-surfaces",
   "type": "technology",
   "name": "Angled Surfaces",
+  "nameCN": "斜面",
   "pbgid": 188268,
   "attribName": "upgrade_ranged_armor_iii",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase the ranged armor of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

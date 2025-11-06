@@ -3,6 +3,7 @@
   "baseId": "pasture",
   "type": "building",
   "name": "Pasture",
+  "nameCN": "牧场",
   "pbgid": 168713,
   "attribName": "building_pasture_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Automatically produces a gatherable Sheep every 140 seconds. Will eventually stop producing if too many Sheep are produced and not gathered.",
+  "descriptionCN": "每 140 秒自动生产一只可收集的绵羊。如果生产的绵羊太多且没有被收集，则生产将停止。",
   "classes": [
     "building",
     "emits_herding_interest",

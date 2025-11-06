@@ -3,6 +3,7 @@
   "baseId": "ability-attack-speed-arrow",
   "type": "ability",
   "name": "Attack Speed Arrow",
+  "nameCN": "攻速箭",
   "pbgid": 168622,
   "attribName": "khan_attack_speed_signal_arrow_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Fires a Signal Arrow that increases the attack speed of nearby ranged units (including the Khan) by +50% for 5 seconds.",
+  "descriptionCN": "射出一支信号箭，使附近远程单位 (包括汗) 的攻击速度提升 +50%，持续 5 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

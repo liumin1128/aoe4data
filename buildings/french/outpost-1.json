@@ -3,6 +3,7 @@
   "baseId": "outpost",
   "type": "building",
   "name": "Outpost",
+  "nameCN": "哨站",
   "pbgid": 132680,
   "attribName": "building_defense_outpost_fre",
   "age": 1,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
   "classes": [
     "building",
     "defensive_structure",

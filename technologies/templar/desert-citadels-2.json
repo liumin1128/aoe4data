@@ -3,6 +3,7 @@
   "baseId": "desert-citadels",
   "type": "technology",
   "name": "Desert Citadels",
+  "nameCN": "沙漠城堡",
   "pbgid": 9000052,
   "attribName": "upgrade_desert_citadels",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Improves the Desert Outposts aura on Fortresses to also increase the armor of nearby units by +1/+1.",
+  "descriptionCN": "强化要塞的沙漠哨站光环，附近单位的护甲 +1/+1。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

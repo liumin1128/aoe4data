@@ -3,6 +3,7 @@
   "baseId": "trade-ship",
   "type": "unit",
   "name": "Trade Ship",
+  "nameCN": "商船",
   "pbgid": 196684,
   "attribName": "unit_naval_trade_ship_3_hre",
   "age": 2,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+  "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
   "classes": [
     "annihilation_condition",
     "medium_ship",

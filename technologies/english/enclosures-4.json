@@ -3,6 +3,7 @@
   "baseId": "enclosures",
   "type": "technology",
   "name": "Enclosures",
+  "nameCN": "圈地",
   "pbgid": 202557,
   "attribName": "upgrade_farm_improved_enclosures_eng",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Each Farm Enclosure being worked by a Villager generates +1 Gold every 6 seconds.",
+  "descriptionCN": "每一块有村民耕种的农田圈地每 6 秒会产生 +1 黄金。",
   "classes": [
     "economic_upgrade",
     "english_upgrade",

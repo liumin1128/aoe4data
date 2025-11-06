@@ -3,6 +3,7 @@
   "baseId": "shaolin-monk",
   "type": "unit",
   "name": "Shaolin Monk",
+  "nameCN": "少林僧侣",
   "pbgid": 2127467,
   "attribName": "unit_monk_shaolin_3_chi_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Monk with strong combat capabilities.\n+ Strong against ranged units \n+ Can heal themselves\n- Cannot heal others",
+  "descriptionCN": "拥有强大战斗能力的僧侣。\n+ 擅长对抗远程单位\n+ 可治疗自己\n- 无法治疗其他单位",
   "classes": [
     "annihilation_condition",
     "carrier",

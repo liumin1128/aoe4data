@@ -3,6 +3,7 @@
   "baseId": "varangian-warcamp",
   "type": "building",
   "name": "Varangian Warcamp",
+  "nameCN": "瓦兰吉军营",
   "pbgid": 9003662,
   "attribName": "building_unit_varangian_warcamp_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increases your maximum Population.\n \nAs the Empire suffers casualties in war, the emperor calls forth more Varangians. \nOnce enough troops are lost in battle, the selected Varangian is reinforced to the battlefield at no cost. If placed on shore near water, Attack Ships or Galleys become available as reinforcements.\n \nReinforcements cost 6 times their value in fallen warriors.",
+  "descriptionCN": "提高你的人口上限。\n随着帝国在战争中伤亡加剧，皇帝便会召集更多瓦兰吉人。\n一旦在战斗中损失的部队数量足够多，选定的瓦兰吉人将在不消耗任何资源的情况下被增援到战场上。如果将其安置在近水岸边，攻击船或箭船可成为增援力量。\n援军在阵亡战士身上花费 6 倍的成本。",
   "classes": [
     "audio_production_landmark",
     "building",

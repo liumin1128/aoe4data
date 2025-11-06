@@ -3,6 +3,7 @@
   "baseId": "elite-mounted-samurai",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 2127595,
   "attribName": "upgrade_unit_knight_4_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Upgrade Mounted Samurai to Elite Mounted Samurai.",
+  "descriptionCN": "将骑马武士升级为精锐骑马武士。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

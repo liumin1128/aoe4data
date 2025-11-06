@@ -3,6 +3,7 @@
   "baseId": "ability-divine-vitality",
   "type": "ability",
   "name": "Divine Vitality",
+  "nameCN": "不动如山",
   "pbgid": 2145465,
   "attribName": "toggle_temple_of_the_sun_regen_chi_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Units out of combat heal 2 health per second.",
+  "descriptionCN": "脱离战斗的单位每秒恢复 2 生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "castle-watch",
   "type": "technology",
   "name": "Castle Watch",
+  "nameCN": "城堡瞭望台",
   "pbgid": 135070,
   "attribName": "upgrade_wooden_castle_watch_rus",
   "age": 2,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase the sight range of this Wooden Fortress by 6 tiles.",
+  "descriptionCN": "将这座木制要塞的视野范围提升 6 格。",
   "classes": [
     "emplacement_upgrade",
     "military_upgrade",

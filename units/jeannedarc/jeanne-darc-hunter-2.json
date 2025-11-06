@@ -3,6 +3,7 @@
   "baseId": "jeanne-darc-hunter",
   "type": "unit",
   "name": "Jeanne d'Arc - Hunter",
+  "nameCN": "圣女贞德 - 猎人",
   "pbgid": 2136265,
   "attribName": "unit_jeanne_d_arc_2_archer_fre_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Strong ranged infantry with good damage vs unarmored targets, and bonus damage vs spearmen. If Jeanne is defeated, she can be brought back at a Town Center.\n+ High rate of fire\n- Countered by Horsemen",
+  "descriptionCN": "强壮的远程步兵，能对没有护甲的目标造成较高伤害，并对长矛兵造成额外伤害。如果贞德被击败，她可以在城镇中心被复活。\n+ 射速高\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "archer",

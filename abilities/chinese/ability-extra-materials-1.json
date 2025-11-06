@@ -3,6 +3,7 @@
   "baseId": "ability-extra-materials",
   "type": "ability",
   "name": "Extra Materials",
+  "nameCN": "额外材料",
   "pbgid": 182388,
   "attribName": "tower_repair_nearby_walls_chi",
   "age": 1,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Towers and Keeps repair nearby walls and gates for +25 health per second.",
+  "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

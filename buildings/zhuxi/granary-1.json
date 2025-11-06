@@ -3,6 +3,7 @@
   "baseId": "granary",
   "type": "building",
   "name": "Granary",
+  "nameCN": "谷仓",
   "pbgid": 7869339,
   "attribName": "building_dynasty_granary_control_chi_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Villagers can drop off Food at this building. Improves the Farm gather rate of nearby Villagers by +10% (stacks with other Granaries). Generates tax each time a resource is dropped off.",
+  "descriptionCN": "村民可将食物存放于这个建筑。使附近村民的农田采集速率 +10% (可与其他谷仓叠加)。每次存放资源都会产生税。",
   "classes": [
     "building",
     "economy_building",

@@ -3,6 +3,7 @@
   "baseId": "elite-desert-raiders",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 2146214,
   "attribName": "upgrade_unit_mamluk_4_abb_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Upgrade Veteran Desert Raiders to Elite Desert Raiders.",
+  "descriptionCN": "将老练沙漠掠夺者升级为精锐沙漠掠夺者。",
   "classes": [
     "abbasid_upgrade",
     "military_upgrade",

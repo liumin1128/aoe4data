@@ -3,6 +3,7 @@
   "baseId": "merchant-guilds",
   "type": "technology",
   "name": "Merchant Guilds",
+  "nameCN": "商人公会",
   "pbgid": 2137695,
   "attribName": "upgrade_market_trickle_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Active Traders generate 1 gold every 6 seconds.",
+  "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
   "classes": [
     "crusader_cmp_upgrade",
     "economic_upgrade",

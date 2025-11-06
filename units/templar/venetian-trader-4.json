@@ -3,6 +3,7 @@
   "baseId": "venetian-trader",
   "type": "unit",
   "name": "Venetian Trader",
+  "nameCN": "威尼斯商人",
   "pbgid": 9001617,
   "attribName": "unit_venetian_trader_4_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "An expensive and fast Trader that generates Gold by travelling between its Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nYou may have a maximum of 5 Venetian Traders.",
+  "descriptionCN": "昂贵且快速的商人，通过在本国市场和贸易站或其他玩家的市场之间穿梭来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金数量就会越多。\n你最多可以有 5 名威尼斯商人。",
   "classes": [
     "annihilation_condition",
     "human",

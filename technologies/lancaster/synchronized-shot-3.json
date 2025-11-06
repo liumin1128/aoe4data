@@ -3,6 +3,7 @@
   "baseId": "synchronized-shot",
   "type": "technology",
   "name": "Synchronized Shot",
+  "nameCN": "协同射击",
   "pbgid": 5000162,
   "attribName": "upgrade_synchronizedshot_lan",
   "age": 3,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Unlocks the Synchronized Shot ability for Yeomen.",
+  "descriptionCN": "解锁英皇侍卫的协同射击能力。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

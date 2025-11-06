@@ -3,6 +3,7 @@
   "baseId": "mounted-samurai-levy",
   "type": "unit",
   "name": "Mounted Samurai Levy",
+  "nameCN": "骑马日本武士征兵",
   "pbgid": 9003839,
   "attribName": "unit_knight_levy_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

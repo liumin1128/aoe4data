@@ -3,6 +3,7 @@
   "baseId": "arbaletrier",
   "type": "unit",
   "name": "Elite Arbalétrier",
+  "nameCN": "精锐弓弩手",
   "pbgid": 132273,
   "attribName": "unit_crossbowman_4_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "High damage ranged unit with a defensive pavise shield. Best used when supported by others.\n+ Anti-heavy specialist\n+ Comes with melee armor\n- Low health\n- Countered by Horsemen",
+  "descriptionCN": "配备了防御型大盾的高伤害远程单位。最适合在有友军协助时使用。\n+ 反重型专家\n+ 自带近战护甲\n- 生命值低\n- 会受到骑手克制",
   "classes": [
     "annihilation_condition",
     "arbalest_animate",

@@ -3,6 +3,7 @@
   "baseId": "muscovy-yasak",
   "type": "technology",
   "name": "Muscovy Yasak",
+  "nameCN": "莫斯科贡赋",
   "pbgid": 9001610,
   "attribName": "upgrade_tent_feudal_1_pasture_mon_ha_gol",
   "age": 2,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "The conquered Rus territories will provide larger shields to Heavy Infantry and Heavy Cavalry, increasing their ranged armor by +2. \nWood will also be generated at the rate of 200 per minute, but it is reduced by 2 Wood for each unit equipped with a Rus shield.",
+  "descriptionCN": "被征服的罗斯领土将为重装步兵和重装骑兵提供更大的护盾，使他们的远程护甲 +2。\n木材也会以每分钟 200 的速率生成，但对于每个装备罗斯护盾的单位，木材 -2。",
   "classes": [
     "abbasid_wing_upgrade",
     "age_up_upgrade",

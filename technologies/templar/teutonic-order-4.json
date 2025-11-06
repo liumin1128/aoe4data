@@ -3,6 +3,7 @@
   "baseId": "teutonic-order",
   "type": "technology",
   "name": "Teutonic Order",
+  "nameCN": "条顿骑士团",
   "pbgid": 5000211,
   "attribName": "upgrade_age_castle_com_2_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- All gold units gain +2 melee armor.",
+  "descriptionCN": "- 所有黄金单位的近战护甲 +2。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

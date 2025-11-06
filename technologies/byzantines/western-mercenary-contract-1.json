@@ -3,6 +3,7 @@
   "baseId": "western-mercenary-contract",
   "type": "technology",
   "name": "Western Mercenary Contract",
+  "nameCN": "西方雇佣兵合同",
   "pbgid": 2146747,
   "attribName": "merc_contract_02_tower_alt_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Unlocks production of Longbowman, Landsknecht, and Streltsy mercenaries.\nLongbowman: Feudal Age\nLandsknecht: Veteran contract\nStreltsy: Elite contract",
+  "descriptionCN": "解锁长弓兵、国土佣仆和射击军雇佣兵的生产。\n长弓兵：封建时代\n国土佣仆：老练合同\n射击军：精锐合同",
   "classes": [
     "byzantine_upgrade"
   ],

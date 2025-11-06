@@ -3,6 +3,7 @@
   "baseId": "man-at-arms",
   "type": "unit",
   "name": "Early Man-at-Arms",
+  "nameCN": "早期武士",
   "pbgid": 168040,
   "attribName": "unit_manatarms_2_hre",
   "age": 2,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+  "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

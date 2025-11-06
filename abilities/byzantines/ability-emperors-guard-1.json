@@ -3,6 +3,7 @@
   "baseId": "ability-emperors-guard",
   "type": "ability",
   "name": "Emperor's Guard",
+  "nameCN": "皇帝的护卫",
   "pbgid": 2121939,
   "attribName": "varangian_landmark_armor_aura_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Armor increased by +3 while near allied Wonders.",
+  "descriptionCN": "盟军奇观附近护甲 +3。",
   "classes": [],
   "displayClasses": [],
   "costs": {},

@@ -3,6 +3,7 @@
   "baseId": "ability-royal-institute-influence",
   "type": "ability",
   "name": "Royal Institute Influence",
+  "nameCN": "皇家学院影响力",
   "pbgid": 1452233,
   "attribName": "keep_influence_fre",
   "age": 1,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Archery Ranges and Stables within influence have unit costs decreased by 20%.",
+  "descriptionCN": "影响范围内的靶场和马厩生产单位的成本降低 20%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

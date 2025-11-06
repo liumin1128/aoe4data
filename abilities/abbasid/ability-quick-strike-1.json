@@ -3,6 +3,7 @@
   "baseId": "ability-quick-strike",
   "type": "ability",
   "name": "Quick Strike",
+  "nameCN": "快速攻击",
   "pbgid": 2133476,
   "attribName": "ghulam_attack_abb",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Quickly deals a second hit after finishing an attack.",
+  "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
   "classes": [],
   "displayClasses": [],
   "costs": {

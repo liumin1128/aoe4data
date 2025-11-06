@@ -3,6 +3,7 @@
   "baseId": "abbey-of-the-trinity",
   "type": "building",
   "name": "Abbey of the Trinity",
+  "nameCN": "圣三一修道院",
   "pbgid": 133429,
   "attribName": "building_landmark_age2_trinity_lavra_control_rus",
   "age": 2,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Acts as a Monastery. Reduces the cost of Warrior Monks by -50% and contains unique religious technologies.",
+  "descriptionCN": "可作为修道院使用。僧侣战士的成本 -50%，并包含独特宗教科技。",
   "classes": [
     "age2_landmark2",
     "audio_production_landmark",

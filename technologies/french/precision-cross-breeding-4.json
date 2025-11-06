@@ -3,6 +3,7 @@
   "baseId": "precision-cross-breeding",
   "type": "technology",
   "name": "Precision Cross-Breeding",
+  "nameCN": "精准杂交育种",
   "pbgid": 171293,
   "attribName": "upgrade_econ_resource_food_harvest_rate_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+  "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

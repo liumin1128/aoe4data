@@ -3,6 +3,7 @@
   "baseId": "iron-clamps",
   "type": "technology",
   "name": "Iron Clamps",
+  "nameCN": "铁钳",
   "pbgid": 9000049,
   "attribName": "upgrade_iron_clamps_tem",
   "age": 4,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Iron Clamps reinforcing the walls reduces incoming damage from gunpowder by 20% for Stone Walls and Fortresses.",
+  "descriptionCN": "铁钳可以强化城墙，使石墙和要塞受到火药攻击造成的伤害降低 20%。",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

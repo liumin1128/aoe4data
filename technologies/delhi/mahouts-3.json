@@ -3,6 +3,7 @@
   "baseId": "mahouts",
   "type": "technology",
   "name": "Mahouts",
+  "nameCN": "象夫",
   "pbgid": 9000113,
   "attribName": "upgrade_landmark_mahouts_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Elephants move +10% faster.",
+  "descriptionCN": "大象移动速度 +10%。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

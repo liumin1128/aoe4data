@@ -3,6 +3,7 @@
   "baseId": "mill",
   "type": "building",
   "name": "Mill",
+  "nameCN": "磨坊",
   "pbgid": 9000931,
   "attribName": "building_econ_food_control_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+  "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
   "classes": [
     "building",
     "economy_building",

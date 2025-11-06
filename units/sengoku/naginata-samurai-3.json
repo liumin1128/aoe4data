@@ -3,6 +3,7 @@
   "baseId": "naginata-samurai",
   "type": "unit",
   "name": "Veteran Naginata Samurai",
+  "nameCN": "老练薙刀日本武士",
   "pbgid": 3524307,
   "attribName": "unit_samurai_3_jpn_ha_sen",
   "age": 3,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Heavy infantry with good damage and defense.\n+ Heavy armor\n- Slow move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+  "descriptionCN": "重装步兵，具有良好的伤害和防御力。\n+ 重型护甲\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

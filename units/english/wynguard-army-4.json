@@ -3,6 +3,7 @@
   "baseId": "wynguard-army",
   "type": "unit",
   "name": "Wynguard Army",
+  "nameCN": "温嘉德军队",
   "pbgid": 202514,
   "attribName": "unit_wynguard_army_eng",
   "age": 4,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Produces an army of 2 Spearmen, 2 Crossbowmen, and a Trebuchet.",
+  "descriptionCN": "生产一支军队，包括 2 名长矛兵、2 名弩手和 1 个巨型投石机。",
   "classes": [
     "archer",
     "audio_wynguard_army",

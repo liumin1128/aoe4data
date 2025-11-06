@@ -3,6 +3,7 @@
   "baseId": "khan",
   "type": "unit",
   "name": "Veteran Khan",
+  "nameCN": "老练汗",
   "pbgid": 130821,
   "attribName": "unit_khan_3_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Ranged Cavalry Leader able to use Signal Arrows to enhance nearby military units. Reappears at a Town Center if killed.\n+ Vision and herding of a Scout\n+ Automatically improves with each Age\n- Only one Khan per Mongol player",
+  "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
   "classes": [
     "annihilation_condition",
     "cavalry",

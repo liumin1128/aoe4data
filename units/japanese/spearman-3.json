@@ -3,6 +3,7 @@
   "baseId": "spearman",
   "type": "unit",
   "name": "Veteran Spearman",
+  "nameCN": "老练长矛兵",
   "pbgid": 6201479,
   "attribName": "unit_spearman_3_jpn",
   "age": 3,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+  "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
   "classes": [
     "annihilation_condition",
     "find_non_siege_land_military",

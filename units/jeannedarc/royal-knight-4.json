@@ -3,6 +3,7 @@
   "baseId": "royal-knight",
   "type": "unit",
   "name": "Elite Royal Knight",
+  "nameCN": "精锐皇家骑士",
   "pbgid": 132280,
   "attribName": "unit_knight_4_fre",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Gain bonus damage for 5 seconds after charging. Effective against most units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "在冲锋后的 5 秒内获得伤害加成。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

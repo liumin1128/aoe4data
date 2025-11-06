@@ -3,6 +3,7 @@
   "baseId": "level-3-rider-companions",
   "type": "technology",
   "name": "Rider Companions",
+  "nameCN": "骑兵同伴",
   "pbgid": 2127601,
   "attribName": "jeanne_d_arc_journey_of_a_hero_crossbow_companions_fre_ha_01",
   "age": 0,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Level 3 option\n\nJeanne's Riders become available to train at Stables.\nGains \"Riders, Ready!\", which rallies 3 Riders to her side.\n\nRequires 500XP",
+  "descriptionCN": "可以在马厩训练贞德骑兵了。\n获得“骑兵就绪！”，这可将 3 名骑兵集结到她身边。",
   "classes": [
     "hero",
     "level-up-choice"

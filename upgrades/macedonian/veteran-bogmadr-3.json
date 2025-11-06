@@ -3,6 +3,7 @@
   "baseId": "veteran-bogmadr",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 9001737,
   "attribName": "upgrade_unit_archer_3_byz_ha_mac",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Upgrade Bogmaðr to Veteran Bogmaðr.",
+  "descriptionCN": "将波莫升级为老练波莫。",
   "classes": [
     "byzantine_ha_mac_upgrade",
     "military_upgrade",

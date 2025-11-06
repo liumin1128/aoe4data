@@ -3,6 +3,7 @@
   "baseId": "desert-raider",
   "type": "unit",
   "name": "Desert Raider",
+  "nameCN": "沙漠掠夺者",
   "pbgid": 6946920,
   "attribName": "unit_mamluk_2_abb_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Versatile Cavalry unit that can swap between ranged and melee attacks with a toggle.\n+ Effective against Light Infantry in Ranged Mode\n+ Effective against Cavalry in Melee Mode\n- High cost\n- Weak to Ranged units",
+  "descriptionCN": "可切换远程和近战攻击的全面型骑兵单位。\n+ 远程模式擅长对付轻型步兵\n+ 近战模式擅长对付骑兵\n- 高成本\n- 不擅长对付远程单位",
   "classes": [
     "annihilation_condition",
     "archer",

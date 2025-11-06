@@ -3,6 +3,7 @@
   "baseId": "siege-engineering-improved",
   "type": "technology",
   "name": "Siege Engineering (Improved)",
+  "nameCN": "攻城工程学 (已强化)",
   "pbgid": 177939,
   "attribName": "upgrade_improved_siege_engineers_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field. Improved Siege Engineering allows for the construction of Mangonels, Springalds and Trebuchets as well.",
+  "descriptionCN": "近战和远程步兵可在战场上建造攻城塔和攻城锤。强化攻城工程学还能让这些单位建造轻型投石车、扭力弩炮和巨型投石机。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "lumber-camp",
   "type": "building",
   "name": "Lumber Camp",
+  "nameCN": "伐木场",
   "pbgid": 134785,
   "attribName": "building_econ_wood_control_hre",
   "age": 1,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+  "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
   "classes": [
     "building",
     "economy_building",

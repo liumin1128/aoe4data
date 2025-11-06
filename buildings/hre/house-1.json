@@ -3,6 +3,7 @@
   "baseId": "house",
   "type": "building",
   "name": "House",
+  "nameCN": "房屋",
   "pbgid": 134790,
   "attribName": "building_house_control_hre",
   "age": 1,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Increases your maximum Population.",
+  "descriptionCN": "提升您的人口上限。",
   "classes": [
     "building",
     "house",

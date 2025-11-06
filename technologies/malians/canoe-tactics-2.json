@@ -3,6 +3,7 @@
   "baseId": "canoe-tactics",
   "type": "technology",
   "name": "Canoe Tactics",
+  "nameCN": "独木舟战术",
   "pbgid": 2102140,
   "attribName": "upgrade_naval_javelin_ships_mal",
   "age": 2,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Archer Ships fire an additional 2 Javelin weapons.",
+  "descriptionCN": "步弓手船只可发射额外 2 个标枪武器。",
   "classes": [
     "malian_upgrade",
     "military_upgrade",

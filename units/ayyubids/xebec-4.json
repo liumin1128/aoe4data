@@ -3,6 +3,7 @@
   "baseId": "xebec",
   "type": "unit",
   "name": "Xebec",
+  "nameCN": "三桅帆船",
   "pbgid": 8469447,
   "attribName": "unit_naval_combat_warship_4_abb_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+  "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
   "classes": [
     "annihilation_condition",
     "gunpowder",

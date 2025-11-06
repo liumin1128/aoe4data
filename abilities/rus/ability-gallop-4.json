@@ -3,6 +3,7 @@
   "baseId": "ability-gallop",
   "type": "ability",
   "name": "Gallop",
+  "nameCN": "疾驰",
   "pbgid": 2134249,
   "attribName": "horse_archer_mounted_training_gallop_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Activate to move at maximum speed with +2 tile weapon range for 8 seconds.",
+  "descriptionCN": "激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

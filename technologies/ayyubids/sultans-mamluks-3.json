@@ -3,6 +3,7 @@
   "baseId": "sultans-mamluks",
   "type": "technology",
   "name": "Sultan's Mamluks",
+  "nameCN": "苏丹的马穆鲁克",
   "pbgid": 2145566,
   "attribName": "upgrade_infantry_kill_bonus_abb_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Infantry gains +25% damage and +20% movement speed for 30 seconds after defeating a unit.",
+  "descriptionCN": "击败一个单位后，步兵伤害 +25%，移动速度 +20%，持续 30 秒。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "scar_feudal_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "ability-conscriptio",
   "type": "ability",
   "name": "Conscriptio",
+  "nameCN": "征兵",
   "pbgid": 2146132,
   "attribName": "toggle_landmark_cistern_influence_2_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Military unit production rate increased +20%/+40%/+60%/+80%/+100% by Water Level while within the influence of a Cistern.",
+  "descriptionCN": "在蓄水池影响范围之内，军事单位生产速率将按水位 +20%/+40%/+60%/+80%/+100%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

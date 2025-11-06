@@ -3,6 +3,7 @@
   "baseId": "black-rider",
   "type": "unit",
   "name": "Black Rider",
+  "nameCN": "黑骑兵",
   "pbgid": 9002002,
   "attribName": "unit_black_rider_hre",
   "age": 4,
@@ -10,6 +11,7 @@
     "hr"
   ],
   "description": "Expensive cavalry with high armor and a powerful arquebus. Effective against melee units. Has the Caracole ability.\nOnly 5 Riders can be trained for each standing Keep built.\n+ Heavy armor\n- Countered by Crossbowmen",
+  "descriptionCN": "拥有高护甲和强大火绳枪的昂贵骑兵。擅长对付近战单位。拥有卡拉科尔能力。\n对于建造的每座矗立城堡，只能训练 5 名骑兵。\n+ 重型护甲\n- 会受到弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

@@ -3,6 +3,7 @@
   "baseId": "gilded-landsknecht",
   "type": "unit",
   "name": "Elite Gilded Landsknecht",
+  "nameCN": "精锐镀金国土佣仆",
   "pbgid": 2670797,
   "attribName": "unit_landsknecht_4_hre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Brave unarmored infantry with an enormous two-handed sword, effective in mixed armies.\n+ Melee attack deals area damage\n- Low health\n- Countered by Archers",
+  "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
   "classes": [
     "annihilation_condition",
     "armored",

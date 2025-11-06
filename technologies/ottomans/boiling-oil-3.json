@@ -3,6 +3,7 @@
   "baseId": "boiling-oil",
   "type": "technology",
   "name": "Boiling Oil",
+  "nameCN": "沸油",
   "pbgid": 128447,
   "attribName": "upgrade_tech_university_murder_holes_4",
   "age": 3,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Towers and Keeps gain a boiling oil attack against nearby units that deals 30 damage.",
+  "descriptionCN": "箭塔和城堡能对附近敌方单位倾倒沸油，对其造成 30 伤害。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

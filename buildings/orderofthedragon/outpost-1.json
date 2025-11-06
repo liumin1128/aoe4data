@@ -3,6 +3,7 @@
   "baseId": "outpost",
   "type": "building",
   "name": "Outpost",
+  "nameCN": "哨站",
   "pbgid": 8760924,
   "attribName": "building_defense_outpost_hre_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned. \nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
   "classes": [
     "building",
     "defensive_structure",

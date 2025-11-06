@@ -3,6 +3,7 @@
   "baseId": "forced-march",
   "type": "technology",
   "name": "Forced March",
+  "nameCN": "急行军",
   "pbgid": 199889,
   "attribName": "upgrade_landmark_force_march_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Infantry units gain the Forced March ability.\nWhen activated, infantry move +100% faster for 10 seconds, but breaks when dealing damage.",
+  "descriptionCN": "步兵单位获得急行军能力。\n激活后，步兵移动速度 +100%，持续 10 秒，但在造成伤害时会中断效果。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

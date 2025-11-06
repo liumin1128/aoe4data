@@ -3,6 +3,7 @@
   "baseId": "veteran-yumi-ashigaru",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 2127611,
   "attribName": "upgrade_unit_archer_3_jpn",
   "age": 3,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Upgrade Yumi Ashigaru to Veteran Yumi Ashigaru.",
+  "descriptionCN": "将弓足轻升级为老练弓足轻。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "japanese_upgrade",

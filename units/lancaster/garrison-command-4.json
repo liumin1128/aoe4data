@@ -3,6 +3,7 @@
   "baseId": "garrison-command",
   "type": "unit",
   "name": "Garrison Command",
+  "nameCN": "驻扎命令",
   "pbgid": 5000293,
   "attribName": "unit_wynguard_garrison_command_lan",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Produces an army of 8 Spearman and 1 Earl's Guard.",
+  "descriptionCN": "生产一支由 8 名长矛兵和 1 名伯爵护卫组成的军队。",
   "classes": [
     "archer",
     "audio_wynguard_raiders",

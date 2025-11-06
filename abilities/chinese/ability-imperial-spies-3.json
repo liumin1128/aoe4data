@@ -3,6 +3,7 @@
   "baseId": "ability-imperial-spies",
   "type": "ability",
   "name": "Imperial Spies",
+  "nameCN": "皇家密探",
   "pbgid": 206838,
   "attribName": "imperial_spies",
   "age": 3,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Reveal location of enemy workers for 15 seconds.",
+  "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

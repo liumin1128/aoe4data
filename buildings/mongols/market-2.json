@@ -3,6 +3,7 @@
   "baseId": "market",
   "type": "building",
   "name": "Market",
+  "nameCN": "市场",
   "pbgid": 129989,
   "attribName": "building_econ_market_mon",
   "age": 2,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Allows the buying and selling of resources and produces the Trader.",
+  "descriptionCN": "可生产商人及买卖资源。",
   "classes": [
     "building",
     "economy_building",

@@ -3,6 +3,7 @@
   "baseId": "great-bombard-emplacement",
   "type": "technology",
   "name": "Great Bombard Emplacement",
+  "nameCN": "大型手推炮炮台",
   "pbgid": 2136153,
   "attribName": "upgrade_keep_great_bombard",
   "age": 4,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Add a defensive Great Bombard emplacement to this structure.",
+  "descriptionCN": "为此建筑添加一座大型防御手推炮炮台。",
   "classes": [
     "emplacement_upgrade",
     "military_upgrade",

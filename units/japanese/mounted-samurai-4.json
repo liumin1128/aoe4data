@@ -3,6 +3,7 @@
   "baseId": "mounted-samurai",
   "type": "unit",
   "name": "Elite Mounted Samurai",
+  "nameCN": "精锐骑马武士",
   "pbgid": 6119866,
   "attribName": "unit_knight_4_jpn",
   "age": 4,
@@ -10,6 +11,7 @@
     "ja"
   ],
   "description": "Expensive cavalry with high damage and a powerful charge attack. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Heavy armor\n+ Deflective Armor recharges out of combat\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
   "classes": [
     "annihilation_condition",
     "armored",

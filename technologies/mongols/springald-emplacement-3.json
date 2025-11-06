@@ -3,6 +3,7 @@
   "baseId": "springald-emplacement",
   "type": "technology",
   "name": "Springald Emplacement",
+  "nameCN": "扭力弩炮炮台",
   "pbgid": 186399,
   "attribName": "upgrade_outpost_springald_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Add a defensive springald emplacement to this structure. Only one weapon emplacement can be added.",
+  "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。只能添加一座武器炮台。",
   "classes": [
     "emplacement_upgrade",
     "military_upgrade",

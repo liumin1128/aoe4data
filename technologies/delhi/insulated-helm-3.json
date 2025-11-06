@@ -3,6 +3,7 @@
   "baseId": "insulated-helm",
   "type": "technology",
   "name": "Insulated Helm",
+  "nameCN": "绝缘头盔",
   "pbgid": 188125,
   "attribName": "upgrade_melee_armor_ii_sul",
   "age": 3,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Increase the melee armor of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的近战护甲 +1。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

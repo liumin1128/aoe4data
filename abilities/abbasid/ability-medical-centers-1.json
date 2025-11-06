@@ -3,6 +3,7 @@
   "baseId": "ability-medical-centers",
   "type": "ability",
   "name": "Medical Centers",
+  "nameCN": "医疗中心",
   "pbgid": 201837,
   "attribName": "medical_centers_abb",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Heals nearby units for +2 health every 1 second",
+  "descriptionCN": "治疗附近单位。",
   "classes": [],
   "displayClasses": [],
   "costs": {

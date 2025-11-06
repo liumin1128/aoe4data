@@ -3,6 +3,7 @@
   "baseId": "yatai-farm-gather",
   "type": "technology",
   "name": "Yatai Farm Gather",
+  "nameCN": "屋台农田采集",
   "pbgid": 9003770,
   "attribName": "upgrade_yatai_farm_gather_jpn_ha_sen",
   "age": 2,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min.",
+  "descriptionCN": "屋台可以从附近的农田收集食物，每块农田提供 +4 食物/分钟。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

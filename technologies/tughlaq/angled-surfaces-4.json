@@ -3,6 +3,7 @@
   "baseId": "angled-surfaces",
   "type": "technology",
   "name": "Angled Surfaces",
+  "nameCN": "斜面",
   "pbgid": 9003708,
   "attribName": "upgrade_ranged_armor_iii_sul_ha_tug",
   "age": 4,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the ranged armor of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
   "classes": [
     "military_upgrade",
     "scar_imperial_age_upgrade",

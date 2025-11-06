@@ -3,6 +3,7 @@
   "baseId": "heavy-spearman",
   "type": "unit",
   "name": "Heavy Spearman",
+  "nameCN": "重装长矛兵",
   "pbgid": 8999948,
   "attribName": "unit_heavy_spearman_3_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Heavy Infantry excellent against mounted units.\n+ Stronger when close to Fortresses\n+ Anti-cavalry specialist\n+ High armor\n+ Has a stronger spearwall\n- Countered by Crossbowmen",
+  "descriptionCN": "重装步兵，非常擅长对付骑兵单位。\n+ 靠近要塞时更加强大\n+ 反骑兵专家\n+ 高护甲\n+ 拥有更强的长矛墙\n- 会受到弩手克制",
   "classes": [
     "annihilation_condition",
     "commanderie_unit",

@@ -3,6 +3,7 @@
   "baseId": "elite-horse-archers",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 133501,
   "attribName": "upgrade_unit_horsearcher_4_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Upgrade Horse Archers to Elite Horse Archers.",
+  "descriptionCN": "将骑射手升级为精锐骑射手。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

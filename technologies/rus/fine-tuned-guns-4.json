@@ -3,6 +3,7 @@
   "baseId": "fine-tuned-guns",
   "type": "technology",
   "name": "Fine Tuned Guns",
+  "nameCN": "精密枪械",
   "pbgid": 207448,
   "attribName": "upgrade_siege_fined_tuned_guns_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase damage of Bombards by +20%. Bombards gain +50 damage vs Infantry.",
+  "descriptionCN": "手推炮伤害 +20%。手推炮对步兵的伤害 +50。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

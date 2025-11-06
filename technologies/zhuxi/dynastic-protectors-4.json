@@ -3,6 +3,7 @@
   "baseId": "dynastic-protectors",
   "type": "technology",
   "name": "Dynastic Protectors",
+  "nameCN": "王朝守护者",
   "pbgid": 2127464,
   "attribName": "upgrade_library_unfailing_grit",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Allows production of unique cavalry units, the Imperial Guard, and the Yuan Raider.",
+  "descriptionCN": "允许生产独特的骑兵单位、帝国卫队和元朝掠夺者。",
   "classes": [
     "chinese_ha_01_upgrade",
     "military_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "imperial-academy",
   "type": "building",
   "name": "Imperial Academy",
+  "nameCN": "翰林院",
   "pbgid": 145539,
   "attribName": "building_landmark_age1_academy_control_chi",
   "age": 1,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Nearby buildings generate 100% more Gold from taxes. Imperial Officials produced here cost 30% less resources and can drop off taxes at this building.",
+  "descriptionCN": "附近建筑从税收中额外产生 100% 黄金。此处产生的朝廷命官消耗的资源减少 30%，并且可以将税金存放于这座建筑。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

@@ -3,6 +3,7 @@
   "baseId": "field-work",
   "type": "technology",
   "name": "Field Work",
+  "nameCN": "外勤任务",
   "pbgid": 2059627,
   "attribName": "upgrade_imperial_monk_formation_ott",
   "age": 1,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Spawn 2 Imams at the Landmark Town Center. Imams area heal nearby units for 1 health every second. Increases to 2 health in Castle Age and 3 health in Imperial Age.",
+  "descriptionCN": "在地标城镇中心产生 2 个伊玛目。伊玛目会治疗附近单位，每秒恢复其 1 生命值。城堡时代的生命值增加到 2，帝王时代的生命值增加到 3。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

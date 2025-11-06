@@ -3,6 +3,7 @@
   "baseId": "fervor",
   "type": "technology",
   "name": "Fervor",
+  "nameCN": "狂热",
   "pbgid": 207449,
   "attribName": "upgrade_saints_blessing_buff_effect_rus",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Improve the range of Saint's Blessing by +5 tiles and the damage granted by Saint's Blessing by +1.",
+  "descriptionCN": "圣者的祝福效果范围增加 +5 格，圣者的祝福提供的伤害增加 +1。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

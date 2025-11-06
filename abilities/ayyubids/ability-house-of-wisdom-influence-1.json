@@ -3,6 +3,7 @@
   "baseId": "ability-house-of-wisdom-influence",
   "type": "ability",
   "name": "House of Wisdom Influence",
+  "nameCN": "智慧宫影响力",
   "pbgid": 1838842,
   "attribName": "how_influence_abb",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses.",
+  "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
   "classes": [],
   "displayClasses": [],
   "costs": {

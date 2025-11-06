@@ -3,6 +3,7 @@
   "baseId": "stable",
   "type": "building",
   "name": "Stable",
+  "nameCN": "马厩",
   "pbgid": 145520,
   "attribName": "building_unit_cavalry_control_chi",
   "age": 2,
@@ -10,6 +11,7 @@
     "ch"
   ],
   "description": "Produces cavalry military units.\nGenerates tax each time a unit or research is produced.",
+  "descriptionCN": "生产骑兵军事单位。\n每次生产一个单位或进行研究都会产生税。",
   "classes": [
     "building",
     "military_only_production",

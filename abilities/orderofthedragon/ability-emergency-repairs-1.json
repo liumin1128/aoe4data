@@ -3,6 +3,7 @@
   "baseId": "ability-emergency-repairs",
   "type": "ability",
   "name": "Emergency Repairs",
+  "nameCN": "紧急修理",
   "pbgid": 2031580,
   "attribName": "influence_auto_repair_hre",
   "age": 1,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Building repairs itself by 150 health every 1 second for 20 seconds.",
+  "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

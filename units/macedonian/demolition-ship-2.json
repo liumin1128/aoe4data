@@ -3,6 +3,7 @@
   "baseId": "demolition-ship",
   "type": "unit",
   "name": "Demolition Ship",
+  "nameCN": "爆破船",
   "pbgid": 9001024,
   "attribName": "unit_naval_fireship_3_byz_ha_mac",
   "age": 2,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+  "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
   "classes": [
     "annihilation_condition",
     "incendiary",

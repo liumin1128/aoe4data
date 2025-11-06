@@ -3,6 +3,7 @@
   "baseId": "knight-poleaxes",
   "type": "technology",
   "name": "Knight Poleaxes",
+  "nameCN": "骑士长柄斧",
   "pbgid": 207441,
   "attribName": "upgrade_cavalry_melee_damage_rus",
   "age": 4,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Knights equip a poleax, increasing their melee damage by +4.",
+  "descriptionCN": "骑士装备一把长柄斧，近战伤害增加 +4。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

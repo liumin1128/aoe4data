@@ -3,6 +3,7 @@
   "baseId": "ability-maneuver-arrow",
   "type": "ability",
   "name": "Maneuver Arrow",
+  "nameCN": "机动箭",
   "pbgid": 168567,
   "attribName": "khan_maneuver_signal_arrow_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Fire a Signal Arrow that increases the movement speed of nearby units (including the Khan) by +33% for 5 seconds. Does not affect Villagers.",
+  "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
   "classes": [],
   "displayClasses": [],
   "costs": {

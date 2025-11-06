@@ -3,6 +3,7 @@
   "baseId": "house",
   "type": "building",
   "name": "House",
+  "nameCN": "房屋",
   "pbgid": 2357589,
   "attribName": "building_house_mal",
   "age": 1,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Increases your maximum Population by 5. Malian Houses cost half as many resources as standard.",
+  "descriptionCN": "将人口上限提升 5。马里房屋的建造成本较标准成本减半。",
   "classes": [
     "building",
     "house",

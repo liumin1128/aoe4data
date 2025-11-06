@@ -3,6 +3,7 @@
   "baseId": "ability-castle-of-the-crow-aura",
   "type": "ability",
   "name": "Castle of the Crow Aura",
+  "nameCN": "乌城光环",
   "pbgid": 9001990,
   "attribName": "crow_castle_siege_aura_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Siege units near the Castle gain +10% damage and +1 tiles range.",
+  "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
   "classes": [],
   "displayClasses": [],
   "costs": {

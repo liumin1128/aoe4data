@@ -3,6 +3,7 @@
   "baseId": "bloomery",
   "type": "technology",
   "name": "Bloomery",
+  "nameCN": "熟铁块吹炼法",
   "pbgid": 6516410,
   "attribName": "upgrade_melee_damage_i_sul_ha_tug",
   "age": 2,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Increase the melee damage of all non-siege units by +1.",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
   "classes": [
     "military_upgrade",
     "scar_feudal_age_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "ability-defensive-aura-edict",
   "type": "ability",
   "name": "Defensive Aura Edict",
+  "nameCN": "防御光环法令",
   "pbgid": 9003681,
   "attribName": "toggle_khan_edict_2_mon_ha_gol",
   "age": 2,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Activate to increase the health of units nearby a Fortified Outpost by +10%.\nOnly one edict can be active.",
+  "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
   "classes": [],
   "displayClasses": [],
   "costs": {

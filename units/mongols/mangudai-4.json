@@ -3,6 +3,7 @@
   "baseId": "mangudai",
   "type": "unit",
   "name": "Elite Mangudai",
+  "nameCN": "精锐蒙古突骑",
   "pbgid": 136250,
   "attribName": "unit_horsearcher_4_mon",
   "age": 4,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range",
+  "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
   "classes": [
     "annihilation_condition",
     "archer",

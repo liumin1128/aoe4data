@@ -3,6 +3,7 @@
   "baseId": "incendiaries",
   "type": "technology",
   "name": "Incendiaries",
+  "nameCN": "燃烧弹",
   "pbgid": 7522107,
   "attribName": "upgrade_naval_incendiaries_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Incendiary Ships gain +20% explosion range.",
+  "descriptionCN": "燃烧船的爆炸范围 +20%。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

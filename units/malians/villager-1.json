@@ -3,6 +3,7 @@
   "baseId": "villager",
   "type": "unit",
   "name": "Villager",
+  "nameCN": "村民",
   "pbgid": 2359463,
   "attribName": "unit_villager_1_mal",
   "age": 1,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat",
+  "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 战斗能力弱",
   "classes": [
     "annihilation_condition",
     "builder",

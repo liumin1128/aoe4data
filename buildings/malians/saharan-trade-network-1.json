@@ -3,6 +3,7 @@
   "baseId": "saharan-trade-network",
   "type": "building",
   "name": "Saharan Trade Network",
+  "nameCN": "撒哈拉贸易网络",
   "pbgid": 2063101,
   "attribName": "building_landmark_age1_landmarka_mal",
   "age": 1,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Acts as a Toll Outpost that comes with Defensive Javelin Emplacement researched. Unlocks Javelin Emplacement for Outposts.\nAll Traders and Trade Ships taxed will generate Food equal to the taxed Gold at this Landmark. All other Toll Outposts will generate 50% of taxed Gold as Food.",
+  "descriptionCN": "可作为已研究防御型标枪炮台的收费哨站使用。为哨站解锁标枪炮台。\n所有被征税的商人以及商船都会在此地标处生产与税金等值的食物，其他所有收费哨站也会生产相当于税金 50% 的食物。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

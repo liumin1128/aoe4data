@@ -3,6 +3,7 @@
   "baseId": "veteran-spearmen",
   "type": "upgrade",
   "name": "Upgrade to Veteran",
+  "nameCN": "升级为老练",
   "pbgid": 6570958,
   "attribName": "upgrade_unit_spearman_3_sul_ha_tug",
   "age": 3,
@@ -10,6 +11,7 @@
     "tug"
   ],
   "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+  "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",

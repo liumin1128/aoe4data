@@ -3,6 +3,7 @@
   "baseId": "jeanne-darc-markswoman",
   "type": "unit",
   "name": "Jeanne d'Arc - Markswoman",
+  "nameCN": "圣女贞德 - 神射手",
   "pbgid": 2136360,
   "attribName": "unit_jeanne_d_arc_4_ranged_monarch_fre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "je"
   ],
   "description": "Elite heavy siege cavalry leader with high damage. Exceptionally effective vs buildings. If Jeanne is defeated, she will reappear at a Town Center.\n+ Heavy armor \n+ Long range \n+ Good damage vs buildings\n- Countered only by superior buildings",
+  "descriptionCN": "精锐重装攻城骑兵领袖，拥有高伤害能力。尤其擅长对付建筑。如果贞德被击败，她会重新出现在城镇中心。\n+ 重型护甲\n+ 攻击距离长\n+ 对建筑造成的伤害较高\n- 仅受高级建筑克制",
   "classes": [
     "annihilation_condition",
     "armored",

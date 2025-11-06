@@ -3,6 +3,7 @@
   "baseId": "platecutter-point",
   "type": "technology",
   "name": "Platecutter Point",
+  "nameCN": "箭头穿孔板甲",
   "pbgid": 188271,
   "attribName": "upgrade_ranged_damage_iii",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Increase the ranged damage of all arrows and bolts by +1.",
+  "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "hippodrome-riddari",
   "type": "unit",
   "name": "Hippodrome Riddari",
+  "nameCN": "竞技场瑞塔利",
   "pbgid": 9004207,
   "attribName": "unit_dummy_champion_knight_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Elite varangian cavalry that can enhance the movement speed of nearby infantry. \n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+  "descriptionCN": "精锐瓦兰吉骑兵，可提升附近步兵的移动速度。\n+ 高护甲\n+ 近战能力强\n- 会受到长矛兵和弩兵克制。",
   "classes": [
     "annihilation_condition",
     "armored",

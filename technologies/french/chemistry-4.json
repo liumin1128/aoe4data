@@ -3,6 +3,7 @@
   "baseId": "chemistry",
   "type": "technology",
   "name": "Chemistry",
+  "nameCN": "化学",
   "pbgid": 124734,
   "attribName": "upgrade_siege_chemistry",
   "age": 4,
@@ -10,6 +11,7 @@
     "fr"
   ],
   "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+  "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

@@ -3,6 +3,7 @@
   "baseId": "wheelbarrow",
   "type": "technology",
   "name": "Wheelbarrow",
+  "nameCN": "独轮推车",
   "pbgid": 129091,
   "attribName": "upgrade_unit_town_center_wheelbarrow_1",
   "age": 1,
@@ -10,6 +11,7 @@
     "en"
   ],
   "description": "Increase the carry capacity of Villagers by +5 and their movement speed by +15%.",
+  "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

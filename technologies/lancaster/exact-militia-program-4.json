@@ -3,6 +3,7 @@
   "baseId": "exact-militia-program",
   "type": "technology",
   "name": "Exact Militia Program",
+  "nameCN": "完美的民兵计划",
   "pbgid": 9001244,
   "attribName": "upgrade_shire_levy_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
+  "descriptionCN": "每个庄园征召 1 个短矛骑兵、1 个伯爵护卫，以及 1 个英皇侍卫。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

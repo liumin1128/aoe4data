@@ -3,6 +3,7 @@
   "baseId": "tower-of-the-sultan",
   "type": "unit",
   "name": "Tower of the Sultan",
+  "nameCN": "苏丹之塔",
   "pbgid": 2141356,
   "attribName": "unit_ram_tower_3_abb_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Massive infantry transport effective against buildings and walls. Move speed increases for each unit garrisoned inside.\n+ Fires arrows\n+ High ranged armor\n+ High health\n- Slow move speed when empty",
+  "descriptionCN": "巨大的步兵运输工具，擅长对付建筑和城墙。每多驻扎一个单位，移动速度都会增加。\n+ 发射箭矢\n+ 高远程护甲\n+ 高生命值\n- 空载时移动速度较慢",
   "classes": [
     "annihilation_condition",
     "formational",

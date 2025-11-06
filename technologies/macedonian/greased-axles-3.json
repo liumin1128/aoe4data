@@ -3,6 +3,7 @@
   "baseId": "greased-axles",
   "type": "technology",
   "name": "Greased Axles",
+  "nameCN": "润滑轮轴",
   "pbgid": 191268,
   "attribName": "upgrade_siege_weapon_speed",
   "age": 3,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Increase the movement speed of siege engines by +15%.",
+  "descriptionCN": "攻城器械的移动速度 +15%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

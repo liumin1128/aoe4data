@@ -3,6 +3,7 @@
   "baseId": "economic-wing",
   "type": "technology",
   "name": "Economic Wing",
+  "nameCN": "经济偏殿",
   "pbgid": 2033116,
   "attribName": "upgrade_add_economy_wing",
   "age": 1,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Constructs the Economic Wing.\nThe following economic technologies become available:\n• Fertile Crescent (Age II)\n• Agriculture (Age III)\n• Improved Processing (Age IV)",
+  "descriptionCN": "建造经济偏殿。\n以下经济科技变为可用：\n• 新月沃土 (第二时代)\n• 农业 (第三时代)\n• 强化加工 (第四时代)",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

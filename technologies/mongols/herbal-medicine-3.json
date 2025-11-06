@@ -3,6 +3,7 @@
   "baseId": "herbal-medicine",
   "type": "technology",
   "name": "Herbal Medicine",
+  "nameCN": "草药",
   "pbgid": 129401,
   "attribName": "upgrade_unit_religious_herbal_medicine_4",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase the healing rate of religious units and healers by +60%.",
+  "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

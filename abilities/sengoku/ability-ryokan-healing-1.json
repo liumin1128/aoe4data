@@ -3,6 +3,7 @@
   "baseId": "ability-ryokan-healing",
   "type": "ability",
   "name": "Ryokan Healing",
+  "nameCN": "日式旅馆治疗",
   "pbgid": 9001951,
   "attribName": "ryokan_aura_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Nearby units gain a permanent healing buff. The healing buff will heal the unit when out of combat by 3 health every 5 seconds.",
+  "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

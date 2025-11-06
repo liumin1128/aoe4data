@@ -3,6 +3,7 @@
   "baseId": "ability-military-festival",
   "type": "ability",
   "name": "Military Festival",
+  "nameCN": "军事节庆",
   "pbgid": 2062645,
   "attribName": "festival_military_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Increase all unit production speed by +100% for 90 seconds.",
+  "descriptionCN": "所有单位生产速度 +100%，持续 90 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

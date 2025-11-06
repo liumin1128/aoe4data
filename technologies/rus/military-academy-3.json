@@ -3,6 +3,7 @@
   "baseId": "military-academy",
   "type": "technology",
   "name": "Military Academy",
+  "nameCN": "军事学院",
   "pbgid": 128454,
   "attribName": "upgrade_tech_military_academy",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Increase the production speed of infantry, cavalry, siege, and transport units at buildings by 33%.\nDoes not affect religious units or other support units.",
+  "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",

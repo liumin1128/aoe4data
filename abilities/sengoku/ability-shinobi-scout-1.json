@@ -3,6 +3,7 @@
   "baseId": "ability-shinobi-scout",
   "type": "ability",
   "name": "Shinobi Scout",
+  "nameCN": "忍者侦察兵",
   "pbgid": 9002051,
   "attribName": "shinobi_spy_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Reveals a 10 tile radius for 20 seconds.",
+  "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

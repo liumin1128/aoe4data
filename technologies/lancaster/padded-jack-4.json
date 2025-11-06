@@ -3,6 +3,7 @@
   "baseId": "padded-jack",
   "type": "technology",
   "name": "Padded Jack",
+  "nameCN": "衬垫外衣",
   "pbgid": 5000161,
   "attribName": "upgrade_paddedjack_lan",
   "age": 4,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Equip your Yeomen and Spearmen with Padded Jacks, improving their melee armor by +3.",
+  "descriptionCN": "为英皇侍卫和长矛兵装备衬垫外衣，使其近战护甲 +3。",
   "classes": [
     "english_upgrade",
     "military_upgrade",

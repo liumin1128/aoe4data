@@ -3,6 +3,7 @@
   "baseId": "lancaster-castle",
   "type": "building",
   "name": "Lancaster Castle",
+  "nameCN": "兰开斯特城堡",
   "pbgid": 5000041,
   "attribName": "building_landmark_age1_lancastercastle_lan",
   "age": 1,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Defensive Landmark that can do a one-time muster of units from Manors in each Age.\nGrants all Manors +500 health and an arrowslit emplacement.",
+  "descriptionCN": "防御地标，每个时代可以从庄园召唤一次单位。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
   "classes": [
     "age1_landmark2",
     "audio_production_landmark",

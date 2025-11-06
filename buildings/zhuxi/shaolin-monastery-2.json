@@ -3,6 +3,7 @@
   "baseId": "shaolin-monastery",
   "type": "building",
   "name": "Shaolin Monastery",
+  "nameCN": "少林寺",
   "pbgid": 4136240,
   "attribName": "building_landmark_age2_shaolin_temple_control_chi_ha_01",
   "age": 2,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Unique Monastery capable of producing Shaolin Monks. From the Yuan Dynasty onwards, Shaolin Monks can also be produced from Pagodas.",
+  "descriptionCN": "独特的修道院，能够生产少林僧侣。从元朝开始，宝塔也可以生产少林僧侣。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

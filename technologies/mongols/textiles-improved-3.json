@@ -3,6 +3,7 @@
   "baseId": "textiles-improved",
   "type": "technology",
   "name": "Textiles (Improved)",
+  "nameCN": "纺织品 (已强化)",
   "pbgid": 2062167,
   "attribName": "upgrade_villager_health_improved_mon",
   "age": 3,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Increase Villagers' health by +50%.\nIf Textiles has already been researched, increase health by +100% instead.",
+  "descriptionCN": "村民生命值 +50%。\n如果已完成纺织品研究，则生命值 +100%。",
   "classes": [
     "military_upgrade",
     "mongol_upgrade",

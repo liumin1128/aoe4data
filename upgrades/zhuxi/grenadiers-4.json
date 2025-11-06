@@ -3,6 +3,7 @@
   "baseId": "grenadiers",
   "type": "upgrade",
   "name": "Upgrade to Grenadiers",
+  "nameCN": "升级为掷弹兵",
   "pbgid": 9000378,
   "attribName": "upgrade_unit_grenadier_4_chi_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "Upgrade Early Grenadiers to Grenadiers.",
+  "descriptionCN": "将早期掷弹兵升级为掷弹兵。",
   "classes": [
     "chinese_ha_01_upgrade",
     "military_upgrade",

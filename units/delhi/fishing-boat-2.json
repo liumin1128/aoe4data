@@ -3,6 +3,7 @@
   "baseId": "fishing-boat",
   "type": "unit",
   "name": "Fishing Boat",
+  "nameCN": "渔船",
   "pbgid": 193141,
   "attribName": "unit_naval_fishing_boat_2_sul",
   "age": 2,
@@ -10,6 +11,7 @@
     "de"
   ],
   "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n+ Fires a low damage arrow",
+  "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n+ 可射出一支伤害较低的箭矢",
   "classes": [
     "annihilation_condition",
     "fishing_ship_attack_sul",

@@ -3,6 +3,7 @@
   "baseId": "ability-siege-festival",
   "type": "ability",
   "name": "Siege Festival",
+  "nameCN": "攻城节庆",
   "pbgid": 2062641,
   "attribName": "festival_siege_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Increase damage of Battering Rams, Bombards, Counterweight Trebuchets, and torches by +50% for 90 seconds.\nApplies to Springald Ships once Mounted Guns has been researched.",
+  "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
   "classes": [],
   "displayClasses": [],
   "costs": {

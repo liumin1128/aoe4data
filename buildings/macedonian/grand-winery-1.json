@@ -3,6 +3,7 @@
   "baseId": "grand-winery",
   "type": "building",
   "name": "Grand Winery",
+  "nameCN": "大酒庄",
   "pbgid": 9000937,
   "attribName": "building_landmark_age1_winery_byz_ha_mac",
   "age": 1,
@@ -10,6 +11,7 @@
     "mac"
   ],
   "description": "Acts as a Mill and Monastery. Villagers gather Food 30% faster when affected by its aura. Relics garrisoned generate Silver instead of Gold.",
+  "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
   "classes": [
     "age1_landmark1",
     "building",

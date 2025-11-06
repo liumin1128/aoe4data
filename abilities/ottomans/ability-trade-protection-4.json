@@ -3,6 +3,7 @@
   "baseId": "ability-trade-protection",
   "type": "ability",
   "name": "Trade Protection",
+  "nameCN": "贸易保护",
   "pbgid": 2062057,
   "attribName": "keep_trader_speed_boost_aura_ott",
   "age": 4,
@@ -10,6 +11,7 @@
     "ot"
   ],
   "description": "Traders and Trade Ships near Keeps receive +30% move speed and +8 armor for 20 seconds.",
+  "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

@@ -3,6 +3,7 @@
   "baseId": "archery-range",
   "type": "building",
   "name": "Archery Range",
+  "nameCN": "靶场",
   "pbgid": 5000234,
   "attribName": "building_archery_range_tem",
   "age": 2,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Produces ranged infantry units.",
+  "descriptionCN": "生产远程步兵单位。",
   "classes": [
     "archery_range",
     "building",

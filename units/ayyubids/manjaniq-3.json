@@ -3,6 +3,7 @@
   "baseId": "manjaniq",
   "type": "unit",
   "name": "Manjaniq",
+  "nameCN": "投石机",
   "pbgid": 2890619,
   "attribName": "unit_mangonel_3_abb_ha_01",
   "age": 3,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n+ Can use Incendiary projectiles for devastating area damage\n - Must be set up to fire",
+  "descriptionCN": "可发射多枚炮弹，对范围区域造成伤害。\n+ 擅长对付成群的单位\n+ 可以使用燃烧的炮弹来造成毁灭性的区域伤害\n- 必须架设才能开火",
   "classes": [
     "annihilation_condition",
     "catapult",

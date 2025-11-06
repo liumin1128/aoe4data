@@ -3,6 +3,7 @@
   "baseId": "knights",
   "type": "upgrade",
   "name": "Upgrade to Knight",
+  "nameCN": "升级为骑士",
   "pbgid": 133502,
   "attribName": "upgrade_unit_knight_3_rus",
   "age": 3,
@@ -10,6 +11,7 @@
     "ru"
   ],
   "description": "Upgrade Early Knights to Knights.",
+  "descriptionCN": "将早期骑士升级为骑士。",
   "classes": [
     "military_upgrade",
     "rus_upgrade",

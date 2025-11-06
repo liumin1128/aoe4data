@@ -3,6 +3,7 @@
   "baseId": "house-of-wisdom",
   "type": "building",
   "name": "House of Wisdom",
+  "nameCN": "智慧宫",
   "pbgid": 2985508,
   "attribName": "building_house_of_wisdom_control_abb_ha_01",
   "age": 1,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Contains civilization technology for the Ayyubid Dynasty.\nAyyubids advance in Ages through the House of Wisdom. Construct wings to advance to the next Age and gain additional technology.\nWing bonuses improve based on the Age they were built.",
+  "descriptionCN": "包含阿尤布王朝的文明科技。\n阿尤布通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。\n偏殿奖励基于其建造的时代而提高。",
   "classes": [
     "age_up_producer",
     "building",

@@ -3,6 +3,7 @@
   "baseId": "dromon",
   "type": "unit",
   "name": "Dromon",
+  "nameCN": "德罗蒙战舰",
   "pbgid": 8953580,
   "attribName": "unit_naval_combat_ship_2_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Military ship equipped a flamethrower that can be upgraded to use Greek Fire.\n+ Strong against Arrow Ships\n- Low weapon range\n- Countered by Demolition Ships",
+  "descriptionCN": "装备了火焰发射器的军事船只，可以升级以使用希腊之火。\n+ 擅长对付箭船\n- 武器射程较近\n- 会受到爆破船克制",
   "classes": [
     "annihilation_condition",
     "dromon",

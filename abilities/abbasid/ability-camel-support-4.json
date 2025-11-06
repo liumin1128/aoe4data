@@ -3,6 +3,7 @@
   "baseId": "ability-camel-support",
   "type": "ability",
   "name": "Camel Support",
+  "nameCN": "骆驼支援",
   "pbgid": 200770,
   "attribName": "camel_support_aura_abb",
   "age": 4,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Infantry gain armor when near a camel unit.",
+  "descriptionCN": "步兵在骆驼单位附近时可获得护甲。",
   "classes": [],
   "displayClasses": [],
   "costs": {

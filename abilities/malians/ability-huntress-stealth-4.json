@@ -3,6 +3,7 @@
   "baseId": "ability-huntress-stealth",
   "type": "ability",
   "name": "Huntress' Stealth",
+  "nameCN": "女猎手的隐身",
   "pbgid": 2099928,
   "attribName": "stealth_landmark_aura_mal",
   "age": 4,
@@ -10,6 +11,7 @@
     "ma"
   ],
   "description": "Malian infantry within range enter Stealth. While in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, or when they engage in combat.",
+  "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
   "classes": [],
   "displayClasses": [],
   "costs": {

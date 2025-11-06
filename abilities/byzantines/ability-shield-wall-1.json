@@ -3,6 +3,7 @@
   "baseId": "ability-shield-wall",
   "type": "ability",
   "name": "Shield Wall",
+  "nameCN": "盾墙",
   "pbgid": 2141378,
   "attribName": "toggle_spearman_shield_wall_on_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Enter a defensive stance, decreasing move speed by -25%, attack speed by -25%, and ranged damage taken by -30%.",
+  "descriptionCN": "进入防御姿态，移动速度 -25%，攻击速度 -25%，以及受到的远程伤害 -30%。",
   "classes": [],
   "displayClasses": [],
   "costs": {

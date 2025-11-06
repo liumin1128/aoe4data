@@ -3,6 +3,7 @@
   "baseId": "golden-horn-tower",
   "type": "building",
   "name": "Golden Horn Tower",
+  "nameCN": "金角湾塔",
   "pbgid": 2108056,
   "attribName": "building_landmark_age2_galata_tower_byz",
   "age": 2,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Periodically produces unlocked Mercenary Units for free.",
+  "descriptionCN": "定期免费生产已解锁的雇佣兵单位。",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",

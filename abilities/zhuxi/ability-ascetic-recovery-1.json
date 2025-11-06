@@ -3,6 +3,7 @@
   "baseId": "ability-ascetic-recovery",
   "type": "ability",
   "name": "Ascetic Recovery",
+  "nameCN": "苦行恢复",
   "pbgid": 2127510,
   "attribName": "shaolin_monk_passive_heal_self",
   "age": 1,
@@ -10,6 +11,7 @@
     "zx"
   ],
   "description": "The Shaolin Monk regains health when out of combat.",
+  "descriptionCN": "少林僧侣在脱离战斗时会恢复生命值。",
   "classes": [],
   "displayClasses": [],
   "costs": {

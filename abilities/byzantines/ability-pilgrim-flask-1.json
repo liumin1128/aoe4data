@@ -3,6 +3,7 @@
   "baseId": "ability-pilgrim-flask",
   "type": "ability",
   "name": "Pilgrim Flask",
+  "nameCN": "朝圣者之瓶",
   "pbgid": 2144175,
   "attribName": "pilgrim_flask_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Activate to drink, rapidly increasing health regeneration by 25 per second for 6 seconds.",
+  "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
   "classes": [],
   "displayClasses": [],
   "costs": {

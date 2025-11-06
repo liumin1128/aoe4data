@@ -3,6 +3,7 @@
   "baseId": "harbor",
   "type": "building",
   "name": "Harbor",
+  "nameCN": "巨港",
   "pbgid": 5000233,
   "attribName": "building_dock_tem",
   "age": 1,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "Strong Dock that produces naval units and increases the health of nearby ships.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to 4 Fishing Ships.",
+  "descriptionCN": "强大的码头，可生产海军单位并增加附近船只的生命值。\n自动修复附近受损的海军单位。\n最多可容纳 4 艘渔船。",
   "classes": [
     "building",
     "military_only_production",

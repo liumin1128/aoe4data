@@ -3,6 +3,7 @@
   "baseId": "elite-kipchak-archer",
   "type": "upgrade",
   "name": "Upgrade to Elite",
+  "nameCN": "升级为精锐",
   "pbgid": 9004779,
   "attribName": "upgrade_unit_kipchak_4_mon_ha_gol",
   "age": 4,
@@ -10,6 +11,7 @@
     "gol"
   ],
   "description": "Upgrade Kipchak Archer to Elite Kipchak Archer.",
+  "descriptionCN": "将钦察弓兵升级为精锐钦察弓兵。",
   "classes": [
     "military_upgrade",
     "ottoman_upgrade",

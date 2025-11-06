@@ -3,6 +3,7 @@
   "baseId": "hulk",
   "type": "unit",
   "name": "Hulk",
+  "nameCN": "趸船",
   "pbgid": 5000128,
   "attribName": "unit_naval_hulk_lan",
   "age": 2,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+  "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
   "classes": [
     "annihilation_condition",
     "massive",

@@ -3,6 +3,7 @@
   "baseId": "ability-akritoi-defense",
   "type": "ability",
   "name": "Akritoi Defense",
+  "nameCN": "边防部队防御",
   "pbgid": 2146135,
   "attribName": "landmark_activate_akritoi_byz",
   "age": 1,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Arm nearby Villagers with stronger weapons and increase their armor by +2 for 30 seconds.\n+1 damage in Dark Age\n+1 damage in Feudal Age\n+1 damage in Castle Age\n+2 damage in Imperial Age",
+  "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
   "classes": [],
   "displayClasses": [],
   "costs": {

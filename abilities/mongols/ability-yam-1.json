@@ -3,6 +3,7 @@
   "baseId": "ability-yam",
   "type": "ability",
   "name": "Yam",
+  "nameCN": "驿站",
   "pbgid": 131400,
   "attribName": "ortoo_outpost_speed_aura_mon",
   "age": 1,
@@ -10,6 +11,7 @@
     "mo"
   ],
   "description": "Cavalry and Traders near an Outpost get +15% speed for 10 seconds.",
+  "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
   "classes": [],
   "displayClasses": [],
   "costs": {

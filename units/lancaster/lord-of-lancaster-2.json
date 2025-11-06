@@ -3,6 +3,7 @@
   "baseId": "lord-of-lancaster",
   "type": "unit",
   "name": "Lord of Lancaster",
+  "nameCN": "兰开斯特领主",
   "pbgid": 5000070,
   "attribName": "unit_abbey_king_2_lan",
   "age": 2,
@@ -10,6 +11,7 @@
     "hl"
   ],
   "description": "A powerful Lord of Lancaster, fights effectively and grants nearby military units +5% max health.\n+ High health.\n+ Improves nearby units.\n- Slow movement.\n- Countered by Knights, Lancers, and Crossbowmen.",
+  "descriptionCN": "一位强大的兰开斯特领主，擅长战斗，可以令附近军事单位的生命值 +5%。\n+ 大量生命值。\n+ 强化附近单位。\n- 移动速度慢。\n- 会受到骑士、长矛骑兵和弩手克制。",
   "classes": [
     "armored",
     "formational",

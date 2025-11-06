@@ -3,6 +3,7 @@
   "baseId": "piety",
   "type": "technology",
   "name": "Piety",
+  "nameCN": "虔诚",
   "pbgid": 129403,
   "attribName": "upgrade_unit_religious_piety_4",
   "age": 4,
@@ -10,6 +11,7 @@
     "ay"
   ],
   "description": "Increase the health of religious units and healers by +40.",
+  "descriptionCN": "宗教单位和治疗者的生命值 +40。",
   "classes": [
     "abbasid_ha_01_upgrade",
     "ayyubid_cmp_upgrade",

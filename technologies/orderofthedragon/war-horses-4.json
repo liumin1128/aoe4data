@@ -3,6 +3,7 @@
   "baseId": "war-horses",
   "type": "technology",
   "name": "War Horses",
+  "nameCN": "战马",
   "pbgid": 2140584,
   "attribName": "upgrade_knight_war_horses_hre_ha_01",
   "age": 4,
@@ -10,6 +11,7 @@
     "od"
   ],
   "description": "Gilded Knights take -25% damage while charging.",
+  "descriptionCN": "镀金骑士冲锋时受到的伤害 -25%。",
   "classes": [
     "military_upgrade"
   ],

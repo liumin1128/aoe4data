@@ -3,6 +3,7 @@
   "baseId": "foreign-engineering-company",
   "type": "building",
   "name": "Foreign Engineering Company",
+  "nameCN": "外国工程公司",
   "pbgid": 2104804,
   "attribName": "building_landmark_age3_eastern_merc_house_byz",
   "age": 3,
@@ -10,6 +11,7 @@
     "by"
   ],
   "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons with Olive Oil. Mercenaries receive various unique technologies from their original civilization.",
+  "descriptionCN": "允许用橄榄油生产一窝蜂、回回炮和皇家加农炮。雇佣兵会从其原来的文明中获得各种独特的科技。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

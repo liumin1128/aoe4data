@@ -3,6 +3,7 @@
   "baseId": "angevin-empire",
   "type": "technology",
   "name": "Angevin Empire",
+  "nameCN": "安茹帝国",
   "pbgid": 5000206,
   "attribName": "upgrade_age_feudal_com_1_tem",
   "age": 3,
@@ -10,6 +11,7 @@
     "kt"
   ],
   "description": "- Fortresses and Docks gain +30% Health.",
+  "descriptionCN": "- 要塞和码头的生命值 +30%。",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",

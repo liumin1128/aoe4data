@@ -3,6 +3,7 @@
   "baseId": "farmhouse",
   "type": "building",
   "name": "Farmhouse",
+  "nameCN": "农舍",
   "pbgid": 3229293,
   "attribName": "building_house_jpn_ha_sen",
   "age": 1,
@@ -10,6 +11,7 @@
     "sen"
   ],
   "description": "Increases your maximum Population and Villagers can drop-off Food at this building. Contains technologies to improve Food gathering.",
+  "descriptionCN": "提高人口上限而且村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
   "classes": [
     "building",
     "economy_building",

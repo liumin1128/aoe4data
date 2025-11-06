@@ -3,6 +3,7 @@
   "baseId": "camel-archer",
   "type": "unit",
   "name": "Veteran Camel Archer",
+  "nameCN": "老练骆驼射手",
   "pbgid": 200000,
   "attribName": "unit_camel_archer_3_abb",
   "age": 3,
@@ -10,6 +11,7 @@
     "ab"
   ],
   "description": "Highly mobile and durable ranged unit.\n+Bonus damage vs Spearmen\n-High cost",
+  "descriptionCN": "高机动性且耐久的远程单位。\n+对长矛兵有伤害加成\n-高成本",
   "classes": [
     "annihilation_condition",
     "archer",
