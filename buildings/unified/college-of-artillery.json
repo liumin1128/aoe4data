@@ -36,6 +36,7 @@
       "baseId": "college-of-artillery",
       "type": "building",
       "name": "College of Artillery",
+      "nameCN": "炮兵学院",
       "pbgid": 132786,
       "attribName": "building_landmark_age3_ecole_de_poudre_a_canon_fre",
       "age": 3,
@@ -43,6 +44,7 @@
         "fr"
       ],
       "description": "Produces the Royal Artillery versions of the Cannon, Ribauldequin, and Culverin, which do +30% more damage.\nUnlocks the Artillery ability for all Cannons.\nContains Siege and Gunpowder Technologies, trains units and researches technologies 50% faster.",
+      "descriptionCN": "生产皇家炮兵版加农炮、机关炮和长管炮，它们造成的伤害额外 +30%。\n解锁所有加农炮的火炮术能力。\n包括攻城和火药科技，训练单位和研究科技的速度 +50%。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -100,6 +102,7 @@
       "baseId": "college-of-artillery",
       "type": "building",
       "name": "College of Artillery",
+      "nameCN": "炮兵学院",
       "pbgid": 3621045,
       "attribName": "building_landmark_age3_ecole_de_poudre_a_canon_fre_ha_01",
       "age": 4,
@@ -107,6 +110,7 @@
         "je"
       ],
       "description": "Produces the Royal Artillery versions of the Cannon, Ribauldequin, and Culverin, which do +30% more damage.\nUnlocks the Artillery ability for all Cannons.\nContains Siege and Gunpowder Technologies, trains units and researches technologies 50% faster.",
+      "descriptionCN": "生产皇家炮兵版加农炮、机关炮和长管炮，它们造成的伤害额外 +30%。\n解锁所有加农炮的火炮术能力。\n包括攻城和火药科技，训练单位和研究科技的速度 +50%。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",

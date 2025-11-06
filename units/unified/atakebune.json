@@ -34,6 +34,7 @@
       "baseId": "atakebune",
       "type": "unit",
       "name": "Atakebune",
+      "nameCN": "安宅船",
       "pbgid": 4708845,
       "attribName": "unit_naval_combat_warship_4_jpn",
       "age": 4,
@@ -41,6 +42,7 @@
         "ja"
       ],
       "description": "Large sailed war vessel armed with rockets.\n+ Anti-structure specialist\n- Vulnerable vs. Incendiary Ships\n- Low movement speed",
+      "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -137,6 +139,7 @@
       "baseId": "atakebune",
       "type": "unit",
       "name": "Atakebune",
+      "nameCN": "安宅船",
       "pbgid": 3280750,
       "attribName": "unit_naval_combat_warship_4_jpn_ha_sen",
       "age": 4,
@@ -144,6 +147,7 @@
         "sen"
       ],
       "description": "Large sailed war vessel armed with rockets.\n+ Anti-structure specialist\n- Vulnerable vs. Incendiary Ships\n- Low movement speed",
+      "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",

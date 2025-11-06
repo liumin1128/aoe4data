@@ -51,6 +51,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 199623,
       "attribName": "building_defense_outpost_control_abb",
       "age": 1,
@@ -58,6 +59,7 @@
         "ab"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -125,6 +127,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 3437870,
       "attribName": "building_defense_outpost_control_abb_ha_01",
       "age": 1,
@@ -132,6 +135,7 @@
         "ay"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -199,6 +203,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 2104736,
       "attribName": "building_defense_outpost_byz",
       "age": 1,
@@ -206,6 +211,7 @@
         "by"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -274,6 +280,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 144652,
       "attribName": "building_defense_outpost_chi",
       "age": 1,
@@ -281,6 +288,7 @@
         "ch"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -345,6 +353,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 135795,
       "attribName": "building_defense_outpost_control_sul",
       "age": 1,
@@ -352,6 +361,7 @@
         "de"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -416,6 +426,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 166244,
       "attribName": "building_defense_outpost_eng",
       "age": 1,
@@ -423,6 +434,7 @@
         "en"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nNetwork of Castles Bonus: Triggers an alarm when an enemy approaches, causing nearby units and defensive buildings to fire faster while the alarm is active.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。\n城堡网络加成：敌人接近时会触发警报，警报生效期间附近的单位和防御型建筑射击速度会加快。",
       "classes": [
         "building",
         "defensive_structure",
@@ -487,6 +499,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 132680,
       "attribName": "building_defense_outpost_fre",
       "age": 1,
@@ -494,6 +507,7 @@
         "fr"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -558,6 +572,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 134924,
       "attribName": "building_defense_outpost_hre",
       "age": 1,
@@ -565,6 +580,7 @@
         "hr"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned. \nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "defensive_structure",
@@ -633,6 +649,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 5000028,
       "attribName": "building_defense_outpost_lan",
       "age": 1,
@@ -640,6 +657,7 @@
         "hl"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -704,6 +722,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 2321424,
       "attribName": "building_defense_outpost_jpn",
       "age": 1,
@@ -711,6 +730,7 @@
         "ja"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -775,6 +795,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 3122169,
       "attribName": "building_defense_outpost_fre_ha_01",
       "age": 1,
@@ -782,6 +803,7 @@
         "je"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -847,6 +869,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 5000215,
       "attribName": "building_defense_outpost_tem",
       "age": 1,
@@ -854,6 +877,7 @@
         "kt"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -918,6 +942,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 9000930,
       "attribName": "building_defense_outpost_byz_ha_mac",
       "age": 1,
@@ -925,6 +950,7 @@
         "mac"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -991,6 +1017,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 130795,
       "attribName": "building_defense_outpost_mon",
       "age": 1,
@@ -998,6 +1025,7 @@
         "mo"
       ],
       "description": "Light garrison and defensible position.\nExtensive line of sight and detects units stealth or disguises.\nCan be upgraded with weaponry.\nYam: Increases the speed of nearby Cavalry and Traders.",
+      "descriptionCN": "简单的驻军及防守位置。\n视野开阔，可侦测匿踪或伪装单位。\n可升级武器。\n驿站：提升附近骑兵和商人的速度。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1062,6 +1090,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 8760924,
       "attribName": "building_defense_outpost_hre_ha_01",
       "age": 1,
@@ -1069,6 +1098,7 @@
         "od"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned. \nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1137,6 +1167,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 2034591,
       "attribName": "building_defense_outpost_ott",
       "age": 1,
@@ -1144,6 +1175,7 @@
         "ot"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1209,6 +1241,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 8893158,
       "attribName": "building_defense_outpost_jpn_ha_sen",
       "age": 1,
@@ -1216,6 +1249,7 @@
         "sen"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1280,6 +1314,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 8613713,
       "attribName": "building_defense_outpost_control_sul_ha_tug",
       "age": 1,
@@ -1287,6 +1322,7 @@
         "tug"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1351,6 +1387,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 7167197,
       "attribName": "building_defense_outpost_chi_ha_01",
       "age": 1,
@@ -1358,6 +1395,7 @@
         "zx"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",

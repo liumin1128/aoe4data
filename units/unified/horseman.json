@@ -49,6 +49,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 199715,
       "attribName": "unit_horseman_2_abb",
       "age": 2,
@@ -56,6 +57,7 @@
         "ab"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -190,6 +192,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 199716,
       "attribName": "unit_horseman_3_abb",
       "age": 3,
@@ -197,6 +200,7 @@
         "ab"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -331,6 +335,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 199717,
       "attribName": "unit_horseman_4_abb",
       "age": 4,
@@ -338,6 +343,7 @@
         "ab"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -472,6 +478,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 3677103,
       "attribName": "unit_horseman_2_abb_ha_01",
       "age": 2,
@@ -479,6 +486,7 @@
         "ay"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -613,6 +621,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 4128483,
       "attribName": "unit_horseman_3_abb_ha_01",
       "age": 3,
@@ -620,6 +629,7 @@
         "ay"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -754,6 +764,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 5340402,
       "attribName": "unit_horseman_4_abb_ha_01",
       "age": 4,
@@ -761,6 +772,7 @@
         "ay"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -895,6 +907,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 7576265,
       "attribName": "unit_horseman_2_byz",
       "age": 2,
@@ -902,6 +915,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1037,6 +1051,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 3096230,
       "attribName": "unit_horseman_3_byz",
       "age": 3,
@@ -1044,6 +1059,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1179,6 +1195,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 2986328,
       "attribName": "unit_horseman_4_byz",
       "age": 4,
@@ -1186,6 +1203,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1321,6 +1339,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 137564,
       "attribName": "unit_horseman_2_chi",
       "age": 2,
@@ -1328,6 +1347,7 @@
         "ch"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1462,6 +1482,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 137565,
       "attribName": "unit_horseman_3_chi",
       "age": 3,
@@ -1469,6 +1490,7 @@
         "ch"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1603,6 +1625,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 137567,
       "attribName": "unit_horseman_4_chi",
       "age": 4,
@@ -1610,6 +1633,7 @@
         "ch"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1744,6 +1768,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 166398,
       "attribName": "unit_horseman_2_eng",
       "age": 2,
@@ -1751,6 +1776,7 @@
         "en"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1888,6 +1914,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 166399,
       "attribName": "unit_horseman_3_eng",
       "age": 3,
@@ -1895,6 +1922,7 @@
         "en"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2032,6 +2060,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 166400,
       "attribName": "unit_horseman_4_eng",
       "age": 4,
@@ -2039,6 +2068,7 @@
         "en"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2176,6 +2206,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 132276,
       "attribName": "unit_horseman_2_fre",
       "age": 2,
@@ -2183,6 +2214,7 @@
         "fr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2318,6 +2350,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 132277,
       "attribName": "unit_horseman_3_fre",
       "age": 3,
@@ -2325,6 +2358,7 @@
         "fr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2460,6 +2494,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 132278,
       "attribName": "unit_horseman_4_fre",
       "age": 4,
@@ -2467,6 +2502,7 @@
         "fr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2602,6 +2638,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Early Horseman",
+      "nameCN": "早期骑手",
       "pbgid": 6017151,
       "attribName": "unit_horseman_1_mon_ha_gol",
       "age": 1,
@@ -2609,6 +2646,7 @@
         "gol"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2745,6 +2783,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 5167713,
       "attribName": "unit_horseman_2_mon_ha_gol",
       "age": 2,
@@ -2752,6 +2791,7 @@
         "gol"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -2886,6 +2926,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 6111940,
       "attribName": "unit_horseman_3_mon_ha_gol",
       "age": 3,
@@ -2893,6 +2934,7 @@
         "gol"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3027,6 +3069,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 6285016,
       "attribName": "unit_horseman_4_mon_ha_gol",
       "age": 4,
@@ -3034,6 +3077,7 @@
         "gol"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3168,6 +3212,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 134721,
       "attribName": "unit_horseman_2_hre",
       "age": 2,
@@ -3175,6 +3220,7 @@
         "hr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3309,6 +3355,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 134722,
       "attribName": "unit_horseman_3_hre",
       "age": 3,
@@ -3316,6 +3363,7 @@
         "hr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3450,6 +3498,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 134724,
       "attribName": "unit_horseman_4_hre",
       "age": 4,
@@ -3457,6 +3506,7 @@
         "hr"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3591,6 +3641,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 2314729,
       "attribName": "unit_horseman_2_jpn",
       "age": 2,
@@ -3598,6 +3649,7 @@
         "ja"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3732,6 +3784,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 2691843,
       "attribName": "unit_horseman_3_jpn",
       "age": 3,
@@ -3739,6 +3792,7 @@
         "ja"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3873,6 +3927,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 6769486,
       "attribName": "unit_horseman_4_jpn",
       "age": 4,
@@ -3880,6 +3935,7 @@
         "ja"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4014,6 +4070,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 132276,
       "attribName": "unit_horseman_2_fre",
       "age": 2,
@@ -4021,6 +4078,7 @@
         "je"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4156,6 +4214,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 132277,
       "attribName": "unit_horseman_3_fre",
       "age": 3,
@@ -4163,6 +4222,7 @@
         "je"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4298,6 +4358,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 132278,
       "attribName": "unit_horseman_4_fre",
       "age": 4,
@@ -4305,6 +4366,7 @@
         "je"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4440,6 +4502,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 8999933,
       "attribName": "unit_horseman_2_tem",
       "age": 2,
@@ -4447,6 +4510,7 @@
         "kt"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4581,6 +4645,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 8999934,
       "attribName": "unit_horseman_3_tem",
       "age": 3,
@@ -4588,6 +4653,7 @@
         "kt"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4722,6 +4788,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 8999935,
       "attribName": "unit_horseman_4_tem",
       "age": 4,
@@ -4729,6 +4796,7 @@
         "kt"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -4863,6 +4931,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 9001012,
       "attribName": "unit_horseman_2_byz_ha_mac",
       "age": 2,
@@ -4870,6 +4939,7 @@
         "mac"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5005,6 +5075,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 9001013,
       "attribName": "unit_horseman_3_byz_ha_mac",
       "age": 3,
@@ -5012,6 +5083,7 @@
         "mac"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5147,6 +5219,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 9001014,
       "attribName": "unit_horseman_4_byz_ha_mac",
       "age": 4,
@@ -5154,6 +5227,7 @@
         "mac"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5289,6 +5363,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Early Horseman",
+      "nameCN": "早期骑手",
       "pbgid": 129569,
       "attribName": "unit_horseman_1_mon",
       "age": 1,
@@ -5296,6 +5371,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5430,6 +5506,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 129570,
       "attribName": "unit_horseman_2_mon",
       "age": 2,
@@ -5437,6 +5514,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5571,6 +5649,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 129575,
       "attribName": "unit_horseman_3_mon",
       "age": 3,
@@ -5578,6 +5657,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5712,6 +5792,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 136251,
       "attribName": "unit_horseman_4_mon",
       "age": 4,
@@ -5719,6 +5800,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5853,6 +5935,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 133459,
       "attribName": "unit_horseman_2_rus",
       "age": 2,
@@ -5860,6 +5943,7 @@
         "ru"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -5994,6 +6078,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 133460,
       "attribName": "unit_horseman_3_rus",
       "age": 3,
@@ -6001,6 +6086,7 @@
         "ru"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -6135,6 +6221,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 133461,
       "attribName": "unit_horseman_4_rus",
       "age": 4,
@@ -6142,6 +6229,7 @@
         "ru"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -6276,6 +6364,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 5013470,
       "attribName": "unit_horseman_2_chi_ha_01",
       "age": 2,
@@ -6283,6 +6372,7 @@
         "zx"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -6418,6 +6508,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 5825703,
       "attribName": "unit_horseman_3_chi_ha_01",
       "age": 3,
@@ -6425,6 +6516,7 @@
         "zx"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -6560,6 +6652,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 5308342,
       "attribName": "unit_horseman_4_chi_ha_01",
       "age": 4,
@@ -6567,6 +6660,7 @@
         "zx"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

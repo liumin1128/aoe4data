@@ -26,6 +26,7 @@
       "baseId": "stone-bounty",
       "type": "technology",
       "name": "Stone Bounty",
+      "nameCN": "石料赏金",
       "pbgid": 205555,
       "attribName": "upgrade_raid_stone_bounty_mon",
       "age": 4,
@@ -33,6 +34,7 @@
         "mo"
       ],
       "description": "Add +50 Stone to the raid income for igniting a building.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +50 石料。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",

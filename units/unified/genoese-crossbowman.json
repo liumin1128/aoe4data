@@ -38,6 +38,7 @@
       "baseId": "genoese-crossbowman",
       "type": "unit",
       "name": "Genoese Crossbowman",
+      "nameCN": "热那亚弩手",
       "pbgid": 8999944,
       "attribName": "unit_genoese_crossbow_3_tem",
       "age": 3,
@@ -45,6 +46,7 @@
         "kt"
       ],
       "description": "High damage ranged unit effective against Melee Infantry.\n+ High damage\n- Low health\n- Countered by Horseman",
+      "descriptionCN": "高伤害远程单位，擅长对付近战步兵。\n+ 高伤害\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "commanderie_unit",
@@ -145,6 +147,7 @@
       "baseId": "genoese-crossbowman",
       "type": "unit",
       "name": "Elite Genoese Crossbowman",
+      "nameCN": "精锐热那亚弩手",
       "pbgid": 8999869,
       "attribName": "unit_genoese_crossbow_4_tem",
       "age": 4,
@@ -152,6 +155,7 @@
         "kt"
       ],
       "description": "High damage ranged unit effective against Melee Infantry.\n+ High damage\n- Low health\n- Countered by Horseman",
+      "descriptionCN": "高伤害远程单位，擅长对付近战步兵。\n+ 高伤害\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "arbalest_animate",

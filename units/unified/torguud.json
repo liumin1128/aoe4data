@@ -39,6 +39,7 @@
       "baseId": "torguud",
       "type": "unit",
       "name": "Elite Torguud",
+      "nameCN": "精锐土尔扈特",
       "pbgid": 9001191,
       "attribName": "unit_bodyguard_4_mon_ha_gol",
       "age": 2,
@@ -46,6 +47,7 @@
         "gol"
       ],
       "description": "Expensive cavalry with high health and melee armor. Effective against melee units. Protects the Khan when nearby by redirecting damage to themselves and can heal the Khan while out of combat. \n+ Heavy armor\n+ High Health\n+ Automatically improves with each Age\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "花费昂贵的骑兵，具有高生命值、高近战护甲。擅长对付近战单位。在位于汗附近时，可以将伤害转移到自己身上来保护汗，并且可以在脱离战斗后治疗汗。\n+ 重型护甲\n+ 高生命值\n+ 随时代推进自动增强\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -184,6 +186,7 @@
       "baseId": "torguud",
       "type": "unit",
       "name": "Torguud",
+      "nameCN": "土尔扈特",
       "pbgid": 9001189,
       "attribName": "unit_bodyguard_2_mon_ha_gol",
       "age": 3,
@@ -191,6 +194,7 @@
         "gol"
       ],
       "description": "Expensive cavalry with high health and melee armor. Effective against melee units. Protects the Khan when nearby by redirecting damage to themselves and can heal the Khan while out of combat. \n+ Heavy armor\n+ High Health\n+ Automatically improves with each Age\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "花费昂贵的骑兵，具有高生命值、高近战护甲。擅长对付近战单位。在位于汗附近时，可以将伤害转移到自己身上来保护汗，并且可以在脱离战斗后治疗汗。\n+ 重型护甲\n+ 高生命值\n+ 随时代推进自动增强\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

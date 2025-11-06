@@ -36,6 +36,7 @@
       "baseId": "hippodrome-scout",
       "type": "unit",
       "name": "Hippodrome Scout",
+      "nameCN": "竞技场侦察兵",
       "pbgid": 9004206,
       "attribName": "unit_dummy_champion_scout_byz_ha_mac",
       "age": 1,
@@ -43,6 +44,7 @@
         "mac"
       ],
       "description": "Lightly armed cavalry with increased vision and damage. Comes with an aura that increases damage of torches.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "拥有更远视野和更高伤害的轻装骑兵。带有一个光环，可提升火炬伤害。\n+ 能够看到浓密森林中的情况\n+ 恢复生命值\n+ 移动速度快\n- 在战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",

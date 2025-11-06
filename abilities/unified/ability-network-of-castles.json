@@ -18,6 +18,7 @@
       "baseId": "ability-network-of-castles",
       "type": "ability",
       "name": "Network of Castles",
+      "nameCN": "城堡网络",
       "pbgid": 168608,
       "attribName": "tower_outpost_alert_aura_eng",
       "age": 1,
@@ -25,6 +26,7 @@
         "en"
       ],
       "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +20% increase to attack speed.",
+      "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

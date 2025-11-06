@@ -18,6 +18,7 @@
       "baseId": "ability-irrigated",
       "type": "ability",
       "name": "Irrigated",
+      "nameCN": "已灌溉",
       "pbgid": 2128567,
       "attribName": "cistern_influence_gathering_bonus_1_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Villager gathering rate increased by 5/10/15/20/25% (depening on water level)",
+      "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
       "classes": [],
       "displayClasses": [],
       "costs": {},

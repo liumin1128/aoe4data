@@ -18,6 +18,7 @@
       "baseId": "ability-construct-the-kingdom",
       "type": "ability",
       "name": "Construct the Kingdom",
+      "nameCN": "建造王国",
       "pbgid": 2139259,
       "attribName": "jeanne_d_arc_construction_aura_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Nearby Villagers construct buildings 33% faster.",
+      "descriptionCN": "附近村民建造建筑的速度加快 33%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

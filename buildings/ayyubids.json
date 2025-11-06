@@ -16,6 +16,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5411355,
       "attribName": "building_unit_ranged_control_abb_ha_01",
       "age": 2,
@@ -23,6 +24,7 @@
         "ay"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -79,6 +81,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 8048617,
       "attribName": "building_unit_infantry_control_abb_ha_01",
       "age": 1,
@@ -86,6 +89,7 @@
         "ay"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -142,6 +146,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 4992886,
       "attribName": "building_tech_unit_infantry_control_abb_ha_01",
       "age": 2,
@@ -149,6 +154,7 @@
         "ay"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -202,6 +208,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 8390220,
       "attribName": "building_town_center_capital_abb_ha_01",
       "age": 1,
@@ -209,6 +216,7 @@
         "ay"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "defensive_structure",
@@ -285,6 +293,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 5883638,
       "attribName": "building_unit_naval_abb_ha_01",
       "age": 1,
@@ -292,6 +301,7 @@
         "ay"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -357,6 +367,7 @@
       "baseId": "farm",
       "type": "building",
       "name": "Farm",
+      "nameCN": "农田",
       "pbgid": 7284414,
       "attribName": "building_resource_farm_control_abb_ha_01",
       "age": 1,
@@ -364,6 +375,7 @@
         "ay"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "classes": [
         "building",
         "farm",
@@ -415,6 +427,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 6653016,
       "attribName": "building_house_control_abb_ha_01",
       "age": 1,
@@ -422,6 +435,7 @@
         "ay"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -473,6 +487,7 @@
       "baseId": "house-of-wisdom",
       "type": "building",
       "name": "House of Wisdom",
+      "nameCN": "智慧宫",
       "pbgid": 2985508,
       "attribName": "building_house_of_wisdom_control_abb_ha_01",
       "age": 1,
@@ -480,6 +495,7 @@
         "ay"
       ],
       "description": "Contains civilization technology for the Ayyubid Dynasty.\nAyyubids advance in Ages through the House of Wisdom. Construct wings to advance to the next Age and gain additional technology.\nWing bonuses improve based on the Age they were built.",
+      "descriptionCN": "包含阿尤布王朝的文明科技。\n阿尤布通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。\n偏殿奖励基于其建造的时代而提高。",
       "classes": [
         "age_up_producer",
         "building",
@@ -544,6 +560,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2779506,
       "attribName": "building_defense_keep_control_abb_ha_01",
       "age": 3,
@@ -551,6 +568,7 @@
         "ay"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -664,6 +682,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 6747201,
       "attribName": "building_econ_wood_control_abb_ha_01",
       "age": 1,
@@ -671,6 +690,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -725,6 +745,7 @@
       "baseId": "madrasa",
       "type": "building",
       "name": "Madrasa",
+      "nameCN": "穆斯林学塾",
       "pbgid": 7245736,
       "attribName": "building_tech_university_control_abb_ha_01",
       "age": 4,
@@ -732,6 +753,7 @@
         "ay"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -785,6 +807,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 6984985,
       "attribName": "building_econ_market_control_abb_ha_01",
       "age": 2,
@@ -792,6 +815,7 @@
         "ay"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -848,6 +872,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 7712467,
       "attribName": "building_econ_food_control_abb_ha_01",
       "age": 1,
@@ -855,6 +880,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
       "classes": [
         "building",
         "economy_building",
@@ -912,6 +938,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 3847655,
       "attribName": "building_econ_mining_camp_control_abb_ha_01",
       "age": 1,
@@ -919,6 +946,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -975,6 +1003,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 3091240,
       "attribName": "building_unit_religious_control_abb_ha_01",
       "age": 3,
@@ -982,6 +1011,7 @@
         "ay"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -1038,6 +1068,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 3437870,
       "attribName": "building_defense_outpost_control_abb_ha_01",
       "age": 1,
@@ -1045,6 +1076,7 @@
         "ay"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1112,6 +1144,7 @@
       "baseId": "palisade",
       "type": "building",
       "name": "Palisade",
+      "nameCN": "木栅栏",
       "pbgid": 5545497,
       "attribName": "building_defense_palisade_abb_ha_01",
       "age": 1,
@@ -1119,6 +1152,7 @@
         "ay"
       ],
       "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1170,6 +1204,7 @@
       "baseId": "palisade-gate",
       "type": "building",
       "name": "Palisade Gate",
+      "nameCN": "木城门",
       "pbgid": 7870299,
       "attribName": "building_defense_palisade_gate_abb_ha_01",
       "age": 1,
@@ -1177,6 +1212,7 @@
         "ay"
       ],
       "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1228,6 +1264,7 @@
       "baseId": "prayer-hall-of-uqba",
       "type": "building",
       "name": "Prayer Hall of Uqba",
+      "nameCN": "奥卡巴礼拜大殿",
       "pbgid": 2122469,
       "attribName": "building_wonder_age4_great_mosque_control_abb_ha_01",
       "age": 4,
@@ -1235,6 +1272,7 @@
         "ay"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -1288,6 +1326,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 8946410,
       "attribName": "building_unit_siege_control_abb_ha_01",
       "age": 3,
@@ -1295,6 +1334,7 @@
         "ay"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -1351,6 +1391,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 5091138,
       "attribName": "building_unit_cavalry_control_abb_ha_01",
       "age": 2,
@@ -1358,6 +1399,7 @@
         "ay"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -1414,6 +1456,7 @@
       "baseId": "stone-wall",
       "type": "building",
       "name": "Stone Wall",
+      "nameCN": "石墙",
       "pbgid": 3254210,
       "attribName": "building_defense_wall_abb_ha_01",
       "age": 2,
@@ -1421,6 +1464,7 @@
         "ay"
       ],
       "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1472,6 +1516,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 4836399,
       "attribName": "building_defense_wall_gate_abb_ha_01",
       "age": 2,
@@ -1479,6 +1524,7 @@
         "ay"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1530,6 +1576,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2986701,
       "attribName": "building_defense_tower_abb_ha_01",
       "age": 2,
@@ -1537,6 +1584,7 @@
         "ay"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1629,6 +1677,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 4105278,
       "attribName": "building_town_center_abb_ha_01",
       "age": 1,
@@ -1636,6 +1685,7 @@
         "ay"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
       "classes": [
         "building",
         "emits_herding_interest",

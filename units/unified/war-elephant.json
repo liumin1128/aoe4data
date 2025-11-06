@@ -41,6 +41,7 @@
       "baseId": "war-elephant",
       "type": "unit",
       "name": "War Elephant",
+      "nameCN": "战象",
       "pbgid": 2104183,
       "attribName": "unit_war_elephant_3_merc_byz",
       "age": 3,
@@ -48,6 +49,7 @@
         "by"
       ],
       "description": "Heavy cavalry effective against cavalry, siege engines, walls, and buildings.\n+ High health and armor\n+ Mounted with an advanced Spearman\n+ Capable of attacking Stone Walls\n- Slow movement speed\n\nMercenary that can be purchased for 680 Olive Oil.\n\nThis Mercenary can only be purchased on Mercenary Houses built near a neutral Trade Post that list this unit. The chance of this unit being available on a Trade Post is 20%.",
+      "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。\n+ 高生命值、高护甲\n+ 背上有一名高级长矛兵\n+ 可以攻击石墙\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -232,6 +234,7 @@
       "baseId": "war-elephant",
       "type": "unit",
       "name": "War Elephant",
+      "nameCN": "战象",
       "pbgid": 136090,
       "attribName": "unit_war_elephant_3_sul",
       "age": 3,
@@ -239,6 +242,7 @@
         "de"
       ],
       "description": "Heavy cavalry effective against cavalry, siege engines, walls, and buildings.\n+ High health and armor\n+ Mounted with an advanced Spearman\n+ Capable of attacking Stone Walls\n- Slow movement speed",
+      "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。\n+ 高生命值、高护甲\n+ 背上有一名高级长矛兵\n+ 可以攻击石墙\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -418,6 +422,7 @@
       "baseId": "war-elephant",
       "type": "unit",
       "name": "War Elephant",
+      "nameCN": "战象",
       "pbgid": 3577856,
       "attribName": "unit_war_elephant_3_sul_ha_tug",
       "age": 3,
@@ -425,6 +430,7 @@
         "tug"
       ],
       "description": "Heavy cavalry effective against cavalry, siege engines, walls, and buildings. Can use the Trample ability to bypass any unit to deal damage in an area.\n+ High health and armor\n+ Mounted with an advanced Spearman\n+ Capable of attacking Stone Walls\n- Slow movement speed",
+      "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。可以使用践踏能力绕过任何单位来造成范围伤害。\n+ 高生命值和护甲\n+ 配备高级长矛兵\n+ 能够攻击石墙\n- 移动速度缓慢",
       "classes": [
         "annihilation_condition",
         "armored",

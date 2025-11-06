@@ -62,6 +62,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -69,6 +70,7 @@
         "ab"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -165,6 +167,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -172,6 +175,7 @@
         "ay"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -268,6 +272,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -275,6 +280,7 @@
         "by"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -371,6 +377,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -378,6 +385,7 @@
         "ch"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -474,6 +482,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 182074,
       "attribName": "upgrade_ranged_incendiary_sul",
       "age": 4,
@@ -481,6 +490,7 @@
         "de"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -564,6 +574,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -571,6 +582,7 @@
         "en"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -667,6 +679,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -674,6 +687,7 @@
         "fr"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -770,6 +784,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 9003024,
       "attribName": "upgrade_ranged_incendiary_mon_ha_gol",
       "age": 4,
@@ -777,6 +792,7 @@
         "gol"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -872,6 +888,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -879,6 +896,7 @@
         "hr"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -975,6 +993,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -982,6 +1001,7 @@
         "hl"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1078,6 +1098,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1085,6 +1106,7 @@
         "ja"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1181,6 +1203,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1188,6 +1211,7 @@
         "je"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1284,6 +1308,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1291,6 +1316,7 @@
         "kt"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1387,6 +1413,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 188332,
       "attribName": "upgrade_ranged_incendiary_mon",
       "age": 4,
@@ -1394,6 +1421,7 @@
         "mo"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1476,6 +1504,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1483,6 +1512,7 @@
         "od"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1579,6 +1609,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1586,6 +1617,7 @@
         "ot"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1683,6 +1715,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1690,6 +1723,7 @@
         "ru"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1786,6 +1820,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -1793,6 +1828,7 @@
         "sen"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1889,6 +1925,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 3990960,
       "attribName": "upgrade_ranged_incendiary_sul_ha_tug",
       "age": 4,
@@ -1896,6 +1933,7 @@
         "tug"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1979,6 +2017,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 2127654,
       "attribName": "upgrade_ranged_incendiary_chi_ha_01",
       "age": 4,
@@ -1986,6 +2025,7 @@
         "zx"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

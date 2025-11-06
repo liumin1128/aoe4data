@@ -34,6 +34,7 @@
       "baseId": "palace-of-the-sultan",
       "type": "building",
       "name": "Palace of the Sultan",
+      "nameCN": "苏丹宫殿",
       "pbgid": 135891,
       "attribName": "building_landmark_age3_bijay_mandal_palace_control_sul",
       "age": 3,
@@ -41,6 +42,7 @@
         "de"
       ],
       "description": "Automatically produces Sultan's Elite Tower Elephants. Garrison up to 4 Scholars in the Landmark to increase production speed.",
+      "descriptionCN": "自动生产苏丹的精锐箭塔象。派遣学者 (最多 4 名) 驻扎于地标可提升生产速度。",
       "classes": [
         "age3_landmark1",
         "building",
@@ -101,6 +103,7 @@
       "baseId": "palace-of-the-sultan",
       "type": "building",
       "name": "Palace of the Sultan",
+      "nameCN": "苏丹宫殿",
       "pbgid": 7267950,
       "attribName": "building_landmark_age3_bijay_mandal_palace_control_sul_ha_tug",
       "age": 3,
@@ -108,6 +111,7 @@
         "tug"
       ],
       "description": "Appoint a Governor to the Palace of the Sultan and immediately gain their fourth tier benefactor bonus.",
+      "descriptionCN": "为苏丹宫殿任命一名总督，可立即获得总督的第四阶层捐助者加成。",
       "classes": [
         "age3_landmark1",
         "building",

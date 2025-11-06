@@ -18,6 +18,7 @@
       "baseId": "ability-stockyard-edict",
       "type": "ability",
       "name": "Stockyard Edict",
+      "nameCN": "牲畜围栏法令",
       "pbgid": 9003693,
       "attribName": "toggle_khan_edict_5_mon_ha_gol",
       "age": 5,
@@ -25,6 +26,7 @@
         "gol"
       ],
       "description": "Activate to allow Stockyards within the influence of a Fortified Outpost to generate Gold while being worked.\nOnly one edict can be active.",
+      "descriptionCN": "启用后，强化哨站影响范围内的牲畜围栏在工作状态下都会生产黄金。\n只能启用一个法令。",
       "classes": [],
       "displayClasses": [],
       "costs": {

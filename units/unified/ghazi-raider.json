@@ -36,6 +36,7 @@
       "baseId": "ghazi-raider",
       "type": "unit",
       "name": "Ghazi Raider",
+      "nameCN": "加齐掠夺者",
       "pbgid": 136047,
       "attribName": "unit_horseman_2_sul",
       "age": 2,
@@ -43,6 +44,7 @@
         "de"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n+ Increased effectiveness against heavy units\n- Countered by Spearmen",
+      "descriptionCN": "擅长突袭、侧翼攻击和克制远程单位的快速骑兵。\n+ 高移动速度\n+ 更擅长对付重型单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -191,6 +193,7 @@
       "baseId": "ghazi-raider",
       "type": "unit",
       "name": "Veteran Ghazi Raider",
+      "nameCN": "老练加齐掠夺者",
       "pbgid": 136048,
       "attribName": "unit_horseman_3_sul",
       "age": 3,
@@ -198,6 +201,7 @@
         "de"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n+ Increased effectiveness against heavy units\n- Countered by Spearmen",
+      "descriptionCN": "擅长突袭、侧翼攻击和克制远程单位的快速骑兵。\n+ 高移动速度\n+ 更擅长对付重型单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -346,6 +350,7 @@
       "baseId": "ghazi-raider",
       "type": "unit",
       "name": "Elite Ghazi Raider",
+      "nameCN": "精锐加齐掠夺者",
       "pbgid": 136049,
       "attribName": "unit_horseman_4_sul",
       "age": 4,
@@ -353,6 +358,7 @@
         "de"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n+ Increased effectiveness against heavy units\n- Countered by Spearmen",
+      "descriptionCN": "擅长突袭、侧翼攻击和克制远程单位的快速骑兵。\n+ 高移动速度\n+ 更擅长对付重型单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

@@ -18,6 +18,7 @@
       "baseId": "ability-jeannes-companions",
       "type": "ability",
       "name": "Jeanne's Companions",
+      "nameCN": "贞德的同伴",
       "pbgid": 2149013,
       "attribName": "jeanne_companion_keep_dummy_keep",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Achieve level 3 with Jeanne d'Arc to select between Champions and Riders to be trained at the keep.",
+      "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
       "classes": [],
       "displayClasses": [],
       "costs": {

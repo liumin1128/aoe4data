@@ -32,6 +32,7 @@
       "baseId": "floating-gate",
       "type": "building",
       "name": "Floating Gate",
+      "nameCN": "水上鸟居",
       "pbgid": 2122035,
       "attribName": "building_landmark_age2_shinto_jpn",
       "age": 2,
@@ -39,6 +40,7 @@
         "ja"
       ],
       "description": "Produces a Shinto Priest carrying a Yorishiro every 2 minutes. The first priest spawns instantly. Deposit up to 4 Yorishiro in buildings to provide unique bonuses.\n \nUnlocks Shinto Shrines, which contains unique Shinto technologies and produces Shinto Priests.",
+      "descriptionCN": "每 2 分钟生产一次携带依代的神道教神主。第一位神官会立即生成。最多可以在建筑中存放 4 个依代，以提供独特的加成。\n解锁神道教神社，其中拥有独特的神道教科技并生产神道教神主。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",

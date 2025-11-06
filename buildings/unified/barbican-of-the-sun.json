@@ -34,6 +34,7 @@
       "baseId": "barbican-of-the-sun",
       "type": "building",
       "name": "Barbican of the Sun",
+      "nameCN": "烈日瓮城",
       "pbgid": 145550,
       "attribName": "building_landmark_age1_gatehouse_control_chi",
       "age": 1,
@@ -41,6 +42,7 @@
         "ch"
       ],
       "description": "Fires a long range hand cannon and adds arrowslits while garrisoned. Can be upgraded with weaponry and offers vision into Stealth Forests. \nImperial Officials can drop off taxes at this building.",
+      "descriptionCN": "驻军时可发射远程手铳并添加射箭槽。可升级武器并在浓密森林内提供视野。\n朝廷命官可将税金存放于这座建筑。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

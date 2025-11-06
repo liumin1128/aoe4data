@@ -110,6 +110,7 @@
             "ch"
           ],
           "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 150,
@@ -356,11 +357,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced."
+          "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。"
         }
       ],
       "baseId": "archery-range",
+      "nameCN": "靶场",
       "age": 2,
+      "descriptionCN": "生产远程步兵单位。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -502,6 +506,7 @@
             "ch"
           ],
           "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产近战步兵单位。\n每次生产一个单位或进行研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 150,
@@ -748,11 +753,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced."
+          "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产近战步兵单位。\n每次生产一个单位或进行研究都会产生税。"
         }
       ],
       "baseId": "barracks",
+      "nameCN": "兵营",
       "age": 1,
+      "descriptionCN": "生产近战步兵单位。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -884,6 +892,7 @@
             "ch"
           ],
           "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 150,
@@ -1078,11 +1087,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes."
+          "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。"
         }
       ],
       "baseId": "blacksmith",
+      "nameCN": "铁匠铺",
       "age": 2,
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -1249,7 +1261,8 @@
           "civs": [
             "ch"
           ],
-          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect stealth or disguises."
+          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装。"
         },
         {
           "id": "capital-town-center-1",
@@ -1266,7 +1279,8 @@
           "civs": [
             "en"
           ],
-          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' attack speed.\nCapital Town Centers can detect units stealth or disguises."
+          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' attack speed.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n城堡网络：附近的敌人会触发警报，从而加快守军的攻击速度。\n首都城镇中心可侦测匿踪或伪装单位。"
         },
         {
           "id": "capital-town-center-1",
@@ -1283,7 +1297,8 @@
           "civs": [
             "gol"
           ],
-          "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises."
+          "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民和侦察兵。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。"
         },
         {
           "id": "capital-town-center-1",
@@ -1293,6 +1308,7 @@
             "hr"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Prelates, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和高级教士，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
           ]
@@ -1343,12 +1359,14 @@
         },
         {
           "id": "capital-town-center-1",
+          "nameCN": "圣殿骑士团总部",
           "pbgid": 5000198,
           "attribName": "building_town_center_capital_tem",
           "civs": [
             "kt"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Pilgrims start their journey to Sacred Sites here. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。朝圣者从这里开始他们前往圣地的旅程。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
           "classes": [
             "age_up_producer",
             "building",
@@ -2052,6 +2070,7 @@
             "mo"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民和侦察兵。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
           "classes": [
             "building",
             "defensive_structure",
@@ -2150,7 +2169,8 @@
           "civs": [
             "tug"
           ],
-          "description": "All resources dropped off here are increased by the Elephant Economics bonus. Produces Villagers, Scouts, Worker Elephants, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises."
+          "description": "All resources dropped off here are increased by the Elephant Economics bonus. Produces Villagers, Scouts, Worker Elephants, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "在此存放的所有资源均会额外获得大象经济加成。可生产村民、侦察兵、工作大象，并能提高人口上限。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测单位匿踪或伪装。"
         },
         {
           "id": "capital-town-center-1",
@@ -2159,11 +2179,14 @@
           "civs": [
             "zx"
           ],
-          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect stealth or disguises."
+          "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装。"
         }
       ],
       "baseId": "capital-town-center",
+      "nameCN": "城镇中心",
       "age": 1,
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2345,6 +2368,7 @@
             "ch"
           ],
           "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nGenerates Tax each time a unit or research is produced.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。\n每次生产一个单位或进行研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 150,
@@ -2422,6 +2446,7 @@
             "hr"
           ],
           "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships. Prelates can place a Relic within to generate Gold.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n能够容纳最多三艘捕鱼船。高级教士可在其中放置圣物以产生黄金。",
           "classes": [
             "building",
             "military_only_production",
@@ -2454,7 +2479,8 @@
           "civs": [
             "ja"
           ],
-          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nFishing Boats are produced 25% cheaper."
+          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nFishing Boats are produced 25% cheaper.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n能够容纳最多三艘渔船。\n生产渔船的成本降低 25%。"
         },
         {
           "id": "dock-1",
@@ -2579,7 +2605,8 @@
           "civs": [
             "sen"
           ],
-          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nFishing Boats are produced 30% cheaper."
+          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nFishing Boats are produced 30% cheaper.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n能够容纳最多三艘渔船。\n生产渔船的成本降低 30%。"
         },
         {
           "id": "dock-1",
@@ -2589,6 +2616,7 @@
             "tug"
           ],
           "description": "Produces naval units. Generates bonus resources from Elephant Economics when Villagers or Fishing Ships drop off Food.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+          "descriptionCN": "生产海军单位。村民或渔船存放食物时，可从大象经济产生额外资源。\n自动修复附近受损的海军单位。\n最多可容纳三艘渔船。",
           "garrison": {
             "capacity": 4,
             "classes": [
@@ -2604,11 +2632,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nGenerates Tax each time a unit or research is produced."
+          "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nGenerates Tax each time a unit or research is produced.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。\n每次生产一个单位或进行研究都会产生税。"
         }
       ],
       "baseId": "dock",
+      "nameCN": "码头",
       "age": 1,
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -2887,7 +2918,9 @@
         }
       ],
       "baseId": "farm",
+      "nameCN": "农田",
       "age": 1,
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "costs": {
         "food": 0,
         "wood": 75,
@@ -2990,6 +3023,7 @@
             "by"
           ],
           "description": "Increases your maximum Population. Contains the unique Border Settlements technology.",
+          "descriptionCN": "提升人口上限。包含独特的边境聚落科技。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
           ]
@@ -3300,6 +3334,7 @@
             "ma"
           ],
           "description": "Increases your maximum Population by 5. Malian Houses cost half as many resources as standard.",
+          "descriptionCN": "将人口上限提升 5。马里房屋的建造成本较标准成本减半。",
           "costs": {
             "food": 0,
             "wood": 25,
@@ -3583,7 +3618,9 @@
         }
       ],
       "baseId": "house",
+      "nameCN": "房屋",
       "age": 1,
+      "descriptionCN": "提升您的人口上限。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -3667,7 +3704,9 @@
         }
       ],
       "baseId": "house-of-wisdom",
+      "nameCN": "智慧宫",
       "age": 1,
+      "descriptionCN": "包含阿尤布王朝的文明科技。\n阿尤布通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。\n偏殿奖励基于其建造的时代而提高。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -3715,6 +3754,7 @@
           "name": "House of Wisdom",
           "age": 2,
           "description": "Contains civilization technology for the Abbasid Dynasty.\nAbbasids advance in Ages through the House of Wisdom. Construct wings to advance to the next Age and gain additional technology.",
+          "descriptionCN": "包含黑衣大食王朝的文明科技。\n黑衣大食通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。",
           "icon": "https://data.aoe4world.com/images/buildings/house-of-wisdom-2.png",
           "weapons": [],
           "armor": [
@@ -3910,6 +3950,7 @@
             "en"
           ],
           "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nNetwork of Castles Bonus: Triggers an alarm when an enemy approaches, causing nearby units to fire faster while the alarm is active.",
+          "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n城堡网络加成：敌人接近时会触发警报，警报生效期间附近的单位射击速度会加快。",
           "classes": [
             "building",
             "castle",
@@ -3953,6 +3994,7 @@
             "hr"
           ],
           "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+          "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "castle",
@@ -3975,7 +4017,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nGrants 3 Earl's Guards upon being fully constructed."
+          "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nGrants 3 Earl's Guards upon being fully constructed.",
+          "descriptionCN": "重兵驻守，易守难攻。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n建造完成后可获得 3 名伯爵护卫。"
         },
         {
           "id": "keep-3",
@@ -4024,6 +4067,7 @@
             "od"
           ],
           "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+          "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "castle",
@@ -4134,7 +4178,9 @@
         }
       ],
       "baseId": "keep",
+      "nameCN": "城堡",
       "age": 3,
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4325,6 +4371,7 @@
             "ch"
           ],
           "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将木材存放于这个建筑。可研究提升木材采集效率的科技。\n每次存放资源都会产生税。",
           "costs": {
             "food": 0,
             "wood": 50,
@@ -4492,11 +4539,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off."
+          "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将木材存放于这个建筑。可研究提升木材采集效率的科技。\n每次存放资源都会产生税。"
         }
       ],
       "baseId": "lumber-camp",
+      "nameCN": "伐木场",
       "age": 1,
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -4640,7 +4690,9 @@
         }
       ],
       "baseId": "madrasa",
+      "nameCN": "穆斯林学塾",
       "age": 4,
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "costs": {
         "food": 0,
         "wood": 450,
@@ -4762,6 +4814,7 @@
             "by"
           ],
           "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+          "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
           ]
@@ -4774,6 +4827,7 @@
             "ch"
           ],
           "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+          "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
           "costs": {
             "food": 0,
             "wood": 100,
@@ -4878,6 +4932,7 @@
             "kt"
           ],
           "description": "Allows the buying and selling of resources and the activation of Pilgrim Loans.",
+          "descriptionCN": "允许买卖资源并激活朝圣者借贷。",
           "classes": [
             "building",
             "economy_building",
@@ -4896,7 +4951,8 @@
           "civs": [
             "mac"
           ],
-          "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades."
+          "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+          "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。"
         },
         {
           "id": "market-2",
@@ -4983,11 +5039,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced."
+          "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+          "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。"
         }
       ],
       "baseId": "market",
+      "nameCN": "市场",
       "age": 2,
+      "descriptionCN": "可生产商人及买卖资源。",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -5071,6 +5130,7 @@
             "ab"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
           "classes": [
             "building",
             "economy_building",
@@ -5095,6 +5155,7 @@
             "ay"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
           "classes": [
             "building",
             "economy_building",
@@ -5119,6 +5180,7 @@
             "by"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+          "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
           ]
@@ -5131,6 +5193,7 @@
             "ch"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n每次存放资源都会产生税。",
           "costs": {
             "food": 0,
             "wood": 50,
@@ -5154,6 +5217,7 @@
             "de"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
           ]
@@ -5234,7 +5298,8 @@
           "civs": [
             "mac"
           ],
-          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves."
+          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+          "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。"
         },
         {
           "id": "mill-1",
@@ -5243,7 +5308,8 @@
           "civs": [
             "ma"
           ],
-          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nProduce Cattle which can be harvested for Food by Villagers or garrisoned within Cattle Ranches for Food over time."
+          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nProduce Cattle which can be harvested for Food by Villagers or garrisoned within Cattle Ranches for Food over time.",
+          "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。\n村民可以收获这些牛作为食物，或者将牛放置在养牛场，牛会随着时间的推移生产食物。"
         },
         {
           "id": "mill-1",
@@ -5285,11 +5351,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off."
+          "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n每次存放资源都会产生税。"
         }
       ],
       "baseId": "mill",
+      "nameCN": "磨坊",
       "age": 1,
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -5428,6 +5497,7 @@
             "ch"
           ],
           "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。\n每次存放资源都会产生税。",
           "costs": {
             "food": 0,
             "wood": 50,
@@ -5528,6 +5598,7 @@
             "mac"
           ],
           "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining. Villagers drop off Silver in addition to Stone and Gold at Mining Camps.",
+          "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。除了在采矿营地存放石料和黄金外，村民还存放白银。",
           "influences": [
             "While in the influence of a Varangian Arsenal, an additional 12% of Silver is generated every minute based off the total Silver deposited at this mine."
           ]
@@ -5591,11 +5662,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off."
+          "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。\n每次存放资源都会产生税。"
         }
       ],
       "baseId": "mining-camp",
+      "nameCN": "采矿场",
       "age": 1,
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -5756,7 +5830,9 @@
         }
       ],
       "baseId": "mosque",
+      "nameCN": "清真寺",
       "age": 1,
+      "descriptionCN": "生产学者。您建造的第一间清真寺附带一位学者。从城堡时代 (第三时代) 开始，学者可将圣物存放在这座建筑来产生黄金。",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -5806,6 +5882,7 @@
           "name": "Mosque",
           "age": 3,
           "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "classes": [
             "building",
             "golden_age_tier_1_building_abb",
@@ -5975,7 +6052,8 @@
           "civs": [
             "en"
           ],
-          "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nNetwork of Castles Bonus: Triggers an alarm when an enemy approaches, causing nearby units and defensive buildings to fire faster while the alarm is active."
+          "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nNetwork of Castles Bonus: Triggers an alarm when an enemy approaches, causing nearby units and defensive buildings to fire faster while the alarm is active.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。\n城堡网络加成：敌人接近时会触发警报，警报生效期间附近的单位和防御型建筑射击速度会加快。"
         },
         {
           "id": "outpost-1",
@@ -5993,6 +6071,7 @@
             "hr"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned. \nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "defensive_structure",
@@ -6072,7 +6151,8 @@
           "civs": [
             "mo"
           ],
-          "description": "Light garrison and defensible position.\nExtensive line of sight and detects units stealth or disguises.\nCan be upgraded with weaponry.\nYam: Increases the speed of nearby Cavalry and Traders."
+          "description": "Light garrison and defensible position.\nExtensive line of sight and detects units stealth or disguises.\nCan be upgraded with weaponry.\nYam: Increases the speed of nearby Cavalry and Traders.",
+          "descriptionCN": "简单的驻军及防守位置。\n视野开阔，可侦测匿踪或伪装单位。\n可升级武器。\n驿站：提升附近骑兵和商人的速度。"
         },
         {
           "id": "outpost-1",
@@ -6082,6 +6162,7 @@
             "od"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned. \nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "defensive_structure",
@@ -6158,7 +6239,9 @@
         }
       ],
       "baseId": "outpost",
+      "nameCN": "哨站",
       "age": 1,
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -6454,7 +6537,9 @@
         }
       ],
       "baseId": "palisade",
+      "nameCN": "木栅栏",
       "age": 1,
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "costs": {
         "food": 0,
         "wood": 7,
@@ -6739,7 +6824,9 @@
         }
       ],
       "baseId": "palisade-gate",
+      "nameCN": "木城门",
       "age": 1,
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "costs": {
         "food": 0,
         "wood": 25,
@@ -6816,7 +6903,9 @@
         }
       ],
       "baseId": "prayer-hall-of-uqba",
+      "nameCN": "奥卡巴礼拜大殿",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -6961,6 +7050,7 @@
             "ch"
           ],
           "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
+          "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。",
           "costs": {
             "food": 0,
             "wood": 250,
@@ -7198,11 +7288,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced."
+          "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
+          "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。"
         }
       ],
       "baseId": "siege-workshop",
+      "nameCN": "攻城武器厂",
       "age": 3,
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "costs": {
         "food": 0,
         "wood": 250,
@@ -7365,6 +7458,7 @@
             "ch"
           ],
           "description": "Produces cavalry military units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产骑兵军事单位。\n每次生产一个单位或进行研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 150,
@@ -7572,11 +7666,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces cavalry military units.\nGenerates tax each time a unit or research is produced."
+          "description": "Produces cavalry military units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产骑兵军事单位。\n每次生产一个单位或进行研究都会产生税。"
         }
       ],
       "baseId": "stable",
+      "nameCN": "马厩",
       "age": 1,
+      "descriptionCN": "生产骑兵军事单位。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -7921,7 +8018,9 @@
         }
       ],
       "baseId": "stone-wall",
+      "nameCN": "石墙",
       "age": 2,
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8258,7 +8357,9 @@
         }
       ],
       "baseId": "stone-wall-gate",
+      "nameCN": "石墙城门",
       "age": 2,
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8398,6 +8499,7 @@
             "by"
           ],
           "description": "Heavy defensive tower that fires a mangonel. Must be built on a Stone Wall. \nCan be used to access the top of walls.",
+          "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
           "classes": [
             "building",
             "defensive_structure",
@@ -8456,7 +8558,8 @@
           "civs": [
             "en"
           ],
-          "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' fire rate."
+          "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' fire rate.",
+          "descriptionCN": "防御坚实的箭塔，会发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往石墙顶端。\n城堡网络：附近敌人会触发警报，从而加快守军的射击速度。"
         },
         {
           "id": "stone-wall-tower-2",
@@ -8474,6 +8577,7 @@
             "hr"
           ],
           "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nPlace a Relic here to generate Gold and improve armor, damage, weapon range and sight range.",
+          "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。\n在此放置圣物可产生黄金并提升护甲、伤害、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "defensive_structure",
@@ -8531,6 +8635,7 @@
             "mac"
           ],
           "description": "Heavy defensive tower that fires a mangonel. Must be built on a Stone Wall. \nCan be used to access the top of walls.",
+          "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
           "classes": [
             "building",
             "defensive_structure",
@@ -8563,6 +8668,7 @@
             "od"
           ],
           "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nPlace a Relic here to generate Gold and improve armor, damage, weapon range and sight range.",
+          "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。\n在此放置圣物可产生黄金并提升护甲、伤害、武器攻击范围和视野范围。",
           "classes": [
             "building",
             "defensive_structure",
@@ -8632,7 +8738,9 @@
         }
       ],
       "baseId": "stone-wall-tower",
+      "nameCN": "石墙塔",
       "age": 2,
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8918,6 +9026,7 @@
             "ch"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "costs": {
             "food": 0,
             "wood": 400,
@@ -8946,6 +9055,7 @@
             "en"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your Population. Adds additional attacks while garrisoned.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' attack speed.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并增加人口。单位驻扎时可增加额外的攻击次数。\n城堡网络：附近的敌人会触发警报，从而加快守军的攻击速度。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "defensive_structure",
@@ -8995,6 +9105,7 @@
             "gol"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises",
+          "descriptionCN": "可在此存放所有资源。可生产村民与侦察兵。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -9028,6 +9139,7 @@
             "hr"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and Prelates and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和高级教士，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
           ]
@@ -9040,6 +9152,7 @@
             "hl"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.\nSpawns 4 Sheep upon being fully constructed.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。\n完全建成后，生成 4 只绵羊。",
           "classes": [
             "building",
             "defensive_structure",
@@ -9123,6 +9236,7 @@
             "mac"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Villagers drop off Silver in addition to Stone and Gold at Non-Capital Town Centers. Adds additional attacks while garrisoned. \nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。在非首都城镇中心，村民除了存放石料和黄金，还能存放白银。驻扎时可增加额外的攻击次数。\n非首都城镇中心不能侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -9187,6 +9301,7 @@
             "mo"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises",
+          "descriptionCN": "可在此存放所有资源。可生产村民与侦察兵。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -9335,6 +9450,7 @@
             "tug"
           ],
           "description": "All resources dropped off here are increased by the Elephant Economics bonus. Produces Villagers, Scouts, Worker Elephants, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "在此存放的所有资源均会额外获得大象经济加成。可生产村民、侦察兵、工作大象，并能提高人口上限。驻扎时可增加额外的攻击次数。\n非首都城镇中心不能侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -9358,6 +9474,7 @@
             "zx"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -9375,7 +9492,9 @@
         }
       ],
       "baseId": "town-center",
+      "nameCN": "城镇中心",
       "age": 1,
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
       "costs": {
         "food": 0,
         "wood": 400,
@@ -9448,6 +9567,7 @@
           "baseId": "aqueduct",
           "type": "building",
           "name": "Aqueduct",
+          "nameCN": "水渠",
           "pbgid": 2101236,
           "attribName": "building_aqueduct_bastion_byz",
           "age": 1,
@@ -9455,6 +9575,7 @@
             "by"
           ],
           "description": "Stone infrastructure to connect water between Cisterns to improve the Water Level of all connected Cisterns. Can be connected to Stone Walls.",
+          "descriptionCN": "石砌基础设施可以连接蓄水池之间的水，从而提高所有相连蓄水池的水位。可以与石墙相连接。",
           "classes": [
             "aqueduct",
             "aqueduct_bastion",
@@ -9545,7 +9666,9 @@
         }
       ],
       "baseId": "cathedral-of-divine-wisdom",
+      "nameCN": "圣慧大教堂",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -9605,6 +9728,7 @@
           "baseId": "cistern",
           "type": "building",
           "name": "Cistern",
+          "nameCN": "水池",
           "pbgid": 2104734,
           "attribName": "building_cistern_byz",
           "age": 1,
@@ -9612,6 +9736,7 @@
             "by"
           ],
           "description": "Improves the gather rate of nearby villagers by +10/14/18/22/26% depending on network level. Generates influence that boosts production, research or defense. Can activate Arkitoi Defense to briefly arm nearby Villagers. \nConnect Cisterns with Aqueducts to enhance their influence and villager gather rate aura.",
+          "descriptionCN": "根据网络等级，附近村民的采集速率 +10/14/18/22/26%。产生影响力，提升生产、研究或防御。可激活阿克里人防御，使附近村民快速武装起来。\n将蓄水池连接到水渠，可强化它们的影响力和村民采集速率光环。",
           "classes": [
             "building",
             "cistern",
@@ -9702,13 +9827,16 @@
             "mac"
           ],
           "description": "Charges an ability used for boosting the work rate of military and research buildings. If used on a Mining Camp, Lumber Camp, or Farm, begin earning 160 Gold, Wood, or Food over 60 seconds.\nHolds 9 charges.",
+          "descriptionCN": "充能一项用于提升军事和研究建筑工作速率的能力。如果是对采矿场、伐木场或农田使用，则开始赚取 160 黄金、木材或食物，持续 60 秒。\n保持 9 充能。",
           "displayClasses": [
             "Age III - Support & Economy Landmark"
           ]
         }
       ],
       "baseId": "cistern-of-the-first-hill",
+      "nameCN": "地下水宫",
       "age": 2,
+      "descriptionCN": "可作为蓄水池使用。解锁朝圣者之瓶能力，用于非攻城类军事单位，激活后每秒恢复的生命值增加 25，持续 6 秒。\n瓶子每 30 秒充能一次，最多充能至 20 次。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -9787,6 +9915,7 @@
             "mac"
           ],
           "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons for Silver.",
+          "descriptionCN": "允许生产一窝蜂、回回炮和皇家加农炮来换取白银。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -9802,7 +9931,9 @@
         }
       ],
       "baseId": "foreign-engineering-company",
+      "nameCN": "外国工程公司",
       "age": 3,
+      "descriptionCN": "允许用橄榄油生产一窝蜂、回回炮和皇家加农炮。雇佣兵会从其原来的文明中获得各种独特的科技。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -9886,7 +10017,9 @@
         }
       ],
       "baseId": "golden-horn-tower",
+      "nameCN": "金角湾塔",
       "age": 2,
+      "descriptionCN": "定期免费生产已解锁的雇佣兵单位。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -9928,6 +10061,7 @@
           "name": "Golden Horn Tower",
           "age": 3,
           "description": "Defensive building equipped with Crossbow emplacements and large Line of Sight. Generates batches of Crossbowman for free over time. \nDetects units in stealth or disguises.",
+          "descriptionCN": "防御建筑，配备弩炮台并拥有广阔视野。随时间推移免费生成一批批弩手。\n可侦测处于匿踪或伪装状态下的单位。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -10672,11 +10806,14 @@
             "mac"
           ],
           "description": "Acts as a Mill and Monastery. Villagers gather Food 30% faster when affected by its aura. Relics garrisoned generate Silver instead of Gold.",
+          "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
           "influences": []
         }
       ],
       "baseId": "grand-winery",
+      "nameCN": "大酒庄",
       "age": 1,
+      "descriptionCN": "可作为磨坊和修道院使用。附近的村民从浆果丛和橄榄树林中采集的橄榄油 +60%。保管的圣物产生橄榄油而不是黄金。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -10759,11 +10896,14 @@
             "mac"
           ],
           "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+          "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
           "influences": []
         }
       ],
       "baseId": "imperial-hippodrome",
+      "nameCN": "帝国竞技场",
       "age": 1,
+      "descriptionCN": "可作为马厩使用。具备凯旋能力，可使用补给点激活，以增加骑兵近战伤害、移动速度和生命值恢复效果。\n自带 10 个补给点，并且每 25 秒产生一个。击败敌方单位可获取更多点数。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -10828,6 +10968,7 @@
           "baseId": "mercenary-house",
           "type": "building",
           "name": "Mercenary House",
+          "nameCN": "雇佣兵之家",
           "pbgid": 2104751,
           "attribName": "building_unit_mercenary_house_byz",
           "age": 2,
@@ -10835,6 +10976,7 @@
             "by"
           ],
           "description": "Produces Mercenary units for Olive Oil after purchasing a Mercenary Contract. One contract can be purchased.\nUnlock another set of Mercenaries with +50% production speed by placing this building near a Trade Post.",
+          "descriptionCN": "购买了雇佣合同后，可生产采集橄榄油的雇佣兵单位。每个玩家只能购买一份合同。\n此外，将该建筑物放置在贸易站附近，还可以解锁另一组雇佣兵，使其生产速度提高 +50%。",
           "classes": [
             "building",
             "merc_house",
@@ -10940,6 +11082,7 @@
             "ch"
           ],
           "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "costs": {
             "food": 0,
             "wood": 200,
@@ -11074,11 +11217,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold."
+          "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。"
         }
       ],
       "baseId": "monastery",
+      "nameCN": "修道院",
       "age": 3,
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "costs": {
         "food": 0,
         "wood": 200,
@@ -11141,6 +11287,7 @@
           "baseId": "olive-grove",
           "type": "building",
           "name": "Olive Grove",
+          "nameCN": "橄榄树林",
           "pbgid": 2104744,
           "attribName": "building_resource_farm_byz",
           "age": 1,
@@ -11148,6 +11295,7 @@
             "by"
           ],
           "description": "Harvestable Food source. Use a Villager to gather Food from the Olive Grove.\nOnly one Villager can work each Olive Grove.\nByzantine Villagers gather Olive Oil equal to 20% of Food gathered.",
+          "descriptionCN": "可收获的食物来源。用一名村民从橄榄树林采集食物。\n每个橄榄树林只能有一名村民工作。\n拜占庭的村民能采集橄榄油，采集的数量相当于食物采集的 20%。",
           "classes": [
             "building",
             "farm",
@@ -11240,11 +11388,14 @@
             "mac"
           ],
           "description": "Elite Cataphracts can be rapidly produced in batches at this Landmark for Silver.",
+          "descriptionCN": "可在此地标花费白银快速批量生产精锐甲胄骑兵。",
           "influences": []
         }
       ],
       "baseId": "palatine-school",
+      "nameCN": "贵族学校",
       "age": 3,
+      "descriptionCN": "在训练边防军、瓦兰吉卫队、甲胄骑兵或基耶罗喷火筒时，有 30% 的几率在此地标也生成一个相同单位。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -11335,6 +11486,7 @@
             "ch"
           ],
           "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。",
           "costs": {
             "food": 0,
             "wood": 450,
@@ -11483,11 +11635,14 @@
           "civs": [
             "zx"
           ],
-          "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes."
+          "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。"
         }
       ],
       "baseId": "university",
+      "nameCN": "大学",
       "age": 4,
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "costs": {
         "food": 0,
         "wood": 450,
@@ -11555,6 +11710,7 @@
           "baseId": "astronomical-clocktower",
           "type": "building",
           "name": "Astronomical Clocktower",
+          "nameCN": "天文钟楼",
           "pbgid": 145548,
           "attribName": "building_landmark_age2_clocktower_control_chi",
           "age": 2,
@@ -11562,6 +11718,7 @@
             "ch"
           ],
           "description": "Acts as a Siege Workshop and produces siege engines with +50% health.",
+          "descriptionCN": "可作为攻城武器厂使用，生产的攻城器械生命值 +50%。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -11652,6 +11809,7 @@
           "baseId": "barbican-of-the-sun",
           "type": "building",
           "name": "Barbican of the Sun",
+          "nameCN": "烈日瓮城",
           "pbgid": 145550,
           "attribName": "building_landmark_age1_gatehouse_control_chi",
           "age": 1,
@@ -11659,6 +11817,7 @@
             "ch"
           ],
           "description": "Fires a long range hand cannon and adds arrowslits while garrisoned. Can be upgraded with weaponry and offers vision into Stealth Forests. \nImperial Officials can drop off taxes at this building.",
+          "descriptionCN": "驻军时可发射远程手铳并添加射箭槽。可升级武器并在浓密森林内提供视野。\n朝廷命官可将税金存放于这座建筑。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -12272,7 +12431,9 @@
         }
       ],
       "baseId": "enclave-of-the-emperor",
+      "nameCN": "帝王飞地",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -12363,7 +12524,9 @@
         }
       ],
       "baseId": "granary",
+      "nameCN": "谷仓",
       "age": 1,
+      "descriptionCN": "村民可将食物存放于这个建筑。使附近村民的农田采集速率 +10% (可与其他谷仓叠加)。每次存放资源都会产生税。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -12431,6 +12594,7 @@
           "baseId": "great-wall-gatehouse",
           "type": "building",
           "name": "Great Wall Gatehouse",
+          "nameCN": "长城门楼",
           "pbgid": 9004661,
           "attribName": "building_landmark_age3_great_wall_control_rogue_chi",
           "age": 3,
@@ -12438,6 +12602,7 @@
             "ch"
           ],
           "description": "Must be built over Stone Walls.\nComes with a Nest of Bees emplacement and provides +25% ranged damage to all units on walls.",
+          "descriptionCN": "必须建造在石墙上。\n自带一个一窝蜂炮台，并可以使城墙上的所有单位的远程伤害 +25%。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -12577,6 +12742,7 @@
           "baseId": "imperial-academy",
           "type": "building",
           "name": "Imperial Academy",
+          "nameCN": "翰林院",
           "pbgid": 145539,
           "attribName": "building_landmark_age1_academy_control_chi",
           "age": 1,
@@ -12584,6 +12750,7 @@
             "ch"
           ],
           "description": "Nearby buildings generate 100% more Gold from taxes. Imperial Officials produced here cost 30% less resources and can drop off taxes at this building.",
+          "descriptionCN": "附近建筑从税收中额外产生 100% 黄金。此处产生的朝廷命官消耗的资源减少 30%，并且可以将税金存放于这座建筑。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -12669,6 +12836,7 @@
           "baseId": "imperial-palace",
           "type": "building",
           "name": "Imperial Palace",
+          "nameCN": "皇宫",
           "pbgid": 145547,
           "attribName": "building_landmark_age2_palace_control_chi",
           "age": 2,
@@ -12676,6 +12844,7 @@
             "ch"
           ],
           "description": "A spy Landmark with 28 tile sight radius and the Imperial Spies ability. Activate to view location of enemy workers for 15 seconds.\nImperial Officials can drop off taxes at this building.",
+          "descriptionCN": "一座间谍地标，带有覆盖 28 格的视野范围以及皇家密探能力。激活后可显示敌方工人位置 15 秒。\n朝廷命官可将税金存放于这座建筑。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -12787,7 +12956,9 @@
         }
       ],
       "baseId": "pagoda",
+      "nameCN": "宝塔",
       "age": 1,
+      "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，可以每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -12854,6 +13025,7 @@
           "baseId": "spirit-way",
           "type": "building",
           "name": "Spirit Way",
+          "nameCN": "皇陵",
           "pbgid": 145538,
           "attribName": "building_landmark_age3_spirit_way_control_chi",
           "age": 3,
@@ -12861,6 +13033,7 @@
             "ch"
           ],
           "description": "Dynasty technology can be researched here for -50% cost and +150% research speed. When a dynasty unit is killed, nearby units receive +20% attack speed and +20 health over 10 seconds.\nImperial Officials can drop off taxes at this building.",
+          "descriptionCN": "王朝科技可在此研究，研究成本 -50%，研究速度 +150%。当一个王朝单位被杀死时，附近单位的攻击速度 +20%，生命值 +20，持续 10 秒。\n王朝官员可将税金存放于这座建筑。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -13005,7 +13178,9 @@
         }
       ],
       "baseId": "village",
+      "nameCN": "村庄",
       "age": 1,
+      "descriptionCN": "人口上限提升 40。",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -13093,6 +13268,7 @@
             "tug"
           ],
           "description": "Reduces Stone cost of buildings by 20%.\nUnlocks an additional upgrade to each Tughlaqabad Fort which further enhances health and Governor benefits.",
+          "descriptionCN": "建筑的石材消耗减少 20%。\n为每座腾格拉卡巴德堡垒额外解锁一项升级，进一步提升其生命值和总督增益效果。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -13107,7 +13283,9 @@
         }
       ],
       "baseId": "compound-of-the-defender",
+      "nameCN": "守护者大院",
       "age": 2,
+      "descriptionCN": "步兵单位可以建造石墙、城门与箭塔。这些建筑及其炮台的石料成本减少 20%。\n 包括无视建筑及帝王时代 (第四时代) 要求的防御技术。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -13189,11 +13367,14 @@
           "civs": [
             "tug"
           ],
-          "description": "Acts as a Mosque and provides early access to Healer Elephants. Produces Imams and Healer Elephants at a discount of 65 Gold."
+          "description": "Acts as a Mosque and provides early access to Healer Elephants. Produces Imams and Healer Elephants at a discount of 65 Gold.",
+          "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。以 65 黄金折扣生产伊玛目和治疗者大象。"
         }
       ],
       "baseId": "dome-of-the-faith",
+      "nameCN": "信仰穹顶建筑",
       "age": 1,
+      "descriptionCN": "可作为清真寺使用。以 55 黄金折扣生产学者。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13276,7 +13457,9 @@
         }
       ],
       "baseId": "great-palace-of-agra",
+      "nameCN": "阿格拉大宫殿",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -13356,13 +13539,16 @@
             "tug"
           ],
           "description": "Acts as Madrasa. Generates 50 Food and 50 Gold per minute for every active Governor.",
+          "descriptionCN": "可作为穆斯林学塾使用。每个在任总督每分钟生成 50 食物和 50 黄金。",
           "displayClasses": [
             "Age IV - Economic Landmark"
           ]
         }
       ],
       "baseId": "hisar-academy",
+      "nameCN": "希萨尔学院",
       "age": 3,
+      "descriptionCN": "可作为穆斯林学塾使用。根据研究科技数量，每分钟产生 +12 份食物。不适用于炮台。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -13449,7 +13635,9 @@
         }
       ],
       "baseId": "house-of-learning",
+      "nameCN": "学苑",
       "age": 2,
+      "descriptionCN": "除了发展到下一个时代外不会获得任何立即性加成，但包含许多独特的科技。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -13529,6 +13717,7 @@
             "tug"
           ],
           "description": "Appoint a Governor to the Palace of the Sultan and immediately gain their fourth tier benefactor bonus.",
+          "descriptionCN": "为苏丹宫殿任命一名总督，可立即获得总督的第四阶层捐助者加成。",
           "classes": [
             "age3_landmark1",
             "building",
@@ -13547,7 +13736,9 @@
         }
       ],
       "baseId": "palace-of-the-sultan",
+      "nameCN": "苏丹宫殿",
       "age": 3,
+      "descriptionCN": "自动生产苏丹的精锐箭塔象。派遣学者 (最多 4 名) 驻扎于地标可提升生产速度。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -13630,11 +13821,14 @@
           "civs": [
             "tug"
           ],
-          "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence."
+          "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence.",
+          "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +15%。"
         }
       ],
       "baseId": "tower-of-victory",
+      "nameCN": "胜利之塔",
       "age": 1,
+      "descriptionCN": "在胜利之塔、清真寺和穆斯林学塾的影响范围内生产步兵，可将步兵攻击速度提高 20%。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13712,11 +13906,14 @@
           "civs": [
             "hl"
           ],
-          "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds.\nOrdain up to 4 Lords of Lancaster, powerful melee leaders which increase the max health of nearby military units by +5% each. Queues production of a free Lord of Lancaster upon completion."
+          "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds.\nOrdain up to 4 Lords of Lancaster, powerful melee leaders which increase the max health of nearby military units by +5% each. Queues production of a free Lord of Lancaster upon completion.",
+          "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒生命值 +6。\n最多任命 4 个兰开斯特领主，兰开斯特领主是强大的近战领袖，可以使附近所有军事单位的最大生命值 +5%。建造完成后为生产队列中添加一名免费的兰开斯特领主。"
         }
       ],
       "baseId": "abbey-of-kings",
+      "nameCN": "列王修道院",
       "age": 1,
+      "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒恢复其 +6 生命值。也可以加冕一位国王，一位带有治疗光环的强大骑兵领袖。完成后自动生产一个免费国王。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13802,7 +13999,9 @@
         }
       ],
       "baseId": "berkshire-palace",
+      "nameCN": "伯克郡宫殿",
       "age": 3,
+      "descriptionCN": "作为一个城堡使用，拥有增加的生命值和强大的燃烧箭。所有武器都有 14.5 格的射程。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -13900,6 +14099,7 @@
           "name": "Berkshire Palace",
           "age": 4,
           "description": "Acts as a Keep with increased health and powerful incendiary arrows. All weapons have 14.5 tiles of range.\nIncreases the maximum damage granted by a House Unified to +6. Also grants 3 Earl's Guard upon being fully constructed.",
+          "descriptionCN": "作为一个城堡使用，拥有更高的生命值和强大的燃烧箭。所有武器射程增加 14.5 格。\n众志成城提供的最大伤害 +6。建造完成后还可获得 3 名伯爵护卫。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -14014,7 +14214,9 @@
         }
       ],
       "baseId": "cathedral-of-st-thomas",
+      "nameCN": "圣汤马斯大教堂",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -14081,6 +14283,7 @@
           "baseId": "council-hall",
           "type": "building",
           "name": "Council Hall",
+          "nameCN": "议会厅",
           "pbgid": 166269,
           "attribName": "building_landmark_age1_westminster_hall_eng",
           "age": 1,
@@ -14088,6 +14291,7 @@
             "en"
           ],
           "description": "Acts as an Archery Range with all units and technologies. Works +100% faster.\nLongbowmen produced from this landmark are -5% cheaper.",
+          "descriptionCN": "可作为所有单位和科技的靶场使用。工作速度 +100%。\n由此地标生产的长弓兵成本 -5%。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -14180,6 +14384,7 @@
           "baseId": "kings-palace",
           "type": "building",
           "name": "King's Palace",
+          "nameCN": "王宫",
           "pbgid": 166271,
           "attribName": "building_landmark_age2_westminster_palace_eng",
           "age": 2,
@@ -14187,6 +14392,7 @@
             "en"
           ],
           "description": "Acts as a Town Center with all the behaviors, technology, units, and bonuses.",
+          "descriptionCN": "可作为城镇中心使用，具备其所有功能、科技、单位以及加成。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -14309,7 +14515,9 @@
         }
       ],
       "baseId": "the-white-tower",
+      "nameCN": "白塔",
       "age": 2,
+      "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。工作速度提高 75%。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -14407,6 +14615,7 @@
           "name": "The White Tower",
           "age": 3,
           "description": "Acts as a Keep with all the behaviors, technologies, and bonuses.\nGrants 3 Earl's Guard upon being fully constructed.",
+          "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。\n建造完成后可获得 3 名伯爵护卫。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -14524,6 +14733,7 @@
             "hl"
           ],
           "description": "Allows the production of 4 battalions: Wynguard Army, Earl's Retinue, Garrison Command, and Gunpowder Contingent.",
+          "descriptionCN": "可以生产 4 个营队：温嘉德军队、伯爵侍从、驻扎命令和火药分遣队。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -14539,7 +14749,9 @@
         }
       ],
       "baseId": "wynguard-palace",
+      "nameCN": "温嘉德宫殿",
       "age": 3,
+      "descriptionCN": "可以生产 4 个营队：温嘉德军队、温嘉德长弓兵、温嘉德掠夺者和温嘉德步兵。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -14622,7 +14834,9 @@
         }
       ],
       "baseId": "chamber-of-commerce",
+      "nameCN": "商会",
       "age": 1,
+      "descriptionCN": "作为市场使用。为研究的每项经济技术培训一名自由商人。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -14740,7 +14954,9 @@
         }
       ],
       "baseId": "college-of-artillery",
+      "nameCN": "炮兵学院",
       "age": 3,
+      "descriptionCN": "生产皇家炮兵版加农炮、机关炮和长管炮，它们造成的伤害额外 +30%。\n解锁所有加农炮的火炮术能力。\n包括攻城和火药科技，训练单位和研究科技的速度 +50%。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -14865,7 +15081,9 @@
         }
       ],
       "baseId": "guild-hall",
+      "nameCN": "公会大厅",
       "age": 2,
+      "descriptionCN": "可以随时间产生并存放资源；存放的资源越多，产生资源的速度就越快。可选择食物、木材、石料或黄金。产生石料的速度减半。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -14955,7 +15173,9 @@
         }
       ],
       "baseId": "notre-dame",
+      "nameCN": "圣母院",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -15044,7 +15264,9 @@
         }
       ],
       "baseId": "red-palace",
+      "nameCN": "红宫",
       "age": 3,
+      "descriptionCN": "可作为城堡使用，配备高伤害劲弩炮台。每个驻扎单位可额外添加一个劲弩。\n激活所有城堡和城镇中心的劲弩炮台。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -15182,7 +15404,9 @@
         }
       ],
       "baseId": "royal-institute",
+      "nameCN": "皇家学院",
       "age": 2,
+      "descriptionCN": "可研究法兰西人的所有独特科技。此建筑的研究成本 -30%，并可无视时代需求。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -15224,6 +15448,7 @@
           "name": "Royal Institute",
           "age": 3,
           "description": "Houses unique technologies. Research is -30% cheaper here and ignores Age requirements.",
+          "descriptionCN": "可研究独特科技。此建筑的研究成本 -30%，并可无视时代需求。",
           "producedBy": [
             "jeanne-darc-peasant",
             "villager"
@@ -15306,7 +15531,9 @@
         }
       ],
       "baseId": "school-of-cavalry",
+      "nameCN": "骑兵学校",
       "age": 1,
+      "descriptionCN": "可作为马厩使用。你所有马厩的单位生产速度 +20%。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -15373,6 +15600,7 @@
           "baseId": "fortified-outpost",
           "type": "building",
           "name": "Fortified Outpost",
+          "nameCN": "设防哨站",
           "pbgid": 9003602,
           "attribName": "building_fortified_outpost_mon_ha_gol",
           "age": 1,
@@ -15380,6 +15608,7 @@
             "gol"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
           "classes": [
             "building",
             "defensive_structure",
@@ -15843,7 +16072,9 @@
         }
       ],
       "baseId": "ger",
+      "nameCN": "蒙古包",
       "age": 1,
+      "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
       "costs": {
         "food": 0,
         "wood": 75,
@@ -15911,6 +16142,7 @@
           "baseId": "golden-tent",
           "type": "building",
           "name": "Golden Tent",
+          "nameCN": "黄金帐篷",
           "pbgid": 9002973,
           "attribName": "building_landmark_golden_tent_mon_ha_gol",
           "age": 2,
@@ -15918,6 +16150,7 @@
             "gol"
           ],
           "description": "Contains upgrades that will advance through the Ages. Batu Khan and his Torguud can be deployed to the field.\nCan activate Edicts which will change the bonuses provided by Fortified Outposts.",
+          "descriptionCN": "包含会随时代推进而提升的升级。可在战场上部署拔都汗及其土尔扈特。\n可激活法令，这能改变强化哨站提供的加成。",
           "classes": [
             "age_up_producer",
             "audio_production_landmark",
@@ -16018,7 +16251,9 @@
         }
       ],
       "baseId": "monument-of-the-great-khan",
+      "nameCN": "大汗纪念碑",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 6650,
         "wood": 6650,
@@ -16092,6 +16327,7 @@
             "mo"
           ],
           "description": "Must be built on a Stone Outcropping.\nHarvests 70/100/120/150 Stone per minute by Age. Houses unique Mongol technologies.\nConstructing a new Ovoo will destroy the prior one.",
+          "descriptionCN": "必须建在石料露头上。\n随着时代提升，每分钟采集 70/100/120/150 石料。可研究独特蒙古科技。\n建造新敖包会摧毁旧有的敖包。",
           "classes": [
             "building",
             "ovoo",
@@ -16107,7 +16343,9 @@
         }
       ],
       "baseId": "ovoo",
+      "nameCN": "敖包",
       "age": 1,
+      "descriptionCN": "必须建造在石料露头上。\n每分钟甚至从枯竭的石料存放点收获 60 石料。每次进入新时代后，建造上限 +1。",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -16188,7 +16426,9 @@
         }
       ],
       "baseId": "prayer-tent",
+      "nameCN": "祈祷帐篷",
       "age": 3,
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "costs": {
         "food": 0,
         "wood": 200,
@@ -16252,6 +16492,7 @@
           "baseId": "relic-ovoo",
           "type": "building",
           "name": "Relic Ovoo",
+          "nameCN": "圣物敖包",
           "pbgid": 9002133,
           "attribName": "building_relic_ovoo_mon_ha_gol",
           "age": 1,
@@ -16259,6 +16500,7 @@
             "gol"
           ],
           "description": "The Relic Ovoo does not have to be placed on Stone deposits and the Relic will drop if the Ovoo is destroyed.\nHarvests 60 Stone per minute.",
+          "descriptionCN": "圣物敖包不必安置在石料矿床上；如果敖包被摧毁，圣物就会掉落。\n每分钟收获 60 石料。",
           "classes": [
             "building",
             "ovoo",
@@ -16338,6 +16580,7 @@
           "baseId": "stockyard",
           "type": "building",
           "name": "Stockyard",
+          "nameCN": "牲畜围栏",
           "pbgid": 9001697,
           "attribName": "building_resource_pasture_mon_ha_gol",
           "age": 1,
@@ -16345,6 +16588,7 @@
             "gol"
           ],
           "description": "Food drop off and harvestable Food source. Use a Villager to gather Food from the sheep carcasses.\nUp to four Villagers can work each Stockyard.",
+          "descriptionCN": "食物存放点以及可供采集的食物来源。派遣村民从此处的绵羊尸体上采集食物。\n每个牲畜围栏最多可容纳四名村民同时工作。",
           "classes": [
             "building",
             "farm",
@@ -16440,6 +16684,7 @@
             "od"
           ],
           "description": "Inspires all Villagers in a large radius and increases their gather rate by +15%. \nActs as a drop-off point for all resource types.",
+          "descriptionCN": "鼓舞大范围内所有村民，使他们的采集速率 +15%。\n可作为所有资源类型的存放点使用。",
           "costs": {
             "food": 400,
             "wood": 0,
@@ -16457,7 +16702,9 @@
         }
       ],
       "baseId": "aachen-chapel",
+      "nameCN": "亚琛教堂",
       "age": 1,
+      "descriptionCN": "高级教士驻扎后可激励大范围内的单位。\n可作为所有类型资源的存放点使用。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -16544,6 +16791,7 @@
             "od"
           ],
           "description": "Acts as a Barracks that produces units 35% faster and 35% cheaper. Researches technologies 35% faster.",
+          "descriptionCN": "可作为兵营使用，产生单位的工作效率增加 35%，生产成本减少 35%。研究科技速度加快 35%。",
           "costs": {
             "food": 1200,
             "wood": 0,
@@ -16561,7 +16809,9 @@
         }
       ],
       "baseId": "burgrave-palace",
+      "nameCN": "城主宫殿",
       "age": 2,
+      "descriptionCN": "可作为兵营使用，生产速度提升 400%。\n步兵的冲锋伤害 +50%。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -16646,6 +16896,7 @@
             "od"
           ],
           "description": "Acts as a Keep with +50% health. All buildings within influence take -25% less damage.",
+          "descriptionCN": "可作为城堡使用，其生命值 +50%。影响范围内的所有建筑受到的伤害 -25%。",
           "costs": {
             "food": 2400,
             "wood": 0,
@@ -16663,7 +16914,9 @@
         }
       ],
       "baseId": "elzbach-palace",
+      "nameCN": "埃尔茨巴赫宫殿",
       "age": 3,
+      "descriptionCN": "可作为城堡使用，其生命值 +50%。影响范围内的所有建筑受到的伤害 -25%。\n每个城堡可以训练 8 黑骑兵，而不是 5。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -16812,7 +17065,9 @@
         }
       ],
       "baseId": "great-palace-of-flensburg",
+      "nameCN": "弗伦斯堡大宫殿",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -16908,7 +17163,9 @@
         }
       ],
       "baseId": "meinwerk-palace",
+      "nameCN": "迈因维克宫殿",
       "age": 1,
+      "descriptionCN": "可作为铁匠铺使用，在这里，科技研究成本 -50%，研究速度增加 50%。包括这个地标独有的技术",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -17012,7 +17269,9 @@
         }
       ],
       "baseId": "palace-of-swabia",
+      "nameCN": "施瓦本宫殿",
       "age": 3,
+      "descriptionCN": "可作为城镇中心使用。村民的生产速度 +200% 且成本 -66%。\n建造此地标的成本 -10%。",
       "costs": {
         "food": 2160,
         "wood": 0,
@@ -17139,7 +17398,9 @@
         }
       ],
       "baseId": "regnitz-cathedral",
+      "nameCN": "雷格尼茨大教堂",
       "age": 2,
+      "descriptionCN": "可作为修道院使用。所有放置在其中的圣物产生的黄金 +100%。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -17214,6 +17475,7 @@
           "baseId": "kings-college",
           "type": "building",
           "name": "King's College",
+          "nameCN": "国王学院",
           "pbgid": 5000042,
           "attribName": "building_landmark_age2_kingscollege_lan",
           "age": 2,
@@ -17221,6 +17483,7 @@
             "hl"
           ],
           "description": "Reduces research costs of all technologies by -15%.\nContains unique Military technologies for House of Lancaster.",
+          "descriptionCN": "所有科技的研究成本 -15%。\n包含兰开斯特王朝的独有军事科技。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -17306,6 +17569,7 @@
           "baseId": "lancaster-castle",
           "type": "building",
           "name": "Lancaster Castle",
+          "nameCN": "兰开斯特城堡",
           "pbgid": 5000041,
           "attribName": "building_landmark_age1_lancastercastle_lan",
           "age": 1,
@@ -17313,6 +17577,7 @@
             "hl"
           ],
           "description": "Defensive Landmark that can do a one-time muster of units from Manors in each Age.\nGrants all Manors +500 health and an arrowslit emplacement.",
+          "descriptionCN": "防御地标，每个时代可以从庄园召唤一次单位。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -17433,6 +17698,7 @@
           "baseId": "manor",
           "type": "building",
           "name": "Manor",
+          "nameCN": "庄园",
           "pbgid": 5000020,
           "attribName": "building_manor_lan",
           "age": 2,
@@ -17440,6 +17706,7 @@
             "hl"
           ],
           "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
+          "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n人口上限 +10。",
           "classes": [
             "building",
             "economy_building",
@@ -17569,11 +17836,14 @@
             "sen"
           ],
           "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "unique": false
         }
       ],
       "baseId": "buddhist-temple",
+      "nameCN": "佛寺",
       "age": 3,
+      "descriptionCN": "生产佛教僧侣并研究独特的佛教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "costs": {
         "food": 0,
         "wood": 200,
@@ -18613,7 +18883,9 @@
         }
       ],
       "baseId": "castle",
+      "nameCN": "城堡",
       "age": 4,
+      "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "costs": {
         "food": 0,
         "wood": 300,
@@ -18761,6 +19033,7 @@
             "sen"
           ],
           "description": "Acts as a Castle. Reduces the cost of constructing Castles by 33%. Siege units nearby any Castle gain +10% damage and +1 tiles range.",
+          "descriptionCN": "可作为城堡使用。建造城堡的成本降低 33%。所有城堡附近的攻城单位造成的伤害 +10%，射程 +1 格。",
           "armor": [
             {
               "type": "ranged",
@@ -18783,7 +19056,9 @@
         }
       ],
       "baseId": "castle-of-the-crow",
+      "nameCN": "乌城",
       "age": 3,
+      "descriptionCN": "充当一座城堡。可从所选的中立贸易站定期生成宝藏商队。宝藏商队在抵达乌城时提供大量食物、木材、黄金以及部分石料。",
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -19829,7 +20104,9 @@
         }
       ],
       "baseId": "farmhouse",
+      "nameCN": "农舍",
       "age": 1,
+      "descriptionCN": "提高人口上限而且村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -19896,6 +20173,7 @@
           "baseId": "floating-gate",
           "type": "building",
           "name": "Floating Gate",
+          "nameCN": "水上鸟居",
           "pbgid": 2122035,
           "attribName": "building_landmark_age2_shinto_jpn",
           "age": 2,
@@ -19903,6 +20181,7 @@
             "ja"
           ],
           "description": "Produces a Shinto Priest carrying a Yorishiro every 2 minutes. The first priest spawns instantly. Deposit up to 4 Yorishiro in buildings to provide unique bonuses.\n \nUnlocks Shinto Shrines, which contains unique Shinto technologies and produces Shinto Priests.",
+          "descriptionCN": "每 2 分钟生产一次携带依代的神道教神主。第一位神官会立即生成。最多可以在建筑中存放 4 个依代，以提供独特的加成。\n解锁神道教神社，其中拥有独特的神道教科技并生产神道教神主。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -20003,7 +20282,9 @@
         }
       ],
       "baseId": "forge",
+      "nameCN": "锻造厂",
       "age": 1,
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿和军事单位的科技。",
       "costs": {
         "food": 0,
         "wood": 50,
@@ -20081,11 +20362,14 @@
           "civs": [
             "sen"
           ],
-          "description": "The Koka Township has the ability to scout a target area anywhere on the map and an ability to spawn a Shinobi ambush near one of your buildings or near Stealth Forest."
+          "description": "The Koka Township has the ability to scout a target area anywhere on the map and an ability to spawn a Shinobi ambush near one of your buildings or near Stealth Forest.",
+          "descriptionCN": "甲贺镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。"
         }
       ],
       "baseId": "koka-township",
+      "nameCN": "甲贺城镇",
       "age": 1,
+      "descriptionCN": "可生产忍者间谍单位，擅长侦察、破坏和暗杀。完成后自动生产一个免费的忍者。",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -20160,6 +20444,7 @@
           "baseId": "kura-storehouse",
           "type": "building",
           "name": "Kura Storehouse",
+          "nameCN": "藏造仓库",
           "pbgid": 2122032,
           "attribName": "building_landmark_age1_storehouse_jpn",
           "age": 1,
@@ -20167,6 +20452,7 @@
             "ja"
           ],
           "description": "Universal drop-off location that creates a Farm around the Landmark every 50 seconds — generates Wood instead when farmland becomes full.",
+          "descriptionCN": "通用存放地点，每 50 秒在地标周围会创建一座农田，农田满时，会生成木材。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -20267,6 +20553,7 @@
           "baseId": "shinto-shrine",
           "type": "building",
           "name": "Shinto Shrine",
+          "nameCN": "神社",
           "pbgid": 2124178,
           "attribName": "building_unit_religious_shinto_jpn",
           "age": 3,
@@ -20274,6 +20561,7 @@
             "ja"
           ],
           "description": "Produces the Shinto Priest and houses Unique Shinto technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "产生神道教神主并研究神道教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "classes": [
             "building",
             "monastery",
@@ -20358,6 +20646,7 @@
           "baseId": "tanegashima-gunsmith",
           "type": "building",
           "name": "Tanegashima Gunsmith",
+          "nameCN": "种子岛枪匠",
           "pbgid": 2122036,
           "attribName": "building_landmark_age3_ozutsu_jpn",
           "age": 3,
@@ -20365,6 +20654,7 @@
             "ja"
           ],
           "description": "Stockpiles weapon supplies every 30 seconds that can be used to instantly produce gunpowder units - comes with 2 stockpiles. Produces Ozutsu, a unique heavy ranged gunpowder infantry with siege damage. Allows access to Ribauldequins.",
+          "descriptionCN": "每 30 秒储备武器供给，可用于立即生产火药单位，并带有 2 储备。生产大筒兵，一种独特的重型远程火药步兵，可造成攻城伤害。允许使用风琴炮。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -20466,11 +20756,14 @@
           "civs": [
             "sen"
           ],
-          "description": "Acts as a Buddhist Temple that contains unique Ikko-ikki upgrades. Reduces the cost of training Ikko-ikki monks by 25%."
+          "description": "Acts as a Buddhist Temple that contains unique Ikko-ikki upgrades. Reduces the cost of training Ikko-ikki monks by 25%.",
+          "descriptionCN": "可作为佛教寺庙使用，其中包含独特的一向一揆升级。可将一向一揆僧侣的训练成本降低 25%。"
         }
       ],
       "baseId": "temple-of-equality",
+      "nameCN": "平等院",
       "age": 2,
+      "descriptionCN": "生产佛教僧侣，并包含独特的佛教科技。佛教僧侣可以在战斗中提供支持，可施放僧兵经文降低敌人带来的伤害，并用佛教皈依来增强盟友带来的伤害。\n \n另外可以建造 4 座额外的佛教寺庙。",
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -20547,7 +20840,9 @@
         }
       ],
       "baseId": "tokugawa-shrine",
+      "nameCN": "德川神社",
       "age": 4,
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -20618,6 +20913,7 @@
           "baseId": "fortress",
           "type": "building",
           "name": "Fortress",
+          "nameCN": "要塞",
           "pbgid": 5000214,
           "attribName": "building_defense_fortress_tem",
           "age": 2,
@@ -20625,6 +20921,7 @@
             "kt"
           ],
           "description": "Unique Landmark fortification for the Knights Templar, can be fully destroyed.\nHas an aura that improves nearby units range.\nEach Fortress increases the number of Pilgrims travelling.",
+          "descriptionCN": "圣殿骑士团独特的地标防御工事，可以被完全摧毁。\n拥有可以提升附近单位射程的光环。\n每拥有一座要塞都可以增加踏上旅途的朝圣者数量。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -21756,6 +22053,7 @@
           "baseId": "harbor",
           "type": "building",
           "name": "Harbor",
+          "nameCN": "巨港",
           "pbgid": 5000233,
           "attribName": "building_dock_tem",
           "age": 1,
@@ -21763,6 +22061,7 @@
             "kt"
           ],
           "description": "Strong Dock that produces naval units and increases the health of nearby ships.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to 4 Fishing Ships.",
+          "descriptionCN": "强大的码头，可生产海军单位并增加附近船只的生命值。\n自动修复附近受损的海军单位。\n最多可容纳 4 艘渔船。",
           "classes": [
             "building",
             "military_only_production",
@@ -21874,6 +22173,7 @@
           "baseId": "runestones",
           "type": "building",
           "name": "Runestones",
+          "nameCN": "符文石群",
           "pbgid": 9003200,
           "attribName": "building_varangian_runestone_byz_ha_mac",
           "age": 1,
@@ -21881,6 +22181,7 @@
             "mac"
           ],
           "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
+          "descriptionCN": "雕刻符文石以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格、近战伤害 +1，移动速度 +15%。持续 150 秒。",
           "classes": [
             "runestone",
             "unchargeable"
@@ -21949,6 +22250,7 @@
           "baseId": "varangian-arsenal",
           "type": "building",
           "name": "Varangian Arsenal",
+          "nameCN": "瓦兰吉兵工厂",
           "pbgid": 9003576,
           "attribName": "building_tech_unit_varangian_byz_ha_mac",
           "age": 2,
@@ -21956,6 +22258,7 @@
             "mac"
           ],
           "description": "Houses advanced technology for the Macedonian Dynasty.",
+          "descriptionCN": "推动马其顿王朝的科技发展。",
           "classes": [
             "bowyer",
             "building",
@@ -22035,6 +22338,7 @@
           "baseId": "varangian-stronghold",
           "type": "building",
           "name": "Varangian Stronghold",
+          "nameCN": "瓦兰吉堡垒",
           "pbgid": 9001600,
           "attribName": "building_unit_passive_trait_byz_ha_mac",
           "age": 1,
@@ -22042,6 +22346,7 @@
             "mac"
           ],
           "description": "Structure capable of producing any Varangian unit.",
+          "descriptionCN": "能够生产任何瓦兰吉单位的建筑。",
           "classes": [
             "barracks",
             "building",
@@ -22160,6 +22465,7 @@
           "baseId": "varangian-warcamp",
           "type": "building",
           "name": "Varangian Warcamp",
+          "nameCN": "瓦兰吉军营",
           "pbgid": 9003662,
           "attribName": "building_unit_varangian_warcamp_byz_ha_mac",
           "age": 1,
@@ -22167,6 +22473,7 @@
             "mac"
           ],
           "description": "Increases your maximum Population.\n \nAs the Empire suffers casualties in war, the emperor calls forth more Varangians. \nOnce enough troops are lost in battle, the selected Varangian is reinforced to the battlefield at no cost. If placed on shore near water, Attack Ships or Galleys become available as reinforcements.\n \nReinforcements cost 6 times their value in fallen warriors.",
+          "descriptionCN": "提高你的人口上限。\n随着帝国在战争中伤亡加剧，皇帝便会召集更多瓦兰吉人。\n一旦在战斗中损失的部队数量足够多，选定的瓦兰吉人将在不消耗任何资源的情况下被增援到战场上。如果将其安置在近水岸边，攻击船或箭船可成为增援力量。\n援军在阵亡战士身上花费 6 倍的成本。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -22243,6 +22550,7 @@
           "baseId": "cattle-ranch",
           "type": "building",
           "name": "Cattle Ranch",
+          "nameCN": "养牛场",
           "pbgid": 2074126,
           "attribName": "building_econ_ranch_mal",
           "age": 2,
@@ -22250,6 +22558,7 @@
             "ma"
           ],
           "description": "Cattle garrisoned in this ranch generate +25 Food per minute. This value is increased by the food upgrades.",
+          "descriptionCN": "放置于此牧场的牛每分钟产生 +25 食物。这个值会随着食物升级而增加。",
           "classes": [
             "building",
             "ranch",
@@ -22337,6 +22646,7 @@
           "baseId": "farimba-garrison",
           "type": "building",
           "name": "Farimba Garrison",
+          "nameCN": "死士驻军",
           "pbgid": 2062447,
           "attribName": "building_landmark_age2_landmarkd_control_mal",
           "age": 2,
@@ -22344,6 +22654,7 @@
             "ma"
           ],
           "description": "Enlist one of three units to enhance your roster: the Mansa Musofadi, Mansa Javelineer, or Freeborn Warrior. Another unit can be enlisted in the Imperial Age.",
+          "descriptionCN": "从以下三种单位中招募其一来强化你的军队：曼萨·穆索法迪、曼萨掷枪手或自由民战士。在帝国时代还可以招募另一种单位。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -22433,6 +22744,7 @@
           "baseId": "fort-of-the-huntress",
           "type": "building",
           "name": "Fort of the Huntress",
+          "nameCN": "女猎手要塞",
           "pbgid": 2063110,
           "attribName": "building_landmark_age3_landmarkf_mal",
           "age": 3,
@@ -22440,6 +22752,7 @@
             "ma"
           ],
           "description": "Acts as a Keep that shoots poison arrows. Infantry units nearby the Landmark enter Stealth for 30 seconds.\nMusofadi Warriors and Musofadi Gunners gain First Strike, dealing more damage when breaking Stealth with an attack.",
+          "descriptionCN": "可作为发射毒箭的城堡使用。地标附近的步兵单位进入潜行状态 30 秒。\n穆索法迪战士和穆索法迪火枪兵获得先发制人效果，在发动破除潜行的一次攻击时造成更大伤害。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -22583,6 +22896,7 @@
           "baseId": "grand-fulani-corral",
           "type": "building",
           "name": "Grand Fulani Corral",
+          "nameCN": "富拉尼大围栏",
           "pbgid": 2062448,
           "attribName": "building_landmark_age2_landmarkc_control_mal",
           "age": 2,
@@ -22590,6 +22904,7 @@
             "ma"
           ],
           "description": "Nearby cattle provide 20 Food per minute.",
+          "descriptionCN": "附近的牛每分钟提供 20 食物。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -22670,6 +22985,7 @@
           "baseId": "great-mosque",
           "type": "building",
           "name": "Great Mosque",
+          "nameCN": "大清真寺",
           "pbgid": 2058992,
           "attribName": "building_wonder_age4_great_mosque_control_mal",
           "age": 4,
@@ -22677,6 +22993,7 @@
             "ma"
           ],
           "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+          "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -22757,6 +23074,7 @@
           "baseId": "griot-bara",
           "type": "building",
           "name": "Griot Bara",
+          "nameCN": "说书人巴拉鼓",
           "pbgid": 2062635,
           "attribName": "building_landmark_age3_landmarke_mal",
           "age": 3,
@@ -22764,6 +23082,7 @@
             "ma"
           ],
           "description": "Begin a festival for 300 Gold, providing global enhancements to Food gather rates, unit production speeds, or damage of torches and siege attacks. One festival may be active at a time.",
+          "descriptionCN": "花费 300 黄金开展一次节庆，可全局提升食物采集率、单位生产速度或火炬及攻城攻击所造成的伤害。每次可以激活一次节庆。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -22847,6 +23166,7 @@
           "baseId": "mansa-quarry",
           "type": "building",
           "name": "Mansa Quarry",
+          "nameCN": "皇家采石场",
           "pbgid": 2063107,
           "attribName": "building_landmark_age1_landmarkb_mal",
           "age": 1,
@@ -22854,6 +23174,7 @@
             "ma"
           ],
           "description": "Generates 75 Gold per minute. Can be toggled to generate Stone instead.",
+          "descriptionCN": "每分钟产生 75 黄金。可以切换为产生石料。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -22931,6 +23252,7 @@
           "baseId": "pit-mine",
           "type": "building",
           "name": "Pit Mine",
+          "nameCN": "露天矿区",
           "pbgid": 2067413,
           "attribName": "building_open_pit_mine_small_mal",
           "age": 1,
@@ -22938,6 +23260,7 @@
             "ma"
           ],
           "description": "Must be built on a Gold Vein.\nMines 36 Gold per minute without depleting the deposit. If a deposit has been depleted, the Pit Mine can be re-placed on exhausted Gold Veins.",
+          "descriptionCN": "必须建造在黄金矿脉上。\n每分钟可开采  36 份黄金，而且不会耗尽金矿。若金矿已消耗殆尽，露天矿区可以被重新放置在枯竭的黄金矿脉上。",
           "classes": [
             "building",
             "pit_mine",
@@ -23020,6 +23343,7 @@
           "baseId": "saharan-trade-network",
           "type": "building",
           "name": "Saharan Trade Network",
+          "nameCN": "撒哈拉贸易网络",
           "pbgid": 2063101,
           "attribName": "building_landmark_age1_landmarka_mal",
           "age": 1,
@@ -23027,6 +23351,7 @@
             "ma"
           ],
           "description": "Acts as a Toll Outpost that comes with Defensive Javelin Emplacement researched. Unlocks Javelin Emplacement for Outposts.\nAll Traders and Trade Ships taxed will generate Food equal to the taxed Gold at this Landmark. All other Toll Outposts will generate 50% of taxed Gold as Food.",
+          "descriptionCN": "可作为已研究防御型标枪炮台的收费哨站使用。为哨站解锁标枪炮台。\n所有被征税的商人以及商船都会在此地标处生产与税金等值的食物，其他所有收费哨站也会生产相当于税金 50% 的食物。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -23165,6 +23490,7 @@
           "baseId": "toll-outpost",
           "type": "building",
           "name": "Toll Outpost",
+          "nameCN": "收费哨站",
           "pbgid": 2668497,
           "attribName": "building_defense_outpost_mal",
           "age": 1,
@@ -23172,6 +23498,7 @@
             "ma"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nPassing Traders and Trade Ships instantly provide an additional 8% of their carried Gold. Does not generate any bonus tax if a toll outpost is built within range of another one.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n经过的商人和商船可立即额外提供其所携带黄金的 8%。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。",
           "classes": [
             "building",
             "defensive_structure",
@@ -23646,6 +23973,7 @@
           "baseId": "deer-stones",
           "type": "building",
           "name": "Deer Stones",
+          "nameCN": "鹿石",
           "pbgid": 136383,
           "attribName": "building_wonder_age1_deer_stones_mon",
           "age": 1,
@@ -23653,6 +23981,7 @@
             "mo"
           ],
           "description": "Deer Stones grant access to the Khan's Hunter at the Archery Range.\nInstantly researches the Yam Network technology.",
+          "descriptionCN": "有了鹿石，可以在靶场获得汗的猎人。\n立即研究驿站网络科技。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -23740,6 +24069,7 @@
           "baseId": "khaganate-palace",
           "type": "building",
           "name": "Khaganate Palace",
+          "nameCN": "汗国宫殿",
           "pbgid": 131452,
           "attribName": "building_wonder_age3_khanbaliq_mon",
           "age": 3,
@@ -23747,6 +24077,7 @@
             "mo"
           ],
           "description": "Automatically spawns diverse armies from across the Mongol Empire and its dominions.",
+          "descriptionCN": "自动生成来自蒙古帝国及其领地的各种军队。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -23834,6 +24165,7 @@
           "baseId": "kurultai",
           "type": "building",
           "name": "Kurultai",
+          "nameCN": "忽里勒台",
           "pbgid": 136384,
           "attribName": "building_wonder_age1_kurultai_mon",
           "age": 2,
@@ -23841,6 +24173,7 @@
             "mo"
           ],
           "description": "Nearby units within its aura heal +1 health every 1 second and gain an additional +20% damage.",
+          "descriptionCN": "其光环内的附近单位每 1 秒治疗 +1 生命值，并获得额外 +20% 伤害。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -23924,6 +24257,7 @@
           "baseId": "pasture",
           "type": "building",
           "name": "Pasture",
+          "nameCN": "牧场",
           "pbgid": 168713,
           "attribName": "building_pasture_mon",
           "age": 1,
@@ -23931,6 +24265,7 @@
             "mo"
           ],
           "description": "Automatically produces a gatherable Sheep every 140 seconds. Will eventually stop producing if too many Sheep are produced and not gathered.",
+          "descriptionCN": "每 140 秒自动生产一只可收集的绵羊。如果生产的绵羊太多且没有被收集，则生产将停止。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -24021,6 +24356,7 @@
           "baseId": "steppe-redoubt",
           "type": "building",
           "name": "Steppe Redoubt",
+          "nameCN": "草原防卫据点",
           "pbgid": 136386,
           "attribName": "building_wonder_age2_khara_khoto_mon",
           "age": 2,
@@ -24028,6 +24364,7 @@
             "mo"
           ],
           "description": "Acts as a Ger. Gold dropped off at this Landmark is increased by +50%.",
+          "descriptionCN": "可作为蒙古包使用。在此地标存放黄金时，获得的黄金 +50%。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -24123,6 +24460,7 @@
           "baseId": "the-silver-tree",
           "type": "building",
           "name": "The Silver Tree",
+          "nameCN": "银之树",
           "pbgid": 136385,
           "attribName": "building_wonder_age2_karakorum_mon",
           "age": 1,
@@ -24130,6 +24468,7 @@
             "mo"
           ],
           "description": "Acts as a Market. Production speed of Traders increased by +40% with a -40% reduced Gold cost.",
+          "descriptionCN": "可作为市场使用。贸易商的生产速度提高+40%，黄金成本降低-40%。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -24223,6 +24562,7 @@
           "baseId": "the-white-stupa",
           "type": "building",
           "name": "The White Stupa",
+          "nameCN": "白色浮屠佛塔",
           "pbgid": 136389,
           "attribName": "building_wonder_age3_stupa_mon",
           "age": 3,
@@ -24230,6 +24570,7 @@
             "mo"
           ],
           "description": "Acts as an Ovoo and produces 240 Stone per minute without a Stone Outcropping.\nDecreases the Stone cost of double unit production by -50%.",
+          "descriptionCN": "可作为敖包使用，并且不需要石料露头就可以每分钟生产 240 石料。\n双倍单位生产的石料成本 -50%。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -24316,6 +24657,7 @@
           "baseId": "azure-mosque",
           "type": "building",
           "name": "Azure Mosque",
+          "nameCN": "蓝色清真寺",
           "pbgid": 2055473,
           "attribName": "building_wonder_age4_blue_mosque_ott",
           "age": 4,
@@ -24323,6 +24665,7 @@
             "ot"
           ],
           "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+          "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -24403,6 +24746,7 @@
           "baseId": "istanbul-imperial-palace",
           "type": "building",
           "name": "Istanbul Imperial Palace",
+          "nameCN": "伊斯坦布尔皇宫",
           "pbgid": 2055470,
           "attribName": "building_landmark_age2_topkapi_palace_ott",
           "age": 2,
@@ -24410,6 +24754,7 @@
             "ot"
           ],
           "description": "Double the Imperial Council experience around the Landmark and increase the Vizier Point limit by +3.",
+          "descriptionCN": "在地标附近会获得双倍帝国议会经验，并且维齐尔点数上限 +3。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -24494,6 +24839,7 @@
           "baseId": "istanbul-observatory",
           "type": "building",
           "name": "Istanbul Observatory",
+          "nameCN": "伊斯坦布尔天文台",
           "pbgid": 2055471,
           "attribName": "building_landmark_age3_istanbul_observatory_ott",
           "age": 3,
@@ -24501,6 +24847,7 @@
             "ot"
           ],
           "description": "Acts as a University. Improves the influence provided by the University and Blacksmith and production speed of the Grand Galley to +100%.",
+          "descriptionCN": "可作为大学使用。大学和铁匠铺所提供的影响力，以及大型桨帆船的生产速度均提升至 +100%。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -24591,6 +24938,7 @@
           "baseId": "mehmed-imperial-armory",
           "type": "building",
           "name": "Mehmed Imperial Armory",
+          "nameCN": "穆罕默德帝国军械库",
           "pbgid": 2055469,
           "attribName": "building_landmark_age2_tophane_armory_ott",
           "age": 2,
@@ -24598,6 +24946,7 @@
             "ot"
           ],
           "description": "Produces siege engines for free but with a longer train time.",
+          "descriptionCN": "免费生产攻城器械，但训练时间更长。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -24685,6 +25034,7 @@
           "baseId": "military-school",
           "type": "building",
           "name": "Military School",
+          "nameCN": "军事学校",
           "pbgid": 2058834,
           "attribName": "building_military_school_ott",
           "age": 1,
@@ -24692,6 +25042,7 @@
             "ot"
           ],
           "description": "The Military School can be assigned to produce one type of unit continuously at no cost, however they are produced at a slower rate.",
+          "descriptionCN": "可以指派军事学校在不消耗任何资源的情况下连续生产同一类型的单位，然而生产效率也随之下降。",
           "classes": [
             "building",
             "free_passive_unit_production",
@@ -24780,6 +25131,7 @@
           "baseId": "sea-gate-castle",
           "type": "building",
           "name": "Sea Gate Castle",
+          "nameCN": "海门城堡",
           "pbgid": 2055472,
           "attribName": "building_landmark_age3_kilitbahir_castle_ott",
           "age": 3,
@@ -24787,6 +25139,7 @@
             "ot"
           ],
           "description": "Acts as a Keep with a free Great Bombard emplacement. All Keeps gain an aura that increases Trader and Trade Ship movement speed by +30% and armor by +8.",
+          "descriptionCN": "可作为城堡使用，带有一个重型火炮炮台。所有城堡都会获得光环，使商人和商船的移动速度 +30% ，护甲 +8。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -24935,6 +25288,7 @@
           "baseId": "sultanhani-trade-network",
           "type": "building",
           "name": "Sultanhani Trade Network",
+          "nameCN": "苏丹哈尼驿站贸易网络",
           "pbgid": 2055467,
           "attribName": "building_landmark_age1_han_caravanserai_ott",
           "age": 1,
@@ -24942,6 +25296,7 @@
             "ot"
           ],
           "description": "Acts as a Market. Comes with 3 Traders garrisoned and generates +24 Gold per minute for each one. Up to 10 Traders can be garrisoned.",
+          "descriptionCN": "可作为市场使用。自带 3 个商人驻守其中。每个驻守的商人每分钟会生产 +24 黄金。最多可驻守 10 个商人。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -25036,6 +25391,7 @@
           "baseId": "twin-minaret-medrese",
           "type": "building",
           "name": "Twin Minaret Medrese",
+          "nameCN": "双子宣礼塔神学院",
           "pbgid": 2055468,
           "attribName": "building_landmark_age1_cifte_minareli_medrese_ott",
           "age": 1,
@@ -25043,6 +25399,7 @@
             "ot"
           ],
           "description": "Acts as a Mill. Grows 4 Berry Bushes which can be harvested +50% faster. Berry Bushes are regrown after 120 seconds if depleted.",
+          "descriptionCN": "可作为磨坊使用。浆果丛的数量 +4，收获速度 +50%。浆果丛如果被采集完，会在 120 秒后会重新生长。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -25133,6 +25490,7 @@
           "baseId": "abbey-of-the-trinity",
           "type": "building",
           "name": "Abbey of the Trinity",
+          "nameCN": "圣三一修道院",
           "pbgid": 133429,
           "attribName": "building_landmark_age2_trinity_lavra_control_rus",
           "age": 2,
@@ -25140,6 +25498,7 @@
             "ru"
           ],
           "description": "Acts as a Monastery. Reduces the cost of Warrior Monks by -50% and contains unique religious technologies.",
+          "descriptionCN": "可作为修道院使用。僧侣战士的成本 -50%，并包含独特宗教科技。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -25224,6 +25583,7 @@
           "baseId": "cathedral-of-the-tsar",
           "type": "building",
           "name": "Cathedral of the Tsar",
+          "nameCN": "沙皇大教堂",
           "pbgid": 136847,
           "attribName": "building_wonder_age4_saint_basils_cathedral_control_rus",
           "age": 4,
@@ -25231,6 +25591,7 @@
             "ru"
           ],
           "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+          "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -25308,6 +25669,7 @@
           "baseId": "fortified-palisade-gate",
           "type": "building",
           "name": "Fortified Palisade Gate",
+          "nameCN": "强化木城门",
           "pbgid": 133574,
           "attribName": "building_defense_palisade_gate_rus",
           "age": 1,
@@ -25315,6 +25677,7 @@
             "ru"
           ],
           "description": "Relatively sturdy defensive gate. Must be built on a Fortified Palisade Wall segment.",
+          "descriptionCN": "相当坚固的轻型防御城门。必须建造在硬木栅栏上。",
           "classes": [
             "building",
             "defensive_structure",
@@ -25392,6 +25755,7 @@
           "baseId": "fortified-palisade-wall",
           "type": "building",
           "name": "Fortified Palisade Wall",
+          "nameCN": "硬木栅栏",
           "pbgid": 133573,
           "attribName": "building_defense_palisade_rus",
           "age": 1,
@@ -25399,6 +25763,7 @@
             "ru"
           ],
           "description": "Well-built defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+          "descriptionCN": "坚固的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
           "classes": [
             "building",
             "defensive_structure",
@@ -25480,6 +25845,7 @@
           "baseId": "high-armory",
           "type": "building",
           "name": "High Armory",
+          "nameCN": "高级军械库",
           "pbgid": 133433,
           "attribName": "building_landmark_age3_kremlin_armoury_rus",
           "age": 3,
@@ -25487,6 +25853,7 @@
             "ru"
           ],
           "description": "Decrease the cost of siege engines in nearby Siege Workshops by -20%. Contains unique siege engine technologies.",
+          "descriptionCN": "邻近攻城器械厂的攻城器械成本 -20%，并包含独特攻城器械科技。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -25573,6 +25940,7 @@
           "baseId": "high-trade-house",
           "type": "building",
           "name": "High Trade House",
+          "nameCN": "高等贸易所",
           "pbgid": 133432,
           "attribName": "building_landmark_age2_muscovy_trade_company_control_rus",
           "age": 2,
@@ -25580,6 +25948,7 @@
             "ru"
           ],
           "description": "Generates Gold like a Hunting Cabin with the value increased by +400%, without claiming any trees. Spawns a Huntable Deer every 60 seconds.\nVillagers can drop off Food at this building.",
+          "descriptionCN": "可以像狩猎小屋一样生产黄金，且生产量增加 +400%，而不需要占用任何树木。每 60 秒生产一只可狩猎的鹿。\n村民可将食物存放于这座建筑。",
           "classes": [
             "age2_landmark1",
             "building",
@@ -25666,6 +26035,7 @@
           "baseId": "hunting-cabin",
           "type": "building",
           "name": "Hunting Cabin",
+          "nameCN": "狩猎小屋",
           "pbgid": 172205,
           "attribName": "building_hunting_cabin_rus",
           "age": 1,
@@ -25673,6 +26043,7 @@
             "ru"
           ],
           "description": "Villagers can drop off Food at this building. It houses technologies to improve Food gathering and produces Scouts.\nGenerates Gold based on the number of nearby trees. Trees in overlapped areas are only counted once.",
+          "descriptionCN": "村民可将食物存放于这座建筑。可研究增加食物采集效率和生产侦察兵的科技。\n根据附近的树木数量生产黄金。位于重合区域的树木只计算一次。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -25762,6 +26133,7 @@
           "baseId": "kremlin",
           "type": "building",
           "name": "Kremlin",
+          "nameCN": "克里姆林",
           "pbgid": 133426,
           "attribName": "building_landmark_age1_novgorod_kremlin_control_rus",
           "age": 1,
@@ -25769,6 +26141,7 @@
             "ru"
           ],
           "description": "Acts as a Wooden Fortress that comes with Arrowslits, Castle Turret, and Castle Watch technologies.\nCan Levy Militia every 80 seconds to the Capital Town Center.",
+          "descriptionCN": "可作为木制要塞使用，自带射箭槽、城堡炮塔和城堡瞭望台科技。\n每 80 秒可以征用民兵前往首都城镇中心。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -25913,6 +26286,7 @@
           "baseId": "spasskaya-tower",
           "type": "building",
           "name": "Spasskaya Tower",
+          "nameCN": "斯巴斯克塔",
           "pbgid": 133434,
           "attribName": "building_landmark_age3_spassakaya_tower_control_rus",
           "age": 3,
@@ -25920,6 +26294,7 @@
             "ru"
           ],
           "description": "Acts as a Keep with all weapon emplacements and increased health.\nUnlocks the building of Stone Walls, Stone Gates, and Stone Wall Towers.",
+          "descriptionCN": "可作为城堡使用，配有所有武器炮台，并增加生命值。\n可解锁石墙、石墙城门和石墙塔建筑。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -26061,6 +26436,7 @@
           "baseId": "the-golden-gate",
           "type": "building",
           "name": "The Golden Gate",
+          "nameCN": "金门",
           "pbgid": 133425,
           "attribName": "building_landmark_age1_golden_gate_vladimir_control_rus",
           "age": 1,
@@ -26068,6 +26444,7 @@
             "ru"
           ],
           "description": "Allows the exchange of resources at a favorable rate. Generates an additional exchange every 50 seconds.",
+          "descriptionCN": "允许以优惠的价格换取资源。每 50 秒会额外产生一次换取机会。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -26152,6 +26529,7 @@
           "baseId": "wooden-fortress",
           "type": "building",
           "name": "Wooden Fortress",
+          "nameCN": "木制要塞",
           "pbgid": 133438,
           "attribName": "building_defense_wooden_fort_rus",
           "age": 1,
@@ -26159,6 +26537,7 @@
             "ru"
           ],
           "description": "Sturdy wooden stronghold with extensive line of sight that detects units stealth or disguises. Can be upgraded with weaponry. Attacks while garrisoned.",
+          "descriptionCN": "视野开阔的坚固木制堡垒，可侦测匿踪或伪装单位。可升级武器。单位驻扎时可进行攻击。",
           "classes": [
             "building",
             "defensive_structure",
@@ -26254,6 +26633,7 @@
           "baseId": "hojo-clan-daimyo-estate",
           "type": "building",
           "name": "Hojo Clan Daimyo Estate",
+          "nameCN": "北条氏族大名府邸",
           "pbgid": 9003593,
           "attribName": "building_unit_daimyo_estate_hojo_jpn_ha_sen",
           "age": 2,
@@ -26261,6 +26641,7 @@
             "sen"
           ],
           "description": "Increases Hojo Clan support providing bonuses to Barracks Infantry.  \nProduces the Daimyo unit. Hojo Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
+          "descriptionCN": "增加北条氏支援，为兵营步兵提供加成。\n生产大名单位。每建造一座北条氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
             "barracks",
             "building",
@@ -26347,6 +26728,7 @@
           "baseId": "matsuri",
           "type": "building",
           "name": "Matsuri",
+          "nameCN": "祭典",
           "pbgid": 9001339,
           "attribName": "building_econ_matsuri_jpn_ha_sen",
           "age": 1,
@@ -26354,6 +26736,7 @@
             "sen"
           ],
           "description": "The Matsuri acts as a early Market and universal drop-off location.\n \nProduces the Yatai. The Yatai can gather Food and when full it will send a trader back to the Matsuri, which improves the Matsuri gather rate aura by +5%.",
+          "descriptionCN": "祭典承担了早期市场和通用存放位置的角色。\n \n生产屋台。屋台可以采集食物，当食物装满时，它会派出一名商人返回祭典，这将使祭典的采集速度光环的效果 +5%。",
           "classes": [
             "building",
             "economy_building",
@@ -26438,6 +26821,7 @@
           "baseId": "oda-clan-daimyo-estate",
           "type": "building",
           "name": "Oda Clan Daimyo Estate",
+          "nameCN": "织田氏族大名府邸",
           "pbgid": 9003594,
           "attribName": "building_unit_daimyo_estate_oda_jpn_ha_sen",
           "age": 2,
@@ -26445,6 +26829,7 @@
             "sen"
           ],
           "description": "Increases Oda Clan support providing bonuses to Archery Range Infantry.\nProduces the Daimyo unit. Oda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
+          "descriptionCN": "增加织田氏支援，为靶场步兵提供加成。\n生产大名单位。每建造一座织田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
             "barracks",
             "building",
@@ -26529,6 +26914,7 @@
           "baseId": "ryokan",
           "type": "building",
           "name": "Ryokan",
+          "nameCN": "日式旅馆",
           "pbgid": 9001340,
           "attribName": "building_landmark_age1_ryokan_jpn_ha_sen",
           "age": 1,
@@ -26536,6 +26922,7 @@
             "sen"
           ],
           "description": "Increases Population by +60 and nearby units get a permanent healing buff, healing 3 every 5 seconds when out of combat.",
+          "descriptionCN": "人口 +60，附近单位获得永久治疗增益，在脱离战斗后每 5 秒恢复 3 生命值。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -26622,6 +27009,7 @@
           "baseId": "sake-brewery",
           "type": "building",
           "name": "Sake Brewery",
+          "nameCN": "清酒厂",
           "pbgid": 9001341,
           "attribName": "building_landmark_age2_brewery_jpn_ha_sen",
           "age": 2,
@@ -26629,6 +27017,7 @@
             "sen"
           ],
           "description": "The Brewery will create Toko-Koji Mats around itself which can be worked by Villagers to generate Gold. Villagers can drop-off Stone and Gold at this building.",
+          "descriptionCN": "酒厂会在自身周围生产床麹法垫子，村民可以使用这些垫子来产生黄金。村民可将石料和黄金存放于这座建筑。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -26714,6 +27103,7 @@
           "baseId": "sword-hunt-statue",
           "type": "building",
           "name": "Sword Hunt Statue",
+          "nameCN": "刀狩雕像",
           "pbgid": 9001342,
           "attribName": "building_landmark_age3_statue_jpn_ha_sen",
           "age": 3,
@@ -26721,6 +27111,7 @@
             "sen"
           ],
           "description": "Daimyo cost decreased by 50% and increases Daimyo Aura attack speed bonus +20%. Level 3 Daimyo Estates will spawn levies +100% faster.",
+          "descriptionCN": "大名成本 -50%，大名光环攻击速度加成 +20%。3 级大名府邸产生征兵的速度 +100%。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",
@@ -26802,6 +27193,7 @@
           "baseId": "takeda-clan-daimyo-estate",
           "type": "building",
           "name": "Takeda Clan Daimyo Estate",
+          "nameCN": "武田氏族大名府邸",
           "pbgid": 9003595,
           "attribName": "building_unit_daimyo_estate_takeda_jpn_ha_sen",
           "age": 2,
@@ -26809,6 +27201,7 @@
             "sen"
           ],
           "description": "Increases Takeda Clan support providing bonuses to Stables Cavalry.\nProduces the Daimyo unit. Takeda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
+          "descriptionCN": "增加武田氏支援，为马厩骑兵提供加成。\n生产大名单位。每建造一座武田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
             "barracks",
             "building",
@@ -26894,6 +27287,7 @@
           "baseId": "tughlaqabad-fort",
           "type": "building",
           "name": "Tughlaqabad Fort",
+          "nameCN": "腾格拉卡巴德堡垒",
           "pbgid": 7346646,
           "attribName": "building_defense_keep_control_sul_ha_tug",
           "age": 2,
@@ -26901,6 +27295,7 @@
             "tug"
           ],
           "description": "Heavy garrison and defensible position that can select a Governor bonus. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+          "descriptionCN": "重型驻军及防御地点，可选择总督加成。可进行武器升级。单位驻扎时可增加额外的攻击。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -28003,6 +28398,7 @@
           "baseId": "worker-elephant",
           "type": "building",
           "name": "Worker Elephant",
+          "nameCN": "工作大象",
           "pbgid": 9005002,
           "attribName": "building_dummy_worker_elephant_sul_ha_tug",
           "age": 1,
@@ -28010,6 +28406,7 @@
             "tug"
           ],
           "description": "Send a new Worker Elephant from the nearest Town Center or Tughlaqabad Fort to the targeted location. \nVillagers automatically gather resources once they reach the location.",
+          "descriptionCN": "将新的工作大象从最近的城镇中心或腾格拉卡巴德堡垒送到目标地点。\n村民到达该地点后，他们会自动采集资源。",
           "classes": [
             "building",
             "economy_building",
@@ -28087,6 +28484,7 @@
           "baseId": "jiangnan-tower",
           "type": "building",
           "name": "Jiangnan Tower",
+          "nameCN": "江南塔",
           "pbgid": 4715934,
           "attribName": "building_landmark_age1_prefecture_chi_ha_01",
           "age": 2,
@@ -28094,6 +28492,7 @@
             "zx"
           ],
           "description": "Acts as a tax drop-off for Imperial Officials.\nReceive a free unit at the tower whenever a Barracks, Archery Range, or Stable is completed. Receive a free Villager whenever a Town Center is completed.",
+          "descriptionCN": "可作为朝廷命官的税金存放使用。\n兵营、靶场或马厩建成时可免费在塔楼处获得一个单位。城镇中心建成时可获得一名免费村民。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -28179,6 +28578,7 @@
           "baseId": "meditation-gardens",
           "type": "building",
           "name": "Meditation Gardens",
+          "nameCN": "冥想花园",
           "pbgid": 6065722,
           "attribName": "building_landmark_age1_meditation_gardens_control_chi_ha_01",
           "age": 1,
@@ -28186,6 +28586,7 @@
             "zx"
           ],
           "description": "Generates resources depending on the type of resources nearby. \nThe more resources are nearby, the more resources are generated. Enemy units nearby disturb the peace and reduce resources generated.",
+          "descriptionCN": "根据附近的资源类型生成资源。\n附近的资源越多，生成的资源越多。附近的敌方单位会扰乱和平状态并减少生成的资源。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -28272,6 +28673,7 @@
           "baseId": "mount-lu-academy",
           "type": "building",
           "name": "Mount Lu Academy",
+          "nameCN": "白鹿洞书院",
           "pbgid": 6406822,
           "attribName": "building_landmark_age2_white_deer_grotto_control_chi_ha_01",
           "age": 1,
@@ -28279,6 +28681,7 @@
             "zx"
           ],
           "description": "Imperial Officials collect tax twice as often and also collect 20% of taxes as Food.\nContains unique upgrades that greatly improve the Imperial Official unit.",
+          "descriptionCN": "朝廷命官可以频繁征税，还会收取 20% 的税款用于食物的开销。\n包含特殊升级，可以大幅强化朝廷命官单位。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -28370,6 +28773,7 @@
           "baseId": "shaolin-monastery",
           "type": "building",
           "name": "Shaolin Monastery",
+          "nameCN": "少林寺",
           "pbgid": 4136240,
           "attribName": "building_landmark_age2_shaolin_temple_control_chi_ha_01",
           "age": 2,
@@ -28377,6 +28781,7 @@
             "zx"
           ],
           "description": "Unique Monastery capable of producing Shaolin Monks. From the Yuan Dynasty onwards, Shaolin Monks can also be produced from Pagodas.",
+          "descriptionCN": "独特的修道院，能够生产少林僧侣。从元朝开始，宝塔也可以生产少林僧侣。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -28466,6 +28871,7 @@
           "baseId": "temple-of-the-sun",
           "type": "building",
           "name": "Temple of the Sun",
+          "nameCN": "孙武祠",
           "pbgid": 7368723,
           "attribName": "building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
           "age": 3,
@@ -28473,6 +28879,7 @@
             "zx"
           ],
           "description": "Activate powerful abilities that improve speed, damage, range, or regeneration of specific units.",
+          "descriptionCN": "激活强悍的能力，可以提高特定单位的速度、伤害、射程或恢复效果。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -28556,6 +28963,7 @@
           "baseId": "zhu-xis-library",
           "type": "building",
           "name": "Zhu Xi's Library",
+          "nameCN": "朱熹书院",
           "pbgid": 4927324,
           "attribName": "building_landmark_age3_library_chi_ha_01",
           "age": 3,
@@ -28563,6 +28971,7 @@
             "zx"
           ],
           "description": "Hosts a range of highly unique upgrades.\nCan unlock Yuan Raiders and Imperial Guards. Only 2 technologies can be researched.",
+          "descriptionCN": "提供一系列非常独特的升级。\n可解锁元朝掠夺者和皇宫卫兵。仅可研究 2 科技。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",

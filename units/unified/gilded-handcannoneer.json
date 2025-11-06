@@ -34,6 +34,7 @@
       "baseId": "gilded-handcannoneer",
       "type": "unit",
       "name": "Gilded Handcannoneer",
+      "nameCN": "镀金火枪兵",
       "pbgid": 6642514,
       "attribName": "unit_handcannon_4_hre_ha_01",
       "age": 4,
@@ -41,6 +42,7 @@
         "od"
       ],
       "description": "More powerful all-purpose ranged infantry with increased attack speed.\n+ High damage\n+ Increased attack speed\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+      "descriptionCN": "更为强大的全面型高攻速远程步兵。\n+ 高伤害\n+ 攻击速度提升\n- 高成本\n- 移动速度较慢\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

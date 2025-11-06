@@ -26,6 +26,7 @@
       "baseId": "ruinous-blinding",
       "type": "technology",
       "name": "Ruinous Blinding",
+      "nameCN": "毁灭致盲",
       "pbgid": 9002956,
       "attribName": "upgrade_varangian_bowmen_blinding_byz_ha_mac",
       "age": 2,
@@ -33,6 +34,7 @@
         "mac"
       ],
       "description": "Varangian Arsenals craft more lethal arrows, causing units hit by Bogmaðr to have their damage reduced by 20% for 5 seconds.",
+      "descriptionCN": "瓦兰吉兵工厂能制作更多致命的箭矢，可让波莫射中的单位 -20% 的伤害，持续 5 秒。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

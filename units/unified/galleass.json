@@ -32,6 +32,7 @@
       "baseId": "galleass",
       "type": "unit",
       "name": "Galleass",
+      "nameCN": "三桅战船",
       "pbgid": 193931,
       "attribName": "unit_naval_galleass_4_fre",
       "age": 3,
@@ -39,6 +40,7 @@
         "fr"
       ],
       "description": "Large oared vessel with a powerful forward mounted bombard.\n+ Long Range\n+ Anti-structure specialist",
+      "descriptionCN": "大型带桨船只，拥有一门强大的前置手推炮。\n+ 攻击范围长\n+ 反建筑专家",
       "classes": [
         "annihilation_condition",
         "massive",
@@ -119,6 +121,7 @@
       "baseId": "galleass",
       "type": "unit",
       "name": "Galleass",
+      "nameCN": "三桅战船",
       "pbgid": 193931,
       "attribName": "unit_naval_galleass_4_fre",
       "age": 3,
@@ -126,6 +129,7 @@
         "je"
       ],
       "description": "Large oared vessel with a powerful forward mounted bombard.\n+ Long Range\n+ Anti-structure specialist",
+      "descriptionCN": "大型带桨船只，拥有一门强大的前置手推炮。\n+ 攻击范围长\n+ 反建筑专家",
       "classes": [
         "annihilation_condition",
         "massive",

@@ -26,6 +26,7 @@
       "baseId": "siha-bow-limbs",
       "type": "technology",
       "name": "Siha Bow Limbs",
+      "nameCN": "西哈弓臂",
       "pbgid": 205553,
       "attribName": "upgrade_mangudai_weapon_damage_mon",
       "age": 4,
@@ -33,6 +34,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of Mangudai and the Khan by +1.",
+      "descriptionCN": "蒙古突骑和汗的远程伤害 +1。",
       "classes": [
         "mongol_upgrade",
         "scar_imperial_age_upgrade",

@@ -34,6 +34,7 @@
       "baseId": "wynguard-palace",
       "type": "building",
       "name": "Wynguard Palace",
+      "nameCN": "温嘉德宫殿",
       "pbgid": 166276,
       "attribName": "building_landmark_age3_whitehall_palace_eng",
       "age": 3,
@@ -41,6 +42,7 @@
         "en"
       ],
       "description": "Allows production of 4 battalions: Wynguard Army, Wynguard Rangers, Wynguard Raiders, and Wynguard Footmen.",
+      "descriptionCN": "可以生产 4 个营队：温嘉德军队、温嘉德长弓兵、温嘉德掠夺者和温嘉德步兵。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -97,6 +99,7 @@
       "baseId": "wynguard-palace",
       "type": "building",
       "name": "Wynguard Palace",
+      "nameCN": "温嘉德宫殿",
       "pbgid": 5000044,
       "attribName": "building_landmark_age3_wynguard_lan",
       "age": 3,
@@ -104,6 +107,7 @@
         "hl"
       ],
       "description": "Allows the production of 4 battalions: Wynguard Army, Earl's Retinue, Garrison Command, and Gunpowder Contingent.",
+      "descriptionCN": "可以生产 4 个营队：温嘉德军队、伯爵侍从、驻扎命令和火药分遣队。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

@@ -28,6 +28,7 @@
       "baseId": "awl-pikes",
       "type": "technology",
       "name": "Awl Pikes",
+      "nameCN": "锥头枪",
       "pbgid": 9000690,
       "attribName": "upgrade_spear_horseman_damage_hre",
       "age": 2,
@@ -35,6 +36,7 @@
         "hr"
       ],
       "description": "Increase the damage of Spearmen and Horsemen by +2.",
+      "descriptionCN": "长矛兵和骑手的伤害 +2。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",

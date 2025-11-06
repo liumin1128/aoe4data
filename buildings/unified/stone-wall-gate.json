@@ -47,6 +47,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 199629,
       "attribName": "building_defense_wall_gate_abb",
       "age": 2,
@@ -54,6 +55,7 @@
         "ab"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -105,6 +107,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 4836399,
       "attribName": "building_defense_wall_gate_abb_ha_01",
       "age": 2,
@@ -112,6 +115,7 @@
         "ay"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -163,6 +167,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 5472991,
       "attribName": "building_defense_wall_gate_byz",
       "age": 2,
@@ -170,6 +175,7 @@
         "by"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -221,6 +227,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 144660,
       "attribName": "building_defense_wall_gate_chi",
       "age": 2,
@@ -228,6 +235,7 @@
         "ch"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -279,6 +287,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 135800,
       "attribName": "building_defense_wall_gate_sul",
       "age": 2,
@@ -286,6 +295,7 @@
         "de"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -342,6 +352,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 166252,
       "attribName": "building_defense_wall_gate_eng",
       "age": 2,
@@ -349,6 +360,7 @@
         "en"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -400,6 +412,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 132687,
       "attribName": "building_defense_wall_gate_fre",
       "age": 2,
@@ -407,6 +420,7 @@
         "fr"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -458,6 +472,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 134930,
       "attribName": "building_defense_wall_gate_hre",
       "age": 2,
@@ -465,6 +480,7 @@
         "hr"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -516,6 +532,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 5000033,
       "attribName": "building_defense_wall_gate_lan",
       "age": 2,
@@ -523,6 +540,7 @@
         "hl"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -574,6 +592,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 4253235,
       "attribName": "building_defense_wall_gate_jpn",
       "age": 2,
@@ -581,6 +600,7 @@
         "ja"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -632,6 +652,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 5960907,
       "attribName": "building_defense_wall_gate_fre_ha_01",
       "age": 2,
@@ -639,6 +660,7 @@
         "je"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -691,6 +713,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 5000222,
       "attribName": "building_defense_stone_wall_gate_tem",
       "age": 2,
@@ -698,6 +721,7 @@
         "kt"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -790,6 +814,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 9000927,
       "attribName": "building_defense_wall_gate_byz_ha_mac",
       "age": 2,
@@ -797,6 +822,7 @@
         "mac"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -848,6 +874,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 2739989,
       "attribName": "building_defense_wall_gate_mal",
       "age": 2,
@@ -855,6 +882,7 @@
         "ma"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -906,6 +934,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 2460499,
       "attribName": "building_defense_wall_gate_hre_ha_01",
       "age": 2,
@@ -913,6 +942,7 @@
         "od"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -964,6 +994,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 2034599,
       "attribName": "building_defense_wall_gate_ott",
       "age": 2,
@@ -971,6 +1002,7 @@
         "ot"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1022,6 +1054,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 133442,
       "attribName": "building_defense_wall_gate_rus",
       "age": 4,
@@ -1029,6 +1062,7 @@
         "ru"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1080,6 +1114,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 8362025,
       "attribName": "building_defense_wall_gate_jpn_ha_sen",
       "age": 2,
@@ -1087,6 +1122,7 @@
         "sen"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1138,6 +1174,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 3695373,
       "attribName": "building_defense_wall_gate_sul_ha_tug",
       "age": 2,
@@ -1145,6 +1182,7 @@
         "tug"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1196,6 +1234,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 3174473,
       "attribName": "building_defense_wall_gate_chi_ha_01",
       "age": 2,
@@ -1203,6 +1242,7 @@
         "zx"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",

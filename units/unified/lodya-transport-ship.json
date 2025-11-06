@@ -31,6 +31,7 @@
       "baseId": "lodya-transport-ship",
       "type": "unit",
       "name": "Lodya Transport Ship",
+      "nameCN": "罗德亚运输船",
       "pbgid": 193138,
       "attribName": "unit_naval_transport_ship_2_rus",
       "age": 2,
@@ -38,6 +39,7 @@
         "ru"
       ],
       "description": "Can be garrisoned by any unit and uses their sight range. Allows garrisoned units to be transport across water.\nThe Lodya can be converted to any other type of ship.",
+      "descriptionCN": "任何单位均可驻扎并可使用其视野范围。可将驻扎单位运过水域。\n罗德亚可以转换为任何其他船型。",
       "classes": [
         "annihilation_condition",
         "lodya_ship",

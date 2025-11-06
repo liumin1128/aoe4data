@@ -65,6 +65,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -72,6 +73,7 @@
         "ab"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -136,6 +138,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -143,6 +146,7 @@
         "ay"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -207,6 +211,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -214,6 +219,7 @@
         "by"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -278,6 +284,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -285,6 +292,7 @@
         "ch"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -349,6 +357,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101967,
       "attribName": "upgrade_naval_heated_shot_sul",
       "age": 4,
@@ -356,6 +365,7 @@
         "de"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -404,6 +414,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -411,6 +422,7 @@
         "en"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -475,6 +487,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -482,6 +495,7 @@
         "fr"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -546,6 +560,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -553,6 +568,7 @@
         "gol"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -617,6 +633,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -624,6 +641,7 @@
         "hr"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -688,6 +706,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -695,6 +714,7 @@
         "hl"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -759,6 +779,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -766,6 +787,7 @@
         "ja"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -830,6 +852,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -837,6 +860,7 @@
         "je"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -901,6 +925,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -908,6 +933,7 @@
         "kt"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -972,6 +998,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -979,6 +1006,7 @@
         "mac"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1043,6 +1071,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1050,6 +1079,7 @@
         "ma"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1114,6 +1144,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1121,6 +1152,7 @@
         "mo"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1185,6 +1217,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1192,6 +1225,7 @@
         "od"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1256,6 +1290,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1263,6 +1298,7 @@
         "ot"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1327,6 +1363,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1334,6 +1371,7 @@
         "ru"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1398,6 +1436,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1405,6 +1444,7 @@
         "sen"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1469,6 +1509,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 4192943,
       "attribName": "upgrade_naval_heated_shot_sul_ha_tug",
       "age": 4,
@@ -1476,6 +1517,7 @@
         "tug"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1524,6 +1566,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1531,6 +1574,7 @@
         "zx"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

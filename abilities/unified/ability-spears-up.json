@@ -18,6 +18,7 @@
       "baseId": "ability-spears-up",
       "type": "ability",
       "name": "Spears up!",
+      "nameCN": "举起长矛！",
       "pbgid": 2136639,
       "attribName": "jeanne_d_arc_rallying_call_spearmen_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne calls 2 Spearmen to her side. Awards 50 experience if activated on a Neutral Settlement or a friendly Keep or Landmark.",
+      "descriptionCN": "贞德在其身边召唤 2 名长矛兵。若激活位置为中立聚落、友军城堡或地标，则奖励 50 点经验值。",
       "classes": [],
       "displayClasses": [],
       "costs": {

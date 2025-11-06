@@ -33,6 +33,7 @@
       "baseId": "tughlaqabad-fort",
       "type": "building",
       "name": "Tughlaqabad Fort",
+      "nameCN": "腾格拉卡巴德堡垒",
       "pbgid": 7346646,
       "attribName": "building_defense_keep_control_sul_ha_tug",
       "age": 2,
@@ -40,6 +41,7 @@
         "tug"
       ],
       "description": "Heavy garrison and defensible position that can select a Governor bonus. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "重型驻军及防御地点，可选择总督加成。可进行武器升级。单位驻扎时可增加额外的攻击。",
       "classes": [
         "audio_production_landmark",
         "building",

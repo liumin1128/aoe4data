@@ -37,6 +37,7 @@
       "baseId": "ribauldequin",
       "type": "unit",
       "name": "Ribauldequin",
+      "nameCN": "风琴炮",
       "pbgid": 166410,
       "attribName": "unit_ribauldequin_4_eng",
       "age": 4,
@@ -44,6 +45,7 @@
         "en"
       ],
       "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -137,6 +139,7 @@
       "baseId": "ribauldequin",
       "type": "unit",
       "name": "Ribauldequin",
+      "nameCN": "风琴炮",
       "pbgid": 132291,
       "attribName": "unit_ribauldequin_4_fre",
       "age": 4,
@@ -144,6 +147,7 @@
         "fr"
       ],
       "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -234,6 +238,7 @@
       "baseId": "ribauldequin",
       "type": "unit",
       "name": "Ribauldequin",
+      "nameCN": "风琴炮",
       "pbgid": 2143534,
       "attribName": "unit_ribauldequin_4_jpn",
       "age": 4,
@@ -241,6 +246,7 @@
         "ja"
       ],
       "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -331,6 +337,7 @@
       "baseId": "ribauldequin",
       "type": "unit",
       "name": "Ribauldequin",
+      "nameCN": "风琴炮",
       "pbgid": 132291,
       "attribName": "unit_ribauldequin_4_fre",
       "age": 4,
@@ -338,6 +345,7 @@
         "je"
       ],
       "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -428,6 +436,7 @@
       "baseId": "ribauldequin",
       "type": "unit",
       "name": "Ribauldequin",
+      "nameCN": "风琴炮",
       "pbgid": 2046454,
       "attribName": "unit_ribauldequin_4_ott",
       "age": 4,
@@ -435,6 +444,7 @@
         "ot"
       ],
       "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "classes": [
         "annihilation_condition",
         "formational",

@@ -33,6 +33,7 @@
       "baseId": "sultanhani-trade-network",
       "type": "building",
       "name": "Sultanhani Trade Network",
+      "nameCN": "苏丹哈尼驿站贸易网络",
       "pbgid": 2055467,
       "attribName": "building_landmark_age1_han_caravanserai_ott",
       "age": 1,
@@ -40,6 +41,7 @@
         "ot"
       ],
       "description": "Acts as a Market. Comes with 3 Traders garrisoned and generates +24 Gold per minute for each one. Up to 10 Traders can be garrisoned.",
+      "descriptionCN": "可作为市场使用。自带 3 个商人驻守其中。每个驻守的商人每分钟会生产 +24 黄金。最多可驻守 10 个商人。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

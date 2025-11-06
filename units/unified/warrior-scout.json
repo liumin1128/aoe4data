@@ -37,6 +37,7 @@
       "baseId": "warrior-scout",
       "type": "unit",
       "name": "Warrior Scout",
+      "nameCN": "战士侦察兵",
       "pbgid": 2073403,
       "attribName": "unit_scout_2_mal",
       "age": 2,
@@ -44,6 +45,7 @@
         "ma"
       ],
       "description": "Fast cavalry effective at raiding, exploring the world, hunting wildlife, and herding Sheep.\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak in combat",
+      "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和放牧绵羊。\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -154,6 +156,7 @@
       "baseId": "warrior-scout",
       "type": "unit",
       "name": "Veteran Warrior Scout",
+      "nameCN": "老练战士侦察兵",
       "pbgid": 2073646,
       "attribName": "unit_scout_3_mal",
       "age": 3,
@@ -161,6 +164,7 @@
         "ma"
       ],
       "description": "Fast cavalry effective at raiding, exploring the world, hunting wildlife, and herding Sheep.\n+ Bonus damage vs ranged\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak in combat",
+      "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和牧羊。\n+ 对远程单位造成伤害加成\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -284,6 +288,7 @@
       "baseId": "warrior-scout",
       "type": "unit",
       "name": "Elite Warrior Scout",
+      "nameCN": "精锐战士侦察兵",
       "pbgid": 2073647,
       "attribName": "unit_scout_4_mal",
       "age": 4,
@@ -291,6 +296,7 @@
         "ma"
       ],
       "description": "Fast cavalry effective at raiding and fighting ranged units.\n+ Bonus damage vs ranged\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak vs melee units",
+      "descriptionCN": "行动快速的骑兵，擅长突袭和对抗远程单位。\n+ 对远程单位造成额外伤害 \n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 不擅对抗近战单位",
       "classes": [
         "annihilation_condition",
         "carrier",

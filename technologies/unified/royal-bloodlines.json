@@ -28,6 +28,7 @@
       "baseId": "royal-bloodlines",
       "type": "technology",
       "name": "Royal Bloodlines",
+      "nameCN": "皇室血统",
       "pbgid": 2035317,
       "attribName": "upgrade_landmark_cavalry_bloodline_fre",
       "age": 3,
@@ -35,6 +36,7 @@
         "fr"
       ],
       "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
+      "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
       "classes": [
         "french_upgrade",
         "scar_castle_age_upgrade",
@@ -81,6 +83,7 @@
       "baseId": "royal-bloodlines",
       "type": "technology",
       "name": "Royal Bloodlines",
+      "nameCN": "皇室血统",
       "pbgid": 134545,
       "attribName": "upgrade_cavalry_bloodline_fre",
       "age": 4,
@@ -88,6 +91,7 @@
         "fr"
       ],
       "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
+      "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
       "classes": [
         "french_upgrade",
         "scar_imperial_age_upgrade",
@@ -134,6 +138,7 @@
       "baseId": "royal-bloodlines",
       "type": "technology",
       "name": "Royal Bloodlines",
+      "nameCN": "皇室血统",
       "pbgid": 2035317,
       "attribName": "upgrade_landmark_cavalry_bloodline_fre",
       "age": 3,
@@ -141,6 +146,7 @@
         "je"
       ],
       "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
+      "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
       "classes": [
         "french_upgrade",
         "scar_castle_age_upgrade",
@@ -187,6 +193,7 @@
       "baseId": "royal-bloodlines",
       "type": "technology",
       "name": "Royal Bloodlines",
+      "nameCN": "皇室血统",
       "pbgid": 134545,
       "attribName": "upgrade_cavalry_bloodline_fre",
       "age": 4,
@@ -194,6 +201,7 @@
         "je"
       ],
       "description": "Fill the stables with the best stallions, increasing all cavalry health by +35%.",
+      "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
       "classes": [
         "french_upgrade",
         "scar_imperial_age_upgrade",

@@ -33,6 +33,7 @@
       "baseId": "light-junk",
       "type": "unit",
       "name": "Light Junk",
+      "nameCN": "轻型戎克船",
       "pbgid": 7052164,
       "attribName": "unit_naval_light_junk_2_mon_ha_gol",
       "age": 2,
@@ -40,6 +41,7 @@
         "gol"
       ],
       "description": "Light war vessel armed with a crew of archers.\n+ Increased maneuverability and speed.\n+ Benefits from ranged damage Blacksmith technology",
+      "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
       "classes": [
         "annihilation_condition",
         "archer_ship",
@@ -139,6 +141,7 @@
       "baseId": "light-junk",
       "type": "unit",
       "name": "Light Junk",
+      "nameCN": "轻型戎克船",
       "pbgid": 2033751,
       "attribName": "unit_naval_light_junk_2_mon",
       "age": 2,
@@ -146,6 +149,7 @@
         "mo"
       ],
       "description": "Light war vessel armed with a crew of archers.\n+ Increased maneuverability and speed.\n+ Benefits from ranged damage Blacksmith technology",
+      "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
       "classes": [
         "annihilation_condition",
         "archer_ship",

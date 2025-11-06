@@ -1371,7 +1371,9 @@
         }
       ],
       "baseId": "archer",
+      "nameCN": "步弓手",
       "age": 2,
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 30,
         "wood": 50,
@@ -1463,6 +1465,7 @@
         },
         "archer-3": {
           "name": "Veteran Archer",
+          "nameCN": "老练步弓手",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -1542,6 +1545,7 @@
         },
         "archer-4": {
           "name": "Elite Archer",
+          "nameCN": "精锐步弓手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1688,7 +1692,9 @@
         }
       ],
       "baseId": "baghlah",
+      "nameCN": "巴格拉战船",
       "age": 2,
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "costs": {
         "food": 110,
         "wood": 200,
@@ -2123,7 +2129,9 @@
         }
       ],
       "baseId": "battering-ram",
+      "nameCN": "攻城锤",
       "age": 1,
+      "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
       "costs": {
         "food": 0,
         "wood": 200,
@@ -2448,7 +2456,9 @@
         }
       ],
       "baseId": "camel-archer",
+      "nameCN": "骆驼射手",
       "age": 2,
+      "descriptionCN": "高机动性且耐久的远程单位。\n+对长矛兵有伤害加成\n-高成本",
       "costs": {
         "food": 170,
         "wood": 60,
@@ -2540,6 +2550,7 @@
         },
         "camel-archer-3": {
           "name": "Veteran Camel Archer",
+          "nameCN": "老练骆驼射手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/camel-archer-3.png",
           "hitpoints": 175,
@@ -2604,6 +2615,7 @@
         },
         "camel-archer-4": {
           "name": "Elite Camel Archer",
+          "nameCN": "精锐骆驼射手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/camel-archer-4.png",
           "hitpoints": 200,
@@ -2809,7 +2821,9 @@
         }
       ],
       "baseId": "camel-rider",
+      "nameCN": "骆驼骑兵",
       "age": 3,
+      "descriptionCN": "高机动性且耐久的近战单位，擅长对付各类骑兵。\n+ 对骑兵有伤害加成\n+ 可使敌方骑兵造成的伤害降低\n- 高成本",
       "costs": {
         "food": 130,
         "wood": 45,
@@ -2920,6 +2934,7 @@
         },
         "camel-rider-4": {
           "name": "Elite Camel Rider",
+          "nameCN": "精锐骆驼骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/camel-rider-4.png",
           "hitpoints": 320,
@@ -3558,7 +3573,9 @@
         }
       ],
       "baseId": "counterweight-trebuchet",
+      "nameCN": "配重式巨型投石机",
       "age": 3,
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "costs": {
         "food": 0,
         "wood": 400,
@@ -4316,7 +4333,9 @@
         }
       ],
       "baseId": "crossbowman",
+      "nameCN": "弩手",
       "age": 3,
+      "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -4391,6 +4410,7 @@
         },
         "crossbowman-4": {
           "name": "Elite Crossbowman",
+          "nameCN": "精锐弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -4527,7 +4547,9 @@
         }
       ],
       "baseId": "culverin",
+      "nameCN": "长管炮",
       "age": 4,
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "costs": {
         "food": 0,
         "wood": 325,
@@ -4717,7 +4739,9 @@
         }
       ],
       "baseId": "dhow",
+      "nameCN": "阿拉伯帆船",
       "age": 2,
+      "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
       "costs": {
         "food": 80,
         "wood": 150,
@@ -4861,7 +4885,9 @@
         }
       ],
       "baseId": "explosive-dhow",
+      "nameCN": "爆破型阿拉伯帆船",
       "age": 2,
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "costs": {
         "food": 0,
         "wood": 80,
@@ -5049,6 +5075,7 @@
             "de"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n+ Fires a low damage arrow",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n+ 可射出一支伤害较低的箭矢",
           "classes": [
             "annihilation_condition",
             "fishing_ship_attack_sul",
@@ -5275,6 +5302,7 @@
             "tug"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n+ Fires a low damage arrow",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n+ 可射出一支伤害较低的箭矢",
           "classes": [
             "annihilation_condition",
             "fishing_ship_attack_sul",
@@ -5339,7 +5367,9 @@
         }
       ],
       "baseId": "fishing-boat",
+      "nameCN": "渔船",
       "age": 1,
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "costs": {
         "food": 0,
         "wood": 75,
@@ -5441,6 +5471,7 @@
             "by"
           ],
           "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Can build Mangonels and Springalds on the field without requiring Siege Engineers\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nRequires the Eastern Mercenary Contract.",
+          "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -5504,6 +5535,7 @@
             "by"
           ],
           "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Can build Mangonels and Springalds on the field without requiring Siege Engineers\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nRequires the Eastern Mercenary Contract.",
+          "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -5545,7 +5577,9 @@
         }
       ],
       "baseId": "ghulam",
+      "nameCN": "古拉姆",
       "age": 3,
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -5638,6 +5672,7 @@
         },
         "ghulam-4": {
           "name": "Elite Ghulam",
+          "nameCN": "精锐古拉姆",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/ghulam-4.png",
           "hitpoints": 225,
@@ -5863,6 +5898,7 @@
         {
           "id": "handcannoneer-4",
           "name": "Early Handcannoneer",
+          "nameCN": "早期火枪兵",
           "pbgid": 9001958,
           "attribName": "unit_handcannon_3_lan_college",
           "civs": [
@@ -5955,7 +5991,9 @@
         }
       ],
       "baseId": "handcannoneer",
+      "nameCN": "火枪兵",
       "age": 4,
+      "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -7233,7 +7271,9 @@
         }
       ],
       "baseId": "horseman",
+      "nameCN": "早期骑手",
       "age": 1,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 100,
         "wood": 20,
@@ -7365,6 +7405,7 @@
         },
         "horseman-2": {
           "name": "Horseman",
+          "nameCN": "骑手",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/horseman-2.png",
           "hitpoints": 125,
@@ -7453,6 +7494,7 @@
         },
         "horseman-3": {
           "name": "Veteran Horseman",
+          "nameCN": "老练骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/horseman-3.png",
           "hitpoints": 155,
@@ -7541,6 +7583,7 @@
         },
         "horseman-4": {
           "name": "Elite Horseman",
+          "nameCN": "精锐骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/horseman-4.png",
           "hitpoints": 180,
@@ -7694,7 +7737,9 @@
         }
       ],
       "baseId": "imam",
+      "nameCN": "伊玛目",
       "age": 2,
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8388,7 +8433,9 @@
         }
       ],
       "baseId": "lancer",
+      "nameCN": "长矛骑兵",
       "age": 3,
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -8481,6 +8528,7 @@
         },
         "lancer-4": {
           "name": "Elite Lancer",
+          "nameCN": "精锐长矛骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/lancer-4.png",
           "hitpoints": 270,
@@ -9345,7 +9393,9 @@
         }
       ],
       "baseId": "mangonel",
+      "nameCN": "轻型投石车",
       "age": 3,
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "costs": {
         "food": 0,
         "wood": 400,
@@ -10063,12 +10113,14 @@
         {
           "id": "scout-1",
           "name": "Vanguard Scout",
+          "nameCN": "先锋侦察兵",
           "pbgid": 2236148,
           "attribName": "unit_scout_1_mal",
           "civs": [
             "ma"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 生命值恢复\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -10377,7 +10429,9 @@
         }
       ],
       "baseId": "scout",
+      "nameCN": "侦察兵",
       "age": 1,
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "costs": {
         "food": 65,
         "wood": 0,
@@ -13422,7 +13476,9 @@
         }
       ],
       "baseId": "spearman",
+      "nameCN": "长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 60,
         "wood": 20,
@@ -13534,6 +13590,7 @@
         },
         "spearman-2": {
           "name": "Hardened Spearman",
+          "nameCN": "坚韧长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/spearman-2.png",
           "hitpoints": 90,
@@ -13618,6 +13675,7 @@
         },
         "spearman-3": {
           "name": "Veteran Spearman",
+          "nameCN": "老练长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/spearman-3.png",
           "hitpoints": 110,
@@ -13702,6 +13760,7 @@
         },
         "spearman-4": {
           "name": "Elite Spearman",
+          "nameCN": "精锐长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/spearman-4.png",
           "hitpoints": 130,
@@ -14299,7 +14358,9 @@
         }
       ],
       "baseId": "springald",
+      "nameCN": "扭力弩炮",
       "age": 3,
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "costs": {
         "food": 0,
         "wood": 150,
@@ -14438,7 +14499,9 @@
         }
       ],
       "baseId": "trade-caravan",
+      "nameCN": "贸易商队",
       "age": 2,
+      "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
       "costs": {
         "food": 0,
         "wood": 40,
@@ -14714,7 +14777,9 @@
         }
       ],
       "baseId": "trade-ship",
+      "nameCN": "商船",
       "age": 2,
+      "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -14954,6 +15019,7 @@
             "ma"
           ],
           "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Attacks with javelins for each unit garrisoned\n+ Uses sight range of units in garrison",
+          "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 每驻扎一个单位，就用标枪攻击一次。\n+ 使用驻扎于其中的单位的视野范围",
           "weapons": [
             {
               "name": "Javelin",
@@ -15050,7 +15116,9 @@
         }
       ],
       "baseId": "transport-ship",
+      "nameCN": "运输船",
       "age": 1,
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "costs": {
         "food": 0,
         "wood": 100,
@@ -15235,6 +15303,7 @@
             "en"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n+ Uses a bow to attack\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n+ 使用弓箭攻击\n- 战斗能力弱",
           "producedBy": [
             "capital-town-center",
             "kings-palace",
@@ -15316,6 +15385,7 @@
             "gol"
           ],
           "description": "Gathers Wood, Food, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat\n- Unable to gather Stone (build an Ovoo to gather Stone)",
+          "descriptionCN": "采集木材、食物和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 不擅近战\n- 无法采集石料 (可建造一个敖包来采集石料)",
           "costs": {
             "food": 50,
             "wood": 0,
@@ -15349,6 +15419,7 @@
             "hl"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n+ Uses a bow to attack\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n+ 使用弓箭攻击\n- 战斗能力弱",
           "weapons": [
             {
               "name": "Bow",
@@ -15405,7 +15476,8 @@
           "civs": [
             "ja"
           ],
-          "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced."
+          "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced.",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。"
         },
         {
           "id": "villager-1",
@@ -15446,7 +15518,8 @@
           "civs": [
             "mo"
           ],
-          "description": "Gathers Wood, Food, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat\n- Unable to gather Stone (build an Ovoo to gather Stone)"
+          "description": "Gathers Wood, Food, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat\n- Unable to gather Stone (build an Ovoo to gather Stone)",
+          "descriptionCN": "采集木材、食物和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 不擅近战\n- 无法采集石料 (可建造一个敖包来采集石料)"
         },
         {
           "id": "villager-1",
@@ -15471,7 +15544,8 @@
           "civs": [
             "sen"
           ],
-          "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced."
+          "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced.",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。"
         },
         {
           "id": "villager-1",
@@ -15491,7 +15565,9 @@
         }
       ],
       "baseId": "villager",
+      "nameCN": "村民",
       "age": 1,
+      "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 战斗能力弱",
       "costs": {
         "food": 50,
         "wood": 0,
@@ -15655,7 +15731,9 @@
         }
       ],
       "baseId": "xebec",
+      "nameCN": "三桅帆船",
       "age": 4,
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "costs": {
         "food": 200,
         "wood": 200,
@@ -15763,6 +15841,7 @@
           "baseId": "atabeg",
           "type": "unit",
           "name": "Atabeg",
+          "nameCN": "阿塔贝格",
           "pbgid": 2144832,
           "attribName": "unit_trade_camel_abb_ha_01",
           "age": 1,
@@ -15770,6 +15849,7 @@
             "ay"
           ],
           "description": "Can be garrisoned into any military production building to grant +20% health to newly trained units.",
+          "descriptionCN": "可驻扎于任意军事生产建筑中，使新训练的单位生命值 +20%。",
           "classes": [
             "annihilation_condition",
             "camel",
@@ -15852,6 +15932,7 @@
           "baseId": "bedouin-skirmisher",
           "type": "unit",
           "name": "Bedouin Skirmisher",
+          "nameCN": "贝都因掷矛手",
           "pbgid": 2146020,
           "attribName": "unit_javelin_2_abb_ha_01",
           "age": 2,
@@ -15859,6 +15940,7 @@
             "ay"
           ],
           "description": "Ranged infantry wielding a javelin to fend off lightly armored enemies.\n+ Bonus against light infantry\n+ Long Range\n- Weak against cavalry\n\nRequires the Trade Wing - Bazaar",
+          "descriptionCN": "使用标枪来抵御轻型装甲敌人的远程步兵。\n+ 对抗轻型步兵时可获得加成\n+ 长距离\n- 不擅长对付骑兵",
           "classes": [
             "annihilation_condition",
             "bedouin_ranged",
@@ -16017,6 +16099,7 @@
           "baseId": "bedouin-swordsman",
           "type": "unit",
           "name": "Bedouin Swordsman",
+          "nameCN": "贝都因剑士",
           "pbgid": 2146044,
           "attribName": "unit_pirate_abb_ha_01",
           "age": 1,
@@ -16024,6 +16107,7 @@
             "ay"
           ],
           "description": "Master Swordsman who excels in melee combat\n+ Bonus vs Melee units\n- Weak to ranged units\n\nRequires the Trade Wing - Bazaar",
+          "descriptionCN": "擅长近战的剑士大师\n+ 对抗近战单位时可获得加成\n- 不擅长对付远程单位",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -16192,7 +16276,9 @@
         }
       ],
       "baseId": "camel-lancer",
+      "nameCN": "骆驼长矛骑兵",
       "age": 3,
+      "descriptionCN": "机动性更高的长矛骑兵，可发起更有力的冲锋，但近战攻击较弱。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 130,
         "wood": 0,
@@ -16308,6 +16394,7 @@
         },
         "camel-lancer-4": {
           "name": "Elite Camel Lancer",
+          "nameCN": "精锐骆驼长矛骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/camel-lancer-4.png",
           "hitpoints": 245,
@@ -16427,6 +16514,7 @@
           "baseId": "dervish",
           "type": "unit",
           "name": "Dervish",
+          "nameCN": "德尔维希",
           "pbgid": 2528652,
           "attribName": "unit_monk_3_cambulance_abb_ha_01",
           "age": 2,
@@ -16434,6 +16522,7 @@
             "ay"
           ],
           "description": "Mounted Religious unit. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Uses a powerful Mass Heal ability to heal friendly units in an area.\n+ Gains increased Healing when carrying a relic.\n+ High speed.",
+          "descriptionCN": "骑马的宗教单位。可拾取圣物、招降敌方单位以及占领圣地。\n+ 可使用强力的群体治疗能力来治疗区域内的友方单位。\n+ 携带圣物时治疗效果提升。\n+ 速度快。",
           "classes": [
             "annihilation_condition",
             "cambulance",
@@ -16680,7 +16769,9 @@
         }
       ],
       "baseId": "desert-raider",
+      "nameCN": "沙漠掠夺者",
       "age": 2,
+      "descriptionCN": "可切换远程和近战攻击的全面型骑兵单位。\n+ 远程模式擅长对付轻型步兵\n+ 近战模式擅长对付骑兵\n- 高成本\n- 不擅长对付远程单位",
       "costs": {
         "food": 80,
         "wood": 50,
@@ -16807,6 +16898,7 @@
         },
         "desert-raider-3": {
           "name": "Veteran Desert Raider",
+          "nameCN": "老练沙漠掠夺者",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/desert-raider-3.png",
           "hitpoints": 145,
@@ -16905,6 +16997,7 @@
         },
         "desert-raider-4": {
           "name": "Elite Desert Raider",
+          "nameCN": "精锐沙漠掠夺者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/desert-raider-4.png",
           "hitpoints": 175,
@@ -17034,6 +17127,7 @@
           "baseId": "manjaniq",
           "type": "unit",
           "name": "Manjaniq",
+          "nameCN": "投石机",
           "pbgid": 2890619,
           "attribName": "unit_mangonel_3_abb_ha_01",
           "age": 3,
@@ -17041,6 +17135,7 @@
             "ay"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n+ Can use Incendiary projectiles for devastating area damage\n - Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹，对范围区域造成伤害。\n+ 擅长对付成群的单位\n+ 可以使用燃烧的炮弹来造成毁灭性的区域伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -17315,6 +17410,7 @@
           "baseId": "tower-of-the-sultan",
           "type": "unit",
           "name": "Tower of the Sultan",
+          "nameCN": "苏丹之塔",
           "pbgid": 2141356,
           "attribName": "unit_ram_tower_3_abb_ha_01",
           "age": 3,
@@ -17322,6 +17418,7 @@
             "ay"
           ],
           "description": "Massive infantry transport effective against buildings and walls. Move speed increases for each unit garrisoned inside.\n+ Fires arrows\n+ High ranged armor\n+ High health\n- Slow move speed when empty",
+          "descriptionCN": "巨大的步兵运输工具，擅长对付建筑和城墙。每多驻扎一个单位，移动速度都会增加。\n+ 发射箭矢\n+ 高远程护甲\n+ 高生命值\n- 空载时移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -17592,7 +17689,9 @@
         }
       ],
       "baseId": "arbaletrier",
+      "nameCN": "弓弩手",
       "age": 3,
+      "descriptionCN": "配备了防御型大盾的高伤害远程单位。最适合在有友军协助时使用。\n+ 反重型专家\n+ 自带近战护甲\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -17672,6 +17771,7 @@
         },
         "arbaletrier-4": {
           "name": "Elite Arbalétrier",
+          "nameCN": "精锐弓弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -18135,7 +18235,9 @@
         }
       ],
       "baseId": "bombard",
+      "nameCN": "手推炮",
       "age": 4,
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "costs": {
         "food": 0,
         "wood": 350,
@@ -18405,7 +18507,9 @@
         }
       ],
       "baseId": "carrack",
+      "nameCN": "大帆船",
       "age": 4,
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "costs": {
         "food": 200,
         "wood": 200,
@@ -18541,6 +18645,7 @@
             "mac"
           ],
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "costs": {
             "food": 0,
             "wood": 0,
@@ -18558,7 +18663,9 @@
         }
       ],
       "baseId": "cataphract",
+      "nameCN": "甲胄骑兵",
       "age": 3,
+      "descriptionCN": "成本高昂的骑兵，伤害较高，还具备强大的践踏能力，可以冲锋穿过敌人。\n+ 重型护甲\n+ 践踏可造成范围伤害\n- 不具备基础冲锋攻击能力\n- 移动速度较慢\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 180,
         "wood": 0,
@@ -18676,6 +18783,7 @@
         },
         "cataphract-4": {
           "name": "Elite Cataphract",
+          "nameCN": "精锐甲胄骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/cataphract-4.png",
           "hitpoints": 405,
@@ -18813,7 +18921,9 @@
         }
       ],
       "baseId": "cheirosiphon",
+      "nameCN": "基耶罗喷火筒",
       "age": 3,
+      "descriptionCN": "耐久的步兵运输工具，配备了希腊之火，擅长对付建筑和城墙。\n+ 希腊之火可持续在地面上燃烧\n+ 高远程护甲\n+ 高生命值\n- 只能攻击建筑\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 200,
@@ -19044,7 +19154,9 @@
         }
       ],
       "baseId": "demolition-ship",
+      "nameCN": "爆破船",
       "age": 2,
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "costs": {
         "food": 0,
         "wood": 80,
@@ -19176,7 +19288,9 @@
         }
       ],
       "baseId": "dromon",
+      "nameCN": "德罗蒙战舰",
       "age": 2,
+      "descriptionCN": "装备了火焰发射器的军事船只，可以升级以使用希腊之火。\n+ 擅长对付箭船\n- 武器射程较近\n- 会受到爆破船克制",
       "costs": {
         "food": 100,
         "wood": 200,
@@ -19378,7 +19492,9 @@
         }
       ],
       "baseId": "galley",
+      "nameCN": "箭船",
       "age": 2,
+      "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
       "costs": {
         "food": 80,
         "wood": 150,
@@ -19563,7 +19679,9 @@
         }
       ],
       "baseId": "grenadier",
+      "nameCN": "早期掷弹兵",
       "age": 3,
+      "descriptionCN": "使用震天雷的高级远程步兵，可造成小范围伤害。\n+ 可造成范围伤害\n - 对单一目标造成的伤害较低\n - 移动速度较慢",
       "costs": {
         "food": 100,
         "wood": 60,
@@ -19638,6 +19756,7 @@
         },
         "grenadier-4": {
           "name": "Grenadier",
+          "nameCN": "掷弹兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/grenadier-4.png",
           "hitpoints": 150,
@@ -19813,7 +19932,9 @@
         }
       ],
       "baseId": "horse-archer",
+      "nameCN": "骑射手",
       "age": 3,
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -19879,6 +20000,7 @@
         },
         "horse-archer-4": {
           "name": "Elite Horse Archer",
+          "nameCN": "精锐骑射手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -20061,7 +20183,9 @@
         }
       ],
       "baseId": "huihui-pao",
+      "nameCN": "回回炮",
       "age": 4,
+      "descriptionCN": "巨大的攻城器械，攻击范围非常远，特别擅长摧毁建筑物和城墙。\n+ 攻击范围极长\n- 必须架设才能开火",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -20370,7 +20494,9 @@
         }
       ],
       "baseId": "javelin-thrower",
+      "nameCN": "掷枪兵",
       "age": 2,
+      "descriptionCN": "远程步兵擅长对抗其他远程单位。\n+ 反远程专家\n+武器射程增加\n+ 自带远程护甲\n- 低生命值\n- 会受到骑手克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -20474,6 +20600,7 @@
         },
         "javelin-thrower-3": {
           "name": "Veteran Javelin Thrower",
+          "nameCN": "老练掷枪兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/javelin-thrower-3.png",
           "hitpoints": 80,
@@ -20549,6 +20676,7 @@
         },
         "javelin-thrower-4": {
           "name": "Elite Javelin Thrower",
+          "nameCN": "精锐掷枪兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/javelin-thrower-4.png",
           "hitpoints": 95,
@@ -20895,7 +21023,9 @@
         }
       ],
       "baseId": "keshik",
+      "nameCN": "怯薛骑兵",
       "age": 2,
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -21012,6 +21142,7 @@
         },
         "keshik-3": {
           "name": "Veteran Keshik",
+          "nameCN": "老练怯薛骑兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/keshik-3.png",
           "hitpoints": 175,
@@ -21100,6 +21231,7 @@
         },
         "keshik-4": {
           "name": "Elite Keshik",
+          "nameCN": "精锐怯薛骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/keshik-4.png",
           "hitpoints": 210,
@@ -21316,7 +21448,9 @@
         }
       ],
       "baseId": "landsknecht",
+      "nameCN": "国土佣仆",
       "age": 3,
+      "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -21405,6 +21539,7 @@
         },
         "landsknecht-4": {
           "name": "Elite Landsknecht",
+          "nameCN": "精锐国土佣仆",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/landsknecht-4.png",
           "hitpoints": 100,
@@ -21526,7 +21661,9 @@
         }
       ],
       "baseId": "limitanei",
+      "nameCN": "边防军",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵的步兵。可进入盾墙以减少远程伤害。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n+ 生命值增加\n- 盾墙会降低移动速度\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 80,
         "wood": 10,
@@ -21639,6 +21776,7 @@
         },
         "limitanei-2": {
           "name": "Hardened Limitanei",
+          "nameCN": "坚韧边防军",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/limitanei-2.png",
           "hitpoints": 100,
@@ -21723,6 +21861,7 @@
         },
         "limitanei-3": {
           "name": "Veteran Limitanei",
+          "nameCN": "老练边防军",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/limitanei-3.png",
           "hitpoints": 120,
@@ -21807,6 +21946,7 @@
         },
         "limitanei-4": {
           "name": "Elite Limitanei",
+          "nameCN": "精锐边防军",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/limitanei-4.png",
           "hitpoints": 140,
@@ -22075,7 +22215,9 @@
         }
       ],
       "baseId": "longbowman",
+      "nameCN": "长弓兵",
       "age": 2,
+      "descriptionCN": "便宜的远程步兵，能对没有护甲的目标造成可观伤害。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -22171,6 +22313,7 @@
         },
         "longbowman-3": {
           "name": "Veteran Longbowman",
+          "nameCN": "老练长弓兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/longbowman-3.png",
           "hitpoints": 80,
@@ -22235,6 +22378,7 @@
         },
         "longbowman-4": {
           "name": "Elite Longbowman",
+          "nameCN": "精锐长弓兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/longbowman-4.png",
           "hitpoints": 95,
@@ -22474,7 +22618,9 @@
         }
       ],
       "baseId": "mangudai",
+      "nameCN": "蒙古突骑",
       "age": 2,
+      "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -22553,6 +22699,7 @@
         },
         "mangudai-3": {
           "name": "Veteran Mangudai",
+          "nameCN": "老练蒙古突骑",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/mangudai-3.png",
           "hitpoints": 105,
@@ -22586,6 +22733,7 @@
         },
         "mangudai-4": {
           "name": "Elite Mangudai",
+          "nameCN": "精锐蒙古突骑",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mangudai-4.png",
           "hitpoints": 120,
@@ -22662,6 +22810,7 @@
             "by"
           ],
           "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Slow movement speed",
+          "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
           "producedBy": [
             "grand-winery",
             "monastery"
@@ -22737,7 +22886,9 @@
         }
       ],
       "baseId": "monk",
+      "nameCN": "僧侣",
       "age": 3,
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -22952,7 +23103,9 @@
         }
       ],
       "baseId": "musofadi-warrior",
+      "nameCN": "穆索法迪战士",
       "age": 2,
+      "descriptionCN": "擅长伏击和克制重型目标的步兵。\n+ 可以进入匿踪状态\n+ 反重型专家\n- 生命值低\n- 会受到弓兵克制\n- 首都城镇中心、哨站和侦察兵可以识破匿踪",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -23069,6 +23222,7 @@
         },
         "musofadi-warrior-3": {
           "name": "Veteran Musofadi Warrior",
+          "nameCN": "老练穆索法迪战士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/musofadi-warrior-3.png",
           "hitpoints": 115,
@@ -23139,6 +23293,7 @@
         },
         "musofadi-warrior-4": {
           "name": "Elite Musofadi Warrior",
+          "nameCN": "精锐穆索法迪战士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/musofadi-warrior-4.png",
           "hitpoints": 140,
@@ -23332,7 +23487,9 @@
         }
       ],
       "baseId": "nest-of-bees",
+      "nameCN": "一窝蜂",
       "age": 3,
+      "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -23492,7 +23649,9 @@
         }
       ],
       "baseId": "royal-cannon",
+      "nameCN": "皇家加农炮",
       "age": 3,
+      "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
       "costs": {
         "food": 0,
         "wood": 300,
@@ -23949,7 +24108,9 @@
         }
       ],
       "baseId": "royal-knight",
+      "nameCN": "皇家骑士",
       "age": 2,
+      "descriptionCN": "在冲锋后的 5 秒内获得伤害加成。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -24043,6 +24204,7 @@
         },
         "royal-knight-3": {
           "name": "Veteran Royal Knight",
+          "nameCN": "老练皇家骑士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/royal-knight-3.png",
           "hitpoints": 230,
@@ -24108,6 +24270,7 @@
         },
         "royal-knight-4": {
           "name": "Elite Royal Knight",
+          "nameCN": "精锐皇家骑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/royal-knight-4.png",
           "hitpoints": 270,
@@ -24546,7 +24709,9 @@
         }
       ],
       "baseId": "siege-tower",
+      "nameCN": "攻城塔",
       "age": 2,
+      "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 125,
@@ -24773,7 +24938,9 @@
         }
       ],
       "baseId": "sipahi",
+      "nameCN": "西帕希骑兵",
       "age": 2,
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -24893,6 +25060,7 @@
         },
         "sipahi-3": {
           "name": "Veteran Sipahi",
+          "nameCN": "老练西帕希骑兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/sipahi-3.png",
           "hitpoints": 185,
@@ -24981,6 +25149,7 @@
         },
         "sipahi-4": {
           "name": "Elite Sipahi",
+          "nameCN": "精锐西帕希骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/sipahi-4.png",
           "hitpoints": 220,
@@ -25148,7 +25317,9 @@
         }
       ],
       "baseId": "streltsy",
+      "nameCN": "射击军",
       "age": 4,
+      "descriptionCN": "最强大的远程步兵，还拥有不错的近战能力。静止不动时可提高射速。\n+ 高伤害\n+ 成本低于火枪兵\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -25262,7 +25433,9 @@
         }
       ],
       "baseId": "tower-elephant",
+      "nameCN": "箭塔象",
       "age": 3,
+      "descriptionCN": "强大的远程骑兵，移动时也可进行射击。\n+ 高生命值\n+ 背上有强大的步弓手\n+ 可以攻击石墙\n- 移动速度较慢",
       "costs": {
         "food": 400,
         "wood": 0,
@@ -25769,7 +25942,9 @@
         }
       ],
       "baseId": "trader",
+      "nameCN": "商人",
       "age": 1,
+      "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
       "costs": {
         "food": 0,
         "wood": 60,
@@ -26195,7 +26370,9 @@
         }
       ],
       "baseId": "varangian-guard",
+      "nameCN": "早期瓦兰吉卫队",
       "age": 2,
+      "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
       "costs": {
         "food": 90,
         "wood": 0,
@@ -26392,6 +26569,7 @@
         },
         "varangian-guard-3": {
           "name": "Varangian Guard",
+          "nameCN": "瓦兰吉卫队",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/varangian-guard-3.png",
           "hitpoints": 140,
@@ -26480,6 +26658,7 @@
         },
         "varangian-guard-4": {
           "name": "Elite Varangian Guard",
+          "nameCN": "精英瓦兰吉卫队",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/varangian-guard-4.png",
           "hitpoints": 195,
@@ -26665,6 +26844,7 @@
             "tug"
           ],
           "description": "Heavy cavalry effective against cavalry, siege engines, walls, and buildings. Can use the Trample ability to bypass any unit to deal damage in an area.\n+ High health and armor\n+ Mounted with an advanced Spearman\n+ Capable of attacking Stone Walls\n- Slow movement speed",
+          "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。可以使用践踏能力绕过任何单位来造成范围伤害。\n+ 高生命值和护甲\n+ 配备高级长矛兵\n+ 能够攻击石墙\n- 移动速度缓慢",
           "costs": {
             "food": 400,
             "wood": 0,
@@ -26769,7 +26949,9 @@
         }
       ],
       "baseId": "war-elephant",
+      "nameCN": "战象",
       "age": 3,
+      "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。\n+ 高生命值、高护甲\n+ 背上有一名高级长矛兵\n+ 可以攻击石墙\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -27135,7 +27317,9 @@
         }
       ],
       "baseId": "zhuge-nu",
+      "nameCN": "诸葛弩手",
       "age": 2,
+      "descriptionCN": "向敌方单位发射具有巨大伤害潜力的箭矢。\n+ 射速高\n- 对高远程护甲单位无效\n- 会受到骑手克制",
       "costs": {
         "food": 30,
         "wood": 30,
@@ -27200,6 +27384,7 @@
         },
         "zhuge-nu-3": {
           "name": "Veteran Zhuge Nu",
+          "nameCN": "老练诸葛弩手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/zhuge-nu-3.png",
           "hitpoints": 80,
@@ -27236,6 +27421,7 @@
         },
         "zhuge-nu-4": {
           "name": "Elite Zhuge Nu",
+          "nameCN": "精锐诸葛弩手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/zhuge-nu-4.png",
           "hitpoints": 95,
@@ -27369,7 +27555,9 @@
         }
       ],
       "baseId": "baochuan",
+      "nameCN": "宝船",
       "age": 4,
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "costs": {
         "food": 200,
         "wood": 200,
@@ -27479,6 +27667,7 @@
           "baseId": "clocktower-battering-ram",
           "type": "unit",
           "name": "Clocktower Battering Ram",
+          "nameCN": "钟楼攻城锤",
           "pbgid": 2120982,
           "attribName": "unit_ram_3_clocktower_chi",
           "age": 3,
@@ -27486,6 +27675,7 @@
             "ch"
           ],
           "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+          "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "elite",
@@ -27622,6 +27812,7 @@
           "baseId": "clocktower-bombard",
           "type": "unit",
           "name": "Clocktower Bombard",
+          "nameCN": "钟楼手推炮",
           "pbgid": 206825,
           "attribName": "unit_bombard_4_clocktower_chi",
           "age": 4,
@@ -27629,6 +27820,7 @@
             "ch"
           ],
           "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+          "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "bombard",
@@ -27797,6 +27989,7 @@
           "baseId": "clocktower-counterweight-trebuchet",
           "type": "unit",
           "name": "Clocktower Counterweight Trebuchet",
+          "nameCN": "钟楼配重式巨型投石机",
           "pbgid": 2034340,
           "attribName": "unit_trebuchet_4_cw_clocktower_chi",
           "age": 3,
@@ -27804,6 +27997,7 @@
             "ch"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -27945,6 +28139,7 @@
           "baseId": "clocktower-nest-of-bees",
           "type": "unit",
           "name": "Clocktower Nest of Bees",
+          "nameCN": "钟楼一窝蜂",
           "pbgid": 206827,
           "attribName": "unit_nest_of_bees_4_clocktower_chi",
           "age": 3,
@@ -27952,6 +28147,7 @@
             "ch"
           ],
           "description": "Innovative field weapon capable of firing a barrage of rockets to damage defensive positions and clumped enemy troops.\n+ Good area of effect damage against most targets\n- Slowest movement speed\n- Weak if surrounded",
+          "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
           "classes": [
             "annihilation_condition",
             "elite",
@@ -28095,6 +28291,7 @@
           "baseId": "clocktower-springald",
           "type": "unit",
           "name": "Clocktower Springald",
+          "nameCN": "钟楼扭力弩炮",
           "pbgid": 206828,
           "attribName": "unit_springald_3_clocktower_chi",
           "age": 3,
@@ -28102,6 +28299,7 @@
             "ch"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "elite",
@@ -28309,7 +28507,9 @@
         }
       ],
       "baseId": "explosive-junk",
+      "nameCN": "爆破型戎克船",
       "age": 2,
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "costs": {
         "food": 0,
         "wood": 80,
@@ -28441,7 +28641,9 @@
         }
       ],
       "baseId": "fire-lancer",
+      "nameCN": "火长矛骑兵",
       "age": 3,
+      "descriptionCN": "手持带炸药长矛的骑兵。\n+ 冲锋可造成范围伤害\n+ 擅长突袭建筑和攻城器械\n+ 精良的远程护甲\n- 不擅近战\n- 会受到长矛兵克制",
       "costs": {
         "food": 120,
         "wood": 20,
@@ -28581,6 +28783,7 @@
         },
         "fire-lancer-4": {
           "name": "Elite Fire Lancer",
+          "nameCN": "精锐火长矛骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/fire-lancer-4.png",
           "hitpoints": 180,
@@ -28755,7 +28958,9 @@
         }
       ],
       "baseId": "imperial-official",
+      "nameCN": "朝廷命官",
       "age": 1,
+      "descriptionCN": "不具备战斗能力的经济辅助单位。可自动从建筑中收税 (黄金)。\n+ 可用来提升建筑的效率\n- 同一时间只能存在一定数量的命官",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -28864,7 +29069,9 @@
         }
       ],
       "baseId": "junk",
+      "nameCN": "戎克船",
       "age": 2,
+      "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
       "costs": {
         "food": 80,
         "wood": 150,
@@ -29017,7 +29224,9 @@
         }
       ],
       "baseId": "palace-guard",
+      "nameCN": "早期皇宫卫兵",
       "age": 2,
+      "descriptionCN": "可造成可观伤害的强壮步兵。移动速度比武士快，但护甲更低。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -29110,6 +29319,7 @@
         },
         "palace-guard-3": {
           "name": "Palace Guard",
+          "nameCN": "皇宫卫兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/palace-guard-3.png",
           "hitpoints": 155,
@@ -29175,6 +29385,7 @@
         },
         "palace-guard-4": {
           "name": "Elite Palace Guard",
+          "nameCN": "精锐皇宫卫兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/palace-guard-4.png",
           "hitpoints": 180,
@@ -29347,7 +29558,9 @@
         }
       ],
       "baseId": "war-junk",
+      "nameCN": "戎克战船",
       "age": 3,
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "costs": {
         "food": 110,
         "wood": 200,
@@ -29493,7 +29706,9 @@
         }
       ],
       "baseId": "ghazi-raider",
+      "nameCN": "加齐掠夺者",
       "age": 2,
+      "descriptionCN": "擅长突袭、侧翼攻击和克制远程单位的快速骑兵。\n+ 高移动速度\n+ 更擅长对付重型单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 110,
         "wood": 30,
@@ -29622,6 +29837,7 @@
         },
         "ghazi-raider-3": {
           "name": "Veteran Ghazi Raider",
+          "nameCN": "老练加齐掠夺者",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/ghazi-raider-3.png",
           "hitpoints": 170,
@@ -29723,6 +29939,7 @@
         },
         "ghazi-raider-4": {
           "name": "Elite Ghazi Raider",
+          "nameCN": "精锐加齐掠夺者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/ghazi-raider-4.png",
           "hitpoints": 200,
@@ -29876,6 +30093,7 @@
         {
           "id": "man-at-arms-1",
           "name": "Man-at-Arms",
+          "nameCN": "武士",
           "pbgid": 9004100,
           "attribName": "unit_manatarms_rally_mon_ha_gol",
           "civs": [
@@ -31394,7 +31612,9 @@
         }
       ],
       "baseId": "man-at-arms",
+      "nameCN": "先锋武士",
       "age": 1,
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -31490,6 +31710,7 @@
         },
         "man-at-arms-2": {
           "name": "Early Man-at-Arms",
+          "nameCN": "早期武士",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/man-at-arms-2.png",
           "hitpoints": 120,
@@ -31555,6 +31776,7 @@
         },
         "man-at-arms-3": {
           "name": "Man-at-Arms",
+          "nameCN": "武士",
           "age": 3,
           "costs": {
             "food": 100,
@@ -31634,6 +31856,7 @@
         },
         "man-at-arms-4": {
           "name": "Elite Man-at-Arms",
+          "nameCN": "精锐武士",
           "age": 4,
           "costs": {
             "food": 100,
@@ -31745,6 +31968,7 @@
           "baseId": "scholar",
           "type": "unit",
           "name": "Scholar",
+          "nameCN": "学者",
           "pbgid": 136056,
           "attribName": "unit_monk_2_sul",
           "age": 2,
@@ -31752,6 +31976,7 @@
             "de"
           ],
           "description": "Support unit with no combat capability. Can be garrisoned in a Mosque or Madrasa to research technology more quickly. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+          "descriptionCN": "不具备战斗能力的辅助单位。可以驻扎于清真寺或穆斯林学塾，以加快科技的研究速度。从城堡时代 (第三时代) 开始可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值低",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -31843,6 +32068,7 @@
           "baseId": "sultans-elite-tower-elephant",
           "type": "unit",
           "name": "Sultan's Elite Tower Elephant",
+          "nameCN": "苏丹的精锐箭塔象",
           "pbgid": 2104689,
           "attribName": "unit_war_elephant_tower2_4_sul",
           "age": 3,
@@ -31850,6 +32076,7 @@
             "de"
           ],
           "description": "Powerful ranged cavalry that can fire while moving.\n+ High health\n+ Mounted with Handcannoneers\n+ Capable of attacking Stone Walls\n- Slow movement speed",
+          "descriptionCN": "强大的远程骑兵，移动时也可进行射击。\n+ 高生命值\n+ 配备火枪兵\n+ 可以攻击石墙\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "back_line_elephant",
@@ -32129,7 +32356,9 @@
         }
       ],
       "baseId": "hulk",
+      "nameCN": "趸船",
       "age": 2,
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "costs": {
         "food": 110,
         "wood": 200,
@@ -32255,6 +32484,7 @@
           "baseId": "king",
           "type": "unit",
           "name": "King",
+          "nameCN": "国王",
           "pbgid": 2104832,
           "attribName": "unit_abbey_king_2",
           "age": 2,
@@ -32262,6 +32492,7 @@
             "en"
           ],
           "description": "A mighty King, a powerful heavy cavalry unit. Heals nearby out of combat units by 2 health every 1 seconds.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "一个强大的国王，一个强大的重骑兵单位。治疗附近脱离战斗的单位，每 1 秒恢复其 2 生命值。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "classes": [
             "armored",
             "cavalry",
@@ -32461,7 +32692,8 @@
           "civs": [
             "hr"
           ],
-          "description": "Expensive cavalry with a powerful charge.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen"
+          "description": "Expensive cavalry with a powerful charge.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有强大冲锋能力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制"
         },
         {
           "id": "knight-3",
@@ -32661,7 +32893,9 @@
         }
       ],
       "baseId": "knight",
+      "nameCN": "早期骑士",
       "age": 2,
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -32793,6 +33027,7 @@
         },
         "knight-3": {
           "name": "Knight",
+          "nameCN": "骑士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/knight-3.png",
           "hitpoints": 230,
@@ -32858,6 +33093,7 @@
         },
         "knight-4": {
           "name": "Elite Knight",
+          "nameCN": "精锐骑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/knight-4.png",
           "hitpoints": 270,
@@ -33030,7 +33266,9 @@
         }
       ],
       "baseId": "ribauldequin",
+      "nameCN": "风琴炮",
       "age": 4,
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "costs": {
         "food": 0,
         "wood": 350,
@@ -33155,7 +33393,9 @@
         }
       ],
       "baseId": "wynguard-army",
+      "nameCN": "温嘉德军队",
       "age": 4,
+      "descriptionCN": "生产一支军队，包括 2 名长矛兵、2 名弩手和 1 个巨型投石机。",
       "costs": {
         "food": 100,
         "wood": 100,
@@ -33221,6 +33461,7 @@
           "baseId": "wynguard-footman",
           "type": "unit",
           "name": "Wynguard Footman",
+          "nameCN": "温嘉德步兵",
           "pbgid": 2122350,
           "attribName": "unit_footman_wynguard_4_eng",
           "age": 4,
@@ -33228,6 +33469,7 @@
             "en"
           ],
           "description": "Specialized man at arms with high health and pierce armor.\n- Slow movement\n- Countered by Crossbowmen",
+          "descriptionCN": "具有高生命值和刺穿盔甲的专业武士。\n- 移动缓慢\n- 会受到弩手克制",
           "classes": [
             "armored",
             "find_non_siege_land_military",
@@ -33379,6 +33621,7 @@
           "baseId": "wynguard-footmen",
           "type": "unit",
           "name": "Wynguard Footmen",
+          "nameCN": "温嘉德步兵",
           "pbgid": 2122352,
           "attribName": "unit_wynguard_footman_eng",
           "age": 4,
@@ -33386,6 +33629,7 @@
             "en"
           ],
           "description": "Produces an army of 6 Wynguard Footmen.",
+          "descriptionCN": "生产一支由 6 名温嘉德步兵组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_footman",
@@ -33463,6 +33707,7 @@
           "baseId": "wynguard-raiders",
           "type": "unit",
           "name": "Wynguard Raiders",
+          "nameCN": "温嘉德掠夺者",
           "pbgid": 2075742,
           "attribName": "unit_wynguard_raiders_eng",
           "age": 4,
@@ -33470,6 +33715,7 @@
             "en"
           ],
           "description": "Produces an army of 3 Horsemen and 3 Knights.",
+          "descriptionCN": "生产一支由 3 名骑手和 3 名骑士组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_raiders",
@@ -33552,6 +33798,7 @@
           "baseId": "wynguard-ranger",
           "type": "unit",
           "name": "Wynguard Ranger",
+          "nameCN": "温嘉德长弓兵",
           "pbgid": 2122538,
           "attribName": "unit_ranger_wynguard_4_eng",
           "age": 4,
@@ -33559,6 +33806,7 @@
             "en"
           ],
           "description": "Master longbowmen with increased range and damage, good vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "熟练的长弓兵，其攻击范围和伤害增加，擅长对付没有护甲的目标。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -33695,6 +33943,7 @@
           "baseId": "wynguard-rangers",
           "type": "unit",
           "name": "Wynguard Rangers",
+          "nameCN": "温嘉德长弓兵",
           "pbgid": 2075743,
           "attribName": "unit_wynguard_rangers_eng",
           "age": 4,
@@ -33702,6 +33951,7 @@
             "en"
           ],
           "description": "Produces an army of 6 Wynguard Rangers.",
+          "descriptionCN": "生产一支由 6 名温嘉德长弓兵组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_rangers",
@@ -33796,7 +34046,9 @@
         }
       ],
       "baseId": "cannon",
+      "nameCN": "加农炮",
       "age": 4,
+      "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
       "costs": {
         "food": 0,
         "wood": 300,
@@ -33958,7 +34210,9 @@
         }
       ],
       "baseId": "galleass",
+      "nameCN": "三桅战船",
       "age": 3,
+      "descriptionCN": "大型带桨船只，拥有一门强大的前置手推炮。\n+ 攻击范围长\n+ 反建筑专家",
       "costs": {
         "food": 0,
         "wood": 360,
@@ -34066,7 +34320,9 @@
         }
       ],
       "baseId": "royal-culverin",
+      "nameCN": "皇家长管炮",
       "age": 3,
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "costs": {
         "food": 0,
         "wood": 325,
@@ -34230,7 +34486,9 @@
         }
       ],
       "baseId": "royal-ribauldequin",
+      "nameCN": "皇家风琴炮",
       "age": 3,
+      "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
       "costs": {
         "food": 0,
         "wood": 350,
@@ -34349,7 +34607,9 @@
         }
       ],
       "baseId": "war-cog",
+      "nameCN": "柯克战船",
       "age": 2,
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "costs": {
         "food": 75,
         "wood": 200,
@@ -34541,7 +34801,9 @@
         }
       ],
       "baseId": "batu-khan",
+      "nameCN": "拔都汗",
       "age": 3,
+      "descriptionCN": "近战骑兵领队，可在汗攻击时提高附近盟友的攻击伤害。只能通过黄金帐篷招募。\n+ 坚韧的重装骑兵\n+ 随时代推进自动增强\n- 每位金帐汗国玩家只能拥有一位汗",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -34825,6 +35087,7 @@
           "baseId": "kharash",
           "type": "unit",
           "name": "Kharash",
+          "nameCN": "肉盾",
           "pbgid": 9002140,
           "attribName": "unit_stone_kharash_2_mon_ha_gol",
           "age": 2,
@@ -34832,6 +35095,7 @@
             "gol"
           ],
           "description": "Low health and damage melee infantry that passively increases the armor of nearby units.\n+ Low cost and large recruitment batch \n- Weak against all types",
+          "descriptionCN": "低生命值、低伤害的近战步兵，能被动提升附近单位的护甲。\n+ 价格低廉，可大批量生产 \n- 在对抗所有类型的单位时都处于弱势",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -34982,7 +35246,9 @@
         }
       ],
       "baseId": "kipchak-archer",
+      "nameCN": "钦察弓兵",
       "age": 3,
+      "descriptionCN": "机动性高的远程骑兵，擅长对付速度较慢的近战单位，并且击中单位后使其流血。任何治疗都会消除流血状态。\n+ 高机动性\n- 低伤害\n- 不擅长对付远程单位",
       "costs": {
         "food": 80,
         "wood": 70,
@@ -35043,6 +35309,7 @@
         },
         "kipchak-archer-4": {
           "name": "Elite Kipchak Archer",
+          "nameCN": "精锐钦察弓兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/kipchak-archer-4.png",
           "hitpoints": 140,
@@ -35122,7 +35389,9 @@
         }
       ],
       "baseId": "light-junk",
+      "nameCN": "轻型戎克船",
       "age": 2,
+      "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
       "costs": {
         "food": 80,
         "wood": 150,
@@ -35250,7 +35519,9 @@
         }
       ],
       "baseId": "rus-tribute",
+      "nameCN": "罗斯贡品",
       "age": 3,
+      "descriptionCN": "罗斯重装步兵被金帐汗国征召服役。\n+ 比其他重装步兵更快\n+ 攻击速度更快\n+ 对骑兵造成额外伤害\n- 护甲减弱\n - 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -35493,7 +35764,9 @@
         }
       ],
       "baseId": "shaman",
+      "nameCN": "萨满",
       "age": 3,
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -35577,7 +35850,9 @@
         }
       ],
       "baseId": "torguud",
+      "nameCN": "精锐土尔扈特",
       "age": 2,
+      "descriptionCN": "花费昂贵的骑兵，具有高生命值、高近战护甲。擅长对付近战单位。在位于汗附近时，可以将伤害转移到自己身上来保护汗，并且可以在脱离战斗后治疗汗。\n+ 重型护甲\n+ 高生命值\n+ 随时代推进自动增强\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 75,
         "wood": 0,
@@ -35693,6 +35968,7 @@
         },
         "torguud-3": {
           "name": "Torguud",
+          "nameCN": "土尔扈特",
           "age": 3,
           "costs": {
             "food": 75,
@@ -35837,7 +36113,9 @@
         }
       ],
       "baseId": "traction-trebuchet",
+      "nameCN": "牵引式巨型投石机",
       "age": 3,
+      "descriptionCN": "强大的攻城器械，擅长从远距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n+ 高机动性\n- 必须架设才能开火\n- 无法精准命中单位",
       "costs": {
         "food": 0,
         "wood": 300,
@@ -35966,6 +36244,7 @@
           "baseId": "black-rider",
           "type": "unit",
           "name": "Black Rider",
+          "nameCN": "黑骑兵",
           "pbgid": 9002002,
           "attribName": "unit_black_rider_hre",
           "age": 4,
@@ -35973,6 +36252,7 @@
             "hr"
           ],
           "description": "Expensive cavalry with high armor and a powerful arquebus. Effective against melee units. Has the Caracole ability.\nOnly 5 Riders can be trained for each standing Keep built.\n+ Heavy armor\n- Countered by Crossbowmen",
+          "descriptionCN": "拥有高护甲和强大火绳枪的昂贵骑兵。擅长对付近战单位。拥有卡拉科尔能力。\n对于建造的每座矗立城堡，只能训练 5 名骑兵。\n+ 重型护甲\n- 会受到弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -36110,7 +36390,9 @@
         }
       ],
       "baseId": "prelate",
+      "nameCN": "高级教士",
       "age": 1,
+      "descriptionCN": "不具备战斗能力的辅助单位。可自动鼓舞村民，大幅提升他们的采集速率。从城堡时代 (第三时代) 开始可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值低",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -36153,6 +36435,7 @@
           "name": "Prelate",
           "age": 3,
           "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+          "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值较低",
           "producedBy": [
             "monastery",
             "palace-of-swabia",
@@ -36188,6 +36471,7 @@
           "baseId": "demilancer",
           "type": "unit",
           "name": "Veteran Demilancer",
+          "nameCN": "老练短矛骑兵",
           "pbgid": 9002532,
           "attribName": "unit_free_dummy_mounted_manatarms_lan",
           "age": 1,
@@ -36195,6 +36479,7 @@
             "hl"
           ],
           "description": "Unique heavy cavalry with moderate damage and durability. Effective frontline unit.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "独特的重装骑兵，拥有中等伤害和耐力。擅长对付前线单位。\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
           "classes": [
             "spawn_ignored_on_timeline"
           ],
@@ -36293,7 +36578,9 @@
         }
       ],
       "baseId": "earls-guard",
+      "nameCN": "伯爵护卫",
       "age": 1,
+      "descriptionCN": "强悍的步兵，能造成可观伤害。对附近的敌人定期投掷匕首。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -36448,6 +36735,7 @@
         },
         "earls-guard-4": {
           "name": "Elite Earl's Guard",
+          "nameCN": "精锐伯爵护卫",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/earls-guard-4.png",
           "hitpoints": 180,
@@ -36566,6 +36854,7 @@
           "baseId": "earls-retinue",
           "type": "unit",
           "name": "Earl's Retinue",
+          "nameCN": "伯爵侍从",
           "pbgid": 5000292,
           "attribName": "unit_wynguard_earls_retinue_lan",
           "age": 4,
@@ -36573,6 +36862,7 @@
             "hl"
           ],
           "description": "Produces an army of 6 Demilancers and 2 Hobelar.",
+          "descriptionCN": "生产一支由 6 名短矛骑兵和 2 名骑马步兵组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_footman",
@@ -36650,6 +36940,7 @@
           "baseId": "garrison-command",
           "type": "unit",
           "name": "Garrison Command",
+          "nameCN": "驻扎命令",
           "pbgid": 5000293,
           "attribName": "unit_wynguard_garrison_command_lan",
           "age": 4,
@@ -36657,6 +36948,7 @@
             "hl"
           ],
           "description": "Produces an army of 8 Spearman and 1 Earl's Guard.",
+          "descriptionCN": "生产一支由 8 名长矛兵和 1 名伯爵护卫组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_raiders",
@@ -36734,6 +37026,7 @@
           "baseId": "gunpowder-contingent",
           "type": "unit",
           "name": "Gunpowder Contingent",
+          "nameCN": "火药分遣队",
           "pbgid": 5000294,
           "attribName": "unit_wynguard_gunpowder_contingent_lan",
           "age": 4,
@@ -36741,6 +37034,7 @@
             "hl"
           ],
           "description": "Produces an army of 2 Ribauldequins and 1 Culverin.",
+          "descriptionCN": "生产一支由 2 个机关炮和 1 个长管炮组成的军队。",
           "classes": [
             "archer",
             "audio_wynguard_rangers",
@@ -36845,7 +37139,9 @@
         }
       ],
       "baseId": "hobelar",
+      "nameCN": "骑马步兵",
       "age": 2,
+      "descriptionCN": "低成本骑兵，擅长突袭、侧翼攻击和克制远程单位。\n+ 比普通骑手成本低\n+ 高移动速度\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 70,
         "wood": 0,
@@ -37011,6 +37307,7 @@
         },
         "hobelar-3": {
           "name": "Veteran Hobelar",
+          "nameCN": "老练骑马步兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/hobelar-3.png",
           "hitpoints": 120,
@@ -37149,6 +37446,7 @@
         },
         "hobelar-4": {
           "name": "Elite Hobelar",
+          "nameCN": "精锐骑马步兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/hobelar-4.png",
           "hitpoints": 145,
@@ -37324,6 +37622,7 @@
           "baseId": "lord-of-lancaster",
           "type": "unit",
           "name": "Lord of Lancaster",
+          "nameCN": "兰开斯特领主",
           "pbgid": 5000070,
           "attribName": "unit_abbey_king_2_lan",
           "age": 2,
@@ -37331,6 +37630,7 @@
             "hl"
           ],
           "description": "A powerful Lord of Lancaster, fights effectively and grants nearby military units +5% max health.\n+ High health.\n+ Improves nearby units.\n- Slow movement.\n- Countered by Knights, Lancers, and Crossbowmen.",
+          "descriptionCN": "一位强大的兰开斯特领主，擅长战斗，可以令附近军事单位的生命值 +5%。\n+ 大量生命值。\n+ 强化附近单位。\n- 移动速度慢。\n- 会受到骑士、长矛骑兵和弩手克制。",
           "classes": [
             "armored",
             "formational",
@@ -37522,7 +37822,9 @@
         }
       ],
       "baseId": "yeoman",
+      "nameCN": "英皇侍卫",
       "age": 2,
+      "descriptionCN": "行动迅速的远程步兵，能对无护甲目标造成可观的伤害。\n+ 射程远\n+ 移动速度快\n- 会受到骑手克制",
       "costs": {
         "food": 50,
         "wood": 45,
@@ -37614,6 +37916,7 @@
         },
         "yeoman-3": {
           "name": "Veteran Yeoman",
+          "nameCN": "老练英皇侍卫",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/yeoman-3.png",
           "hitpoints": 80,
@@ -37678,6 +37981,7 @@
         },
         "yeoman-4": {
           "name": "Elite Yeoman",
+          "nameCN": "精锐英皇侍卫",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/yeoman-4.png",
           "hitpoints": 95,
@@ -37800,7 +38104,9 @@
         }
       ],
       "baseId": "atakebune",
+      "nameCN": "安宅船",
       "age": 4,
+      "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
       "costs": {
         "food": 100,
         "wood": 220,
@@ -37908,6 +38214,7 @@
           "baseId": "buddhist-monk",
           "type": "unit",
           "name": "Buddhist Monk",
+          "nameCN": "佛教僧侣",
           "pbgid": 6891673,
           "attribName": "unit_monk_buddhist_3_jpn",
           "age": 3,
@@ -37915,6 +38222,7 @@
             "ja"
           ],
           "description": "Support unit with the ability to decrease enemy attack damage. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Reduced cost\n+ Conversion enhances friendly unit damage\n+ Automatically reduces enemy attack damage\n+ Heals units",
+          "descriptionCN": "能够减少敌人攻击伤害的辅助单位。可拾取圣物、招降敌方单位及占领圣地。\n+ 成本更低\n+ 招降可提高友军单位伤害\n+ 自动减少敌人攻击伤害\n+ 可治疗单位",
           "classes": [
             "annihilation_condition",
             "buddhist_monk_jpn",
@@ -38001,6 +38309,7 @@
           "baseId": "handcannon-ashigaru",
           "type": "unit",
           "name": "Handcannon Ashigaru",
+          "nameCN": "手铳足轻",
           "pbgid": 4137773,
           "attribName": "unit_handcannon_4_jpn",
           "age": 4,
@@ -38008,6 +38317,7 @@
             "ja"
           ],
           "description": "Powerful all-purpose ranged infantry.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -38124,6 +38434,7 @@
           "baseId": "katana-bannerman",
           "type": "unit",
           "name": "Katana Bannerman",
+          "nameCN": "刀剑旗本武士",
           "pbgid": 2143512,
           "attribName": "unit_banner_samurai_melee_2_jpn",
           "age": 2,
@@ -38131,6 +38442,7 @@
             "ja"
           ],
           "description": "Samurai with an aura that increases damage of melee infantry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Heavy armor\n+ Increased move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+          "descriptionCN": "日本武士，拥有可增加近战步兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 重型护甲\n+ 提高移动速度\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -38295,6 +38607,7 @@
             "sen"
           ],
           "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -38452,6 +38765,7 @@
             "sen"
           ],
           "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -38595,7 +38909,9 @@
         }
       ],
       "baseId": "mounted-samurai",
+      "nameCN": "骑马武士",
       "age": 3,
+      "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -38711,6 +39027,7 @@
         },
         "mounted-samurai-4": {
           "name": "Elite Mounted Samurai",
+          "nameCN": "精锐骑马武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mounted-samurai-4.png",
           "hitpoints": 270,
@@ -38855,7 +39172,9 @@
         }
       ],
       "baseId": "onna-bugeisha",
+      "nameCN": "女武艺者",
       "age": 2,
+      "descriptionCN": "轻型近战步兵，攻击速度快且武器攻击范围远。\n+ 攻击速度快\n+ 移动速度快\n+ 武器攻击范围远\n- 不擅长对付重型目标\n- 会受到弓兵、骑士克制",
       "costs": {
         "food": 60,
         "wood": 0,
@@ -38939,6 +39258,7 @@
         },
         "onna-bugeisha-3": {
           "name": "Veteran Onna-Bugeisha",
+          "nameCN": "老练女武艺者",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-3.png",
           "hitpoints": 100,
@@ -38995,6 +39315,7 @@
         },
         "onna-bugeisha-4": {
           "name": "Elite Onna-Bugeisha",
+          "nameCN": "精锐女武艺者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-4.png",
           "hitpoints": 135,
@@ -39099,7 +39420,9 @@
         }
       ],
       "baseId": "onna-musha",
+      "nameCN": "女武者",
       "age": 3,
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付重型单位。\n+ 移动速度快\n+ 武器范围远\n+ 对抗重型单位可获得伤害加成\n- 不擅长对抗远程单位",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -39211,6 +39534,7 @@
         },
         "onna-musha-4": {
           "name": "Elite Onna-Musha",
+          "nameCN": "精锐女武者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/onna-musha-4.png",
           "hitpoints": 95,
@@ -39394,7 +39718,9 @@
         }
       ],
       "baseId": "ozutsu",
+      "nameCN": "早期大筒兵",
       "age": 3,
+      "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
       "costs": {
         "food": 85,
         "wood": 0,
@@ -39474,8 +39800,10 @@
         },
         "ozutsu-4": {
           "name": "Ozutsu",
+          "nameCN": "大筒兵",
           "age": 4,
           "description": "Ranged infantry equipped with a huge gunpowder weapon that has good weapon range, siege, and splash damage.\n+ Anti-building\n+ Area damage\n- Slow move speed\n- Slow attack speed\n- Countered by Horsemen and Crossbowmen",
+          "descriptionCN": "远程步兵，装备巨大的火药武器，拥有优秀的武器攻击范围、攻城和溅射伤害。\n+ 反建筑\n+ 范围伤害\n- 移动速度慢\n- 攻击速度慢\n- 会受到骑手和弩手克制",
           "producedBy": [
             "tanegashima-gunsmith"
           ],
@@ -39596,7 +39924,9 @@
         }
       ],
       "baseId": "samurai",
+      "nameCN": "武士",
       "age": 1,
+      "descriptionCN": "重型步兵，具有优秀的伤害和防御力。同时具有偏转护甲能力，可定期抵挡攻击。\n+ 重型护甲\n+ 脱离战斗后偏转护甲会重新恢复\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -39726,6 +40056,7 @@
         },
         "samurai-2": {
           "name": "Hardened Samurai",
+          "nameCN": "坚韧日本武士",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/samurai-2.png",
           "hitpoints": 120,
@@ -39828,6 +40159,7 @@
         },
         "samurai-3": {
           "name": "Veteran Samurai",
+          "nameCN": "老练日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/samurai-3.png",
           "hitpoints": 155,
@@ -39930,6 +40262,7 @@
         },
         "samurai-4": {
           "name": "Elite Samurai",
+          "nameCN": "精锐日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/samurai-4.png",
           "hitpoints": 180,
@@ -40065,6 +40398,7 @@
           "baseId": "shinobi",
           "type": "unit",
           "name": "Shinobi",
+          "nameCN": "忍者",
           "pbgid": 2151449,
           "attribName": "unit_shinobi_2_free_jpn",
           "age": 2,
@@ -40072,6 +40406,7 @@
             "ja"
           ],
           "description": "Melee infantry that specializes in scouting, sabotage, and assassination.\n+ Disguise as enemy Villagers\n+ Bonus damage vs. melee\n+ Health regeneration\n- Capital Town Centers, Outposts, and Scouts can spot disguises\n\nHeals passively.",
+          "descriptionCN": "近战步兵，擅长侦察、破坏和刺杀。\n+ 可伪装成敌方村民\n+ 对抗近战单位时拥有伤害加成\n+ 能恢复生命值\n- 首都城镇中心、哨站和侦察兵可以识破伪装",
           "classes": [
             "find_non_siege_land_military",
             "formational",
@@ -40216,6 +40551,7 @@
           "baseId": "shinto-priest",
           "type": "unit",
           "name": "Shinto Priest",
+          "nameCN": "神道教神主",
           "pbgid": 2124341,
           "attribName": "unit_monk_shinto_3_jpn",
           "age": 3,
@@ -40223,6 +40559,7 @@
             "ja"
           ],
           "description": "Support unit with unique privileges to hold and deposit Yorishiro into buildings. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Yorishiro provide unique bonuses\n+ Heals friendly units\n- Slow move speed",
+          "descriptionCN": "拥有独特特权的辅助单位，可持有依代并将其存放至建筑内。可拾取圣物、招降敌方单位及占领圣地。\n+ 依代可提供独特的加成效果\n+ 可治疗友方单位\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -40315,6 +40652,7 @@
           "baseId": "uma-bannerman",
           "type": "unit",
           "name": "Uma Bannerman",
+          "nameCN": "骑马旗本武士",
           "pbgid": 2127064,
           "attribName": "unit_banner_samurai_cavalry_2_jpn",
           "age": 2,
@@ -40322,6 +40660,7 @@
             "ja"
           ],
           "description": "Mounted Samurai with an aura that increases damage of cavalry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Fast move speed\n+ Heavy armor\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "骑马武士，拥有可增加骑兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 移动速度快\n+ 重型护甲\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -40941,7 +41280,9 @@
         }
       ],
       "baseId": "yumi-ashigaru",
+      "nameCN": "弓足轻",
       "age": 2,
+      "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 25,
         "wood": 35,
@@ -41087,6 +41428,7 @@
         },
         "yumi-ashigaru-3": {
           "name": "Veteran Yumi Ashigaru",
+          "nameCN": "老练弓足轻",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -41220,6 +41562,7 @@
         },
         "yumi-ashigaru-4": {
           "name": "Elite Yumi Ashigaru",
+          "nameCN": "精锐弓足轻",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -41393,6 +41736,7 @@
           "baseId": "yumi-bannerman",
           "type": "unit",
           "name": "Yumi Bannerman",
+          "nameCN": "弓箭旗本武士",
           "pbgid": 2127061,
           "attribName": "unit_banner_samurai_range_2_jpn",
           "age": 2,
@@ -41400,6 +41744,7 @@
             "ja"
           ],
           "description": "Ranged Samurai with an aura that increases damage of ranged infantry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Fast move speed\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+          "descriptionCN": "远程日本武士，拥有可增加远程步兵伤害的光环。自带偏转护甲能力，可周期性地抵挡攻击。\n+ 死亡时掉落旗帜\n+ 移动速度快\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -41620,6 +41965,7 @@
           "baseId": "jeanne-darc-blast-cannon",
           "type": "unit",
           "name": "Jeanne d'Arc - Blast Cannon",
+          "nameCN": "圣女贞德 - 爆破加农炮",
           "pbgid": 2136361,
           "attribName": "unit_jeanne_d_arc_4_melee_monarch_fre_ha_01",
           "age": 4,
@@ -41627,6 +41973,7 @@
             "je"
           ],
           "description": "Elite siege cavalry leader with high damage. Exceptionally effective vs buildings. If Jeanne is defeated, she will reappear at a Town Center. \n+ Heavy armor\n+ Good damage vs buildings\n- Countered only by superior numbers",
+          "descriptionCN": "精锐攻城骑兵领袖，拥有高伤害能力。尤其擅长对付建筑。如果贞德被击败，她会重新出现在城镇中心。\n+ 重型护甲\n+ 对建筑造成的伤害较高\n - 仅受优势兵力克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -41775,6 +42122,7 @@
           "baseId": "jeanne-darc-hunter",
           "type": "unit",
           "name": "Jeanne d'Arc - Hunter",
+          "nameCN": "圣女贞德 - 猎人",
           "pbgid": 2136265,
           "attribName": "unit_jeanne_d_arc_2_archer_fre_ha_01",
           "age": 2,
@@ -41782,6 +42130,7 @@
             "je"
           ],
           "description": "Strong ranged infantry with good damage vs unarmored targets, and bonus damage vs spearmen. If Jeanne is defeated, she can be brought back at a Town Center.\n+ High rate of fire\n- Countered by Horsemen",
+          "descriptionCN": "强壮的远程步兵，能对没有护甲的目标造成较高伤害，并对长矛兵造成额外伤害。如果贞德被击败，她可以在城镇中心被复活。\n+ 射速高\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -42002,6 +42351,7 @@
           "baseId": "jeanne-darc-knight",
           "type": "unit",
           "name": "Jeanne d'Arc - Knight",
+          "nameCN": "圣女贞德 - 骑士",
           "pbgid": 2136358,
           "attribName": "unit_jeanne_d_arc_3_melee_knight_fre_ha_01",
           "age": 3,
@@ -42009,6 +42359,7 @@
             "je"
           ],
           "description": "Powerful heavy cavalry leader with high damage and health. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Heavy armor\n+ Fast movement\n- Countered by Spearmen",
+          "descriptionCN": "强大的重装骑兵领袖，具有高伤害和高生命值。如果贞德被击败，她可以在城镇中心被复活。\n+ 重型护甲\n+ 移动速度快\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -42222,6 +42573,7 @@
           "baseId": "jeanne-darc-markswoman",
           "type": "unit",
           "name": "Jeanne d'Arc - Markswoman",
+          "nameCN": "圣女贞德 - 神射手",
           "pbgid": 2136360,
           "attribName": "unit_jeanne_d_arc_4_ranged_monarch_fre_ha_01",
           "age": 4,
@@ -42229,6 +42581,7 @@
             "je"
           ],
           "description": "Elite heavy siege cavalry leader with high damage. Exceptionally effective vs buildings. If Jeanne is defeated, she will reappear at a Town Center.\n+ Heavy armor \n+ Long range \n+ Good damage vs buildings\n- Countered only by superior buildings",
+          "descriptionCN": "精锐重装攻城骑兵领袖，拥有高伤害能力。尤其擅长对付建筑。如果贞德被击败，她会重新出现在城镇中心。\n+ 重型护甲\n+ 攻击距离长\n+ 对建筑造成的伤害较高\n- 仅受高级建筑克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -42394,6 +42747,7 @@
           "baseId": "jeanne-darc-mounted-archer",
           "type": "unit",
           "name": "Jeanne d'Arc - Mounted Archer",
+          "nameCN": "圣女贞德 - 骑射手",
           "pbgid": 2136359,
           "attribName": "unit_jeanne_d_arc_3_ranged_knight_fre_ha_01",
           "age": 3,
@@ -42401,6 +42755,7 @@
             "je"
           ],
           "description": "A powerful cavalry archer with exceptional range and damage. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Long range\n+ Good damage\n- Countered by Horsemen",
+          "descriptionCN": "强大的骑射手，射程极远、伤害极高。如果贞德被击败，她可以在城镇中心被复活。\n+ 射程远\n+ 伤害高\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -42624,6 +42979,7 @@
           "baseId": "jeanne-darc-peasant",
           "type": "unit",
           "name": "Jeanne d'Arc - Peasant",
+          "nameCN": "圣女贞德 - 农民",
           "pbgid": 2127584,
           "attribName": "unit_jeanne_d_arc_1_fre_ha_01",
           "age": 1,
@@ -42631,6 +42987,7 @@
             "je"
           ],
           "description": "Jeanne gathers resources and constructs buildings as a Villager. She constructs buildings more quickly, and generates more XP while constructing buildings compared to other tasks. If Jeanne is defeated, she can be brought back at a Town Center. \n - Weak in combat",
+          "descriptionCN": "贞德使用村民收集资源并建造建筑。与其他任务相比，她建造建筑的速度更快，并在建造建筑的同时产生更多经验值。如果贞德被击败，则可以在城镇中心将她复活。\n - 战斗能力弱",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -42854,6 +43211,7 @@
           "baseId": "jeanne-darc-woman-at-arms",
           "type": "unit",
           "name": "Jeanne d'Arc - Woman-at-Arms",
+          "nameCN": "圣女贞德 - 披甲女战士",
           "pbgid": 2136262,
           "attribName": "unit_jeanne_d_arc_2_womanatarms_fre_ha_01",
           "age": 2,
@@ -42861,6 +43219,7 @@
             "je"
           ],
           "description": "Strong heavy infantry leader with good armor and health. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Heavy armor\n- Countered by Knights, Lancers, and Crossbowmen",
+          "descriptionCN": "强大的重型步兵领袖，拥有良好的护甲和生命值。如果贞德被击败，可以在城镇中心将她复活。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -43040,7 +43399,9 @@
         }
       ],
       "baseId": "jeannes-champion",
+      "nameCN": "贞德的冠军剑士",
       "age": 3,
+      "descriptionCN": "强悍的步兵，擅长反制长矛兵。\n+ 高护甲\n+ 对长矛兵可造成额外伤害\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 160,
         "wood": 0,
@@ -43147,6 +43508,7 @@
         },
         "jeannes-champion-4": {
           "name": "Jeanne's Elite Champion",
+          "nameCN": "贞德的精锐冠军剑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/jeannes-elite-champion-4.png",
           "hitpoints": 210,
@@ -43275,7 +43637,9 @@
         }
       ],
       "baseId": "jeannes-rider",
+      "nameCN": "贞德的骑兵",
       "age": 3,
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。\n+ 高移动速度\n+ 对弩手可造成额外伤害\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 180,
         "wood": 0,
@@ -43392,6 +43756,7 @@
         },
         "jeannes-rider-4": {
           "name": "Jeanne's Elite Rider",
+          "nameCN": "贞德的精锐骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/jeannes-elite-rider-4.png",
           "hitpoints": 205,
@@ -43540,7 +43905,9 @@
         }
       ],
       "baseId": "chevalier-confrere",
+      "nameCN": "同伴骑士",
       "age": 2,
+      "descriptionCN": "重装骑兵，可造成较高伤害。附近存在重装骑兵时，可获得额外生命值加成。\n+ 比普通骑士便宜\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 90,
         "wood": 0,
@@ -43656,6 +44023,7 @@
         },
         "chevalier-confrere-3": {
           "name": "Veteran Chevalier Confrere",
+          "nameCN": "老练同伴骑士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/chevalier-confrere-3.png",
           "hitpoints": 190,
@@ -43744,6 +44112,7 @@
         },
         "chevalier-confrere-4": {
           "name": "Elite Chevalier Confrere",
+          "nameCN": "精锐同伴骑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/chevalier-confrere-4.png",
           "hitpoints": 230,
@@ -43868,6 +44237,7 @@
           "baseId": "condottiero",
           "type": "unit",
           "name": "Condottiero",
+          "nameCN": "意大利佣兵",
           "pbgid": 8999910,
           "attribName": "unit_condottiero_4_tem",
           "age": 4,
@@ -43875,6 +44245,7 @@
             "kt"
           ],
           "description": "Fast Heavy Infantry that deals more and takes less damage from Gunpowder units.\n+ High damage\n+ Moves quickly\n- High Gold cost",
+          "descriptionCN": "移动迅速的重型步兵，能对火药单位造成更多伤害，且受到火药单位的伤害更低。\n+ 高伤害\n+ 移动速度快\n- 黄金花费高",
           "classes": [
             "annihilation_condition",
             "commanderie_unit",
@@ -44062,7 +44433,9 @@
         }
       ],
       "baseId": "genitour",
+      "nameCN": "标枪骑兵",
       "age": 3,
+      "descriptionCN": "高机动性的远程骑兵，可投掷标枪。\n+ 高机动性\n+ 非常擅长对付远程单位\n+ 高远程护甲\n - 不擅长对付近战单位",
       "costs": {
         "food": 60,
         "wood": 60,
@@ -44142,6 +44515,7 @@
         },
         "genitour-4": {
           "name": "Elite Genitour",
+          "nameCN": "精锐标枪骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/genitour-4.png",
           "hitpoints": 125,
@@ -44243,7 +44617,9 @@
         }
       ],
       "baseId": "genoese-crossbowman",
+      "nameCN": "热那亚弩手",
       "age": 3,
+      "descriptionCN": "高伤害远程单位，擅长对付近战步兵。\n+ 高伤害\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -44324,6 +44700,7 @@
         },
         "genoese-crossbowman-4": {
           "name": "Elite Genoese Crossbowman",
+          "nameCN": "精锐热那亚弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -44444,7 +44821,9 @@
         }
       ],
       "baseId": "heavy-spearman",
+      "nameCN": "重装长矛兵",
       "age": 3,
+      "descriptionCN": "重装步兵，非常擅长对付骑兵单位。\n+ 靠近要塞时更加强大\n+ 反骑兵专家\n+ 高护甲\n+ 拥有更强的长矛墙\n- 会受到弩手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -44616,6 +44995,7 @@
         },
         "heavy-spearman-4": {
           "name": "Elite Heavy Spearman",
+          "nameCN": "精锐重装长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/heavy-spearman-4.png",
           "hitpoints": 170,
@@ -44821,7 +45201,9 @@
         }
       ],
       "baseId": "hospitaller-knight",
+      "nameCN": "医院骑士",
       "age": 2,
+      "descriptionCN": "强悍的步兵，能造成可观伤害，可治疗友方单位。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 50,
         "wood": 0,
@@ -44914,6 +45296,7 @@
         },
         "hospitaller-knight-3": {
           "name": "Veteran Hospitaller Knight",
+          "nameCN": "老练医院骑士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/hospitaller-knight-3.png",
           "hitpoints": 170,
@@ -44979,6 +45362,7 @@
         },
         "hospitaller-knight-4": {
           "name": "Elite Hospitaller Knight",
+          "nameCN": "精锐医院骑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/hospitaller-knight-4.png",
           "hitpoints": 195,
@@ -45101,7 +45485,9 @@
         }
       ],
       "baseId": "serjeant",
+      "nameCN": "萨金特卫兵",
       "age": 2,
+      "descriptionCN": "强壮的步兵，可投掷斧头，从远程造成近战伤害。\n+ 擅长对付近战单位\n- 不擅长对付远程单位",
       "costs": {
         "food": 70,
         "wood": 0,
@@ -45167,6 +45553,7 @@
         },
         "serjeant-3": {
           "name": "Veteran Serjeant",
+          "nameCN": "老练萨金特卫兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/serjeant-3.png",
           "hitpoints": 145,
@@ -45205,6 +45592,7 @@
         },
         "serjeant-4": {
           "name": "Elite Serjeant",
+          "nameCN": "精锐萨金特卫兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/serjeant-4.png",
           "hitpoints": 165,
@@ -45282,6 +45670,7 @@
           "baseId": "szlachta-cavalry",
           "type": "unit",
           "name": "Szlachta Cavalry",
+          "nameCN": "什拉赫塔骑兵",
           "pbgid": 8999912,
           "attribName": "unit_szlatcha_knight_4_tem",
           "age": 4,
@@ -45289,6 +45678,7 @@
             "kt"
           ],
           "description": "Expensive cavalry with high damage and ranged armor. Slows enemy's attack speed when attacking.\n+ Heavy armor\n+ Strong versus Light Infantry\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "昂贵骑兵，拥有高伤害和远程护甲。攻击时能减缓敌人的攻击速度。\n+ 重型护甲\n+ 擅长对付轻型步兵\n- 会受到长矛兵及弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -45506,7 +45896,9 @@
         }
       ],
       "baseId": "templar-brother",
+      "nameCN": "圣殿骑士修士",
       "age": 3,
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -45622,6 +46014,7 @@
         },
         "templar-brother-4": {
           "name": "Elite Templar Brother",
+          "nameCN": "精锐圣殿骑士修士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/templar-brother-4.png",
           "hitpoints": 330,
@@ -45747,6 +46140,7 @@
           "baseId": "teutonic-knight",
           "type": "unit",
           "name": "Teutonic Knight",
+          "nameCN": "条顿骑士",
           "pbgid": 8999913,
           "attribName": "unit_teutonic_knight_4_tem",
           "age": 4,
@@ -45754,6 +46148,7 @@
             "kt"
           ],
           "description": "Extremely powerful and Expensive Heavy Infantry. Lowers the armor of nearby enemy units. Becomes more powerful after defeating an enemy.\n+ Excellent in melee combat\n- Weak to Crossbowmen\n- Low Mobility",
+          "descriptionCN": "极其强大且昂贵的重装步兵。能降低附近敌方单位的护甲。击败敌人后会变得更加强大。\n+ 非常擅长近战战斗\n- 不擅长对付弩手\n- 机动性低",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -45898,6 +46293,7 @@
           "baseId": "venetian-galley",
           "type": "unit",
           "name": "Venetian Galley",
+          "nameCN": "威尼斯箭船",
           "pbgid": 8999920,
           "attribName": "unit_naval_galleass_4_tem",
           "age": 4,
@@ -45905,6 +46301,7 @@
             "kt"
           ],
           "description": "Large oared vessel with a long range forward mounted Trebuchet.\n+ Long Range\n+ Anti-structure specialist",
+          "descriptionCN": "大型带桨船只，拥有一门远程的前置巨型投石机。\n+ 射程远\n+ 反建筑专家",
           "classes": [
             "annihilation_condition",
             "commanderie_unit",
@@ -46043,6 +46440,7 @@
           "baseId": "venetian-trader",
           "type": "unit",
           "name": "Venetian Trader",
+          "nameCN": "威尼斯商人",
           "pbgid": 9001617,
           "attribName": "unit_venetian_trader_4_tem",
           "age": 4,
@@ -46050,6 +46448,7 @@
             "kt"
           ],
           "description": "An expensive and fast Trader that generates Gold by travelling between its Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nYou may have a maximum of 5 Venetian Traders.",
+          "descriptionCN": "昂贵且快速的商人，通过在本国市场和贸易站或其他玩家的市场之间穿梭来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金数量就会越多。\n你最多可以有 5 名威尼斯商人。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -46163,7 +46562,9 @@
         }
       ],
       "baseId": "atgeirmadr",
+      "nameCN": "阿特盖尔",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。附近有瓦兰吉单位时，攻击速度更快。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付装甲步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 70,
         "wood": 20,
@@ -46276,6 +46677,7 @@
         },
         "atgeirmadr-2": {
           "name": "Hardened Atgeirmaðr",
+          "nameCN": "坚韧阿特盖尔",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-2.png",
           "hitpoints": 100,
@@ -46360,6 +46762,7 @@
         },
         "atgeirmadr-3": {
           "name": "Veteran Atgeirmaðr",
+          "nameCN": "老练阿特盖尔",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-3.png",
           "hitpoints": 120,
@@ -46444,6 +46847,7 @@
         },
         "atgeirmadr-4": {
           "name": "Elite Atgeirmaðr",
+          "nameCN": "精锐阿特盖尔",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-4.png",
           "hitpoints": 140,
@@ -46565,6 +46969,7 @@
           "baseId": "attack-ship",
           "type": "unit",
           "name": "Attack Ship",
+          "nameCN": "攻击船",
           "pbgid": 9004104,
           "attribName": "unit_naval_lodya_attack_byz_ha_mac",
           "age": 2,
@@ -46572,6 +46977,7 @@
             "mac"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "lodya_combat_ship",
@@ -46794,7 +47200,9 @@
         }
       ],
       "baseId": "bogmadr",
+      "nameCN": "波莫",
       "age": 2,
+      "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 40,
         "wood": 50,
@@ -46888,6 +47296,7 @@
         },
         "bogmadr-3": {
           "name": "Veteran Bogmaðr",
+          "nameCN": "老练波莫",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -46970,6 +47379,7 @@
         },
         "bogmadr-4": {
           "name": "Elite Bogmaðr",
+          "nameCN": "精锐波莫",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -47087,6 +47497,7 @@
           "baseId": "hippodrome-horseman",
           "type": "unit",
           "name": "Hippodrome Horseman",
+          "nameCN": "竞技场骑手",
           "pbgid": 9004208,
           "attribName": "unit_dummy_champion_horseman_byz_ha_mac",
           "age": 1,
@@ -47094,6 +47505,7 @@
             "mac"
           ],
           "description": "Fast cavalry that enhances damage of nearby cavalry.\n+ High movement speed\n+ Health regeneration\n- Weak against melee units\n- Countered by Spearmen",
+          "descriptionCN": "快速骑兵，可增强附近骑兵的伤害。\n+ 移动速度快\n+ 恢复生命值\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -47272,6 +47684,7 @@
           "baseId": "hippodrome-riddari",
           "type": "unit",
           "name": "Hippodrome Riddari",
+          "nameCN": "竞技场瑞塔利",
           "pbgid": 9004207,
           "attribName": "unit_dummy_champion_knight_byz_ha_mac",
           "age": 1,
@@ -47279,6 +47692,7 @@
             "mac"
           ],
           "description": "Elite varangian cavalry that can enhance the movement speed of nearby infantry. \n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "精锐瓦兰吉骑兵，可提升附近步兵的移动速度。\n+ 高护甲\n+ 近战能力强\n- 会受到长矛兵和弩兵克制。",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -47477,6 +47891,7 @@
           "baseId": "hippodrome-scout",
           "type": "unit",
           "name": "Hippodrome Scout",
+          "nameCN": "竞技场侦察兵",
           "pbgid": 9004206,
           "attribName": "unit_dummy_champion_scout_byz_ha_mac",
           "age": 1,
@@ -47484,6 +47899,7 @@
             "mac"
           ],
           "description": "Lightly armed cavalry with increased vision and damage. Comes with an aura that increases damage of torches.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "拥有更远视野和更高伤害的轻装骑兵。带有一个光环，可提升火炬伤害。\n+ 能够看到浓密森林中的情况\n+ 恢复生命值\n+ 移动速度快\n- 在战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -47712,7 +48128,9 @@
         }
       ],
       "baseId": "riddari",
+      "nameCN": "瑞塔利",
       "age": 3,
+      "descriptionCN": "拥有高伤害和近战护甲的骑兵，能远距离投掷斧头。\n+ 重型护甲\n+ 近战能力强\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 130,
         "wood": 0,
@@ -47854,6 +48272,7 @@
         },
         "riddari-4": {
           "name": "Elite Riddari",
+          "nameCN": "精锐瑞塔利",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/riddari-4.png",
           "hitpoints": 280,
@@ -47998,6 +48417,7 @@
           "baseId": "warship",
           "type": "unit",
           "name": "Warship",
+          "nameCN": "战船",
           "pbgid": 9001023,
           "attribName": "unit_naval_combat_warship_4_byz_ha_mac",
           "age": 4,
@@ -48005,6 +48425,7 @@
             "mac"
           ],
           "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+          "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "gunpowder",
@@ -48201,7 +48622,9 @@
         }
       ],
       "baseId": "donso",
+      "nameCN": "当佐兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。远程攻击时定期投掷标枪。\n+ 反骑兵专家\n+ 对象兵造成额外伤害\n+ 自带近战护甲\n- 不擅长对付重型步兵\n- 会受到弓兵和长弓兵克制",
       "costs": {
         "food": 60,
         "wood": 30,
@@ -48355,6 +48778,7 @@
         },
         "donso-2": {
           "name": "Hardened Donso",
+          "nameCN": "坚韧当佐兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/donso-2.png",
           "hitpoints": 100,
@@ -48481,6 +48905,7 @@
         },
         "donso-3": {
           "name": "Veteran Donso",
+          "nameCN": "老练当佐兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/donso-3.png",
           "hitpoints": 120,
@@ -48607,6 +49032,7 @@
         },
         "donso-4": {
           "name": "Elite Donso",
+          "nameCN": "精锐当佐兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/donso-4.png",
           "hitpoints": 140,
@@ -48781,7 +49207,9 @@
         }
       ],
       "baseId": "freeborn-warrior",
+      "nameCN": "自由民战士",
       "age": 3,
+      "descriptionCN": "拥有高远程护甲的步兵，对抗远程单位时可获得加成。\n+ 擅长对付远程单位\n- 不擅长对付重型近战单位",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -48885,6 +49313,7 @@
         },
         "freeborn-warrior-4": {
           "name": "Elite Freeborn Warrior",
+          "nameCN": "精锐自由民战士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/freeborn-warrior-4.png",
           "hitpoints": 205,
@@ -48992,6 +49421,7 @@
           "baseId": "hunting-canoe",
           "type": "unit",
           "name": "Hunting Canoe",
+          "nameCN": "狩猎独木舟",
           "pbgid": 2071545,
           "attribName": "unit_naval_light_combat_ship_2_mal",
           "age": 2,
@@ -48999,6 +49429,7 @@
             "ma"
           ],
           "description": "Light war vessel armed with a crew of archers.\n+ Increased maneuverability and speed.\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -49151,7 +49582,9 @@
         }
       ],
       "baseId": "mansa-javelineer",
+      "nameCN": "曼萨掷枪兵",
       "age": 2,
+      "descriptionCN": "远程步兵擅长对抗其他远程单位。移动速度更快，并能造成中毒伤害。\n+ 反远程专家\n+ 武器射程增加\n+ 自带远程护甲\n- 低生命值\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -49255,6 +49688,7 @@
         },
         "mansa-javelineer-3": {
           "name": "Veteran Mansa Javelineer",
+          "nameCN": "老练曼萨掷枪兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/mansa-javelineer-3.png",
           "hitpoints": 80,
@@ -49330,6 +49764,7 @@
         },
         "mansa-javelineer-4": {
           "name": "Elite Mansa Javelineer",
+          "nameCN": "精锐曼萨掷枪兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mansa-javelineer-4.png",
           "hitpoints": 95,
@@ -49463,7 +49898,9 @@
         }
       ],
       "baseId": "mansa-musofadi-warrior",
+      "nameCN": "曼萨穆索法迪战士",
       "age": 2,
+      "descriptionCN": "擅长伏击和克制重型目标的步兵。拥有额外的近战护甲和生命值。\n+ 可以进入匿踪状态\n+ 反重型专家\n- 生命值低\n- 受弓兵克制\n- 首都城镇中心、哨站和侦察兵可以识破匿踪",
       "costs": {
         "food": 45,
         "wood": 0,
@@ -49567,6 +50004,7 @@
         },
         "mansa-musofadi-warrior-3": {
           "name": "Veteran Mansa Musofadi Warrior",
+          "nameCN": "老练曼萨穆索法迪战士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/mansa-musofadi-warrior-3.png",
           "hitpoints": 125,
@@ -49642,6 +50080,7 @@
         },
         "mansa-musofadi-warrior-4": {
           "name": "Elite Mansa Musofadi Warrior",
+          "nameCN": "精锐曼萨穆索法迪战士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mansa-musofadi-warrior-4.png",
           "hitpoints": 150,
@@ -49752,6 +50191,7 @@
           "baseId": "musofadi-gunner",
           "type": "unit",
           "name": "Musofadi Gunner",
+          "nameCN": "穆索法迪火枪兵",
           "pbgid": 2810898,
           "attribName": "unit_handcannon_4_mal",
           "age": 4,
@@ -49759,6 +50199,7 @@
             "ma"
           ],
           "description": "Powerful ranged infantry effective at ambush attacks.\n+ Increased movement speed\n+ Can enter stealth\n+ High damage\n- High cost",
+          "descriptionCN": "强大的远程步兵，擅长伏击。\n+ 移动速度增加\n+ 可以进入潜行\n+ 高伤害\n- 高成本",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -49893,7 +50334,9 @@
         }
       ],
       "baseId": "sofa",
+      "nameCN": "索法骑手",
       "age": 2,
+      "descriptionCN": "重装骑兵更低廉，生命值和护甲更少。\n+ 高移动速度\n+ 更便宜的成本\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -50000,6 +50443,7 @@
         },
         "sofa-3": {
           "name": "Veteran Sofa",
+          "nameCN": "老练索法骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/sofa-3.png",
           "hitpoints": 195,
@@ -50079,6 +50523,7 @@
         },
         "sofa-4": {
           "name": "Elite Sofa",
+          "nameCN": "精锐索法骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/sofa-4.png",
           "hitpoints": 230,
@@ -50193,6 +50638,7 @@
           "baseId": "war-canoe",
           "type": "unit",
           "name": "War Canoe",
+          "nameCN": "战争独木舟",
           "pbgid": 2229104,
           "attribName": "unit_naval_combat_ship_2_mal",
           "age": 2,
@@ -50200,6 +50646,7 @@
             "ma"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "massive",
@@ -50368,7 +50815,9 @@
         }
       ],
       "baseId": "warrior-scout",
+      "nameCN": "战士侦察兵",
       "age": 2,
+      "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和放牧绵羊。\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
       "costs": {
         "food": 90,
         "wood": 0,
@@ -50461,8 +50910,10 @@
         },
         "warrior-scout-3": {
           "name": "Veteran Warrior Scout",
+          "nameCN": "老练战士侦察兵",
           "age": 3,
           "description": "Fast cavalry effective at raiding, exploring the world, hunting wildlife, and herding Sheep.\n+ Bonus damage vs ranged\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak in combat",
+          "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和牧羊。\n+ 对远程单位造成伤害加成\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
           "icon": "https://data.aoe4world.com/images/units/warrior-scout-3.png",
           "hitpoints": 130,
           "weapons": [
@@ -50535,8 +50986,10 @@
         },
         "warrior-scout-4": {
           "name": "Elite Warrior Scout",
+          "nameCN": "精锐战士侦察兵",
           "age": 4,
           "description": "Fast cavalry effective at raiding and fighting ranged units.\n+ Bonus damage vs ranged\n+ Increased health regeneration\n+ Increased move speed\n+ Able to see into Stealth Forests\n- Weak vs melee units",
+          "descriptionCN": "行动快速的骑兵，擅长突袭和对抗远程单位。\n+ 对远程单位造成额外伤害 \n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 不擅对抗近战单位",
           "icon": "https://data.aoe4world.com/images/units/warrior-scout-4.png",
           "hitpoints": 155,
           "weapons": [
@@ -50647,6 +51100,7 @@
           "baseId": "khaganate-horse-archer",
           "type": "unit",
           "name": "Khaganate Elite Horse Archer",
+          "nameCN": "精锐骑射手",
           "pbgid": 2104798,
           "attribName": "unit_khaganate_horsearcher_rus_mon",
           "age": 4,
@@ -50654,6 +51108,7 @@
             "mo"
           ],
           "description": "Highly mobile ranged cavalry effective against slower melee units.\n+ High mobility\n- Weak vs ranged units\n\nRandomly spawns 5 at the time from the Khaganate Palace.",
+          "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -50774,6 +51229,7 @@
           "baseId": "khaganate-knight",
           "type": "unit",
           "name": "Khaganate Elite Knight",
+          "nameCN": "精锐骑士",
           "pbgid": 2117332,
           "attribName": "unit_khaganate_knight_rus_mon",
           "age": 4,
@@ -50781,6 +51237,7 @@
             "mo"
           ],
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen\n\nRandomly spawns 3 at the time from the Khaganate Palace.",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -50931,6 +51388,7 @@
           "baseId": "khaganate-mangudai",
           "type": "unit",
           "name": "Khaganate Elite Mangudai",
+          "nameCN": "精锐蒙古突骑",
           "pbgid": 2122464,
           "attribName": "unit_khaganate_mangudai_mon",
           "age": 4,
@@ -50938,6 +51396,7 @@
             "mo"
           ],
           "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range\n\nRandomly spawns from the Khaganate Palace.",
+          "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -51050,6 +51509,7 @@
           "baseId": "khaganate-nest-of-bees",
           "type": "unit",
           "name": "Khaganate Nest of Bees",
+          "nameCN": "一窝蜂",
           "pbgid": 2104797,
           "attribName": "unit_khaganate_nest_of_bees_4_mon",
           "age": 4,
@@ -51057,6 +51517,7 @@
             "mo"
           ],
           "description": "Innovative field weapon capable of firing a barrage of rockets to damage defensive positions and clumped enemy troops.\n+ Good area of effect damage against most targets\n- Slowest movement speed\n- Weak if surrounded\n\nRandomly spawns from the Khaganate Palace.",
+          "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -51208,6 +51669,7 @@
           "baseId": "khaganate-palace-guard",
           "type": "unit",
           "name": "Khaganate Elite Palace Guard",
+          "nameCN": "精锐皇宫卫兵",
           "pbgid": 2104796,
           "attribName": "unit_khaganate_manatarms_china_mon",
           "age": 4,
@@ -51215,6 +51677,7 @@
             "mo"
           ],
           "description": "Tough infantry with good damage. Move faster than Men-At-Arms, but with reduced armor.\n+ Heavy armor\n- Countered by Knights, Lancers, and Crossbowmen.\n\nRandomly spawns 5 at the time from the Khaganate Palace.",
+          "descriptionCN": "可造成可观伤害的强壮步兵。移动速度比武士快，但护甲更低。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -51366,6 +51829,7 @@
           "baseId": "khaganate-warrior-monk",
           "type": "unit",
           "name": "Khaganate Warrior Monk",
+          "nameCN": "僧侣战士",
           "pbgid": 2104799,
           "attribName": "unit_khaganate_monk_rus_mon",
           "age": 4,
@@ -51373,6 +51837,7 @@
             "mo"
           ],
           "description": "Military-minded support unit that improves combat capabilities of nearby units after it attacks. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n+ High utility in large armies\n- Low damage\n\nRandomly spawns 2 at the time from the Khaganate Palace.",
+          "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -51543,7 +52008,9 @@
         }
       ],
       "baseId": "khan",
+      "nameCN": "汗",
       "age": 1,
+      "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -51617,6 +52084,7 @@
         },
         "khan-2": {
           "name": "Hardened Khan",
+          "nameCN": "铁血汗",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/khan-2.png",
           "hitpoints": 115,
@@ -51665,6 +52133,7 @@
         },
         "khan-3": {
           "name": "Veteran Khan",
+          "nameCN": "老练汗",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/khan-3.png",
           "hitpoints": 300,
@@ -51713,6 +52182,7 @@
         },
         "khan-4": {
           "name": "Elite Khan",
+          "nameCN": "精锐汗",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/khan-4.png",
           "hitpoints": 450,
@@ -51826,7 +52296,9 @@
         }
       ],
       "baseId": "khans-hunter",
+      "nameCN": "汗的猎人",
       "age": 2,
+      "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
       "costs": {
         "food": 0,
         "wood": 60,
@@ -51887,6 +52359,7 @@
         },
         "khans-hunter-3": {
           "name": "Veteran Khan's Hunter",
+          "nameCN": "汗的老练猎人",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/khans-hunter-3.png",
           "hitpoints": 90,
@@ -51920,6 +52393,7 @@
         },
         "khans-hunter-4": {
           "name": "Elite Khan's Hunter",
+          "nameCN": "汗的精锐猎人",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/khans-hunter-4.png",
           "hitpoints": 110,
@@ -52009,7 +52483,9 @@
         }
       ],
       "baseId": "gilded-archer",
+      "nameCN": "镀金步弓手",
       "age": 2,
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 60,
         "wood": 100,
@@ -52041,6 +52517,7 @@
         "gilded-archer-2": {
           "name": "Gilded Archer",
           "description": "Ranged infantry with good damage vs. unarmored targets and increased fire rate and longer weapon range than standard Archers.\n+ Increased weapon range\n+ Faster attack speed\n- Weak against armored targets\n- Countered by Horsemen",
+          "descriptionCN": "与标准弓箭手相比，远程步兵可对非装甲目标造成很高的伤害，攻击速度更快，武器射程更远。\n+ 更远的武器射程\n+ 更快的攻击速度\n- 不擅长对付装甲目标\n- 会受到骑兵克制",
           "weapons": [
             {
               "name": "Bow",
@@ -52102,6 +52579,7 @@
         },
         "gilded-archer-3": {
           "name": "Veteran Gilded Archer",
+          "nameCN": "老练镀金步弓手",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -52181,6 +52659,7 @@
         },
         "gilded-archer-4": {
           "name": "Elite Gilded Archer",
+          "nameCN": "精锐镀金步弓手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -52308,7 +52787,9 @@
         }
       ],
       "baseId": "gilded-crossbowman",
+      "nameCN": "镀金弩手",
       "age": 3,
+      "descriptionCN": "射程较远的弩手，可以对重型单位造成极高的伤害。\n+ 反重型专家\n+ 射程远\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 160,
         "wood": 0,
@@ -52433,6 +52914,7 @@
         },
         "gilded-crossbowman-4": {
           "name": "Elite Gilded Crossbowman",
+          "nameCN": "精锐镀金弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -52530,6 +53012,7 @@
           "baseId": "gilded-handcannoneer",
           "type": "unit",
           "name": "Gilded Handcannoneer",
+          "nameCN": "镀金火枪兵",
           "pbgid": 6642514,
           "attribName": "unit_handcannon_4_hre_ha_01",
           "age": 4,
@@ -52537,6 +53020,7 @@
             "od"
           ],
           "description": "More powerful all-purpose ranged infantry with increased attack speed.\n+ High damage\n+ Increased attack speed\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "更为强大的全面型高攻速远程步兵。\n+ 高伤害\n+ 攻击速度提升\n- 高成本\n- 移动速度较慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -52669,7 +53153,9 @@
         }
       ],
       "baseId": "gilded-horseman",
+      "nameCN": "镀金骑手",
       "age": 2,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 200,
         "wood": 40,
@@ -52785,6 +53271,7 @@
         },
         "gilded-horseman-3": {
           "name": "Veteran Gilded Horseman",
+          "nameCN": "老练镀金骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-horseman-3.png",
           "hitpoints": 310,
@@ -52873,6 +53360,7 @@
         },
         "gilded-horseman-4": {
           "name": "Elite Gilded Horseman",
+          "nameCN": "精锐镀金骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-horseman-4.png",
           "hitpoints": 360,
@@ -53012,7 +53500,9 @@
         }
       ],
       "baseId": "gilded-knight",
+      "nameCN": "镀金骑士",
       "age": 3,
+      "descriptionCN": "拥有强大冲锋能力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 280,
         "wood": 0,
@@ -53128,8 +53618,10 @@
         },
         "gilded-knight-4": {
           "name": "Elite Gilded Knight",
+          "nameCN": "精锐镀金骑士",
           "age": 4,
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "icon": "https://data.aoe4world.com/images/units/gilded-knight-4.png",
           "hitpoints": 460,
           "weapons": [
@@ -53267,7 +53759,9 @@
         }
       ],
       "baseId": "gilded-landsknecht",
+      "nameCN": "镀金国土佣仆",
       "age": 3,
+      "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -53375,6 +53869,7 @@
         },
         "gilded-landsknecht-4": {
           "name": "Elite Gilded Landsknecht",
+          "nameCN": "精锐镀金国土佣仆",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-landsknecht-4.png",
           "hitpoints": 220,
@@ -53511,7 +54006,9 @@
         }
       ],
       "baseId": "gilded-man-at-arms",
+      "nameCN": "早期镀金武士",
       "age": 2,
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "costs": {
         "food": 200,
         "wood": 0,
@@ -53628,6 +54125,7 @@
         },
         "gilded-man-at-arms-3": {
           "name": "Gilded Man-at-Arms",
+          "nameCN": "镀金武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-man-at-arms-3.png",
           "hitpoints": 290,
@@ -53790,6 +54288,7 @@
         },
         "gilded-man-at-arms-4": {
           "name": "Elite Gilded Man-at-Arms",
+          "nameCN": "精锐镀金武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-man-at-arms-4.png",
           "hitpoints": 340,
@@ -53980,7 +54479,9 @@
         }
       ],
       "baseId": "gilded-spearman",
+      "nameCN": "镀金长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 120,
         "wood": 40,
@@ -54098,6 +54599,7 @@
         },
         "gilded-spearman-2": {
           "name": "Hardened Gilded Spearman",
+          "nameCN": "坚韧镀金长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-2.png",
           "hitpoints": 180,
@@ -54187,6 +54689,7 @@
         },
         "gilded-spearman-3": {
           "name": "Veteran Gilded Spearman",
+          "nameCN": "老练镀金长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-3.png",
           "hitpoints": 220,
@@ -54276,6 +54779,7 @@
         },
         "gilded-spearman-4": {
           "name": "Elite Gilded Spearman",
+          "nameCN": "精锐镀金长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-4.png",
           "hitpoints": 260,
@@ -54393,6 +54897,7 @@
           "baseId": "gilded-villager",
           "type": "unit",
           "name": "Gilded Villager",
+          "nameCN": "镀金村民",
           "pbgid": 2513732,
           "attribName": "unit_villager_1_hre_ha_01",
           "age": 1,
@@ -54400,6 +54905,7 @@
             "od"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units. Gathers resources 28% quicker and builds and repairs 20% faster than regular Villagers.\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。与普通村民相比，收集资源速度加快 28%，并且建造和修理速度加快 20%。\n- 战斗能力弱",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -54621,7 +55127,9 @@
         }
       ],
       "baseId": "akinji",
+      "nameCN": "阿金基轻骑兵",
       "age": 2,
+      "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
       "costs": {
         "food": 80,
         "wood": 80,
@@ -54686,6 +55194,7 @@
         },
         "akinji-3": {
           "name": "Veteran Akinji",
+          "nameCN": "老练阿金基轻骑兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/akinji-3.png",
           "hitpoints": 105,
@@ -54722,6 +55231,7 @@
         },
         "akinji-4": {
           "name": "Elite Akinji",
+          "nameCN": "精锐阿金基轻骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/akinji-4.png",
           "hitpoints": 140,
@@ -54793,6 +55303,7 @@
           "baseId": "grand-galley",
           "type": "unit",
           "name": "Grand Galley",
+          "nameCN": "大型桨帆船",
           "pbgid": 2056917,
           "attribName": "unit_naval_galleass_4_ott",
           "age": 3,
@@ -54800,6 +55311,7 @@
             "ot"
           ],
           "description": "Large oared vessel which can be upgraded into a naval Military School.\n+ Large hold which can be garrisoned by any unit once upgraded into a Military School\n+ Very long range\n- Lower damage",
+          "descriptionCN": "大型带桨船只，可升级为一所海军军事学校。\n+ 大型船舱，升级到军事学校后任何单位都能驻扎\n+ 攻击范围极远\n - 较低的伤害",
           "classes": [
             "annihilation_condition",
             "gunpowder",
@@ -54926,6 +55438,7 @@
           "baseId": "great-bombard",
           "type": "unit",
           "name": "Great Bombard",
+          "nameCN": "重型火炮",
           "pbgid": 2058832,
           "attribName": "unit_great_bombard_4_ott",
           "age": 4,
@@ -54933,6 +55446,7 @@
             "ot"
           ],
           "description": "Largest cannon that can be fielded. Excellent against buildings or groups of targets.\n+ High damage\n+ Area damage\n+ Long Range\n- Must be set up to fire",
+          "descriptionCN": "可供部署的最大型加农炮，非常适合对付建筑或目标群。\n+ 高伤害\n+ 范围伤害\n+ 远射程\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -55114,7 +55628,9 @@
         }
       ],
       "baseId": "janissary",
+      "nameCN": "苏丹亲兵",
       "age": 3,
+      "descriptionCN": "强大的步兵，擅长对抗骑兵，可以修复攻城器械。\n+ 高伤害\n+ 对抗骑兵时可获得伤害加成\n- 高成本\n- 移动速度较慢\n- 会受到来自弓兵的额外伤害",
       "costs": {
         "food": 60,
         "wood": 0,
@@ -55190,6 +55706,7 @@
         },
         "janissary-4": {
           "name": "Elite Janissary",
+          "nameCN": "精锐苏丹亲兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/janissary-4.png",
           "hitpoints": 105,
@@ -55269,6 +55786,7 @@
           "baseId": "mehter",
           "type": "unit",
           "name": "Mehter",
+          "nameCN": "奥斯曼军乐队",
           "pbgid": 2059263,
           "attribName": "unit_mehter_2_ott",
           "age": 2,
@@ -55276,6 +55794,7 @@
             "ot"
           ],
           "description": "War drummer that enhances units in an area, except Villagers and Traders.\n+ War drum military enhancements\n+ High movement speed\n- No weapons",
+          "descriptionCN": "战鼓手将会为范围内的除村民和商人之外的友军单位提供增益。\n+ 战鼓军事增益\n+ 高移动速度\n- 没有武器",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -55388,6 +55907,7 @@
           "baseId": "lodya-attack-ship",
           "type": "unit",
           "name": "Lodya Attack Ship",
+          "nameCN": "罗德亚攻击船",
           "pbgid": 193134,
           "attribName": "unit_naval_combat_ship_2_rus",
           "age": 2,
@@ -55395,6 +55915,7 @@
             "ru"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "lodya_combat_ship",
@@ -55541,6 +56062,7 @@
           "baseId": "lodya-demolition-ship",
           "type": "unit",
           "name": "Lodya Demolition Ship",
+          "nameCN": "罗德亚爆破船",
           "pbgid": 193137,
           "attribName": "unit_naval_fireship_3_rus",
           "age": 2,
@@ -55548,6 +56070,7 @@
             "ru"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n+ The Lodya can be converted to any other type of ship\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。在遭到摧毁时会爆炸，对该区域内的所有单位造成伤害。\n+ 罗德亚可以转换为任何其他船型\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -55683,6 +56206,7 @@
           "baseId": "lodya-fishing-boat",
           "type": "unit",
           "name": "Lodya Fishing Boat",
+          "nameCN": "罗德亚渔船",
           "pbgid": 193136,
           "attribName": "unit_naval_fishing_boat_2_rus",
           "age": 2,
@@ -55690,6 +56214,7 @@
             "ru"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Does not require a Dock to drop off gathered Food and gathers faster than a regular Fishing Boat.\n- No combat\nThe Lodya Fishing Boat can be converted to any other type of ship.",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。不需要码头就可存放采集到的食物，而且采集速度比普通的渔船更快。\n- 不具备战斗能力\n罗德亚渔船可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -55775,6 +56300,7 @@
           "baseId": "lodya-galley",
           "type": "unit",
           "name": "Lodya Galley",
+          "nameCN": "罗德亚战舰",
           "pbgid": 2102829,
           "attribName": "unit_naval_war_galley_3_rus",
           "age": 2,
@@ -55782,6 +56308,7 @@
             "ru"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -55915,6 +56442,7 @@
           "baseId": "lodya-trade-ship",
           "type": "unit",
           "name": "Lodya Trade Ship",
+          "nameCN": "罗德亚商船",
           "pbgid": 196686,
           "attribName": "unit_naval_trade_ship_3_rus",
           "age": 2,
@@ -55922,6 +56450,7 @@
             "ru"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\nThe Lodya can be converted to any other type of ship.",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n罗德亚可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -56004,6 +56533,7 @@
           "baseId": "lodya-transport-ship",
           "type": "unit",
           "name": "Lodya Transport Ship",
+          "nameCN": "罗德亚运输船",
           "pbgid": 193138,
           "attribName": "unit_naval_transport_ship_2_rus",
           "age": 2,
@@ -56011,6 +56541,7 @@
             "ru"
           ],
           "description": "Can be garrisoned by any unit and uses their sight range. Allows garrisoned units to be transport across water.\nThe Lodya can be converted to any other type of ship.",
+          "descriptionCN": "任何单位均可驻扎并可使用其视野范围。可将驻扎单位运过水域。\n罗德亚可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -56106,6 +56637,7 @@
           "baseId": "militia",
           "type": "unit",
           "name": "Militia",
+          "nameCN": "民兵",
           "pbgid": 2104839,
           "attribName": "unit_militia_2_rus",
           "age": 2,
@@ -56113,6 +56645,7 @@
             "ru"
           ],
           "description": "Light melee infantry equipped with a polearm.\n+ Fast moving\n- Countered by Archers\n- Can't garrison\n- Loses life over time",
+          "descriptionCN": "配备长矛的轻型近战步兵。\n+ 快速移动\n- 会受到弓兵克制\n- 不能驻军\n- 随时间流逝减少生命值",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -56261,6 +56794,7 @@
           "baseId": "warrior-monk",
           "type": "unit",
           "name": "Warrior Monk",
+          "nameCN": "僧侣战士",
           "pbgid": 133469,
           "attribName": "unit_monk_3_rus",
           "age": 3,
@@ -56268,6 +56802,7 @@
             "ru"
           ],
           "description": "Military-minded support unit that improves combat capabilities of nearby units after it attacks. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n+ High utility in large armies\n- Low damage",
+          "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -56411,6 +56946,7 @@
           "baseId": "daimyo",
           "type": "unit",
           "name": "Daimyo",
+          "nameCN": "大名",
           "pbgid": 9001369,
           "attribName": "unit_daimyo_2_jpn_ha_sen",
           "age": 2,
@@ -56418,6 +56954,7 @@
             "sen"
           ],
           "description": "High health and damage melee cavalry that provides an aura that increases attack speed of nearby military units. Effective against melee units. Limited to one per Daimyo Estate built.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "高生命值、高伤害的近战骑兵，提供的光环可提高附近军事单位的攻击速度。擅长对付近战单位。每个已建造的大名庄园限造一个。\n+ 重型护甲\n+ 近战能力强大\n - 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -56595,6 +57132,7 @@
           "baseId": "ikko-ikki-monk",
           "type": "unit",
           "name": "Ikko-ikki Monk",
+          "nameCN": "一向一揆僧侣",
           "pbgid": 4457354,
           "attribName": "unit_monk_ikko_3_jpn_ha_sen",
           "age": 3,
@@ -56602,6 +57140,7 @@
             "sen"
           ],
           "description": "Warrior Monk with strong combat capabilities that heals nearby units when attacking. Does not have a targeted heal ability.\n+ Can heal themselves\n- Slow move speed",
+          "descriptionCN": "拥有强大战斗能力的僧侣战士，进攻时可治疗附近单位。不具备定向治疗能力。\n+ 可以治疗自己\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "buddhist_monk_jpn",
@@ -56766,7 +57305,9 @@
         }
       ],
       "baseId": "kanabo-samurai",
+      "nameCN": "金碎棒日本武士",
       "age": 2,
+      "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
       "costs": {
         "food": 130,
         "wood": 0,
@@ -56855,6 +57396,7 @@
         },
         "kanabo-samurai-3": {
           "name": "Veteran Kanabo Samurai",
+          "nameCN": "老练金碎棒日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/kanabo-samurai-3.png",
           "hitpoints": 230,
@@ -56920,6 +57462,7 @@
         },
         "kanabo-samurai-4": {
           "name": "Elite Kanabo Samurai",
+          "nameCN": "精锐金碎棒日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/kanabo-samurai-4.png",
           "hitpoints": 260,
@@ -57025,6 +57568,7 @@
           "baseId": "mounted-samurai-levy",
           "type": "unit",
           "name": "Mounted Samurai Levy",
+          "nameCN": "骑马日本武士征兵",
           "pbgid": 9003839,
           "attribName": "unit_knight_levy_jpn_ha_sen",
           "age": 3,
@@ -57032,6 +57576,7 @@
             "sen"
           ],
           "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -57272,7 +57817,9 @@
         }
       ],
       "baseId": "naginata-samurai",
+      "nameCN": "薙刀日本武士",
       "age": 1,
+      "descriptionCN": "重装步兵，具有良好的伤害和防御力。\n+ 重型护甲\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -57365,6 +57912,7 @@
         },
         "naginata-samurai-2": {
           "name": "Hardened Naginata Samurai",
+          "nameCN": "坚韧薙刀日本武士",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-2.png",
           "hitpoints": 120,
@@ -57430,6 +57978,7 @@
         },
         "naginata-samurai-3": {
           "name": "Veteran Naginata Samurai",
+          "nameCN": "老练薙刀日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-3.png",
           "hitpoints": 155,
@@ -57495,6 +58044,7 @@
         },
         "naginata-samurai-4": {
           "name": "Elite Naginata Samurai",
+          "nameCN": "精锐薙刀日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-4.png",
           "hitpoints": 180,
@@ -57598,6 +58148,7 @@
           "baseId": "naginata-samurai-levy",
           "type": "unit",
           "name": "Naginata Samurai Levy",
+          "nameCN": "薙刀日本征召武士",
           "pbgid": 9003840,
           "attribName": "unit_samurai_levy_jpn_ha_sen",
           "age": 1,
@@ -57605,6 +58156,7 @@
             "sen"
           ],
           "description": "Heavy infantry with good damage and defense.\n+ Heavy armor\n- Slow move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+          "descriptionCN": "重装步兵，具有良好的伤害和防御力。\n+ 重型护甲\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -57806,6 +58358,7 @@
           "baseId": "spearman-levy",
           "type": "unit",
           "name": "Spearman Levy",
+          "nameCN": "长矛兵征兵",
           "pbgid": 9003842,
           "attribName": "unit_spearman_levy_jpn_ha_sen",
           "age": 1,
@@ -57813,6 +58366,7 @@
             "sen"
           ],
           "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+          "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -57990,7 +58544,9 @@
         }
       ],
       "baseId": "tanegashima-ashigaru",
+      "nameCN": "火绳枪足轻",
       "age": 3,
+      "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
       "costs": {
         "food": 70,
         "wood": 0,
@@ -58065,6 +58621,7 @@
         },
         "tanegashima-ashigaru-4": {
           "name": "Elite Tanegashima Ashigaru",
+          "nameCN": "精锐火绳枪足轻",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -58166,6 +58723,7 @@
           "baseId": "tanegashima-ashigaru-levy",
           "type": "unit",
           "name": "Tanegashima Ashigaru Levy",
+          "nameCN": "火绳枪足轻征兵",
           "pbgid": 9003837,
           "attribName": "unit_handcannon_levy_jpn_ha_sen",
           "age": 3,
@@ -58173,6 +58731,7 @@
             "sen"
           ],
           "description": "Powerful ranged infantry that is effective against armored units.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
           "classes": [
             "annihilation_condition",
             "daimyo_retainer",
@@ -58320,7 +58879,9 @@
         }
       ],
       "baseId": "yari-cavalry",
+      "nameCN": "日本长枪骑兵",
       "age": 2,
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 115,
         "wood": 30,
@@ -58449,6 +59010,7 @@
         },
         "yari-cavalry-3": {
           "name": "Veteran Yari Cavalry",
+          "nameCN": "老练日本长枪骑兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/yari-cavalry-3.png",
           "hitpoints": 175,
@@ -58550,6 +59112,7 @@
         },
         "yari-cavalry-4": {
           "name": "Elite Yari Cavalry",
+          "nameCN": "精锐日本长枪骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/yari-cavalry-4.png",
           "hitpoints": 200,
@@ -58686,6 +59249,7 @@
           "baseId": "yari-cavalry-levy",
           "type": "unit",
           "name": "Yari Cavalry Levy",
+          "nameCN": "日本长枪征召骑兵",
           "pbgid": 9003838,
           "attribName": "unit_horseman_levy_jpn_ha_sen",
           "age": 1,
@@ -58693,6 +59257,7 @@
             "sen"
           ],
           "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+          "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -58862,6 +59427,7 @@
           "baseId": "yatai",
           "type": "unit",
           "name": "Yatai",
+          "nameCN": "屋台",
           "pbgid": 9001316,
           "attribName": "unit_yatai_1_jpn_ha_sen",
           "age": 1,
@@ -58869,6 +59435,7 @@
             "sen"
           ],
           "description": "Collects Food from nearby sources without consuming them in addition to a base rate of 20 Food every minute. After collecting enough Food it will send a trader to its Home Matsuri, which improves the Matsuri gather rate aura by 5%, +250 health and grants +50 additional Food. \nFood sources overlapped by multiple Yatai are only counted once and Boar do not retaliate while near a Yatai. The Yatai is limited to 3 and is increased by +1 per age up.",
+          "descriptionCN": "从附近来源收集食物，但不会进行消耗，此外基础速率为每分钟 20 食物。收集到足够的食物后，将会派出一名商人前往参加主祭典，这可让祭典采集速率光环 +5%，生命值 +250，并额外提供 +50 的食物。\n多个屋台所覆盖的食物来源只计算一次，野猪在屋台附近时不会反击。屋台的上限为 3，并且每次提升时代 +1。",
           "classes": [
             "mobile_building",
             "packable_building",
@@ -58947,6 +59514,7 @@
           "baseId": "yumi-ashigaru-levy",
           "type": "unit",
           "name": "Yumi Ashigaru Levy",
+          "nameCN": "日本长弓足轻征兵",
           "pbgid": 9003836,
           "attribName": "unit_archer_levy_jpn_ha_sen",
           "age": 1,
@@ -58954,6 +59522,7 @@
             "sen"
           ],
           "description": "Quick and cheap ranged infantry with good damage vs. unarmored targets.\n+ Increased move speed\n+ Cheaper than Archers\n- Reduced health\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+          "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",
@@ -59173,6 +59742,7 @@
           "baseId": "amir-warrior",
           "type": "unit",
           "name": "Amir Warrior",
+          "nameCN": "埃米尔战士",
           "pbgid": 9003589,
           "attribName": "unit_amir_warrior_sul_ha_tug",
           "age": 1,
@@ -59180,6 +59750,7 @@
             "tug"
           ],
           "description": "Powerful Heavy Infantry trained for free that excels in combat near to Tughlaqabad Forts. \n+ No population cost\n+ High health and armor\n- Rapidly loses strength away from Tughlaqabad Forts\n- Countered by Crossbowmen",
+          "descriptionCN": "可免费训练的强大重装步兵，在腾格拉卡巴德堡垒附近时战斗力出色。\n+ 不消耗人口\n+ 高生命值和高护甲\n- 远离腾格拉卡巴德堡垒时，战力迅速衰减\n- 受弩手克制",
           "classes": [
             "amir_warrior",
             "annihilation_condition",
@@ -59365,7 +59936,9 @@
         }
       ],
       "baseId": "ballista-elephant",
+      "nameCN": "弩炮大象",
       "age": 3,
+      "descriptionCN": "安装在象背上的弩炮能够有效对付近战步兵和打击多个目标。\n+ 高生命值和高护甲\n+ 对近战单位造成额外伤害\n- 移动速度慢",
       "costs": {
         "food": 300,
         "wood": 0,
@@ -59464,6 +60037,7 @@
         },
         "ballista-elephant-4": {
           "name": "Elite Ballista Elephant",
+          "nameCN": "精锐重弩战象",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/ballista-elephant-4.png",
           "hitpoints": 475,
@@ -59587,7 +60161,9 @@
         }
       ],
       "baseId": "healer-elephant",
+      "nameCN": "医疗大象",
       "age": 2,
+      "descriptionCN": "后勤大象驮着两名伊玛目，每名伊玛目都可以单独治疗盟友单位。周围有近战步兵时，会获得额外伤害，并能占领圣地。\n+ 高生命值和护甲\n- 移动速度慢\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 150,
         "wood": 0,
@@ -59672,6 +60248,7 @@
         },
         "healer-elephant-4": {
           "name": "Elite Healer Elephant",
+          "nameCN": "精锐治疗者大象",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/healer-elephant-4.png",
           "weapons": [
@@ -59783,7 +60360,9 @@
         }
       ],
       "baseId": "raider-elephant",
+      "nameCN": "突袭大象",
       "age": 2,
+      "descriptionCN": "迅捷大象，擅长突袭、侧翼攻击和克制远程单位。可以使用践踏能力绕过任何单位，在一片区域内造成伤害。\n+ 高生命值\n+ 移动速度快\n+ 冲锋距离更远\n- 会受到长矛兵克制",
       "costs": {
         "food": 200,
         "wood": 40,
@@ -59876,6 +60455,7 @@
         },
         "raider-elephant-3": {
           "name": "Veteran Raider Elephant",
+          "nameCN": "老练突袭大象",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/raider-elephant-3.png",
           "hitpoints": 285,
@@ -59945,6 +60525,7 @@
         },
         "raider-elephant-4": {
           "name": "Elite Raider Elephant",
+          "nameCN": "精锐突袭大象",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/raider-elephant-4.png",
           "hitpoints": 410,
@@ -60048,6 +60629,7 @@
           "baseId": "worker-elephant",
           "type": "unit",
           "name": "Worker Elephant",
+          "nameCN": "工作大象",
           "pbgid": 9001124,
           "attribName": "unit_worker_elephant_2_sul_ha_tug",
           "age": 2,
@@ -60055,6 +60637,7 @@
             "tug"
           ],
           "description": "Hardworking support Elephant.\n+ Universal resource drop-off\n+ Bonus to all resources dropped off\n+ Requires no Population - maximum 20\n- Slow movement speed",
+          "descriptionCN": "辛勤的后勤大象。\n+ 通用资源存放\n+ 存放的所有资源均获得加成\n+ 无人口需求 - 上限为 20\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -60171,6 +60754,7 @@
           "baseId": "imperial-guard",
           "type": "unit",
           "name": "Imperial Guard",
+          "nameCN": "帝国卫队",
           "pbgid": 2143642,
           "attribName": "unit_ming_guard_chi_ha_01",
           "age": 4,
@@ -60178,6 +60762,7 @@
             "zx"
           ],
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen\n\nRequires Dynastic Protectors researched at Zhu Xi's Library.",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -60352,6 +60937,7 @@
           "baseId": "shaolin-monk",
           "type": "unit",
           "name": "Shaolin Monk",
+          "nameCN": "少林僧侣",
           "pbgid": 2127467,
           "attribName": "unit_monk_shaolin_3_chi_ha_01",
           "age": 3,
@@ -60359,6 +60945,7 @@
             "zx"
           ],
           "description": "Monk with strong combat capabilities.\n+ Strong against ranged units \n+ Can heal themselves\n- Cannot heal others",
+          "descriptionCN": "拥有强大战斗能力的僧侣。\n+ 擅长对抗远程单位\n+ 可治疗自己\n- 无法治疗其他单位",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -60504,6 +61091,7 @@
           "baseId": "yuan-raider",
           "type": "unit",
           "name": "Yuan Raider",
+          "nameCN": "元朝掠夺者",
           "pbgid": 2143640,
           "attribName": "unit_yuan_guard_4_chi_ha_01",
           "age": 4,
@@ -60511,6 +61099,7 @@
             "zx"
           ],
           "description": "Extremely swift light cavalry which deals bonus damage to economic units.\n+ Fast move speed\n+ Bonus damage vs Villagers\n- Weak in melee combat\n- Countered by Spearmen\n\nRequires Dynastic Protectors researched at Zhu Xi's Library.",
+          "descriptionCN": "高度机动的轻型骑兵，可对经济单位造成额外伤害。\n+ 快速移动能力\n+ 对村民造成额外伤害\n- 不擅近战\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "cavalry",

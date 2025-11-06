@@ -29,6 +29,7 @@
       "baseId": "hizukuri",
       "type": "technology",
       "name": "Hizukuri",
+      "nameCN": "火造",
       "pbgid": 2136858,
       "attribName": "upgrade_melee_damage_ii_jpn",
       "age": 2,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",
@@ -84,6 +86,7 @@
       "baseId": "hizukuri",
       "type": "technology",
       "name": "Hizukuri",
+      "nameCN": "火造",
       "pbgid": 2136858,
       "attribName": "upgrade_melee_damage_ii_jpn",
       "age": 2,
@@ -91,6 +94,7 @@
         "sen"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

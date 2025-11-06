@@ -28,6 +28,7 @@
       "baseId": "gambesons",
       "type": "technology",
       "name": "Gambesons",
+      "nameCN": "软甲",
       "pbgid": 172163,
       "attribName": "upgrade_ranged_crossbow_drills_fre",
       "age": 3,
@@ -35,6 +36,7 @@
         "fr"
       ],
       "description": "Increase Arbalétrier melee armor by +5.",
+      "descriptionCN": "弓弩手的近战护甲 +5。",
       "classes": [
         "french_upgrade",
         "military_upgrade",
@@ -80,6 +82,7 @@
       "baseId": "gambesons",
       "type": "technology",
       "name": "Gambesons",
+      "nameCN": "软甲",
       "pbgid": 172163,
       "attribName": "upgrade_ranged_crossbow_drills_fre",
       "age": 3,
@@ -87,6 +90,7 @@
         "je"
       ],
       "description": "Increase Arbalétrier melee armor by +5.",
+      "descriptionCN": "弓弩手的近战护甲 +5。",
       "classes": [
         "french_upgrade",
         "military_upgrade",

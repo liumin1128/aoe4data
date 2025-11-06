@@ -27,6 +27,7 @@
       "baseId": "kampo-medicine",
       "type": "technology",
       "name": "Kampo Medicine",
+      "nameCN": "汉方医学",
       "pbgid": 9001974,
       "attribName": "upgrade_temple_monk_healing_jpn_ha_sen",
       "age": 3,
@@ -34,6 +35,7 @@
         "sen"
       ],
       "description": "The Ikko-ikki Monk attack aura healing Increased by +1.",
+      "descriptionCN": "一向一揆僧侣攻击光环治疗效果 +1。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",

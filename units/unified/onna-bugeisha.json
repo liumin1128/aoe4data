@@ -35,6 +35,7 @@
       "baseId": "onna-bugeisha",
       "type": "unit",
       "name": "Onna-Bugeisha",
+      "nameCN": "女武艺者",
       "pbgid": 2127199,
       "attribName": "unit_onna_bugeisha_2_jpn",
       "age": 2,
@@ -42,6 +43,7 @@
         "ja"
       ],
       "description": "Light melee infantry with fast attack speed and long weapon range.\n+ Fast attack speed\n+ Fast move speed\n+ Long weapon range\n- Weak against heavy targets\n- Countered by Archers, Knights",
+      "descriptionCN": "轻型近战步兵，攻击速度快且武器攻击范围远。\n+ 攻击速度快\n+ 移动速度快\n+ 武器攻击范围远\n- 不擅长对付重型目标\n- 会受到弓兵、骑士克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -144,6 +146,7 @@
       "baseId": "onna-bugeisha",
       "type": "unit",
       "name": "Veteran Onna-Bugeisha",
+      "nameCN": "老练女武艺者",
       "pbgid": 2127200,
       "attribName": "unit_onna_bugeisha_3_jpn",
       "age": 3,
@@ -151,6 +154,7 @@
         "ja"
       ],
       "description": "Light melee infantry with fast attack speed and long weapon range.\n+ Fast attack speed\n+ Fast move speed\n+ Long weapon range\n- Weak against heavy targets\n- Countered by Archers, Knights",
+      "descriptionCN": "轻型近战步兵，攻击速度快且武器攻击范围远。\n+ 攻击速度快\n+ 移动速度快\n+ 武器攻击范围远\n- 不擅长对付重型目标\n- 会受到弓兵、骑士克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -253,6 +257,7 @@
       "baseId": "onna-bugeisha",
       "type": "unit",
       "name": "Elite Onna-Bugeisha",
+      "nameCN": "精锐女武艺者",
       "pbgid": 2127201,
       "attribName": "unit_onna_bugeisha_4_jpn",
       "age": 4,
@@ -260,6 +265,7 @@
         "ja"
       ],
       "description": "Light melee infantry with fast attack speed and long weapon range.\n+ Fast attack speed\n+ Fast move speed\n+ Long weapon range\n- Weak against heavy targets\n- Countered by Archers, Knights",
+      "descriptionCN": "轻型近战步兵，攻击速度快且武器攻击范围远。\n+ 攻击速度快\n+ 移动速度快\n+ 武器攻击范围远\n- 不擅长对付重型目标\n- 会受到弓兵、骑士克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

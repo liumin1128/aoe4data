@@ -19,6 +19,7 @@
       "baseId": "ability-golden-age-tier-3",
       "type": "ability",
       "name": "Golden Age Tier 3",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 201595,
       "attribName": "golden_age_tier_3",
       "age": 1,
@@ -26,6 +27,7 @@
         "ab"
       ],
       "description": "+20% Production Speed, additional +5% Research Speed, additional +5% Resource Gathering Rate",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -51,6 +53,7 @@
       "baseId": "ability-golden-age-tier-3",
       "type": "ability",
       "name": "Golden Age Tier 3",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2146740,
       "attribName": "golden_age_tier_3_ha_01",
       "age": 3,
@@ -58,6 +61,7 @@
         "ay"
       ],
       "description": "30 Structures: Production Speeds +20%",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {

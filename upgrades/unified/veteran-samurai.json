@@ -29,6 +29,7 @@
       "baseId": "veteran-samurai",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2121989,
       "attribName": "upgrade_unit_manatarms_3_jpn",
       "age": 3,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Upgrade Hardened Samurai to Veteran Samurai.",
+      "descriptionCN": "将坚韧日本武士升级为老练日本武士。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",
@@ -70,6 +72,7 @@
       "baseId": "veteran-samurai",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2121989,
       "attribName": "upgrade_unit_manatarms_3_jpn",
       "age": 3,
@@ -77,6 +80,7 @@
         "sen"
       ],
       "description": "Upgrade Hardened Samurai to Veteran Samurai.",
+      "descriptionCN": "将坚韧日本武士升级为老练日本武士。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

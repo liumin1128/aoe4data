@@ -67,7 +67,9 @@
         }
       ],
       "baseId": "archer",
+      "nameCN": "步弓手",
       "age": 2,
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 30,
         "wood": 50,
@@ -159,6 +161,7 @@
         },
         "archer-3": {
           "name": "Veteran Archer",
+          "nameCN": "老练步弓手",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -238,6 +241,7 @@
         },
         "archer-4": {
           "name": "Elite Archer",
+          "nameCN": "精锐步弓手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -348,6 +352,7 @@
           "baseId": "battering-ram",
           "type": "unit",
           "name": "Battering Ram",
+          "nameCN": "攻城锤",
           "pbgid": 2108176,
           "attribName": "unit_workshop_ram_3_rus",
           "age": 2,
@@ -355,6 +360,7 @@
             "ru"
           ],
           "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+          "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -489,6 +495,7 @@
           "baseId": "bombard",
           "type": "unit",
           "name": "Bombard",
+          "nameCN": "手推炮",
           "pbgid": 133455,
           "attribName": "unit_bombard_4_rus",
           "age": 4,
@@ -496,6 +503,7 @@
             "ru"
           ],
           "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+          "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "bombard",
@@ -662,6 +670,7 @@
           "baseId": "counterweight-trebuchet",
           "type": "unit",
           "name": "Counterweight Trebuchet",
+          "nameCN": "配重式巨型投石机",
           "pbgid": 133489,
           "attribName": "unit_trebuchet_4_cw_rus",
           "age": 3,
@@ -669,6 +678,7 @@
             "ru"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -824,7 +834,9 @@
         }
       ],
       "baseId": "crossbowman",
+      "nameCN": "弩手",
       "age": 3,
+      "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -899,6 +911,7 @@
         },
         "crossbowman-4": {
           "name": "Elite Crossbowman",
+          "nameCN": "精锐弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1011,7 +1024,9 @@
         }
       ],
       "baseId": "horse-archer",
+      "nameCN": "骑射手",
       "age": 3,
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
       "costs": {
         "food": 80,
         "wood": 40,
@@ -1072,6 +1087,7 @@
         },
         "horse-archer-4": {
           "name": "Elite Horse Archer",
+          "nameCN": "精锐骑射手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/horse-archer-4.png",
           "hitpoints": 100,
@@ -1161,7 +1177,9 @@
         }
       ],
       "baseId": "horseman",
+      "nameCN": "骑手",
       "age": 2,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 100,
         "wood": 20,
@@ -1277,6 +1295,7 @@
         },
         "horseman-3": {
           "name": "Veteran Horseman",
+          "nameCN": "老练骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/horseman-3.png",
           "hitpoints": 155,
@@ -1365,6 +1384,7 @@
         },
         "horseman-4": {
           "name": "Elite Horseman",
+          "nameCN": "精锐骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/horseman-4.png",
           "hitpoints": 180,
@@ -1512,7 +1532,9 @@
         }
       ],
       "baseId": "knight",
+      "nameCN": "早期骑士",
       "age": 2,
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -1644,6 +1666,7 @@
         },
         "knight-3": {
           "name": "Knight",
+          "nameCN": "骑士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/knight-3.png",
           "hitpoints": 230,
@@ -1732,6 +1755,7 @@
         },
         "knight-4": {
           "name": "Elite Knight",
+          "nameCN": "精锐骑士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/knight-4.png",
           "hitpoints": 270,
@@ -1857,6 +1881,7 @@
           "baseId": "lodya-attack-ship",
           "type": "unit",
           "name": "Lodya Attack Ship",
+          "nameCN": "罗德亚攻击船",
           "pbgid": 193134,
           "attribName": "unit_naval_combat_ship_2_rus",
           "age": 2,
@@ -1864,6 +1889,7 @@
             "ru"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "lodya_combat_ship",
@@ -2010,6 +2036,7 @@
           "baseId": "lodya-demolition-ship",
           "type": "unit",
           "name": "Lodya Demolition Ship",
+          "nameCN": "罗德亚爆破船",
           "pbgid": 193137,
           "attribName": "unit_naval_fireship_3_rus",
           "age": 2,
@@ -2017,6 +2044,7 @@
             "ru"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n+ The Lodya can be converted to any other type of ship\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。在遭到摧毁时会爆炸，对该区域内的所有单位造成伤害。\n+ 罗德亚可以转换为任何其他船型\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -2152,6 +2180,7 @@
           "baseId": "lodya-fishing-boat",
           "type": "unit",
           "name": "Lodya Fishing Boat",
+          "nameCN": "罗德亚渔船",
           "pbgid": 193136,
           "attribName": "unit_naval_fishing_boat_2_rus",
           "age": 2,
@@ -2159,6 +2188,7 @@
             "ru"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Does not require a Dock to drop off gathered Food and gathers faster than a regular Fishing Boat.\n- No combat\nThe Lodya Fishing Boat can be converted to any other type of ship.",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。不需要码头就可存放采集到的食物，而且采集速度比普通的渔船更快。\n- 不具备战斗能力\n罗德亚渔船可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -2244,6 +2274,7 @@
           "baseId": "lodya-galley",
           "type": "unit",
           "name": "Lodya Galley",
+          "nameCN": "罗德亚战舰",
           "pbgid": 2102829,
           "attribName": "unit_naval_war_galley_3_rus",
           "age": 2,
@@ -2251,6 +2282,7 @@
             "ru"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -2384,6 +2416,7 @@
           "baseId": "lodya-trade-ship",
           "type": "unit",
           "name": "Lodya Trade Ship",
+          "nameCN": "罗德亚商船",
           "pbgid": 196686,
           "attribName": "unit_naval_trade_ship_3_rus",
           "age": 2,
@@ -2391,6 +2424,7 @@
             "ru"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\nThe Lodya can be converted to any other type of ship.",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n罗德亚可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -2473,6 +2507,7 @@
           "baseId": "lodya-transport-ship",
           "type": "unit",
           "name": "Lodya Transport Ship",
+          "nameCN": "罗德亚运输船",
           "pbgid": 193138,
           "attribName": "unit_naval_transport_ship_2_rus",
           "age": 2,
@@ -2480,6 +2515,7 @@
             "ru"
           ],
           "description": "Can be garrisoned by any unit and uses their sight range. Allows garrisoned units to be transport across water.\nThe Lodya can be converted to any other type of ship.",
+          "descriptionCN": "任何单位均可驻扎并可使用其视野范围。可将驻扎单位运过水域。\n罗德亚可以转换为任何其他船型。",
           "classes": [
             "annihilation_condition",
             "lodya_ship",
@@ -2590,7 +2626,9 @@
         }
       ],
       "baseId": "man-at-arms",
+      "nameCN": "武士",
       "age": 3,
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -2683,6 +2721,7 @@
         },
         "man-at-arms-4": {
           "name": "Elite Man-at-Arms",
+          "nameCN": "精锐武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/man-at-arms-4.png",
           "hitpoints": 180,
@@ -2779,6 +2818,7 @@
           "baseId": "mangonel",
           "type": "unit",
           "name": "Mangonel",
+          "nameCN": "轻型投石车",
           "pbgid": 133467,
           "attribName": "unit_mangonel_3_rus",
           "age": 3,
@@ -2786,6 +2826,7 @@
             "ru"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -3064,6 +3105,7 @@
           "baseId": "militia",
           "type": "unit",
           "name": "Militia",
+          "nameCN": "民兵",
           "pbgid": 2104839,
           "attribName": "unit_militia_2_rus",
           "age": 2,
@@ -3071,6 +3113,7 @@
             "ru"
           ],
           "description": "Light melee infantry equipped with a polearm.\n+ Fast moving\n- Countered by Archers\n- Can't garrison\n- Loses life over time",
+          "descriptionCN": "配备长矛的轻型近战步兵。\n+ 快速移动\n- 会受到弓兵克制\n- 不能驻军\n- 随时间流逝减少生命值",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -3218,6 +3261,7 @@
           "baseId": "scout",
           "type": "unit",
           "name": "Scout",
+          "nameCN": "侦察兵",
           "pbgid": 133475,
           "attribName": "unit_scout_1_rus",
           "age": 1,
@@ -3225,6 +3269,7 @@
             "ru"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -3363,6 +3408,7 @@
           "baseId": "siege-tower",
           "type": "unit",
           "name": "Siege Tower",
+          "nameCN": "攻城塔",
           "pbgid": 133340,
           "attribName": "unit_siege_tower_3_rus",
           "age": 2,
@@ -3370,6 +3416,7 @@
             "ru"
           ],
           "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+          "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -3503,7 +3550,9 @@
         }
       ],
       "baseId": "spearman",
+      "nameCN": "长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 60,
         "wood": 20,
@@ -3615,6 +3664,7 @@
         },
         "spearman-2": {
           "name": "Hardened Spearman",
+          "nameCN": "坚韧长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/spearman-2.png",
           "hitpoints": 90,
@@ -3699,6 +3749,7 @@
         },
         "spearman-3": {
           "name": "Veteran Spearman",
+          "nameCN": "老练长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/spearman-3.png",
           "hitpoints": 110,
@@ -3783,6 +3834,7 @@
         },
         "spearman-4": {
           "name": "Elite Spearman",
+          "nameCN": "精锐长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/spearman-4.png",
           "hitpoints": 130,
@@ -3897,6 +3949,7 @@
           "baseId": "springald",
           "type": "unit",
           "name": "Springald",
+          "nameCN": "扭力弩炮",
           "pbgid": 133473,
           "attribName": "unit_springald_3_rus",
           "age": 3,
@@ -3904,6 +3957,7 @@
             "ru"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4051,6 +4105,7 @@
           "baseId": "streltsy",
           "type": "unit",
           "name": "Streltsy",
+          "nameCN": "射击军",
           "pbgid": 133458,
           "attribName": "unit_handcannon_4_rus",
           "age": 4,
@@ -4058,6 +4113,7 @@
             "ru"
           ],
           "description": "Most powerful ranged infantry with reasonable melee capabilities. Increased attack speed while stationary.\n+ High damage\n+ Lower cost than Handcannoneer\n- Slow movement speed",
+          "descriptionCN": "最强大的远程步兵，还拥有不错的近战能力。静止不动时可提高射速。\n+ 高伤害\n+ 成本低于火枪兵\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -4162,6 +4218,7 @@
           "baseId": "trader",
           "type": "unit",
           "name": "Trader",
+          "nameCN": "商人",
           "pbgid": 133488,
           "attribName": "unit_trade_cart_rus",
           "age": 2,
@@ -4169,6 +4226,7 @@
             "ru"
           ],
           "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+          "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -4242,6 +4300,7 @@
           "baseId": "villager",
           "type": "unit",
           "name": "Villager",
+          "nameCN": "村民",
           "pbgid": 133491,
           "attribName": "unit_villager_1_rus",
           "age": 1,
@@ -4249,6 +4308,7 @@
             "ru"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 战斗能力弱",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -4380,6 +4440,7 @@
           "baseId": "warrior-monk",
           "type": "unit",
           "name": "Warrior Monk",
+          "nameCN": "僧侣战士",
           "pbgid": 133469,
           "attribName": "unit_monk_3_rus",
           "age": 3,
@@ -4387,6 +4448,7 @@
             "ru"
           ],
           "description": "Military-minded support unit that improves combat capabilities of nearby units after it attacks. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n+ High utility in large armies\n- Low damage",
+          "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
           "classes": [
             "annihilation_condition",
             "carrier",

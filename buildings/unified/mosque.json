@@ -37,6 +37,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 199646,
       "attribName": "building_unit_religious_control_abb",
       "age": 3,
@@ -44,6 +45,7 @@
         "ab"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -100,6 +102,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 3091240,
       "attribName": "building_unit_religious_control_abb_ha_01",
       "age": 3,
@@ -107,6 +110,7 @@
         "ay"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -163,6 +167,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 135875,
       "attribName": "building_unit_religious_control_sul",
       "age": 1,
@@ -170,6 +175,7 @@
         "de"
       ],
       "description": "Produces Scholars. The first Mosque constructed provides a Scholar. Starting in the Castle Age (III), Scholars can deposit Relics in this building to generate Gold.",
+      "descriptionCN": "生产学者。您建造的第一间清真寺附带一位学者。从城堡时代 (第三时代) 开始，学者可将圣物存放在这座建筑来产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -231,6 +237,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 2812705,
       "attribName": "building_unit_religious_mal",
       "age": 3,
@@ -238,6 +245,7 @@
         "ma"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -290,6 +298,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 2034622,
       "attribName": "building_unit_religious_ott",
       "age": 3,
@@ -297,6 +306,7 @@
         "ot"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -349,6 +359,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 2974732,
       "attribName": "building_unit_religious_control_sul_ha_tug",
       "age": 3,
@@ -356,6 +367,7 @@
         "tug"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",

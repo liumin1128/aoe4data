@@ -28,6 +28,7 @@
       "baseId": "principality-of-antioch",
       "type": "technology",
       "name": "Principality of Antioch",
+      "nameCN": "安条克公国",
       "pbgid": 5000203,
       "attribName": "upgrade_age_dark_com_3_tem",
       "age": 2,
@@ -35,6 +36,7 @@
         "kt"
       ],
       "description": "- Melee units gain +15% damage.",
+      "descriptionCN": "- 近战单位的伤害 +15%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",

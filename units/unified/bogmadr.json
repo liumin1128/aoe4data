@@ -40,6 +40,7 @@
       "baseId": "bogmadr",
       "type": "unit",
       "name": "Bogmaðr",
+      "nameCN": "波莫",
       "pbgid": 9001003,
       "attribName": "unit_archer_2_byz_ha_mac",
       "age": 2,
@@ -47,6 +48,7 @@
         "mac"
       ],
       "description": "Ranged infantry with good damage vs. unarmored targets. Has an ability to pierce enemy armor for reduced move speed.\n+ High rate of fire\n- Weak against armored targets\n- Countered by Horsemen",
+      "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -162,6 +164,7 @@
       "baseId": "bogmadr",
       "type": "unit",
       "name": "Veteran Bogmaðr",
+      "nameCN": "老练波莫",
       "pbgid": 9001004,
       "attribName": "unit_archer_3_byz_ha_mac",
       "age": 3,
@@ -169,6 +172,7 @@
         "mac"
       ],
       "description": "Ranged infantry with good damage vs. unarmored targets. Has an ability to pierce enemy armor for reduced move speed.\n+ High rate of fire\n- Weak against armored targets\n- Countered by Horsemen",
+      "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -284,6 +288,7 @@
       "baseId": "bogmadr",
       "type": "unit",
       "name": "Elite Bogmaðr",
+      "nameCN": "精锐波莫",
       "pbgid": 9001005,
       "attribName": "unit_archer_4_byz_ha_mac",
       "age": 4,
@@ -291,6 +296,7 @@
         "mac"
       ],
       "description": "Ranged infantry with good damage vs. unarmored targets. Has an ability to pierce enemy armor for reduced move speed.\n+ High rate of fire\n- Weak against armored targets\n- Countered by Horsemen",
+      "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",

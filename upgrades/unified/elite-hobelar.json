@@ -27,6 +27,7 @@
       "baseId": "elite-hobelar",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 5000156,
       "attribName": "upgrade_unit_hobelar_4_lan",
       "age": 4,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Hobelar to Elite Hobelar.",
+      "descriptionCN": "将老练骑马步兵升级为精锐骑马步兵。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",

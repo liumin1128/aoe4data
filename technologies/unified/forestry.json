@@ -64,6 +64,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -130,6 +132,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -137,6 +140,7 @@
         "ay"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -196,6 +200,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -203,6 +208,7 @@
         "by"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -262,6 +268,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -269,6 +276,7 @@
         "ch"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -328,6 +336,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 181937,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_sul",
       "age": 1,
@@ -335,6 +344,7 @@
         "de"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "scar_dark_age_upgrade",
@@ -380,6 +390,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -387,6 +398,7 @@
         "en"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -446,6 +458,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -453,6 +466,7 @@
         "fr"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -512,6 +526,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 188630,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_mon",
       "age": 1,
@@ -519,6 +534,7 @@
         "gol"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -564,6 +580,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -571,6 +588,7 @@
         "hr"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -630,6 +648,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -637,6 +656,7 @@
         "hl"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -696,6 +716,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 2136382,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_jpn",
       "age": 1,
@@ -703,6 +724,7 @@
         "ja"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -750,6 +772,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -757,6 +780,7 @@
         "je"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -816,6 +840,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -823,6 +848,7 @@
         "mac"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -882,6 +908,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -889,6 +916,7 @@
         "ma"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -948,6 +976,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 188630,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_mon",
       "age": 1,
@@ -955,6 +984,7 @@
         "mo"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1001,6 +1031,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -1008,6 +1039,7 @@
         "od"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1067,6 +1099,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -1074,6 +1107,7 @@
         "ot"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1133,6 +1167,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -1140,6 +1175,7 @@
         "ru"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1199,6 +1235,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 2136382,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_jpn",
       "age": 1,
@@ -1206,6 +1243,7 @@
         "sen"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1252,6 +1290,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 171999,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1",
       "age": 1,
@@ -1259,6 +1298,7 @@
         "zx"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -26,6 +26,7 @@
       "baseId": "additional-torches",
       "type": "technology",
       "name": "Additional Torches",
+      "nameCN": "更多火炬",
       "pbgid": 205552,
       "attribName": "upgrade_weapon_fire_damage_mon",
       "age": 3,
@@ -33,6 +34,7 @@
         "mo"
       ],
       "description": "Increase the torch damage of all infantry and cavalry by +3.",
+      "descriptionCN": "所有步兵和骑兵的火炬伤害 +3。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",

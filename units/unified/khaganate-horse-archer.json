@@ -38,6 +38,7 @@
       "baseId": "khaganate-horse-archer",
       "type": "unit",
       "name": "Khaganate Elite Horse Archer",
+      "nameCN": "精锐骑射手",
       "pbgid": 2104798,
       "attribName": "unit_khaganate_horsearcher_rus_mon",
       "age": 4,
@@ -45,6 +46,7 @@
         "mo"
       ],
       "description": "Highly mobile ranged cavalry effective against slower melee units.\n+ High mobility\n- Weak vs ranged units\n\nRandomly spawns 5 at the time from the Khaganate Palace.",
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
       "classes": [
         "annihilation_condition",
         "archer",

@@ -60,6 +60,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -67,6 +68,7 @@
         "ab"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -142,6 +144,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -149,6 +152,7 @@
         "ay"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -224,6 +228,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -231,6 +236,7 @@
         "by"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -306,6 +312,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -313,6 +320,7 @@
         "ch"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -388,6 +396,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190781,
       "attribName": "upgrade_manatarms_elite_army_tactics_sul",
       "age": 4,
@@ -395,6 +404,7 @@
         "de"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -458,6 +468,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -465,6 +476,7 @@
         "en"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -540,6 +552,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -547,6 +560,7 @@
         "fr"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -622,6 +636,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 9003023,
       "attribName": "upgrade_manatarms_elite_army_tactics_mon_ha_gol",
       "age": 4,
@@ -629,6 +644,7 @@
         "gol"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -704,6 +720,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -711,6 +728,7 @@
         "hr"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -786,6 +804,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -793,6 +812,7 @@
         "hl"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -868,6 +888,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -875,6 +896,7 @@
         "je"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -950,6 +972,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -957,6 +980,7 @@
         "kt"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1032,6 +1056,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1039,6 +1064,7 @@
         "ma"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1114,6 +1140,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190780,
       "attribName": "upgrade_manatarms_elite_army_tactics_mon",
       "age": 4,
@@ -1121,6 +1148,7 @@
         "mo"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1183,6 +1211,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1190,6 +1219,7 @@
         "od"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1265,6 +1295,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1272,6 +1303,7 @@
         "ot"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1348,6 +1380,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1355,6 +1388,7 @@
         "ru"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1430,6 +1464,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 3385914,
       "attribName": "upgrade_manatarms_elite_army_tactics_sul_ha_tug",
       "age": 4,
@@ -1437,6 +1472,7 @@
         "tug"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1500,6 +1536,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1507,6 +1544,7 @@
         "zx"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -29,6 +29,7 @@
           "baseId": "ability-atabeg-supervision",
           "type": "ability",
           "name": "Atabeg Supervision",
+          "nameCN": "阿塔贝格监管",
           "pbgid": 2144843,
           "attribName": "production_building_enhance_abb",
           "age": 1,
@@ -36,6 +37,7 @@
             "ay"
           ],
           "description": "Garrison inside of a military production building to grant +20% health to newly trained units. Cannot garrison in Docks.",
+          "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +20%。不能在码头驻扎。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -97,6 +99,7 @@
           "baseId": "ability-camel-unease",
           "type": "ability",
           "name": "Camel Unease",
+          "nameCN": "骆驼惊吓",
           "pbgid": 202653,
           "attribName": "mamluke_anti_cavalry_aura_abb",
           "age": 1,
@@ -104,6 +107,7 @@
             "ay"
           ],
           "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+          "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -160,6 +164,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -167,6 +172,7 @@
             "ay"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -228,6 +234,7 @@
           "baseId": "ability-desert-raider-blade",
           "type": "ability",
           "name": "Desert Raider Blade",
+          "nameCN": "沙漠掠夺者之刃",
           "pbgid": 2138338,
           "attribName": "mamluk_swap_to_sword_weapon",
           "age": 1,
@@ -235,6 +242,7 @@
             "ay"
           ],
           "description": "Swap to a melee Sword weapon.",
+          "descriptionCN": "切换为近战武器剑。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -286,6 +294,7 @@
           "baseId": "ability-desert-raider-bow",
           "type": "ability",
           "name": "Desert Raider Bow",
+          "nameCN": "沙漠掠夺弓",
           "pbgid": 2138337,
           "attribName": "mamluk_swap_to_bow_weapon",
           "age": 1,
@@ -293,6 +302,7 @@
             "ay"
           ],
           "description": "Swap to a ranged Bow weapon.",
+          "descriptionCN": "切换为远程武器长弓。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -344,6 +354,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -351,6 +362,7 @@
             "ay"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -405,6 +417,7 @@
           "baseId": "ability-golden-age-tier-1",
           "type": "ability",
           "name": "Golden Age Tier 1",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146738,
           "attribName": "golden_age_tier_1_ha_01",
           "age": 1,
@@ -412,6 +425,7 @@
             "ay"
           ],
           "description": "10 Structures: Villager gathering rate +10% for all resources.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -479,6 +493,7 @@
           "baseId": "ability-golden-age-tier-2",
           "type": "ability",
           "name": "Golden Age Tier 2",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146739,
           "attribName": "golden_age_tier_2_ha_01",
           "age": 2,
@@ -486,6 +501,7 @@
             "ay"
           ],
           "description": "20 Structures: Research Speeds +50%",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -555,6 +571,7 @@
           "baseId": "ability-golden-age-tier-3",
           "type": "ability",
           "name": "Golden Age Tier 3",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146740,
           "attribName": "golden_age_tier_3_ha_01",
           "age": 3,
@@ -562,6 +579,7 @@
             "ay"
           ],
           "description": "30 Structures: Production Speeds +20%",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -631,6 +649,7 @@
           "baseId": "ability-golden-age-tier-4",
           "type": "ability",
           "name": "Golden Age Tier 4",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146741,
           "attribName": "golden_age_tier_4_ha_01",
           "age": 4,
@@ -638,6 +657,7 @@
             "ay"
           ],
           "description": "50 Structures: Siege units cost 20% less resources to produce.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -707,6 +727,7 @@
           "baseId": "ability-golden-age-tier-5",
           "type": "ability",
           "name": "Golden Age Tier 5",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146742,
           "attribName": "golden_age_tier_5_ha_01",
           "age": 5,
@@ -714,6 +735,7 @@
             "ay"
           ],
           "description": "75 Structures: Camel units attack 20% faster.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -782,6 +804,7 @@
           "baseId": "ability-house-of-wisdom-influence",
           "type": "ability",
           "name": "House of Wisdom Influence",
+          "nameCN": "智慧宫影响力",
           "pbgid": 1838842,
           "attribName": "how_influence_abb",
           "age": 1,
@@ -789,6 +812,7 @@
             "ay"
           ],
           "description": "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses.",
+          "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -844,6 +868,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -851,6 +876,7 @@
             "ay"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -907,6 +933,7 @@
           "baseId": "ability-mass-heal",
           "type": "ability",
           "name": "Mass Heal",
+          "nameCN": "群体治疗",
           "pbgid": 2126592,
           "attribName": "monk_aoe_heal",
           "age": 1,
@@ -914,6 +941,7 @@
             "ay"
           ],
           "description": "Heals all nearby units. Heals +50% times faster when carrying a relic.",
+          "descriptionCN": "治疗附近所有单位。携带圣物时治疗速度要快 +50% 倍。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -985,6 +1013,7 @@
           "baseId": "ability-quick-strike",
           "type": "ability",
           "name": "Quick Strike",
+          "nameCN": "快速攻击",
           "pbgid": 2133476,
           "attribName": "ghulam_attack_abb",
           "age": 1,
@@ -992,6 +1021,7 @@
             "ay"
           ],
           "description": "Quickly deals a second hit after finishing an attack.",
+          "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1044,6 +1074,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -1051,6 +1082,7 @@
             "ay"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1107,6 +1139,7 @@
           "baseId": "ability-structural-reinforcements",
           "type": "ability",
           "name": "Structural Reinforcements",
+          "nameCN": "结构强化",
           "pbgid": 2141405,
           "attribName": "siege_carpentry_abb_ha_01",
           "age": 1,
@@ -1114,6 +1147,7 @@
             "ay"
           ],
           "description": "Siege unit gains +20 melee armor and +5 fire armor for 10 seconds.\nOnly useable on one unit at a time.",
+          "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1186,6 +1220,7 @@
           "baseId": "ability-swap-weapon-incendiary",
           "type": "ability",
           "name": "Swap Weapon (Incendiary)",
+          "nameCN": "切换武器 (燃烧)",
           "pbgid": 2138274,
           "attribName": "mangonel_swap_to_incendiary_weapon",
           "age": 1,
@@ -1193,6 +1228,7 @@
             "ay"
           ],
           "description": "Switch to incendiary ammunition, which deals damage in an increased area.",
+          "descriptionCN": "切换为燃烧弹药，可造成更大范围的伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1245,6 +1281,7 @@
           "baseId": "ability-swap-weapon-kinetic",
           "type": "ability",
           "name": "Swap Weapon (Kinetic)",
+          "nameCN": "切换武器(动能)",
           "pbgid": 2138275,
           "attribName": "mangonel_swap_to_kinetic_weapon",
           "age": 1,
@@ -1252,6 +1289,7 @@
             "ay"
           ],
           "description": "Switch to solid ammunition, which deals higher damage.",
+          "descriptionCN": "切换为实心弹药，可造成更高的伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1304,6 +1342,7 @@
           "baseId": "ability-tactical-charge",
           "type": "ability",
           "name": "Tactical Charge",
+          "nameCN": "战术冲锋",
           "pbgid": 2126336,
           "attribName": "camel_knight_charge_damage",
           "age": 1,
@@ -1311,6 +1350,7 @@
             "ay"
           ],
           "description": "Camel Lancers charge faster, more often, and for longer distances than other heavy cavalry. Camel Lancers deals -25% less baseline charge damage. Each second spent charging increases the charge damage (up to +40%).",
+          "descriptionCN": "与其他重装骑兵相比，骆驼长矛骑兵的冲锋速度更快，发起冲锋的频率更高，距离也更长。骆驼长矛骑兵所造成的基线冲锋伤害 -25%。冲锋所用的每秒时间可提高冲锋的伤害 (最高达 +40%)。",
           "classes": [],
           "displayClasses": [],
           "costs": {

@@ -40,6 +40,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 6782850,
       "attribName": "unit_monk_2_byz",
       "age": 3,
@@ -47,6 +48,7 @@
         "by"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -100,6 +102,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 142042,
       "attribName": "unit_monk_3_chi",
       "age": 3,
@@ -107,6 +110,7 @@
         "ch"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -159,6 +163,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 166408,
       "attribName": "unit_monk_3_eng",
       "age": 3,
@@ -166,6 +171,7 @@
         "en"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -218,6 +224,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 132286,
       "attribName": "unit_monk_3_fre",
       "age": 3,
@@ -225,6 +232,7 @@
         "fr"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -277,6 +285,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 5000097,
       "attribName": "unit_monk_3_lan",
       "age": 3,
@@ -284,6 +293,7 @@
         "hl"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -336,6 +346,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 132286,
       "attribName": "unit_monk_3_fre",
       "age": 3,
@@ -343,6 +354,7 @@
         "je"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -395,6 +407,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 8999946,
       "attribName": "unit_monk_3_tem",
       "age": 3,
@@ -402,6 +415,7 @@
         "kt"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -454,6 +468,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 9001021,
       "attribName": "unit_monk_2_byz_ha_mac",
       "age": 3,
@@ -461,6 +476,7 @@
         "mac"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -514,6 +530,7 @@
       "baseId": "monk",
       "type": "unit",
       "name": "Monk",
+      "nameCN": "僧侣",
       "pbgid": 2874147,
       "attribName": "unit_monk_3_chi_ha_01",
       "age": 3,
@@ -521,6 +538,7 @@
         "zx"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",

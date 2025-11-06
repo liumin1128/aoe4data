@@ -39,6 +39,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -46,6 +47,7 @@
         "ab"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -86,6 +88,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -93,6 +96,7 @@
         "ay"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -133,6 +137,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -140,6 +145,7 @@
         "by"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -180,6 +186,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -187,6 +194,7 @@
         "ch"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -227,6 +235,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -234,6 +243,7 @@
         "de"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -275,6 +285,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -282,6 +293,7 @@
         "en"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -323,6 +335,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -330,6 +343,7 @@
         "fr"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -370,6 +384,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -377,6 +392,7 @@
         "gol"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -417,6 +433,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -424,6 +441,7 @@
         "hr"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -465,6 +483,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -472,6 +491,7 @@
         "hl"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -512,6 +532,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -519,6 +540,7 @@
         "ja"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -559,6 +581,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -566,6 +589,7 @@
         "je"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -606,6 +630,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -613,6 +638,7 @@
         "kt"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -653,6 +679,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -660,6 +687,7 @@
         "mac"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -700,6 +728,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -707,6 +736,7 @@
         "ma"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -747,6 +777,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -754,6 +785,7 @@
         "mo"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -794,6 +826,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -801,6 +834,7 @@
         "od"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -842,6 +876,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -849,6 +884,7 @@
         "ot"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -889,6 +925,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -896,6 +933,7 @@
         "ru"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -936,6 +974,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -943,6 +982,7 @@
         "sen"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -983,6 +1023,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -990,6 +1031,7 @@
         "tug"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -1030,6 +1072,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -1037,6 +1080,7 @@
         "zx"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {

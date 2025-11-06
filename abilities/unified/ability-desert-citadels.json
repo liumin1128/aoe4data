@@ -18,6 +18,7 @@
       "baseId": "ability-desert-citadels",
       "type": "ability",
       "name": "Desert Citadels",
+      "nameCN": "沙漠城堡",
       "pbgid": 9000069,
       "attribName": "aura_desert_citadels",
       "age": 1,
@@ -25,6 +26,7 @@
         "kt"
       ],
       "description": "Improves the range of nearby units by +15% and armor by +1/+1.",
+      "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
       "classes": [],
       "displayClasses": [],
       "costs": {

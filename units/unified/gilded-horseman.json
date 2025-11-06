@@ -35,6 +35,7 @@
       "baseId": "gilded-horseman",
       "type": "unit",
       "name": "Gilded Horseman",
+      "nameCN": "镀金骑手",
       "pbgid": 3581644,
       "attribName": "unit_horseman_2_hre_ha_01",
       "age": 2,
@@ -42,6 +43,7 @@
         "od"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -176,6 +178,7 @@
       "baseId": "gilded-horseman",
       "type": "unit",
       "name": "Veteran Gilded Horseman",
+      "nameCN": "老练镀金骑手",
       "pbgid": 8642669,
       "attribName": "unit_horseman_3_hre_ha_01",
       "age": 3,
@@ -183,6 +186,7 @@
         "od"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -317,6 +321,7 @@
       "baseId": "gilded-horseman",
       "type": "unit",
       "name": "Elite Gilded Horseman",
+      "nameCN": "精锐镀金骑手",
       "pbgid": 6249668,
       "attribName": "unit_horseman_4_hre_ha_01",
       "age": 4,
@@ -324,6 +329,7 @@
         "od"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

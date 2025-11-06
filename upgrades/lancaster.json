@@ -16,6 +16,7 @@
       "baseId": "elite-crossbowmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124651,
       "attribName": "upgrade_unit_crossbowman_4",
       "age": 4,
@@ -23,6 +24,7 @@
         "hl"
       ],
       "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+      "descriptionCN": "将弩手升级为精锐弩手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -65,6 +67,7 @@
       "baseId": "elite-earl-s-guard",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 5000157,
       "attribName": "upgrade_unit_champion_4_lan",
       "age": 4,
@@ -72,6 +75,7 @@
         "hl"
       ],
       "description": "Upgrade Earl's Guard to Elite Earl's Guard.",
+      "descriptionCN": "将伯爵护卫升级为精锐伯爵护卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -105,6 +109,7 @@
       "baseId": "elite-hobelar",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 5000156,
       "attribName": "upgrade_unit_hobelar_4_lan",
       "age": 4,
@@ -112,6 +117,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Hobelar to Elite Hobelar.",
+      "descriptionCN": "将老练骑马步兵升级为精锐骑马步兵。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",
@@ -145,6 +151,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -152,6 +159,7 @@
         "hl"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -194,6 +202,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -201,6 +210,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -246,6 +256,7 @@
       "baseId": "elite-yeomen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 5000159,
       "attribName": "upgrade_unit_yeoman_4_lan",
       "age": 4,
@@ -253,6 +264,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Yeomen to Elite Yeomen.",
+      "descriptionCN": "将老练英皇侍卫升级为精锐英皇侍卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -286,6 +298,7 @@
       "baseId": "hardened-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 127174,
       "attribName": "upgrade_unit_spearman_2",
       "age": 2,
@@ -293,6 +306,7 @@
         "hl"
       ],
       "description": "Upgrade Spearmen to Hardened Spearmen.",
+      "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -338,6 +352,7 @@
       "baseId": "veteran-hobelar",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 5000155,
       "attribName": "upgrade_unit_hobelar_3_lan",
       "age": 3,
@@ -345,6 +360,7 @@
         "hl"
       ],
       "description": "Upgrade Hobelar to Veteran Hobelar.",
+      "descriptionCN": "将骑马步兵升级为老练骑马步兵。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",
@@ -378,6 +394,7 @@
       "baseId": "veteran-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124662,
       "attribName": "upgrade_unit_spearman_3",
       "age": 3,
@@ -385,6 +402,7 @@
         "hl"
       ],
       "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+      "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -430,6 +448,7 @@
       "baseId": "veteran-yeomen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 5000158,
       "attribName": "upgrade_unit_yeoman_3_lan",
       "age": 3,
@@ -437,6 +456,7 @@
         "hl"
       ],
       "description": "Upgrade Yeomen to Veteran Yeomen.",
+      "descriptionCN": "将英皇侍卫升级为老练英皇侍卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

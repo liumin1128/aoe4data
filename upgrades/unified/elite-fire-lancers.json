@@ -27,6 +27,7 @@
       "baseId": "elite-fire-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite Fire Lancer",
+      "nameCN": "升级为精锐火长矛骑兵",
       "pbgid": 156372,
       "attribName": "upgrade_unit_firelancer_4_chi",
       "age": 4,
@@ -34,6 +35,7 @@
         "ch"
       ],
       "description": "Upgrade Fire Lancers to Elite Fire Lancers.",
+      "descriptionCN": "将火长矛骑兵升级为精锐火长矛骑兵。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",

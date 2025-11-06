@@ -28,6 +28,7 @@
       "baseId": "shinto-rituals",
       "type": "technology",
       "name": "Shinto Rituals",
+      "nameCN": "神道教仪式",
       "pbgid": 2157996,
       "attribName": "upgrade_shrine_rituals_jpn",
       "age": 3,
@@ -35,6 +36,7 @@
         "ja"
       ],
       "description": "Increases Shinto Priest health by +40, healing rate by +60%, and movement speed by +15%.",
+      "descriptionCN": "神道教神主生命值 +40，治疗速率 +60%，移动速度 +15%。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

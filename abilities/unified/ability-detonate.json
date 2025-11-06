@@ -39,6 +39,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -46,6 +47,7 @@
         "ab"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -84,6 +86,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -91,6 +94,7 @@
         "ay"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -129,6 +133,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -136,6 +141,7 @@
         "by"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -174,6 +180,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -181,6 +188,7 @@
         "ch"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -219,6 +227,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -226,6 +235,7 @@
         "de"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -264,6 +274,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -271,6 +282,7 @@
         "en"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -309,6 +321,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -316,6 +329,7 @@
         "fr"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -354,6 +368,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -361,6 +376,7 @@
         "gol"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -399,6 +415,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -406,6 +423,7 @@
         "hr"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -444,6 +462,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -451,6 +470,7 @@
         "hl"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -489,6 +509,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -496,6 +517,7 @@
         "ja"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -534,6 +556,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -541,6 +564,7 @@
         "je"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -579,6 +603,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -586,6 +611,7 @@
         "kt"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -624,6 +650,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -631,6 +658,7 @@
         "mac"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -669,6 +697,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -676,6 +705,7 @@
         "ma"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -714,6 +744,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -721,6 +752,7 @@
         "mo"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -759,6 +791,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -766,6 +799,7 @@
         "od"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -804,6 +838,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -811,6 +846,7 @@
         "ot"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -849,6 +885,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -856,6 +893,7 @@
         "ru"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -894,6 +932,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -901,6 +940,7 @@
         "sen"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -939,6 +979,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -946,6 +987,7 @@
         "tug"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -984,6 +1026,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -991,6 +1034,7 @@
         "zx"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {

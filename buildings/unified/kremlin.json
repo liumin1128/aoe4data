@@ -36,6 +36,7 @@
       "baseId": "kremlin",
       "type": "building",
       "name": "Kremlin",
+      "nameCN": "克里姆林",
       "pbgid": 133426,
       "attribName": "building_landmark_age1_novgorod_kremlin_control_rus",
       "age": 1,
@@ -43,6 +44,7 @@
         "ru"
       ],
       "description": "Acts as a Wooden Fortress that comes with Arrowslits, Castle Turret, and Castle Watch technologies.\nCan Levy Militia every 80 seconds to the Capital Town Center.",
+      "descriptionCN": "可作为木制要塞使用，自带射箭槽、城堡炮塔和城堡瞭望台科技。\n每 80 秒可以征用民兵前往首都城镇中心。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",

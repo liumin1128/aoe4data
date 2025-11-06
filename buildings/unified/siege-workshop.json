@@ -53,6 +53,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 199647,
       "attribName": "building_unit_siege_control_abb",
       "age": 3,
@@ -60,6 +61,7 @@
         "ab"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -116,6 +118,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 8946410,
       "attribName": "building_unit_siege_control_abb_ha_01",
       "age": 3,
@@ -123,6 +126,7 @@
         "ay"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "golden_age_tier_1_building_abb",
@@ -179,6 +183,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 2104755,
       "attribName": "building_unit_siege_control_byz",
       "age": 3,
@@ -186,6 +191,7 @@
         "by"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -240,6 +246,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 145536,
       "attribName": "building_unit_siege_control_chi",
       "age": 3,
@@ -247,6 +254,7 @@
         "ch"
       ],
       "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。",
       "classes": [
         "building",
         "military_only_production",
@@ -301,6 +309,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 135882,
       "attribName": "building_unit_siege_control_sul",
       "age": 3,
@@ -308,6 +317,7 @@
         "de"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -366,6 +376,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 166268,
       "attribName": "building_unit_siege_control_eng",
       "age": 3,
@@ -373,6 +384,7 @@
         "en"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -425,6 +437,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 132774,
       "attribName": "building_unit_siege_control_fre",
       "age": 3,
@@ -432,6 +445,7 @@
         "fr"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -484,6 +498,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 5757301,
       "attribName": "building_unit_siege_mon_ha_gol",
       "age": 3,
@@ -491,6 +506,7 @@
         "gol"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -544,6 +560,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 134911,
       "attribName": "building_unit_siege_control_hre",
       "age": 3,
@@ -551,6 +568,7 @@
         "hr"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -605,6 +623,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 5000054,
       "attribName": "building_unit_siege_workshop_lan",
       "age": 3,
@@ -612,6 +631,7 @@
         "hl"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -664,6 +684,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 3635484,
       "attribName": "building_unit_siege_jpn",
       "age": 3,
@@ -671,6 +692,7 @@
         "ja"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -723,6 +745,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 6121427,
       "attribName": "building_unit_siege_control_fre_ha_01",
       "age": 3,
@@ -730,6 +753,7 @@
         "je"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -783,6 +807,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 5000236,
       "attribName": "building_siege_workshop_tem",
       "age": 3,
@@ -790,6 +815,7 @@
         "kt"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -842,6 +868,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 9000953,
       "attribName": "building_unit_siege_control_byz_ha_mac",
       "age": 3,
@@ -849,6 +876,7 @@
         "mac"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -901,6 +929,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 2576111,
       "attribName": "building_unit_siege_mal",
       "age": 3,
@@ -908,6 +937,7 @@
         "ma"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -966,6 +996,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 129855,
       "attribName": "building_unit_siege_mon",
       "age": 3,
@@ -973,6 +1004,7 @@
         "mo"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1028,6 +1060,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 3107368,
       "attribName": "building_unit_siege_control_hre_ha_01",
       "age": 3,
@@ -1035,6 +1068,7 @@
         "od"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1089,6 +1123,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 2034623,
       "attribName": "building_unit_siege_ott",
       "age": 3,
@@ -1096,6 +1131,7 @@
         "ot"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1150,6 +1186,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 133421,
       "attribName": "building_unit_siege_control_rus",
       "age": 3,
@@ -1157,6 +1194,7 @@
         "ru"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1209,6 +1247,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 8464951,
       "attribName": "building_unit_siege_jpn_ha_sen",
       "age": 3,
@@ -1216,6 +1255,7 @@
         "sen"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1268,6 +1308,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 6221604,
       "attribName": "building_unit_siege_control_sul_ha_tug",
       "age": 3,
@@ -1275,6 +1316,7 @@
         "tug"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1333,6 +1375,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 7268500,
       "attribName": "building_unit_siege_control_chi_ha_01",
       "age": 3,
@@ -1340,6 +1383,7 @@
         "zx"
       ],
       "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。",
       "classes": [
         "building",
         "military_only_production",

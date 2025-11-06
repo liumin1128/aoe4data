@@ -27,6 +27,7 @@
       "baseId": "hill-training",
       "type": "technology",
       "name": "Hill Training",
+      "nameCN": "山地训练",
       "pbgid": 9001247,
       "attribName": "upgrade_hill_training_lan",
       "age": 3,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Training in rugged terrain increases Hobelar charge damage by +125% and production speed by +100%.",
+      "descriptionCN": "在崎岖的地形中进行训练时，骑马步兵的冲锋伤害 +125%，生产速度 +100%。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

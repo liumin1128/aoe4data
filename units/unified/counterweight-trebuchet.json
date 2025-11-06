@@ -51,6 +51,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 199745,
       "attribName": "unit_trebuchet_4_cw_abb",
       "age": 3,
@@ -58,6 +59,7 @@
         "ab"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -167,6 +169,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 3961697,
       "attribName": "unit_trebuchet_4_cw_abb_ha_01",
       "age": 3,
@@ -174,6 +177,7 @@
         "ay"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -283,6 +287,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 2190555,
       "attribName": "unit_trebuchet_4_cw_byz",
       "age": 3,
@@ -290,6 +295,7 @@
         "by"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -450,6 +456,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 137549,
       "attribName": "unit_trebuchet_4_cw_chi",
       "age": 3,
@@ -457,6 +464,7 @@
         "ch"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -566,6 +574,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 136168,
       "attribName": "unit_trebuchet_4_cw_sul",
       "age": 3,
@@ -573,6 +582,7 @@
         "de"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -682,6 +692,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 166423,
       "attribName": "unit_trebuchet_4_cw_eng",
       "age": 3,
@@ -689,6 +700,7 @@
         "en"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -801,6 +813,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 132307,
       "attribName": "unit_trebuchet_4_cw_fre",
       "age": 3,
@@ -808,6 +821,7 @@
         "fr"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -917,6 +931,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 134751,
       "attribName": "unit_trebuchet_4_cw_hre",
       "age": 3,
@@ -924,6 +939,7 @@
         "hr"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1033,6 +1049,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 5000107,
       "attribName": "unit_siege_trebuchet_4_cw_lan",
       "age": 3,
@@ -1040,6 +1057,7 @@
         "hl"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1149,6 +1167,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 3600511,
       "attribName": "unit_trebuchet_4_cw_jpn",
       "age": 3,
@@ -1156,6 +1175,7 @@
         "ja"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1265,6 +1285,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 132307,
       "attribName": "unit_trebuchet_4_cw_fre",
       "age": 3,
@@ -1272,6 +1293,7 @@
         "je"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1381,6 +1403,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 8999928,
       "attribName": "unit_trebuchet_4_cw_tem",
       "age": 3,
@@ -1388,6 +1411,7 @@
         "kt"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1500,6 +1524,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 9001046,
       "attribName": "unit_trebuchet_4_cw_byz_ha_mac",
       "age": 3,
@@ -1507,6 +1532,7 @@
         "mac"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1667,6 +1693,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 2751274,
       "attribName": "unit_trebuchet_4_cw_mal",
       "age": 3,
@@ -1674,6 +1701,7 @@
         "ma"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1783,6 +1811,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 4857694,
       "attribName": "unit_trebuchet_4_cw_hre_ha_01",
       "age": 3,
@@ -1790,6 +1819,7 @@
         "od"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1899,6 +1929,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 2046467,
       "attribName": "unit_trebuchet_4_cw_ott",
       "age": 3,
@@ -1906,6 +1937,7 @@
         "ot"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2026,6 +2058,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 133489,
       "attribName": "unit_trebuchet_4_cw_rus",
       "age": 3,
@@ -2033,6 +2066,7 @@
         "ru"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2142,6 +2176,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 4122988,
       "attribName": "unit_trebuchet_4_cw_jpn_ha_sen",
       "age": 3,
@@ -2149,6 +2184,7 @@
         "sen"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2258,6 +2294,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 7408284,
       "attribName": "unit_trebuchet_4_cw_sul_ha_tug",
       "age": 3,
@@ -2265,6 +2302,7 @@
         "tug"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2374,6 +2412,7 @@
       "baseId": "counterweight-trebuchet",
       "type": "unit",
       "name": "Counterweight Trebuchet",
+      "nameCN": "配重式巨型投石机",
       "pbgid": 6588234,
       "attribName": "unit_trebuchet_4_cw_chi_ha_01",
       "age": 3,
@@ -2381,6 +2420,7 @@
         "zx"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",

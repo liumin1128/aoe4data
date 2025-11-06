@@ -27,6 +27,7 @@
       "baseId": "veteran-desert-raiders",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2146213,
       "attribName": "upgrade_unit_mamluk_3_abb_ha_01",
       "age": 3,
@@ -34,6 +35,7 @@
         "ay"
       ],
       "description": "Upgrade Desert Raiders to Veteran Desert Raiders.",
+      "descriptionCN": "将沙漠掠夺者升级为老练沙漠掠夺者。",
       "classes": [
         "abbasid_upgrade",
         "military_upgrade",

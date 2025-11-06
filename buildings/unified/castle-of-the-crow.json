@@ -35,6 +35,7 @@
       "baseId": "castle-of-the-crow",
       "type": "building",
       "name": "Castle of the Crow",
+      "nameCN": "乌城",
       "pbgid": 2122037,
       "attribName": "building_landmark_age3_treasure_jpn",
       "age": 3,
@@ -42,6 +43,7 @@
         "ja"
       ],
       "description": "Acts as a Castle. Can periodically spawn Treasure Caravans from selected neutral Trading Posts to provide a large amount of Food, Wood, Gold, and some Stone when reaching the Castle of the Crow.",
+      "descriptionCN": "充当一座城堡。可从所选的中立贸易站定期生成宝藏商队。宝藏商队在抵达乌城时提供大量食物、木材、黄金以及部分石料。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -1063,6 +1065,7 @@
       "baseId": "castle-of-the-crow",
       "type": "building",
       "name": "Castle of the Crow",
+      "nameCN": "乌城",
       "pbgid": 3429541,
       "attribName": "building_landmark_age3_crow_jpn_ha_sen",
       "age": 3,
@@ -1070,6 +1073,7 @@
         "sen"
       ],
       "description": "Acts as a Castle. Reduces the cost of constructing Castles by 33%. Siege units nearby any Castle gain +10% damage and +1 tiles range.",
+      "descriptionCN": "可作为城堡使用。建造城堡的成本降低 33%。所有城堡附近的攻城单位造成的伤害 +10%，射程 +1 格。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",

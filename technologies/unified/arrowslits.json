@@ -59,6 +59,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -66,6 +67,7 @@
         "ab"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -123,6 +125,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -130,6 +133,7 @@
         "ay"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -187,6 +191,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -194,6 +199,7 @@
         "by"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -251,6 +257,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -258,6 +265,7 @@
         "de"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -315,6 +323,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -322,6 +331,7 @@
         "en"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -379,6 +389,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -386,6 +397,7 @@
         "fr"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -443,6 +455,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 186398,
       "attribName": "upgrade_outpost_arrowslits_mon",
       "age": 2,
@@ -450,6 +463,7 @@
         "gol"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -494,6 +508,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -501,6 +516,7 @@
         "hr"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -558,6 +574,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -565,6 +582,7 @@
         "hl"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -622,6 +640,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -629,6 +648,7 @@
         "ja"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -686,6 +706,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -693,6 +714,7 @@
         "je"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -750,6 +772,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -757,6 +780,7 @@
         "kt"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -814,6 +838,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -821,6 +846,7 @@
         "mac"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -878,6 +904,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -885,6 +912,7 @@
         "ma"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -942,6 +970,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 186398,
       "attribName": "upgrade_outpost_arrowslits_mon",
       "age": 2,
@@ -949,6 +978,7 @@
         "mo"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -993,6 +1023,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -1000,6 +1031,7 @@
         "od"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1057,6 +1089,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -1064,6 +1097,7 @@
         "ot"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1121,6 +1155,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 135443,
       "attribName": "upgrade_wooden_castle_arrowslits_rus",
       "age": 2,
@@ -1128,6 +1163,7 @@
         "ru"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1.",
+      "descriptionCN": "为此结构添加防御型射箭槽并使驻扎单位的弓箭攻击范围增加 +1。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -1172,6 +1208,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -1179,6 +1216,7 @@
         "sen"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1236,6 +1274,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -1243,6 +1282,7 @@
         "tug"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -47,6 +47,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124651,
           "attribName": "upgrade_unit_crossbowman_4",
           "age": 4,
@@ -54,6 +55,7 @@
             "zx"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -134,6 +136,7 @@
           "baseId": "elite-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124725,
           "attribName": "upgrade_unit_horseman_4",
           "age": 4,
@@ -141,6 +144,7 @@
             "zx"
           ],
           "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+          "descriptionCN": "将老练骑手升级为精锐骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -221,6 +225,7 @@
           "baseId": "elite-knights-or-lancers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124721,
           "attribName": "upgrade_unit_knight_4",
           "age": 4,
@@ -228,6 +233,7 @@
             "zx"
           ],
           "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+          "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -295,6 +301,7 @@
           "baseId": "elite-palace-guards",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2138273,
           "attribName": "upgrade_unit_manatarms_4_chi_ha_01",
           "age": 4,
@@ -302,6 +309,7 @@
             "zx"
           ],
           "description": "Upgrade Palace Guards to Elite Palace Guards.",
+          "descriptionCN": "将皇宫卫兵升级为精锐皇宫卫兵。",
           "classes": [
             "chinese_ha_01_upgrade",
             "military_upgrade",
@@ -372,6 +380,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124659,
           "attribName": "upgrade_unit_spearman_4",
           "age": 4,
@@ -379,6 +388,7 @@
             "zx"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -449,6 +459,7 @@
           "baseId": "elite-zhuge-nu",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2130241,
           "attribName": "upgrade_unit_repeater_crossbow_4_chi_ha_01",
           "age": 4,
@@ -456,6 +467,7 @@
             "zx"
           ],
           "description": "Upgrade Veteran Zhuge Nu to Elite Zhuge Nu.",
+          "descriptionCN": "将老练诸葛弩手升级为精锐诸葛弩手。",
           "classes": [
             "chinese_ha_01_upgrade",
             "military_upgrade",
@@ -514,6 +526,7 @@
           "baseId": "grenadiers",
           "type": "upgrade",
           "name": "Upgrade to Grenadiers",
+          "nameCN": "升级为掷弹兵",
           "pbgid": 9000378,
           "attribName": "upgrade_unit_grenadier_4_chi_ha_01",
           "age": 4,
@@ -521,6 +534,7 @@
             "zx"
           ],
           "description": "Upgrade Early Grenadiers to Grenadiers.",
+          "descriptionCN": "将早期掷弹兵升级为掷弹兵。",
           "classes": [
             "chinese_ha_01_upgrade",
             "military_upgrade",
@@ -591,6 +605,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 127174,
           "attribName": "upgrade_unit_spearman_2",
           "age": 2,
@@ -598,6 +613,7 @@
             "zx"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -668,6 +684,7 @@
           "baseId": "palace-guards",
           "type": "upgrade",
           "name": "Upgrade to Palace Guards",
+          "nameCN": "升级为皇宫卫兵",
           "pbgid": 2138272,
           "attribName": "upgrade_unit_manatarms_3_chi_ha_01",
           "age": 3,
@@ -675,6 +692,7 @@
             "zx"
           ],
           "description": "Upgrade Early Palace Guards to Palace Guards.",
+          "descriptionCN": "将早期皇宫卫兵升级为皇宫卫兵。",
           "classes": [
             "chinese_ha_01_upgrade",
             "military_upgrade",
@@ -746,6 +764,7 @@
           "baseId": "veteran-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124723,
           "attribName": "upgrade_unit_horseman_3",
           "age": 3,
@@ -753,6 +772,7 @@
             "zx"
           ],
           "description": "Upgrade Horsemen to Veteran Horsemen.",
+          "descriptionCN": "将骑手升级为老练骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -836,6 +856,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124662,
           "attribName": "upgrade_unit_spearman_3",
           "age": 3,
@@ -843,6 +864,7 @@
             "zx"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -913,6 +935,7 @@
           "baseId": "veteran-zhuge-nu",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2130240,
           "attribName": "upgrade_unit_repeater_crossbow_3_chi_ha_01",
           "age": 3,
@@ -920,6 +943,7 @@
             "zx"
           ],
           "description": "Upgrade Zhuge Nu to Veteran Zhuge Nu.",
+          "descriptionCN": "将诸葛弩手升级为老练诸葛弩手。",
           "classes": [
             "chinese_ha_01_upgrade",
             "military_upgrade",

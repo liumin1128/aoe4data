@@ -27,6 +27,7 @@
       "baseId": "hardened-limitanei",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 2146684,
       "attribName": "upgrade_unit_spearman_2_byz",
       "age": 2,
@@ -34,6 +35,7 @@
         "by"
       ],
       "description": "Upgrade Limitanei to Hardened Limitanei",
+      "descriptionCN": "将边防军升级为坚韧边防军",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

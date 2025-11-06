@@ -29,6 +29,7 @@
       "baseId": "elite-zhuge-nu",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 166639,
       "attribName": "upgrade_unit_repeater_crossbow_4_chi",
       "age": 4,
@@ -36,6 +37,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Zhuge Nu to Elite Zhuge Nu.",
+      "descriptionCN": "将老练诸葛弩手升级为精锐诸葛弩手。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -69,6 +71,7 @@
       "baseId": "elite-zhuge-nu",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2130241,
       "attribName": "upgrade_unit_repeater_crossbow_4_chi_ha_01",
       "age": 4,
@@ -76,6 +79,7 @@
         "zx"
       ],
       "description": "Upgrade Veteran Zhuge Nu to Elite Zhuge Nu.",
+      "descriptionCN": "将老练诸葛弩手升级为精锐诸葛弩手。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

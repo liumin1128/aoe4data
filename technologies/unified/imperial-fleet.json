@@ -27,6 +27,7 @@
       "baseId": "imperial-fleet",
       "type": "technology",
       "name": "Imperial Fleet",
+      "nameCN": "帝国舰队",
       "pbgid": 2101765,
       "attribName": "upgrade_naval_imperial_fleet_ott",
       "age": 4,
@@ -34,6 +35,7 @@
         "ot"
       ],
       "description": "Increase the production speed of Gunpowder Ships by 25% and their movement speed by 25%.",
+      "descriptionCN": "火药船的生产速度提高 25%，移动速度提高 25%。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",

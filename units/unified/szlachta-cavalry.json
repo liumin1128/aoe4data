@@ -39,6 +39,7 @@
       "baseId": "szlachta-cavalry",
       "type": "unit",
       "name": "Szlachta Cavalry",
+      "nameCN": "什拉赫塔骑兵",
       "pbgid": 8999912,
       "attribName": "unit_szlatcha_knight_4_tem",
       "age": 4,
@@ -46,6 +47,7 @@
         "kt"
       ],
       "description": "Expensive cavalry with high damage and ranged armor. Slows enemy's attack speed when attacking.\n+ Heavy armor\n+ Strong versus Light Infantry\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "昂贵骑兵，拥有高伤害和远程护甲。攻击时能减缓敌人的攻击速度。\n+ 重型护甲\n+ 擅长对付轻型步兵\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

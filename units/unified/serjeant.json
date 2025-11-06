@@ -36,6 +36,7 @@
       "baseId": "serjeant",
       "type": "unit",
       "name": "Serjeant",
+      "nameCN": "萨金特卫兵",
       "pbgid": 8999870,
       "attribName": "unit_serjeant_2_tem",
       "age": 2,
@@ -43,6 +44,7 @@
         "kt"
       ],
       "description": "Sturdy infantry that throws axes which deal melee damage from range.\n+ Strong versus melee units\n- Weak versus ranged units",
+      "descriptionCN": "强壮的步兵，可投掷斧头，从远程造成近战伤害。\n+ 擅长对付近战单位\n- 不擅长对付远程单位",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -128,6 +130,7 @@
       "baseId": "serjeant",
       "type": "unit",
       "name": "Veteran Serjeant",
+      "nameCN": "老练萨金特卫兵",
       "pbgid": 8999903,
       "attribName": "unit_serjeant_3_tem",
       "age": 3,
@@ -135,6 +138,7 @@
         "kt"
       ],
       "description": "Sturdy infantry that throws axes which deal melee damage from range.\n+ Strong versus melee units\n- Weak versus ranged units",
+      "descriptionCN": "强壮的步兵，可投掷斧头，从远程造成近战伤害。\n+ 擅长对付近战单位\n- 不擅长对付远程单位",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -220,6 +224,7 @@
       "baseId": "serjeant",
       "type": "unit",
       "name": "Elite Serjeant",
+      "nameCN": "精锐萨金特卫兵",
       "pbgid": 8999906,
       "attribName": "unit_serjeant_4_tem",
       "age": 4,
@@ -227,6 +232,7 @@
         "kt"
       ],
       "description": "Sturdy infantry that throws axes which deal melee damage from range.\n+ Strong versus melee units\n- Weak versus ranged units",
+      "descriptionCN": "强壮的步兵，可投掷斧头，从远程造成近战伤害。\n+ 擅长对付近战单位\n- 不擅长对付远程单位",
       "classes": [
         "annihilation_condition",
         "armored",

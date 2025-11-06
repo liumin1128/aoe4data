@@ -35,6 +35,7 @@
       "baseId": "freeborn-warrior",
       "type": "unit",
       "name": "Freeborn Warrior",
+      "nameCN": "自由民战士",
       "pbgid": 9000340,
       "attribName": "unit_freebornwarrior_3_mal",
       "age": 3,
@@ -42,6 +43,7 @@
         "ma"
       ],
       "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against heavy melee units",
+      "descriptionCN": "拥有高远程护甲的步兵，对抗远程单位时可获得加成。\n+ 擅长对付远程单位\n- 不擅长对付重型近战单位",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -164,6 +166,7 @@
       "baseId": "freeborn-warrior",
       "type": "unit",
       "name": "Elite Freeborn Warrior",
+      "nameCN": "精锐自由民战士",
       "pbgid": 9000341,
       "attribName": "unit_freebornwarrior_4_mal",
       "age": 4,
@@ -171,6 +174,7 @@
         "ma"
       ],
       "description": "Infantry with high ranged armor and bonus against ranged.\n+ Strong against ranged units\n-weak against heavy melee units",
+      "descriptionCN": "拥有高远程护甲的步兵，对抗远程单位时可获得加成。\n+ 擅长对付远程单位\n- 不擅长对付重型近战单位",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

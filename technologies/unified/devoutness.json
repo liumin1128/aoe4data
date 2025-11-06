@@ -27,6 +27,7 @@
       "baseId": "devoutness",
       "type": "technology",
       "name": "Devoutness",
+      "nameCN": "虔诚",
       "pbgid": 199515,
       "attribName": "upgrade_devoutness_hre",
       "age": 3,
@@ -34,6 +35,7 @@
         "hr"
       ],
       "description": "Inspired Villagers gather resources +5% faster and construct buildings and defenses +25% quicker.",
+      "descriptionCN": "受到鼓舞的村民采集资源的速度提升 +5%，建造建筑物和防御工事的速度提升 +25%。",
       "classes": [
         "economic_upgrade",
         "hre_upgrade",

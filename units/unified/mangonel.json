@@ -50,6 +50,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 199723,
       "attribName": "unit_mangonel_3_abb",
       "age": 3,
@@ -57,6 +58,7 @@
         "ab"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -303,6 +305,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 3602537,
       "attribName": "unit_mangonel_3_byz",
       "age": 3,
@@ -310,6 +313,7 @@
         "by"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -556,6 +560,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 136054,
       "attribName": "unit_mangonel_3_sul",
       "age": 3,
@@ -563,6 +568,7 @@
         "de"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -809,6 +815,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 166407,
       "attribName": "unit_mangonel_3_eng",
       "age": 3,
@@ -816,6 +823,7 @@
         "en"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1065,6 +1073,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 132284,
       "attribName": "unit_mangonel_3_fre",
       "age": 3,
@@ -1072,6 +1081,7 @@
         "fr"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1318,6 +1328,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 5117293,
       "attribName": "unit_mangonel_3_mon_ha_gol",
       "age": 3,
@@ -1325,6 +1336,7 @@
         "gol"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1571,6 +1583,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 134729,
       "attribName": "unit_mangonel_3_hre",
       "age": 3,
@@ -1578,6 +1591,7 @@
         "hr"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1824,6 +1838,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 5000113,
       "attribName": "unit_siege_mangonel_3_lan",
       "age": 3,
@@ -1831,6 +1846,7 @@
         "hl"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2077,6 +2093,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 8461993,
       "attribName": "unit_mangonel_3_jpn",
       "age": 3,
@@ -2084,6 +2101,7 @@
         "ja"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2330,6 +2348,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 132284,
       "attribName": "unit_mangonel_3_fre",
       "age": 3,
@@ -2337,6 +2356,7 @@
         "je"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2583,6 +2603,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 8999924,
       "attribName": "unit_mangonel_3_tem",
       "age": 3,
@@ -2590,6 +2611,7 @@
         "kt"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -2836,6 +2858,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 9001020,
       "attribName": "unit_mangonel_3_byz_ha_mac",
       "age": 3,
@@ -2843,6 +2866,7 @@
         "mac"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -3089,6 +3113,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 2589711,
       "attribName": "unit_mangonel_3_mal",
       "age": 3,
@@ -3096,6 +3121,7 @@
         "ma"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -3342,6 +3368,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 129969,
       "attribName": "unit_mangonel_3_mon",
       "age": 3,
@@ -3349,6 +3376,7 @@
         "mo"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -3595,6 +3623,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 6182386,
       "attribName": "unit_mangonel_3_hre_ha_01",
       "age": 3,
@@ -3602,6 +3631,7 @@
         "od"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -3848,6 +3878,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 2046444,
       "attribName": "unit_mangonel_3_ott",
       "age": 3,
@@ -3855,6 +3886,7 @@
         "ot"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -4112,6 +4144,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 133467,
       "attribName": "unit_mangonel_3_rus",
       "age": 3,
@@ -4119,6 +4152,7 @@
         "ru"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -4365,6 +4399,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 3407399,
       "attribName": "unit_mangonel_3_jpn_ha_sen",
       "age": 3,
@@ -4372,6 +4407,7 @@
         "sen"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -4618,6 +4654,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 3021599,
       "attribName": "unit_mangonel_3_sul_ha_tug",
       "age": 3,
@@ -4625,6 +4662,7 @@
         "tug"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",

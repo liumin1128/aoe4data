@@ -18,6 +18,7 @@
       "baseId": "ability-attack-drums",
       "type": "ability",
       "name": "Attack Drums",
+      "nameCN": "攻击战鼓 (关闭)",
       "pbgid": 2074302,
       "attribName": "mehter_attack_buff_ott",
       "age": 1,
@@ -25,6 +26,7 @@
         "ot"
       ],
       "description": "Mehter drums that increase the attack speed of nearby units by +15%.",
+      "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的攻击速度 +15%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -19,6 +19,7 @@
       "baseId": "ability-relic-garrisoned-dock",
       "type": "ability",
       "name": "Relic Garrisoned in Docks",
+      "nameCN": "存放的圣物",
       "pbgid": 2034812,
       "attribName": "relic_dock_bonus_hre",
       "age": 3,
@@ -26,6 +27,7 @@
         "hr"
       ],
       "description": "Increasing attack speed of military ships by +5%.",
+      "descriptionCN": "军事船只的攻击速度 +5%。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -65,6 +67,7 @@
       "baseId": "ability-relic-garrisoned-dock",
       "type": "ability",
       "name": "Relic Garrisoned in Docks",
+      "nameCN": "存放的圣物",
       "pbgid": 2034812,
       "attribName": "relic_dock_bonus_hre",
       "age": 3,
@@ -72,6 +75,7 @@
         "od"
       ],
       "description": "Increasing attack speed of military ships by +5%.",
+      "descriptionCN": "军事船只的攻击速度 +5%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -26,6 +26,7 @@
       "baseId": "lamellar-armor",
       "type": "technology",
       "name": "Lamellar Armor",
+      "nameCN": "札甲",
       "pbgid": 9004696,
       "attribName": "upgrade_arsenal_ranged_survivability_2_byz_ha_mac",
       "age": 2,
@@ -33,6 +34,7 @@
         "mac"
       ],
       "description": "Increase the armor of all Ranged units by 1 and health by 5%.",
+      "descriptionCN": "所有远程单位的护甲提升 1，生命值提升 5%。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",
@@ -65,6 +67,7 @@
       "baseId": "lamellar-armor",
       "type": "technology",
       "name": "Lamellar Armor",
+      "nameCN": "札甲",
       "pbgid": 9004698,
       "attribName": "upgrade_arsenal_ranged_survivability_4_byz_ha_mac",
       "age": 3,
@@ -72,6 +75,7 @@
         "mac"
       ],
       "description": "Increase the armor of all Ranged units by 1 and health by 5%.",
+      "descriptionCN": "所有远程单位的护甲提升 1，生命值提升 5%。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",
@@ -104,6 +108,7 @@
       "baseId": "lamellar-armor",
       "type": "technology",
       "name": "Lamellar Armor",
+      "nameCN": "札甲",
       "pbgid": 9004700,
       "attribName": "upgrade_arsenal_ranged_survivability_6_byz_ha_mac",
       "age": 4,
@@ -111,6 +116,7 @@
         "mac"
       ],
       "description": "Increase the armor of all Ranged units by 1 and health by 5%.",
+      "descriptionCN": "所有远程单位的护甲提升 1，生命值提升 5%。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

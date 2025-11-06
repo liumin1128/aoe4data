@@ -28,6 +28,7 @@
       "baseId": "forestry-improved",
       "type": "technology",
       "name": "Forestry (Improved)",
+      "nameCN": "林业 (已强化)",
       "pbgid": 172000,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_improved_mon",
       "age": 1,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Villagers fell trees in a single chop.\nWood carry capacity increased by +2.",
+      "descriptionCN": "村民一击便能伐倒树木。\n木材运载量 +2。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",

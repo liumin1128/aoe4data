@@ -31,6 +31,7 @@
       "baseId": "mansa-quarry",
       "type": "building",
       "name": "Mansa Quarry",
+      "nameCN": "皇家采石场",
       "pbgid": 2063107,
       "attribName": "building_landmark_age1_landmarkb_mal",
       "age": 1,
@@ -38,6 +39,7 @@
         "ma"
       ],
       "description": "Generates 75 Gold per minute. Can be toggled to generate Stone instead.",
+      "descriptionCN": "每分钟产生 75 黄金。可以切换为产生石料。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

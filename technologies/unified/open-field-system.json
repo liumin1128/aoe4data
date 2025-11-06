@@ -27,6 +27,7 @@
       "baseId": "open-field-system",
       "type": "technology",
       "name": "Open Field System",
+      "nameCN": "敞田制",
       "pbgid": 9000070,
       "attribName": "upgrade_condensedlandpractices_lan_2",
       "age": 2,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Advancements in feudal land distribution practices increase the build limit of Manors by +4 and their health by +200.",
+      "descriptionCN": "封建土地分配制的进步使庄园的建造上限 +4，其生命值 +200。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

@@ -18,6 +18,7 @@
       "baseId": "ability-atabeg-supervision",
       "type": "ability",
       "name": "Atabeg Supervision",
+      "nameCN": "阿塔贝格监管",
       "pbgid": 2144843,
       "attribName": "production_building_enhance_abb",
       "age": 1,
@@ -25,6 +26,7 @@
         "ay"
       ],
       "description": "Garrison inside of a military production building to grant +20% health to newly trained units. Cannot garrison in Docks.",
+      "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +20%。不能在码头驻扎。",
       "classes": [],
       "displayClasses": [],
       "costs": {

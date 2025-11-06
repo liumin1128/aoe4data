@@ -65,6 +65,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -72,6 +73,7 @@
         "ab"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -134,6 +136,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -141,6 +144,7 @@
         "ay"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -203,6 +207,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -210,6 +215,7 @@
         "by"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -272,6 +278,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -279,6 +286,7 @@
         "ch"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -342,6 +350,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191270,
       "attribName": "upgrade_siege_weapon_speed_sul",
       "age": 3,
@@ -349,6 +358,7 @@
         "de"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -396,6 +406,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -403,6 +414,7 @@
         "en"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -465,6 +477,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -472,6 +485,7 @@
         "fr"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -534,6 +548,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -541,6 +556,7 @@
         "gol"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -603,6 +619,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -610,6 +627,7 @@
         "hr"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -672,6 +690,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -679,6 +698,7 @@
         "hl"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -741,6 +761,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -748,6 +769,7 @@
         "ja"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -810,6 +832,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -817,6 +840,7 @@
         "je"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -879,6 +903,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -886,6 +911,7 @@
         "kt"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -948,6 +974,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -955,6 +982,7 @@
         "mac"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1017,6 +1045,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1024,6 +1053,7 @@
         "ma"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1086,6 +1116,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191271,
       "attribName": "upgrade_siege_weapon_speed_mon",
       "age": 3,
@@ -1093,6 +1124,7 @@
         "mo"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1140,6 +1172,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1147,6 +1180,7 @@
         "od"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1209,6 +1243,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1216,6 +1251,7 @@
         "ot"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1278,6 +1314,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1285,6 +1322,7 @@
         "ru"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1347,6 +1385,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1354,6 +1393,7 @@
         "sen"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1416,6 +1456,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 3437342,
       "attribName": "upgrade_siege_weapon_speed_sul_ha_tug",
       "age": 3,
@@ -1423,6 +1464,7 @@
         "tug"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -1470,6 +1512,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1477,6 +1520,7 @@
         "zx"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

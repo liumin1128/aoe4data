@@ -39,6 +39,7 @@
       "baseId": "kanabo-samurai",
       "type": "unit",
       "name": "Kanabo Samurai",
+      "nameCN": "金碎棒日本武士",
       "pbgid": 9001235,
       "attribName": "unit_kanabo_2_jpn_ha_sen",
       "age": 2,
@@ -46,6 +47,7 @@
         "sen"
       ],
       "description": "Tough infantry with good damage. Deals +6% of enemy max health as bonus damage.\n+ High health\n+ Strong against high health units \n- Slow move speed\n- Countered by Crossbowmen",
+      "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -157,6 +159,7 @@
       "baseId": "kanabo-samurai",
       "type": "unit",
       "name": "Veteran Kanabo Samurai",
+      "nameCN": "老练金碎棒日本武士",
       "pbgid": 9001239,
       "attribName": "unit_kanabo_3_jpn_ha_sen",
       "age": 3,
@@ -164,6 +167,7 @@
         "sen"
       ],
       "description": "Tough infantry with good damage. Deals +6% of enemy max health as bonus damage.\n+ High health\n+ Strong against high health units \n- Slow move speed\n- Countered by Crossbowmen",
+      "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -279,6 +283,7 @@
       "baseId": "kanabo-samurai",
       "type": "unit",
       "name": "Elite Kanabo Samurai",
+      "nameCN": "精锐金碎棒日本武士",
       "pbgid": 9001240,
       "attribName": "unit_kanabo_4_jpn_ha_sen",
       "age": 4,
@@ -286,6 +291,7 @@
         "sen"
       ],
       "description": "Tough infantry with good damage. Deals +6% of enemy max health as bonus damage.\n+ High health\n+ Strong against high health units \n- Slow move speed\n- Countered by Crossbowmen",
+      "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

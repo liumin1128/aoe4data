@@ -28,6 +28,7 @@
       "baseId": "greek-fire-projectiles",
       "type": "technology",
       "name": "Greek Fire Projectiles",
+      "nameCN": "希腊之火炮弹",
       "pbgid": 2104321,
       "attribName": "upgrade_greek_fire_trebuchet_byz",
       "age": 4,
@@ -35,6 +36,7 @@
         "by"
       ],
       "description": "Counterweight Trebuchets deal +30% increased damage and engulf their target with Greek Fire, dealing area damage. Greek Fire does not stack with other patches.",
+      "descriptionCN": "配重式巨型投石机造成的伤害 +30%，可以向目标倾泻希腊之火，造成范围伤害。希腊之火不与其他效果叠加。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",
@@ -80,6 +82,7 @@
       "baseId": "greek-fire-projectiles",
       "type": "technology",
       "name": "Greek Fire Projectiles",
+      "nameCN": "希腊之火炮弹",
       "pbgid": 2104321,
       "attribName": "upgrade_greek_fire_trebuchet_byz",
       "age": 4,
@@ -87,6 +90,7 @@
         "mac"
       ],
       "description": "Counterweight Trebuchets deal +30% increased damage and engulf their target with Greek Fire, dealing area damage. Greek Fire does not stack with other patches.",
+      "descriptionCN": "配重式巨型投石机造成的伤害 +30%，可以向目标倾泻希腊之火，造成范围伤害。希腊之火不与其他效果叠加。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

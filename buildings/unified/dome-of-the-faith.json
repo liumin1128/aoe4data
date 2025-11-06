@@ -37,6 +37,7 @@
       "baseId": "dome-of-the-faith",
       "type": "building",
       "name": "Dome of the Faith",
+      "nameCN": "信仰穹顶建筑",
       "pbgid": 135887,
       "attribName": "building_landmark_age1_quwwat_ul_islam_control_sul",
       "age": 1,
@@ -44,6 +45,7 @@
         "de"
       ],
       "description": "Acts as a Mosque. Produce Scholars at a discount of 55 Gold.",
+      "descriptionCN": "可作为清真寺使用。以 55 黄金折扣生产学者。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -109,6 +111,7 @@
       "baseId": "dome-of-the-faith",
       "type": "building",
       "name": "Dome of the Faith",
+      "nameCN": "信仰穹顶建筑",
       "pbgid": 3768463,
       "attribName": "building_landmark_age1_quwwat_ul_islam_control_sul_ha_tug",
       "age": 1,
@@ -116,6 +119,7 @@
         "tug"
       ],
       "description": "Acts as a Mosque and provides early access to Healer Elephants. Produces Imams and Healer Elephants at a discount of 65 Gold.",
+      "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。以 65 黄金折扣生产伊玛目和治疗者大象。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

@@ -35,6 +35,7 @@
       "baseId": "raider-elephant",
       "type": "unit",
       "name": "Raider Elephant",
+      "nameCN": "突袭大象",
       "pbgid": 9001261,
       "attribName": "unit_war_elephant_raider_2_sul_ha_tug",
       "age": 2,
@@ -42,6 +43,7 @@
         "tug"
       ],
       "description": "Fast elephant effective at raiding, flanking, and countering ranged units. Can use the Trample ability to bypass any unit to deal damage in an area.\n+ High health\n+ Fast movement speed\n+ Charges longer distances\n- Countered by Spearmen",
+      "descriptionCN": "迅捷大象，擅长突袭、侧翼攻击和克制远程单位。可以使用践踏能力绕过任何单位，在一片区域内造成伤害。\n+ 高生命值\n+ 移动速度快\n+ 冲锋距离更远\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -153,6 +155,7 @@
       "baseId": "raider-elephant",
       "type": "unit",
       "name": "Veteran Raider Elephant",
+      "nameCN": "老练突袭大象",
       "pbgid": 9001278,
       "attribName": "unit_war_elephant_raider_3_sul_ha_tug",
       "age": 3,
@@ -160,6 +163,7 @@
         "tug"
       ],
       "description": "Fast elephant effective at raiding, flanking, and countering ranged units. Can use the Trample ability to bypass any unit to deal damage in an area.\n+ High health\n+ Fast movement speed\n+ Charges longer distances\n- Countered by Spearmen",
+      "descriptionCN": "迅捷大象，擅长突袭、侧翼攻击和克制远程单位。可以使用践踏能力绕过任何单位，在一片区域内造成伤害。\n+ 高生命值\n+ 移动速度快\n+ 冲锋距离更远\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -275,6 +279,7 @@
       "baseId": "raider-elephant",
       "type": "unit",
       "name": "Elite Raider Elephant",
+      "nameCN": "精锐突袭大象",
       "pbgid": 9001279,
       "attribName": "unit_war_elephant_raider_4_sul_ha_tug",
       "age": 4,
@@ -282,6 +287,7 @@
         "tug"
       ],
       "description": "Fast elephant effective at raiding, flanking, and countering ranged units. Can use the Trample ability to bypass any unit to deal damage in an area.\n+ High health\n+ Fast movement speed\n+ Charges longer distances\n- Countered by Spearmen",
+      "descriptionCN": "迅捷大象，擅长突袭、侧翼攻击和克制远程单位。可以使用践踏能力绕过任何单位，在一片区域内造成伤害。\n+ 高生命值\n+ 移动速度快\n+ 冲锋距离更远\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "armored",

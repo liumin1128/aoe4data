@@ -31,6 +31,7 @@
       "baseId": "griot-bara",
       "type": "building",
       "name": "Griot Bara",
+      "nameCN": "说书人巴拉鼓",
       "pbgid": 2062635,
       "attribName": "building_landmark_age3_landmarke_mal",
       "age": 3,
@@ -38,6 +39,7 @@
         "ma"
       ],
       "description": "Begin a festival for 300 Gold, providing global enhancements to Food gather rates, unit production speeds, or damage of torches and siege attacks. One festival may be active at a time.",
+      "descriptionCN": "花费 300 黄金开展一次节庆，可全局提升食物采集率、单位生产速度或火炬及攻城攻击所造成的伤害。每次可以激活一次节庆。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

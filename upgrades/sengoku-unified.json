@@ -38,6 +38,7 @@
           "baseId": "elite-kanabo",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001242,
           "attribName": "upgrade_unit_kanabo_4_jpn_ha_sen",
           "age": 4,
@@ -45,6 +46,7 @@
             "sen"
           ],
           "description": "Upgrade Veteran Kanabo to Elite Kanabo",
+          "descriptionCN": "将老练金碎棒升级为精锐金碎棒",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -103,6 +105,7 @@
           "baseId": "elite-mounted-samurai",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2127595,
           "attribName": "upgrade_unit_knight_4_jpn",
           "age": 4,
@@ -110,6 +113,7 @@
             "sen"
           ],
           "description": "Upgrade Mounted Samurai to Elite Mounted Samurai.",
+          "descriptionCN": "将骑马武士升级为精锐骑马武士。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",
@@ -169,6 +173,7 @@
           "baseId": "elite-samurai",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2121990,
           "attribName": "upgrade_unit_manatarms_4_jpn",
           "age": 4,
@@ -176,6 +181,7 @@
             "sen"
           ],
           "description": "Upgrade Veteran Samurai to Elite Samurai.",
+          "descriptionCN": "将老练日本武士升级为精锐日本武士。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",
@@ -246,6 +252,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124659,
           "attribName": "upgrade_unit_spearman_4",
           "age": 4,
@@ -253,6 +260,7 @@
             "sen"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -322,6 +330,7 @@
           "baseId": "elite-tanegashima-ashigaru",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001232,
           "attribName": "upgrade_unit_handcannon_4_jpn_ha_sen",
           "age": 4,
@@ -329,6 +338,7 @@
             "sen"
           ],
           "description": "Upgrade Tanegashima Ashigaru to Elite Tanegashima Ashigaru",
+          "descriptionCN": "将火绳枪足轻升级为精锐火绳枪足轻",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -386,6 +396,7 @@
           "baseId": "elite-yari-cavalry",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9002069,
           "attribName": "upgrade_unit_horseman_4_jpn_ha_sen",
           "age": 4,
@@ -393,6 +404,7 @@
             "sen"
           ],
           "description": "Upgrade Veteran Yari Cavalry to Elite Yari Cavalry.",
+          "descriptionCN": "将老练日本长枪骑兵升级为精锐日本长枪骑兵。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -451,6 +463,7 @@
           "baseId": "elite-yumi-ashigaru",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2127612,
           "attribName": "upgrade_unit_archer_4_jpn",
           "age": 4,
@@ -458,6 +471,7 @@
             "sen"
           ],
           "description": "Upgrade Veteran Yumi Ashigaru to Elite Yumi Ashigaru.",
+          "descriptionCN": "将老练弓足轻升级为精锐弓足轻。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",
@@ -517,6 +531,7 @@
           "baseId": "hardened-samurai",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 2121988,
           "attribName": "upgrade_unit_manatarms_2_jpn",
           "age": 2,
@@ -524,6 +539,7 @@
             "sen"
           ],
           "description": "Upgrade Samurai to Hardened Samurai.",
+          "descriptionCN": "将日本武士升级为坚韧日本武士。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",
@@ -594,6 +610,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 127174,
           "attribName": "upgrade_unit_spearman_2",
           "age": 2,
@@ -601,6 +618,7 @@
             "sen"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -670,6 +688,7 @@
           "baseId": "veteran-kanabo",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9001241,
           "attribName": "upgrade_unit_kanabo_3_jpn_ha_sen",
           "age": 3,
@@ -677,6 +696,7 @@
             "sen"
           ],
           "description": "Upgrade Kanabo to Veteran Kanabo",
+          "descriptionCN": "将金碎棒升级为老练金碎棒",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -735,6 +755,7 @@
           "baseId": "veteran-samurai",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2121989,
           "attribName": "upgrade_unit_manatarms_3_jpn",
           "age": 3,
@@ -742,6 +763,7 @@
             "sen"
           ],
           "description": "Upgrade Hardened Samurai to Veteran Samurai.",
+          "descriptionCN": "将坚韧日本武士升级为老练日本武士。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",
@@ -812,6 +834,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124662,
           "attribName": "upgrade_unit_spearman_3",
           "age": 3,
@@ -819,6 +842,7 @@
             "sen"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -888,6 +912,7 @@
           "baseId": "veteran-yari-cavalry",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9002068,
           "attribName": "upgrade_unit_horseman_3_jpn_ha_sen",
           "age": 3,
@@ -895,6 +920,7 @@
             "sen"
           ],
           "description": "Upgrade Yari Cavalry to Veteran Yari Cavalry.",
+          "descriptionCN": "将日本长枪骑兵升级为老练日本长枪骑兵。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -953,6 +979,7 @@
           "baseId": "veteran-yumi-ashigaru",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2127611,
           "attribName": "upgrade_unit_archer_3_jpn",
           "age": 3,
@@ -960,6 +987,7 @@
             "sen"
           ],
           "description": "Upgrade Yumi Ashigaru to Veteran Yumi Ashigaru.",
+          "descriptionCN": "将弓足轻升级为老练弓足轻。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "japanese_upgrade",

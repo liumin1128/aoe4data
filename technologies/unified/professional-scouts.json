@@ -64,6 +64,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -149,6 +151,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -156,6 +159,7 @@
         "ay"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -234,6 +238,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 2159813,
       "attribName": "upgrade_scout_forester_byz",
       "age": 2,
@@ -241,6 +246,7 @@
         "by"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "byzantine_upgrade",
         "japanese_ha_sen_upgrade",
@@ -305,6 +311,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -312,6 +319,7 @@
         "ch"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -391,6 +399,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 182075,
       "attribName": "upgrade_scout_forester_sul",
       "age": 2,
@@ -398,6 +407,7 @@
         "de"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "military_upgrade",
         "scar_feudal_age_upgrade",
@@ -461,6 +471,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -468,6 +479,7 @@
         "en"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -546,6 +558,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -553,6 +566,7 @@
         "fr"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -631,6 +645,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 205915,
       "attribName": "upgrade_scout_forester_mon",
       "age": 2,
@@ -638,6 +653,7 @@
         "gol"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -701,6 +717,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -708,6 +725,7 @@
         "hr"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -786,6 +804,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -793,6 +812,7 @@
         "hl"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -871,6 +891,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -878,6 +899,7 @@
         "ja"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -957,6 +979,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -964,6 +987,7 @@
         "je"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1042,6 +1066,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1049,6 +1074,7 @@
         "kt"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1127,6 +1153,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 2159813,
       "attribName": "upgrade_scout_forester_byz",
       "age": 2,
@@ -1134,6 +1161,7 @@
         "mac"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "byzantine_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1198,6 +1226,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1205,6 +1234,7 @@
         "ma"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1283,6 +1313,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 205915,
       "attribName": "upgrade_scout_forester_mon",
       "age": 2,
@@ -1290,6 +1321,7 @@
         "mo"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1354,6 +1386,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1361,6 +1394,7 @@
         "od"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1439,6 +1473,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1446,6 +1481,7 @@
         "ot"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1525,6 +1561,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1532,6 +1569,7 @@
         "ru"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1610,6 +1648,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -1617,6 +1656,7 @@
         "zx"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

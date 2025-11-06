@@ -79,7 +79,9 @@
         }
       ],
       "baseId": "atgeirmadr",
+      "nameCN": "阿特盖尔",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。附近有瓦兰吉单位时，攻击速度更快。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付装甲步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 70,
         "wood": 20,
@@ -192,6 +194,7 @@
         },
         "atgeirmadr-2": {
           "name": "Hardened Atgeirmaðr",
+          "nameCN": "坚韧阿特盖尔",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-2.png",
           "hitpoints": 100,
@@ -276,6 +279,7 @@
         },
         "atgeirmadr-3": {
           "name": "Veteran Atgeirmaðr",
+          "nameCN": "老练阿特盖尔",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-3.png",
           "hitpoints": 120,
@@ -360,6 +364,7 @@
         },
         "atgeirmadr-4": {
           "name": "Elite Atgeirmaðr",
+          "nameCN": "精锐阿特盖尔",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/atgeirmadr-4.png",
           "hitpoints": 140,
@@ -481,6 +486,7 @@
           "baseId": "attack-ship",
           "type": "unit",
           "name": "Attack Ship",
+          "nameCN": "攻击船",
           "pbgid": 9004104,
           "attribName": "unit_naval_lodya_attack_byz_ha_mac",
           "age": 2,
@@ -488,6 +494,7 @@
             "mac"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "lodya_combat_ship",
@@ -710,7 +717,9 @@
         }
       ],
       "baseId": "bogmadr",
+      "nameCN": "波莫",
       "age": 2,
+      "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 40,
         "wood": 50,
@@ -804,6 +813,7 @@
         },
         "bogmadr-3": {
           "name": "Veteran Bogmaðr",
+          "nameCN": "老练波莫",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -886,6 +896,7 @@
         },
         "bogmadr-4": {
           "name": "Elite Bogmaðr",
+          "nameCN": "精锐波莫",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1000,6 +1011,7 @@
           "baseId": "bombard",
           "type": "unit",
           "name": "Bombard",
+          "nameCN": "手推炮",
           "pbgid": 9001006,
           "attribName": "unit_bombard_4_byz_ha_mac",
           "age": 4,
@@ -1007,6 +1019,7 @@
             "mac"
           ],
           "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+          "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "bombard",
@@ -1180,6 +1193,7 @@
           "baseId": "cataphract",
           "type": "unit",
           "name": "Elite Cataphract",
+          "nameCN": "精锐甲胄骑兵",
           "pbgid": 9004244,
           "attribName": "unit_cataphract_4_byz_mac_ha",
           "age": 4,
@@ -1187,6 +1201,7 @@
             "mac"
           ],
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -1354,6 +1369,7 @@
           "baseId": "cheirosiphon",
           "type": "unit",
           "name": "Cheirosiphon",
+          "nameCN": "基耶罗喷火筒",
           "pbgid": 9001048,
           "attribName": "unit_workshop_fire_ram_3_byz_ha_mac",
           "age": 3,
@@ -1361,6 +1377,7 @@
             "mac"
           ],
           "description": "Durable infantry transport equipped with Greek Fire, effective against Buildings and Walls.\n+ Greek Fire persists on ground\n+ High ranged armor\n+ High health\n- Only attacks buildings\n- Slow move speed",
+          "descriptionCN": "耐久的步兵运输工具，配备了希腊之火，擅长对付建筑和城墙。\n+ 希腊之火可持续在地面上燃烧\n+ 高远程护甲\n+ 高生命值\n- 只能攻击建筑\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -1498,6 +1515,7 @@
           "baseId": "counterweight-trebuchet",
           "type": "unit",
           "name": "Counterweight Trebuchet",
+          "nameCN": "配重式巨型投石机",
           "pbgid": 9001046,
           "attribName": "unit_trebuchet_4_cw_byz_ha_mac",
           "age": 3,
@@ -1505,6 +1523,7 @@
             "mac"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -1711,7 +1730,9 @@
         }
       ],
       "baseId": "crossbowman",
+      "nameCN": "弩手",
       "age": 3,
+      "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -1787,6 +1808,7 @@
         },
         "crossbowman-4": {
           "name": "Elite Crossbowman",
+          "nameCN": "精锐弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1883,6 +1905,7 @@
           "baseId": "demolition-ship",
           "type": "unit",
           "name": "Demolition Ship",
+          "nameCN": "爆破船",
           "pbgid": 9001024,
           "attribName": "unit_naval_fireship_3_byz_ha_mac",
           "age": 2,
@@ -1890,6 +1913,7 @@
             "mac"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -2027,6 +2051,7 @@
           "baseId": "dromon",
           "type": "unit",
           "name": "Dromon",
+          "nameCN": "德罗蒙战舰",
           "pbgid": 9001022,
           "attribName": "unit_naval_combat_ship_2_byz_ha_mac",
           "age": 2,
@@ -2034,6 +2059,7 @@
             "mac"
           ],
           "description": "Military ship equipped a flamethrower that can be upgraded to use Greek Fire.\n+ Strong against Arrow Ships\n- Low weapon range\n- Countered by Demolition Ships",
+          "descriptionCN": "装备了火焰发射器的军事船只，可以升级以使用希腊之火。\n+ 擅长对付箭船\n- 武器射程较近\n- 会受到爆破船克制",
           "classes": [
             "annihilation_condition",
             "dromon",
@@ -2165,6 +2191,7 @@
           "baseId": "fishing-boat",
           "type": "unit",
           "name": "Fishing Boat",
+          "nameCN": "渔船",
           "pbgid": 9001025,
           "attribName": "unit_naval_fishing_boat_2_byz_ha_mac",
           "age": 2,
@@ -2172,6 +2199,7 @@
             "mac"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "naval_fishing_ship",
@@ -2253,6 +2281,7 @@
           "baseId": "galley",
           "type": "unit",
           "name": "Galley",
+          "nameCN": "箭船",
           "pbgid": 9001030,
           "attribName": "unit_naval_war_galley_3_byz_ha_mac",
           "age": 2,
@@ -2260,6 +2289,7 @@
             "mac"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -2391,6 +2421,7 @@
           "baseId": "handcannoneer",
           "type": "unit",
           "name": "Handcannoneer",
+          "nameCN": "火枪兵",
           "pbgid": 9001011,
           "attribName": "unit_handcannon_4_byz_ha_mac",
           "age": 4,
@@ -2398,6 +2429,7 @@
             "mac"
           ],
           "description": "Powerful all-purpose ranged infantry.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -2509,6 +2541,7 @@
           "baseId": "hippodrome-horseman",
           "type": "unit",
           "name": "Hippodrome Horseman",
+          "nameCN": "竞技场骑手",
           "pbgid": 9004208,
           "attribName": "unit_dummy_champion_horseman_byz_ha_mac",
           "age": 1,
@@ -2516,6 +2549,7 @@
             "mac"
           ],
           "description": "Fast cavalry that enhances damage of nearby cavalry.\n+ High movement speed\n+ Health regeneration\n- Weak against melee units\n- Countered by Spearmen",
+          "descriptionCN": "快速骑兵，可增强附近骑兵的伤害。\n+ 移动速度快\n+ 恢复生命值\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -2694,6 +2728,7 @@
           "baseId": "hippodrome-riddari",
           "type": "unit",
           "name": "Hippodrome Riddari",
+          "nameCN": "竞技场瑞塔利",
           "pbgid": 9004207,
           "attribName": "unit_dummy_champion_knight_byz_ha_mac",
           "age": 1,
@@ -2701,6 +2736,7 @@
             "mac"
           ],
           "description": "Elite varangian cavalry that can enhance the movement speed of nearby infantry. \n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "精锐瓦兰吉骑兵，可提升附近步兵的移动速度。\n+ 高护甲\n+ 近战能力强\n- 会受到长矛兵和弩兵克制。",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -2899,6 +2935,7 @@
           "baseId": "hippodrome-scout",
           "type": "unit",
           "name": "Hippodrome Scout",
+          "nameCN": "竞技场侦察兵",
           "pbgid": 9004206,
           "attribName": "unit_dummy_champion_scout_byz_ha_mac",
           "age": 1,
@@ -2906,6 +2943,7 @@
             "mac"
           ],
           "description": "Lightly armed cavalry with increased vision and damage. Comes with an aura that increases damage of torches.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "拥有更远视野和更高伤害的轻装骑兵。带有一个光环，可提升火炬伤害。\n+ 能够看到浓密森林中的情况\n+ 恢复生命值\n+ 移动速度快\n- 在战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -3136,7 +3174,9 @@
         }
       ],
       "baseId": "horseman",
+      "nameCN": "骑手",
       "age": 2,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 100,
         "wood": 20,
@@ -3253,6 +3293,7 @@
         },
         "horseman-3": {
           "name": "Veteran Horseman",
+          "nameCN": "老练骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/horseman-3.png",
           "hitpoints": 155,
@@ -3341,6 +3382,7 @@
         },
         "horseman-4": {
           "name": "Elite Horseman",
+          "nameCN": "精锐骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/horseman-4.png",
           "hitpoints": 180,
@@ -3461,6 +3503,7 @@
           "baseId": "huihui-pao",
           "type": "unit",
           "name": "Huihui Pao",
+          "nameCN": "回回炮",
           "pbgid": 9003230,
           "attribName": "unit_khaganate_great_trebuchet_merc_byz_ha_mac",
           "age": 4,
@@ -3468,6 +3511,7 @@
             "mac"
           ],
           "description": "Massive siege engine with incredible range, extra effective at destroying buildings and walls.\n+ Extremely long range\n- Must be set up to fire",
+          "descriptionCN": "巨大的攻城器械，攻击范围非常远，特别擅长摧毁建筑物和城墙。\n+ 攻击范围极长\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -3658,6 +3702,7 @@
           "baseId": "mangonel",
           "type": "unit",
           "name": "Mangonel",
+          "nameCN": "轻型投石车",
           "pbgid": 9001020,
           "attribName": "unit_mangonel_3_byz_ha_mac",
           "age": 3,
@@ -3665,6 +3710,7 @@
             "mac"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -3941,6 +3987,7 @@
           "baseId": "monk",
           "type": "unit",
           "name": "Monk",
+          "nameCN": "僧侣",
           "pbgid": 9001021,
           "attribName": "unit_monk_2_byz_ha_mac",
           "age": 3,
@@ -3948,6 +3995,7 @@
             "mac"
           ],
           "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+          "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -4032,6 +4080,7 @@
           "baseId": "nest-of-bees",
           "type": "unit",
           "name": "Nest of Bees",
+          "nameCN": "一窝蜂",
           "pbgid": 9003232,
           "attribName": "unit_nest_of_bees_4_merc_byz_ha_mac",
           "age": 3,
@@ -4039,6 +4088,7 @@
             "mac"
           ],
           "description": "Innovative field weapon capable of firing a barrage of rockets to damage defensive positions and clumped enemy troops.\n+ Good area of effect damage against most targets\n- Slowest movement speed\n- Weak if surrounded",
+          "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4205,7 +4255,9 @@
         }
       ],
       "baseId": "riddari",
+      "nameCN": "瑞塔利",
       "age": 3,
+      "descriptionCN": "拥有高伤害和近战护甲的骑兵，能远距离投掷斧头。\n+ 重型护甲\n+ 近战能力强\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 130,
         "wood": 0,
@@ -4347,6 +4399,7 @@
         },
         "riddari-4": {
           "name": "Elite Riddari",
+          "nameCN": "精锐瑞塔利",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/riddari-4.png",
           "hitpoints": 280,
@@ -4492,6 +4545,7 @@
           "baseId": "royal-cannon",
           "type": "unit",
           "name": "Royal Cannon",
+          "nameCN": "皇家加农炮",
           "pbgid": 9003231,
           "attribName": "unit_cannon_4_royal_merc_byz_ha_mac",
           "age": 4,
@@ -4499,6 +4553,7 @@
             "mac"
           ],
           "description": "Most powerful siege cannon. Excellent against buildings or any stubborn targets.\n+ Bonus damage to buildings",
+          "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
           "classes": [
             "annihilation_condition",
             "bombard_wheeled",
@@ -4672,6 +4727,7 @@
           "baseId": "scout",
           "type": "unit",
           "name": "Scout",
+          "nameCN": "侦察兵",
           "pbgid": 9001034,
           "attribName": "unit_scout_1_byz_ha_mac",
           "age": 1,
@@ -4679,6 +4735,7 @@
             "mac"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -4817,6 +4874,7 @@
           "baseId": "siege-tower",
           "type": "unit",
           "name": "Siege Tower",
+          "nameCN": "攻城塔",
           "pbgid": 9000990,
           "attribName": "unit_siege_tower_3_byz_ha_mac",
           "age": 2,
@@ -4824,6 +4882,7 @@
             "mac"
           ],
           "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+          "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4921,6 +4980,7 @@
           "baseId": "springald",
           "type": "unit",
           "name": "Springald",
+          "nameCN": "扭力弩炮",
           "pbgid": 9001044,
           "attribName": "unit_springald_3_byz_ha_mac",
           "age": 3,
@@ -4928,6 +4988,7 @@
             "mac"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -5124,6 +5185,7 @@
           "baseId": "trade-ship",
           "type": "unit",
           "name": "Trade Ship",
+          "nameCN": "商船",
           "pbgid": 9001027,
           "attribName": "unit_naval_trade_ship_3_byz_ha_mac",
           "age": 2,
@@ -5131,6 +5193,7 @@
             "mac"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -5208,6 +5271,7 @@
           "baseId": "trader",
           "type": "unit",
           "name": "Trader",
+          "nameCN": "商人",
           "pbgid": 9001045,
           "attribName": "unit_trade_cart_byz_ha_mac",
           "age": 2,
@@ -5215,6 +5279,7 @@
             "mac"
           ],
           "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+          "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -5290,6 +5355,7 @@
           "baseId": "transport-ship",
           "type": "unit",
           "name": "Transport Ship",
+          "nameCN": "运输船",
           "pbgid": 9001028,
           "attribName": "unit_naval_transport_ship_2_byz_ha_mac",
           "age": 2,
@@ -5297,6 +5363,7 @@
             "mac"
           ],
           "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+          "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -5418,7 +5485,9 @@
         }
       ],
       "baseId": "varangian-guard",
+      "nameCN": "早期瓦兰吉卫队",
       "age": 2,
+      "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
       "costs": {
         "food": 90,
         "wood": 0,
@@ -5588,6 +5657,7 @@
         },
         "varangian-guard-3": {
           "name": "Varangian Guard",
+          "nameCN": "瓦兰吉卫队",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/varangian-guard-3.png",
           "hitpoints": 140,
@@ -5729,6 +5799,7 @@
         },
         "varangian-guard-4": {
           "name": "Elite Varangian Guard",
+          "nameCN": "精英瓦兰吉卫队",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/varangian-guard-4.png",
           "hitpoints": 195,
@@ -5898,6 +5969,7 @@
           "baseId": "villager",
           "type": "unit",
           "name": "Villager",
+          "nameCN": "村民",
           "pbgid": 9001047,
           "attribName": "unit_villager_1_byz_ha_mac",
           "age": 1,
@@ -5905,6 +5977,7 @@
             "mac"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 战斗能力弱",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -6032,6 +6105,7 @@
           "baseId": "warship",
           "type": "unit",
           "name": "Warship",
+          "nameCN": "战船",
           "pbgid": 9001023,
           "attribName": "unit_naval_combat_warship_4_byz_ha_mac",
           "age": 4,
@@ -6039,6 +6113,7 @@
             "mac"
           ],
           "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+          "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "gunpowder",

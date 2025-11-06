@@ -24,6 +24,7 @@
       "baseId": "armored-beasts",
       "type": "technology",
       "name": "Armored Beasts",
+      "nameCN": "装甲野兽",
       "pbgid": 200887,
       "attribName": "upgrade_age3_war_elephant_elite_sul",
       "age": 4,
@@ -31,6 +32,7 @@
         "de"
       ],
       "description": "Grant +20% health and +4 ranged armor to War Elephants.",
+      "descriptionCN": "赋予战象 +20% 生命值和 +4 远程护甲。",
       "classes": [
         "sultinate_upgrade"
       ],
@@ -83,6 +85,7 @@
       "baseId": "armored-beasts",
       "type": "technology",
       "name": "Armored Beasts",
+      "nameCN": "装甲野兽",
       "pbgid": 8298065,
       "attribName": "upgrade_age3_war_elephant_elite_sul_ha_tug",
       "age": 4,
@@ -90,6 +93,7 @@
         "tug"
       ],
       "description": "Grant +20% health and +4 ranged armor to War Elephants.",
+      "descriptionCN": "赋予战象 +20% 生命值和 +4 远程护甲。",
       "classes": [
         "sultinate_upgrade"
       ],

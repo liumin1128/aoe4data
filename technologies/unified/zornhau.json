@@ -23,6 +23,7 @@
       "baseId": "zornhau",
       "type": "technology",
       "name": "Zornhau",
+      "nameCN": "怒击",
       "pbgid": 2140613,
       "attribName": "upgrade_zornhau_hre_ha_01",
       "age": 3,
@@ -30,6 +31,7 @@
         "od"
       ],
       "description": "Gilded Landsknecht equip a halberd weapon that wounds enemies. When struck by this weapon, a unit will bleed for 2 damage every second. Lasts 10 seconds.\nAny healing effect will remove the bleed.",
+      "descriptionCN": "镀金国土佣仆装备了长戟来攻击敌人。被这种武器攻击时，单位会进入流血状态，每秒受到 2 点伤害，持续 10 秒。\n所有的治疗效果都可以消除流血状态。",
       "classes": [
         "military_upgrade"
       ],

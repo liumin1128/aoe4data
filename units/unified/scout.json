@@ -58,6 +58,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 199733,
       "attribName": "unit_scout_1_abb",
       "age": 1,
@@ -65,6 +66,7 @@
         "ab"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -174,6 +176,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 3949072,
       "attribName": "unit_scout_1_abb_ha_01",
       "age": 1,
@@ -181,6 +184,7 @@
         "ay"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -290,6 +294,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 4180705,
       "attribName": "unit_scout_1_byz",
       "age": 1,
@@ -297,6 +302,7 @@
         "by"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -407,6 +413,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 137274,
       "attribName": "unit_scout_1_chi",
       "age": 1,
@@ -414,6 +421,7 @@
         "ch"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -523,6 +531,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 136063,
       "attribName": "unit_scout_1_sul",
       "age": 1,
@@ -530,6 +539,7 @@
         "de"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -640,6 +650,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 166412,
       "attribName": "unit_scout_1_eng",
       "age": 1,
@@ -647,6 +658,7 @@
         "en"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -757,6 +769,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 132268,
       "attribName": "unit_scout_1_fre",
       "age": 1,
@@ -764,6 +777,7 @@
         "fr"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -874,6 +888,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 9005179,
       "attribName": "unit_scout_1_stables_mon_ha_gol",
       "age": 1,
@@ -881,6 +896,7 @@
         "gol"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -990,6 +1006,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 134737,
       "attribName": "unit_scout_1_hre",
       "age": 1,
@@ -997,6 +1014,7 @@
         "hr"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1107,6 +1125,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 5000095,
       "attribName": "unit_scout_1_lan",
       "age": 1,
@@ -1114,6 +1133,7 @@
         "hl"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1223,6 +1243,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 6075109,
       "attribName": "unit_scout_1_jpn",
       "age": 1,
@@ -1230,6 +1251,7 @@
         "ja"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1339,6 +1361,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 132268,
       "attribName": "unit_scout_1_fre",
       "age": 1,
@@ -1346,6 +1369,7 @@
         "je"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1456,6 +1480,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 8999938,
       "attribName": "unit_scout_1_tem",
       "age": 1,
@@ -1463,6 +1488,7 @@
         "kt"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1572,6 +1598,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 9001034,
       "attribName": "unit_scout_1_byz_ha_mac",
       "age": 1,
@@ -1579,6 +1606,7 @@
         "mac"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1689,6 +1717,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Vanguard Scout",
+      "nameCN": "先锋侦察兵",
       "pbgid": 2236148,
       "attribName": "unit_scout_1_mal",
       "age": 1,
@@ -1696,6 +1725,7 @@
         "ma"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 生命值恢复\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1806,6 +1836,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 129486,
       "attribName": "unit_scout_1_mon",
       "age": 1,
@@ -1813,6 +1844,7 @@
         "mo"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -1922,6 +1954,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 8092678,
       "attribName": "unit_scout_1_hre_ha_01",
       "age": 1,
@@ -1929,6 +1962,7 @@
         "od"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2039,6 +2073,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 2046455,
       "attribName": "unit_scout_1_ott",
       "age": 1,
@@ -2046,6 +2081,7 @@
         "ot"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2155,6 +2191,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 133475,
       "attribName": "unit_scout_1_rus",
       "age": 1,
@@ -2162,6 +2199,7 @@
         "ru"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2272,6 +2310,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 3188784,
       "attribName": "unit_scout_1_jpn_ha_sen",
       "age": 1,
@@ -2279,6 +2318,7 @@
         "sen"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2388,6 +2428,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 8314411,
       "attribName": "unit_scout_1_sul_ha_tug",
       "age": 1,
@@ -2395,6 +2436,7 @@
         "tug"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2504,6 +2546,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 4207698,
       "attribName": "unit_scout_1_chi_ha_01",
       "age": 1,
@@ -2511,6 +2554,7 @@
         "zx"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",

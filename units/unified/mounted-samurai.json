@@ -41,6 +41,7 @@
       "baseId": "mounted-samurai",
       "type": "unit",
       "name": "Mounted Samurai",
+      "nameCN": "骑马武士",
       "pbgid": 4489795,
       "attribName": "unit_knight_3_jpn",
       "age": 3,
@@ -48,6 +49,7 @@
         "ja"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Heavy armor\n+ Deflective Armor recharges out of combat\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -186,6 +188,7 @@
       "baseId": "mounted-samurai",
       "type": "unit",
       "name": "Elite Mounted Samurai",
+      "nameCN": "精锐骑马武士",
       "pbgid": 6119866,
       "attribName": "unit_knight_4_jpn",
       "age": 4,
@@ -193,6 +196,7 @@
         "ja"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Heavy armor\n+ Deflective Armor recharges out of combat\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -331,6 +335,7 @@
       "baseId": "mounted-samurai",
       "type": "unit",
       "name": "Mounted Samurai",
+      "nameCN": "骑马武士",
       "pbgid": 4961531,
       "attribName": "unit_knight_3_jpn_ha_sen",
       "age": 3,
@@ -338,6 +343,7 @@
         "sen"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -514,6 +520,7 @@
       "baseId": "mounted-samurai",
       "type": "unit",
       "name": "Elite Mounted Samurai",
+      "nameCN": "精锐骑马武士",
       "pbgid": 2271023,
       "attribName": "unit_knight_4_jpn_ha_sen",
       "age": 4,
@@ -521,6 +528,7 @@
         "sen"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

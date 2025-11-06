@@ -29,6 +29,7 @@
       "baseId": "reinforced-defenses",
       "type": "technology",
       "name": "Reinforced Defenses",
+      "nameCN": "加强防御",
       "pbgid": 174761,
       "attribName": "upgrade_reinforced_defenses_hre",
       "age": 4,
@@ -36,6 +37,7 @@
         "hr"
       ],
       "description": "Increase the health of walls, towers, and gates by +25%.",
+      "descriptionCN": "城墙、箭塔和城门的生命值 +25%。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",
@@ -91,6 +93,7 @@
       "baseId": "reinforced-defenses",
       "type": "technology",
       "name": "Reinforced Defenses",
+      "nameCN": "加强防御",
       "pbgid": 174761,
       "attribName": "upgrade_reinforced_defenses_hre",
       "age": 4,
@@ -98,6 +101,7 @@
         "od"
       ],
       "description": "Increase the health of walls, towers, and gates by +25%.",
+      "descriptionCN": "城墙、箭塔和城门的生命值 +25%。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",

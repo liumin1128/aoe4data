@@ -28,6 +28,7 @@
       "baseId": "veteran-keshiks",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 129611,
       "attribName": "upgrade_unit_knight_3_mon",
       "age": 3,
@@ -35,6 +36,7 @@
         "gol"
       ],
       "description": "Upgrade Keshiks to Veteran Keshiks.",
+      "descriptionCN": "将怯薛骑兵升级为老练怯薛骑兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -68,6 +70,7 @@
       "baseId": "veteran-keshiks",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 129611,
       "attribName": "upgrade_unit_knight_3_mon",
       "age": 3,
@@ -75,6 +78,7 @@
         "mo"
       ],
       "description": "Upgrade Keshiks to Veteran Keshiks.",
+      "descriptionCN": "将怯薛骑兵升级为老练怯薛骑兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

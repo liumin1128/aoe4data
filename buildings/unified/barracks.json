@@ -52,6 +52,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 199643,
       "attribName": "building_unit_infantry_control_abb",
       "age": 1,
@@ -59,6 +60,7 @@
         "ab"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -115,6 +117,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 8048617,
       "attribName": "building_unit_infantry_control_abb_ha_01",
       "age": 1,
@@ -122,6 +125,7 @@
         "ay"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -178,6 +182,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 2104750,
       "attribName": "building_unit_infantry_control_byz",
       "age": 1,
@@ -185,6 +190,7 @@
         "by"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -239,6 +245,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 145521,
       "attribName": "building_unit_infantry_control_chi",
       "age": 1,
@@ -246,6 +253,7 @@
         "ch"
       ],
       "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced.",
+      "descriptionCN": "生产近战步兵单位。\n每次生产一个单位或进行研究都会产生税。",
       "classes": [
         "barracks",
         "building",
@@ -300,6 +308,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 135867,
       "attribName": "building_unit_infantry_control_sul",
       "age": 1,
@@ -307,6 +316,7 @@
         "de"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -367,6 +377,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 166265,
       "attribName": "building_unit_infantry_control_eng",
       "age": 1,
@@ -374,6 +385,7 @@
         "en"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -426,6 +438,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 132760,
       "attribName": "building_unit_infantry_control_fre",
       "age": 1,
@@ -433,6 +446,7 @@
         "fr"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -485,6 +499,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 2887926,
       "attribName": "building_unit_infantry_mon_ha_gol",
       "age": 1,
@@ -492,6 +507,7 @@
         "gol"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -545,6 +561,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 134874,
       "attribName": "building_unit_infantry_control_hre",
       "age": 1,
@@ -552,6 +569,7 @@
         "hr"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -606,6 +624,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 5000050,
       "attribName": "building_unit_barracks_lan",
       "age": 1,
@@ -613,6 +632,7 @@
         "hl"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -665,6 +685,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 8045373,
       "attribName": "building_unit_infantry_jpn",
       "age": 1,
@@ -672,6 +693,7 @@
         "ja"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -724,6 +746,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 8422896,
       "attribName": "building_unit_infantry_control_fre_ha_01",
       "age": 1,
@@ -731,6 +754,7 @@
         "je"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -784,6 +808,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 5000232,
       "attribName": "building_barracks_tem",
       "age": 1,
@@ -791,6 +816,7 @@
         "kt"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -843,6 +869,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 2273971,
       "attribName": "building_unit_infantry_mal",
       "age": 1,
@@ -850,6 +877,7 @@
         "ma"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -908,6 +936,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 130007,
       "attribName": "building_unit_infantry_mon",
       "age": 1,
@@ -915,6 +944,7 @@
         "mo"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -970,6 +1000,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 5043989,
       "attribName": "building_unit_infantry_control_hre_ha_01",
       "age": 1,
@@ -977,6 +1008,7 @@
         "od"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -1031,6 +1063,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 2034619,
       "attribName": "building_unit_infantry_ott",
       "age": 1,
@@ -1038,6 +1071,7 @@
         "ot"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -1092,6 +1126,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 133406,
       "attribName": "building_unit_infantry_control_rus",
       "age": 1,
@@ -1099,6 +1134,7 @@
         "ru"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -1151,6 +1187,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 3238407,
       "attribName": "building_unit_infantry_jpn_ha_sen",
       "age": 1,
@@ -1158,6 +1195,7 @@
         "sen"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -1212,6 +1250,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 5455218,
       "attribName": "building_unit_infantry_control_sul_ha_tug",
       "age": 1,
@@ -1219,6 +1258,7 @@
         "tug"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -1277,6 +1317,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 4586329,
       "attribName": "building_unit_infantry_control_chi_ha_01",
       "age": 1,
@@ -1284,6 +1325,7 @@
         "zx"
       ],
       "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced.",
+      "descriptionCN": "生产近战步兵单位。\n每次生产一个单位或进行研究都会产生税。",
       "classes": [
         "barracks",
         "building",

@@ -29,6 +29,7 @@
           "baseId": "ability-artillery-shot",
           "type": "ability",
           "name": "Artillery Shot",
+          "nameCN": "火炮射击",
           "pbgid": 2122116,
           "attribName": "cannon_swap_fre",
           "age": 1,
@@ -36,6 +37,7 @@
             "fr"
           ],
           "description": "Loads this Cannon with an Artillery Shot that has an increased range of 5 tiles and 30% more damage.\nCan only target buildings.",
+          "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -92,6 +94,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -99,6 +102,7 @@
             "fr"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -160,6 +164,7 @@
           "baseId": "ability-deploy-pavise",
           "type": "ability",
           "name": "Deploy Pavise",
+          "nameCN": "部署大盾",
           "pbgid": 212030,
           "attribName": "deploy_pavise_fre",
           "age": 3,
@@ -167,6 +172,7 @@
             "fr"
           ],
           "description": "Activate to increase weapon range by +1 tile and gain +5 ranged armor.\nRemains active for 30 seconds or until the Arbalétrier moves away.",
+          "descriptionCN": "激活可增加 +1 格武器攻击范围，并获得 +5 远程护甲。\n效果持续 30 秒或直到弓弩手移动为止。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -232,6 +238,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -239,6 +246,7 @@
             "fr"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -293,6 +301,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -300,6 +309,7 @@
             "fr"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -356,6 +366,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -363,6 +374,7 @@
             "fr"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -419,6 +431,7 @@
           "baseId": "ability-royal-institute-influence",
           "type": "ability",
           "name": "Royal Institute Influence",
+          "nameCN": "皇家学院影响力",
           "pbgid": 1452233,
           "attribName": "keep_influence_fre",
           "age": 1,
@@ -426,6 +439,7 @@
             "fr"
           ],
           "description": "Archery Ranges and Stables within influence have unit costs decreased by 20%.",
+          "descriptionCN": "影响范围内的靶场和马厩生产单位的成本降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -467,6 +481,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -474,6 +489,7 @@
             "fr"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -526,6 +542,7 @@
           "baseId": "ability-town-center-production-speed-castle-age",
           "type": "ability",
           "name": "Castle Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187280,
           "attribName": "town_center_production_age3_fre",
           "age": 3,
@@ -533,6 +550,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by 20%.",
+          "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -588,6 +606,7 @@
           "baseId": "ability-town-center-production-speed-dark-age",
           "type": "ability",
           "name": "Dark Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187278,
           "attribName": "town_center_production_age1_fre",
           "age": 1,
@@ -595,6 +614,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by +10%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -650,6 +670,7 @@
           "baseId": "ability-town-center-production-speed-feudal-age",
           "type": "ability",
           "name": "Feudal Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187279,
           "attribName": "town_center_production_age2_fre",
           "age": 2,
@@ -657,6 +678,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by +15%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {

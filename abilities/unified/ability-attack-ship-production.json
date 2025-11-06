@@ -18,6 +18,7 @@
       "baseId": "ability-attack-ship-production",
       "type": "ability",
       "name": "Attack Ship Production",
+      "nameCN": "攻击船生产",
       "pbgid": 9004101,
       "attribName": "passive_trait_lodya_attack_toggle_byz_ha_mac",
       "age": 2,
@@ -25,6 +26,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Attack Ships",
+      "descriptionCN": "开启以派遣攻击船增援",
       "classes": [],
       "displayClasses": [],
       "costs": {

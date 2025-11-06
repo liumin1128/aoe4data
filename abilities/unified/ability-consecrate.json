@@ -18,6 +18,7 @@
       "baseId": "ability-consecrate",
       "type": "ability",
       "name": "Consecrate",
+      "nameCN": "圣化",
       "pbgid": 2141453,
       "attribName": "jeanne_d_arc_influence_building_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne consecrates a production building, reducing the Food cost of units by -25%.\nNo Cooldown\nRecharge Time: 120 Seconds.\nMax Charges: 4.",
+      "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
       "classes": [],
       "displayClasses": [],
       "costs": {

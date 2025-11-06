@@ -16,6 +16,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 8535667,
       "attribName": "building_unit_ranged_jpn",
       "age": 2,
@@ -23,6 +24,7 @@
         "ja"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -75,6 +77,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 8045373,
       "attribName": "building_unit_infantry_jpn",
       "age": 1,
@@ -82,6 +85,7 @@
         "ja"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -134,6 +138,7 @@
       "baseId": "buddhist-temple",
       "type": "building",
       "name": "Buddhist Temple",
+      "nameCN": "佛寺",
       "pbgid": 2122031,
       "attribName": "building_unit_religious_buddhist_jpn",
       "age": 3,
@@ -141,6 +146,7 @@
         "ja"
       ],
       "description": "Produces the Buddhist Monk and houses Unique Buddhist technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产佛教僧侣并研究独特的佛教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -193,6 +199,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 5982052,
       "attribName": "building_town_center_capital_jpn",
       "age": 1,
@@ -200,6 +207,7 @@
         "ja"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "emits_herding_interest",
@@ -271,6 +279,7 @@
       "baseId": "castle",
       "type": "building",
       "name": "Castle",
+      "nameCN": "城堡",
       "pbgid": 7625763,
       "attribName": "building_defense_keep_jpn",
       "age": 4,
@@ -278,6 +287,7 @@
         "ja"
       ],
       "description": "Heavy garrison and defensible position equipped with a powerful Rocket, which deals high damage to a single target. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -398,6 +408,7 @@
       "baseId": "castle-of-the-crow",
       "type": "building",
       "name": "Castle of the Crow",
+      "nameCN": "乌城",
       "pbgid": 2122037,
       "attribName": "building_landmark_age3_treasure_jpn",
       "age": 3,
@@ -405,6 +416,7 @@
         "ja"
       ],
       "description": "Acts as a Castle. Can periodically spawn Treasure Caravans from selected neutral Trading Posts to provide a large amount of Food, Wood, Gold, and some Stone when reaching the Castle of the Crow.",
+      "descriptionCN": "充当一座城堡。可从所选的中立贸易站定期生成宝藏商队。宝藏商队在抵达乌城时提供大量食物、木材、黄金以及部分石料。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -1426,6 +1438,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 6657980,
       "attribName": "building_unit_naval_jpn",
       "age": 1,
@@ -1433,6 +1446,7 @@
         "ja"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nFishing Boats are produced 25% cheaper.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n能够容纳最多三艘渔船。\n生产渔船的成本降低 25%。",
       "classes": [
         "building",
         "military_only_production",
@@ -1494,6 +1508,7 @@
       "baseId": "farm",
       "type": "building",
       "name": "Farm",
+      "nameCN": "农田",
       "pbgid": 4382976,
       "attribName": "building_resource_farm_jpn",
       "age": 1,
@@ -1501,6 +1516,7 @@
         "ja"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "classes": [
         "building",
         "farm",
@@ -1552,6 +1568,7 @@
       "baseId": "farmhouse",
       "type": "building",
       "name": "Farmhouse",
+      "nameCN": "农舍",
       "pbgid": 3194372,
       "attribName": "building_house_jpn",
       "age": 1,
@@ -1559,6 +1576,7 @@
         "ja"
       ],
       "description": "Increases your maximum Population and Villagers can drop-off Food at this building. Contains technologies to improve Food gathering.",
+      "descriptionCN": "提高人口上限而且村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1615,6 +1633,7 @@
       "baseId": "floating-gate",
       "type": "building",
       "name": "Floating Gate",
+      "nameCN": "水上鸟居",
       "pbgid": 2122035,
       "attribName": "building_landmark_age2_shinto_jpn",
       "age": 2,
@@ -1622,6 +1641,7 @@
         "ja"
       ],
       "description": "Produces a Shinto Priest carrying a Yorishiro every 2 minutes. The first priest spawns instantly. Deposit up to 4 Yorishiro in buildings to provide unique bonuses.\n \nUnlocks Shinto Shrines, which contains unique Shinto technologies and produces Shinto Priests.",
+      "descriptionCN": "每 2 分钟生产一次携带依代的神道教神主。第一位神官会立即生成。最多可以在建筑中存放 4 个依代，以提供独特的加成。\n解锁神道教神社，其中拥有独特的神道教科技并生产神道教神主。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",
@@ -1677,6 +1697,7 @@
       "baseId": "forge",
       "type": "building",
       "name": "Forge",
+      "nameCN": "锻造厂",
       "pbgid": 6598132,
       "attribName": "building_econ_mining_camp_jpn",
       "age": 1,
@@ -1684,6 +1705,7 @@
         "ja"
       ],
       "description": "Villagers can drop-off Stone and Gold at this building. Houses technologies to improve mining and military units.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿和军事单位的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -1740,6 +1762,7 @@
       "baseId": "koka-township",
       "type": "building",
       "name": "Koka Township",
+      "nameCN": "甲贺城镇",
       "pbgid": 2122033,
       "attribName": "building_landmark_age1_shinobi_jpn",
       "age": 1,
@@ -1747,6 +1770,7 @@
         "ja"
       ],
       "description": "Can produce Shinobi espionage units which specialize in scouting, sabotage, and assassination. Queues production of a free Shinobi upon completion.",
+      "descriptionCN": "可生产忍者间谍单位，擅长侦察、破坏和暗杀。完成后自动生产一个免费的忍者。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -1802,6 +1826,7 @@
       "baseId": "kura-storehouse",
       "type": "building",
       "name": "Kura Storehouse",
+      "nameCN": "藏造仓库",
       "pbgid": 2122032,
       "attribName": "building_landmark_age1_storehouse_jpn",
       "age": 1,
@@ -1809,6 +1834,7 @@
         "ja"
       ],
       "description": "Universal drop-off location that creates a Farm around the Landmark every 50 seconds — generates Wood instead when farmland becomes full.",
+      "descriptionCN": "通用存放地点，每 50 秒在地标周围会创建一座农田，农田满时，会生成木材。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",
@@ -1883,6 +1909,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 3435280,
       "attribName": "building_econ_wood_jpn",
       "age": 1,
@@ -1890,6 +1917,7 @@
         "ja"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1941,6 +1969,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 4525187,
       "attribName": "building_econ_market_jpn",
       "age": 2,
@@ -1948,6 +1977,7 @@
         "ja"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -2001,6 +2031,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 2321424,
       "attribName": "building_defense_outpost_jpn",
       "age": 1,
@@ -2008,6 +2039,7 @@
         "ja"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2072,6 +2104,7 @@
       "baseId": "palisade",
       "type": "building",
       "name": "Palisade",
+      "nameCN": "木栅栏",
       "pbgid": 7342620,
       "attribName": "building_defense_palisade_jpn",
       "age": 1,
@@ -2079,6 +2112,7 @@
         "ja"
       ],
       "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2130,6 +2164,7 @@
       "baseId": "palisade-gate",
       "type": "building",
       "name": "Palisade Gate",
+      "nameCN": "木城门",
       "pbgid": 6602206,
       "attribName": "building_defense_palisade_gate_jpn",
       "age": 1,
@@ -2137,6 +2172,7 @@
         "ja"
       ],
       "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2188,6 +2224,7 @@
       "baseId": "shinto-shrine",
       "type": "building",
       "name": "Shinto Shrine",
+      "nameCN": "神社",
       "pbgid": 2124178,
       "attribName": "building_unit_religious_shinto_jpn",
       "age": 3,
@@ -2195,6 +2232,7 @@
         "ja"
       ],
       "description": "Produces the Shinto Priest and houses Unique Shinto technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "产生神道教神主并研究神道教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -2246,6 +2284,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 3635484,
       "attribName": "building_unit_siege_jpn",
       "age": 3,
@@ -2253,6 +2292,7 @@
         "ja"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -2305,6 +2345,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 6561887,
       "attribName": "building_unit_cavalry_jpn",
       "age": 2,
@@ -2312,6 +2353,7 @@
         "ja"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -2364,6 +2406,7 @@
       "baseId": "stone-wall",
       "type": "building",
       "name": "Stone Wall",
+      "nameCN": "石墙",
       "pbgid": 5958789,
       "attribName": "building_defense_wall_jpn",
       "age": 2,
@@ -2371,6 +2414,7 @@
         "ja"
       ],
       "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2422,6 +2466,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 4253235,
       "attribName": "building_defense_wall_gate_jpn",
       "age": 2,
@@ -2429,6 +2474,7 @@
         "ja"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2480,6 +2526,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 4964555,
       "attribName": "building_defense_tower_jpn",
       "age": 2,
@@ -2487,6 +2534,7 @@
         "ja"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2578,6 +2626,7 @@
       "baseId": "tanegashima-gunsmith",
       "type": "building",
       "name": "Tanegashima Gunsmith",
+      "nameCN": "种子岛枪匠",
       "pbgid": 2122036,
       "attribName": "building_landmark_age3_ozutsu_jpn",
       "age": 3,
@@ -2585,6 +2634,7 @@
         "ja"
       ],
       "description": "Stockpiles weapon supplies every 30 seconds that can be used to instantly produce gunpowder units - comes with 2 stockpiles. Produces Ozutsu, a unique heavy ranged gunpowder infantry with siege damage. Allows access to Ribauldequins.",
+      "descriptionCN": "每 30 秒储备武器供给，可用于立即生产火药单位，并带有 2 储备。生产大筒兵，一种独特的重型远程火药步兵，可造成攻城伤害。允许使用风琴炮。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -2643,6 +2693,7 @@
       "baseId": "temple-of-equality",
       "type": "building",
       "name": "Temple of Equality",
+      "nameCN": "平等院",
       "pbgid": 2122034,
       "attribName": "building_landmark_age2_buddhist_jpn",
       "age": 2,
@@ -2650,6 +2701,7 @@
         "ja"
       ],
       "description": "Produces Buddhist Monks and contains unique Buddhist technologies. Buddhist Monks provide support in combat by decreasing enemy damage with Sohei's Sutra and by enhancing damage of allies with Buddhist Conversion.\n \nAlso allows construction of 4 additional Buddhist Temples.",
+      "descriptionCN": "生产佛教僧侣，并包含独特的佛教科技。佛教僧侣可以在战斗中提供支持，可施放僧兵经文降低敌人带来的伤害，并用佛教皈依来增强盟友带来的伤害。\n \n另外可以建造 4 座额外的佛教寺庙。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -2707,6 +2759,7 @@
       "baseId": "tokugawa-shrine",
       "type": "building",
       "name": "Tokugawa Shrine",
+      "nameCN": "德川神社",
       "pbgid": 2140330,
       "attribName": "building_wonder_age4_nikko_toshogu_jpn",
       "age": 4,
@@ -2714,6 +2767,7 @@
         "ja"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -2765,6 +2819,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 7057070,
       "attribName": "building_town_center_jpn",
       "age": 1,
@@ -2772,6 +2827,7 @@
         "ja"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
       "classes": [
         "building",
         "emits_herding_interest",
@@ -2841,6 +2897,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 5303138,
       "attribName": "building_tech_university_jpn",
       "age": 4,
@@ -2848,6 +2905,7 @@
         "ja"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",

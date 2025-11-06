@@ -35,6 +35,7 @@
       "baseId": "amir-warrior",
       "type": "unit",
       "name": "Amir Warrior",
+      "nameCN": "埃米尔战士",
       "pbgid": 9003589,
       "attribName": "unit_amir_warrior_sul_ha_tug",
       "age": 1,
@@ -42,6 +43,7 @@
         "tug"
       ],
       "description": "Powerful Heavy Infantry trained for free that excels in combat near to Tughlaqabad Forts. \n+ No population cost\n+ High health and armor\n- Rapidly loses strength away from Tughlaqabad Forts\n- Countered by Crossbowmen",
+      "descriptionCN": "可免费训练的强大重装步兵，在腾格拉卡巴德堡垒附近时战斗力出色。\n+ 不消耗人口\n+ 高生命值和高护甲\n- 远离腾格拉卡巴德堡垒时，战力迅速衰减\n- 受弩手克制",
       "classes": [
         "amir_warrior",
         "annihilation_condition",

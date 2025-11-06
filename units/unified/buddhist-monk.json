@@ -33,6 +33,7 @@
       "baseId": "buddhist-monk",
       "type": "unit",
       "name": "Buddhist Monk",
+      "nameCN": "佛教僧侣",
       "pbgid": 6891673,
       "attribName": "unit_monk_buddhist_3_jpn",
       "age": 3,
@@ -40,6 +41,7 @@
         "ja"
       ],
       "description": "Support unit with the ability to decrease enemy attack damage. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Reduced cost\n+ Conversion enhances friendly unit damage\n+ Automatically reduces enemy attack damage\n+ Heals units",
+      "descriptionCN": "能够减少敌人攻击伤害的辅助单位。可拾取圣物、招降敌方单位及占领圣地。\n+ 成本更低\n+ 招降可提高友军单位伤害\n+ 自动减少敌人攻击伤害\n+ 可治疗单位",
       "classes": [
         "annihilation_condition",
         "buddhist_monk_jpn",

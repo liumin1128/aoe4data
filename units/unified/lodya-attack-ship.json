@@ -37,6 +37,7 @@
       "baseId": "lodya-attack-ship",
       "type": "unit",
       "name": "Lodya Attack Ship",
+      "nameCN": "罗德亚攻击船",
       "pbgid": 193134,
       "attribName": "unit_naval_combat_ship_2_rus",
       "age": 2,
@@ -44,6 +45,7 @@
         "ru"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "lodya_combat_ship",

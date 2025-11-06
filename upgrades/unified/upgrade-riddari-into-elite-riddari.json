@@ -27,6 +27,7 @@
       "baseId": "upgrade-riddari-into-elite-riddari",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 9001740,
       "attribName": "upgrade_unit_knight_4_byz_ha_mac",
       "age": 4,
@@ -34,6 +35,7 @@
         "mac"
       ],
       "description": "Upgrade Riddari into Elite Riddari.",
+      "descriptionCN": "将瑞塔利升级为精锐瑞塔利。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

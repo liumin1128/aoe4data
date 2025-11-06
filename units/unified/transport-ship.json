@@ -50,6 +50,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 199730,
       "attribName": "unit_naval_transport_ship_2_abb",
       "age": 2,
@@ -57,6 +58,7 @@
         "ab"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -119,6 +121,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 3991723,
       "attribName": "unit_naval_transport_ship_2_abb_ha_01",
       "age": 2,
@@ -126,6 +129,7 @@
         "ay"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -188,6 +192,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 5465446,
       "attribName": "unit_naval_transport_ship_2_byz",
       "age": 2,
@@ -195,6 +200,7 @@
         "by"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -257,6 +263,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193113,
       "attribName": "unit_naval_transport_ship_2_chi",
       "age": 2,
@@ -264,6 +271,7 @@
         "ch"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -326,6 +334,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193143,
       "attribName": "unit_naval_transport_ship_2_sul",
       "age": 2,
@@ -333,6 +342,7 @@
         "de"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -395,6 +405,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193118,
       "attribName": "unit_naval_transport_ship_2_eng",
       "age": 2,
@@ -402,6 +413,7 @@
         "en"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -464,6 +476,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193123,
       "attribName": "unit_naval_transport_ship_2_fre",
       "age": 2,
@@ -471,6 +484,7 @@
         "fr"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -533,6 +547,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 8276446,
       "attribName": "unit_naval_transport_ship_2_mon_ha_gol",
       "age": 2,
@@ -540,6 +555,7 @@
         "gol"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -602,6 +618,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193128,
       "attribName": "unit_naval_transport_ship_2_hre",
       "age": 2,
@@ -609,6 +626,7 @@
         "hr"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -671,6 +689,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 5000132,
       "attribName": "unit_naval_transport_ship_lan",
       "age": 1,
@@ -678,6 +697,7 @@
         "hl"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -740,6 +760,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 7831339,
       "attribName": "unit_naval_transport_ship_2_jpn",
       "age": 2,
@@ -747,6 +768,7 @@
         "ja"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -809,6 +831,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193123,
       "attribName": "unit_naval_transport_ship_2_fre",
       "age": 2,
@@ -816,6 +839,7 @@
         "je"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -878,6 +902,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 8999921,
       "attribName": "unit_naval_transport_ship_2_tem",
       "age": 2,
@@ -885,6 +910,7 @@
         "kt"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -947,6 +973,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 9001028,
       "attribName": "unit_naval_transport_ship_2_byz_ha_mac",
       "age": 2,
@@ -954,6 +981,7 @@
         "mac"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1016,6 +1044,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 2100725,
       "attribName": "unit_naval_transport_ship_2_mal",
       "age": 2,
@@ -1023,6 +1052,7 @@
         "ma"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Attacks with javelins for each unit garrisoned\n+ Uses sight range of units in garrison",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 每驻扎一个单位，就用标枪攻击一次。\n+ 使用驻扎于其中的单位的视野范围",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1109,6 +1139,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193133,
       "attribName": "unit_naval_transport_ship_2_mon",
       "age": 2,
@@ -1116,6 +1147,7 @@
         "mo"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1178,6 +1210,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 5886437,
       "attribName": "unit_naval_transport_ship_2_hre_ha_01",
       "age": 2,
@@ -1185,6 +1218,7 @@
         "od"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1247,6 +1281,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 2046452,
       "attribName": "unit_naval_transport_ship_2_ott",
       "age": 2,
@@ -1254,6 +1289,7 @@
         "ot"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1317,6 +1353,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 3996165,
       "attribName": "unit_naval_transport_ship_2_jpn_ha_sen",
       "age": 2,
@@ -1324,6 +1361,7 @@
         "sen"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1386,6 +1424,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 4330193,
       "attribName": "unit_naval_transport_ship_2_sul_ha_tug",
       "age": 2,
@@ -1393,6 +1432,7 @@
         "tug"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -1455,6 +1495,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 6555999,
       "attribName": "unit_naval_transport_ship_2_chi_ha_01",
       "age": 2,
@@ -1462,6 +1503,7 @@
         "zx"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",

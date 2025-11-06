@@ -27,6 +27,7 @@
       "baseId": "muster-the-nobles",
       "type": "technology",
       "name": "Muster the Nobles",
+      "nameCN": "召集贵族",
       "pbgid": 5000298,
       "attribName": "upgrade_shire_levy_2",
       "age": 2,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
+      "descriptionCN": "征召 2 个短矛骑兵，每拥有一个庄园可额外获得 1 个。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

@@ -25,6 +25,7 @@
       "baseId": "upgrade-king-3",
       "type": "technology",
       "name": "Castle Age King",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2123164,
       "attribName": "upgrade_abbey_king_castle_1",
       "age": 3,
@@ -32,6 +33,7 @@
         "en"
       ],
       "description": "Increases the health, attack and armor of the King when reaching Castle Age.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [
         "king",
         "scaling",

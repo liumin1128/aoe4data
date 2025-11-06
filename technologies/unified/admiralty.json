@@ -28,6 +28,7 @@
       "baseId": "admiralty",
       "type": "technology",
       "name": "Admiralty",
+      "nameCN": "海军部",
       "pbgid": 2033826,
       "attribName": "upgrade_naval_shipwrights_eng",
       "age": 2,
@@ -35,6 +36,7 @@
         "en"
       ],
       "description": "Increase the range of combat ships by +1.",
+      "descriptionCN": "战斗船的攻击范围 +1。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -68,6 +70,7 @@
       "baseId": "admiralty",
       "type": "technology",
       "name": "Admiralty",
+      "nameCN": "海军部",
       "pbgid": 2033826,
       "attribName": "upgrade_naval_shipwrights_eng",
       "age": 2,
@@ -75,6 +78,7 @@
         "hl"
       ],
       "description": "Increase the range of combat ships by +1.",
+      "descriptionCN": "战斗船的攻击范围 +1。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

@@ -35,6 +35,7 @@
       "baseId": "war-canoe",
       "type": "unit",
       "name": "War Canoe",
+      "nameCN": "战争独木舟",
       "pbgid": 2229104,
       "attribName": "unit_naval_combat_ship_2_mal",
       "age": 2,
@@ -42,6 +43,7 @@
         "ma"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",

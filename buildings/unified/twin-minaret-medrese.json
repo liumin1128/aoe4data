@@ -34,6 +34,7 @@
       "baseId": "twin-minaret-medrese",
       "type": "building",
       "name": "Twin Minaret Medrese",
+      "nameCN": "双子宣礼塔神学院",
       "pbgid": 2055468,
       "attribName": "building_landmark_age1_cifte_minareli_medrese_ott",
       "age": 1,
@@ -41,6 +42,7 @@
         "ot"
       ],
       "description": "Acts as a Mill. Grows 4 Berry Bushes which can be harvested +50% faster. Berry Bushes are regrown after 120 seconds if depleted.",
+      "descriptionCN": "可作为磨坊使用。浆果丛的数量 +4，收获速度 +50%。浆果丛如果被采集完，会在 120 秒后会重新生长。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",

@@ -18,6 +18,7 @@
       "baseId": "ability-inspired-warriors",
       "type": "ability",
       "name": "Inspired Warriors",
+      "nameCN": "精神鼓舞",
       "pbgid": 176144,
       "attribName": "inspired_infantry_hre",
       "age": 3,
@@ -25,6 +26,7 @@
         "hr"
       ],
       "description": "Military units deal +15% damage and gain +1 armor.",
+      "descriptionCN": "军事单位造成的伤害 +15% ，护甲 +1。",
       "classes": [],
       "displayClasses": [],
       "costs": {

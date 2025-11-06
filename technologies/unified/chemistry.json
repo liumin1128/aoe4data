@@ -63,6 +63,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -70,6 +71,7 @@
         "ab"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -151,6 +153,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -158,6 +161,7 @@
         "ay"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -239,6 +243,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -246,6 +251,7 @@
         "by"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -327,6 +333,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -334,6 +341,7 @@
         "ch"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -415,6 +423,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 182078,
       "attribName": "upgrade_siege_chemistry_sul",
       "age": 4,
@@ -422,6 +431,7 @@
         "de"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -489,6 +499,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -496,6 +507,7 @@
         "en"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -577,6 +589,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -584,6 +597,7 @@
         "fr"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -665,6 +679,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 9003015,
       "attribName": "upgrade_siege_chemistry_mon_ha_gol",
       "age": 4,
@@ -672,6 +687,7 @@
         "gol"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -752,6 +768,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -759,6 +776,7 @@
         "hr"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -840,6 +858,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -847,6 +866,7 @@
         "hl"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -928,6 +948,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -935,6 +956,7 @@
         "ja"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1016,6 +1038,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1023,6 +1046,7 @@
         "je"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1104,6 +1128,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1111,6 +1136,7 @@
         "ma"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1192,6 +1218,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 191272,
       "attribName": "upgrade_siege_chemistry_mon",
       "age": 4,
@@ -1199,6 +1226,7 @@
         "mo"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1265,6 +1293,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1272,6 +1301,7 @@
         "od"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1353,6 +1383,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1360,6 +1391,7 @@
         "ot"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1442,6 +1474,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1449,6 +1482,7 @@
         "ru"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1530,6 +1564,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 124734,
       "attribName": "upgrade_siege_chemistry",
       "age": 4,
@@ -1537,6 +1572,7 @@
         "sen"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1618,6 +1654,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 7770237,
       "attribName": "upgrade_siege_chemistry_sul_ha_tug",
       "age": 4,
@@ -1625,6 +1662,7 @@
         "tug"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1692,6 +1730,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 2127649,
       "attribName": "upgrade_siege_chemistry_chi_ha_01",
       "age": 4,
@@ -1699,6 +1738,7 @@
         "zx"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

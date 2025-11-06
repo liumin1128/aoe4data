@@ -27,6 +27,7 @@
       "baseId": "ovoo-ceremony",
       "type": "technology",
       "name": "Ovoo Ceremony",
+      "nameCN": "敖包仪式",
       "pbgid": 9005072,
       "attribName": "upgrade_econ_ovoo_stone_rate_4_mon_ha_gol",
       "age": 4,
@@ -34,6 +35,7 @@
         "gol"
       ],
       "description": "Increases Ovoo Stone gather rate by 30%.",
+      "descriptionCN": "敖包的石料采集速率 +30%。",
       "classes": [
         "economic_upgrade",
         "mongol_ha_gol_upgrade",

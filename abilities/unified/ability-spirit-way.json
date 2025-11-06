@@ -18,6 +18,7 @@
       "baseId": "ability-spirit-way",
       "type": "ability",
       "name": "Spirit Way Ancestors",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 207131,
       "attribName": "spirit_way",
       "age": 4,
@@ -25,6 +26,7 @@
         "ch"
       ],
       "description": "When a dynasty unit is killed, nearby units receive +20% attack speed and +20 health over 10 seconds.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {

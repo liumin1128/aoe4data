@@ -53,6 +53,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 199645,
       "attribName": "building_unit_ranged_control_abb",
       "age": 2,
@@ -60,6 +61,7 @@
         "ab"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -116,6 +118,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5411355,
       "attribName": "building_unit_ranged_control_abb_ha_01",
       "age": 2,
@@ -123,6 +126,7 @@
         "ay"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -179,6 +183,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2104753,
       "attribName": "building_unit_ranged_control_byz",
       "age": 2,
@@ -186,6 +191,7 @@
         "by"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -240,6 +246,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 145531,
       "attribName": "building_unit_ranged_control_chi",
       "age": 2,
@@ -247,6 +254,7 @@
         "ch"
       ],
       "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+      "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。",
       "classes": [
         "archery_range",
         "building",
@@ -301,6 +309,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 135870,
       "attribName": "building_unit_ranged_control_sul",
       "age": 2,
@@ -308,6 +317,7 @@
         "de"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -368,6 +378,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 166266,
       "attribName": "building_unit_ranged_control_eng",
       "age": 2,
@@ -375,6 +386,7 @@
         "en"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -427,6 +439,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 132762,
       "attribName": "building_unit_ranged_control_fre",
       "age": 2,
@@ -434,6 +447,7 @@
         "fr"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -488,6 +502,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2864322,
       "attribName": "building_unit_ranged_mon_ha_gol",
       "age": 2,
@@ -495,6 +510,7 @@
         "gol"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -548,6 +564,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 134877,
       "attribName": "building_unit_ranged_control_hre",
       "age": 2,
@@ -555,6 +572,7 @@
         "hr"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -609,6 +627,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5000051,
       "attribName": "building_unit_range_lan",
       "age": 2,
@@ -616,6 +635,7 @@
         "hl"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -668,6 +688,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 8535667,
       "attribName": "building_unit_ranged_jpn",
       "age": 2,
@@ -675,6 +696,7 @@
         "ja"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -727,6 +749,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5383848,
       "attribName": "building_unit_ranged_control_fre_ha_01",
       "age": 2,
@@ -734,6 +757,7 @@
         "je"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -787,6 +811,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5000234,
       "attribName": "building_archery_range_tem",
       "age": 2,
@@ -794,6 +819,7 @@
         "kt"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -846,6 +872,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 9000951,
       "attribName": "building_unit_ranged_control_byz_ha_mac",
       "age": 2,
@@ -853,6 +880,7 @@
         "mac"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -905,6 +933,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2950634,
       "attribName": "building_unit_ranged_mal",
       "age": 2,
@@ -912,6 +941,7 @@
         "ma"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -970,6 +1000,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 129848,
       "attribName": "building_unit_ranged_mon",
       "age": 2,
@@ -977,6 +1008,7 @@
         "mo"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1032,6 +1064,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5195971,
       "attribName": "building_unit_ranged_control_hre_ha_01",
       "age": 2,
@@ -1039,6 +1072,7 @@
         "od"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1093,6 +1127,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2034621,
       "attribName": "building_unit_ranged_ott",
       "age": 2,
@@ -1100,6 +1135,7 @@
         "ot"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1154,6 +1190,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 133409,
       "attribName": "building_unit_ranged_control_rus",
       "age": 2,
@@ -1161,6 +1198,7 @@
         "ru"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1213,6 +1251,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2160508,
       "attribName": "building_unit_ranged_jpn_ha_sen",
       "age": 2,
@@ -1220,6 +1259,7 @@
         "sen"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1274,6 +1314,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 3532195,
       "attribName": "building_unit_ranged_control_sul_ha_tug",
       "age": 2,
@@ -1281,6 +1322,7 @@
         "tug"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -1339,6 +1381,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5959804,
       "attribName": "building_unit_ranged_control_chi_ha_01",
       "age": 2,
@@ -1346,6 +1389,7 @@
         "zx"
       ],
       "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+      "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。",
       "classes": [
         "archery_range",
         "building",

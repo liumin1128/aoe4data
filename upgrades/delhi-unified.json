@@ -38,6 +38,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181857,
           "attribName": "upgrade_unit_archer_4_sul",
           "age": 4,
@@ -45,6 +46,7 @@
             "de"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -102,6 +104,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181860,
           "attribName": "upgrade_unit_crossbowman_4_sul",
           "age": 4,
@@ -109,6 +112,7 @@
             "de"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -166,6 +170,7 @@
           "baseId": "elite-ghazi-raiders",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181865,
           "attribName": "upgrade_unit_horseman_4_sul",
           "age": 4,
@@ -173,6 +178,7 @@
             "de"
           ],
           "description": "Upgrade Veteran Ghazi Raiders to Elite Ghazi Raiders.",
+          "descriptionCN": "将老练加齐掠夺者升级为精锐加齐掠夺者。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -230,6 +236,7 @@
           "baseId": "elite-knights-or-lancers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181866,
           "attribName": "upgrade_unit_knight_4_sul",
           "age": 4,
@@ -237,6 +244,7 @@
             "de"
           ],
           "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+          "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -294,6 +302,7 @@
           "baseId": "elite-men-at-arms",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181867,
           "attribName": "upgrade_unit_manatarms_4_sul",
           "age": 4,
@@ -301,6 +310,7 @@
             "de"
           ],
           "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+          "descriptionCN": "将武士升级为精锐武士。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -358,6 +368,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 181873,
           "attribName": "upgrade_unit_spearman_4_sul",
           "age": 4,
@@ -365,6 +376,7 @@
             "de"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -422,6 +434,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 181871,
           "attribName": "upgrade_unit_spearman_2_sul",
           "age": 2,
@@ -429,6 +442,7 @@
             "de"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -486,6 +500,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 181855,
           "attribName": "upgrade_unit_archer_3_sul",
           "age": 3,
@@ -493,6 +508,7 @@
             "de"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -550,6 +566,7 @@
           "baseId": "veteran-ghazi-raiders",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 181864,
           "attribName": "upgrade_unit_horseman_3_sul",
           "age": 3,
@@ -557,6 +574,7 @@
             "de"
           ],
           "description": "Upgrade Ghazi Raiders to Veteran Ghazi Raiders.",
+          "descriptionCN": "将加齐掠夺者升级为老练加齐掠夺者。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -614,6 +632,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 181872,
           "attribName": "upgrade_unit_spearman_3_sul",
           "age": 3,
@@ -621,6 +640,7 @@
             "de"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",

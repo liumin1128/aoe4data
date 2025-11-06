@@ -27,6 +27,7 @@
       "baseId": "throwing-dagger-drills",
       "type": "technology",
       "name": "Throwing Dagger Drills",
+      "nameCN": "投掷匕首操练",
       "pbgid": 9001425,
       "attribName": "upgrade_puncture_throw_lan",
       "age": 4,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Earl's Guards are supplied with additional Daggers when throwing, these Daggers also deal a small amount of area damage.\nEarl's Guards now throw 2 Daggers but are less accurate.",
+      "descriptionCN": "伯爵的护卫在投掷时会获得额外的匕首，这些匕首可以造成少量的范围伤害。\n伯爵的护卫现在可以投掷 2 把匕首，但是准确度较低。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

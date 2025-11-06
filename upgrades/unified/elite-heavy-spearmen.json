@@ -39,6 +39,7 @@
       "baseId": "elite-heavy-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 8999892,
       "attribName": "upgrade_unit_heavy_spearman_4_tem",
       "age": 4,
@@ -46,6 +47,7 @@
         "kt"
       ],
       "description": "Upgrade Heavy Spearmen to Elite Heavy Spearmen.",
+      "descriptionCN": "将重装长矛兵升级为精锐重装长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

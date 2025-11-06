@@ -34,6 +34,7 @@
       "baseId": "jeanne-darc-peasant",
       "type": "unit",
       "name": "Jeanne d'Arc - Peasant",
+      "nameCN": "圣女贞德 - 农民",
       "pbgid": 2127584,
       "attribName": "unit_jeanne_d_arc_1_fre_ha_01",
       "age": 1,
@@ -41,6 +42,7 @@
         "je"
       ],
       "description": "Jeanne gathers resources and constructs buildings as a Villager. She constructs buildings more quickly, and generates more XP while constructing buildings compared to other tasks. If Jeanne is defeated, she can be brought back at a Town Center. \n - Weak in combat",
+      "descriptionCN": "贞德使用村民收集资源并建造建筑。与其他任务相比，她建造建筑的速度更快，并在建造建筑的同时产生更多经验值。如果贞德被击败，则可以在城镇中心将她复活。\n - 战斗能力弱",
       "classes": [
         "annihilation_condition",
         "builder",

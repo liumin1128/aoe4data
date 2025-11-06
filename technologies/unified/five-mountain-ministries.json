@@ -29,6 +29,7 @@
       "baseId": "five-mountain-ministries",
       "type": "technology",
       "name": "Five Mountain Ministries",
+      "nameCN": "五项山地事工",
       "pbgid": 2158004,
       "attribName": "upgrade_temple_fivemountain_jpn",
       "age": 4,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Buddhist Temples cast Sohei Sutra on a nearby enemy every 6 seconds.",
+      "descriptionCN": "佛教寺庙每 6 秒向附近的敌人施放僧兵经文。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

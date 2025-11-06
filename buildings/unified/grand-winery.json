@@ -38,6 +38,7 @@
       "baseId": "grand-winery",
       "type": "building",
       "name": "Grand Winery",
+      "nameCN": "大酒庄",
       "pbgid": 2104743,
       "attribName": "building_landmark_age1_winery_byz",
       "age": 1,
@@ -45,6 +46,7 @@
         "by"
       ],
       "description": "Acts as a Mill and Monastery. Nearby Villagers gather +60% Olive Oil from Berry Bushes and Olive Groves. Relics garrisoned generate Olive Oil instead of Gold.",
+      "descriptionCN": "可作为磨坊和修道院使用。附近的村民从浆果丛和橄榄树林中采集的橄榄油 +60%。保管的圣物产生橄榄油而不是黄金。",
       "classes": [
         "age1_landmark1",
         "building",
@@ -107,6 +109,7 @@
       "baseId": "grand-winery",
       "type": "building",
       "name": "Grand Winery",
+      "nameCN": "大酒庄",
       "pbgid": 9000937,
       "attribName": "building_landmark_age1_winery_byz_ha_mac",
       "age": 1,
@@ -114,6 +117,7 @@
         "mac"
       ],
       "description": "Acts as a Mill and Monastery. Villagers gather Food 30% faster when affected by its aura. Relics garrisoned generate Silver instead of Gold.",
+      "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
       "classes": [
         "age1_landmark1",
         "building",

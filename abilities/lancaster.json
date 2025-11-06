@@ -16,6 +16,7 @@
       "baseId": "ability-abbey-healing",
       "type": "ability",
       "name": "Abbey Healing",
+      "nameCN": "修道院治疗",
       "pbgid": 202453,
       "attribName": "abbey_of_kings_heal_aura_eng",
       "age": 2,
@@ -23,6 +24,7 @@
         "hl"
       ],
       "description": "Heals nearby out of combat units by 6 every 1 seconds.",
+      "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -79,6 +81,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -86,6 +89,7 @@
         "hl"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -131,6 +135,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -138,6 +143,7 @@
         "hl"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -176,6 +182,7 @@
       "baseId": "ability-kings-college",
       "type": "ability",
       "name": "King's College",
+      "nameCN": "国王学院",
       "pbgid": 9001565,
       "attribName": "kings_college_research_speed",
       "age": 1,
@@ -183,6 +190,7 @@
         "hl"
       ],
       "description": "Granted +15% cheaper research costs by the King's College.",
+      "descriptionCN": "国王学院提供了 +15% 更便宜的研究成本。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -225,6 +233,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -232,6 +241,7 @@
         "hl"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -272,6 +282,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -279,6 +290,7 @@
         "hl"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -24,6 +24,7 @@
       "baseId": "regional-inspection",
       "type": "technology",
       "name": "Regional Inspection",
+      "nameCN": "地方巡查",
       "pbgid": 2127324,
       "attribName": "upgrade_official_supervise",
       "age": 1,
@@ -31,6 +32,7 @@
         "zx"
       ],
       "description": "Supervision by Imperial Officials improved from 150% to 300%.",
+      "descriptionCN": "朝廷命官的监督强化从 150% 提升至 300%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "economic_upgrade"

@@ -64,6 +64,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -118,6 +120,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -125,6 +128,7 @@
         "ay"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -172,6 +176,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -179,6 +184,7 @@
         "by"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -226,6 +232,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -233,6 +240,7 @@
         "ch"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -280,6 +288,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 181904,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_sul",
       "age": 3,
@@ -287,6 +296,7 @@
         "de"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "scar_castle_age_upgrade",
@@ -320,6 +330,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -327,6 +338,7 @@
         "en"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -374,6 +386,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -381,6 +394,7 @@
         "fr"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -428,6 +442,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 2032215,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_mon",
       "age": 3,
@@ -435,6 +450,7 @@
         "gol"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -468,6 +484,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -475,6 +492,7 @@
         "hr"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -522,6 +540,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -529,6 +548,7 @@
         "hl"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -576,6 +596,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 9002859,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_kura_jpn",
       "age": 3,
@@ -583,6 +604,7 @@
         "ja"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -617,6 +639,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -624,6 +647,7 @@
         "je"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -671,6 +695,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -678,6 +703,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -725,6 +751,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -732,6 +759,7 @@
         "mac"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -779,6 +807,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -786,6 +815,7 @@
         "ma"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -833,6 +863,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 2032215,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_mon",
       "age": 3,
@@ -840,6 +871,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -874,6 +906,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -881,6 +914,7 @@
         "od"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -928,6 +962,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -935,6 +970,7 @@
         "ot"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -982,6 +1018,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -989,6 +1026,7 @@
         "ru"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1036,6 +1074,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 2127598,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_jpn",
       "age": 3,
@@ -1043,6 +1082,7 @@
         "sen"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1077,6 +1117,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -1084,6 +1125,7 @@
         "zx"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

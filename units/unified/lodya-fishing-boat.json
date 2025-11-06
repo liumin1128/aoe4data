@@ -32,6 +32,7 @@
       "baseId": "lodya-fishing-boat",
       "type": "unit",
       "name": "Lodya Fishing Boat",
+      "nameCN": "罗德亚渔船",
       "pbgid": 193136,
       "attribName": "unit_naval_fishing_boat_2_rus",
       "age": 2,
@@ -39,6 +40,7 @@
         "ru"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Does not require a Dock to drop off gathered Food and gathers faster than a regular Fishing Boat.\n- No combat\nThe Lodya Fishing Boat can be converted to any other type of ship.",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。不需要码头就可存放采集到的食物，而且采集速度比普通的渔船更快。\n- 不具备战斗能力\n罗德亚渔船可以转换为任何其他船型。",
       "classes": [
         "annihilation_condition",
         "lodya_ship",

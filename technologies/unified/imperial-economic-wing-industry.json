@@ -28,6 +28,7 @@
       "baseId": "imperial-economic-wing-industry",
       "type": "technology",
       "name": "Industry\n(Imperial Economic Wing)",
+      "nameCN": "经济偏殿：工业",
       "pbgid": 2141098,
       "attribName": "upgrade_add_economy_wing_castle_b_abb_ha_01",
       "age": 3,
@@ -35,6 +36,7 @@
         "ay"
       ],
       "description": "Constructs the Economic Wing.\nUpon completion, awards 2000 Wood and 1000 Stone. Villagers build +50% faster.",
+      "descriptionCN": "建造经济偏殿。\n完成后，获得 2000 木材和 1000 石料。村民建造速度 +50%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",

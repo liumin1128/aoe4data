@@ -31,6 +31,7 @@
       "baseId": "castle",
       "type": "building",
       "name": "Castle",
+      "nameCN": "城堡",
       "pbgid": 7625763,
       "attribName": "building_defense_keep_jpn",
       "age": 4,
@@ -38,6 +39,7 @@
         "ja"
       ],
       "description": "Heavy garrison and defensible position equipped with a powerful Rocket, which deals high damage to a single target. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -158,6 +160,7 @@
       "baseId": "castle",
       "type": "building",
       "name": "Castle",
+      "nameCN": "城堡",
       "pbgid": 9005149,
       "attribName": "building_defense_keep_crow_discount_jpn_ha_sen",
       "age": 4,
@@ -165,6 +168,7 @@
         "sen"
       ],
       "description": "Heavy garrison and defensible position equipped with a powerful Rocket, which deals high damage to a single target. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",

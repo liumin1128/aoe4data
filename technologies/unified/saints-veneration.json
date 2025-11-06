@@ -28,6 +28,7 @@
       "baseId": "saints-veneration",
       "type": "technology",
       "name": "Saint's Veneration",
+      "nameCN": "圣人的崇拜",
       "pbgid": 2122121,
       "attribName": "upgrade_saints_veneration_rus",
       "age": 4,
@@ -35,6 +36,7 @@
         "ru"
       ],
       "description": "Increase the health of Warrior Monks by +100.",
+      "descriptionCN": "僧侣战士的生命值增加 +100。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

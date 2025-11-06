@@ -64,6 +64,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -141,6 +143,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -148,6 +151,7 @@
         "ay"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -218,6 +222,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -225,6 +230,7 @@
         "by"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -295,6 +301,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -302,6 +309,7 @@
         "ch"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -372,6 +380,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 181877,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_sul",
       "age": 2,
@@ -379,6 +388,7 @@
         "de"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "scar_economic_upgrade",
@@ -435,6 +445,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -442,6 +453,7 @@
         "en"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -512,6 +524,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -519,6 +532,7 @@
         "fr"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -589,6 +603,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 2032216,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_mon",
       "age": 2,
@@ -596,6 +611,7 @@
         "gol"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -652,6 +668,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -659,6 +676,7 @@
         "hr"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -729,6 +747,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -736,6 +755,7 @@
         "hl"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -806,6 +826,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 9002858,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_kura_jpn",
       "age": 2,
@@ -813,6 +834,7 @@
         "ja"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -870,6 +892,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -877,6 +900,7 @@
         "je"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -947,6 +971,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -954,6 +979,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1024,6 +1050,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1031,6 +1058,7 @@
         "mac"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1101,6 +1129,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1108,6 +1137,7 @@
         "ma"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1178,6 +1208,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 2032216,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_mon",
       "age": 2,
@@ -1185,6 +1216,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1242,6 +1274,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1249,6 +1282,7 @@
         "od"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1319,6 +1353,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1326,6 +1361,7 @@
         "ot"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1396,6 +1432,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1403,6 +1440,7 @@
         "ru"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1473,6 +1511,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 2127597,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_jpn",
       "age": 2,
@@ -1480,6 +1519,7 @@
         "sen"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1537,6 +1577,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -1544,6 +1585,7 @@
         "zx"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

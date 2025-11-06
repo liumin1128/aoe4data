@@ -18,6 +18,7 @@
       "baseId": "ability-call-rus-tributes",
       "type": "ability",
       "name": "Call Rus Tributes",
+      "nameCN": "征收罗斯贡品",
       "pbgid": 9004751,
       "attribName": "call_rus_tributes_mon_ha_gol",
       "age": 3,
@@ -25,6 +26,7 @@
         "gol"
       ],
       "description": "Dispatch 4 Rus Tributes from the Golden Tent and increase the cost of the Call Rus Tributes by +300 Stone.\nThe cost of Call Rus Tributes will be reduced by 10 Stone every 30 seconds. Each Military Building will reduce the cost by an additional 5 Stone up to a maximum of 70 Stone. Will automatically deploy the Rus Tributes when the cost reaches zero.",
+      "descriptionCN": "从黄金帐篷送出 4 罗斯贡品，并使征收罗斯贡品的成本增加 300 石料。\n征收罗斯贡品的成本每 30 秒将减少 10 石料。每座军事建筑会将该成本额外减少 5 石料，最多可减少 70 石料。当成本为零时，则会自动部署罗斯贡品。",
       "classes": [],
       "displayClasses": [],
       "costs": {

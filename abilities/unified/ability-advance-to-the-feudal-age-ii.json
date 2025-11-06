@@ -18,6 +18,7 @@
       "baseId": "ability-advance-to-the-feudal-age-ii",
       "type": "ability",
       "name": "Advance to the Feudal Age (II)",
+      "nameCN": "发展到封建时代 (第二时代)",
       "pbgid": 9002032,
       "attribName": "age_up_feudal_mon_ha_gol",
       "age": 2,
@@ -25,6 +26,7 @@
         "gol"
       ],
       "description": "Upgrade the Golden Tent to advance to the next Age.",
+      "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
       "classes": [],
       "displayClasses": [],
       "costs": {

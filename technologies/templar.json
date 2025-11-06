@@ -16,6 +16,7 @@
       "baseId": "adjustable-crossbars",
       "type": "technology",
       "name": "Adjustable Crossbars",
+      "nameCN": "可调式横杆",
       "pbgid": 130999,
       "attribName": "upgrade_siege_adjustable_crossbar",
       "age": 4,
@@ -23,6 +24,7 @@
         "kt"
       ],
       "description": "Increases Mangonel range by +1, blast radius by +75%, and adds +1 projectile to attacks.",
+      "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -82,6 +84,7 @@
       "baseId": "angevin-empire",
       "type": "technology",
       "name": "Angevin Empire",
+      "nameCN": "安茹帝国",
       "pbgid": 5000206,
       "attribName": "upgrade_age_feudal_com_1_tem",
       "age": 3,
@@ -89,6 +92,7 @@
         "kt"
       ],
       "description": "- Fortresses and Docks gain +30% Health.",
+      "descriptionCN": "- 要塞和码头的生命值 +30%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -131,6 +135,7 @@
       "baseId": "angled-surfaces",
       "type": "technology",
       "name": "Angled Surfaces",
+      "nameCN": "斜面",
       "pbgid": 188268,
       "attribName": "upgrade_ranged_armor_iii",
       "age": 4,
@@ -138,6 +143,7 @@
         "kt"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -212,6 +218,7 @@
       "baseId": "armored-hull",
       "type": "technology",
       "name": "Armored Hull",
+      "nameCN": "装甲船身",
       "pbgid": 196879,
       "attribName": "upgrade_naval_armored_hull",
       "age": 3,
@@ -219,6 +226,7 @@
         "kt"
       ],
       "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+      "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -295,6 +303,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 127325,
       "attribName": "upgrade_outpost_arrowslits",
       "age": 2,
@@ -302,6 +311,7 @@
         "kt"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -359,6 +369,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -366,6 +377,7 @@
         "kt"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -450,6 +462,7 @@
       "baseId": "biology",
       "type": "technology",
       "name": "Biology",
+      "nameCN": "生物学",
       "pbgid": 127850,
       "attribName": "upgrade_tech_university_biology",
       "age": 4,
@@ -457,6 +470,7 @@
         "kt"
       ],
       "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
+      "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -515,6 +529,7 @@
       "baseId": "bloomery",
       "type": "technology",
       "name": "Bloomery",
+      "nameCN": "熟铁块吹炼法",
       "pbgid": 187694,
       "attribName": "upgrade_melee_damage_i",
       "age": 2,
@@ -522,6 +537,7 @@
         "kt"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -583,6 +599,7 @@
       "baseId": "boiling-oil",
       "type": "technology",
       "name": "Boiling Oil",
+      "nameCN": "沸油",
       "pbgid": 128447,
       "attribName": "upgrade_tech_university_murder_holes_4",
       "age": 3,
@@ -590,6 +607,7 @@
         "kt"
       ],
       "description": "Towers and Keeps gain a boiling oil attack against nearby units that deals 30 damage.",
+      "descriptionCN": "箭塔和城堡能对附近敌方单位倾倒沸油，对其造成 30 伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -656,6 +674,7 @@
       "baseId": "brigandine",
       "type": "technology",
       "name": "Brigandine",
+      "nameCN": "布面甲",
       "pbgid": 9001328,
       "attribName": "upgrade_brigandine_tem",
       "age": 4,
@@ -663,6 +682,7 @@
         "kt"
       ],
       "description": "Common soldiers are equipped with more resistant armor. Light cavalry gain +2 armor.",
+      "descriptionCN": "普通士兵配备了更耐用的护甲。轻装骑兵获得 +2 护甲。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -696,6 +716,7 @@
       "baseId": "counterweight-defenses",
       "type": "technology",
       "name": "Counterweight Defenses",
+      "nameCN": "配重式防御",
       "pbgid": 9001209,
       "attribName": "upgrade_trebuchet_projectiles",
       "age": 4,
@@ -703,6 +724,7 @@
         "kt"
       ],
       "description": "All Trebuchet weapons gain +1 additional projectiles.",
+      "descriptionCN": "所有巨型投石机武器获得 +1 额外弹药。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -736,6 +758,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -743,6 +766,7 @@
         "kt"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -811,6 +835,7 @@
       "baseId": "cranequins",
       "type": "technology",
       "name": "Cranequins",
+      "nameCN": "齿轮弩",
       "pbgid": 9001317,
       "attribName": "upgrade_cranequin_tem",
       "age": 4,
@@ -818,6 +843,7 @@
         "kt"
       ],
       "description": "Crossbows are able to load stronger bolts that have +0.5 range and +2 damage.",
+      "descriptionCN": "弩能够装载更强的箭矢，这些箭矢的射程 +0.5，伤害 +2。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -876,6 +902,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -883,6 +910,7 @@
         "kt"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -953,6 +981,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -960,6 +989,7 @@
         "kt"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1020,6 +1050,7 @@
       "baseId": "decarbonization",
       "type": "technology",
       "name": "Decarbonization",
+      "nameCN": "脱碳",
       "pbgid": 187997,
       "attribName": "upgrade_melee_damage_ii",
       "age": 3,
@@ -1027,6 +1058,7 @@
         "kt"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1088,6 +1120,7 @@
       "baseId": "desert-citadels",
       "type": "technology",
       "name": "Desert Citadels",
+      "nameCN": "沙漠城堡",
       "pbgid": 9000052,
       "attribName": "upgrade_desert_citadels",
       "age": 2,
@@ -1095,6 +1128,7 @@
         "kt"
       ],
       "description": "Improves the Desert Outposts aura on Fortresses to also increase the armor of nearby units by +1/+1.",
+      "descriptionCN": "强化要塞的沙漠哨站光环，附近单位的护甲 +1/+1。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -1128,6 +1162,7 @@
       "baseId": "drift-nets",
       "type": "technology",
       "name": "Drift Nets",
+      "nameCN": "流刺网",
       "pbgid": 2033746,
       "attribName": "upgrade_econ_drift_nets",
       "age": 3,
@@ -1135,6 +1170,7 @@
         "kt"
       ],
       "description": "Increase the gathering rate of Fishing Ships by +10%, carry capacity by +20 and move speed by +10%.",
+      "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1220,6 +1256,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190779,
       "attribName": "upgrade_manatarms_elite_army_tactics",
       "age": 4,
@@ -1227,6 +1264,7 @@
         "kt"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1302,6 +1340,7 @@
       "baseId": "explosives",
       "type": "technology",
       "name": "Explosives",
+      "nameCN": "炸药",
       "pbgid": 196883,
       "attribName": "upgrade_naval_explosives",
       "age": 4,
@@ -1309,6 +1348,7 @@
         "kt"
       ],
       "description": "Increase the damage of Incendiary Ships by +40%.",
+      "descriptionCN": "燃烧船伤害 +40%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1373,6 +1413,7 @@
       "baseId": "extended-lines",
       "type": "technology",
       "name": "Extended Lines",
+      "nameCN": "延绳钓",
       "pbgid": 2033745,
       "attribName": "upgrade_econ_extended_lines",
       "age": 2,
@@ -1380,6 +1421,7 @@
         "kt"
       ],
       "description": "Increase the gathering rate of Fishing Ships by +15% and carry capacity by +10.",
+      "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1453,6 +1495,7 @@
       "baseId": "extra-hammocks",
       "type": "technology",
       "name": "Extra Hammocks",
+      "nameCN": "额外吊床",
       "pbgid": 2101642,
       "attribName": "upgrade_naval_extra_hammocks",
       "age": 3,
@@ -1460,6 +1503,7 @@
         "kt"
       ],
       "description": "Increases the number of arrows fired by Archer Ships by +1.",
+      "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1524,6 +1568,7 @@
       "baseId": "fanaticism",
       "type": "technology",
       "name": "Fanaticism",
+      "nameCN": "盲信主义",
       "pbgid": 9000054,
       "attribName": "upgrade_fanaticism",
       "age": 4,
@@ -1531,6 +1576,7 @@
         "kt"
       ],
       "description": "Templar Brothers and Commanderie units gain +10% damage when below 50% health, and +30% when below 25% health.",
+      "descriptionCN": "圣殿骑士修士和指挥所单位的生命值低于 50% 时，其伤害 +10%，生命值低于 25% 时，其伤害 +30%。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -1589,6 +1635,7 @@
       "baseId": "fertilization",
       "type": "technology",
       "name": "Fertilization",
+      "nameCN": "施肥",
       "pbgid": 171292,
       "attribName": "upgrade_econ_resource_food_harvest_rate_3",
       "age": 3,
@@ -1596,6 +1643,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1656,6 +1704,7 @@
       "baseId": "fitted-leatherwork",
       "type": "technology",
       "name": "Fitted Leatherwork",
+      "nameCN": "合身皮具",
       "pbgid": 188116,
       "attribName": "upgrade_melee_armor_i",
       "age": 2,
@@ -1663,6 +1712,7 @@
         "kt"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1738,6 +1788,7 @@
       "baseId": "fortify-outpost",
       "type": "technology",
       "name": "Fortify Outpost",
+      "nameCN": "强化哨站",
       "pbgid": 127331,
       "attribName": "upgrade_outpost_stone",
       "age": 2,
@@ -1745,6 +1796,7 @@
         "kt"
       ],
       "description": "Add +1000 health and +5 fire armor to this Outpost.",
+      "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1815,6 +1867,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1822,6 +1875,7 @@
         "kt"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1884,6 +1938,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191268,
       "attribName": "upgrade_siege_weapon_speed",
       "age": 3,
@@ -1891,6 +1946,7 @@
         "kt"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1953,6 +2009,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -1960,6 +2017,7 @@
         "kt"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2024,6 +2082,7 @@
       "baseId": "herbal-medicine",
       "type": "technology",
       "name": "Herbal Medicine",
+      "nameCN": "草药",
       "pbgid": 129401,
       "attribName": "upgrade_unit_religious_herbal_medicine_4",
       "age": 3,
@@ -2031,6 +2090,7 @@
         "kt"
       ],
       "description": "Increase the healing rate of religious units and healers by +60%.",
+      "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2098,6 +2158,7 @@
       "baseId": "horticulture",
       "type": "technology",
       "name": "Horticulture",
+      "nameCN": "园艺学",
       "pbgid": 128049,
       "attribName": "upgrade_econ_resource_food_harvest_rate_2",
       "age": 2,
@@ -2105,6 +2166,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2165,6 +2227,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -2172,6 +2235,7 @@
         "kt"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2236,6 +2300,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 127838,
       "attribName": "upgrade_ranged_incendiary",
       "age": 4,
@@ -2243,6 +2308,7 @@
         "kt"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2339,6 +2405,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -2346,6 +2413,7 @@
         "kt"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2421,6 +2489,7 @@
       "baseId": "iron-clamps",
       "type": "technology",
       "name": "Iron Clamps",
+      "nameCN": "铁钳",
       "pbgid": 9000049,
       "attribName": "upgrade_iron_clamps_tem",
       "age": 4,
@@ -2428,6 +2497,7 @@
         "kt"
       ],
       "description": "Iron Clamps reinforcing the walls reduces incoming damage from gunpowder by 20% for Stone Walls and Fortresses.",
+      "descriptionCN": "铁钳可以强化城墙，使石墙和要塞受到火药攻击造成的伤害降低 20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -2460,6 +2530,7 @@
       "baseId": "iron-undermesh",
       "type": "technology",
       "name": "Iron Undermesh",
+      "nameCN": "铁制底网",
       "pbgid": 188266,
       "attribName": "upgrade_ranged_armor_i",
       "age": 2,
@@ -2467,6 +2538,7 @@
         "kt"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2542,6 +2614,7 @@
       "baseId": "kingdom-of-castile",
       "type": "technology",
       "name": "Kingdom of Castile",
+      "nameCN": "卡斯蒂利亚王国",
       "pbgid": 5000208,
       "attribName": "upgrade_age_feudal_com_3_tem",
       "age": 3,
@@ -2549,6 +2622,7 @@
         "kt"
       ],
       "description": "- Units near Sacred Sites gain +20% damage and regenerate health.",
+      "descriptionCN": "- 圣地附近的单位造成的伤害 +20% 并恢复生命值。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -2609,6 +2683,7 @@
       "baseId": "kingdom-of-france",
       "type": "technology",
       "name": "Kingdom of France",
+      "nameCN": "法兰西王国",
       "pbgid": 5000202,
       "attribName": "upgrade_age_dark_com_2_tem",
       "age": 2,
@@ -2616,6 +2691,7 @@
         "kt"
       ],
       "description": "- Land military units are produced +15% faster and cost -5% gold.",
+      "descriptionCN": "- 陆地军事单位生产速度 +15%，黄金花费 -5%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -2651,6 +2727,7 @@
       "baseId": "kingdom-of-poland",
       "type": "technology",
       "name": "Kingdom of Poland",
+      "nameCN": "波兰王国",
       "pbgid": 5000210,
       "attribName": "upgrade_age_castle_com_1_tem",
       "age": 4,
@@ -2658,6 +2735,7 @@
         "kt"
       ],
       "description": "- All Cavalry gain +10% health and +50% charge damage.",
+      "descriptionCN": "- 所有骑兵的生命值 +10% ，且冲锋伤害 +50%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -2724,6 +2802,7 @@
       "baseId": "knights-hospitaller",
       "type": "technology",
       "name": "Knights Hospitaller",
+      "nameCN": "医院骑士团",
       "pbgid": 5000201,
       "attribName": "upgrade_age_dark_com_1_tem",
       "age": 2,
@@ -2731,6 +2810,7 @@
         "kt"
       ],
       "description": "- Increases civilian unit health by +30% and move speed by +10%. Increases healing from all sources by +30%.",
+      "descriptionCN": "- 平民单位的生命值 +30%，移动速度 +10%。使所有来源的治疗效果 +30%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -2773,6 +2853,7 @@
       "baseId": "lettre-de-change",
       "type": "technology",
       "name": "Lettre de Change",
+      "nameCN": "本票",
       "pbgid": 9000053,
       "attribName": "upgrade_lettre_de_change_tem",
       "age": 3,
@@ -2780,6 +2861,7 @@
         "kt"
       ],
       "description": "Unlocks the Pilgrim Loan abilities, which loan a large sum of food for a return in gold over time.",
+      "descriptionCN": "解锁朝圣者借贷技能，可以出借大量食物以持续获取黄金作为回报。",
       "classes": [
         "economic_upgrade",
         "scar_castle_age_upgrade",
@@ -2811,6 +2893,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -2818,6 +2901,7 @@
         "kt"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2893,6 +2977,7 @@
       "baseId": "master-smiths",
       "type": "technology",
       "name": "Master Smiths",
+      "nameCN": "铁匠大师",
       "pbgid": 188122,
       "attribName": "upgrade_melee_armor_iii",
       "age": 4,
@@ -2900,6 +2985,7 @@
         "kt"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2974,6 +3060,7 @@
       "baseId": "military-academy",
       "type": "technology",
       "name": "Military Academy",
+      "nameCN": "军事学院",
       "pbgid": 128454,
       "attribName": "upgrade_tech_military_academy",
       "age": 3,
@@ -2981,6 +3068,7 @@
         "kt"
       ],
       "description": "Increase the production speed of infantry, cavalry, siege, and transport units at buildings by 33%.\nDoes not affect religious units or other support units.",
+      "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3057,6 +3145,7 @@
       "baseId": "naval-springald-emplacement",
       "type": "technology",
       "name": "Naval Springald Emplacement",
+      "nameCN": "海军扭力弩炮炮台",
       "pbgid": 9004567,
       "attribName": "upgrade_naval_springald_emplacement_tem",
       "age": 2,
@@ -3064,6 +3153,7 @@
         "kt"
       ],
       "description": "Adds a defensive naval springald to this Harbor.",
+      "descriptionCN": "为此巨港添加一部防御型海军扭力弩炮。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3111,6 +3201,7 @@
       "baseId": "piety",
       "type": "technology",
       "name": "Piety",
+      "nameCN": "虔诚",
       "pbgid": 129403,
       "attribName": "upgrade_unit_religious_piety_4",
       "age": 4,
@@ -3118,6 +3209,7 @@
         "kt"
       ],
       "description": "Increase the health of religious units and healers by +40.",
+      "descriptionCN": "宗教单位和治疗者的生命值 +40。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "ayyubid_cmp_upgrade",
@@ -3183,6 +3275,7 @@
       "baseId": "platecutter-point",
       "type": "technology",
       "name": "Platecutter Point",
+      "nameCN": "箭头穿孔板甲",
       "pbgid": 188271,
       "attribName": "upgrade_ranged_damage_iii",
       "age": 4,
@@ -3190,6 +3283,7 @@
         "kt"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3273,6 +3367,7 @@
       "baseId": "precision-cross-breeding",
       "type": "technology",
       "name": "Precision Cross-Breeding",
+      "nameCN": "精准杂交育种",
       "pbgid": 171293,
       "attribName": "upgrade_econ_resource_food_harvest_rate_4",
       "age": 4,
@@ -3280,6 +3375,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3339,6 +3435,7 @@
       "baseId": "principality-of-antioch",
       "type": "technology",
       "name": "Principality of Antioch",
+      "nameCN": "安条克公国",
       "pbgid": 5000203,
       "attribName": "upgrade_age_dark_com_3_tem",
       "age": 2,
@@ -3346,6 +3443,7 @@
         "kt"
       ],
       "description": "- Melee units gain +15% damage.",
+      "descriptionCN": "- 近战单位的伤害 +15%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -3406,6 +3504,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 127933,
       "attribName": "upgrade_scout_forester",
       "age": 2,
@@ -3413,6 +3512,7 @@
         "kt"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3491,6 +3591,7 @@
       "baseId": "republic-of-genoa",
       "type": "technology",
       "name": "Republic of Genoa",
+      "nameCN": "热那亚共和国",
       "pbgid": 5000207,
       "attribName": "upgrade_age_feudal_com_2_tem",
       "age": 3,
@@ -3498,6 +3599,7 @@
         "kt"
       ],
       "description": "- Pilgrims generate +20% gold.",
+      "descriptionCN": "- 朝圣者产出的黄金 +20%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -3533,6 +3635,7 @@
       "baseId": "republic-of-venice",
       "type": "technology",
       "name": "Republic of Venice",
+      "nameCN": "威尼斯共和国",
       "pbgid": 5000212,
       "attribName": "upgrade_age_castle_com_3_tem",
       "age": 4,
@@ -3540,6 +3643,7 @@
         "kt"
       ],
       "description": "- Reduces the change in the base buy or sell price by 75% when trading resources at the Market.",
+      "descriptionCN": "- 在市场中交易资源时，将基本购买或卖出价格的变化减少 75%。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -3575,6 +3679,7 @@
       "baseId": "roller-shutter-triggers",
       "type": "technology",
       "name": "Roller Shutter Triggers",
+      "nameCN": "卷帘式触发器",
       "pbgid": 127938,
       "attribName": "upgrade_siege_roller_trigger",
       "age": 4,
@@ -3582,6 +3687,7 @@
         "kt"
       ],
       "description": "Increases Springald attack speed by +25% and grants +10% Ranged Resistance.",
+      "descriptionCN": "扭力弩炮攻击速度 +25%，并且获得 +10% 远程抗性。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3653,6 +3759,7 @@
       "baseId": "rule-of-templars",
       "type": "technology",
       "name": "Rule of Templars",
+      "nameCN": "圣殿骑士的规矩",
       "pbgid": 9000051,
       "attribName": "upgrade_rule_of_templars_tem",
       "age": 3,
@@ -3660,6 +3767,7 @@
         "kt"
       ],
       "description": "Gain +2 charge damage per nearby charging Heavy Cavalry.",
+      "descriptionCN": "附近的每个冲锋重装骑兵的冲锋伤害 +2。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -3718,6 +3826,7 @@
       "baseId": "safe-passage",
       "type": "technology",
       "name": "Safe Passage",
+      "nameCN": "安全通道",
       "pbgid": 9000048,
       "attribName": "upgrade_safe_passage_tem",
       "age": 2,
@@ -3725,6 +3834,7 @@
         "kt"
       ],
       "description": "Activates Pilgrims.\nPilgrims spawn every 60 seconds. Start with 1 pilgrim, gain 1 pilgrims for each Fortress (Max 10).",
+      "descriptionCN": "激活朝圣者。\n朝圣者每 60 秒生成一次。以 1 名朝圣者开局，每拥有一个要塞便可获得 1 名朝圣者 (最多 10 名)。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -3758,6 +3868,7 @@
       "baseId": "sanctuary",
       "type": "technology",
       "name": "Sanctuary",
+      "nameCN": "庇护所",
       "pbgid": 9002303,
       "attribName": "upgrade_sanctuary_tem",
       "age": 1,
@@ -3765,6 +3876,7 @@
         "kt"
       ],
       "description": "Guarantees of sanctuary grant Pilgrimage 1 additional Pilgrim.",
+      "descriptionCN": "庇护所的保证可使朝圣者人数增加 1。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -3798,6 +3910,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 171823,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
       "age": 3,
@@ -3805,6 +3918,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3852,6 +3966,7 @@
       "baseId": "shipwrights",
       "type": "technology",
       "name": "Shipwrights",
+      "nameCN": "造船工",
       "pbgid": 2101643,
       "attribName": "upgrade_naval_shipwrights",
       "age": 4,
@@ -3859,6 +3974,7 @@
         "kt"
       ],
       "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+      "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3935,6 +4051,7 @@
       "baseId": "siege-engineering",
       "type": "technology",
       "name": "Siege Engineering",
+      "nameCN": "攻城工程学",
       "pbgid": 127860,
       "attribName": "upgrade_siege_engineers",
       "age": 2,
@@ -3942,6 +4059,7 @@
         "kt"
       ],
       "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field.",
+      "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
       "classes": [
         "byzantine_upgrade",
         "chinese_ha_01_upgrade",
@@ -4003,6 +4121,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -4010,6 +4129,7 @@
         "kt"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4072,6 +4192,7 @@
       "baseId": "silk-bowstrings",
       "type": "technology",
       "name": "Silk Bowstrings",
+      "nameCN": "蚕丝弓弦",
       "pbgid": 127842,
       "attribName": "upgrade_ranged_archer_silkstring",
       "age": 4,
@@ -4079,6 +4200,7 @@
         "kt"
       ],
       "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
+      "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1.5，使骑射手的射程 +0.75。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4123,6 +4245,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 171822,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
       "age": 2,
@@ -4130,6 +4253,7 @@
         "kt"
       ],
       "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+      "descriptionCN": "村民的黄金和石料采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4200,6 +4324,7 @@
       "baseId": "springald-crews",
       "type": "technology",
       "name": "Springald Crews",
+      "nameCN": "扭力弩炮队",
       "pbgid": 2101638,
       "attribName": "upgrade_naval_springald_ship_upgrade_1",
       "age": 3,
@@ -4207,6 +4332,7 @@
         "kt"
       ],
       "description": "Springald Ships gain +1 range and attack 20% faster.",
+      "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4285,6 +4411,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -4292,6 +4419,7 @@
         "kt"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4360,6 +4488,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -4367,6 +4496,7 @@
         "kt"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -4424,6 +4554,7 @@
       "baseId": "steeled-arrow",
       "type": "technology",
       "name": "Steeled Arrow",
+      "nameCN": "钢制箭头",
       "pbgid": 188269,
       "attribName": "upgrade_ranged_damage_i",
       "age": 2,
@@ -4431,6 +4562,7 @@
         "kt"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4515,6 +4647,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -4522,6 +4655,7 @@
         "kt"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4581,6 +4715,7 @@
       "baseId": "teutonic-order",
       "type": "technology",
       "name": "Teutonic Order",
+      "nameCN": "条顿骑士团",
       "pbgid": 5000211,
       "attribName": "upgrade_age_castle_com_2_tem",
       "age": 4,
@@ -4588,6 +4723,7 @@
         "kt"
       ],
       "description": "- All gold units gain +2 melee armor.",
+      "descriptionCN": "- 所有黄金单位的近战护甲 +2。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",
@@ -4630,6 +4766,7 @@
       "baseId": "textiles",
       "type": "technology",
       "name": "Textiles",
+      "nameCN": "纺织品",
       "pbgid": 2045367,
       "attribName": "upgrade_villager_health",
       "age": 2,
@@ -4637,6 +4774,7 @@
         "kt"
       ],
       "description": "Increase Villagers' health by +50%.",
+      "descriptionCN": "村民生命值 +50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4700,6 +4838,7 @@
       "baseId": "tithe-barns",
       "type": "technology",
       "name": "Tithe Barns",
+      "nameCN": "什一税仓库",
       "pbgid": 129407,
       "attribName": "upgrade_unit_religious_tithe_barn_4",
       "age": 4,
@@ -4707,6 +4846,7 @@
         "kt"
       ],
       "description": "Relics placed in a Monastery provide an income of +40 Food, +40 Wood, and +10 Stone every minute.",
+      "descriptionCN": "放置在修道院的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
       "classes": [
         "byzantine_upgrade",
         "chinese_ha_01_upgrade",
@@ -4792,6 +4932,7 @@
       "baseId": "treasure-towers",
       "type": "technology",
       "name": "Treasure Towers",
+      "nameCN": "藏宝塔",
       "pbgid": 9000050,
       "attribName": "upgrade_treasure_tower_tem",
       "age": 3,
@@ -4799,6 +4940,7 @@
         "kt"
       ],
       "description": "Increases the gold generation of Monasteries, Sacred Sites and Pilgrims by 20% within the aura of a Fortress.",
+      "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
       "classes": [
         "economic_upgrade",
         "scar_castle_age_upgrade",
@@ -4830,6 +4972,7 @@
       "baseId": "trebuchet-emplacement",
       "type": "technology",
       "name": "Trebuchet Emplacement",
+      "nameCN": "巨型投石机炮台",
       "pbgid": 9000155,
       "attribName": "upgrade_keep_trebuchet",
       "age": 4,
@@ -4837,6 +4980,7 @@
         "kt"
       ],
       "description": "Add a defensive trebuchet emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御性巨型投石机炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4883,6 +5027,7 @@
       "baseId": "wedge-rivets",
       "type": "technology",
       "name": "Wedge Rivets",
+      "nameCN": "楔形铆钉",
       "pbgid": 188267,
       "attribName": "upgrade_ranged_armor_ii",
       "age": 3,
@@ -4890,6 +5035,7 @@
         "kt"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4965,6 +5111,7 @@
       "baseId": "wheelbarrow",
       "type": "technology",
       "name": "Wheelbarrow",
+      "nameCN": "独轮推车",
       "pbgid": 129091,
       "attribName": "upgrade_unit_town_center_wheelbarrow_1",
       "age": 1,
@@ -4972,6 +5119,7 @@
         "kt"
       ],
       "description": "Increase the carry capacity of Villagers by +5 and their movement speed by +15%.",
+      "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -18,6 +18,7 @@
       "baseId": "ability-advance-to-the-imperial-age-iv",
       "type": "ability",
       "name": "Advance to the Imperial Age (IV)",
+      "nameCN": "发展到帝王时代 (第四时代)",
       "pbgid": 9002034,
       "attribName": "age_up_imperial_mon_ha_gol",
       "age": 2,
@@ -25,6 +26,7 @@
         "gol"
       ],
       "description": "Upgrade the Golden Tent to advance to the next Age.",
+      "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
       "classes": [],
       "displayClasses": [],
       "costs": {

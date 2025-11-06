@@ -28,6 +28,7 @@
       "baseId": "elite-mercenaries",
       "type": "technology",
       "name": "Elite Contract",
+      "nameCN": "精锐合同",
       "pbgid": 2146758,
       "attribName": "upgrade_unit_mercenary_4_tower_alt_byz",
       "age": 4,
@@ -35,6 +36,7 @@
         "by"
       ],
       "description": "Upgrade Veteran Mercenaries to Elite Mercenaries.",
+      "descriptionCN": "将老练雇佣兵升级为精锐雇佣兵。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

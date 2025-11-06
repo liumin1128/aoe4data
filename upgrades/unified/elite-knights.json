@@ -27,6 +27,7 @@
       "baseId": "elite-knights",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 133503,
       "attribName": "upgrade_unit_knight_4_rus",
       "age": 4,
@@ -34,6 +35,7 @@
         "ru"
       ],
       "description": "Upgrade Knights to Elite Knights.",
+      "descriptionCN": "将骑士升级为精锐骑士。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

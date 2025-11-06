@@ -23,6 +23,7 @@
       "baseId": "scale-armor",
       "type": "technology",
       "name": "Scale Armor",
+      "nameCN": "鳞甲",
       "pbgid": 2140559,
       "attribName": "upgrade_archer_armor_hre_ha_01",
       "age": 3,
@@ -30,6 +31,7 @@
         "od"
       ],
       "description": "Increase the ranged armor of Gilded Archers by +3.",
+      "descriptionCN": "镀金步弓手的远程护甲 +3。",
       "classes": [
         "military_upgrade"
       ],

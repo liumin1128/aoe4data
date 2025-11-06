@@ -27,6 +27,7 @@
       "baseId": "public-libraries",
       "type": "technology",
       "name": "Public Libraries",
+      "nameCN": "公共图书馆",
       "pbgid": 9000094,
       "attribName": "upgrade_cul_public_libraries_abb",
       "age": 4,
@@ -34,6 +35,7 @@
         "ab"
       ],
       "description": "Villagers and Traders gain +2 health per economic upgrade.",
+      "descriptionCN": "每次经济升级，村民和商人都会获得 +2 生命值。",
       "classes": [
         "abbasid_upgrade",
         "scar_imperial_age_upgrade",

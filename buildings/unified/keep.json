@@ -50,6 +50,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 199622,
       "attribName": "building_defense_keep_control_abb",
       "age": 3,
@@ -57,6 +58,7 @@
         "ab"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -170,6 +172,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2779506,
       "attribName": "building_defense_keep_control_abb_ha_01",
       "age": 3,
@@ -177,6 +180,7 @@
         "ay"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -290,6 +294,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2104735,
       "attribName": "building_defense_keep_byz",
       "age": 3,
@@ -297,6 +302,7 @@
         "by"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -410,6 +416,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 144648,
       "attribName": "building_defense_keep_chi",
       "age": 3,
@@ -417,6 +424,7 @@
         "ch"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -529,6 +537,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 135794,
       "attribName": "building_defense_keep_control_sul",
       "age": 3,
@@ -536,6 +545,7 @@
         "de"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -648,6 +658,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 166243,
       "attribName": "building_defense_keep_eng",
       "age": 3,
@@ -655,6 +666,7 @@
         "en"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nNetwork of Castles Bonus: Triggers an alarm when an enemy approaches, causing nearby units to fire faster while the alarm is active.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n城堡网络加成：敌人接近时会触发警报，警报生效期间附近的单位射击速度会加快。",
       "classes": [
         "building",
         "castle",
@@ -767,6 +779,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 132678,
       "attribName": "building_defense_keep_fre",
       "age": 3,
@@ -774,6 +787,7 @@
         "fr"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -886,6 +900,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 134923,
       "attribName": "building_defense_keep_hre",
       "age": 3,
@@ -893,6 +908,7 @@
         "hr"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "castle",
@@ -1006,6 +1022,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 500027,
       "attribName": "building_defense_keep_lan",
       "age": 3,
@@ -1013,6 +1030,7 @@
         "hl"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nGrants 3 Earl's Guards upon being fully constructed.",
+      "descriptionCN": "重兵驻守，易守难攻。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n建造完成后可获得 3 名伯爵护卫。",
       "classes": [
         "building",
         "castle",
@@ -1123,6 +1141,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 7159776,
       "attribName": "building_defense_keep_fre_ha_01",
       "age": 3,
@@ -1130,6 +1149,7 @@
         "je"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1241,6 +1261,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 9000929,
       "attribName": "building_defense_keep_byz_ha_mac",
       "age": 3,
@@ -1248,6 +1269,7 @@
         "mac"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1359,6 +1381,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2675396,
       "attribName": "building_defense_keep_mal",
       "age": 3,
@@ -1366,6 +1389,7 @@
         "ma"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1476,6 +1500,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 4015152,
       "attribName": "building_defense_keep_hre_ha_01",
       "age": 3,
@@ -1483,6 +1508,7 @@
         "od"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nPrelates can place a Relic within to generate Gold and improve the buildings armor, damage, weapon range and sight range.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "castle",
@@ -1596,6 +1622,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2034590,
       "attribName": "building_defense_keep_ott",
       "age": 3,
@@ -1603,6 +1630,7 @@
         "ot"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1714,6 +1742,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 133437,
       "attribName": "building_defense_keep_control_rus",
       "age": 3,
@@ -1721,6 +1750,7 @@
         "ru"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1831,6 +1861,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 8086882,
       "attribName": "building_defense_keep_chi_ha_01",
       "age": 3,
@@ -1838,6 +1869,7 @@
         "zx"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",

@@ -18,6 +18,7 @@
       "baseId": "ability-redirect-yatai",
       "type": "ability",
       "name": "Redirect Yatai",
+      "nameCN": "改变屋台的方向",
       "pbgid": 9003882,
       "attribName": "matsuri_call_yatai_jpn_ha_sen",
       "age": 1,
@@ -25,6 +26,7 @@
         "sen"
       ],
       "description": "While active the Home Matsuri of all Yatai is set to this building.",
+      "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
       "classes": [],
       "displayClasses": [],
       "costs": {

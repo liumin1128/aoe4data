@@ -27,6 +27,7 @@
       "baseId": "swiftness",
       "type": "technology",
       "name": "Swiftness",
+      "nameCN": "迅捷",
       "pbgid": 200137,
       "attribName": "upgrade_landmark_scholar_speed_sul",
       "age": 3,
@@ -34,6 +35,7 @@
         "de"
       ],
       "description": "Increases the movement speed of Scholars by +50%.",
+      "descriptionCN": "学者移动速度 +50%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",

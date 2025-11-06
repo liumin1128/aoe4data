@@ -27,6 +27,7 @@
       "baseId": "reload-drills",
       "type": "technology",
       "name": "Reload Drills",
+      "nameCN": "装填训练",
       "pbgid": 173803,
       "attribName": "upgrade_reload_drills_chi",
       "age": 4,
@@ -34,6 +35,7 @@
         "ch"
       ],
       "description": "Increase the attack speed of Bombards by +33%.",
+      "descriptionCN": "手推炮的攻击速度 +33%。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",

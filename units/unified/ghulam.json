@@ -40,6 +40,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Ghulam",
+      "nameCN": "古拉姆",
       "pbgid": 199721,
       "attribName": "unit_manatarms_3_abb",
       "age": 3,
@@ -47,6 +48,7 @@
         "ab"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -159,6 +161,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Elite Ghulam",
+      "nameCN": "精锐古拉姆",
       "pbgid": 199722,
       "attribName": "unit_manatarms_4_abb",
       "age": 4,
@@ -166,6 +169,7 @@
         "ab"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -278,6 +282,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Ghulam",
+      "nameCN": "古拉姆",
       "pbgid": 7313360,
       "attribName": "unit_manatarms_3_abb_ha_01",
       "age": 3,
@@ -285,6 +290,7 @@
         "ay"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -397,6 +403,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Elite Ghulam",
+      "nameCN": "精锐古拉姆",
       "pbgid": 3255471,
       "attribName": "unit_manatarms_4_abb_ha_01",
       "age": 4,
@@ -404,6 +411,7 @@
         "ay"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -516,6 +524,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Ghulam",
+      "nameCN": "古拉姆",
       "pbgid": 2136963,
       "attribName": "unit_ghulam_3_merc_byz",
       "age": 3,
@@ -523,6 +532,7 @@
         "by"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Can build Mangonels and Springalds on the field without requiring Siege Engineers\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nRequires the Eastern Mercenary Contract.",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -642,6 +652,7 @@
       "baseId": "ghulam",
       "type": "unit",
       "name": "Elite Ghulam",
+      "nameCN": "精锐古拉姆",
       "pbgid": 2136964,
       "attribName": "unit_ghulam_4_merc_byz",
       "age": 4,
@@ -649,6 +660,7 @@
         "by"
       ],
       "description": "Tough infantry that deal two attacks in rapid succession.\n+ High armor\n+ Higher attack damage on charge\n- Lower base attack damage than a Man-at-Arms\n- Can build Mangonels and Springalds on the field without requiring Siege Engineers\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nRequires the Eastern Mercenary Contract.",
+      "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

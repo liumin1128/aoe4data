@@ -18,6 +18,7 @@
       "baseId": "ability-galley-production",
       "type": "ability",
       "name": "Galley Production",
+      "nameCN": "箭船生产",
       "pbgid": 9004097,
       "attribName": "passive_trait_lodya_galley_toggle_byz_ha_mac",
       "age": 2,
@@ -25,6 +26,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Galleys",
+      "descriptionCN": "开启以派遣箭船增援",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -29,6 +29,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -36,6 +37,7 @@
             "ru"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -96,6 +98,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -103,6 +106,7 @@
             "ru"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -156,6 +160,7 @@
           "baseId": "ability-gallop",
           "type": "ability",
           "name": "Gallop",
+          "nameCN": "疾驰",
           "pbgid": 2134249,
           "attribName": "horse_archer_mounted_training_gallop_rus",
           "age": 4,
@@ -163,6 +168,7 @@
             "ru"
           ],
           "description": "Activate to move at maximum speed with +2 tile weapon range for 8 seconds.",
+          "descriptionCN": "激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -230,6 +236,7 @@
           "baseId": "ability-high-armory-production-bonus",
           "type": "ability",
           "name": "High Armory Production Bonus",
+          "nameCN": "高级军械库生产加成",
           "pbgid": 207496,
           "attribName": "high_armory_production_aura_rus",
           "age": 4,
@@ -237,6 +244,7 @@
             "ru"
           ],
           "description": "The cost of siege engines in nearby Siege Workshops is decreased by 20%.",
+          "descriptionCN": "邻近攻城武器厂的攻城器械成本降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -311,6 +319,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -318,6 +327,7 @@
             "ru"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -373,6 +383,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -380,6 +391,7 @@
             "ru"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -435,6 +447,7 @@
           "baseId": "ability-saints-blessing",
           "type": "ability",
           "name": "Saint's Blessing",
+          "nameCN": "圣者的祝福",
           "pbgid": 181465,
           "attribName": "saints_blessing_rus",
           "age": 3,
@@ -442,6 +455,7 @@
             "ru"
           ],
           "description": "After striking an enemy, the Warrior Monk increases the armor and damage of nearby allied Rus military units for a duration.",
+          "descriptionCN": "攻击敌人后，僧侣战士会在一段时间内提升邻近友方罗斯军事单位的护甲和伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -622,6 +636,7 @@
           "baseId": "ability-static-deployment",
           "type": "ability",
           "name": "Static Deployment",
+          "nameCN": "静态部署",
           "pbgid": 182235,
           "attribName": "streltsy_static_deployment_ability_rus",
           "age": 4,
@@ -629,6 +644,7 @@
             "ru"
           ],
           "description": "Streltsy gain +30% attack speed after remaining stationary for 10 seconds.",
+          "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {

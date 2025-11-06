@@ -28,6 +28,7 @@
       "baseId": "fortified-palisade-gate",
       "type": "building",
       "name": "Fortified Palisade Gate",
+      "nameCN": "强化木城门",
       "pbgid": 133574,
       "attribName": "building_defense_palisade_gate_rus",
       "age": 1,
@@ -35,6 +36,7 @@
         "ru"
       ],
       "description": "Relatively sturdy defensive gate. Must be built on a Fortified Palisade Wall segment.",
+      "descriptionCN": "相当坚固的轻型防御城门。必须建造在硬木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",

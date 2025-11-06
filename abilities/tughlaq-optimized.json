@@ -29,6 +29,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -36,6 +37,7 @@
             "tug"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -97,6 +99,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -104,6 +107,7 @@
             "tug"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -158,6 +162,7 @@
           "baseId": "ability-elephant-economics",
           "type": "ability",
           "name": "Elephant Economics",
+          "nameCN": "大象经济",
           "pbgid": 9001171,
           "attribName": "worker_elephant_resource_gathering_passive_sul_ha_tug",
           "age": 1,
@@ -165,6 +170,7 @@
             "tug"
           ],
           "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
+          "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -208,6 +214,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -215,6 +222,7 @@
             "tug"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -271,6 +279,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -278,6 +287,7 @@
             "tug"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -334,6 +344,7 @@
           "baseId": "ability-tughlaqabad-fort-overwatch",
           "type": "ability",
           "name": "Tughlaqabad Fort Overwatch",
+          "nameCN": "腾格拉卡巴德堡垒瞭望",
           "pbgid": 9004580,
           "attribName": "fort_dock_aura_sul_ha_tug",
           "age": 1,
@@ -341,6 +352,7 @@
             "tug"
           ],
           "description": "Increasing the production speed of nearby Docks by 30%, arrowslits damage by 2, and weapon range by 1 tile.",
+          "descriptionCN": "附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {

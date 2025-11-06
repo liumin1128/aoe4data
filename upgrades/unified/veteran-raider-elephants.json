@@ -26,6 +26,7 @@
       "baseId": "veteran-raider-elephants",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 9001284,
       "attribName": "upgrade_unit_war_elephant_raider_3_sul_ha_tug",
       "age": 3,
@@ -33,6 +34,7 @@
         "tug"
       ],
       "description": "Upgrade Raider Elephants to Veteran Raider Elephants",
+      "descriptionCN": "将突袭大象升级为老练突袭大象",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",

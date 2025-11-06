@@ -29,6 +29,7 @@
       "baseId": "kobuse-gitae",
       "type": "technology",
       "name": "Kobuse-gitae",
+      "nameCN": "甲伏锻",
       "pbgid": 2136859,
       "attribName": "upgrade_melee_damage_iii_jpn",
       "age": 3,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",
@@ -84,6 +86,7 @@
       "baseId": "kobuse-gitae",
       "type": "technology",
       "name": "Kobuse-gitae",
+      "nameCN": "甲伏锻",
       "pbgid": 2136859,
       "attribName": "upgrade_melee_damage_iii_jpn",
       "age": 3,
@@ -91,6 +94,7 @@
         "sen"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

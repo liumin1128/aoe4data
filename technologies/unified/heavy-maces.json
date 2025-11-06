@@ -27,6 +27,7 @@
       "baseId": "heavy-maces",
       "type": "technology",
       "name": "Heavy Maces",
+      "nameCN": "重锤",
       "pbgid": 174678,
       "attribName": "upgrade_man_at_arms_maces_hre",
       "age": 3,
@@ -34,6 +35,7 @@
         "hr"
       ],
       "description": "Men-at-Arms wield maces, increasing their bonus damage against heavy targets by +6.",
+      "descriptionCN": "武士手持锤子，使其对装甲目标的伤害加成 +6。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",

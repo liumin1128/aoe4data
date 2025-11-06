@@ -64,6 +64,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -130,6 +132,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -137,6 +140,7 @@
         "ay"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -196,6 +200,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 2159812,
       "attribName": "upgrade_econ_villager_hunting_gear_1_byz",
       "age": 1,
@@ -203,6 +208,7 @@
         "by"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "byzantine_upgrade",
         "economic_upgrade",
@@ -248,6 +254,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -255,6 +262,7 @@
         "ch"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -315,6 +323,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203468,
       "attribName": "upgrade_econ_villager_hunting_gear_1_sul",
       "age": 1,
@@ -322,6 +331,7 @@
         "de"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "scar_dark_age_upgrade",
@@ -367,6 +377,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -374,6 +385,7 @@
         "en"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -433,6 +445,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -440,6 +453,7 @@
         "fr"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -499,6 +513,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 205917,
       "attribName": "upgrade_econ_villager_hunting_gear_1_mon",
       "age": 1,
@@ -506,6 +521,7 @@
         "gol"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -551,6 +567,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -558,6 +575,7 @@
         "hr"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -617,6 +635,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -624,6 +643,7 @@
         "hl"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -683,6 +703,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -690,6 +711,7 @@
         "ja"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -750,6 +772,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -757,6 +780,7 @@
         "je"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -816,6 +840,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -823,6 +848,7 @@
         "kt"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -882,6 +908,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 2159812,
       "attribName": "upgrade_econ_villager_hunting_gear_1_byz",
       "age": 1,
@@ -889,6 +916,7 @@
         "mac"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "byzantine_upgrade",
         "economic_upgrade",
@@ -934,6 +962,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -941,6 +970,7 @@
         "ma"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1000,6 +1030,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 205917,
       "attribName": "upgrade_econ_villager_hunting_gear_1_mon",
       "age": 1,
@@ -1007,6 +1038,7 @@
         "mo"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1053,6 +1085,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -1060,6 +1093,7 @@
         "od"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1119,6 +1153,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -1126,6 +1161,7 @@
         "ot"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1186,6 +1222,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -1193,6 +1230,7 @@
         "ru"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1252,6 +1290,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -1259,6 +1298,7 @@
         "sen"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1318,6 +1358,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 203467,
       "attribName": "upgrade_econ_villager_hunting_gear_1",
       "age": 1,
@@ -1325,6 +1366,7 @@
         "zx"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

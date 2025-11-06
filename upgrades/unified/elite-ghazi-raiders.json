@@ -27,6 +27,7 @@
       "baseId": "elite-ghazi-raiders",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 181865,
       "attribName": "upgrade_unit_horseman_4_sul",
       "age": 4,
@@ -34,6 +35,7 @@
         "de"
       ],
       "description": "Upgrade Veteran Ghazi Raiders to Elite Ghazi Raiders.",
+      "descriptionCN": "将老练加齐掠夺者升级为精锐加齐掠夺者。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",

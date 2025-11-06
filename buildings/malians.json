@@ -16,6 +16,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 2950634,
       "attribName": "building_unit_ranged_mal",
       "age": 2,
@@ -23,6 +24,7 @@
         "ma"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -81,6 +83,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 2273971,
       "attribName": "building_unit_infantry_mal",
       "age": 1,
@@ -88,6 +91,7 @@
         "ma"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -146,6 +150,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 2555383,
       "attribName": "building_tech_unit_infantry_mal",
       "age": 2,
@@ -153,6 +158,7 @@
         "ma"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -203,6 +209,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 2473091,
       "attribName": "building_town_center_capital_mal",
       "age": 1,
@@ -210,6 +217,7 @@
         "ma"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "defensive_structure",
@@ -282,6 +290,7 @@
       "baseId": "cattle-ranch",
       "type": "building",
       "name": "Cattle Ranch",
+      "nameCN": "养牛场",
       "pbgid": 2074126,
       "attribName": "building_econ_ranch_mal",
       "age": 2,
@@ -289,6 +298,7 @@
         "ma"
       ],
       "description": "Cattle garrisoned in this ranch generate +25 Food per minute. This value is increased by the food upgrades.",
+      "descriptionCN": "放置于此牧场的牛每分钟产生 +25 食物。这个值会随着食物升级而增加。",
       "classes": [
         "building",
         "ranch",
@@ -344,6 +354,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 2471152,
       "attribName": "building_unit_naval_mal",
       "age": 1,
@@ -351,6 +362,7 @@
         "ma"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "classes": [
         "building",
         "military_only_production",
@@ -412,6 +424,7 @@
       "baseId": "farimba-garrison",
       "type": "building",
       "name": "Farimba Garrison",
+      "nameCN": "死士驻军",
       "pbgid": 2062447,
       "attribName": "building_landmark_age2_landmarkd_control_mal",
       "age": 2,
@@ -419,6 +432,7 @@
         "ma"
       ],
       "description": "Enlist one of three units to enhance your roster: the Mansa Musofadi, Mansa Javelineer, or Freeborn Warrior. Another unit can be enlisted in the Imperial Age.",
+      "descriptionCN": "从以下三种单位中招募其一来强化你的军队：曼萨·穆索法迪、曼萨掷枪手或自由民战士。在帝国时代还可以招募另一种单位。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -476,6 +490,7 @@
       "baseId": "farm",
       "type": "building",
       "name": "Farm",
+      "nameCN": "农田",
       "pbgid": 2353485,
       "attribName": "building_resource_farm_mal",
       "age": 1,
@@ -483,6 +498,7 @@
         "ma"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "classes": [
         "building",
         "farm",
@@ -534,6 +550,7 @@
       "baseId": "fort-of-the-huntress",
       "type": "building",
       "name": "Fort of the Huntress",
+      "nameCN": "女猎手要塞",
       "pbgid": 2063110,
       "attribName": "building_landmark_age3_landmarkf_mal",
       "age": 3,
@@ -541,6 +558,7 @@
         "ma"
       ],
       "description": "Acts as a Keep that shoots poison arrows. Infantry units nearby the Landmark enter Stealth for 30 seconds.\nMusofadi Warriors and Musofadi Gunners gain First Strike, dealing more damage when breaking Stealth with an attack.",
+      "descriptionCN": "可作为发射毒箭的城堡使用。地标附近的步兵单位进入潜行状态 30 秒。\n穆索法迪战士和穆索法迪火枪兵获得先发制人效果，在发动破除潜行的一次攻击时造成更大伤害。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -655,6 +673,7 @@
       "baseId": "grand-fulani-corral",
       "type": "building",
       "name": "Grand Fulani Corral",
+      "nameCN": "富拉尼大围栏",
       "pbgid": 2062448,
       "attribName": "building_landmark_age2_landmarkc_control_mal",
       "age": 2,
@@ -662,6 +681,7 @@
         "ma"
       ],
       "description": "Nearby cattle provide 20 Food per minute.",
+      "descriptionCN": "附近的牛每分钟提供 20 食物。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -716,6 +736,7 @@
       "baseId": "great-mosque",
       "type": "building",
       "name": "Great Mosque",
+      "nameCN": "大清真寺",
       "pbgid": 2058992,
       "attribName": "building_wonder_age4_great_mosque_control_mal",
       "age": 4,
@@ -723,6 +744,7 @@
         "ma"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -774,6 +796,7 @@
       "baseId": "griot-bara",
       "type": "building",
       "name": "Griot Bara",
+      "nameCN": "说书人巴拉鼓",
       "pbgid": 2062635,
       "attribName": "building_landmark_age3_landmarke_mal",
       "age": 3,
@@ -781,6 +804,7 @@
         "ma"
       ],
       "description": "Begin a festival for 300 Gold, providing global enhancements to Food gather rates, unit production speeds, or damage of torches and siege attacks. One festival may be active at a time.",
+      "descriptionCN": "花费 300 黄金开展一次节庆，可全局提升食物采集率、单位生产速度或火炬及攻城攻击所造成的伤害。每次可以激活一次节庆。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -835,6 +859,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 2357589,
       "attribName": "building_house_mal",
       "age": 1,
@@ -842,6 +867,7 @@
         "ma"
       ],
       "description": "Increases your maximum Population by 5. Malian Houses cost half as many resources as standard.",
+      "descriptionCN": "将人口上限提升 5。马里房屋的建造成本较标准成本减半。",
       "classes": [
         "building",
         "house",
@@ -893,6 +919,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 2675396,
       "attribName": "building_defense_keep_mal",
       "age": 3,
@@ -900,6 +927,7 @@
         "ma"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1010,6 +1038,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 2298920,
       "attribName": "building_econ_wood_mal",
       "age": 1,
@@ -1017,6 +1046,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1068,6 +1098,7 @@
       "baseId": "madrasa",
       "type": "building",
       "name": "Madrasa",
+      "nameCN": "穆斯林学塾",
       "pbgid": 2666464,
       "attribName": "building_tech_university_mal",
       "age": 4,
@@ -1075,6 +1106,7 @@
         "ma"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -1125,6 +1157,7 @@
       "baseId": "mansa-quarry",
       "type": "building",
       "name": "Mansa Quarry",
+      "nameCN": "皇家采石场",
       "pbgid": 2063107,
       "attribName": "building_landmark_age1_landmarkb_mal",
       "age": 1,
@@ -1132,6 +1165,7 @@
         "ma"
       ],
       "description": "Generates 75 Gold per minute. Can be toggled to generate Stone instead.",
+      "descriptionCN": "每分钟产生 75 黄金。可以切换为产生石料。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -1186,6 +1220,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 2956170,
       "attribName": "building_econ_market_mal",
       "age": 2,
@@ -1193,6 +1228,7 @@
         "ma"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1246,6 +1282,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 2610685,
       "attribName": "building_econ_food_mal",
       "age": 1,
@@ -1253,6 +1290,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nProduce Cattle which can be harvested for Food by Villagers or garrisoned within Cattle Ranches for Food over time.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。\n村民可以收获这些牛作为食物，或者将牛放置在养牛场，牛会随着时间的推移生产食物。",
       "classes": [
         "building",
         "economy_building",
@@ -1307,6 +1345,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 2591277,
       "attribName": "building_econ_mining_camp_mal",
       "age": 1,
@@ -1314,6 +1353,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1369,6 +1409,7 @@
       "baseId": "mosque",
       "type": "building",
       "name": "Mosque",
+      "nameCN": "清真寺",
       "pbgid": 2812705,
       "attribName": "building_unit_religious_mal",
       "age": 3,
@@ -1376,6 +1417,7 @@
         "ma"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -1428,6 +1470,7 @@
       "baseId": "palisade",
       "type": "building",
       "name": "Palisade",
+      "nameCN": "木栅栏",
       "pbgid": 2164399,
       "attribName": "building_defense_palisade_mal",
       "age": 1,
@@ -1435,6 +1478,7 @@
         "ma"
       ],
       "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1486,6 +1530,7 @@
       "baseId": "palisade-gate",
       "type": "building",
       "name": "Palisade Gate",
+      "nameCN": "木城门",
       "pbgid": 2194705,
       "attribName": "building_defense_palisade_gate_mal",
       "age": 1,
@@ -1493,6 +1538,7 @@
         "ma"
       ],
       "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1544,6 +1590,7 @@
       "baseId": "pit-mine",
       "type": "building",
       "name": "Pit Mine",
+      "nameCN": "露天矿区",
       "pbgid": 2067413,
       "attribName": "building_open_pit_mine_small_mal",
       "age": 1,
@@ -1551,6 +1598,7 @@
         "ma"
       ],
       "description": "Must be built on a Gold Vein.\nMines 36 Gold per minute without depleting the deposit. If a deposit has been depleted, the Pit Mine can be re-placed on exhausted Gold Veins.",
+      "descriptionCN": "必须建造在黄金矿脉上。\n每分钟可开采  36 份黄金，而且不会耗尽金矿。若金矿已消耗殆尽，露天矿区可以被重新放置在枯竭的黄金矿脉上。",
       "classes": [
         "building",
         "pit_mine",
@@ -1601,6 +1649,7 @@
       "baseId": "saharan-trade-network",
       "type": "building",
       "name": "Saharan Trade Network",
+      "nameCN": "撒哈拉贸易网络",
       "pbgid": 2063101,
       "attribName": "building_landmark_age1_landmarka_mal",
       "age": 1,
@@ -1608,6 +1657,7 @@
         "ma"
       ],
       "description": "Acts as a Toll Outpost that comes with Defensive Javelin Emplacement researched. Unlocks Javelin Emplacement for Outposts.\nAll Traders and Trade Ships taxed will generate Food equal to the taxed Gold at this Landmark. All other Toll Outposts will generate 50% of taxed Gold as Food.",
+      "descriptionCN": "可作为已研究防御型标枪炮台的收费哨站使用。为哨站解锁标枪炮台。\n所有被征税的商人以及商船都会在此地标处生产与税金等值的食物，其他所有收费哨站也会生产相当于税金 50% 的食物。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -1717,6 +1767,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 2576111,
       "attribName": "building_unit_siege_mal",
       "age": 3,
@@ -1724,6 +1775,7 @@
         "ma"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1782,6 +1834,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 2308971,
       "attribName": "building_unit_cavalry_mal",
       "age": 2,
@@ -1789,6 +1842,7 @@
         "ma"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1847,6 +1901,7 @@
       "baseId": "stone-wall",
       "type": "building",
       "name": "Stone Wall",
+      "nameCN": "石墙",
       "pbgid": 2784311,
       "attribName": "building_defense_wall_mal",
       "age": 2,
@@ -1854,6 +1909,7 @@
         "ma"
       ],
       "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1905,6 +1961,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 2739989,
       "attribName": "building_defense_wall_gate_mal",
       "age": 2,
@@ -1912,6 +1969,7 @@
         "ma"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1963,6 +2021,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2586732,
       "attribName": "building_defense_tower_mal",
       "age": 2,
@@ -1970,6 +2029,7 @@
         "ma"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2061,6 +2121,7 @@
       "baseId": "toll-outpost",
       "type": "building",
       "name": "Toll Outpost",
+      "nameCN": "收费哨站",
       "pbgid": 2668497,
       "attribName": "building_defense_outpost_mal",
       "age": 1,
@@ -2068,6 +2129,7 @@
         "ma"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.\nPassing Traders and Trade Ships instantly provide an additional 8% of their carried Gold. Does not generate any bonus tax if a toll outpost is built within range of another one.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n经过的商人和商船可立即额外提供其所携带黄金的 8%。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2512,6 +2574,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 2233879,
       "attribName": "building_town_center_mal",
       "age": 1,
@@ -2519,6 +2582,7 @@
         "ma"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
       "classes": [
         "building",
         "emits_herding_interest",

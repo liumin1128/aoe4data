@@ -64,6 +64,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -133,6 +135,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -140,6 +143,7 @@
         "ay"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -202,6 +206,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -209,6 +214,7 @@
         "ch"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -272,6 +278,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 182082,
       "attribName": "upgrade_siege_mathematics_sul",
       "age": 4,
@@ -279,6 +286,7 @@
         "de"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -326,6 +334,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -333,6 +342,7 @@
         "en"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -395,6 +405,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -402,6 +413,7 @@
         "fr"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -464,6 +476,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -471,6 +484,7 @@
         "gol"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -533,6 +547,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -540,6 +555,7 @@
         "hr"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -602,6 +618,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -609,6 +626,7 @@
         "hl"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -671,6 +689,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -678,6 +697,7 @@
         "ja"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -740,6 +760,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -747,6 +768,7 @@
         "je"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -809,6 +831,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -816,6 +839,7 @@
         "kt"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -878,6 +902,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -885,6 +910,7 @@
         "ma"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -947,6 +973,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 2077145,
       "attribName": "upgrade_siege_mathematics_mon",
       "age": 4,
@@ -954,6 +981,7 @@
         "mo"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1001,6 +1029,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1008,6 +1037,7 @@
         "od"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1070,6 +1100,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1077,6 +1108,7 @@
         "ot"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1139,6 +1171,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1146,6 +1179,7 @@
         "ru"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1208,6 +1242,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1215,6 +1250,7 @@
         "sen"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1277,6 +1313,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 8566030,
       "attribName": "upgrade_siege_mathematics_sul_ha_tug",
       "age": 4,
@@ -1284,6 +1321,7 @@
         "tug"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1331,6 +1369,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 127863,
       "attribName": "upgrade_siege_mathematics",
       "age": 4,
@@ -1338,6 +1377,7 @@
         "zx"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

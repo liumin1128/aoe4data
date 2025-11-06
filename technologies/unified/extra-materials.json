@@ -26,6 +26,7 @@
       "baseId": "extra-materials",
       "type": "technology",
       "name": "Extra Materials",
+      "nameCN": "额外材料",
       "pbgid": 217612,
       "attribName": "upgrade_wall_repair_chi",
       "age": 3,
@@ -33,6 +34,7 @@
         "ch"
       ],
       "description": "Towers and Keeps repair nearby walls and gates for +25 health per second.",
+      "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
       "classes": [
         "chinese_upgrade",
         "scar_castle_age_upgrade",

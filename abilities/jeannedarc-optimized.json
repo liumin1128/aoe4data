@@ -29,6 +29,7 @@
           "baseId": "ability-bring-down-the-walls",
           "type": "ability",
           "name": "Bring down the walls!",
+          "nameCN": "推倒城墙！",
           "pbgid": 2127667,
           "attribName": "jeanne_d_arc_rallying_call_cannon_fre_ha_01",
           "age": 1,
@@ -36,6 +37,7 @@
             "je"
           ],
           "description": "Jeanne calls a Cannon to her side. Rallies an additional Cannon if used on a Neutral Settlement.",
+          "descriptionCN": "贞德在其身边召唤一门加农炮。若使用地点为中立聚落，则会额外召唤一门加农炮。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -76,6 +78,7 @@
           "baseId": "ability-consecrate",
           "type": "ability",
           "name": "Consecrate",
+          "nameCN": "圣化",
           "pbgid": 2141453,
           "attribName": "jeanne_d_arc_influence_building_fre_ha_01",
           "age": 1,
@@ -83,6 +86,7 @@
             "je"
           ],
           "description": "Jeanne consecrates a production building, reducing the Food cost of units by -25%.\nNo Cooldown\nRecharge Time: 120 Seconds.\nMax Charges: 4.",
+          "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -140,6 +144,7 @@
           "baseId": "ability-construct-the-kingdom",
           "type": "ability",
           "name": "Construct the Kingdom",
+          "nameCN": "建造王国",
           "pbgid": 2139259,
           "attribName": "jeanne_d_arc_construction_aura_fre_ha_01",
           "age": 1,
@@ -147,6 +152,7 @@
             "je"
           ],
           "description": "Nearby Villagers construct buildings 33% faster.",
+          "descriptionCN": "附近村民建造建筑的速度加快 33%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -198,6 +204,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -205,6 +212,7 @@
             "je"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -266,6 +274,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -273,6 +282,7 @@
             "je"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -327,6 +337,7 @@
           "baseId": "ability-divine-arrow",
           "type": "ability",
           "name": "Divine Arrow",
+          "nameCN": "神圣之箭",
           "pbgid": 2141675,
           "attribName": "jeanne_d_arc_ranged_damage_ability_fre_ha_01",
           "age": 1,
@@ -334,6 +345,7 @@
             "je"
           ],
           "description": "Jeanne targets an enemy and fires a divine arrow that deals 40 damage.\nCooldown: 8 Seconds.\nRecharge Time: 60 Seconds.\nMax Charges: 4",
+          "descriptionCN": "贞德瞄准一个敌人并发射一支神圣之箭，造成 40 伤害。\n冷却时间：8 秒。\n充能时间：60 秒。\n最大充能数：4",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -388,6 +400,7 @@
           "baseId": "ability-divine-restoration",
           "type": "ability",
           "name": "Divine Restoration",
+          "nameCN": "神圣恢复",
           "pbgid": 2128763,
           "attribName": "jeanne_d_arc_divine_restoration_fre_ha_01",
           "age": 1,
@@ -395,6 +408,7 @@
             "je"
           ],
           "description": "Jeanne and nearby allies are blessed, instantly healing for 30% of their missing health.\nCooldown: 120 Seconds.",
+          "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -452,6 +466,7 @@
           "baseId": "ability-forward-companions",
           "type": "ability",
           "name": "Forward, companions!",
+          "nameCN": "同伴们，前进！",
           "pbgid": 2127665,
           "attribName": "jeanne_d_arc_rallying_call_knights_fre_ha_01",
           "age": 1,
@@ -459,6 +474,7 @@
             "je"
           ],
           "description": "Jeanne calls 3/6 Knights to her side. Rallies 2 additional Knights if used on a Neutral Settlement.",
+          "descriptionCN": "贞德在其身边召唤 3/6 名骑士。若使用地点为中立聚落，则可额外召唤 2 名骑士。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -499,6 +515,7 @@
           "baseId": "ability-galvanize-the-righteous",
           "type": "ability",
           "name": "Galvanize the Righteous",
+          "nameCN": "鼓舞士气",
           "pbgid": 2144058,
           "attribName": "jeanne_d_arc_buff_follower_aura_fre_ha_01",
           "age": 1,
@@ -506,6 +523,7 @@
             "je"
           ],
           "description": "Companions close to Jeanne gain +1/1 armor and +10% damage.",
+          "descriptionCN": "贞德附近的同伴获得 +1/1 护甲和 +10% 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -560,6 +578,7 @@
           "baseId": "ability-holy-wrath",
           "type": "ability",
           "name": "Holy Wrath",
+          "nameCN": "神圣愤怒",
           "pbgid": 2141553,
           "attribName": "jeanne_d_arc_aoe_damage_ability_fre_ha_01",
           "age": 1,
@@ -567,6 +586,7 @@
             "je"
           ],
           "description": "Jeanne unleashes a powerful area of effect attack, striking all enemies within 1.25 tiles for 20 damage.\nCooldown: 8 Seconds.\nRecharge Time: 60 Seconds.\nMax Charges: 4.",
+          "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -621,6 +641,7 @@
           "baseId": "ability-honorable-heart",
           "type": "ability",
           "name": "Honorable Heart",
+          "nameCN": "光荣之心",
           "pbgid": 2127594,
           "attribName": "jeanne_d_arc_honorable_heart_fre_ha_01",
           "age": 1,
@@ -628,6 +649,7 @@
             "je"
           ],
           "description": "Jeanne regenerates 1/1.5/2/2.5 health per second while out of combat based on her current level.\nAt level 3 Jeanne takes 45% less damage from ranged attacks; at level 4 this is increased to 60%.",
+          "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -685,6 +707,7 @@
           "baseId": "ability-jeannes-companions",
           "type": "ability",
           "name": "Jeanne's Companions",
+          "nameCN": "贞德的同伴",
           "pbgid": 2149013,
           "attribName": "jeanne_companion_keep_dummy_keep",
           "age": 1,
@@ -692,6 +715,7 @@
             "je"
           ],
           "description": "Achieve level 3 with Jeanne d'Arc to select between Champions and Riders to be trained at the keep.",
+          "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -748,6 +772,7 @@
           "baseId": "ability-journey-of-a-hero",
           "type": "ability",
           "name": "Journey of a Hero",
+          "nameCN": "英雄之旅",
           "pbgid": 2127657,
           "attribName": "jeanne_d_arc_experience_gain_fre_ha_01",
           "age": 1,
@@ -755,6 +780,7 @@
             "je"
           ],
           "description": "Jeanne generates experience for completing tasks such as gathering resources, constructing buildings, hunting boar, capturing Sacred Sites, and participating in combat. Jeanne also gains a small trickle of experience over time.\nAfter earning sufficient experience Jeanne can level up, becoming more powerful and gaining access to unique abilities.",
+          "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -806,6 +832,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -813,6 +840,7 @@
             "je"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -869,6 +897,7 @@
           "baseId": "ability-merchant-guilds",
           "type": "ability",
           "name": "Merchant Guilds",
+          "nameCN": "商人公会",
           "pbgid": 186581,
           "attribName": "market_passive_gold_generation_fre",
           "age": 1,
@@ -876,6 +905,7 @@
             "je"
           ],
           "description": "Active Traders generate 1 gold every 6 seconds.",
+          "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -917,6 +947,7 @@
           "baseId": "ability-nock-your-arrows",
           "type": "ability",
           "name": "Nock your arrows!",
+          "nameCN": "架弓！",
           "pbgid": 2127666,
           "attribName": "jeanne_d_arc_rallying_call_archers_fre_ha_01",
           "age": 1,
@@ -924,6 +955,7 @@
             "je"
           ],
           "description": "Jeanne calls 2/4/6 Archers to her side. Rallies 2 additional Archers if used on a Neutral Settlement.",
+          "descriptionCN": "贞德召唤 2/4/6 名步弓手到她身边。在中立聚落使用时，可额外多召唤 2 名步弓兵。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -993,7 +1025,9 @@
         }
       ],
       "baseId": "ability-return-of-the-saint",
+      "nameCN": "圣者归来",
       "age": 1,
+      "descriptionCN": "进贡并立即让贞德返回战场。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1092,6 +1126,7 @@
           "baseId": "ability-riders-ready",
           "type": "ability",
           "name": "Riders, Ready!",
+          "nameCN": "骑兵就绪！",
           "pbgid": 2136635,
           "attribName": "jeanne_d_arc_rallying_call_crossbows_fre_ha_01",
           "age": 1,
@@ -1099,6 +1134,7 @@
             "je"
           ],
           "description": "Jeanne calls 3 Riders to her side.\nCooldown: 240 Seconds.",
+          "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1157,6 +1193,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -1164,6 +1201,7 @@
             "je"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1220,6 +1258,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -1227,6 +1266,7 @@
             "je"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1279,6 +1319,7 @@
           "baseId": "ability-spears-up",
           "type": "ability",
           "name": "Spears up!",
+          "nameCN": "举起长矛！",
           "pbgid": 2136639,
           "attribName": "jeanne_d_arc_rallying_call_spearmen_fre_ha_01",
           "age": 1,
@@ -1286,6 +1327,7 @@
             "je"
           ],
           "description": "Jeanne calls 2 Spearmen to her side. Awards 50 experience if activated on a Neutral Settlement or a friendly Keep or Landmark.",
+          "descriptionCN": "贞德在其身边召唤 2 名长矛兵。若激活位置为中立聚落、友军城堡或地标，则奖励 50 点经验值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1326,6 +1368,7 @@
           "baseId": "ability-strength-of-heaven",
           "type": "ability",
           "name": "Strength of Heaven",
+          "nameCN": "天堂之力",
           "pbgid": 2139646,
           "attribName": "jeanne_d_arc_inspired_ally_fre_ha_01",
           "age": 1,
@@ -1333,6 +1376,7 @@
             "je"
           ],
           "description": "Jeanne chooses a unit to bless, bestowing them with incredible strength and durability. The chosen warrior gains 300 health, 4 Melee and Ranged Armor, and +300% damage.\nJeanne may only bless one unit at a time.\nCooldown: 30 Seconds.",
+          "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1389,6 +1433,7 @@
           "baseId": "ability-talented-builder",
           "type": "ability",
           "name": "Talented Builder",
+          "nameCN": "建筑天才",
           "pbgid": 2144250,
           "attribName": "jeanne_d_arc_talented_builder_fre_ha_01",
           "age": 1,
@@ -1396,6 +1441,7 @@
             "je"
           ],
           "description": "Jeanne constructs buildings 33% faster.\nUpon reaching level 2, Jeanne shares her talents with nearby builders.",
+          "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1447,6 +1493,7 @@
           "baseId": "ability-to-arms-men",
           "type": "ability",
           "name": "To Arms, Men!",
+          "nameCN": "大家，拿起武器！",
           "pbgid": 2136640,
           "attribName": "jeanne_d_arc_rallying_call_manatarms_fre_ha_01",
           "age": 1,
@@ -1454,6 +1501,7 @@
             "je"
           ],
           "description": "Jeanne calls 3 Champions to her side.\nCooldown: 240 Seconds.",
+          "descriptionCN": "贞德召唤 3 名冠军剑士到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1512,6 +1560,7 @@
           "baseId": "ability-town-center-production-speed-castle-age",
           "type": "ability",
           "name": "Castle Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187280,
           "attribName": "town_center_production_age3_fre",
           "age": 3,
@@ -1519,6 +1568,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by 20%.",
+          "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1573,6 +1623,7 @@
           "baseId": "ability-town-center-production-speed-dark-age",
           "type": "ability",
           "name": "Dark Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187278,
           "attribName": "town_center_production_age1_fre",
           "age": 1,
@@ -1580,6 +1631,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by +10%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1634,6 +1686,7 @@
           "baseId": "ability-town-center-production-speed-feudal-age",
           "type": "ability",
           "name": "Feudal Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187279,
           "attribName": "town_center_production_age2_fre",
           "age": 2,
@@ -1641,6 +1694,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by +15%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1695,6 +1749,7 @@
           "baseId": "ability-valorous-inspiration",
           "type": "ability",
           "name": "Valorous Inspiration",
+          "nameCN": "勇气鼓舞",
           "pbgid": 2127606,
           "attribName": "jeanne_d_arc_valorous_inspiration_fre_ha_01",
           "age": 1,
@@ -1702,6 +1757,7 @@
             "je"
           ],
           "description": "Increases the attack speed of all units within 4 tiles by 35% for 20 seconds.\nCooldown: 60 Seconds.",
+          "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {

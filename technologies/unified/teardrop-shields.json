@@ -27,6 +27,7 @@
       "baseId": "teardrop-shields",
       "type": "technology",
       "name": "Teardrop Shields",
+      "nameCN": "泪滴盾牌",
       "pbgid": 2104320,
       "attribName": "upgrade_teardrop_shields_byz",
       "age": 3,
@@ -34,6 +35,7 @@
         "by"
       ],
       "description": "Increase the armor of Cataphracts by +1, move speed of Limitanei by +15%, and attack speed of Varangian Guard by +15%.",
+      "descriptionCN": "甲胄骑兵的护甲 +1。边防军的移动速度 +15%。瓦兰吉卫队的攻击速度 +15%。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

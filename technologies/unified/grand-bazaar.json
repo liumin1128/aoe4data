@@ -27,6 +27,7 @@
       "baseId": "grand-bazaar",
       "type": "technology",
       "name": "Grand Bazaar",
+      "nameCN": "大集市",
       "pbgid": 201743,
       "attribName": "upgrade_trade_commodity_trade_abb",
       "age": 3,
@@ -34,6 +35,7 @@
         "ab"
       ],
       "description": "Traders and Trade Ships also return with a secondary resource. This resource is 25% the base Gold value and is set at the market.",
+      "descriptionCN": "商人和商船也可带回辅助资源。此资源的数值是基本黄金数值的 25%，并为市场定价。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",

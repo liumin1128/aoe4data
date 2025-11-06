@@ -16,6 +16,7 @@
       "baseId": "ability-camel-support",
       "type": "ability",
       "name": "Camel Support",
+      "nameCN": "骆驼支援",
       "pbgid": 200770,
       "attribName": "camel_support_aura_abb",
       "age": 4,
@@ -23,6 +24,7 @@
         "ab"
       ],
       "description": "Infantry gain armor when near a camel unit.",
+      "descriptionCN": "步兵在骆驼单位附近时可获得护甲。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -80,6 +82,7 @@
       "baseId": "ability-camel-unease",
       "type": "ability",
       "name": "Camel Unease",
+      "nameCN": "骆驼惊吓",
       "pbgid": 202653,
       "attribName": "mamluke_anti_cavalry_aura_abb",
       "age": 1,
@@ -87,6 +90,7 @@
         "ab"
       ],
       "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+      "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -127,6 +131,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -134,6 +139,7 @@
         "ab"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -179,6 +185,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -186,6 +193,7 @@
         "ab"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -224,6 +232,7 @@
       "baseId": "ability-golden-age-tier-1",
       "type": "ability",
       "name": "Golden Age Tier 1",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 201563,
       "attribName": "golden_age_tier_1",
       "age": 1,
@@ -231,6 +240,7 @@
         "ab"
       ],
       "description": "+15% Resource Gathering Rate",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -256,6 +266,7 @@
       "baseId": "ability-golden-age-tier-2",
       "type": "ability",
       "name": "Golden Age Tier 2",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 201593,
       "attribName": "golden_age_tier_2",
       "age": 1,
@@ -263,6 +274,7 @@
         "ab"
       ],
       "description": "+15% Research Speed",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -288,6 +300,7 @@
       "baseId": "ability-golden-age-tier-3",
       "type": "ability",
       "name": "Golden Age Tier 3",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 201595,
       "attribName": "golden_age_tier_3",
       "age": 1,
@@ -295,6 +308,7 @@
         "ab"
       ],
       "description": "+20% Production Speed, additional +5% Research Speed, additional +5% Resource Gathering Rate",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -320,6 +334,7 @@
       "baseId": "ability-house-of-wisdom-influence",
       "type": "ability",
       "name": "House of Wisdom Influence",
+      "nameCN": "智慧宫影响力",
       "pbgid": 1838842,
       "attribName": "how_influence_abb",
       "age": 1,
@@ -327,6 +342,7 @@
         "ab"
       ],
       "description": "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses.",
+      "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -366,6 +382,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -373,6 +390,7 @@
         "ab"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -413,6 +431,7 @@
       "baseId": "ability-medical-centers",
       "type": "ability",
       "name": "Medical Centers",
+      "nameCN": "医疗中心",
       "pbgid": 201837,
       "attribName": "medical_centers_abb",
       "age": 1,
@@ -420,6 +439,7 @@
         "ab"
       ],
       "description": "Heals nearby units for +2 health every 1 second",
+      "descriptionCN": "治疗附近单位。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -464,6 +484,7 @@
       "baseId": "ability-proselytize",
       "type": "ability",
       "name": "Proselytize",
+      "nameCN": "传教",
       "pbgid": 2035316,
       "attribName": "monk_conversion_faith_abb",
       "age": 4,
@@ -471,6 +492,7 @@
         "ab"
       ],
       "description": "Attempts to convert a single enemy unit within range of this Imam to your control.",
+      "descriptionCN": "试图招降此伊玛目范围内的单个敌方单位，使其为您所用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -510,6 +532,7 @@
       "baseId": "ability-quick-strike",
       "type": "ability",
       "name": "Quick Strike",
+      "nameCN": "快速攻击",
       "pbgid": 2133476,
       "attribName": "ghulam_attack_abb",
       "age": 1,
@@ -517,6 +540,7 @@
         "ab"
       ],
       "description": "Quickly deals a second hit after finishing an attack.",
+      "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -553,6 +577,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -560,6 +585,7 @@
         "ab"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {

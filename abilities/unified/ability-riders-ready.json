@@ -18,6 +18,7 @@
       "baseId": "ability-riders-ready",
       "type": "ability",
       "name": "Riders, Ready!",
+      "nameCN": "骑兵就绪！",
       "pbgid": 2136635,
       "attribName": "jeanne_d_arc_rallying_call_crossbows_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne calls 3 Riders to her side.\nCooldown: 240 Seconds.",
+      "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {

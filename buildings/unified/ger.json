@@ -34,6 +34,7 @@
       "baseId": "ger",
       "type": "building",
       "name": "Ger",
+      "nameCN": "蒙古包",
       "pbgid": 4298543,
       "attribName": "building_house_mon_ha_gol",
       "age": 1,
@@ -41,6 +42,7 @@
         "gol"
       ],
       "description": "Villagers can drop off Food, Wood, and Gold at this building. Houses technologies to improve resource gathering.\nStone is gathered through Ovoos.",
+      "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
       "classes": [
         "building",
         "economy_building",
@@ -96,6 +98,7 @@
       "baseId": "ger",
       "type": "building",
       "name": "Ger",
+      "nameCN": "蒙古包",
       "pbgid": 129843,
       "attribName": "building_house_mon",
       "age": 1,
@@ -103,6 +106,7 @@
         "mo"
       ],
       "description": "Villagers can drop off Food, Wood, and Gold at this building. Houses technologies to improve resource gathering.\nStone is gathered through Ovoos.",
+      "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
       "classes": [
         "building",
         "economy_building",

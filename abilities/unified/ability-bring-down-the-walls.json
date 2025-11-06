@@ -18,6 +18,7 @@
       "baseId": "ability-bring-down-the-walls",
       "type": "ability",
       "name": "Bring down the walls!",
+      "nameCN": "推倒城墙！",
       "pbgid": 2127667,
       "attribName": "jeanne_d_arc_rallying_call_cannon_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne calls a Cannon to her side. Rallies an additional Cannon if used on a Neutral Settlement.",
+      "descriptionCN": "贞德在其身边召唤一门加农炮。若使用地点为中立聚落，则会额外召唤一门加农炮。",
       "classes": [],
       "displayClasses": [],
       "costs": {

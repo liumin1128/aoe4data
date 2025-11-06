@@ -30,6 +30,7 @@
       "baseId": "takezaiku",
       "type": "technology",
       "name": "Takezaiku",
+      "nameCN": "竹细工",
       "pbgid": 2137905,
       "attribName": "upgrade_unit_town_center_wheelbarrow_2_jpn",
       "age": 2,
@@ -37,6 +38,7 @@
         "ja"
       ],
       "description": "Increase the carry capacity of Villagers by +3, their movement speed by +7%, and +25% gather rate from Berry Bushes.",
+      "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -107,6 +109,7 @@
       "baseId": "takezaiku",
       "type": "technology",
       "name": "Takezaiku",
+      "nameCN": "竹细工",
       "pbgid": 2137905,
       "attribName": "upgrade_unit_town_center_wheelbarrow_2_jpn",
       "age": 2,
@@ -114,6 +117,7 @@
         "sen"
       ],
       "description": "Increase the carry capacity of Villagers by +3, their movement speed by +7%, and +25% gather rate from Berry Bushes.",
+      "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",

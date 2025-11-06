@@ -25,6 +25,7 @@
       "baseId": "treasure-towers",
       "type": "technology",
       "name": "Treasure Towers",
+      "nameCN": "藏宝塔",
       "pbgid": 9000050,
       "attribName": "upgrade_treasure_tower_tem",
       "age": 3,
@@ -32,6 +33,7 @@
         "kt"
       ],
       "description": "Increases the gold generation of Monasteries, Sacred Sites and Pilgrims by 20% within the aura of a Fortress.",
+      "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
       "classes": [
         "economic_upgrade",
         "scar_castle_age_upgrade",

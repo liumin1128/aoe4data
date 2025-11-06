@@ -33,6 +33,7 @@
       "baseId": "golden-tent",
       "type": "building",
       "name": "Golden Tent",
+      "nameCN": "黄金帐篷",
       "pbgid": 9002973,
       "attribName": "building_landmark_golden_tent_mon_ha_gol",
       "age": 2,
@@ -40,6 +41,7 @@
         "gol"
       ],
       "description": "Contains upgrades that will advance through the Ages. Batu Khan and his Torguud can be deployed to the field.\nCan activate Edicts which will change the bonuses provided by Fortified Outposts.",
+      "descriptionCN": "包含会随时代推进而提升的升级。可在战场上部署拔都汗及其土尔扈特。\n可激活法令，这能改变强化哨站提供的加成。",
       "classes": [
         "age_up_producer",
         "audio_production_landmark",

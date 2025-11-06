@@ -29,6 +29,7 @@
       "baseId": "varangian-stronghold",
       "type": "building",
       "name": "Varangian Stronghold",
+      "nameCN": "瓦兰吉堡垒",
       "pbgid": 9001600,
       "attribName": "building_unit_passive_trait_byz_ha_mac",
       "age": 1,
@@ -36,6 +37,7 @@
         "mac"
       ],
       "description": "Structure capable of producing any Varangian unit.",
+      "descriptionCN": "能够生产任何瓦兰吉单位的建筑。",
       "classes": [
         "barracks",
         "building",

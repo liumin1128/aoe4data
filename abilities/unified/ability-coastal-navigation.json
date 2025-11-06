@@ -18,6 +18,7 @@
       "baseId": "ability-coastal-navigation",
       "type": "ability",
       "name": "Coastal Navigation",
+      "nameCN": "沿海航行",
       "pbgid": 2071572,
       "attribName": "docks_speed_bonus_mal",
       "age": 1,
@@ -25,6 +26,7 @@
         "ma"
       ],
       "description": "Ships near a Docks get +15% speed for 25 seconds.",
+      "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -27,6 +27,7 @@
       "baseId": "veteran-javelin-thrower",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2062114,
       "attribName": "upgrade_unit_javelin_3_mal",
       "age": 3,
@@ -34,6 +35,7 @@
         "ma"
       ],
       "description": "Upgrades Javelin Thrower to Veteran Javelin Thrower",
+      "descriptionCN": "将掷枪兵升级为老练掷枪兵",
       "classes": [
         "malian_upgrade",
         "military_upgrade",

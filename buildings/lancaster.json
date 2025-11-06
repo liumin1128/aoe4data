@@ -16,6 +16,7 @@
       "baseId": "abbey-of-kings",
       "type": "building",
       "name": "Abbey of Kings",
+      "nameCN": "列王修道院",
       "pbgid": 5000026,
       "attribName": "building_landmark_age1_abbey_lan",
       "age": 1,
@@ -23,6 +24,7 @@
         "hl"
       ],
       "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds.\nOrdain up to 4 Lords of Lancaster, powerful melee leaders which increase the max health of nearby military units by +5% each. Queues production of a free Lord of Lancaster upon completion.",
+      "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒生命值 +6。\n最多任命 4 个兰开斯特领主，兰开斯特领主是强大的近战领袖，可以使附近所有军事单位的最大生命值 +5%。建造完成后为生产队列中添加一名免费的兰开斯特领主。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -78,6 +80,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 5000051,
       "attribName": "building_unit_range_lan",
       "age": 2,
@@ -85,6 +88,7 @@
         "hl"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -137,6 +141,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 5000050,
       "attribName": "building_unit_barracks_lan",
       "age": 1,
@@ -144,6 +149,7 @@
         "hl"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -196,6 +202,7 @@
       "baseId": "berkshire-palace",
       "type": "building",
       "name": "Berkshire Palace",
+      "nameCN": "伯克郡宫殿",
       "pbgid": 5000045,
       "attribName": "building_landmark_age3_berkshire_lan",
       "age": 4,
@@ -203,6 +210,7 @@
         "hl"
       ],
       "description": "Acts as a Keep with increased health and powerful incendiary arrows. All weapons have 14.5 tiles of range.\nIncreases the maximum damage granted by a House Unified to +6. Also grants 3 Earl's Guard upon being fully constructed.",
+      "descriptionCN": "作为一个城堡使用，拥有更高的生命值和强大的燃烧箭。所有武器射程增加 14.5 格。\n众志成城提供的最大伤害 +6。建造完成后还可获得 3 名伯爵护卫。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -316,6 +324,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 5000047,
       "attribName": "building_tech_blacksmith_lan",
       "age": 2,
@@ -323,6 +332,7 @@
         "hl"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -373,6 +383,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 5000011,
       "attribName": "building_town_center_capital_lan",
       "age": 1,
@@ -380,6 +391,7 @@
         "hl"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "defensive_structure",
@@ -452,6 +464,7 @@
       "baseId": "cathedral-of-st-thomas",
       "type": "building",
       "name": "Cathedral of St. Thomas",
+      "nameCN": "圣汤马斯大教堂",
       "pbgid": 5000055,
       "attribName": "building_wonder_age4_lan",
       "age": 4,
@@ -459,6 +472,7 @@
         "hl"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -510,6 +524,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 5000052,
       "attribName": "building_unit_dock_lan",
       "age": 1,
@@ -517,6 +532,7 @@
         "hl"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "classes": [
         "building",
         "military_only_production",
@@ -578,6 +594,7 @@
       "baseId": "farm",
       "type": "building",
       "name": "Farm",
+      "nameCN": "农田",
       "pbgid": 5000046,
       "attribName": "building_resource_farm_lan",
       "age": 1,
@@ -585,6 +602,7 @@
         "hl"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "classes": [
         "building",
         "farm",
@@ -636,6 +654,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 5000040,
       "attribName": "building_house_lan",
       "age": 1,
@@ -643,6 +662,7 @@
         "hl"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -692,6 +712,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 500027,
       "attribName": "building_defense_keep_lan",
       "age": 3,
@@ -699,6 +720,7 @@
         "hl"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.\nGrants 3 Earl's Guards upon being fully constructed.",
+      "descriptionCN": "重兵驻守，易守难攻。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n建造完成后可获得 3 名伯爵护卫。",
       "classes": [
         "building",
         "castle",
@@ -809,6 +831,7 @@
       "baseId": "kings-college",
       "type": "building",
       "name": "King's College",
+      "nameCN": "国王学院",
       "pbgid": 5000042,
       "attribName": "building_landmark_age2_kingscollege_lan",
       "age": 2,
@@ -816,6 +839,7 @@
         "hl"
       ],
       "description": "Reduces research costs of all technologies by -15%.\nContains unique Military technologies for House of Lancaster.",
+      "descriptionCN": "所有科技的研究成本 -15%。\n包含兰开斯特王朝的独有军事科技。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -871,6 +895,7 @@
       "baseId": "lancaster-castle",
       "type": "building",
       "name": "Lancaster Castle",
+      "nameCN": "兰开斯特城堡",
       "pbgid": 5000041,
       "attribName": "building_landmark_age1_lancastercastle_lan",
       "age": 1,
@@ -878,6 +903,7 @@
         "hl"
       ],
       "description": "Defensive Landmark that can do a one-time muster of units from Manors in each Age.\nGrants all Manors +500 health and an arrowslit emplacement.",
+      "descriptionCN": "防御地标，每个时代可以从庄园召唤一次单位。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",
@@ -972,6 +998,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 500039,
       "attribName": "building_econ_wood_lan",
       "age": 1,
@@ -979,6 +1006,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1030,6 +1058,7 @@
       "baseId": "manor",
       "type": "building",
       "name": "Manor",
+      "nameCN": "庄园",
       "pbgid": 5000020,
       "attribName": "building_manor_lan",
       "age": 2,
@@ -1037,6 +1066,7 @@
         "hl"
       ],
       "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
+      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n人口上限 +10。",
       "classes": [
         "building",
         "economy_building",
@@ -1127,6 +1157,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 5000037,
       "attribName": "building_econ_market_lan",
       "age": 2,
@@ -1134,6 +1165,7 @@
         "hl"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1187,6 +1219,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 5000036,
       "attribName": "building_econ_mill_lan",
       "age": 1,
@@ -1194,6 +1227,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1248,6 +1282,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 5000038,
       "attribName": "building_econ_mining_camp_lan",
       "age": 1,
@@ -1255,6 +1290,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1308,6 +1344,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 5000053,
       "attribName": "building_unit_monastery_lan",
       "age": 3,
@@ -1315,6 +1352,7 @@
         "hl"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -1367,6 +1405,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 5000028,
       "attribName": "building_defense_outpost_lan",
       "age": 1,
@@ -1374,6 +1413,7 @@
         "hl"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1438,6 +1478,7 @@
       "baseId": "palisade",
       "type": "building",
       "name": "Palisade",
+      "nameCN": "木栅栏",
       "pbgid": 5000031,
       "attribName": "building_defense_palisade_lan",
       "age": 1,
@@ -1445,6 +1486,7 @@
         "hl"
       ],
       "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1496,6 +1538,7 @@
       "baseId": "palisade-gate",
       "type": "building",
       "name": "Palisade Gate",
+      "nameCN": "木城门",
       "pbgid": 5000030,
       "attribName": "building_defense_palisade_gate_lan",
       "age": 1,
@@ -1503,6 +1546,7 @@
         "hl"
       ],
       "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1554,6 +1598,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 5000054,
       "attribName": "building_unit_siege_workshop_lan",
       "age": 3,
@@ -1561,6 +1606,7 @@
         "hl"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1613,6 +1659,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 5000049,
       "attribName": "building_unit_stable_lan",
       "age": 2,
@@ -1620,6 +1667,7 @@
         "hl"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1672,6 +1720,7 @@
       "baseId": "stone-wall",
       "type": "building",
       "name": "Stone Wall",
+      "nameCN": "石墙",
       "pbgid": 5000032,
       "attribName": "building_defense_wall_lan",
       "age": 2,
@@ -1679,6 +1728,7 @@
         "hl"
       ],
       "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1730,6 +1780,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 5000033,
       "attribName": "building_defense_wall_gate_lan",
       "age": 2,
@@ -1737,6 +1788,7 @@
         "hl"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1788,6 +1840,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 5000035,
       "attribName": "building_defense_tower_lan",
       "age": 2,
@@ -1795,6 +1848,7 @@
         "hl"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1886,6 +1940,7 @@
       "baseId": "the-white-tower",
       "type": "building",
       "name": "The White Tower",
+      "nameCN": "白塔",
       "pbgid": 5000043,
       "attribName": "building_landmark_age2_white_tower_lan",
       "age": 3,
@@ -1893,6 +1948,7 @@
         "hl"
       ],
       "description": "Acts as a Keep with all the behaviors, technologies, and bonuses.\nGrants 3 Earl's Guard upon being fully constructed.",
+      "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。\n建造完成后可获得 3 名伯爵护卫。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",
@@ -2006,6 +2062,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 5000014,
       "attribName": "building_town_center_lan",
       "age": 1,
@@ -2013,6 +2070,7 @@
         "hl"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.\nSpawns 4 Sheep upon being fully constructed.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。\n完全建成后，生成 4 只绵羊。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2082,6 +2140,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 5000048,
       "attribName": "building_tech_university_lan",
       "age": 4,
@@ -2089,6 +2148,7 @@
         "hl"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -2139,6 +2199,7 @@
       "baseId": "wynguard-palace",
       "type": "building",
       "name": "Wynguard Palace",
+      "nameCN": "温嘉德宫殿",
       "pbgid": 5000044,
       "attribName": "building_landmark_age3_wynguard_lan",
       "age": 3,
@@ -2146,6 +2207,7 @@
         "hl"
       ],
       "description": "Allows the production of 4 battalions: Wynguard Army, Earl's Retinue, Garrison Command, and Gunpowder Contingent.",
+      "descriptionCN": "可以生产 4 个营队：温嘉德军队、伯爵侍从、驻扎命令和火药分遣队。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

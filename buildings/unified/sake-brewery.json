@@ -33,6 +33,7 @@
       "baseId": "sake-brewery",
       "type": "building",
       "name": "Sake Brewery",
+      "nameCN": "清酒厂",
       "pbgid": 9001341,
       "attribName": "building_landmark_age2_brewery_jpn_ha_sen",
       "age": 2,
@@ -40,6 +41,7 @@
         "sen"
       ],
       "description": "The Brewery will create Toko-Koji Mats around itself which can be worked by Villagers to generate Gold. Villagers can drop-off Stone and Gold at this building.",
+      "descriptionCN": "酒厂会在自身周围生产床麹法垫子，村民可以使用这些垫子来产生黄金。村民可将石料和黄金存放于这座建筑。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",

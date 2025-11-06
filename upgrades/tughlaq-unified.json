@@ -38,6 +38,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 4847047,
           "attribName": "upgrade_unit_archer_4_sul_ha_tug",
           "age": 4,
@@ -45,6 +46,7 @@
             "tug"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -102,6 +104,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 3571763,
           "attribName": "upgrade_unit_crossbowman_4_sul_ha_tug",
           "age": 4,
@@ -109,6 +112,7 @@
             "tug"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -166,6 +170,7 @@
           "baseId": "elite-knights-or-lancers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2654540,
           "attribName": "upgrade_unit_knight_4_sul_ha_tug",
           "age": 4,
@@ -173,6 +178,7 @@
             "tug"
           ],
           "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+          "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -230,6 +236,7 @@
           "baseId": "elite-men-at-arms",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 4804428,
           "attribName": "upgrade_unit_manatarms_4_sul_ha_tug",
           "age": 4,
@@ -237,6 +244,7 @@
             "tug"
           ],
           "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+          "descriptionCN": "将武士升级为精锐武士。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -294,6 +302,7 @@
           "baseId": "elite-raider-elephants",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001285,
           "attribName": "upgrade_unit_war_elephant_raider_4_sul_ha_tug",
           "age": 4,
@@ -301,6 +310,7 @@
             "tug"
           ],
           "description": "Upgrade Veteran Raider Elephants to Elite Raider Elephants",
+          "descriptionCN": "将老练突袭大象升级为精锐突袭大象",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -358,6 +368,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2273132,
           "attribName": "upgrade_unit_spearman_4_sul_ha_tug",
           "age": 4,
@@ -365,6 +376,7 @@
             "tug"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -422,6 +434,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 5752835,
           "attribName": "upgrade_unit_spearman_2_sul_ha_tug",
           "age": 2,
@@ -429,6 +442,7 @@
             "tug"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -486,6 +500,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 8222465,
           "attribName": "upgrade_unit_archer_3_sul_ha_tug",
           "age": 3,
@@ -493,6 +508,7 @@
             "tug"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -549,6 +565,7 @@
           "baseId": "veteran-raider-elephants",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9001284,
           "attribName": "upgrade_unit_war_elephant_raider_3_sul_ha_tug",
           "age": 3,
@@ -556,6 +573,7 @@
             "tug"
           ],
           "description": "Upgrade Raider Elephants to Veteran Raider Elephants",
+          "descriptionCN": "将突袭大象升级为老练突袭大象",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -612,6 +630,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 6570958,
           "attribName": "upgrade_unit_spearman_3_sul_ha_tug",
           "age": 3,
@@ -619,6 +638,7 @@
             "tug"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",

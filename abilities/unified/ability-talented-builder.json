@@ -18,6 +18,7 @@
       "baseId": "ability-talented-builder",
       "type": "ability",
       "name": "Talented Builder",
+      "nameCN": "建筑天才",
       "pbgid": 2144250,
       "attribName": "jeanne_d_arc_talented_builder_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne constructs buildings 33% faster.\nUpon reaching level 2, Jeanne shares her talents with nearby builders.",
+      "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
       "classes": [],
       "displayClasses": [],
       "costs": {

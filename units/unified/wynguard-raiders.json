@@ -30,6 +30,7 @@
       "baseId": "wynguard-raiders",
       "type": "unit",
       "name": "Wynguard Raiders",
+      "nameCN": "温嘉德掠夺者",
       "pbgid": 2075742,
       "attribName": "unit_wynguard_raiders_eng",
       "age": 4,
@@ -37,6 +38,7 @@
         "en"
       ],
       "description": "Produces an army of 3 Horsemen and 3 Knights.",
+      "descriptionCN": "生产一支由 3 名骑手和 3 名骑士组成的军队。",
       "classes": [
         "archer",
         "audio_wynguard_raiders",

@@ -26,6 +26,7 @@
       "baseId": "mehter-drums",
       "type": "technology",
       "name": "Mehter Drums",
+      "nameCN": "奥斯曼军乐队战鼓",
       "pbgid": 2059346,
       "attribName": "upgrade_imperial_mehter_drums_ott",
       "age": 1,
@@ -33,6 +34,7 @@
         "ot"
       ],
       "description": "Spawn 2 Mehter at the Landmark Town Center. Mehters increase move speed to units in the same formation by +15%.",
+      "descriptionCN": "在地标城镇中心处产生 2 支奥斯曼军乐队。奥斯曼军乐队使同一个阵型中的单位提升 +15% 的移动速度。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",

@@ -16,6 +16,7 @@
       "baseId": "ability-activate-stealth",
       "type": "ability",
       "name": "Activate Stealth",
+      "nameCN": "激活潜行",
       "pbgid": 2099938,
       "attribName": "activate_stealth_mal",
       "age": 2,
@@ -23,6 +24,7 @@
         "ma"
       ],
       "description": "Enter Stealth for 30 seconds.\nWhile in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, Landmark Town Centers, or they engage in combat.",
+      "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -61,6 +63,7 @@
       "baseId": "ability-coastal-navigation",
       "type": "ability",
       "name": "Coastal Navigation",
+      "nameCN": "沿海航行",
       "pbgid": 2071572,
       "attribName": "docks_speed_bonus_mal",
       "age": 1,
@@ -68,6 +71,7 @@
         "ma"
       ],
       "description": "Ships near a Docks get +15% speed for 25 seconds.",
+      "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -111,6 +115,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -118,6 +123,7 @@
         "ma"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -163,6 +169,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -170,6 +177,7 @@
         "ma"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -208,6 +216,7 @@
       "baseId": "ability-first-strike",
       "type": "ability",
       "name": "First Strike",
+      "nameCN": "先发制人",
       "pbgid": 2067085,
       "attribName": "gbeto_ambush_buff_mal",
       "age": 4,
@@ -215,6 +224,7 @@
         "ma"
       ],
       "description": "Musofadi Warriors and Musofadi Gunners deal double damage on their first attack when breaking stealth.",
+      "descriptionCN": "可提升下一次攻击造成的伤害。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -268,6 +278,7 @@
       "baseId": "ability-food-festival",
       "type": "ability",
       "name": "Food Festival",
+      "nameCN": "食物节庆",
       "pbgid": 2062644,
       "attribName": "festival_food_mal",
       "age": 4,
@@ -275,6 +286,7 @@
         "ma"
       ],
       "description": "Increase villager gather rate and move speed by +50%",
+      "descriptionCN": "村民的采集速率和移动速度提升 +50%",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -317,6 +329,7 @@
       "baseId": "ability-huntress-stealth",
       "type": "ability",
       "name": "Huntress' Stealth",
+      "nameCN": "女猎手的隐身",
       "pbgid": 2099928,
       "attribName": "stealth_landmark_aura_mal",
       "age": 4,
@@ -324,6 +337,7 @@
         "ma"
       ],
       "description": "Malian infantry within range enter Stealth. While in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, or when they engage in combat.",
+      "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -367,6 +381,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -374,6 +389,7 @@
         "ma"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -414,6 +430,7 @@
       "baseId": "ability-military-festival",
       "type": "ability",
       "name": "Military Festival",
+      "nameCN": "军事节庆",
       "pbgid": 2062645,
       "attribName": "festival_military_mal",
       "age": 4,
@@ -421,6 +438,7 @@
         "ma"
       ],
       "description": "Increase all unit production speed by +100% for 90 seconds.",
+      "descriptionCN": "所有单位生产速度 +100%，持续 90 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -471,6 +489,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -478,6 +497,7 @@
         "ma"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -518,6 +538,7 @@
       "baseId": "ability-siege-festival",
       "type": "ability",
       "name": "Siege Festival",
+      "nameCN": "攻城节庆",
       "pbgid": 2062641,
       "attribName": "festival_siege_mal",
       "age": 4,
@@ -525,6 +546,7 @@
         "ma"
       ],
       "description": "Increase damage of Battering Rams, Bombards, Counterweight Trebuchets, and torches by +50% for 90 seconds.\nApplies to Springald Ships once Mounted Guns has been researched.",
+      "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
       "classes": [],
       "displayClasses": [],
       "costs": {

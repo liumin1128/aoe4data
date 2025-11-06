@@ -34,6 +34,7 @@
       "baseId": "prelate",
       "type": "unit",
       "name": "Prelate",
+      "nameCN": "高级教士",
       "pbgid": 136918,
       "attribName": "unit_monk_1_hre",
       "age": 1,
@@ -41,6 +42,7 @@
         "hr"
       ],
       "description": "Support unit with no combat capability. Automatically inspires Villagers to greatly improve their gather rate. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+      "descriptionCN": "不具备战斗能力的辅助单位。可自动鼓舞村民，大幅提升他们的采集速率。从城堡时代 (第三时代) 开始可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值低",
       "classes": [
         "annihilation_condition",
         "can_inspire",
@@ -98,6 +100,7 @@
       "baseId": "prelate",
       "type": "unit",
       "name": "Prelate",
+      "nameCN": "高级教士",
       "pbgid": 5982677,
       "attribName": "unit_monk_1_hre_ha_01",
       "age": 3,
@@ -105,6 +108,7 @@
         "od"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+      "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值较低",
       "classes": [
         "annihilation_condition",
         "can_inspire",

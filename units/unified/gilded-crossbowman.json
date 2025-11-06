@@ -37,6 +37,7 @@
       "baseId": "gilded-crossbowman",
       "type": "unit",
       "name": "Gilded Crossbowman",
+      "nameCN": "镀金弩手",
       "pbgid": 6903464,
       "attribName": "unit_crossbowman_3_hre_ha_01",
       "age": 3,
@@ -44,6 +45,7 @@
         "od"
       ],
       "description": "Crossbowmen with increased range and exceptionally high damage against heavy units.\n+ Anti-heavy specialist\n+ Long range\n- Low health\n- Countered by Horsemen",
+      "descriptionCN": "射程较远的弩手，可以对重型单位造成极高的伤害。\n+ 反重型专家\n+ 射程远\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "crossbow_incendiary_3",
@@ -187,6 +189,7 @@
       "baseId": "gilded-crossbowman",
       "type": "unit",
       "name": "Elite Gilded Crossbowman",
+      "nameCN": "精锐镀金弩手",
       "pbgid": 4526942,
       "attribName": "unit_crossbowman_4_hre_ha_01",
       "age": 4,
@@ -194,6 +197,7 @@
         "od"
       ],
       "description": "Crossbowmen with increased range and exceptionally high damage against heavy units.\n+ Anti-heavy specialist\n+ Long range\n- Low health\n- Countered by Horsemen",
+      "descriptionCN": "射程较远的弩手，可以对重型单位造成极高的伤害。\n+ 反重型专家\n+ 射程远\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "arbalest_animate",

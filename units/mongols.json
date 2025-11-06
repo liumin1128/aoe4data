@@ -16,6 +16,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 129582,
       "attribName": "unit_archer_2_mon",
       "age": 2,
@@ -23,6 +24,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -132,6 +134,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 129583,
       "attribName": "unit_archer_3_mon",
       "age": 3,
@@ -139,6 +142,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -248,6 +252,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 136247,
       "attribName": "unit_archer_4_mon",
       "age": 4,
@@ -255,6 +260,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -364,6 +370,7 @@
       "baseId": "baochuan",
       "type": "unit",
       "name": "Baochuan",
+      "nameCN": "宝船",
       "pbgid": 193130,
       "attribName": "unit_naval_combat_warship_4_mon",
       "age": 4,
@@ -371,6 +378,7 @@
         "mo"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -471,6 +479,7 @@
       "baseId": "battering-ram",
       "type": "unit",
       "name": "Battering Ram",
+      "nameCN": "攻城锤",
       "pbgid": 2108174,
       "attribName": "unit_workshop_ram_3_mon",
       "age": 2,
@@ -478,6 +487,7 @@
         "mo"
       ],
       "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+      "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -582,6 +592,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 130773,
       "attribName": "unit_bombard_4_mon",
       "age": 4,
@@ -589,6 +600,7 @@
         "mo"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -726,6 +738,7 @@
       "baseId": "crossbowman",
       "type": "unit",
       "name": "Crossbowman",
+      "nameCN": "弩手",
       "pbgid": 163621,
       "attribName": "unit_crossbowman_3_mon",
       "age": 3,
@@ -733,6 +746,7 @@
         "mo"
       ],
       "description": "High damage ranged unit best against heavy targets.\n+ Anti-heavy specialist\n- Low health\n- Countered by Horsemen",
+      "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "crossbow_incendiary_3",
@@ -826,6 +840,7 @@
       "baseId": "crossbowman",
       "type": "unit",
       "name": "Elite Crossbowman",
+      "nameCN": "精锐弩手",
       "pbgid": 163623,
       "attribName": "unit_crossbowman_4_mon",
       "age": 4,
@@ -833,6 +848,7 @@
         "mo"
       ],
       "description": "High damage ranged unit best against heavy targets.\n+ Anti-heavy specialist\n- Low health\n- Countered by Horsemen",
+      "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "arbalest_animate",
@@ -927,6 +943,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 193132,
       "attribName": "unit_naval_fireship_3_mon",
       "age": 2,
@@ -934,6 +951,7 @@
         "mo"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -1038,6 +1056,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193131,
       "attribName": "unit_naval_fishing_boat_2_mon",
       "age": 2,
@@ -1045,6 +1064,7 @@
         "mo"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -1096,6 +1116,7 @@
       "baseId": "handcannoneer",
       "type": "unit",
       "name": "Handcannoneer",
+      "nameCN": "火枪兵",
       "pbgid": 129634,
       "attribName": "unit_handcannon_4_mon",
       "age": 4,
@@ -1103,6 +1124,7 @@
         "mo"
       ],
       "description": "Powerful all-purpose ranged infantry.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+      "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1181,6 +1203,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Early Horseman",
+      "nameCN": "早期骑手",
       "pbgid": 129569,
       "attribName": "unit_horseman_1_mon",
       "age": 1,
@@ -1188,6 +1211,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1322,6 +1346,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Horseman",
+      "nameCN": "骑手",
       "pbgid": 129570,
       "attribName": "unit_horseman_2_mon",
       "age": 2,
@@ -1329,6 +1354,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1463,6 +1489,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Veteran Horseman",
+      "nameCN": "老练骑手",
       "pbgid": 129575,
       "attribName": "unit_horseman_3_mon",
       "age": 3,
@@ -1470,6 +1497,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1604,6 +1632,7 @@
       "baseId": "horseman",
       "type": "unit",
       "name": "Elite Horseman",
+      "nameCN": "精锐骑手",
       "pbgid": 136251,
       "attribName": "unit_horseman_4_mon",
       "age": 4,
@@ -1611,6 +1640,7 @@
         "mo"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -1745,6 +1775,7 @@
       "baseId": "huihui-pao",
       "type": "unit",
       "name": "Huihui Pao",
+      "nameCN": "回回炮",
       "pbgid": 2117335,
       "attribName": "unit_khaganate_great_trebuchet_mon",
       "age": 4,
@@ -1752,6 +1783,7 @@
         "mo"
       ],
       "description": "Massive siege engine with incredible range, extra effective at destroying buildings and walls.\n+ Extremely long range\n- Must be set up to fire\n\nRandomly spawns from the Khaganate Palace.",
+      "descriptionCN": "巨大的攻城器械，攻击范围非常远，特别擅长摧毁建筑物和城墙。\n+ 攻击范围极长\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -1863,6 +1895,7 @@
       "baseId": "keshik",
       "type": "unit",
       "name": "Keshik",
+      "nameCN": "怯薛骑兵",
       "pbgid": 129609,
       "attribName": "unit_knight_2_mon",
       "age": 2,
@@ -1870,6 +1903,7 @@
         "mo"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack. Effective against most units.\n+ Heavy armor\n+ Strong in melee combat\n+ Restores health after every attack\n- Less health than Lancers\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2008,6 +2042,7 @@
       "baseId": "keshik",
       "type": "unit",
       "name": "Veteran Keshik",
+      "nameCN": "老练怯薛骑兵",
       "pbgid": 129610,
       "attribName": "unit_knight_3_mon",
       "age": 3,
@@ -2015,6 +2050,7 @@
         "mo"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack. Effective against most units.\n+ Heavy armor\n+ Strong in melee combat\n+ Restores health after every attack\n- Less health than Lancers\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2153,6 +2189,7 @@
       "baseId": "keshik",
       "type": "unit",
       "name": "Elite Keshik",
+      "nameCN": "精锐怯薛骑兵",
       "pbgid": 136254,
       "attribName": "unit_knight_4_mon",
       "age": 4,
@@ -2160,6 +2197,7 @@
         "mo"
       ],
       "description": "Expensive cavalry with high damage and a powerful charge attack. Effective against most units.\n+ Heavy armor\n+ Strong in melee combat\n+ Restores health after every attack\n- Less health than Lancers\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2298,6 +2336,7 @@
       "baseId": "khaganate-horse-archer",
       "type": "unit",
       "name": "Khaganate Elite Horse Archer",
+      "nameCN": "精锐骑射手",
       "pbgid": 2104798,
       "attribName": "unit_khaganate_horsearcher_rus_mon",
       "age": 4,
@@ -2305,6 +2344,7 @@
         "mo"
       ],
       "description": "Highly mobile ranged cavalry effective against slower melee units.\n+ High mobility\n- Weak vs ranged units\n\nRandomly spawns 5 at the time from the Khaganate Palace.",
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2387,6 +2427,7 @@
       "baseId": "khaganate-knight",
       "type": "unit",
       "name": "Khaganate Elite Knight",
+      "nameCN": "精锐骑士",
       "pbgid": 2117332,
       "attribName": "unit_khaganate_knight_rus_mon",
       "age": 4,
@@ -2394,6 +2435,7 @@
         "mo"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen\n\nRandomly spawns 3 at the time from the Khaganate Palace.",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2510,6 +2552,7 @@
       "baseId": "khaganate-mangudai",
       "type": "unit",
       "name": "Khaganate Elite Mangudai",
+      "nameCN": "精锐蒙古突骑",
       "pbgid": 2122464,
       "attribName": "unit_khaganate_mangudai_mon",
       "age": 4,
@@ -2517,6 +2560,7 @@
         "mo"
       ],
       "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range\n\nRandomly spawns from the Khaganate Palace.",
+      "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2597,6 +2641,7 @@
       "baseId": "khaganate-nest-of-bees",
       "type": "unit",
       "name": "Khaganate Nest of Bees",
+      "nameCN": "一窝蜂",
       "pbgid": 2104797,
       "attribName": "unit_khaganate_nest_of_bees_4_mon",
       "age": 4,
@@ -2604,6 +2649,7 @@
         "mo"
       ],
       "description": "Innovative field weapon capable of firing a barrage of rockets to damage defensive positions and clumped enemy troops.\n+ Good area of effect damage against most targets\n- Slowest movement speed\n- Weak if surrounded\n\nRandomly spawns from the Khaganate Palace.",
+      "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2719,6 +2765,7 @@
       "baseId": "khaganate-palace-guard",
       "type": "unit",
       "name": "Khaganate Elite Palace Guard",
+      "nameCN": "精锐皇宫卫兵",
       "pbgid": 2104796,
       "attribName": "unit_khaganate_manatarms_china_mon",
       "age": 4,
@@ -2726,6 +2773,7 @@
         "mo"
       ],
       "description": "Tough infantry with good damage. Move faster than Men-At-Arms, but with reduced armor.\n+ Heavy armor\n- Countered by Knights, Lancers, and Crossbowmen.\n\nRandomly spawns 5 at the time from the Khaganate Palace.",
+      "descriptionCN": "可造成可观伤害的强壮步兵。移动速度比武士快，但护甲更低。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2840,6 +2888,7 @@
       "baseId": "khaganate-warrior-monk",
       "type": "unit",
       "name": "Khaganate Warrior Monk",
+      "nameCN": "僧侣战士",
       "pbgid": 2104799,
       "attribName": "unit_khaganate_monk_rus_mon",
       "age": 4,
@@ -2847,6 +2896,7 @@
         "mo"
       ],
       "description": "Military-minded support unit that improves combat capabilities of nearby units after it attacks. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n+ High utility in large armies\n- Low damage\n\nRandomly spawns 2 at the time from the Khaganate Palace.",
+      "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -2953,6 +3003,7 @@
       "baseId": "khan",
       "type": "unit",
       "name": "Khan",
+      "nameCN": "汗",
       "pbgid": 129651,
       "attribName": "unit_khan_1_mon",
       "age": 1,
@@ -2960,6 +3011,7 @@
         "mo"
       ],
       "description": "Ranged Cavalry Leader able to use Signal Arrows to enhance nearby military units. Reappears at a Town Center if killed.\n+ Vision and herding of a Scout\n+ Automatically improves with each Age\n- Only one Khan per Mongol player",
+      "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3054,6 +3106,7 @@
       "baseId": "khan",
       "type": "unit",
       "name": "Hardened Khan",
+      "nameCN": "铁血汗",
       "pbgid": 130820,
       "attribName": "unit_khan_2_mon",
       "age": 2,
@@ -3061,6 +3114,7 @@
         "mo"
       ],
       "description": "Ranged Cavalry Leader able to use Signal Arrows to enhance nearby military units. Reappears at a Town Center if killed.\n+ Vision and herding of a Scout\n+ Automatically improves with each Age\n- Only one Khan per Mongol player",
+      "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3155,6 +3209,7 @@
       "baseId": "khan",
       "type": "unit",
       "name": "Veteran Khan",
+      "nameCN": "老练汗",
       "pbgid": 130821,
       "attribName": "unit_khan_3_mon",
       "age": 3,
@@ -3162,6 +3217,7 @@
         "mo"
       ],
       "description": "Ranged Cavalry Leader able to use Signal Arrows to enhance nearby military units. Reappears at a Town Center if killed.\n+ Vision and herding of a Scout\n+ Automatically improves with each Age\n- Only one Khan per Mongol player",
+      "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3256,6 +3312,7 @@
       "baseId": "khan",
       "type": "unit",
       "name": "Elite Khan",
+      "nameCN": "精锐汗",
       "pbgid": 1261685,
       "attribName": "unit_khan_4_mon",
       "age": 4,
@@ -3263,6 +3320,7 @@
         "mo"
       ],
       "description": "Ranged Cavalry Leader able to use Signal Arrows to enhance nearby military units. Reappears at a Town Center if killed.\n+ Vision and herding of a Scout\n+ Automatically improves with each Age\n- Only one Khan per Mongol player",
+      "descriptionCN": "远程骑兵领袖，可通过使用信号箭强化附近军事单位。死亡后会再次出现于城镇中心。\n+ 侦察兵视野及牧群控制的能力\n+ 随着时代的提升会自动强化\n- 每个蒙古玩家只有一名汗",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -3366,6 +3424,7 @@
       "baseId": "khans-hunter",
       "type": "unit",
       "name": "Khan's Hunter",
+      "nameCN": "汗的猎人",
       "pbgid": 9000100,
       "attribName": "unit_khan_hunter_deer_double_2_mon",
       "age": 2,
@@ -3373,6 +3432,7 @@
         "mo"
       ],
       "description": "Supporting Cavalry Archer that can fire while moving. Has the Khan's Hunter Aura that improves the range of nearby ranged units.\n+High Mobility\n+Excellent Vision\n-Low Health",
+      "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3452,6 +3512,7 @@
       "baseId": "khans-hunter",
       "type": "unit",
       "name": "Veteran Khan's Hunter",
+      "nameCN": "汗的老练猎人",
       "pbgid": 9000102,
       "attribName": "unit_khan_hunter_deer_double_3_mon",
       "age": 3,
@@ -3459,6 +3520,7 @@
         "mo"
       ],
       "description": "Supporting Cavalry Archer that can fire while moving. Has the Khan's Hunter Aura that improves the range of nearby ranged units.\n+High Mobility\n+Excellent Vision\n-Low Health",
+      "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3538,6 +3600,7 @@
       "baseId": "khans-hunter",
       "type": "unit",
       "name": "Elite Khan's Hunter",
+      "nameCN": "汗的精锐猎人",
       "pbgid": 9000104,
       "attribName": "unit_khan_hunter_deer_double_4_mon",
       "age": 4,
@@ -3545,6 +3608,7 @@
         "mo"
       ],
       "description": "Supporting Cavalry Archer that can fire while moving. Has the Khan's Hunter Aura that improves the range of nearby ranged units.\n+High Mobility\n+Excellent Vision\n-Low Health",
+      "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3624,6 +3688,7 @@
       "baseId": "light-junk",
       "type": "unit",
       "name": "Light Junk",
+      "nameCN": "轻型戎克船",
       "pbgid": 2033751,
       "attribName": "unit_naval_light_junk_2_mon",
       "age": 2,
@@ -3631,6 +3696,7 @@
         "mo"
       ],
       "description": "Light war vessel armed with a crew of archers.\n+ Increased maneuverability and speed.\n+ Benefits from ranged damage Blacksmith technology",
+      "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
       "classes": [
         "annihilation_condition",
         "archer_ship",
@@ -3730,6 +3796,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 129619,
       "attribName": "unit_manatarms_3_mon",
       "age": 3,
@@ -3737,6 +3804,7 @@
         "mo"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3849,6 +3917,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 136255,
       "attribName": "unit_manatarms_4_mon",
       "age": 4,
@@ -3856,6 +3925,7 @@
         "mo"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3968,6 +4038,7 @@
       "baseId": "mangonel",
       "type": "unit",
       "name": "Mangonel",
+      "nameCN": "轻型投石车",
       "pbgid": 129969,
       "attribName": "unit_mangonel_3_mon",
       "age": 3,
@@ -3975,6 +4046,7 @@
         "mo"
       ],
       "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+      "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -4221,6 +4293,7 @@
       "baseId": "mangudai",
       "type": "unit",
       "name": "Mangudai",
+      "nameCN": "蒙古突骑",
       "pbgid": 129666,
       "attribName": "unit_horsearcher_2_mon",
       "age": 2,
@@ -4228,6 +4301,7 @@
         "mo"
       ],
       "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range",
+      "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4307,6 +4381,7 @@
       "baseId": "mangudai",
       "type": "unit",
       "name": "Veteran Mangudai",
+      "nameCN": "老练蒙古突骑",
       "pbgid": 129667,
       "attribName": "unit_horsearcher_3_mon",
       "age": 3,
@@ -4314,6 +4389,7 @@
         "mo"
       ],
       "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range",
+      "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4393,6 +4469,7 @@
       "baseId": "mangudai",
       "type": "unit",
       "name": "Elite Mangudai",
+      "nameCN": "精锐蒙古突骑",
       "pbgid": 136250,
       "attribName": "unit_horsearcher_4_mon",
       "age": 4,
@@ -4400,6 +4477,7 @@
         "mo"
       ],
       "description": "Confounding mobile ranged cavalry that can fire while moving.\n+ High rate of fire\n- Low weapon range",
+      "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4479,6 +4557,7 @@
       "baseId": "scout",
       "type": "unit",
       "name": "Scout",
+      "nameCN": "侦察兵",
       "pbgid": 129486,
       "attribName": "unit_scout_1_mon",
       "age": 1,
@@ -4486,6 +4565,7 @@
         "mo"
       ],
       "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+      "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -4595,6 +4675,7 @@
       "baseId": "shaman",
       "type": "unit",
       "name": "Shaman",
+      "nameCN": "萨满",
       "pbgid": 137169,
       "attribName": "unit_monk_3_mon",
       "age": 3,
@@ -4602,6 +4683,7 @@
         "mo"
       ],
       "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Heals friendly units\n- Slow movement speed",
+      "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "carrier",
@@ -4654,6 +4736,7 @@
       "baseId": "siege-tower",
       "type": "unit",
       "name": "Siege Tower",
+      "nameCN": "攻城塔",
       "pbgid": 129972,
       "attribName": "unit_siege_tower_3_mon",
       "age": 2,
@@ -4661,6 +4744,7 @@
         "mo"
       ],
       "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+      "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -4730,6 +4814,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 136239,
       "attribName": "unit_spearman_1_mon",
       "age": 1,
@@ -4737,6 +4822,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4868,6 +4954,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 129597,
       "attribName": "unit_spearman_2_mon",
       "age": 2,
@@ -4875,6 +4962,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5006,6 +5094,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 129598,
       "attribName": "unit_spearman_3_mon",
       "age": 3,
@@ -5013,6 +5102,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5144,6 +5234,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 136261,
       "attribName": "unit_spearman_4_mon",
       "age": 4,
@@ -5151,6 +5242,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5282,6 +5374,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 129971,
       "attribName": "unit_springald_3_mon",
       "age": 3,
@@ -5289,6 +5382,7 @@
         "mo"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -5403,6 +5497,7 @@
       "baseId": "traction-trebuchet",
       "type": "unit",
       "name": "Traction Trebuchet",
+      "nameCN": "牵引式巨型投石机",
       "pbgid": 171143,
       "attribName": "unit_trebuchet_4_tr_mon",
       "age": 3,
@@ -5410,6 +5505,7 @@
         "mo"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a long distance.\n+ Bonus damage vs buildings\n+ High mobility\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从远距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n+ 高机动性\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -5519,6 +5615,7 @@
       "baseId": "trade-ship",
       "type": "unit",
       "name": "Trade Ship",
+      "nameCN": "商船",
       "pbgid": 196685,
       "attribName": "unit_naval_trade_ship_3_mon",
       "age": 2,
@@ -5526,6 +5623,7 @@
         "mo"
       ],
       "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+      "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -5578,6 +5676,7 @@
       "baseId": "trader",
       "type": "unit",
       "name": "Trader",
+      "nameCN": "商人",
       "pbgid": 129600,
       "attribName": "unit_trade_cart_mon",
       "age": 1,
@@ -5585,6 +5684,7 @@
         "mo"
       ],
       "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+      "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
       "classes": [
         "annihilation_condition",
         "human",
@@ -5633,6 +5733,7 @@
       "baseId": "transport-ship",
       "type": "unit",
       "name": "Transport Ship",
+      "nameCN": "运输船",
       "pbgid": 193133,
       "attribName": "unit_naval_transport_ship_2_mon",
       "age": 2,
@@ -5640,6 +5741,7 @@
         "mo"
       ],
       "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+      "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -5702,6 +5804,7 @@
       "baseId": "villager",
       "type": "unit",
       "name": "Villager",
+      "nameCN": "村民",
       "pbgid": 129272,
       "attribName": "unit_villager_1_mon",
       "age": 1,
@@ -5709,6 +5812,7 @@
         "mo"
       ],
       "description": "Gathers Wood, Food, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat\n- Unable to gather Stone (build an Ovoo to gather Stone)",
+      "descriptionCN": "采集木材、食物和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 不擅近战\n- 无法采集石料 (可建造一个敖包来采集石料)",
       "classes": [
         "annihilation_condition",
         "builder",
@@ -5805,6 +5909,7 @@
       "baseId": "war-junk",
       "type": "unit",
       "name": "War Junk",
+      "nameCN": "戎克战船",
       "pbgid": 193129,
       "attribName": "unit_naval_combat_ship_2_mon",
       "age": 3,
@@ -5812,6 +5917,7 @@
         "mo"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",

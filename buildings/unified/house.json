@@ -44,6 +44,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 199635,
       "attribName": "building_house_control_abb",
       "age": 1,
@@ -51,6 +52,7 @@
         "ab"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -102,6 +104,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 6653016,
       "attribName": "building_house_control_abb_ha_01",
       "age": 1,
@@ -109,6 +112,7 @@
         "ay"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -160,6 +164,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 2104741,
       "attribName": "building_house_control_byz",
       "age": 1,
@@ -167,6 +172,7 @@
         "by"
       ],
       "description": "Increases your maximum Population. Contains the unique Border Settlements technology.",
+      "descriptionCN": "提升人口上限。包含独特的边境聚落科技。",
       "classes": [
         "building",
         "house",
@@ -218,6 +224,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 145511,
       "attribName": "building_house_control_chi",
       "age": 1,
@@ -225,6 +232,7 @@
         "ch"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -274,6 +282,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 135833,
       "attribName": "building_house_control_sul",
       "age": 1,
@@ -281,6 +290,7 @@
         "de"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -531,6 +541,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 166260,
       "attribName": "building_house_control_eng",
       "age": 1,
@@ -538,6 +549,7 @@
         "en"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -587,6 +599,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 132696,
       "attribName": "building_house_control_fre",
       "age": 1,
@@ -594,6 +607,7 @@
         "fr"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -643,6 +657,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 134790,
       "attribName": "building_house_control_hre",
       "age": 1,
@@ -650,6 +665,7 @@
         "hr"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -701,6 +717,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 5000040,
       "attribName": "building_house_lan",
       "age": 1,
@@ -708,6 +725,7 @@
         "hl"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -757,6 +775,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 7736434,
       "attribName": "building_house_control_fre_ha_01",
       "age": 1,
@@ -764,6 +783,7 @@
         "je"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -814,6 +834,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 5000227,
       "attribName": "building_house_control_tem",
       "age": 1,
@@ -821,6 +842,7 @@
         "kt"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -870,6 +892,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 9000935,
       "attribName": "building_house_control_byz_ha_mac",
       "age": 1,
@@ -877,6 +900,7 @@
         "mac"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -926,6 +950,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 2357589,
       "attribName": "building_house_mal",
       "age": 1,
@@ -933,6 +958,7 @@
         "ma"
       ],
       "description": "Increases your maximum Population by 5. Malian Houses cost half as many resources as standard.",
+      "descriptionCN": "将人口上限提升 5。马里房屋的建造成本较标准成本减半。",
       "classes": [
         "building",
         "house",
@@ -984,6 +1010,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 2627505,
       "attribName": "building_house_control_hre_ha_01",
       "age": 1,
@@ -991,6 +1018,7 @@
         "od"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -1042,6 +1070,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 2034606,
       "attribName": "building_house_ott",
       "age": 1,
@@ -1049,6 +1078,7 @@
         "ot"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -1098,6 +1128,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 133367,
       "attribName": "building_house_control_rus",
       "age": 1,
@@ -1105,6 +1136,7 @@
         "ru"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -1154,6 +1186,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 3254692,
       "attribName": "building_house_control_sul_ha_tug",
       "age": 1,
@@ -1161,6 +1194,7 @@
         "tug"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -1411,6 +1445,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 8924751,
       "attribName": "building_house_control_chi_ha_01",
       "age": 1,
@@ -1418,6 +1453,7 @@
         "zx"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",

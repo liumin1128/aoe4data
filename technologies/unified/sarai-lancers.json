@@ -26,6 +26,7 @@
       "baseId": "sarai-lancers",
       "type": "technology",
       "name": "Sarai Lancers",
+      "nameCN": "萨莱长矛骑兵",
       "pbgid": 9004418,
       "attribName": "upgrade_lancer_healing_mon_ha_gol",
       "age": 3,
@@ -33,6 +34,7 @@
         "gol"
       ],
       "description": "Increase Keshik healing by +1 Health per attack and attack speed by +10%. Torguud gain the same healing attack as the Keshik.",
+      "descriptionCN": "每次攻击怯薛骑兵恢复的生命值 +1，攻击速度 +10%。土尔扈特获得的治疗攻击效果与怯薛骑兵相同。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",

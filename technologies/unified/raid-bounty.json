@@ -26,6 +26,7 @@
       "baseId": "raid-bounty",
       "type": "technology",
       "name": "Raid Bounty",
+      "nameCN": "突袭赏金",
       "pbgid": 205550,
       "attribName": "upgrade_raid_bounty_mon",
       "age": 2,
@@ -33,6 +34,7 @@
         "mo"
       ],
       "description": "Increase the raid income for igniting a building to +50 Food and Gold.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +50 食物和黄金。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",

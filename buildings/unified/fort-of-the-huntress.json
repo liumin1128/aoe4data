@@ -34,6 +34,7 @@
       "baseId": "fort-of-the-huntress",
       "type": "building",
       "name": "Fort of the Huntress",
+      "nameCN": "女猎手要塞",
       "pbgid": 2063110,
       "attribName": "building_landmark_age3_landmarkf_mal",
       "age": 3,
@@ -41,6 +42,7 @@
         "ma"
       ],
       "description": "Acts as a Keep that shoots poison arrows. Infantry units nearby the Landmark enter Stealth for 30 seconds.\nMusofadi Warriors and Musofadi Gunners gain First Strike, dealing more damage when breaking Stealth with an attack.",
+      "descriptionCN": "可作为发射毒箭的城堡使用。地标附近的步兵单位进入潜行状态 30 秒。\n穆索法迪战士和穆索法迪火枪兵获得先发制人效果，在发动破除潜行的一次攻击时造成更大伤害。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

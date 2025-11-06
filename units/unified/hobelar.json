@@ -36,6 +36,7 @@
       "baseId": "hobelar",
       "type": "unit",
       "name": "Hobelar",
+      "nameCN": "骑马步兵",
       "pbgid": 5000087,
       "attribName": "unit_hobelar_2_lan",
       "age": 2,
@@ -43,6 +44,7 @@
         "hl"
       ],
       "description": "Cheap cavalry effective at raiding, flanking, and countering ranged units.\n+ Cheaper than a normal Horseman\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "低成本骑兵，擅长突袭、侧翼攻击和克制远程单位。\n+ 比普通骑手成本低\n+ 高移动速度\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -228,6 +230,7 @@
       "baseId": "hobelar",
       "type": "unit",
       "name": "Veteran Hobelar",
+      "nameCN": "老练骑马步兵",
       "pbgid": 5000088,
       "attribName": "unit_hobelar_3_lan",
       "age": 3,
@@ -235,6 +238,7 @@
         "hl"
       ],
       "description": "Cheap cavalry effective at raiding, flanking, and countering ranged units.\n+ Cheaper than a normal Horseman\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "低成本骑兵，擅长突袭、侧翼攻击和克制远程单位。\n+ 比普通骑手成本低\n+ 高移动速度\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -420,6 +424,7 @@
       "baseId": "hobelar",
       "type": "unit",
       "name": "Elite Hobelar",
+      "nameCN": "精锐骑马步兵",
       "pbgid": 5000089,
       "attribName": "unit_hobelar_4_lan",
       "age": 4,
@@ -427,6 +432,7 @@
         "hl"
       ],
       "description": "Cheap cavalry effective at raiding, flanking, and countering ranged units.\n+ Cheaper than a normal Horseman\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "低成本骑兵，擅长突袭、侧翼攻击和克制远程单位。\n+ 比普通骑手成本低\n+ 高移动速度\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

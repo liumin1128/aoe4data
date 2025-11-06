@@ -18,6 +18,7 @@
       "baseId": "ability-varangian-reinforcements",
       "type": "ability",
       "name": "Varangian Reinforcements",
+      "nameCN": "瓦兰吉援军",
       "pbgid": 9001605,
       "attribName": "varangian_free_unit_spawning",
       "age": 1,
@@ -25,6 +26,7 @@
         "mac"
       ],
       "description": "Reinforcing with Varangians, Galleys, or Attack Ships after enough units fall in battle.",
+      "descriptionCN": "在战斗中足够多的单位阵亡后，用瓦兰吉人、箭船或攻击船进行增援。",
       "classes": [],
       "displayClasses": [],
       "costs": {

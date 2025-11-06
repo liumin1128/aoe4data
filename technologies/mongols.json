@@ -16,6 +16,7 @@
       "baseId": "additional-torches",
       "type": "technology",
       "name": "Additional Torches",
+      "nameCN": "更多火炬",
       "pbgid": 205552,
       "attribName": "upgrade_weapon_fire_damage_mon",
       "age": 3,
@@ -23,6 +24,7 @@
         "mo"
       ],
       "description": "Increase the torch damage of all infantry and cavalry by +3.",
+      "descriptionCN": "所有步兵和骑兵的火炬伤害 +3。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",
@@ -74,6 +76,7 @@
       "baseId": "additional-torches-improved",
       "type": "technology",
       "name": "Additional Torches (Improved)",
+      "nameCN": "更多火炬 (已强化)",
       "pbgid": 205811,
       "attribName": "upgrade_weapon_fire_damage_improved_mon",
       "age": 3,
@@ -81,6 +84,7 @@
         "mo"
       ],
       "description": "Increase the torch damage of all infantry and cavalry by +5.\nIf Additional Torches has already been researched, increase the torch damage from all infantry and cavalry by +2.",
+      "descriptionCN": "所有步兵和骑兵的火炬伤害 +5。\n如果已完成更多火炬研究，则所有步兵和骑兵的火炬伤害 +2。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",
@@ -133,6 +137,7 @@
       "baseId": "adjustable-crossbars",
       "type": "technology",
       "name": "Adjustable Crossbars",
+      "nameCN": "可调式横杆",
       "pbgid": 191287,
       "attribName": "upgrade_siege_adjustable_crossbar_mon",
       "age": 4,
@@ -140,6 +145,7 @@
         "mo"
       ],
       "description": "Increases Mangonel range by +1, blast radius by +75%, and adds +1 projectile to attacks.",
+      "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -185,6 +191,7 @@
       "baseId": "angled-surfaces",
       "type": "technology",
       "name": "Angled Surfaces",
+      "nameCN": "斜面",
       "pbgid": 188371,
       "attribName": "upgrade_ranged_armor_iii_mon",
       "age": 4,
@@ -192,6 +199,7 @@
         "mo"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -251,6 +259,7 @@
       "baseId": "armored-hull",
       "type": "technology",
       "name": "Armored Hull",
+      "nameCN": "装甲船身",
       "pbgid": 196879,
       "attribName": "upgrade_naval_armored_hull",
       "age": 3,
@@ -258,6 +267,7 @@
         "mo"
       ],
       "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+      "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -334,6 +344,7 @@
       "baseId": "arrowslits",
       "type": "technology",
       "name": "Arrowslits",
+      "nameCN": "射箭槽",
       "pbgid": 186398,
       "attribName": "upgrade_outpost_arrowslits_mon",
       "age": 2,
@@ -341,6 +352,7 @@
         "mo"
       ],
       "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -385,6 +397,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -392,6 +405,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -476,6 +490,7 @@
       "baseId": "biology",
       "type": "technology",
       "name": "Biology",
+      "nameCN": "生物学",
       "pbgid": 188503,
       "attribName": "upgrade_tech_university_biology_mon",
       "age": 4,
@@ -483,6 +498,7 @@
         "mo"
       ],
       "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
+      "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -530,6 +546,7 @@
       "baseId": "biology-improved",
       "type": "technology",
       "name": "Biology (Improved)",
+      "nameCN": "生物学 (已强化)",
       "pbgid": 188502,
       "attribName": "upgrade_tech_university_biology_improved_mon",
       "age": 4,
@@ -537,6 +554,7 @@
         "mo"
       ],
       "description": "Investing in natural sciences increases the health of all cavalry by +35%.\nIf Biology has already been researched, increase it by +10% instead.",
+      "descriptionCN": "投资自然科学可使所有骑兵的生命值 +35%。\n如果已完成生物学研究，则 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -585,6 +603,7 @@
       "baseId": "bloomery",
       "type": "technology",
       "name": "Bloomery",
+      "nameCN": "熟铁块吹炼法",
       "pbgid": 187694,
       "attribName": "upgrade_melee_damage_i",
       "age": 2,
@@ -592,6 +611,7 @@
         "mo"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -653,6 +673,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 186400,
       "attribName": "upgrade_outpost_cannon_mon",
       "age": 4,
@@ -660,6 +681,7 @@
         "mo"
       ],
       "description": "Add a defensive cannon emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -710,6 +732,7 @@
       "baseId": "chemistry",
       "type": "technology",
       "name": "Chemistry",
+      "nameCN": "化学",
       "pbgid": 191272,
       "attribName": "upgrade_siege_chemistry_mon",
       "age": 4,
@@ -717,6 +740,7 @@
         "mo"
       ],
       "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+      "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -783,6 +807,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -790,6 +815,7 @@
         "mo"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -859,6 +885,7 @@
       "baseId": "crosscut-saw",
       "type": "technology",
       "name": "Crosscut Saw",
+      "nameCN": "横切锯",
       "pbgid": 171837,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_4",
       "age": 4,
@@ -866,6 +893,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15% and Wood gatherers carry capacity by +5.",
+      "descriptionCN": "村民的木材采集速率 +15%，木材采集者运载量 +5。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -926,6 +954,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 188052,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_mon",
       "age": 4,
@@ -933,6 +962,7 @@
         "mo"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -990,6 +1020,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188054,
       "attribName": "upgrade_melee_damage_iii_mon",
       "age": 4,
@@ -997,6 +1028,7 @@
         "mo"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1044,6 +1076,7 @@
       "baseId": "decarbonization",
       "type": "technology",
       "name": "Decarbonization",
+      "nameCN": "脱碳",
       "pbgid": 187997,
       "attribName": "upgrade_melee_damage_ii",
       "age": 3,
@@ -1051,6 +1084,7 @@
         "mo"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1112,6 +1146,7 @@
       "baseId": "double-broadax",
       "type": "technology",
       "name": "Double Broadax",
+      "nameCN": "双阔斧",
       "pbgid": 128070,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_2",
       "age": 2,
@@ -1119,6 +1154,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1180,6 +1216,7 @@
       "baseId": "double-broadax-improved",
       "type": "technology",
       "name": "Double Broadax (Improved)",
+      "nameCN": "双阔斧 (已强化)",
       "pbgid": 169035,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_2_improved_mon",
       "age": 2,
@@ -1187,6 +1224,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 35%.\nIf Double Broadax has already been researched, increase it by 20% instead.",
+      "descriptionCN": "村民的木材采集速率 +35%。\n如果已完成双宽斧研究，则 +20%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1234,6 +1272,7 @@
       "baseId": "drift-nets",
       "type": "technology",
       "name": "Drift Nets",
+      "nameCN": "流刺网",
       "pbgid": 2033746,
       "attribName": "upgrade_econ_drift_nets",
       "age": 3,
@@ -1241,6 +1280,7 @@
         "mo"
       ],
       "description": "Increase the gathering rate of Fishing Ships by +10%, carry capacity by +20 and move speed by +10%.",
+      "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1326,6 +1366,7 @@
       "baseId": "elite-army-tactics",
       "type": "technology",
       "name": "Elite Army Tactics",
+      "nameCN": "精锐军队战术",
       "pbgid": 190780,
       "attribName": "upgrade_manatarms_elite_army_tactics_mon",
       "age": 4,
@@ -1333,6 +1374,7 @@
         "mo"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1395,6 +1437,7 @@
       "baseId": "elite-army-tactics-improved",
       "type": "technology",
       "name": "Elite Army Tactics (Improved)",
+      "nameCN": "精锐军队战术 (已强化)",
       "pbgid": 191421,
       "attribName": "upgrade_manatarms_elite_army_tactics_improved_mon",
       "age": 4,
@@ -1402,6 +1445,7 @@
         "mo"
       ],
       "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +20% damage and +20% health.\nIf Elite Army Tactics has already been researched, increases damage by +5% and health by +5% instead.",
+      "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +20% 和生命值 +20%。\n如果已完成精锐军队战术的研究，则伤害 +5%，生命值 +5%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1465,6 +1509,7 @@
       "baseId": "explosives",
       "type": "technology",
       "name": "Explosives",
+      "nameCN": "炸药",
       "pbgid": 196883,
       "attribName": "upgrade_naval_explosives",
       "age": 4,
@@ -1472,6 +1517,7 @@
         "mo"
       ],
       "description": "Increase the damage of Incendiary Ships by +40%.",
+      "descriptionCN": "燃烧船伤害 +40%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1536,6 +1582,7 @@
       "baseId": "extended-lines",
       "type": "technology",
       "name": "Extended Lines",
+      "nameCN": "延绳钓",
       "pbgid": 2033745,
       "attribName": "upgrade_econ_extended_lines",
       "age": 2,
@@ -1543,6 +1590,7 @@
         "mo"
       ],
       "description": "Increase the gathering rate of Fishing Ships by +15% and carry capacity by +10.",
+      "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1616,6 +1664,7 @@
       "baseId": "extra-hammocks",
       "type": "technology",
       "name": "Extra Hammocks",
+      "nameCN": "额外吊床",
       "pbgid": 2101642,
       "attribName": "upgrade_naval_extra_hammocks",
       "age": 3,
@@ -1623,6 +1672,7 @@
         "mo"
       ],
       "description": "Increases the number of arrows fired by Archer Ships by +1.",
+      "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1687,6 +1737,7 @@
       "baseId": "fertilization",
       "type": "technology",
       "name": "Fertilization",
+      "nameCN": "施肥",
       "pbgid": 171292,
       "attribName": "upgrade_econ_resource_food_harvest_rate_3",
       "age": 3,
@@ -1694,6 +1745,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1755,6 +1807,7 @@
       "baseId": "fitted-leatherwork",
       "type": "technology",
       "name": "Fitted Leatherwork",
+      "nameCN": "合身皮具",
       "pbgid": 188116,
       "attribName": "upgrade_melee_armor_i",
       "age": 2,
@@ -1762,6 +1815,7 @@
         "mo"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1837,6 +1891,7 @@
       "baseId": "forestry",
       "type": "technology",
       "name": "Forestry",
+      "nameCN": "林业",
       "pbgid": 188630,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_mon",
       "age": 1,
@@ -1844,6 +1899,7 @@
         "mo"
       ],
       "description": "Double the rate at which Villagers chop down trees.",
+      "descriptionCN": "村民伐木速率加倍。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1890,6 +1946,7 @@
       "baseId": "forestry-improved",
       "type": "technology",
       "name": "Forestry (Improved)",
+      "nameCN": "林业 (已强化)",
       "pbgid": 172000,
       "attribName": "upgrade_econ_resource_wood_fell_rate_1_improved_mon",
       "age": 1,
@@ -1897,6 +1954,7 @@
         "mo"
       ],
       "description": "Villagers fell trees in a single chop.\nWood carry capacity increased by +2.",
+      "descriptionCN": "村民一击便能伐倒树木。\n木材运载量 +2。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1944,6 +2002,7 @@
       "baseId": "geometry",
       "type": "technology",
       "name": "Geometry",
+      "nameCN": "几何学",
       "pbgid": 2077145,
       "attribName": "upgrade_siege_mathematics_mon",
       "age": 4,
@@ -1951,6 +2010,7 @@
         "mo"
       ],
       "description": "Increase damage of Trebuchets by +20%.",
+      "descriptionCN": "巨型投石机的伤害 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1998,6 +2058,7 @@
       "baseId": "geometry-improved",
       "type": "technology",
       "name": "Geometry (Improved)",
+      "nameCN": "几何学 (已强化)",
       "pbgid": 2077146,
       "attribName": "upgrade_siege_mathematics_improved_mon",
       "age": 4,
@@ -2005,6 +2066,7 @@
         "mo"
       ],
       "description": "Increase damage of Trebuchets by +30%.\nIf Geometry has already been researched, increase their damage by +10% instead.",
+      "descriptionCN": "巨型投石机的伤害 +30%。\n如果已完成几何学的研究，则伤害 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2052,6 +2114,7 @@
       "baseId": "greased-axles",
       "type": "technology",
       "name": "Greased Axles",
+      "nameCN": "润滑轮轴",
       "pbgid": 191271,
       "attribName": "upgrade_siege_weapon_speed_mon",
       "age": 3,
@@ -2059,6 +2122,7 @@
         "mo"
       ],
       "description": "Increase the movement speed of siege engines by +15%.",
+      "descriptionCN": "攻城器械的移动速度 +15%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2106,6 +2170,7 @@
       "baseId": "greased-axles-improved",
       "type": "technology",
       "name": "Greased Axles (Improved)",
+      "nameCN": "润滑轮轴 (已强化)",
       "pbgid": 191390,
       "attribName": "upgrade_siege_weapon_speed_improved_mon",
       "age": 3,
@@ -2113,6 +2178,7 @@
         "mo"
       ],
       "description": "Increase the movement speed of siege engines by +25%.\nIf Greased Axles has already been researched, increase it by +10% instead.",
+      "descriptionCN": "攻城器械的移动速度 +25%。\n如果已完成润滑轮轴研究，则 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2161,6 +2227,7 @@
       "baseId": "heated-shot",
       "type": "technology",
       "name": "Heated Shot",
+      "nameCN": "加热射击",
       "pbgid": 2101720,
       "attribName": "upgrade_naval_heated_shot",
       "age": 4,
@@ -2168,6 +2235,7 @@
         "mo"
       ],
       "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+      "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2232,6 +2300,7 @@
       "baseId": "herbal-medicine",
       "type": "technology",
       "name": "Herbal Medicine",
+      "nameCN": "草药",
       "pbgid": 129401,
       "attribName": "upgrade_unit_religious_herbal_medicine_4",
       "age": 3,
@@ -2239,6 +2308,7 @@
         "mo"
       ],
       "description": "Increase the healing rate of religious units and healers by +60%.",
+      "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2306,6 +2376,7 @@
       "baseId": "herbal-medicine-improved",
       "type": "technology",
       "name": "Herbal Medicine (Improved)",
+      "nameCN": "草药 (已强化)",
       "pbgid": 173459,
       "attribName": "upgrade_unit_religious_herbal_medicine_4_improved_mon",
       "age": 3,
@@ -2313,6 +2384,7 @@
         "mo"
       ],
       "description": "Increase the healing rate of religious units by +90%.\nIf Herbal Medicine has already been researched, increase it by +30% instead.",
+      "descriptionCN": "宗教单位的治疗速率 +90%。\n如果已完成草药研究，则 +30%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2368,6 +2440,7 @@
       "baseId": "horticulture",
       "type": "technology",
       "name": "Horticulture",
+      "nameCN": "园艺学",
       "pbgid": 128049,
       "attribName": "upgrade_econ_resource_food_harvest_rate_2",
       "age": 2,
@@ -2375,6 +2448,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2436,6 +2510,7 @@
       "baseId": "horticulture-improved",
       "type": "technology",
       "name": "Horticulture (Improved)",
+      "nameCN": "园艺学 (已强化)",
       "pbgid": 171295,
       "attribName": "upgrade_econ_resource_food_harvest_rate_2_improved_mon",
       "age": 2,
@@ -2443,6 +2518,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Food by 30%. Does not apply to hunted meat.\nIf Horticulture has already been researched, increase it by 20% instead.",
+      "descriptionCN": "村民的食物采集速率 +30%，不包括狩猎肉类。\n如果已完成园艺学研究，则 +20%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -2490,6 +2566,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -2497,6 +2574,7 @@
         "mo"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2561,6 +2639,7 @@
       "baseId": "incendiary-arrows",
       "type": "technology",
       "name": "Incendiary Arrows",
+      "nameCN": "燃烧箭",
       "pbgid": 188332,
       "attribName": "upgrade_ranged_incendiary_mon",
       "age": 4,
@@ -2568,6 +2647,7 @@
         "mo"
       ],
       "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+      "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2650,6 +2730,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -2657,6 +2738,7 @@
         "mo"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2732,6 +2814,7 @@
       "baseId": "iron-undermesh",
       "type": "technology",
       "name": "Iron Undermesh",
+      "nameCN": "铁制底网",
       "pbgid": 188266,
       "attribName": "upgrade_ranged_armor_i",
       "age": 2,
@@ -2739,6 +2822,7 @@
         "mo"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -2814,6 +2898,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2119227,
       "attribName": "upgrade_ram_scaling_mon",
       "age": 4,
@@ -2821,6 +2906,7 @@
         "mo"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2881,6 +2967,7 @@
       "baseId": "lightweight-beams-improved",
       "type": "technology",
       "name": "Lightweight Beams (Improved)",
+      "nameCN": "轻质横梁 (已强化)",
       "pbgid": 2117416,
       "attribName": "upgrade_ram_scaling_improved_mon",
       "age": 4,
@@ -2888,6 +2975,7 @@
         "mo"
       ],
       "description": "Increase Battering Ram attack speed by +30% and reduce their field construction time by -75%.\nIf Lightweight Beams has already been researched, increase attack speed by +10% and reduce field construction time by -25% instead.",
+      "descriptionCN": "攻城锤攻击速度 +30%，战场工程时间 -75%。\n如果已经研究过轻质横梁，攻击速度 +10%，战场工程时间 -25%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -2945,6 +3033,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -2952,6 +3041,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3013,6 +3103,7 @@
       "baseId": "master-smiths",
       "type": "technology",
       "name": "Master Smiths",
+      "nameCN": "铁匠大师",
       "pbgid": 188127,
       "attribName": "upgrade_melee_armor_iii_mon",
       "age": 4,
@@ -3020,6 +3111,7 @@
         "mo"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3079,6 +3171,7 @@
       "baseId": "military-academy",
       "type": "technology",
       "name": "Military Academy",
+      "nameCN": "军事学院",
       "pbgid": 128454,
       "attribName": "upgrade_tech_military_academy",
       "age": 3,
@@ -3086,6 +3179,7 @@
         "mo"
       ],
       "description": "Increase the production speed of infantry, cavalry, siege, and transport units at buildings by 33%.\nDoes not affect religious units or other support units.",
+      "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3162,6 +3256,7 @@
       "baseId": "military-academy-improved",
       "type": "technology",
       "name": "Military Academy (Improved)",
+      "nameCN": "军事学院 (已强化)",
       "pbgid": 175024,
       "attribName": "upgrade_tech_military_academy_improved_mon",
       "age": 3,
@@ -3169,6 +3264,7 @@
         "mo"
       ],
       "description": "Increase the production speed of military and transport units at buildings by 53%.\nDoes not affect religious or other support units.\nIf Military Academy has already been researched, increase production speed by 20% instead.",
+      "descriptionCN": "建筑中的军事和运输工具单位的生产速度提升 53%。\n该效果不适用于宗教单位或其他辅助单位。\n如果已经研究过军事学院，生产速度则提升 20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3231,6 +3327,7 @@
       "baseId": "monastic-shrines",
       "type": "technology",
       "name": "Monastic Shrines",
+      "nameCN": "僧侣祭坛",
       "pbgid": 193988,
       "attribName": "upgrade_religious_monastery_ovoo_mon",
       "age": 3,
@@ -3238,6 +3335,7 @@
         "mo"
       ],
       "description": "Prayer Tents allow Improved Production within their influence even without an Ovoo.",
+      "descriptionCN": "祈祷帐篷可在没有敖包的情况下为其影响范围内提供强化生产效果。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3283,6 +3381,7 @@
       "baseId": "naval-arrowslits",
       "type": "technology",
       "name": "Naval Arrowslits",
+      "nameCN": "海军射箭槽",
       "pbgid": 2076426,
       "attribName": "upgrade_naval_arrowslits",
       "age": 2,
@@ -3290,6 +3389,7 @@
         "mo"
       ],
       "description": "Add a defensive arrowslit to this Dock which only attacks ships.",
+      "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3337,6 +3437,7 @@
       "baseId": "pax-mongolica",
       "type": "technology",
       "name": "Pax Mongolica",
+      "nameCN": "蒙古和平",
       "pbgid": 2146759,
       "attribName": "upgrade_outpost_stone_mon",
       "age": 4,
@@ -3344,6 +3445,7 @@
         "mo"
       ],
       "description": "Add +300 health and +3 fire armor to all Outposts.",
+      "descriptionCN": "所有哨站的生命值 +300，火焰护甲 +3。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3389,6 +3491,7 @@
       "baseId": "piety",
       "type": "technology",
       "name": "Piety",
+      "nameCN": "虔诚",
       "pbgid": 184856,
       "attribName": "upgrade_unit_religious_piety_4_mon",
       "age": 4,
@@ -3396,6 +3499,7 @@
         "mo"
       ],
       "description": "Increase the health of religious units and healers by +40.",
+      "descriptionCN": "宗教单位和治疗者的生命值 +40。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3450,6 +3554,7 @@
       "baseId": "piety-improved",
       "type": "technology",
       "name": "Piety (Improved)",
+      "nameCN": "虔诚 (已强化)",
       "pbgid": 173546,
       "attribName": "upgrade_unit_religious_piety_4_improved_mon",
       "age": 4,
@@ -3457,6 +3562,7 @@
         "mo"
       ],
       "description": "Increase all Shamans' health by +60.\nIf Piety has already been researched, increase it by +20 instead.",
+      "descriptionCN": "所有萨满的生命值 +60。\n如果已完成虔诚研究，则 +20。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3512,6 +3618,7 @@
       "baseId": "piracy",
       "type": "technology",
       "name": "Piracy",
+      "nameCN": "海盗行为",
       "pbgid": 2033835,
       "attribName": "upgrade_naval_piracy_mon",
       "age": 2,
@@ -3519,6 +3626,7 @@
         "mo"
       ],
       "description": "Gain +25 Wood and +25 Gold when sinking an enemy ship.",
+      "descriptionCN": "击沉一艘敌方船只时可获得 +25 木材和 +25 黄金。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3568,6 +3676,7 @@
       "baseId": "platecutter-point",
       "type": "technology",
       "name": "Platecutter Point",
+      "nameCN": "箭头穿孔板甲",
       "pbgid": 188374,
       "attribName": "upgrade_ranged_damage_iii_mon",
       "age": 4,
@@ -3575,6 +3684,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3643,6 +3753,7 @@
       "baseId": "precision-cross-breeding",
       "type": "technology",
       "name": "Precision Cross-Breeding",
+      "nameCN": "精准杂交育种",
       "pbgid": 171293,
       "attribName": "upgrade_econ_resource_food_harvest_rate_4",
       "age": 4,
@@ -3650,6 +3761,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+      "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -3710,6 +3822,7 @@
       "baseId": "professional-scouts",
       "type": "technology",
       "name": "Professional Scouts",
+      "nameCN": "专业侦察兵",
       "pbgid": 205915,
       "attribName": "upgrade_scout_forester_mon",
       "age": 2,
@@ -3717,6 +3830,7 @@
         "mo"
       ],
       "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+      "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3781,6 +3895,7 @@
       "baseId": "raid-bounty",
       "type": "technology",
       "name": "Raid Bounty",
+      "nameCN": "突袭赏金",
       "pbgid": 205550,
       "attribName": "upgrade_raid_bounty_mon",
       "age": 2,
@@ -3788,6 +3903,7 @@
         "mo"
       ],
       "description": "Increase the raid income for igniting a building to +50 Food and Gold.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +50 食物和黄金。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -3838,6 +3954,7 @@
       "baseId": "raid-bounty-improved",
       "type": "technology",
       "name": "Raid Bounty (Improved)",
+      "nameCN": "突袭赏金 (已强化)",
       "pbgid": 205807,
       "attribName": "upgrade_raid_bounty_improved_mon",
       "age": 2,
@@ -3845,6 +3962,7 @@
         "mo"
       ],
       "description": "Increase the raid income for igniting a building to +75 Food and Gold.\nIf Raid Bounty has already been researched, increase the raid income for igniting a building by +25 Food and Gold.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +75 食物和黄金。\n如果已完成突袭赏金研究，则点燃建筑带来的突袭收入 +25 食物和黄金。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -3896,6 +4014,7 @@
       "baseId": "roller-shutter-triggers",
       "type": "technology",
       "name": "Roller Shutter Triggers",
+      "nameCN": "卷帘式触发器",
       "pbgid": 184762,
       "attribName": "upgrade_siege_roller_trigger_mon",
       "age": 4,
@@ -3903,6 +4022,7 @@
         "mo"
       ],
       "description": "Increases Springald attack speed by +25% and grants +10% Ranged Resistance.",
+      "descriptionCN": "扭力弩炮攻击速度 +25%，并且获得 +10% 远程抗性。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -3959,6 +4079,7 @@
       "baseId": "roller-shutter-triggers-improved",
       "type": "technology",
       "name": "Roller Shutter Triggers (Improved)",
+      "nameCN": "卷帘式触发器 (已强化)",
       "pbgid": 175010,
       "attribName": "upgrade_siege_roller_trigger_improved_mon",
       "age": 4,
@@ -3966,6 +4087,7 @@
         "mo"
       ],
       "description": "Increases Springald attack speed by +35%, grants +10% Ranged Resistance, and increases health by +10.\nIf Roller Shutter Triggers has already been researched, increase attack speed by 10% and health by +10 instead.",
+      "descriptionCN": "扭力弩炮攻击速度 +35%，远程抗性 +10%，生命值 +10。\n如果已研究卷帘式触发器，则攻击速度 +10%，生命值 +10。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -4023,6 +4145,7 @@
       "baseId": "serpentine-powder",
       "type": "technology",
       "name": "Serpentine Powder",
+      "nameCN": "蛇纹石粉末",
       "pbgid": 9000626,
       "attribName": "upgrade_ranged_leadshot_mon",
       "age": 4,
@@ -4030,6 +4153,7 @@
         "mo"
       ],
       "description": "With new gunpowder, Handcannoneers gain +5 damage against melee infantry and gain a brief increase to their movement speed after firing their weapon.",
+      "descriptionCN": "使用新型火药，火枪兵对近战步兵的伤害 +5，并在武器开火后短暂提高移动速度。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -4063,6 +4187,7 @@
       "baseId": "shaft-mining",
       "type": "technology",
       "name": "Shaft Mining",
+      "nameCN": "竖井开采",
       "pbgid": 2032215,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_3_mon",
       "age": 3,
@@ -4070,6 +4195,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -4104,6 +4230,7 @@
       "baseId": "shipwrights",
       "type": "technology",
       "name": "Shipwrights",
+      "nameCN": "造船工",
       "pbgid": 2101643,
       "attribName": "upgrade_naval_shipwrights",
       "age": 4,
@@ -4111,6 +4238,7 @@
         "mo"
       ],
       "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+      "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4187,6 +4315,7 @@
       "baseId": "siege-engineering",
       "type": "technology",
       "name": "Siege Engineering",
+      "nameCN": "攻城工程学",
       "pbgid": 127860,
       "attribName": "upgrade_siege_engineers",
       "age": 2,
@@ -4194,6 +4323,7 @@
         "mo"
       ],
       "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field.",
+      "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
       "classes": [
         "byzantine_upgrade",
         "chinese_ha_01_upgrade",
@@ -4255,6 +4385,7 @@
       "baseId": "siege-engineering-improved",
       "type": "technology",
       "name": "Siege Engineering (Improved)",
+      "nameCN": "攻城工程学 (已强化)",
       "pbgid": 177939,
       "attribName": "upgrade_improved_siege_engineers_mon",
       "age": 2,
@@ -4262,6 +4393,7 @@
         "mo"
       ],
       "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field. Improved Siege Engineering allows for the construction of Mangonels, Springalds and Trebuchets as well.",
+      "descriptionCN": "近战和远程步兵可在战场上建造攻城塔和攻城锤。强化攻城工程学还能让这些单位建造轻型投石车、扭力弩炮和巨型投石机。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -4310,6 +4442,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 184768,
       "attribName": "upgrade_siege_works_mon",
       "age": 4,
@@ -4317,6 +4450,7 @@
         "mo"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -4364,6 +4498,7 @@
       "baseId": "siege-works-improved",
       "type": "technology",
       "name": "Siege Works (Improved)",
+      "nameCN": "攻城武器 (已强化)",
       "pbgid": 184769,
       "attribName": "upgrade_siege_works_improved_mon",
       "age": 4,
@@ -4371,6 +4506,7 @@
         "mo"
       ],
       "description": "New carpentry techniques increase the health of siege engines by +30%.\nIf Siege Works has already been researched, increase their health by +10% instead.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +30%。\n如果已完成攻城武器研究，则其生命值 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -4419,6 +4555,7 @@
       "baseId": "siha-bow-limbs",
       "type": "technology",
       "name": "Siha Bow Limbs",
+      "nameCN": "西哈弓臂",
       "pbgid": 205553,
       "attribName": "upgrade_mangudai_weapon_damage_mon",
       "age": 4,
@@ -4426,6 +4563,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of Mangudai and the Khan by +1.",
+      "descriptionCN": "蒙古突骑和汗的远程伤害 +1。",
       "classes": [
         "mongol_upgrade",
         "scar_imperial_age_upgrade",
@@ -4472,6 +4610,7 @@
       "baseId": "siha-bow-limbs-improved",
       "type": "technology",
       "name": "Siha Bow Limbs (Improved)",
+      "nameCN": "西哈弓臂 (已强化)",
       "pbgid": 205803,
       "attribName": "upgrade_mangudai_weapon_damage_improved_mon",
       "age": 4,
@@ -4479,6 +4618,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of Mangudai and the Khan by +2.\nIf Siha Bow Limbs has already been researched, increase the ranged damage of Mangudai and the Khan by +1.",
+      "descriptionCN": "蒙古突骑和汗的远程伤害 +2。\n如果已完成西哈弓臂研究，则蒙古突骑和汗的远程伤害 +1。",
       "classes": [
         "mongol_upgrade",
         "scar_imperial_age_upgrade",
@@ -4526,6 +4666,7 @@
       "baseId": "silk-bowstrings",
       "type": "technology",
       "name": "Silk Bowstrings",
+      "nameCN": "蚕丝弓弦",
       "pbgid": 9000625,
       "attribName": "upgrade_ranged_archer_silkstring_mon",
       "age": 4,
@@ -4533,6 +4674,7 @@
         "mo"
       ],
       "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
+      "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1.5，使骑射手的射程 +0.75。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -4567,6 +4709,7 @@
       "baseId": "specialized-pick",
       "type": "technology",
       "name": "Specialized Pick",
+      "nameCN": "特制矿锄",
       "pbgid": 2032216,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_mon",
       "age": 2,
@@ -4574,6 +4717,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 15%.",
+      "descriptionCN": "村民的黄金采集速率提升 15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -4631,6 +4775,7 @@
       "baseId": "specialized-pick-improved",
       "type": "technology",
       "name": "Specialized Pick (Improved)",
+      "nameCN": "特制矿锄 (已强化)",
       "pbgid": 171825,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_2_improved_mon",
       "age": 2,
@@ -4638,6 +4783,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Gold by 35%.\nIf Specialized Pick has already been researched, increase it by 20% instead.",
+      "descriptionCN": "村民的黄金采集速率提升 35%。\n如果已完成特制矿锄研究，则提升 20%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -4696,6 +4842,7 @@
       "baseId": "springald-crews",
       "type": "technology",
       "name": "Springald Crews",
+      "nameCN": "扭力弩炮队",
       "pbgid": 2101638,
       "attribName": "upgrade_naval_springald_ship_upgrade_1",
       "age": 3,
@@ -4703,6 +4850,7 @@
         "mo"
       ],
       "description": "Springald Ships gain +1 range and attack 20% faster.",
+      "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4781,6 +4929,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 186399,
       "attribName": "upgrade_outpost_springald_mon",
       "age": 3,
@@ -4788,6 +4937,7 @@
         "mo"
       ],
       "description": "Add a defensive springald emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -4839,6 +4989,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -4846,6 +4997,7 @@
         "mo"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -4903,6 +5055,7 @@
       "baseId": "steeled-arrow",
       "type": "technology",
       "name": "Steeled Arrow",
+      "nameCN": "钢制箭头",
       "pbgid": 188269,
       "attribName": "upgrade_ranged_damage_i",
       "age": 2,
@@ -4910,6 +5063,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -4994,6 +5148,7 @@
       "baseId": "steppe-lancers",
       "type": "technology",
       "name": "Steppe Lancers",
+      "nameCN": "草原长矛骑兵",
       "pbgid": 2137100,
       "attribName": "upgrade_lancer_healing_mon",
       "age": 3,
@@ -5001,6 +5156,7 @@
         "mo"
       ],
       "description": "Increase Keshik healing by +1 Health per attack and attack speed by +10%.",
+      "descriptionCN": "每次攻击怯薛骑兵恢复的生命值提升 +1，攻击速度增加 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",
@@ -5056,6 +5212,7 @@
       "baseId": "steppe-lancers-improved",
       "type": "technology",
       "name": "Steppe Lancers (Improved)",
+      "nameCN": "草原长矛骑兵 (已强化)",
       "pbgid": 2137099,
       "attribName": "upgrade_lancer_healing_improved_mon",
       "age": 4,
@@ -5063,6 +5220,7 @@
         "mo"
       ],
       "description": "Increase Keshik healing by +2 Health per attack and attack speed by +20%.\nIf Steppe Lancers has already been researched, increase Keshik healing by +1 Health per attack and attack speed by +10%.",
+      "descriptionCN": "每次攻击怯薛骑兵恢复的生命值提升 +2，攻击速度增加 +20%。\n如果已完成草原长矛骑兵研究，每次攻击怯薛骑兵恢复的生命值提升 +1，攻击速度增加 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_imperial_age_upgrade",
@@ -5119,6 +5277,7 @@
       "baseId": "stone-bounty",
       "type": "technology",
       "name": "Stone Bounty",
+      "nameCN": "石料赏金",
       "pbgid": 205555,
       "attribName": "upgrade_raid_stone_bounty_mon",
       "age": 4,
@@ -5126,6 +5285,7 @@
         "mo"
       ],
       "description": "Add +50 Stone to the raid income for igniting a building.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +50 石料。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -5176,6 +5336,7 @@
       "baseId": "stone-bounty-improved",
       "type": "technology",
       "name": "Stone Bounty (Improved)",
+      "nameCN": "石料赏金 (已强化)",
       "pbgid": 205808,
       "attribName": "upgrade_raid_stone_bounty_improved_mon",
       "age": 4,
@@ -5183,6 +5344,7 @@
         "mo"
       ],
       "description": "Add +75 Stone to the raid income for igniting a building.\nIf Stone Bounty has already been researched, add +25 Stone to the raid income for igniting a building.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +75 石料。\n如果已完成石料赏金研究，则点燃建筑带来的突袭收入 +25 石料。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -5234,6 +5396,7 @@
       "baseId": "stone-commerce",
       "type": "technology",
       "name": "Stone Commerce",
+      "nameCN": "石料商业",
       "pbgid": 205556,
       "attribName": "upgrade_trader_silkroad_stone_mon",
       "age": 4,
@@ -5241,6 +5404,7 @@
         "mo"
       ],
       "description": "Traders supply +10% Stone to their trades.",
+      "descriptionCN": "商人交易时供应的石料 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -5287,6 +5451,7 @@
       "baseId": "stone-commerce-improved",
       "type": "technology",
       "name": "Stone Commerce (Improved)",
+      "nameCN": "石料商业 (已强化)",
       "pbgid": 205810,
       "attribName": "upgrade_trader_silkroad_stone_improved_mon",
       "age": 4,
@@ -5294,6 +5459,7 @@
         "mo"
       ],
       "description": "Traders supply +20% Stone to their trades.\nIf Stone Commerce has already been researched, supply +10% Stone instead.",
+      "descriptionCN": "商人在交易时供应的石料 +20%。\n如果已完成石料商业研究，则供应的石料 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -5341,6 +5507,7 @@
       "baseId": "superior-mobility",
       "type": "technology",
       "name": "Superior Mobility",
+      "nameCN": "卓越机动性",
       "pbgid": 178718,
       "attribName": "upgrade_unit_town_center_faster_packing_1_mon",
       "age": 1,
@@ -5348,6 +5515,7 @@
         "mo"
       ],
       "description": "Packed buildings move and pack/unpack 50% faster.",
+      "descriptionCN": "组装建筑的移动和组装/拆装速度提高 50%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5381,6 +5549,7 @@
       "baseId": "superior-mobility-improved",
       "type": "technology",
       "name": "Superior Mobility (Improved)",
+      "nameCN": "卓越机动性 (已强化)",
       "pbgid": 9000088,
       "attribName": "upgrade_unit_town_center_faster_packing_1_improved_mon",
       "age": 2,
@@ -5388,6 +5557,7 @@
         "mo"
       ],
       "description": "Packed buildings move +70% faster and pack/unpack +50% faster.\nIf Superior Mobility has already been researched, increase speed by +20% instead.",
+      "descriptionCN": "收起的建筑移动速度 +70%，收起/展开的速度 +50%。\n如果已经研究过卓越机动性，则速度会 +20%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5422,6 +5592,7 @@
       "baseId": "survival-techniques",
       "type": "technology",
       "name": "Survival Techniques",
+      "nameCN": "生存技术",
       "pbgid": 205917,
       "attribName": "upgrade_econ_villager_hunting_gear_1_mon",
       "age": 1,
@@ -5429,6 +5600,7 @@
         "mo"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +15%.",
+      "descriptionCN": "村民狩猎肉类采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5475,6 +5647,7 @@
       "baseId": "survival-techniques-improved",
       "type": "technology",
       "name": "Survival Techniques (Improved)",
+      "nameCN": "生存技术 (已强化)",
       "pbgid": 203469,
       "attribName": "upgrade_econ_villager_hunting_gear_1_improved_mon",
       "age": 1,
@@ -5482,6 +5655,7 @@
         "mo"
       ],
       "description": "Increase Villagers' hunted meat gather rate by +25%.\nIf Survival Techniques has already been researched, increase hunted meat gather rate by +10% instead.",
+      "descriptionCN": "村民狩猎肉类采集速率 +25%。\n如果已完成生存技术研究，则村民狩猎肉类采集速率 +10%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5529,6 +5703,7 @@
       "baseId": "swivel-cannon",
       "type": "technology",
       "name": "Swivel Cannon",
+      "nameCN": "旋转加农炮",
       "pbgid": 2101653,
       "attribName": "upgrade_naval_swivel_cannon",
       "age": 4,
@@ -5536,6 +5711,7 @@
         "mo"
       ],
       "description": "Springald Ships gain an additional Cannon which fires in 360 degrees.",
+      "descriptionCN": "扭力弩炮船获得了一门额外的加农炮，可以 360 度射击。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -5600,6 +5776,7 @@
       "baseId": "textiles",
       "type": "technology",
       "name": "Textiles",
+      "nameCN": "纺织品",
       "pbgid": 2045367,
       "attribName": "upgrade_villager_health",
       "age": 2,
@@ -5607,6 +5784,7 @@
         "mo"
       ],
       "description": "Increase Villagers' health by +50%.",
+      "descriptionCN": "村民生命值 +50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -5670,6 +5848,7 @@
       "baseId": "textiles-improved",
       "type": "technology",
       "name": "Textiles (Improved)",
+      "nameCN": "纺织品 (已强化)",
       "pbgid": 2062167,
       "attribName": "upgrade_villager_health_improved_mon",
       "age": 3,
@@ -5677,6 +5856,7 @@
         "mo"
       ],
       "description": "Increase Villagers' health by +50%.\nIf Textiles has already been researched, increase health by +100% instead.",
+      "descriptionCN": "村民生命值 +50%。\n如果已完成纺织品研究，则生命值 +100%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -5724,6 +5904,7 @@
       "baseId": "tithe-barns",
       "type": "technology",
       "name": "Tithe Barns",
+      "nameCN": "什一税仓库",
       "pbgid": 184823,
       "attribName": "upgrade_unit_religious_tithe_barn_4_mon",
       "age": 4,
@@ -5731,6 +5912,7 @@
         "mo"
       ],
       "description": "Relics placed in a Prayer Tent provide an income of +40 Food, +40 Wood, and +10 Stone every minute.",
+      "descriptionCN": "放置在祈祷帐篷的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5807,6 +5989,7 @@
       "baseId": "tithe-barns-improved",
       "type": "technology",
       "name": "Tithe Barns (Improved)",
+      "nameCN": "什一税仓库 (已强化)",
       "pbgid": 173571,
       "attribName": "upgrade_unit_religious_tithe_barn_4_improved_mon",
       "age": 4,
@@ -5814,6 +5997,7 @@
         "mo"
       ],
       "description": "Relics placed in a Prayer Tent provide an income of +60 Food, +60 Wood, and +15 Stone every minute.\nIf Tithe Barns has already been researched, increase the income of Food and Wood by +20 and Stone by +5 instead.",
+      "descriptionCN": "放置在祈祷帐篷里的圣物每分钟会提供 +60 食物、+60 木材和 +15 石料收入。\n如果已完成什一税仓库研究，则食物和木材收入分别 +20，石料收入 +5。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -5890,6 +6074,7 @@
       "baseId": "wedge-rivets",
       "type": "technology",
       "name": "Wedge Rivets",
+      "nameCN": "楔形铆钉",
       "pbgid": 188267,
       "attribName": "upgrade_ranged_armor_ii",
       "age": 3,
@@ -5897,6 +6082,7 @@
         "mo"
       ],
       "description": "Increase the ranged armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的远程护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -5972,6 +6158,7 @@
       "baseId": "wheelbarrow",
       "type": "technology",
       "name": "Wheelbarrow",
+      "nameCN": "独轮推车",
       "pbgid": 205916,
       "attribName": "upgrade_unit_town_center_wheelbarrow_1_mon",
       "age": 1,
@@ -5979,6 +6166,7 @@
         "mo"
       ],
       "description": "Increase the carry capacity of Villagers by +5 and their movement speed by +15%.",
+      "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -6035,6 +6223,7 @@
       "baseId": "wheelbarrow-improved",
       "type": "technology",
       "name": "Wheelbarrow (Improved)",
+      "nameCN": "独轮推车 (已强化)",
       "pbgid": 169038,
       "attribName": "upgrade_unit_wheelbarrow_1_improved_mon",
       "age": 1,
@@ -6042,6 +6231,7 @@
         "mo"
       ],
       "description": "Increase Villagers' resource carry capacity by +9 and movement speed by +15%.\nIf Wheelbarrow has already been researched, increase carry capacity by +4 instead.",
+      "descriptionCN": "村民的资源运载量 +9，移动速度 +15%。\n如果已完成独轮推车研究，则资源运载量 +4。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -6089,6 +6279,7 @@
       "baseId": "whistling-arrows",
       "type": "technology",
       "name": "Whistling Arrows",
+      "nameCN": "镝矢",
       "pbgid": 205551,
       "attribName": "upgrade_khan_signal_arrow_mon",
       "age": 1,
@@ -6096,6 +6287,7 @@
         "mo"
       ],
       "description": "Increase the Khan's Signal Arrow duration by +5 seconds and range by +2 tiles.",
+      "descriptionCN": "汗的信号箭持续时间 +5 秒，且攻击范围 +2 格。",
       "classes": [
         "mongol_upgrade",
         "scar_feudal_age_upgrade",
@@ -6141,6 +6333,7 @@
       "baseId": "whistling-arrows-improved",
       "type": "technology",
       "name": "Whistling Arrows (Improved)",
+      "nameCN": "镝矢 (已强化)",
       "pbgid": 205802,
       "attribName": "upgrade_khan_signal_arrow_improved_mon",
       "age": 2,
@@ -6148,6 +6341,7 @@
         "mo"
       ],
       "description": "Increase the Khan's Signal Arrow duration by +7 seconds and range by +3 tiles.\nIf Whistling Arrows has already been researched, increase the Khan's Signal Arrow duration by +2 seconds and range by +1 tile.",
+      "descriptionCN": "汗的信号箭持续时间 +7 秒，且攻击范围 +3 格。\n如果已完成镝矢研究，则汗的信号箭持续时间 +2 秒，且攻击范围 +1 格。",
       "classes": [
         "mongol_upgrade",
         "scar_feudal_age_upgrade",
@@ -6194,6 +6388,7 @@
       "baseId": "yam-network",
       "type": "technology",
       "name": "Yam Network",
+      "nameCN": "驿站网络",
       "pbgid": 205554,
       "attribName": "upgrade_ortoo_all_units_mon",
       "age": 3,
@@ -6201,6 +6396,7 @@
         "mo"
       ],
       "description": "Yam speed aura applies to all units instead of just Traders and cavalry units. Does not apply to siege engines.",
+      "descriptionCN": "所有单位都可获得驿站速度光环效果，而非仅限商人和骑兵单位。此效果不适用于攻城器械。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",
@@ -6250,6 +6446,7 @@
       "baseId": "yam-network-improved",
       "type": "technology",
       "name": "Yam Network (Improved)",
+      "nameCN": "驿站网络 (已强化)",
       "pbgid": 2129166,
       "attribName": "upgrade_ortoo_all_units_improved_mon",
       "age": 4,
@@ -6257,6 +6454,7 @@
         "mo"
       ],
       "description": "Yam speed aura applies to all units instead of just Traders and cavalry units. Does not apply to siege engines.\nImproved Yam Network allows Traders to regenerate 1 health every 2 seconds while in Yam's aura.",
+      "descriptionCN": "所有单位都可获得驿站速度光环效果，而非仅限商人和骑兵单位。此效果不适用于攻城器械。\n强化驿站网络可令位于驿站光环下的商人每 2 秒可恢复 1 生命值。",
       "classes": [
         "mongol_upgrade",
         "scar_imperial_age_upgrade",

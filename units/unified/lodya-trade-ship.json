@@ -33,6 +33,7 @@
       "baseId": "lodya-trade-ship",
       "type": "unit",
       "name": "Lodya Trade Ship",
+      "nameCN": "罗德亚商船",
       "pbgid": 196686,
       "attribName": "unit_naval_trade_ship_3_rus",
       "age": 2,
@@ -40,6 +41,7 @@
         "ru"
       ],
       "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\nThe Lodya can be converted to any other type of ship.",
+      "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n罗德亚可以转换为任何其他船型。",
       "classes": [
         "annihilation_condition",
         "lodya_ship",

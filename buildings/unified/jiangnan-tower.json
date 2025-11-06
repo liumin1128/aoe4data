@@ -32,6 +32,7 @@
       "baseId": "jiangnan-tower",
       "type": "building",
       "name": "Jiangnan Tower",
+      "nameCN": "江南塔",
       "pbgid": 4715934,
       "attribName": "building_landmark_age1_prefecture_chi_ha_01",
       "age": 2,
@@ -39,6 +40,7 @@
         "zx"
       ],
       "description": "Acts as a tax drop-off for Imperial Officials.\nReceive a free unit at the tower whenever a Barracks, Archery Range, or Stable is completed. Receive a free Villager whenever a Town Center is completed.",
+      "descriptionCN": "可作为朝廷命官的税金存放使用。\n兵营、靶场或马厩建成时可免费在塔楼处获得一个单位。城镇中心建成时可获得一名免费村民。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",

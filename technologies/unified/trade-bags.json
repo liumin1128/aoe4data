@@ -26,6 +26,7 @@
       "baseId": "trade-bags",
       "type": "technology",
       "name": "Trade Bags",
+      "nameCN": "交易袋",
       "pbgid": 2059610,
       "attribName": "upgrade_imperial_trader_capacity_ott",
       "age": 1,
@@ -33,6 +34,7 @@
         "ot"
       ],
       "description": "Increase the amount of Gold Traders collect and Income from the Sultanhani Trade Network by +40%.",
+      "descriptionCN": "商人从苏丹哈尼驿站贸易网络收集及获得的黄金量增加 +40%。",
       "classes": [
         "economic_upgrade",
         "ottoman_upgrade",

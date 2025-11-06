@@ -38,6 +38,7 @@
       "baseId": "baghlah",
       "type": "unit",
       "name": "Baghlah",
+      "nameCN": "巴格拉战船",
       "pbgid": 199725,
       "attribName": "unit_naval_combat_ship_2_abb",
       "age": 2,
@@ -45,6 +46,7 @@
         "ab"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",
@@ -157,6 +159,7 @@
       "baseId": "baghlah",
       "type": "unit",
       "name": "Baghlah",
+      "nameCN": "巴格拉战船",
       "pbgid": 7784420,
       "attribName": "unit_naval_combat_ship_2_abb_ha_01",
       "age": 2,
@@ -164,6 +167,7 @@
         "ay"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",
@@ -276,6 +280,7 @@
       "baseId": "baghlah",
       "type": "unit",
       "name": "Baghlah",
+      "nameCN": "巴格拉战船",
       "pbgid": 193139,
       "attribName": "unit_naval_combat_ship_2_sul",
       "age": 2,
@@ -283,6 +288,7 @@
         "de"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",
@@ -395,6 +401,7 @@
       "baseId": "baghlah",
       "type": "unit",
       "name": "Baghlah",
+      "nameCN": "巴格拉战船",
       "pbgid": 6924057,
       "attribName": "unit_naval_combat_ship_2_sul_ha_tug",
       "age": 2,
@@ -402,6 +409,7 @@
         "tug"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",

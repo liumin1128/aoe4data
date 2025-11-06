@@ -31,6 +31,7 @@
       "baseId": "clocktower-springald",
       "type": "unit",
       "name": "Clocktower Springald",
+      "nameCN": "钟楼扭力弩炮",
       "pbgid": 206828,
       "attribName": "unit_springald_3_clocktower_chi",
       "age": 3,
@@ -38,6 +39,7 @@
         "ch"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "elite",

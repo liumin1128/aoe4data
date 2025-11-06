@@ -32,6 +32,7 @@
       "baseId": "scholar",
       "type": "unit",
       "name": "Scholar",
+      "nameCN": "学者",
       "pbgid": 136056,
       "attribName": "unit_monk_2_sul",
       "age": 2,
@@ -39,6 +40,7 @@
         "de"
       ],
       "description": "Support unit with no combat capability. Can be garrisoned in a Mosque or Madrasa to research technology more quickly. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+      "descriptionCN": "不具备战斗能力的辅助单位。可以驻扎于清真寺或穆斯林学塾，以加快科技的研究速度。从城堡时代 (第三时代) 开始可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值低",
       "classes": [
         "annihilation_condition",
         "carrier",

@@ -21,6 +21,7 @@
       "baseId": "unlock-stockyard-edict",
       "type": "technology",
       "name": "Unlock Stockyard Edict",
+      "nameCN": "解锁牲畜围栏法令",
       "pbgid": 9003890,
       "attribName": "upgrade_edict_stockyard_mon_ha_gol",
       "age": 1,
@@ -28,6 +29,7 @@
         "gol"
       ],
       "description": "When the Stockyard Edict is active Stockyards within the influence of a Fortified Outpost generate Gold while being worked.",
+      "descriptionCN": "启用牲畜围栏法令后，强化哨站影响范围内的牲畜围栏在被使用时会生产黄金。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"

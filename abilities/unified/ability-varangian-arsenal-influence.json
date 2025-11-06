@@ -18,6 +18,7 @@
       "baseId": "ability-varangian-arsenal-influence",
       "type": "ability",
       "name": "Varangian Arsenal Influence",
+      "nameCN": "瓦兰吉兵工厂影响力",
       "pbgid": 9004485,
       "attribName": "silver_influence_byz_ha_mac",
       "age": 1,
@@ -25,6 +26,7 @@
         "mac"
       ],
       "description": "Supports nearby Mining Camps and Town Centers with passive Silver generation. The amount processed equals to 12% of the total amount of Silver dropped off at that mine.",
+      "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

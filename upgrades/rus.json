@@ -16,6 +16,7 @@
       "baseId": "elite-archers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 125895,
       "attribName": "upgrade_unit_archer_4",
       "age": 4,
@@ -23,6 +24,7 @@
         "ru"
       ],
       "description": "Upgrade Veteran Archers to Elite Archers.",
+      "descriptionCN": "将老练步弓手升级为精锐步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -67,6 +69,7 @@
       "baseId": "elite-crossbowmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124651,
       "attribName": "upgrade_unit_crossbowman_4",
       "age": 4,
@@ -74,6 +77,7 @@
         "ru"
       ],
       "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+      "descriptionCN": "将弩手升级为精锐弩手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -116,6 +120,7 @@
       "baseId": "elite-horse-archers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 133501,
       "attribName": "upgrade_unit_horsearcher_4_rus",
       "age": 4,
@@ -123,6 +128,7 @@
         "ru"
       ],
       "description": "Upgrade Horse Archers to Elite Horse Archers.",
+      "descriptionCN": "将骑射手升级为精锐骑射手。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",
@@ -156,6 +162,7 @@
       "baseId": "elite-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124725,
       "attribName": "upgrade_unit_horseman_4",
       "age": 4,
@@ -163,6 +170,7 @@
         "ru"
       ],
       "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+      "descriptionCN": "将老练骑手升级为精锐骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -209,6 +217,7 @@
       "baseId": "elite-knights",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 133503,
       "attribName": "upgrade_unit_knight_4_rus",
       "age": 4,
@@ -216,6 +225,7 @@
         "ru"
       ],
       "description": "Upgrade Knights to Elite Knights.",
+      "descriptionCN": "将骑士升级为精锐骑士。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",
@@ -249,6 +259,7 @@
       "baseId": "elite-men-at-arms",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124660,
       "attribName": "upgrade_unit_manatarms_4",
       "age": 4,
@@ -256,6 +267,7 @@
         "ru"
       ],
       "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+      "descriptionCN": "将武士升级为精锐武士。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "ayyubid_cmp_upgrade",
@@ -294,6 +306,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -301,6 +314,7 @@
         "ru"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -346,6 +360,7 @@
       "baseId": "hardened-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 127174,
       "attribName": "upgrade_unit_spearman_2",
       "age": 2,
@@ -353,6 +368,7 @@
         "ru"
       ],
       "description": "Upgrade Spearmen to Hardened Spearmen.",
+      "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -398,6 +414,7 @@
       "baseId": "knights",
       "type": "upgrade",
       "name": "Upgrade to Knight",
+      "nameCN": "升级为骑士",
       "pbgid": 133502,
       "attribName": "upgrade_unit_knight_3_rus",
       "age": 3,
@@ -405,6 +422,7 @@
         "ru"
       ],
       "description": "Upgrade Early Knights to Knights.",
+      "descriptionCN": "将早期骑士升级为骑士。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",
@@ -438,6 +456,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -445,6 +464,7 @@
         "ru"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -489,6 +509,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -496,6 +517,7 @@
         "ru"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -542,6 +564,7 @@
       "baseId": "veteran-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124662,
       "attribName": "upgrade_unit_spearman_3",
       "age": 3,
@@ -549,6 +572,7 @@
         "ru"
       ],
       "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+      "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

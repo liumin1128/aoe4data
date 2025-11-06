@@ -27,6 +27,7 @@
       "baseId": "boyars-fortitude",
       "type": "technology",
       "name": "Boyar's Fortitude",
+      "nameCN": "贵族铁骑的坚毅",
       "pbgid": 182860,
       "attribName": "upgrade_cavalry_hp_rus",
       "age": 3,
@@ -34,6 +35,7 @@
         "ru"
       ],
       "description": "Increase the health of Rus cavalry by +25.",
+      "descriptionCN": "罗斯骑兵的生命值 +25。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

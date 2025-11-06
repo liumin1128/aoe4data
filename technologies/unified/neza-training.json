@@ -27,6 +27,7 @@
       "baseId": "neza-training",
       "type": "technology",
       "name": "Neza Training",
+      "nameCN": "内扎兵训练",
       "pbgid": 9004782,
       "attribName": "upgrade_improved_spearman_sul_ha_tug",
       "age": 3,
@@ -34,6 +35,7 @@
         "tug"
       ],
       "description": "Spearman damage against cavalry increased by 35% and production speed increased by 50%.",
+      "descriptionCN": "长矛兵对骑兵造成的伤害 +35%，生产速度 +50%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",

@@ -64,6 +64,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -133,6 +135,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -140,6 +143,7 @@
         "ay"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -202,6 +206,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -209,6 +214,7 @@
         "by"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -271,6 +277,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -278,6 +285,7 @@
         "ch"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -340,6 +348,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 182085,
       "attribName": "upgrade_siege_works_sul",
       "age": 4,
@@ -347,6 +356,7 @@
         "de"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -395,6 +405,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -402,6 +413,7 @@
         "en"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -464,6 +476,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -471,6 +484,7 @@
         "fr"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -533,6 +547,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 9003025,
       "attribName": "upgrade_siege_works_mon_ha_gol",
       "age": 4,
@@ -540,6 +555,7 @@
         "gol"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -601,6 +617,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -608,6 +625,7 @@
         "hr"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -670,6 +688,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -677,6 +696,7 @@
         "hl"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -739,6 +759,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -746,6 +767,7 @@
         "ja"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -808,6 +830,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -815,6 +838,7 @@
         "je"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -877,6 +901,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -884,6 +909,7 @@
         "kt"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -946,6 +972,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -953,6 +980,7 @@
         "ma"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1015,6 +1043,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 184768,
       "attribName": "upgrade_siege_works_mon",
       "age": 4,
@@ -1022,6 +1051,7 @@
         "mo"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1069,6 +1099,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -1076,6 +1107,7 @@
         "od"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1138,6 +1170,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -1145,6 +1178,7 @@
         "ot"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1208,6 +1242,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -1215,6 +1250,7 @@
         "ru"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1277,6 +1313,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -1284,6 +1321,7 @@
         "sen"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1346,6 +1384,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 5749321,
       "attribName": "upgrade_siege_works_sul_ha_tug",
       "age": 4,
@@ -1353,6 +1392,7 @@
         "tug"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1401,6 +1441,7 @@
       "baseId": "siege-works",
       "type": "technology",
       "name": "Siege Works",
+      "nameCN": "攻城武器",
       "pbgid": 127859,
       "attribName": "upgrade_siege_works",
       "age": 4,
@@ -1408,6 +1449,7 @@
         "zx"
       ],
       "description": "New carpentry techniques increase the health of siege units by +20%.",
+      "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

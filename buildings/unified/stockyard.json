@@ -29,6 +29,7 @@
       "baseId": "stockyard",
       "type": "building",
       "name": "Stockyard",
+      "nameCN": "牲畜围栏",
       "pbgid": 9001697,
       "attribName": "building_resource_pasture_mon_ha_gol",
       "age": 1,
@@ -36,6 +37,7 @@
         "gol"
       ],
       "description": "Food drop off and harvestable Food source. Use a Villager to gather Food from the sheep carcasses.\nUp to four Villagers can work each Stockyard.",
+      "descriptionCN": "食物存放点以及可供采集的食物来源。派遣村民从此处的绵羊尸体上采集食物。\n每个牲畜围栏最多可容纳四名村民同时工作。",
       "classes": [
         "building",
         "farm",

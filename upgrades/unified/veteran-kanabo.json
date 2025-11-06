@@ -27,6 +27,7 @@
       "baseId": "veteran-kanabo",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 9001241,
       "attribName": "upgrade_unit_kanabo_3_jpn_ha_sen",
       "age": 3,
@@ -34,6 +35,7 @@
         "sen"
       ],
       "description": "Upgrade Kanabo to Veteran Kanabo",
+      "descriptionCN": "将金碎棒升级为老练金碎棒",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",

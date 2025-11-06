@@ -18,6 +18,7 @@
       "baseId": "ability-olive-harvest",
       "type": "ability",
       "name": "Olive Harvest",
+      "nameCN": "橄榄收获",
       "pbgid": 2146200,
       "attribName": "oil_farm_dropoff_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Villagers generate Olive Oil equal to 20% of Food gathered when farming.",
+      "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 20% 食物。",
       "classes": [],
       "displayClasses": [],
       "costs": {},

@@ -18,6 +18,7 @@
       "baseId": "ability-deflective-armor",
       "type": "ability",
       "name": "Deflective Armor",
+      "nameCN": "偏转护甲",
       "pbgid": 2127304,
       "attribName": "samurai_shield_jpn",
       "age": 1,
@@ -25,6 +26,7 @@
         "ja"
       ],
       "description": "Deflective Armor charge can block one melee or ranged attack. Recharges while out of combat for 8 seconds.",
+      "descriptionCN": "偏转护甲充能可以抵挡一次近战或远程攻击。脱离战斗 8 秒后可重新充能。",
       "classes": [],
       "displayClasses": [],
       "costs": {

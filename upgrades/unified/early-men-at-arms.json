@@ -27,6 +27,7 @@
       "baseId": "early-men-at-arms",
       "type": "upgrade",
       "name": "Upgrade to Early",
+      "nameCN": "升级为早期",
       "pbgid": 131032,
       "attribName": "upgrade_unit_manatarms_2_eng",
       "age": 2,
@@ -34,6 +35,7 @@
         "en"
       ],
       "description": "Upgrade Vanguard Men-at-Arms to Early Men-at-Arms.",
+      "descriptionCN": "将先锋武士升级为早期武士。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

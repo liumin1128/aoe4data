@@ -25,6 +25,7 @@
       "baseId": "upgrade-shinobi-3",
       "type": "technology",
       "name": "Castle Age Shinobi",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2140388,
       "attribName": "upgrade_unit_shinobi_3",
       "age": 3,
@@ -32,6 +33,7 @@
         "ja"
       ],
       "description": "Increases the health and damage of Shinobi when reaching Castle Age.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [
         "shinobi",
         "scaling",

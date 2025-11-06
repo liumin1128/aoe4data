@@ -28,6 +28,7 @@
       "baseId": "odachi",
       "type": "technology",
       "name": "Odachi",
+      "nameCN": "大太刀",
       "pbgid": 2127556,
       "attribName": "upgrade_odachi_jpn",
       "age": 3,
@@ -35,6 +36,7 @@
         "ja"
       ],
       "description": "Equip Samurai with an Odachi, a long sword that deals +4 bonus damage against infantry.",
+      "descriptionCN": "为日本武士装备一把大太刀，这是一把长剑，会对步兵造成 +4 的额外伤害。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

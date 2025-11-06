@@ -27,6 +27,7 @@
       "baseId": "veteran-limitanei",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2146685,
       "attribName": "upgrade_unit_spearman_3_byz",
       "age": 3,
@@ -34,6 +35,7 @@
         "by"
       ],
       "description": "Upgrade Hardened Limitanei to Veteran Limitanei",
+      "descriptionCN": "将坚韧边防军升级为老练边防军",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

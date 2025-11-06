@@ -29,6 +29,7 @@
           "baseId": "ability-akritoi-defense",
           "type": "ability",
           "name": "Akritoi Defense",
+          "nameCN": "边防部队防御",
           "pbgid": 2146135,
           "attribName": "landmark_activate_akritoi_byz",
           "age": 1,
@@ -36,6 +37,7 @@
             "by"
           ],
           "description": "Arm nearby Villagers with stronger weapons and increase their armor by +2 for 30 seconds.\n+1 damage in Dark Age\n+1 damage in Feudal Age\n+1 damage in Castle Age\n+2 damage in Imperial Age",
+          "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -107,6 +109,7 @@
           "baseId": "ability-artillery-shot",
           "type": "ability",
           "name": "Artillery Shot",
+          "nameCN": "火炮射击",
           "pbgid": 2122116,
           "attribName": "cannon_swap_fre",
           "age": 1,
@@ -114,6 +117,7 @@
             "by"
           ],
           "description": "Loads this Cannon with an Artillery Shot that has an increased range of 5 tiles and 30% more damage.\nCan only target buildings.",
+          "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -169,6 +173,7 @@
           "baseId": "ability-automatic-pilgrim-flask",
           "type": "ability",
           "name": "Automatic Pilgrim Flask",
+          "nameCN": "自动使用朝圣者之瓶饮水 (关闭)",
           "pbgid": 2146130,
           "attribName": "landmark_toggle_automatic_flask_byz",
           "age": 1,
@@ -176,6 +181,7 @@
             "by"
           ],
           "description": "Toggle on to activate automatic drinking when low health, rapidly increasing health regeneration by 25 per second for 6 seconds.",
+          "descriptionCN": "切换为开启以激活低生命值时自动饮水功能，每秒恢复的生命值快速增加 25，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -245,6 +251,7 @@
           "baseId": "ability-berserking",
           "type": "ability",
           "name": "Berserking",
+          "nameCN": "狂战士",
           "pbgid": 2104590,
           "attribName": "varangian_berserk_byz",
           "age": 1,
@@ -252,6 +259,7 @@
             "by"
           ],
           "description": "Varangian Guard swap to their two-handed weapon and deal +6 damage for 30 seconds. Armor is reduced by -4.",
+          "descriptionCN": "瓦兰吉卫队换用他们的双手武器，可造成 +6 伤害，持续 30 秒。护甲防护 -4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -316,6 +324,7 @@
           "baseId": "ability-border-settlement",
           "type": "ability",
           "name": "Border Settlement",
+          "nameCN": "边境聚落",
           "pbgid": 2140943,
           "attribName": "border_settlement_byz",
           "age": 1,
@@ -323,6 +332,7 @@
             "by"
           ],
           "description": "Line of sight increased by 7 tiles.",
+          "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -378,6 +388,7 @@
           "baseId": "ability-conscriptio",
           "type": "ability",
           "name": "Conscriptio",
+          "nameCN": "征兵",
           "pbgid": 2146132,
           "attribName": "toggle_landmark_cistern_influence_2_byz",
           "age": 2,
@@ -385,6 +396,7 @@
             "by"
           ],
           "description": "Military unit production rate increased +20%/+40%/+60%/+80%/+100% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，军事单位生产速率将按水位 +20%/+40%/+60%/+80%/+100%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -445,6 +457,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -452,6 +465,7 @@
             "by"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -512,6 +526,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -519,6 +534,7 @@
             "by"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -572,6 +588,7 @@
           "baseId": "ability-dialecticus",
           "type": "ability",
           "name": "Dialecticus",
+          "nameCN": "辩证法",
           "pbgid": 2146133,
           "attribName": "toggle_landmark_cistern_influence_3_byz",
           "age": 3,
@@ -579,6 +596,7 @@
             "by"
           ],
           "description": "Research rate increased +30%/+60%/+90%/+120%/+150% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -638,6 +656,7 @@
           "baseId": "ability-emperors-guard",
           "type": "ability",
           "name": "Emperor's Guard",
+          "nameCN": "皇帝的护卫",
           "pbgid": 2121939,
           "attribName": "varangian_landmark_armor_aura_byz",
           "age": 1,
@@ -645,6 +664,7 @@
             "by"
           ],
           "description": "Armor increased by +3 while near allied Wonders.",
+          "descriptionCN": "盟军奇观附近护甲 +3。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -672,6 +692,7 @@
           "baseId": "ability-field-stones",
           "type": "ability",
           "name": "Field Stones",
+          "nameCN": "野外石料",
           "pbgid": 2145743,
           "attribName": "field_stone_buff_info_byz",
           "age": 1,
@@ -679,6 +700,7 @@
             "by"
           ],
           "description": "Earn various amounts of Stone from every building constructed.",
+          "descriptionCN": "从建造的每种建筑获得各种石料量。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -729,6 +751,7 @@
           "baseId": "ability-improved-torch",
           "type": "ability",
           "name": "Improved Torch",
+          "nameCN": "强化火炬",
           "pbgid": 2121987,
           "attribName": "hippodrome_scout_torch_byz",
           "age": 1,
@@ -736,6 +759,7 @@
             "by"
           ],
           "description": "Torch damage improved by a nearby Scout.",
+          "descriptionCN": "附近的侦察兵强化了火炬伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -792,6 +816,7 @@
           "baseId": "ability-irrigated",
           "type": "ability",
           "name": "Irrigated",
+          "nameCN": "已灌溉",
           "pbgid": 2128567,
           "attribName": "cistern_influence_gathering_bonus_1_byz",
           "age": 1,
@@ -799,6 +824,7 @@
             "by"
           ],
           "description": "Villager gathering rate increased by 5/10/15/20/25% (depening on water level)",
+          "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -843,6 +869,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -850,6 +877,7 @@
             "by"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -905,6 +933,7 @@
           "baseId": "ability-naval-deployment",
           "type": "ability",
           "name": "Naval Deployment",
+          "nameCN": "海军部署",
           "pbgid": 2146720,
           "attribName": "naval_transport_movespeed_unload_byz",
           "age": 1,
@@ -912,6 +941,7 @@
             "by"
           ],
           "description": "Increased movement speed after unloading from a Transport Ship.",
+          "descriptionCN": "运输船在卸载后的移动速度加快。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -964,6 +994,7 @@
           "baseId": "ability-oil-commerce",
           "type": "ability",
           "name": "Oil Commerce",
+          "nameCN": "油商业",
           "pbgid": 2146205,
           "attribName": "oil_villager_fish_dropoff_byz",
           "age": 1,
@@ -971,6 +1002,7 @@
             "by"
           ],
           "description": "Traders provide +20% Olive Oil on trades.",
+          "descriptionCN": "村民产生的橄榄油相当于捕鱼时采集的 10% 食物。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -1011,6 +1043,7 @@
           "baseId": "ability-olive-harvest",
           "type": "ability",
           "name": "Olive Harvest",
+          "nameCN": "橄榄收获",
           "pbgid": 2146200,
           "attribName": "oil_farm_dropoff_byz",
           "age": 1,
@@ -1018,6 +1051,7 @@
             "by"
           ],
           "description": "Villagers generate Olive Oil equal to 20% of Food gathered when farming.",
+          "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 20% 食物。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -1045,6 +1079,7 @@
           "baseId": "ability-pilgrim-flask",
           "type": "ability",
           "name": "Pilgrim Flask",
+          "nameCN": "朝圣者之瓶",
           "pbgid": 2144175,
           "attribName": "pilgrim_flask_byz",
           "age": 1,
@@ -1052,6 +1087,7 @@
             "by"
           ],
           "description": "Activate to drink, rapidly increasing health regeneration by 25 per second for 6 seconds.",
+          "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1120,6 +1156,7 @@
           "baseId": "ability-place-palings",
           "type": "ability",
           "name": "Place Palings",
+          "nameCN": "放置拒马",
           "pbgid": 2025568,
           "attribName": "deploy_palings",
           "age": 1,
@@ -1127,6 +1164,7 @@
             "by"
           ],
           "description": "Enemy cavalry are stunned for 2.5 seconds and take 25 damage.",
+          "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1186,6 +1224,7 @@
           "baseId": "ability-praesidium",
           "type": "ability",
           "name": "Praesidium",
+          "nameCN": "委员会",
           "pbgid": 2146134,
           "attribName": "toggle_landmark_cistern_influence_4_byz",
           "age": 4,
@@ -1193,6 +1232,7 @@
             "by"
           ],
           "description": "Building damage taken decreased by -5%/-10%/-15%/-20%/-25% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1252,6 +1292,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -1259,6 +1300,7 @@
             "by"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1314,6 +1356,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -1321,6 +1364,7 @@
             "by"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1372,6 +1416,7 @@
           "baseId": "ability-shield-wall",
           "type": "ability",
           "name": "Shield Wall",
+          "nameCN": "盾墙",
           "pbgid": 2141378,
           "attribName": "toggle_spearman_shield_wall_on_byz",
           "age": 1,
@@ -1379,6 +1424,7 @@
             "by"
           ],
           "description": "Enter a defensive stance, decreasing move speed by -25%, attack speed by -25%, and ranged damage taken by -30%.",
+          "descriptionCN": "进入防御姿态，移动速度 -25%，攻击速度 -25%，以及受到的远程伤害 -30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1455,6 +1501,7 @@
           "baseId": "ability-synergistic-crops",
           "type": "ability",
           "name": "Synergistic Crops",
+          "nameCN": "协同作物",
           "pbgid": 2129926,
           "attribName": "winery_food_dropoff_imp_byz",
           "age": 1,
@@ -1462,6 +1509,7 @@
             "by"
           ],
           "description": "Farmers and Foragers generate +60% Olive Oil around the Grand Winery.",
+          "descriptionCN": "在大酒庄附近，农夫和浆果采集者产生的橄榄油 +60%。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -1504,6 +1552,7 @@
           "baseId": "ability-trample",
           "type": "ability",
           "name": "Trample",
+          "nameCN": "践踏",
           "pbgid": 2133600,
           "attribName": "cataphract_trample_byz",
           "age": 1,
@@ -1511,6 +1560,7 @@
             "by"
           ],
           "description": "Charge through enemy units in your path, dealing 12 damage to each one.",
+          "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1562,6 +1612,7 @@
           "baseId": "ability-triumph",
           "type": "ability",
           "name": "Triumph",
+          "nameCN": "凯旋",
           "pbgid": 2138249,
           "attribName": "hippodrome_triumph_byz",
           "age": 1,
@@ -1569,6 +1620,7 @@
             "by"
           ],
           "description": "Consume all Supply Points to increase cavalry damage by +4, move speed by +10%, and health regeneration by +2. \nEach Supply Point increases Triumph's duration by 1 seconds. A maximum of 45 Supply Points can be collected.",
+          "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1653,6 +1705,7 @@
           "baseId": "ability-varangian-berserking",
           "type": "ability",
           "name": "Varangian Berserking",
+          "nameCN": "瓦兰吉狂战士",
           "pbgid": 2105290,
           "attribName": "varangian_berserking_byz",
           "age": 1,
@@ -1660,6 +1713,7 @@
             "by"
           ],
           "description": "Damage increased by +6 and armor decreased by -4.",
+          "descriptionCN": "伤害增加 +6，护甲削弱 -4。",
           "classes": [],
           "displayClasses": [],
           "costs": {},

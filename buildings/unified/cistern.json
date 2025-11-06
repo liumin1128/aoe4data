@@ -25,6 +25,7 @@
       "baseId": "cistern",
       "type": "building",
       "name": "Cistern",
+      "nameCN": "水池",
       "pbgid": 2104734,
       "attribName": "building_cistern_byz",
       "age": 1,
@@ -32,6 +33,7 @@
         "by"
       ],
       "description": "Improves the gather rate of nearby villagers by +10/14/18/22/26% depending on network level. Generates influence that boosts production, research or defense. Can activate Arkitoi Defense to briefly arm nearby Villagers. \nConnect Cisterns with Aqueducts to enhance their influence and villager gather rate aura.",
+      "descriptionCN": "根据网络等级，附近村民的采集速率 +10/14/18/22/26%。产生影响力，提升生产、研究或防御。可激活阿克里人防御，使附近村民快速武装起来。\n将蓄水池连接到水渠，可强化它们的影响力和村民采集速率光环。",
       "classes": [
         "building",
         "cistern",

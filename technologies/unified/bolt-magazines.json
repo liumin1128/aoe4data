@@ -27,6 +27,7 @@
       "baseId": "bolt-magazines",
       "type": "technology",
       "name": "Bolt Magazines",
+      "nameCN": "弩箭匣",
       "pbgid": 9000912,
       "attribName": "upgrade_repeater_damage_chi_ha_01",
       "age": 3,
@@ -34,6 +35,7 @@
         "zx"
       ],
       "description": "More advanced magazines allow Zhuge Nu to fire piercing bolts with +0.5 range that deal +1 damage against Light Melee Infantry.",
+      "descriptionCN": "更先进的箭匣可以让诸葛弩手发射射程 +0.5 的穿刺弩箭，对轻型近战步兵造成的伤害 +1。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

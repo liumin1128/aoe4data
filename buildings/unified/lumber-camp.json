@@ -46,6 +46,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 199634,
       "attribName": "building_econ_wood_control_abb",
       "age": 1,
@@ -53,6 +54,7 @@
         "ab"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -107,6 +109,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 6747201,
       "attribName": "building_econ_wood_control_abb_ha_01",
       "age": 1,
@@ -114,6 +117,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -168,6 +172,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 2104740,
       "attribName": "building_econ_wood_control_byz",
       "age": 1,
@@ -175,6 +180,7 @@
         "by"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -228,6 +234,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 144678,
       "attribName": "building_econ_wood_control_chi",
       "age": 1,
@@ -235,6 +242,7 @@
         "ch"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将木材存放于这个建筑。可研究提升木材采集效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",
@@ -288,6 +296,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 135827,
       "attribName": "building_econ_wood_control_sul",
       "age": 1,
@@ -295,6 +304,7 @@
         "de"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -348,6 +358,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 166259,
       "attribName": "building_econ_wood_control_eng",
       "age": 1,
@@ -355,6 +366,7 @@
         "en"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -406,6 +418,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 132691,
       "attribName": "building_econ_wood_control_fre",
       "age": 1,
@@ -413,6 +426,7 @@
         "fr"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -464,6 +478,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 134785,
       "attribName": "building_econ_wood_control_hre",
       "age": 1,
@@ -471,6 +486,7 @@
         "hr"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -524,6 +540,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 500039,
       "attribName": "building_econ_wood_lan",
       "age": 1,
@@ -531,6 +548,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -582,6 +600,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 3435280,
       "attribName": "building_econ_wood_jpn",
       "age": 1,
@@ -589,6 +608,7 @@
         "ja"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -640,6 +660,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 4053323,
       "attribName": "building_econ_wood_control_fre_ha_01",
       "age": 1,
@@ -647,6 +668,7 @@
         "je"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -699,6 +721,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 9000934,
       "attribName": "building_econ_wood_control_byz_ha_mac",
       "age": 1,
@@ -706,6 +729,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -757,6 +781,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 2298920,
       "attribName": "building_econ_wood_mal",
       "age": 1,
@@ -764,6 +789,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -815,6 +841,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 3880744,
       "attribName": "building_econ_wood_control_hre_ha_01",
       "age": 1,
@@ -822,6 +849,7 @@
         "od"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -875,6 +903,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 2034605,
       "attribName": "building_econ_wood_ott",
       "age": 1,
@@ -882,6 +911,7 @@
         "ot"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -933,6 +963,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 133362,
       "attribName": "building_econ_wood_control_rus",
       "age": 1,
@@ -940,6 +971,7 @@
         "ru"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -993,6 +1025,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 3404032,
       "attribName": "building_econ_wood_jpn_ha_sen",
       "age": 1,
@@ -1000,6 +1033,7 @@
         "sen"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1051,6 +1085,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 5252131,
       "attribName": "building_econ_wood_control_chi_ha_01",
       "age": 1,
@@ -1058,6 +1093,7 @@
         "zx"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将木材存放于这个建筑。可研究提升木材采集效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",

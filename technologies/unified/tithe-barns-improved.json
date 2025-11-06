@@ -28,6 +28,7 @@
       "baseId": "tithe-barns-improved",
       "type": "technology",
       "name": "Tithe Barns (Improved)",
+      "nameCN": "什一税仓库 (已强化)",
       "pbgid": 173571,
       "attribName": "upgrade_unit_religious_tithe_barn_4_improved_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Relics placed in a Prayer Tent provide an income of +60 Food, +60 Wood, and +15 Stone every minute.\nIf Tithe Barns has already been researched, increase the income of Food and Wood by +20 and Stone by +5 instead.",
+      "descriptionCN": "放置在祈祷帐篷里的圣物每分钟会提供 +60 食物、+60 木材和 +15 石料收入。\n如果已完成什一税仓库研究，则食物和木材收入分别 +20，石料收入 +5。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",

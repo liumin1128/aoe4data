@@ -27,6 +27,7 @@
       "baseId": "salvaged-materials",
       "type": "technology",
       "name": "Salvaged Materials",
+      "nameCN": "回收材料",
       "pbgid": 2033834,
       "attribName": "upgrade_naval_patchwork_repairs_sul",
       "age": 3,
@@ -34,6 +35,7 @@
         "de"
       ],
       "description": "Baghlahs heal 30 health when killing an enemy unit.",
+      "descriptionCN": "巴格拉战船击杀敌方单位时恢复 30 生命值。",
       "classes": [
         "military_upgrade",
         "scar_feudal_age_upgrade",

@@ -27,6 +27,7 @@
       "baseId": "shattering-projectiles",
       "type": "technology",
       "name": "Shattering Projectiles",
+      "nameCN": "散射炮弹",
       "pbgid": 202558,
       "attribName": "upgrade_trebuchet_aoe_eng",
       "age": 4,
@@ -34,6 +35,7 @@
         "en"
       ],
       "description": "Trebuchet projectiles shatter on impact, increasing their area of effect.",
+      "descriptionCN": "巨型投石机的抛射物受撞击时会碎裂，增加效果范围。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

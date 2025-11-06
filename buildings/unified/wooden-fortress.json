@@ -32,6 +32,7 @@
       "baseId": "wooden-fortress",
       "type": "building",
       "name": "Wooden Fortress",
+      "nameCN": "木制要塞",
       "pbgid": 133438,
       "attribName": "building_defense_wooden_fort_rus",
       "age": 1,
@@ -39,6 +40,7 @@
         "ru"
       ],
       "description": "Sturdy wooden stronghold with extensive line of sight that detects units stealth or disguises. Can be upgraded with weaponry. Attacks while garrisoned.",
+      "descriptionCN": "视野开阔的坚固木制堡垒，可侦测匿踪或伪装单位。可升级武器。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",

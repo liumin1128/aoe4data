@@ -28,6 +28,7 @@
       "baseId": "lightweight-beams-improved",
       "type": "technology",
       "name": "Lightweight Beams (Improved)",
+      "nameCN": "轻质横梁 (已强化)",
       "pbgid": 2117416,
       "attribName": "upgrade_ram_scaling_improved_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increase Battering Ram attack speed by +30% and reduce their field construction time by -75%.\nIf Lightweight Beams has already been researched, increase attack speed by +10% and reduce field construction time by -25% instead.",
+      "descriptionCN": "攻城锤攻击速度 +30%，战场工程时间 -75%。\n如果已经研究过轻质横梁，攻击速度 +10%，战场工程时间 -25%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

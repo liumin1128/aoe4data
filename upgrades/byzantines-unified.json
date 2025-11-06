@@ -49,6 +49,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 125895,
           "attribName": "upgrade_unit_archer_4",
           "age": 4,
@@ -56,6 +57,7 @@
             "by"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -124,6 +126,7 @@
           "baseId": "elite-cataphracts",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2146683,
           "attribName": "upgrade_unit_knight_4_byz",
           "age": 4,
@@ -131,6 +134,7 @@
             "by"
           ],
           "description": "Upgrade Cataphracts to Elite Cataphracts",
+          "descriptionCN": "将甲胄骑兵升级为精锐甲胄骑兵。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -198,6 +202,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124651,
           "attribName": "upgrade_unit_crossbowman_4",
           "age": 4,
@@ -205,6 +210,7 @@
             "by"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -284,6 +290,7 @@
           "baseId": "elite-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124725,
           "attribName": "upgrade_unit_horseman_4",
           "age": 4,
@@ -291,6 +298,7 @@
             "by"
           ],
           "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+          "descriptionCN": "将老练骑手升级为精锐骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -362,6 +370,7 @@
           "baseId": "elite-limitanei",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2146686,
           "attribName": "upgrade_unit_spearman_4_byz",
           "age": 4,
@@ -369,6 +378,7 @@
             "by"
           ],
           "description": "Upgrade Veteran Limitanei to Elite Limitanei",
+          "descriptionCN": "将老练边防军升级为精锐边防军",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -426,6 +436,7 @@
           "baseId": "elite-varangian-guard",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2146687,
           "attribName": "upgrade_unit_manatarms_4_byz",
           "age": 4,
@@ -433,6 +444,7 @@
             "by"
           ],
           "description": "Upgrade Varangian Guard to Elite Varangian Guard",
+          "descriptionCN": "将瓦兰吉卫队升级为精锐瓦兰吉卫队",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -490,6 +502,7 @@
           "baseId": "hardened-limitanei",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 2146684,
           "attribName": "upgrade_unit_spearman_2_byz",
           "age": 2,
@@ -497,6 +510,7 @@
             "by"
           ],
           "description": "Upgrade Limitanei to Hardened Limitanei",
+          "descriptionCN": "将边防军升级为坚韧边防军",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -565,6 +579,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 170246,
           "attribName": "upgrade_unit_archer_3",
           "age": 3,
@@ -572,6 +587,7 @@
             "by"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -653,6 +669,7 @@
           "baseId": "veteran-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124723,
           "attribName": "upgrade_unit_horseman_3",
           "age": 3,
@@ -660,6 +677,7 @@
             "by"
           ],
           "description": "Upgrade Horsemen to Veteran Horsemen.",
+          "descriptionCN": "将骑手升级为老练骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -731,6 +749,7 @@
           "baseId": "veteran-limitanei",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2146685,
           "attribName": "upgrade_unit_spearman_3_byz",
           "age": 3,
@@ -738,6 +757,7 @@
             "by"
           ],
           "description": "Upgrade Hardened Limitanei to Veteran Limitanei",
+          "descriptionCN": "将坚韧边防军升级为老练边防军",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",

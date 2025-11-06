@@ -28,6 +28,7 @@
       "baseId": "bonus-culture-wing-logistics",
       "type": "technology",
       "name": "Logistics\n(Bonus Culture Wing)",
+      "nameCN": "文化偏殿：后勤学",
       "pbgid": 2141113,
       "attribName": "upgrade_add_culture_wing_imperial_b_abb_ha_01",
       "age": 4,
@@ -35,6 +36,7 @@
         "ay"
       ],
       "description": "Constructs the Culture Wing.\nUpon completion, grants 4 Dervish, improves the unit's healing by +50%, and turns it on permanently.",
+      "descriptionCN": "建造文化偏殿。\n完成后，可获得 4 名德尔维希，该单位的治疗效果 +50%，并永久启用。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",

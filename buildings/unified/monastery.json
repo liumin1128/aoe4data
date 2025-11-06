@@ -41,6 +41,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 2104754,
       "attribName": "building_unit_religious_control_byz",
       "age": 3,
@@ -48,6 +49,7 @@
         "by"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -102,6 +104,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 145535,
       "attribName": "building_unit_religious_control_chi",
       "age": 3,
@@ -109,6 +112,7 @@
         "ch"
       ],
       "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -163,6 +167,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 166267,
       "attribName": "building_unit_religious_control_eng",
       "age": 3,
@@ -170,6 +175,7 @@
         "en"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -222,6 +228,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 132767,
       "attribName": "building_unit_religious_control_fre",
       "age": 3,
@@ -229,6 +236,7 @@
         "fr"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -281,6 +289,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 134904,
       "attribName": "building_unit_religious_control_hre",
       "age": 3,
@@ -288,6 +297,7 @@
         "hr"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "land_food_deposit_4_by_4",
@@ -349,6 +359,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 5000053,
       "attribName": "building_unit_monastery_lan",
       "age": 3,
@@ -356,6 +367,7 @@
         "hl"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -408,6 +420,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 3361909,
       "attribName": "building_unit_religious_control_fre_ha_01",
       "age": 3,
@@ -415,6 +428,7 @@
         "je"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -468,6 +482,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 5000235,
       "attribName": "building_monastery_tem",
       "age": 3,
@@ -475,6 +490,7 @@
         "kt"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -527,6 +543,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 9000952,
       "attribName": "building_unit_religious_control_byz_ha_mac",
       "age": 3,
@@ -534,6 +551,7 @@
         "mac"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -586,6 +604,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 5932520,
       "attribName": "building_unit_religious_control_hre_ha_01",
       "age": 3,
@@ -593,6 +612,7 @@
         "od"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -647,6 +667,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 133414,
       "attribName": "building_unit_religious_control_rus",
       "age": 3,
@@ -654,6 +675,7 @@
         "ru"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -706,6 +728,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 2504696,
       "attribName": "building_unit_religious_control_chi_ha_01",
       "age": 3,
@@ -713,6 +736,7 @@
         "zx"
       ],
       "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",

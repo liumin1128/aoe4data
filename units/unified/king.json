@@ -37,6 +37,7 @@
       "baseId": "king",
       "type": "unit",
       "name": "King",
+      "nameCN": "国王",
       "pbgid": 2104832,
       "attribName": "unit_abbey_king_2",
       "age": 2,
@@ -44,6 +45,7 @@
         "en"
       ],
       "description": "A mighty King, a powerful heavy cavalry unit. Heals nearby out of combat units by 2 health every 1 seconds.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "一个强大的国王，一个强大的重骑兵单位。治疗附近脱离战斗的单位，每 1 秒恢复其 2 生命值。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "armored",
         "cavalry",

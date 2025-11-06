@@ -32,6 +32,7 @@
       "baseId": "deer-stones",
       "type": "building",
       "name": "Deer Stones",
+      "nameCN": "鹿石",
       "pbgid": 136383,
       "attribName": "building_wonder_age1_deer_stones_mon",
       "age": 1,
@@ -39,6 +40,7 @@
         "mo"
       ],
       "description": "Deer Stones grant access to the Khan's Hunter at the Archery Range.\nInstantly researches the Yam Network technology.",
+      "descriptionCN": "有了鹿石，可以在靶场获得汗的猎人。\n立即研究驿站网络科技。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

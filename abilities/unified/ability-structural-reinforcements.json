@@ -18,6 +18,7 @@
       "baseId": "ability-structural-reinforcements",
       "type": "ability",
       "name": "Structural Reinforcements",
+      "nameCN": "结构强化",
       "pbgid": 2141405,
       "attribName": "siege_carpentry_abb_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "ay"
       ],
       "description": "Siege unit gains +20 melee armor and +5 fire armor for 10 seconds.\nOnly useable on one unit at a time.",
+      "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -29,6 +29,7 @@
       "baseId": "thunderclap-bombs",
       "type": "technology",
       "name": "Thunderclap Bombs",
+      "nameCN": "霹雳弹",
       "pbgid": 2101718,
       "attribName": "upgrade_naval_explosive_techniques_chi",
       "age": 4,
@@ -36,6 +37,7 @@
         "ch"
       ],
       "description": "Warships fire a Nest of Bees attack.",
+      "descriptionCN": "战船发动一窝蜂攻击。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -84,6 +86,7 @@
       "baseId": "thunderclap-bombs",
       "type": "technology",
       "name": "Thunderclap Bombs",
+      "nameCN": "霹雳弹",
       "pbgid": 2101718,
       "attribName": "upgrade_naval_explosive_techniques_chi",
       "age": 4,
@@ -91,6 +94,7 @@
         "zx"
       ],
       "description": "Warships fire a Nest of Bees attack.",
+      "descriptionCN": "战船发动一窝蜂攻击。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",

@@ -40,6 +40,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 2104746,
       "attribName": "building_tech_university_control_byz",
       "age": 4,
@@ -47,6 +48,7 @@
         "by"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -99,6 +101,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 145519,
       "attribName": "building_tech_university_control_chi",
       "age": 4,
@@ -106,6 +109,7 @@
         "ch"
       ],
       "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。",
       "classes": [
         "building",
         "research_building",
@@ -158,6 +162,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 166262,
       "attribName": "building_tech_university_control_eng",
       "age": 4,
@@ -165,6 +170,7 @@
         "en"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -215,6 +221,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 132746,
       "attribName": "building_tech_university_control_fre",
       "age": 4,
@@ -222,6 +229,7 @@
         "fr"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -272,6 +280,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 134864,
       "attribName": "building_tech_university_control_hre",
       "age": 4,
@@ -279,6 +288,7 @@
         "hr"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -331,6 +341,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 5000048,
       "attribName": "building_tech_university_lan",
       "age": 4,
@@ -338,6 +349,7 @@
         "hl"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -388,6 +400,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 5303138,
       "attribName": "building_tech_university_jpn",
       "age": 4,
@@ -395,6 +408,7 @@
         "ja"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -445,6 +459,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 3749500,
       "attribName": "building_tech_university_control_fre_ha_01",
       "age": 4,
@@ -452,6 +467,7 @@
         "je"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -503,6 +519,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 5000230,
       "attribName": "building_tech_university_tem",
       "age": 4,
@@ -510,6 +527,7 @@
         "kt"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -560,6 +578,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 8529539,
       "attribName": "building_tech_university_control_hre_ha_01",
       "age": 4,
@@ -567,6 +586,7 @@
         "od"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -619,6 +639,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 2034615,
       "attribName": "building_tech_university_ott",
       "age": 4,
@@ -626,6 +647,7 @@
         "ot"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -678,6 +700,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 133392,
       "attribName": "building_tech_university_control_rus",
       "age": 4,
@@ -685,6 +708,7 @@
         "ru"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -735,6 +759,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 6753306,
       "attribName": "building_tech_university_jpn_ha_sen",
       "age": 4,
@@ -742,6 +767,7 @@
         "sen"
       ],
       "description": "Houses advanced technology that benefit the civilization.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。",
       "classes": [
         "building",
         "research_building",
@@ -792,6 +818,7 @@
       "baseId": "university",
       "type": "building",
       "name": "University",
+      "nameCN": "大学",
       "pbgid": 6172677,
       "attribName": "building_tech_university_control_chi_ha_01",
       "age": 4,
@@ -799,6 +826,7 @@
         "zx"
       ],
       "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes.",
+      "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。",
       "classes": [
         "building",
         "research_building",

@@ -18,6 +18,7 @@
       "baseId": "ability-divine-defense",
       "type": "ability",
       "name": "Divine Defense",
+      "nameCN": "其徐如林",
       "pbgid": 2145449,
       "attribName": "toggle_temple_of_the_sun_range_chi_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "zx"
       ],
       "description": "Gunpowder units and defensive structures gain +1 range.",
+      "descriptionCN": "火药单位和防御性建筑攻击范围 +1。",
       "classes": [],
       "displayClasses": [],
       "costs": {

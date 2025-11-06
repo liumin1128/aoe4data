@@ -23,6 +23,7 @@
       "baseId": "demilancer",
       "type": "unit",
       "name": "Veteran Demilancer",
+      "nameCN": "老练短矛骑兵",
       "pbgid": 9002532,
       "attribName": "unit_free_dummy_mounted_manatarms_lan",
       "age": 1,
@@ -30,6 +31,7 @@
         "hl"
       ],
       "description": "Unique heavy cavalry with moderate damage and durability. Effective frontline unit.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "独特的重装骑兵，拥有中等伤害和耐力。擅长对付前线单位。\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "classes": [
         "spawn_ignored_on_timeline"
       ],

@@ -29,6 +29,7 @@
       "baseId": "crossbow-stirrups",
       "type": "technology",
       "name": "Crossbow Stirrups",
+      "nameCN": "弩手脚镫",
       "pbgid": 2035322,
       "attribName": "upgrade_landmark_ranged_crossbow_stirrups_fre",
       "age": 3,
@@ -36,6 +37,7 @@
         "fr"
       ],
       "description": "Increase the attack speed of Arbalétriers by +25%.",
+      "descriptionCN": "弓弩手的攻击速度 +25%。",
       "classes": [
         "french_upgrade",
         "military_upgrade",
@@ -81,6 +83,7 @@
       "baseId": "crossbow-stirrups",
       "type": "technology",
       "name": "Crossbow Stirrups",
+      "nameCN": "弩手脚镫",
       "pbgid": 172158,
       "attribName": "upgrade_ranged_crossbow_stirrups_fre",
       "age": 4,
@@ -88,6 +91,7 @@
         "fr"
       ],
       "description": "Increase the attack speed of Arbalétriers by +25%.",
+      "descriptionCN": "弓弩手的攻击速度 +25%。",
       "classes": [
         "french_upgrade",
         "military_upgrade",
@@ -133,6 +137,7 @@
       "baseId": "crossbow-stirrups",
       "type": "technology",
       "name": "Crossbow Stirrups",
+      "nameCN": "弩手脚镫",
       "pbgid": 2035322,
       "attribName": "upgrade_landmark_ranged_crossbow_stirrups_fre",
       "age": 3,
@@ -140,6 +145,7 @@
         "je"
       ],
       "description": "Increase the attack speed of Arbalétriers by +25%.",
+      "descriptionCN": "弓弩手的攻击速度 +25%。",
       "classes": [
         "french_upgrade",
         "military_upgrade",
@@ -185,6 +191,7 @@
       "baseId": "crossbow-stirrups",
       "type": "technology",
       "name": "Crossbow Stirrups",
+      "nameCN": "弩手脚镫",
       "pbgid": 172158,
       "attribName": "upgrade_ranged_crossbow_stirrups_fre",
       "age": 4,
@@ -192,6 +199,7 @@
         "je"
       ],
       "description": "Increase the attack speed of Arbalétriers by +25%.",
+      "descriptionCN": "弓弩手的攻击速度 +25%。",
       "classes": [
         "french_upgrade",
         "military_upgrade",

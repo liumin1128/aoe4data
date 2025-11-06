@@ -35,6 +35,7 @@
       "baseId": "hippodrome-horseman",
       "type": "unit",
       "name": "Hippodrome Horseman",
+      "nameCN": "竞技场骑手",
       "pbgid": 9004208,
       "attribName": "unit_dummy_champion_horseman_byz_ha_mac",
       "age": 1,
@@ -42,6 +43,7 @@
         "mac"
       ],
       "description": "Fast cavalry that enhances damage of nearby cavalry.\n+ High movement speed\n+ Health regeneration\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵，可增强附近骑兵的伤害。\n+ 移动速度快\n+ 恢复生命值\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

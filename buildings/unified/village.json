@@ -27,6 +27,7 @@
       "baseId": "village",
       "type": "building",
       "name": "Village",
+      "nameCN": "村庄",
       "pbgid": 156484,
       "attribName": "building_dynasty_village_control_chi",
       "age": 1,
@@ -34,6 +35,7 @@
         "ch"
       ],
       "description": "Increases maximum Population by 40.",
+      "descriptionCN": "人口上限提升 40。",
       "classes": [
         "building",
         "house",
@@ -92,6 +94,7 @@
       "baseId": "village",
       "type": "building",
       "name": "Village",
+      "nameCN": "村庄",
       "pbgid": 8804259,
       "attribName": "building_dynasty_village_control_chi_ha_01",
       "age": 1,
@@ -99,6 +102,7 @@
         "zx"
       ],
       "description": "Increases maximum Population by 40.",
+      "descriptionCN": "人口上限提升 40。",
       "classes": [
         "building",
         "house",

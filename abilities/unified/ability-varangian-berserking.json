@@ -18,6 +18,7 @@
       "baseId": "ability-varangian-berserking",
       "type": "ability",
       "name": "Varangian Berserking",
+      "nameCN": "瓦兰吉狂战士",
       "pbgid": 2105290,
       "attribName": "varangian_berserking_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Damage increased by +6 and armor decreased by -4.",
+      "descriptionCN": "伤害增加 +6，护甲削弱 -4。",
       "classes": [],
       "displayClasses": [],
       "costs": {},

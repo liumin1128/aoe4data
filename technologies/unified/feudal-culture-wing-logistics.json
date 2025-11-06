@@ -28,6 +28,7 @@
       "baseId": "feudal-culture-wing-logistics",
       "type": "technology",
       "name": "Logistics\n(Feudal Culture Wing)",
+      "nameCN": "文化偏殿：后勤学",
       "pbgid": 2141107,
       "attribName": "upgrade_add_culture_wing_dark_b_abb_ha_01",
       "age": 1,
@@ -35,6 +36,7 @@
         "ay"
       ],
       "description": "Constructs the Culture Wing.\nUpon completion, grants 2 Dervish and turns their healing aura on permanently.",
+      "descriptionCN": "建造文化偏殿。\n完成后，可获得 2 名德尔维希，并永久启用其治疗光环。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",

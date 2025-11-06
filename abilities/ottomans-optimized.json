@@ -29,6 +29,7 @@
           "baseId": "ability-attack-drums",
           "type": "ability",
           "name": "Attack Drums",
+          "nameCN": "攻击战鼓 (关闭)",
           "pbgid": 2074302,
           "attribName": "mehter_attack_buff_ott",
           "age": 1,
@@ -36,6 +37,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the attack speed of nearby units by +15%.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的攻击速度 +15%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -105,6 +107,7 @@
           "baseId": "ability-blacksmith-and-university-influence",
           "type": "ability",
           "name": "Blacksmith and University Influence",
+          "nameCN": "铁匠铺和大学的影响",
           "pbgid": 2082042,
           "attribName": "university_blacksmith_influence_ott",
           "age": 2,
@@ -112,6 +115,7 @@
             "ot"
           ],
           "description": "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%.",
+          "descriptionCN": "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -251,6 +255,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -258,6 +263,7 @@
             "ot"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -319,6 +325,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -326,6 +333,7 @@
             "ot"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -380,6 +388,7 @@
           "baseId": "ability-fortitude",
           "type": "ability",
           "name": "Fortitude",
+          "nameCN": "坚毅",
           "pbgid": 2089398,
           "attribName": "sipahi_stamina_ott",
           "age": 2,
@@ -387,6 +396,7 @@
             "ot"
           ],
           "description": "Gain +50% attack speed and receive +50% damage from melee weapons for 10 seconds.",
+          "descriptionCN": "获得 +50% 攻击速度，并从近战武器中受得 +50% 伤害，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -452,6 +462,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -459,6 +470,7 @@
             "ot"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -515,6 +527,7 @@
           "baseId": "ability-mehter-speed-bonus",
           "type": "ability",
           "name": "Mehter Speed Bonus",
+          "nameCN": "奥斯曼军乐队速度加成",
           "pbgid": 2063074,
           "attribName": "mehter_default_formation_ott",
           "age": 1,
@@ -522,6 +535,7 @@
             "ot"
           ],
           "description": "Units move +15% faster when in formation.",
+          "descriptionCN": "移动速度加成 +15%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -593,6 +607,7 @@
           "baseId": "ability-melee-defense-drums",
           "type": "ability",
           "name": "Melee Defense Drums",
+          "nameCN": "近战防御战鼓 (关闭)",
           "pbgid": 2074304,
           "attribName": "mehter_melee_armor_buff_ott",
           "age": 1,
@@ -600,6 +615,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the melee armor of nearby units by +2.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的近战护甲增加 +2。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -669,6 +685,7 @@
           "baseId": "ability-ranged-defense-drums",
           "type": "ability",
           "name": "Ranged Defense Drums",
+          "nameCN": "远程防御战鼓 (关闭)",
           "pbgid": 2074303,
           "attribName": "mehter_ranged_armor_buff_ott",
           "age": 1,
@@ -676,6 +693,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the ranged armor of nearby units by +1.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的远程护甲增加 +1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -745,6 +763,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -752,6 +771,7 @@
             "ot"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -808,6 +828,7 @@
           "baseId": "ability-trade-protection",
           "type": "ability",
           "name": "Trade Protection",
+          "nameCN": "贸易保护",
           "pbgid": 2062057,
           "attribName": "keep_trader_speed_boost_aura_ott",
           "age": 4,
@@ -815,6 +836,7 @@
             "ot"
           ],
           "description": "Traders and Trade Ships near Keeps receive +30% move speed and +8 armor for 20 seconds.",
+          "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {

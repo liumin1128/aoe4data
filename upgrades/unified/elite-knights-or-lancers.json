@@ -45,6 +45,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -52,6 +53,7 @@
         "ab"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -94,6 +96,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -101,6 +104,7 @@
         "ch"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -143,6 +147,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 181866,
       "attribName": "upgrade_unit_knight_4_sul",
       "age": 4,
@@ -150,6 +155,7 @@
         "de"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -183,6 +189,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -190,6 +197,7 @@
         "en"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -232,6 +240,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -239,6 +248,7 @@
         "hr"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -281,6 +291,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -288,6 +299,7 @@
         "hl"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -330,6 +342,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -337,6 +350,7 @@
         "ot"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -379,6 +393,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2654540,
       "attribName": "upgrade_unit_knight_4_sul_ha_tug",
       "age": 4,
@@ -386,6 +401,7 @@
         "tug"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -419,6 +435,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -426,6 +443,7 @@
         "zx"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

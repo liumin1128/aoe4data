@@ -28,6 +28,7 @@
       "baseId": "camel-support",
       "type": "technology",
       "name": "Camel Support",
+      "nameCN": "骆驼支援",
       "pbgid": 200768,
       "attribName": "upgrade_mil_camel_support_abb",
       "age": 4,
@@ -35,6 +36,7 @@
         "ab"
       ],
       "description": "Camels increase the armor of nearby infantry by +2.",
+      "descriptionCN": "骆驼可提升附近步兵的护甲 +2。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",

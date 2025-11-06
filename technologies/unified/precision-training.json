@@ -27,6 +27,7 @@
       "baseId": "precision-training",
       "type": "technology",
       "name": "Precision Training",
+      "nameCN": "精准训练",
       "pbgid": 2064214,
       "attribName": "upgrade_donso_precision_training_mal",
       "age": 4,
@@ -34,6 +35,7 @@
         "ma"
       ],
       "description": "Increase ranged damage of Donso by +6, Archers by +2, and Javelin Throwers by +3.",
+      "descriptionCN": "当佐兵的远程伤害 +6，弓箭手的远程伤害 +2，掷枪兵的远程伤害 +3。",
       "classes": [
         "malian_upgrade",
         "military_upgrade",

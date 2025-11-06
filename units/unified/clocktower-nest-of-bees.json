@@ -33,6 +33,7 @@
       "baseId": "clocktower-nest-of-bees",
       "type": "unit",
       "name": "Clocktower Nest of Bees",
+      "nameCN": "钟楼一窝蜂",
       "pbgid": 206827,
       "attribName": "unit_nest_of_bees_4_clocktower_chi",
       "age": 3,
@@ -40,6 +41,7 @@
         "ch"
       ],
       "description": "Innovative field weapon capable of firing a barrage of rockets to damage defensive positions and clumped enemy troops.\n+ Good area of effect damage against most targets\n- Slowest movement speed\n- Weak if surrounded",
+      "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害。\n- 移动速度极慢\n- 不擅长应对包围",
       "classes": [
         "annihilation_condition",
         "elite",

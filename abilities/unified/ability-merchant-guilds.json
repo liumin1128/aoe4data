@@ -18,6 +18,7 @@
       "baseId": "ability-merchant-guilds",
       "type": "ability",
       "name": "Merchant Guilds",
+      "nameCN": "商人公会",
       "pbgid": 186581,
       "attribName": "market_passive_gold_generation_fre",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Active Traders generate 1 gold every 6 seconds.",
+      "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
       "classes": [],
       "displayClasses": [],
       "costs": {

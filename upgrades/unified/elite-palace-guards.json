@@ -30,6 +30,7 @@
       "baseId": "elite-palace-guards",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2028081,
       "attribName": "upgrade_unit_manatarms_4_chi",
       "age": 4,
@@ -37,6 +38,7 @@
         "ch"
       ],
       "description": "Upgrade Palace Guards to Elite Palace Guards.",
+      "descriptionCN": "将皇宫卫兵升级为精锐皇宫卫兵。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -70,6 +72,7 @@
       "baseId": "elite-palace-guards",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2138273,
       "attribName": "upgrade_unit_manatarms_4_chi_ha_01",
       "age": 4,
@@ -77,6 +80,7 @@
         "zx"
       ],
       "description": "Upgrade Palace Guards to Elite Palace Guards.",
+      "descriptionCN": "将皇宫卫兵升级为精锐皇宫卫兵。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

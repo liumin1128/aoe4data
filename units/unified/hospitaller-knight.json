@@ -40,6 +40,7 @@
       "baseId": "hospitaller-knight",
       "type": "unit",
       "name": "Hospitaller Knight",
+      "nameCN": "医院骑士",
       "pbgid": 8999898,
       "attribName": "unit_knight_hospitaller_2_tem",
       "age": 2,
@@ -47,6 +48,7 @@
         "kt"
       ],
       "description": "Tough infantry with good damage, heals friendly units.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害，可治疗友方单位。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -163,6 +165,7 @@
       "baseId": "hospitaller-knight",
       "type": "unit",
       "name": "Veteran Hospitaller Knight",
+      "nameCN": "老练医院骑士",
       "pbgid": 8999899,
       "attribName": "unit_knight_hospitaller_3_tem",
       "age": 3,
@@ -170,6 +173,7 @@
         "kt"
       ],
       "description": "Tough infantry with good damage, heals friendly units.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害，可治疗友方单位。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -286,6 +290,7 @@
       "baseId": "hospitaller-knight",
       "type": "unit",
       "name": "Elite Hospitaller Knight",
+      "nameCN": "精锐医院骑士",
       "pbgid": 8999902,
       "attribName": "unit_knight_hospitaller_4_tem",
       "age": 4,
@@ -293,6 +298,7 @@
         "kt"
       ],
       "description": "Tough infantry with good damage, heals friendly units.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害，可治疗友方单位。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

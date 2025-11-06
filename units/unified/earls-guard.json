@@ -39,6 +39,7 @@
       "baseId": "earls-guard",
       "type": "unit",
       "name": "Earl's Guard",
+      "nameCN": "伯爵护卫",
       "pbgid": 9002531,
       "attribName": "unit_free_dummy_champion_lan",
       "age": 1,
@@ -46,6 +47,7 @@
         "hl"
       ],
       "description": "Tough infantry with good damage. Periodically throws Daggers at nearby enemies.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害。对附近的敌人定期投掷匕首。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "spawn_ignored_on_timeline"
       ],
@@ -90,6 +92,7 @@
       "baseId": "earls-guard",
       "type": "unit",
       "name": "Earl's Guard",
+      "nameCN": "伯爵护卫",
       "pbgid": 5000080,
       "attribName": "unit_earlsguard_3_lan",
       "age": 3,
@@ -97,6 +100,7 @@
         "hl"
       ],
       "description": "Tough infantry with good damage. Periodically throws Daggers at nearby enemies.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害。对附近的敌人定期投掷匕首。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -234,6 +238,7 @@
       "baseId": "earls-guard",
       "type": "unit",
       "name": "Elite Earl's Guard",
+      "nameCN": "精锐伯爵护卫",
       "pbgid": 5000081,
       "attribName": "unit_earlsguard_4_lan",
       "age": 4,
@@ -241,6 +246,7 @@
         "hl"
       ],
       "description": "Tough infantry with good damage. Periodically throws Daggers at nearby enemies.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，能造成可观伤害。对附近的敌人定期投掷匕首。\n+ 高护甲\n- 移动速度慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

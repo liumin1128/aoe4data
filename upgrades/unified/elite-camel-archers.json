@@ -27,6 +27,7 @@
       "baseId": "elite-camel-archers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 200005,
       "attribName": "upgrade_unit_camel_archer_4_abb",
       "age": 4,
@@ -34,6 +35,7 @@
         "ab"
       ],
       "description": "Upgrade Veteran Camel Archers to Elite Camel Archers.",
+      "descriptionCN": "将老练骆驼射手升级为精锐骆驼射手。",
       "classes": [
         "abbasid_upgrade",
         "military_upgrade",

@@ -28,6 +28,7 @@
       "baseId": "elite-onna-bugeisha",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2127203,
       "attribName": "upgrade_unit_onna_bugeisha_4_jpn",
       "age": 4,
@@ -35,6 +36,7 @@
         "ja"
       ],
       "description": "Upgrade Veteran Onna-Bugeisha to Elite Onna-Bugeisha.",
+      "descriptionCN": "将老练女武艺者升级为精锐女武艺者。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

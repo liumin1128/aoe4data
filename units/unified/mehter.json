@@ -32,6 +32,7 @@
       "baseId": "mehter",
       "type": "unit",
       "name": "Mehter",
+      "nameCN": "奥斯曼军乐队",
       "pbgid": 2059263,
       "attribName": "unit_mehter_2_ott",
       "age": 2,
@@ -39,6 +40,7 @@
         "ot"
       ],
       "description": "War drummer that enhances units in an area, except Villagers and Traders.\n+ War drum military enhancements\n+ High movement speed\n- No weapons",
+      "descriptionCN": "战鼓手将会为范围内的除村民和商人之外的友军单位提供增益。\n+ 战鼓军事增益\n+ 高移动速度\n- 没有武器",
       "classes": [
         "annihilation_condition",
         "cavalry",

@@ -19,6 +19,7 @@
       "baseId": "ability-golden-age-tier-2",
       "type": "ability",
       "name": "Golden Age Tier 2",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 201593,
       "attribName": "golden_age_tier_2",
       "age": 1,
@@ -26,6 +27,7 @@
         "ab"
       ],
       "description": "+15% Research Speed",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -51,6 +53,7 @@
       "baseId": "ability-golden-age-tier-2",
       "type": "ability",
       "name": "Golden Age Tier 2",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2146739,
       "attribName": "golden_age_tier_2_ha_01",
       "age": 2,
@@ -58,6 +61,7 @@
         "ay"
       ],
       "description": "20 Structures: Research Speeds +50%",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {

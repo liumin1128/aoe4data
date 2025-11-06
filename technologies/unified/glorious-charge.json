@@ -21,6 +21,7 @@
       "baseId": "glorious-charge",
       "type": "technology",
       "name": "Glorious Charge",
+      "nameCN": "荣光冲锋",
       "pbgid": 9002243,
       "attribName": "upgrade_outpost_glorious_charge_mon_ha_gol",
       "age": 3,
@@ -28,6 +29,7 @@
         "gol"
       ],
       "description": "Adds the Glorious Charge ability to Outposts, when activated it starts a 10 second timer which reveals the Outpost and the nearby area to all players, when the timer ends all nearby allied units will get +50% movement speed and take -15% less damage for 30 seconds.",
+      "descriptionCN": "为哨站添加“荣光冲锋”能力。此能力在启用时会产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有盟友单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"

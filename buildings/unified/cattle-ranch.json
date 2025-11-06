@@ -26,6 +26,7 @@
       "baseId": "cattle-ranch",
       "type": "building",
       "name": "Cattle Ranch",
+      "nameCN": "养牛场",
       "pbgid": 2074126,
       "attribName": "building_econ_ranch_mal",
       "age": 2,
@@ -33,6 +34,7 @@
         "ma"
       ],
       "description": "Cattle garrisoned in this ranch generate +25 Food per minute. This value is increased by the food upgrades.",
+      "descriptionCN": "放置于此牧场的牛每分钟产生 +25 食物。这个值会随着食物升级而增加。",
       "classes": [
         "building",
         "ranch",

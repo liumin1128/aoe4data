@@ -28,6 +28,7 @@
       "baseId": "elite-keshiks",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 136267,
       "attribName": "upgrade_unit_knight_4_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "gol"
       ],
       "description": "Upgrade Veteran Keshiks to Elite Keshiks.",
+      "descriptionCN": "将老练怯薛骑兵升级为精锐怯薛骑兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -68,6 +70,7 @@
       "baseId": "elite-keshiks",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 136267,
       "attribName": "upgrade_unit_knight_4_mon",
       "age": 4,
@@ -75,6 +78,7 @@
         "mo"
       ],
       "description": "Upgrade Veteran Keshiks to Elite Keshiks.",
+      "descriptionCN": "将老练怯薛骑兵升级为精锐怯薛骑兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

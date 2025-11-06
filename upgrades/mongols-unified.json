@@ -38,6 +38,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 136272,
           "attribName": "upgrade_unit_archer_4_mon",
           "age": 4,
@@ -45,6 +46,7 @@
             "mo"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -102,6 +104,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 163624,
           "attribName": "upgrade_unit_crossbowman_4_mon",
           "age": 4,
@@ -109,6 +112,7 @@
             "mo"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -166,6 +170,7 @@
           "baseId": "elite-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 136266,
           "attribName": "upgrade_unit_horseman_4_mon",
           "age": 4,
@@ -173,6 +178,7 @@
             "mo"
           ],
           "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+          "descriptionCN": "将老练骑手升级为精锐骑手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -230,6 +236,7 @@
           "baseId": "elite-keshiks",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 136267,
           "attribName": "upgrade_unit_knight_4_mon",
           "age": 4,
@@ -237,6 +244,7 @@
             "mo"
           ],
           "description": "Upgrade Veteran Keshiks to Elite Keshiks.",
+          "descriptionCN": "将老练怯薛骑兵升级为精锐怯薛骑兵。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -294,6 +302,7 @@
           "baseId": "elite-mangudai",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 130357,
           "attribName": "upgrade_unit_horsearcher_4_mon",
           "age": 4,
@@ -301,6 +310,7 @@
             "mo"
           ],
           "description": "Upgrade Veteran Mangudai to Elite Mangudai.",
+          "descriptionCN": "将老练蒙古突骑升级为精锐蒙古突骑。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -358,6 +368,7 @@
           "baseId": "elite-men-at-arms",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 136329,
           "attribName": "upgrade_unit_manatarms_4_mon",
           "age": 4,
@@ -365,6 +376,7 @@
             "mo"
           ],
           "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+          "descriptionCN": "将武士升级为精锐武士。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -422,6 +434,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 136268,
           "attribName": "upgrade_unit_spearman_4_mon",
           "age": 4,
@@ -429,6 +442,7 @@
             "mo"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -486,6 +500,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 136233,
           "attribName": "upgrade_unit_spearman_2_mon",
           "age": 2,
@@ -493,6 +508,7 @@
             "mo"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -550,6 +566,7 @@
           "baseId": "horsemen",
           "type": "upgrade",
           "name": "Upgrade to Horseman",
+          "nameCN": "升级为骑手",
           "pbgid": 129562,
           "attribName": "upgrade_unit_horseman_2_mon",
           "age": 2,
@@ -557,6 +574,7 @@
             "mo"
           ],
           "description": "Upgrade Early Horsemen to Horsemen.",
+          "descriptionCN": "将早期骑手升级为骑手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -614,6 +632,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 136271,
           "attribName": "upgrade_unit_archer_3_mon",
           "age": 3,
@@ -621,6 +640,7 @@
             "mo"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -678,6 +698,7 @@
           "baseId": "veteran-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 130353,
           "attribName": "upgrade_unit_horseman_3_mon",
           "age": 3,
@@ -685,6 +706,7 @@
             "mo"
           ],
           "description": "Upgrade Horsemen to Veteran Horsemen.",
+          "descriptionCN": "将骑手升级为老练骑手。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -742,6 +764,7 @@
           "baseId": "veteran-keshiks",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 129611,
           "attribName": "upgrade_unit_knight_3_mon",
           "age": 3,
@@ -749,6 +772,7 @@
             "mo"
           ],
           "description": "Upgrade Keshiks to Veteran Keshiks.",
+          "descriptionCN": "将怯薛骑兵升级为老练怯薛骑兵。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -806,6 +830,7 @@
           "baseId": "veteran-mangudai",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 130355,
           "attribName": "upgrade_unit_horsearcher_3_mon",
           "age": 3,
@@ -813,6 +838,7 @@
             "mo"
           ],
           "description": "Upgrade Mangudai to Veteran Mangudai.",
+          "descriptionCN": "将蒙古突骑升级为老练蒙古突骑。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",
@@ -870,6 +896,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 129984,
           "attribName": "upgrade_unit_spearman_3_mon",
           "age": 3,
@@ -877,6 +904,7 @@
             "mo"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "military_upgrade",
             "mongol_upgrade",

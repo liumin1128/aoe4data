@@ -28,6 +28,7 @@
       "baseId": "geometry-improved",
       "type": "technology",
       "name": "Geometry (Improved)",
+      "nameCN": "几何学 (已强化)",
       "pbgid": 2077146,
       "attribName": "upgrade_siege_mathematics_improved_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increase damage of Trebuchets by +30%.\nIf Geometry has already been researched, increase their damage by +10% instead.",
+      "descriptionCN": "巨型投石机的伤害 +30%。\n如果已完成几何学的研究，则伤害 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

@@ -29,6 +29,7 @@
       "baseId": "gion-festival",
       "type": "technology",
       "name": "Gion Festival",
+      "nameCN": "祗园祭",
       "pbgid": 2157995,
       "attribName": "upgrade_shrine_gion_jpn",
       "age": 4,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Increases the Line of Sight of all buildings by +2 tiles. Every 3 minutes, all economic units heal for 100% of their health over 3 seconds.",
+      "descriptionCN": "所有建筑的视野 +2 格。每隔 3 分钟，所有经济单位都会在 3 秒内恢复 100% 的生命值。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

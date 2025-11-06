@@ -27,6 +27,7 @@
       "baseId": "arrow-volley",
       "type": "technology",
       "name": "Arrow Volley",
+      "nameCN": "万箭齐发",
       "pbgid": 202556,
       "attribName": "upgrade_ranged_longbow_arrow_volley_eng",
       "age": 4,
@@ -34,6 +35,7 @@
         "en"
       ],
       "description": "Longbowmen gain Arrow Volley, an activated ability that reduces their time to attack by +1 second for a duration of 6 seconds.",
+      "descriptionCN": "长弓兵获得万箭齐发能力，此项被激活的能力可将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

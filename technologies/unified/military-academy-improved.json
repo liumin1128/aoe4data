@@ -28,6 +28,7 @@
       "baseId": "military-academy-improved",
       "type": "technology",
       "name": "Military Academy (Improved)",
+      "nameCN": "军事学院 (已强化)",
       "pbgid": 175024,
       "attribName": "upgrade_tech_military_academy_improved_mon",
       "age": 3,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increase the production speed of military and transport units at buildings by 53%.\nDoes not affect religious or other support units.\nIf Military Academy has already been researched, increase production speed by 20% instead.",
+      "descriptionCN": "建筑中的军事和运输工具单位的生产速度提升 53%。\n该效果不适用于宗教单位或其他辅助单位。\n如果已经研究过军事学院，生产速度则提升 20%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

@@ -36,6 +36,7 @@
       "baseId": "bedouin-swordsman",
       "type": "unit",
       "name": "Bedouin Swordsman",
+      "nameCN": "贝都因剑士",
       "pbgid": 2146044,
       "attribName": "unit_pirate_abb_ha_01",
       "age": 1,
@@ -43,6 +44,7 @@
         "ay"
       ],
       "description": "Master Swordsman who excels in melee combat\n+ Bonus vs Melee units\n- Weak to ranged units\n\nRequires the Trade Wing - Bazaar",
+      "descriptionCN": "擅长近战的剑士大师\n+ 对抗近战单位时可获得加成\n- 不擅长对付远程单位",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

@@ -35,6 +35,7 @@
       "baseId": "wynguard-ranger",
       "type": "unit",
       "name": "Wynguard Ranger",
+      "nameCN": "温嘉德长弓兵",
       "pbgid": 2122538,
       "attribName": "unit_ranger_wynguard_4_eng",
       "age": 4,
@@ -42,6 +43,7 @@
         "en"
       ],
       "description": "Master longbowmen with increased range and damage, good vs. unarmored targets.\n+ Long range\n+ Can construct Palings to fend off cavalry charges\n- Slow movement speed\n- Countered by Horsemen",
+      "descriptionCN": "熟练的长弓兵，其攻击范围和伤害增加，擅长对付没有护甲的目标。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",

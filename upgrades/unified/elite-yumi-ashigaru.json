@@ -29,6 +29,7 @@
       "baseId": "elite-yumi-ashigaru",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2127612,
       "attribName": "upgrade_unit_archer_4_jpn",
       "age": 4,
@@ -36,6 +37,7 @@
         "ja"
       ],
       "description": "Upgrade Veteran Yumi Ashigaru to Elite Yumi Ashigaru.",
+      "descriptionCN": "将老练弓足轻升级为精锐弓足轻。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",
@@ -70,6 +72,7 @@
       "baseId": "elite-yumi-ashigaru",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2127612,
       "attribName": "upgrade_unit_archer_4_jpn",
       "age": 4,
@@ -77,6 +80,7 @@
         "sen"
       ],
       "description": "Upgrade Veteran Yumi Ashigaru to Elite Yumi Ashigaru.",
+      "descriptionCN": "将老练弓足轻升级为精锐弓足轻。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

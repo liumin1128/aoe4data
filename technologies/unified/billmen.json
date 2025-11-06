@@ -27,6 +27,7 @@
       "baseId": "billmen",
       "type": "technology",
       "name": "Billmen",
+      "nameCN": "钩镰兵",
       "pbgid": 5000163,
       "attribName": "upgrade_billmen_lan",
       "age": 2,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Spearmen equip tempered Bills, reducing the armor of enemies by -1 when attacking.",
+      "descriptionCN": "装备了强化钩矛的长矛兵，攻击时使敌人的护甲 -1。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

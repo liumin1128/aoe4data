@@ -23,6 +23,7 @@
       "baseId": "level-2-path-of-the-archer",
       "type": "technology",
       "name": "Path of the Archer",
+      "nameCN": "步弓手之路",
       "pbgid": 2136273,
       "attribName": "jeanne_d_arc_journey_of_a_hero_archer_fre_ha_01",
       "age": 0,
@@ -30,6 +31,7 @@
         "je"
       ],
       "description": "Level 2 option\n\nJeanne chooses the path of the Archer, equipping a bow to engage foes from afar.\nGains the Divine Arrow ability, which deals high damage to a single target.\n\nRequires 500XP",
+      "descriptionCN": "贞德选择了步弓手之路，装备弓后能从远处攻击敌人。\n获得神圣之箭能力，可对单一目标造成高伤害。",
       "classes": [
         "hero",
         "level-up-choice"

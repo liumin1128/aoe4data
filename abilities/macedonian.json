@@ -16,6 +16,7 @@
       "baseId": "ability-atgeirmadr-production",
       "type": "ability",
       "name": "Atgeirmaðr Production",
+      "nameCN": "阿特盖尔生产",
       "pbgid": 9003592,
       "attribName": "passive_trait_spearman_toggle_byz_ha_mac",
       "age": 1,
@@ -23,6 +24,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Atgeirmaðr",
+      "descriptionCN": "开启以派遣阿特盖尔增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -49,6 +51,7 @@
       "baseId": "ability-attack-ship-production",
       "type": "ability",
       "name": "Attack Ship Production",
+      "nameCN": "攻击船生产",
       "pbgid": 9004101,
       "attribName": "passive_trait_lodya_attack_toggle_byz_ha_mac",
       "age": 2,
@@ -56,6 +59,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Attack Ships",
+      "descriptionCN": "开启以派遣攻击船增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -82,6 +86,7 @@
       "baseId": "ability-bogmadr-production",
       "type": "ability",
       "name": "Bogmaðr Production",
+      "nameCN": "波莫生产",
       "pbgid": 9001671,
       "attribName": "passive_trait_bowman_toggle_byz_ha_mac",
       "age": 2,
@@ -89,6 +94,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Bogmaðr",
+      "descriptionCN": "开启以派遣波莫增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -115,6 +121,7 @@
       "baseId": "ability-border-settlement",
       "type": "ability",
       "name": "Border Settlement",
+      "nameCN": "边境聚落",
       "pbgid": 2140943,
       "attribName": "border_settlement_byz",
       "age": 1,
@@ -122,6 +129,7 @@
         "mac"
       ],
       "description": "Line of sight increased by 7 tiles.",
+      "descriptionCN": "视野范围增加 7 格。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -162,6 +170,7 @@
       "baseId": "ability-cisterns-favor",
       "type": "ability",
       "name": "Cistern's Favor",
+      "nameCN": "水池的恩惠",
       "pbgid": 9004106,
       "attribName": "landmark_cistern_boost_byz_ha_mac",
       "age": 1,
@@ -169,6 +178,7 @@
         "mac"
       ],
       "description": "Ability can be used on military production or technology buildings to increase their work rate by +150%. If used on Mining Camps, Lumber Camps, or Farms, begin generating 160 Gold, Wood, or Food over 60 seconds.\nRecharges every 90 seconds.",
+      "descriptionCN": "能力可对军事生产或科技建筑使用，使其工作速率 +150%。如果是对采矿场、伐木场或农田使用，则开始产生 160 黄金、木材或食物，持续 60 秒。\n每隔 90 秒补充一次。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -195,6 +205,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -202,6 +213,7 @@
         "mac"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -247,6 +259,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -254,6 +267,7 @@
         "mac"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -292,6 +306,7 @@
       "baseId": "ability-galley-production",
       "type": "ability",
       "name": "Galley Production",
+      "nameCN": "箭船生产",
       "pbgid": 9004097,
       "attribName": "passive_trait_lodya_galley_toggle_byz_ha_mac",
       "age": 2,
@@ -299,6 +314,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Galleys",
+      "descriptionCN": "开启以派遣箭船增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -325,6 +341,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -332,6 +349,7 @@
         "mac"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -372,6 +390,7 @@
       "baseId": "ability-riddari-production",
       "type": "ability",
       "name": "Riddari Production",
+      "nameCN": "瑞塔利生产",
       "pbgid": 9001673,
       "attribName": "passive_trait_knight_toggle_byz_ha_mac",
       "age": 3,
@@ -379,6 +398,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Riddari",
+      "descriptionCN": "开启以派遣瑞塔利增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -405,6 +425,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -412,6 +433,7 @@
         "mac"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -452,6 +474,7 @@
       "baseId": "ability-varangian-arsenal-influence",
       "type": "ability",
       "name": "Varangian Arsenal Influence",
+      "nameCN": "瓦兰吉兵工厂影响力",
       "pbgid": 9004485,
       "attribName": "silver_influence_byz_ha_mac",
       "age": 1,
@@ -459,6 +482,7 @@
         "mac"
       ],
       "description": "Supports nearby Mining Camps and Town Centers with passive Silver generation. The amount processed equals to 12% of the total amount of Silver dropped off at that mine.",
+      "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -484,6 +508,7 @@
       "baseId": "ability-varangian-guard-production",
       "type": "ability",
       "name": "Varangian Guard Production",
+      "nameCN": "瓦兰吉卫队生产",
       "pbgid": 9001672,
       "attribName": "passive_trait_warrior_toggle_byz_ha_mac",
       "age": 2,
@@ -491,6 +516,7 @@
         "mac"
       ],
       "description": "Toggle on to reinforce with Varangian Guards",
+      "descriptionCN": "开启以派遣瓦兰吉卫队增援",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -517,6 +543,7 @@
       "baseId": "ability-varangian-reinforcements",
       "type": "ability",
       "name": "Varangian Reinforcements",
+      "nameCN": "瓦兰吉援军",
       "pbgid": 9001605,
       "attribName": "varangian_free_unit_spawning",
       "age": 1,
@@ -524,6 +551,7 @@
         "mac"
       ],
       "description": "Reinforcing with Varangians, Galleys, or Attack Ships after enough units fall in battle.",
+      "descriptionCN": "在战斗中足够多的单位阵亡后，用瓦兰吉人、箭船或攻击船进行增援。",
       "classes": [],
       "displayClasses": [],
       "costs": {

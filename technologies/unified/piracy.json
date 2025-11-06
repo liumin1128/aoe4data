@@ -29,6 +29,7 @@
       "baseId": "piracy",
       "type": "technology",
       "name": "Piracy",
+      "nameCN": "海盗行为",
       "pbgid": 2033835,
       "attribName": "upgrade_naval_piracy_mon",
       "age": 2,
@@ -36,6 +37,7 @@
         "gol"
       ],
       "description": "Gain +25 Wood and +25 Gold when sinking an enemy ship.",
+      "descriptionCN": "击沉一艘敌方船只时可获得 +25 木材和 +25 黄金。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -85,6 +87,7 @@
       "baseId": "piracy",
       "type": "technology",
       "name": "Piracy",
+      "nameCN": "海盗行为",
       "pbgid": 2033835,
       "attribName": "upgrade_naval_piracy_mon",
       "age": 2,
@@ -92,6 +95,7 @@
         "mo"
       ],
       "description": "Gain +25 Wood and +25 Gold when sinking an enemy ship.",
+      "descriptionCN": "击沉一艘敌方船只时可获得 +25 木材和 +25 黄金。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

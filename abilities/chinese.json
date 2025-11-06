@@ -16,6 +16,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -23,6 +24,7 @@
         "ch"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -68,6 +70,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -75,6 +78,7 @@
         "ch"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -113,6 +117,7 @@
       "baseId": "ability-extra-materials",
       "type": "ability",
       "name": "Extra Materials",
+      "nameCN": "额外材料",
       "pbgid": 182388,
       "attribName": "tower_repair_nearby_walls_chi",
       "age": 1,
@@ -120,6 +125,7 @@
         "ch"
       ],
       "description": "Towers and Keeps repair nearby walls and gates for +25 health per second.",
+      "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -158,6 +164,7 @@
       "baseId": "ability-imperial-spies",
       "type": "ability",
       "name": "Imperial Spies",
+      "nameCN": "皇家密探",
       "pbgid": 206838,
       "attribName": "imperial_spies",
       "age": 3,
@@ -165,6 +172,7 @@
         "ch"
       ],
       "description": "Reveal location of enemy workers for 15 seconds.",
+      "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -204,6 +212,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -211,6 +220,7 @@
         "ch"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -251,6 +261,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -258,6 +269,7 @@
         "ch"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -298,6 +310,7 @@
       "baseId": "ability-spirit-way",
       "type": "ability",
       "name": "Spirit Way Ancestors",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 207131,
       "attribName": "spirit_way",
       "age": 4,
@@ -305,6 +318,7 @@
         "ch"
       ],
       "description": "When a dynasty unit is killed, nearby units receive +20% attack speed and +20 health over 10 seconds.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -331,6 +345,7 @@
       "baseId": "ability-the-long-wall",
       "type": "ability",
       "name": "The Long Wall",
+      "nameCN": "长墙",
       "pbgid": 2076747,
       "attribName": "great_wall_buff_chi",
       "age": 4,
@@ -338,6 +353,7 @@
         "ch"
       ],
       "description": "All units standing on Walls gain +25% ranged damage.",
+      "descriptionCN": "所有站在城墙上的单位的远程伤害 +25%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

@@ -62,6 +62,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -69,6 +70,7 @@
         "ab"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -136,6 +138,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -143,6 +146,7 @@
         "ay"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -210,6 +214,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -217,6 +222,7 @@
         "by"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -284,6 +290,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -291,6 +298,7 @@
         "ch"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -358,6 +366,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -365,6 +374,7 @@
         "de"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -432,6 +442,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -439,6 +450,7 @@
         "en"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -508,6 +520,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -515,6 +528,7 @@
         "fr"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -583,6 +597,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 186400,
       "attribName": "upgrade_outpost_cannon_mon",
       "age": 4,
@@ -590,6 +605,7 @@
         "gol"
       ],
       "description": "Add a defensive cannon emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -640,6 +656,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -647,6 +664,7 @@
         "hr"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -715,6 +733,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -722,6 +741,7 @@
         "hl"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -791,6 +811,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -798,6 +819,7 @@
         "ja"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -866,6 +888,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -873,6 +896,7 @@
         "je"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -941,6 +965,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -948,6 +973,7 @@
         "mac"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1015,6 +1041,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -1022,6 +1049,7 @@
         "ma"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1090,6 +1118,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 186400,
       "attribName": "upgrade_outpost_cannon_mon",
       "age": 4,
@@ -1097,6 +1126,7 @@
         "mo"
       ],
       "description": "Add a defensive cannon emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -1147,6 +1177,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -1154,6 +1185,7 @@
         "od"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1222,6 +1254,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -1229,6 +1262,7 @@
         "ru"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1296,6 +1330,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -1303,6 +1338,7 @@
         "sen"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1371,6 +1407,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 9001518,
       "attribName": "upgrade_keep_cannon_sul_ha_tug",
       "age": 4,
@@ -1378,6 +1415,7 @@
         "tug"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1444,6 +1482,7 @@
       "baseId": "cannon-emplacement",
       "type": "technology",
       "name": "Cannon Emplacement",
+      "nameCN": "加农炮炮台",
       "pbgid": 185626,
       "attribName": "upgrade_keep_cannon",
       "age": 4,
@@ -1451,6 +1490,7 @@
         "zx"
       ],
       "description": "Add a defensive cannon emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

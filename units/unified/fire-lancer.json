@@ -36,6 +36,7 @@
       "baseId": "fire-lancer",
       "type": "unit",
       "name": "Fire Lancer",
+      "nameCN": "火长矛骑兵",
       "pbgid": 156312,
       "attribName": "unit_firelancer_3_chi",
       "age": 3,
@@ -43,6 +44,7 @@
         "ch"
       ],
       "description": "Cavalry wielding explosive-tipped lances.\n+ Charge deals area damage\n+ Effective at raiding buildings and siege engines\n+ Good ranged armor\n- Weak in melee combat\n- Countered by Spearmen",
+      "descriptionCN": "手持带炸药长矛的骑兵。\n+ 冲锋可造成范围伤害\n+ 擅长突袭建筑和攻城器械\n+ 精良的远程护甲\n- 不擅近战\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -202,6 +204,7 @@
       "baseId": "fire-lancer",
       "type": "unit",
       "name": "Elite Fire Lancer",
+      "nameCN": "精锐火长矛骑兵",
       "pbgid": 156313,
       "attribName": "unit_firelancer_4_chi",
       "age": 4,
@@ -209,6 +212,7 @@
         "ch"
       ],
       "description": "Cavalry wielding explosive-tipped lances.\n+ Charge deals area damage\n+ Effective at raiding buildings and siege engines\n+ Good ranged armor\n- Weak in melee combat\n- Countered by Spearmen",
+      "descriptionCN": "手持带炸药长矛的骑兵。\n+ 冲锋可造成范围伤害\n+ 擅长突袭建筑和攻城器械\n+ 精良的远程护甲\n- 不擅近战\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

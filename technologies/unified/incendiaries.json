@@ -63,6 +63,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -70,6 +71,7 @@
         "ab"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -134,6 +136,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -141,6 +144,7 @@
         "ay"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -205,6 +209,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -212,6 +217,7 @@
         "ch"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -276,6 +282,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101969,
       "attribName": "upgrade_naval_incendiaries_sul",
       "age": 3,
@@ -283,6 +290,7 @@
         "de"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -331,6 +339,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -338,6 +347,7 @@
         "en"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -402,6 +412,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -409,6 +420,7 @@
         "fr"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -473,6 +485,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -480,6 +493,7 @@
         "gol"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -544,6 +558,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -551,6 +566,7 @@
         "hr"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -615,6 +631,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -622,6 +639,7 @@
         "hl"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -686,6 +704,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -693,6 +712,7 @@
         "ja"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -757,6 +777,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -764,6 +785,7 @@
         "je"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -828,6 +850,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -835,6 +858,7 @@
         "kt"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -899,6 +923,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -906,6 +931,7 @@
         "ma"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -970,6 +996,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -977,6 +1004,7 @@
         "mo"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1041,6 +1069,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -1048,6 +1077,7 @@
         "od"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1112,6 +1142,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -1119,6 +1150,7 @@
         "ot"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1183,6 +1215,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -1190,6 +1223,7 @@
         "ru"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1254,6 +1288,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -1261,6 +1296,7 @@
         "sen"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1325,6 +1361,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 7522107,
       "attribName": "upgrade_naval_incendiaries_sul_ha_tug",
       "age": 3,
@@ -1332,6 +1369,7 @@
         "tug"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -1380,6 +1418,7 @@
       "baseId": "incendiaries",
       "type": "technology",
       "name": "Incendiaries",
+      "nameCN": "燃烧弹",
       "pbgid": 2101633,
       "attribName": "upgrade_naval_incendiaries",
       "age": 3,
@@ -1387,6 +1426,7 @@
         "zx"
       ],
       "description": "Incendiary Ships gain +20% explosion range.",
+      "descriptionCN": "燃烧船的爆炸范围 +20%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

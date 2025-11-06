@@ -28,6 +28,7 @@
       "baseId": "pagoda",
       "type": "building",
       "name": "Pagoda",
+      "nameCN": "宝塔",
       "pbgid": 156488,
       "attribName": "building_dynasty_pagoda_control_chi",
       "age": 1,
@@ -35,6 +36,7 @@
         "ch"
       ],
       "description": "Religious units can pick up Relics and place them in the Pagoda to generate +100 Gold, +62 Food, +62 Wood, and +25 Stone every 60 seconds.",
+      "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，可以每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。",
       "classes": [
         "building",
         "pagoda_chi",
@@ -84,6 +86,7 @@
       "baseId": "pagoda",
       "type": "building",
       "name": "Pagoda",
+      "nameCN": "宝塔",
       "pbgid": 6893543,
       "attribName": "building_dynasty_pagoda_control_chi_ha_01",
       "age": 1,
@@ -91,6 +94,7 @@
         "zx"
       ],
       "description": "Religious units can pick up Relics and place them in the Pagoda to generate +100 Gold, +62 Food, +62 Wood, and +25 Stone every 60 seconds.",
+      "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，可以每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。",
       "classes": [
         "building",
         "military_production_building",

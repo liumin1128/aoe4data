@@ -27,6 +27,7 @@
       "baseId": "elite-chevalier-confreres",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 8999905,
       "attribName": "upgrade_unit_confrere_4_tem",
       "age": 4,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "Upgrade Veteran Chevalier Confreres to Elite Chevalier Confreres.",
+      "descriptionCN": "将老练同伴骑士升级为精锐同伴骑士。",
       "classes": [
         "french_upgrade",
         "military_upgrade",

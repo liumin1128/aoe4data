@@ -47,6 +47,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 136052,
       "attribName": "unit_manatarms_3_sul",
       "age": 3,
@@ -54,6 +55,7 @@
         "de"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -189,6 +191,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 136053,
       "attribName": "unit_manatarms_4_sul",
       "age": 4,
@@ -196,6 +199,7 @@
         "de"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -331,6 +335,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Vanguard Man-at-Arms",
+      "nameCN": "先锋武士",
       "pbgid": 166403,
       "attribName": "unit_manatarms_1_eng",
       "age": 1,
@@ -338,6 +343,7 @@
         "en"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -453,6 +459,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Early Man-at-Arms",
+      "nameCN": "早期武士",
       "pbgid": 166404,
       "attribName": "unit_manatarms_2_eng",
       "age": 2,
@@ -460,6 +467,7 @@
         "en"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -575,6 +583,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 166405,
       "attribName": "unit_manatarms_3_eng",
       "age": 3,
@@ -582,6 +591,7 @@
         "en"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -697,6 +707,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 166406,
       "attribName": "unit_manatarms_4_eng",
       "age": 4,
@@ -704,6 +715,7 @@
         "en"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -819,6 +831,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 132282,
       "attribName": "unit_manatarms_3_fre",
       "age": 3,
@@ -826,6 +839,7 @@
         "fr"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -938,6 +952,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 132283,
       "attribName": "unit_manatarms_4_fre",
       "age": 4,
@@ -945,6 +960,7 @@
         "fr"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1057,6 +1073,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 9004100,
       "attribName": "unit_manatarms_rally_mon_ha_gol",
       "age": 1,
@@ -1064,6 +1081,7 @@
         "gol"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "golden_tent_rally"
       ],
@@ -1165,6 +1183,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 5174785,
       "attribName": "unit_manatarms_3_mon_ha_gol",
       "age": 3,
@@ -1172,6 +1191,7 @@
         "gol"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1284,6 +1304,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 3443807,
       "attribName": "unit_manatarms_4_mon_ha_gol",
       "age": 4,
@@ -1291,6 +1312,7 @@
         "gol"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1403,6 +1425,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Early Man-at-Arms",
+      "nameCN": "早期武士",
       "pbgid": 168040,
       "attribName": "unit_manatarms_2_hre",
       "age": 2,
@@ -1410,6 +1433,7 @@
         "hr"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1620,6 +1644,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 134727,
       "attribName": "unit_manatarms_3_hre",
       "age": 3,
@@ -1627,6 +1652,7 @@
         "hr"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1837,6 +1863,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 134728,
       "attribName": "unit_manatarms_4_hre",
       "age": 4,
@@ -1844,6 +1871,7 @@
         "hr"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2054,6 +2082,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 132282,
       "attribName": "unit_manatarms_3_fre",
       "age": 3,
@@ -2061,6 +2090,7 @@
         "je"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2173,6 +2203,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 132283,
       "attribName": "unit_manatarms_4_fre",
       "age": 4,
@@ -2180,6 +2211,7 @@
         "je"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2292,6 +2324,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 8999951,
       "attribName": "unit_manatarms_3_tem",
       "age": 3,
@@ -2299,6 +2332,7 @@
         "kt"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2411,6 +2445,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 8999939,
       "attribName": "unit_manatarms_4_tem",
       "age": 4,
@@ -2418,6 +2453,7 @@
         "kt"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2530,6 +2566,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 129619,
       "attribName": "unit_manatarms_3_mon",
       "age": 3,
@@ -2537,6 +2574,7 @@
         "mo"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2649,6 +2687,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 136255,
       "attribName": "unit_manatarms_4_mon",
       "age": 4,
@@ -2656,6 +2695,7 @@
         "mo"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2768,6 +2808,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 2046442,
       "attribName": "unit_manatarms_3_ott",
       "age": 3,
@@ -2775,6 +2816,7 @@
         "ot"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -2888,6 +2930,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 2046443,
       "attribName": "unit_manatarms_4_ott",
       "age": 4,
@@ -2895,6 +2938,7 @@
         "ot"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3008,6 +3052,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 133465,
       "attribName": "unit_manatarms_3_rus",
       "age": 3,
@@ -3015,6 +3060,7 @@
         "ru"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3127,6 +3173,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 133466,
       "attribName": "unit_manatarms_4_rus",
       "age": 4,
@@ -3134,6 +3181,7 @@
         "ru"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3246,6 +3294,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Man-at-Arms",
+      "nameCN": "武士",
       "pbgid": 4147332,
       "attribName": "unit_manatarms_3_sul_ha_tug",
       "age": 3,
@@ -3253,6 +3302,7 @@
         "tug"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -3365,6 +3415,7 @@
       "baseId": "man-at-arms",
       "type": "unit",
       "name": "Elite Man-at-Arms",
+      "nameCN": "精锐武士",
       "pbgid": 3610285,
       "attribName": "unit_manatarms_4_sul_ha_tug",
       "age": 4,
@@ -3372,6 +3423,7 @@
         "tug"
       ],
       "description": "Tough infantry with good damage.\n+ High armor\n- Slow movement\n- Countered by Knights, Lancers, and Crossbowmen",
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

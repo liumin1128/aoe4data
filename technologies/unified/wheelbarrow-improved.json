@@ -28,6 +28,7 @@
       "baseId": "wheelbarrow-improved",
       "type": "technology",
       "name": "Wheelbarrow (Improved)",
+      "nameCN": "独轮推车 (已强化)",
       "pbgid": 169038,
       "attribName": "upgrade_unit_wheelbarrow_1_improved_mon",
       "age": 1,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increase Villagers' resource carry capacity by +9 and movement speed by +15%.\nIf Wheelbarrow has already been researched, increase carry capacity by +4 instead.",
+      "descriptionCN": "村民的资源运载量 +9，移动速度 +15%。\n如果已完成独轮推车研究，则资源运载量 +4。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",

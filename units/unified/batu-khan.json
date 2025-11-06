@@ -39,6 +39,7 @@
       "baseId": "batu-khan",
       "type": "unit",
       "name": "Batu Khan",
+      "nameCN": "拔都汗",
       "pbgid": 5069738,
       "attribName": "unit_khan_3_mon_ha_gol",
       "age": 3,
@@ -46,6 +47,7 @@
         "gol"
       ],
       "description": "Melee cavalry leader that buffs the attack damage of nearby allies while the Khan is attacking. Can only be recruited from the Golden Tent.\n+ Durable heavy cavalry\n+ Automatically improves with each Age\n- Only one Khan per Golden Horde player",
+      "descriptionCN": "近战骑兵领队，可在汗攻击时提高附近盟友的攻击伤害。只能通过黄金帐篷招募。\n+ 坚韧的重装骑兵\n+ 随时代推进自动增强\n- 每位金帐汗国玩家只能拥有一位汗",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -207,6 +209,7 @@
       "baseId": "batu-khan",
       "type": "unit",
       "name": "Batu Khan",
+      "nameCN": "拔都汗",
       "pbgid": 6151739,
       "attribName": "unit_khan_4_mon_ha_gol",
       "age": 4,
@@ -214,6 +217,7 @@
         "gol"
       ],
       "description": "Melee cavalry leader that buffs the attack damage of nearby allies while the Khan is attacking. Can only be recruited from the Golden Tent.\n+ Durable heavy cavalry\n+ Automatically improves with each Age\n- Only one Khan per Golden Horde player",
+      "descriptionCN": "近战骑兵领队，可在汗攻击时提高附近盟友的攻击伤害。只能通过黄金帐篷招募。\n+ 坚韧的重装骑兵\n+ 随时代推进自动增强\n- 每位金帐汗国玩家只能拥有一位汗",
       "classes": [
         "annihilation_condition",
         "armored",

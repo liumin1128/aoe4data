@@ -18,6 +18,7 @@
       "baseId": "ability-elephant-economics",
       "type": "ability",
       "name": "Elephant Economics",
+      "nameCN": "大象经济",
       "pbgid": 9001171,
       "attribName": "worker_elephant_resource_gathering_passive_sul_ha_tug",
       "age": 1,
@@ -25,6 +26,7 @@
         "tug"
       ],
       "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
+      "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

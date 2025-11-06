@@ -18,6 +18,7 @@
       "baseId": "ability-strength-of-heaven",
       "type": "ability",
       "name": "Strength of Heaven",
+      "nameCN": "天堂之力",
       "pbgid": 2139646,
       "attribName": "jeanne_d_arc_inspired_ally_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne chooses a unit to bless, bestowing them with incredible strength and durability. The chosen warrior gains 300 health, 4 Melee and Ranged Armor, and +300% damage.\nJeanne may only bless one unit at a time.\nCooldown: 30 Seconds.",
+      "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {

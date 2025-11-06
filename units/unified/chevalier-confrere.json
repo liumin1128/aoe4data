@@ -39,6 +39,7 @@
       "baseId": "chevalier-confrere",
       "type": "unit",
       "name": "Chevalier Confrere",
+      "nameCN": "同伴骑士",
       "pbgid": 8999895,
       "attribName": "unit_chevalier_confrere_2_tem",
       "age": 2,
@@ -46,6 +47,7 @@
         "kt"
       ],
       "description": "Heavy cavalry with high damage. Gains health from nearby Heavy Cavalry.\n+ Cheaper than a regular knight\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "重装骑兵，可造成较高伤害。附近存在重装骑兵时，可获得额外生命值加成。\n+ 比普通骑士便宜\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -184,6 +186,7 @@
       "baseId": "chevalier-confrere",
       "type": "unit",
       "name": "Veteran Chevalier Confrere",
+      "nameCN": "老练同伴骑士",
       "pbgid": 8999896,
       "attribName": "unit_chevalier_confrere_3_tem",
       "age": 3,
@@ -191,6 +194,7 @@
         "kt"
       ],
       "description": "Heavy cavalry with high damage. Gains health from nearby Heavy Cavalry.\n+ Cheaper than a regular knight\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "重装骑兵，可造成较高伤害。附近存在重装骑兵时，可获得额外生命值加成。\n+ 比普通骑士便宜\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -329,6 +333,7 @@
       "baseId": "chevalier-confrere",
       "type": "unit",
       "name": "Elite Chevalier Confrere",
+      "nameCN": "精锐同伴骑士",
       "pbgid": 8999897,
       "attribName": "unit_chevalier_confrere_4_tem",
       "age": 4,
@@ -336,6 +341,7 @@
         "kt"
       ],
       "description": "Heavy cavalry with high damage. Gains health from nearby Heavy Cavalry.\n+ Cheaper than a regular knight\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "重装骑兵，可造成较高伤害。附近存在重装骑兵时，可获得额外生命值加成。\n+ 比普通骑士便宜\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

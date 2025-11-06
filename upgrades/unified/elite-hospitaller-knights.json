@@ -27,6 +27,7 @@
       "baseId": "elite-hospitaller-knights",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 8999916,
       "attribName": "upgrade_unit_hospitaller_4_tem",
       "age": 4,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "Upgrade Veteran Hospitaller Knights to Elite Hospitaller Knights.",
+      "descriptionCN": "将老练医院骑士升级为精锐医院骑士。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",

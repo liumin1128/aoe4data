@@ -64,6 +64,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -155,6 +157,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -162,6 +165,7 @@
         "ay"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -246,6 +250,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -253,6 +258,7 @@
         "by"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -337,6 +343,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -344,6 +351,7 @@
         "ch"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -428,6 +436,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188367,
       "attribName": "upgrade_ranged_damage_ii_sul",
       "age": 3,
@@ -435,6 +444,7 @@
         "de"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -503,6 +513,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -510,6 +521,7 @@
         "en"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -594,6 +606,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -601,6 +614,7 @@
         "fr"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -685,6 +699,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -692,6 +707,7 @@
         "gol"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -776,6 +792,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -783,6 +800,7 @@
         "hr"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -868,6 +886,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -875,6 +894,7 @@
         "hl"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -959,6 +979,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -966,6 +987,7 @@
         "ja"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1050,6 +1072,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1057,6 +1080,7 @@
         "je"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1141,6 +1165,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1148,6 +1173,7 @@
         "kt"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1232,6 +1258,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1239,6 +1266,7 @@
         "ma"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1323,6 +1351,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1330,6 +1359,7 @@
         "mo"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1414,6 +1444,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1421,6 +1452,7 @@
         "od"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1506,6 +1538,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1513,6 +1546,7 @@
         "ot"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1597,6 +1631,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1604,6 +1639,7 @@
         "ru"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1688,6 +1724,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1695,6 +1732,7 @@
         "sen"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1779,6 +1817,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 9003711,
       "attribName": "upgrade_ranged_damage_ii_sul_ha_tug",
       "age": 3,
@@ -1786,6 +1825,7 @@
         "tug"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -1854,6 +1894,7 @@
       "baseId": "balanced-projectiles",
       "type": "technology",
       "name": "Balanced Projectiles",
+      "nameCN": "平衡炮弹",
       "pbgid": 188270,
       "attribName": "upgrade_ranged_damage_ii",
       "age": 3,
@@ -1861,6 +1902,7 @@
         "zx"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -35,6 +35,7 @@
       "baseId": "school-of-cavalry",
       "type": "building",
       "name": "School of Cavalry",
+      "nameCN": "骑兵学校",
       "pbgid": 132778,
       "attribName": "building_landmark_age1_casernes_centrales_fre",
       "age": 1,
@@ -42,6 +43,7 @@
         "fr"
       ],
       "description": "Acts as a Stable. All of your stables produce units +20% faster.",
+      "descriptionCN": "可作为马厩使用。你所有马厩的单位生产速度 +20%。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -100,6 +102,7 @@
       "baseId": "school-of-cavalry",
       "type": "building",
       "name": "School of Cavalry",
+      "nameCN": "骑兵学校",
       "pbgid": 2364827,
       "attribName": "building_landmark_age1_casernes_centrales_fre_ha_01",
       "age": 1,
@@ -107,6 +110,7 @@
         "je"
       ],
       "description": "Acts as a Stable. All of your stables produce units +20% faster.",
+      "descriptionCN": "可作为马厩使用。你所有马厩的单位生产速度 +20%。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

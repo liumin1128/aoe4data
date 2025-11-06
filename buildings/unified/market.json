@@ -53,6 +53,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 199632,
       "attribName": "building_econ_market_control_abb",
       "age": 2,
@@ -60,6 +61,7 @@
         "ab"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -115,6 +117,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 6984985,
       "attribName": "building_econ_market_control_abb_ha_01",
       "age": 2,
@@ -122,6 +125,7 @@
         "ay"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -178,6 +182,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 2104738,
       "attribName": "building_econ_market_control_byz",
       "age": 2,
@@ -185,6 +190,7 @@
         "by"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+      "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
       "classes": [
         "building",
         "economy_building",
@@ -240,6 +246,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 144675,
       "attribName": "building_econ_market_control_chi",
       "age": 2,
@@ -247,6 +254,7 @@
         "ch"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+      "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
       "classes": [
         "building",
         "economy_building",
@@ -302,6 +310,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 135819,
       "attribName": "building_econ_market_control_sul",
       "age": 2,
@@ -309,6 +318,7 @@
         "de"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -362,6 +372,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 166257,
       "attribName": "building_econ_market_control_eng",
       "age": 2,
@@ -369,6 +380,7 @@
         "en"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -422,6 +434,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 132636,
       "attribName": "building_econ_market_control_fre",
       "age": 2,
@@ -429,6 +442,7 @@
         "fr"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -483,6 +497,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 5761342,
       "attribName": "building_econ_market_mon_ha_gol",
       "age": 2,
@@ -490,6 +505,7 @@
         "gol"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -543,6 +559,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 134777,
       "attribName": "building_econ_market_control_hre",
       "age": 2,
@@ -550,6 +567,7 @@
         "hr"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -605,6 +623,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 5000037,
       "attribName": "building_econ_market_lan",
       "age": 2,
@@ -612,6 +631,7 @@
         "hl"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -665,6 +685,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 4525187,
       "attribName": "building_econ_market_jpn",
       "age": 2,
@@ -672,6 +693,7 @@
         "ja"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -725,6 +747,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 3090180,
       "attribName": "building_econ_market_control_fre_ha_01",
       "age": 2,
@@ -732,6 +755,7 @@
         "je"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -786,6 +810,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 5000224,
       "attribName": "building_market_tem",
       "age": 2,
@@ -793,6 +818,7 @@
         "kt"
       ],
       "description": "Allows the buying and selling of resources and the activation of Pilgrim Loans.",
+      "descriptionCN": "允许买卖资源并激活朝圣者借贷。",
       "classes": [
         "building",
         "economy_building",
@@ -847,6 +873,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 9000932,
       "attribName": "building_econ_market_control_byz_ha_mac",
       "age": 2,
@@ -854,6 +881,7 @@
         "mac"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+      "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
       "classes": [
         "building",
         "economy_building",
@@ -907,6 +935,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 2956170,
       "attribName": "building_econ_market_mal",
       "age": 2,
@@ -914,6 +943,7 @@
         "ma"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -967,6 +997,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 129989,
       "attribName": "building_econ_market_mon",
       "age": 2,
@@ -974,6 +1005,7 @@
         "mo"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1030,6 +1062,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 2332608,
       "attribName": "building_econ_market_control_hre_ha_01",
       "age": 2,
@@ -1037,6 +1070,7 @@
         "od"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1092,6 +1126,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 2034603,
       "attribName": "building_econ_market_ott",
       "age": 2,
@@ -1099,6 +1134,7 @@
         "ot"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1152,6 +1188,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 133355,
       "attribName": "building_econ_market_control_rus",
       "age": 2,
@@ -1159,6 +1196,7 @@
         "ru"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1212,6 +1250,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 8829965,
       "attribName": "building_econ_market_control_sul_ha_tug",
       "age": 2,
@@ -1219,6 +1258,7 @@
         "tug"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -1272,6 +1312,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 3933205,
       "attribName": "building_econ_market_control_chi_ha_01",
       "age": 2,
@@ -1279,6 +1320,7 @@
         "zx"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+      "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
       "classes": [
         "building",
         "economy_building",

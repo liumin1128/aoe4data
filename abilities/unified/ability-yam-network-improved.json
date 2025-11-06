@@ -18,6 +18,7 @@
       "baseId": "ability-yam-network-improved",
       "type": "ability",
       "name": "Yam Network (Improved)",
+      "nameCN": "驿站",
       "pbgid": 190079,
       "attribName": "outpost_speed_improved_mon",
       "age": 2,
@@ -25,6 +26,7 @@
         "mo"
       ],
       "description": "Yam speed aura applies to all units instead of just Traders and cavalry units. Does not apply to siege engines.",
+      "descriptionCN": "速度提升 25%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

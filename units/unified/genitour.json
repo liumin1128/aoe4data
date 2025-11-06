@@ -37,6 +37,7 @@
       "baseId": "genitour",
       "type": "unit",
       "name": "Genitour",
+      "nameCN": "标枪骑兵",
       "pbgid": 8999907,
       "attribName": "unit_genitour_3_tem",
       "age": 3,
@@ -44,6 +45,7 @@
         "kt"
       ],
       "description": "Highly mobile ranged cavalry that throws javelins.\n+ High mobility\n+ Exceptional versus ranged units\n+ High ranged armor\n- Weak versus Melee",
+      "descriptionCN": "高机动性的远程骑兵，可投掷标枪。\n+ 高机动性\n+ 非常擅长对付远程单位\n+ 高远程护甲\n - 不擅长对付近战单位",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -144,6 +146,7 @@
       "baseId": "genitour",
       "type": "unit",
       "name": "Elite Genitour",
+      "nameCN": "精锐标枪骑兵",
       "pbgid": 8999908,
       "attribName": "unit_genitour_4_tem",
       "age": 4,
@@ -151,6 +154,7 @@
         "kt"
       ],
       "description": "Highly mobile ranged cavalry that throws javelins.\n+ High mobility\n+ Exceptional versus ranged units\n+ High ranged armor\n- Weak versus Melee",
+      "descriptionCN": "高机动性的远程骑兵，可投掷标枪。\n+ 高机动性\n+ 非常擅长对付远程单位\n+ 高远程护甲\n - 不擅长对付近战单位",
       "classes": [
         "annihilation_condition",
         "archer",

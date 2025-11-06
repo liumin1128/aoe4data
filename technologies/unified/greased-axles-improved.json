@@ -28,6 +28,7 @@
       "baseId": "greased-axles-improved",
       "type": "technology",
       "name": "Greased Axles (Improved)",
+      "nameCN": "润滑轮轴 (已强化)",
       "pbgid": 191390,
       "attribName": "upgrade_siege_weapon_speed_improved_mon",
       "age": 3,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increase the movement speed of siege engines by +25%.\nIf Greased Axles has already been researched, increase it by +10% instead.",
+      "descriptionCN": "攻城器械的移动速度 +25%。\n如果已完成润滑轮轴研究，则 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

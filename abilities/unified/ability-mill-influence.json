@@ -18,6 +18,7 @@
       "baseId": "ability-mill-influence",
       "type": "ability",
       "name": "Mill Influence",
+      "nameCN": "磨坊影响力",
       "pbgid": 1451854,
       "attribName": "mill_influence_eng",
       "age": 1,
@@ -25,6 +26,7 @@
         "en"
       ],
       "description": "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill.",
+      "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

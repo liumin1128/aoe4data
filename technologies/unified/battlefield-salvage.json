@@ -21,6 +21,7 @@
       "baseId": "battlefield-salvage",
       "type": "technology",
       "name": "Battlefield Salvage",
+      "nameCN": "战场救援",
       "pbgid": 9004462,
       "attribName": "upgrade_kharash_improvement_mon_ha_gol",
       "age": 3,
@@ -28,6 +29,7 @@
         "gol"
       ],
       "description": "Kharash are equipped with shields, gaining +2 ranged armor, +2 melee armor, and increase their health by +25.",
+      "descriptionCN": "肉盾装备有护盾，可使远程护甲 +2，近战护甲 +2，生命值 +25。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"

@@ -25,6 +25,7 @@
       "baseId": "pax-mongolica",
       "type": "technology",
       "name": "Pax Mongolica",
+      "nameCN": "蒙古和平",
       "pbgid": 2146759,
       "attribName": "upgrade_outpost_stone_mon",
       "age": 4,
@@ -32,6 +33,7 @@
         "mo"
       ],
       "description": "Add +300 health and +3 fire armor to all Outposts.",
+      "descriptionCN": "所有哨站的生命值 +300，火焰护甲 +3。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

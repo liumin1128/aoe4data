@@ -18,6 +18,7 @@
       "baseId": "ability-trample",
       "type": "ability",
       "name": "Trample",
+      "nameCN": "践踏",
       "pbgid": 2133600,
       "attribName": "cataphract_trample_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Charge through enemy units in your path, dealing 12 damage to each one.",
+      "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
       "classes": [],
       "displayClasses": [],
       "costs": {

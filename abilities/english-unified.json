@@ -29,6 +29,7 @@
           "baseId": "ability-abbey-healing",
           "type": "ability",
           "name": "Abbey Healing",
+          "nameCN": "修道院治疗",
           "pbgid": 202453,
           "attribName": "abbey_of_kings_heal_aura_eng",
           "age": 2,
@@ -36,6 +37,7 @@
             "en"
           ],
           "description": "Heals nearby out of combat units by 6 every 1 seconds.",
+          "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -107,6 +109,7 @@
           "baseId": "ability-arrow-volley",
           "type": "ability",
           "name": "Arrow Volley",
+          "nameCN": "万箭齐发",
           "pbgid": 178834,
           "attribName": "longbow_rate_of_fire_ability",
           "age": 4,
@@ -114,6 +117,7 @@
             "en"
           ],
           "description": "Reduce Longbowman's time to attack by +1 second for a duration of 6 seconds.",
+          "descriptionCN": "将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -166,6 +170,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -173,6 +178,7 @@
             "en"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -233,6 +239,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -240,6 +247,7 @@
             "en"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -293,6 +301,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -300,6 +309,7 @@
             "en"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -355,6 +365,7 @@
           "baseId": "ability-mill-influence",
           "type": "ability",
           "name": "Mill Influence",
+          "nameCN": "磨坊影响力",
           "pbgid": 1451854,
           "attribName": "mill_influence_eng",
           "age": 1,
@@ -362,6 +373,7 @@
             "en"
           ],
           "description": "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill.",
+          "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -418,6 +430,7 @@
           "baseId": "ability-network-of-castles",
           "type": "ability",
           "name": "Network of Castles",
+          "nameCN": "城堡网络",
           "pbgid": 168608,
           "attribName": "tower_outpost_alert_aura_eng",
           "age": 1,
@@ -425,6 +438,7 @@
             "en"
           ],
           "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +20% increase to attack speed.",
+          "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -505,6 +519,7 @@
           "baseId": "ability-network-of-citadels",
           "type": "ability",
           "name": "Network of Citadels",
+          "nameCN": "城堡网络",
           "pbgid": 2160807,
           "attribName": "network_of_citadels_eng",
           "age": 1,
@@ -512,6 +527,7 @@
             "en"
           ],
           "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +30% increase to attack speed.",
+          "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -582,6 +598,7 @@
           "baseId": "ability-place-palings",
           "type": "ability",
           "name": "Place Palings",
+          "nameCN": "放置拒马",
           "pbgid": 2025568,
           "attribName": "deploy_palings",
           "age": 1,
@@ -589,6 +606,7 @@
             "en"
           ],
           "description": "Enemy cavalry are stunned for 2.5 seconds and take 25 damage.",
+          "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -648,6 +666,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -655,6 +674,7 @@
             "en"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -711,6 +731,7 @@
           "baseId": "ability-setup-camp",
           "type": "ability",
           "name": "Setup Camp",
+          "nameCN": "预备营地",
           "pbgid": 2133269,
           "attribName": "deploy_campfire_eng",
           "age": 2,
@@ -718,6 +739,7 @@
             "en"
           ],
           "description": "Place a Campfire which increases sight range of nearby units by +30% and Villager gather rate for huntable animals by +10%.\nA maximum of 5 Campfires can be lit at any one time. Placing an additional Campfire extinguishes an older one.",
+          "descriptionCN": "放置篝火，使附近单位的视野范围 +30%，村民采集可狩猎动物的速率 +10%。\n任何时候最多可以点燃 5 堆篝火。额外放置一堆篝火会熄灭一堆旧篝火。",
           "classes": [],
           "displayClasses": [],
           "costs": {

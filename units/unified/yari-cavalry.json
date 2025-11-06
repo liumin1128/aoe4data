@@ -35,6 +35,7 @@
       "baseId": "yari-cavalry",
       "type": "unit",
       "name": "Yari Cavalry",
+      "nameCN": "日本长枪骑兵",
       "pbgid": 5853796,
       "attribName": "unit_horseman_2_jpn_ha_sen",
       "age": 2,
@@ -42,6 +43,7 @@
         "sen"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -189,6 +191,7 @@
       "baseId": "yari-cavalry",
       "type": "unit",
       "name": "Veteran Yari Cavalry",
+      "nameCN": "老练日本长枪骑兵",
       "pbgid": 6279242,
       "attribName": "unit_horseman_3_jpn_ha_sen",
       "age": 3,
@@ -196,6 +199,7 @@
         "sen"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -343,6 +347,7 @@
       "baseId": "yari-cavalry",
       "type": "unit",
       "name": "Elite Yari Cavalry",
+      "nameCN": "精锐日本长枪骑兵",
       "pbgid": 5206708,
       "attribName": "unit_horseman_4_jpn_ha_sen",
       "age": 4,
@@ -350,6 +355,7 @@
         "sen"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

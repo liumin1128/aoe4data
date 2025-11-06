@@ -16,6 +16,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 129848,
       "attribName": "building_unit_ranged_mon",
       "age": 2,
@@ -23,6 +24,7 @@
         "mo"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -78,6 +80,7 @@
       "baseId": "barracks",
       "type": "building",
       "name": "Barracks",
+      "nameCN": "兵营",
       "pbgid": 130007,
       "attribName": "building_unit_infantry_mon",
       "age": 1,
@@ -85,6 +88,7 @@
         "mo"
       ],
       "description": "Produces melee infantry units.",
+      "descriptionCN": "生产近战步兵单位。",
       "classes": [
         "barracks",
         "building",
@@ -140,6 +144,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 129991,
       "attribName": "building_tech_unit_infantry_mon",
       "age": 2,
@@ -147,6 +152,7 @@
         "mo"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -200,6 +206,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 173907,
       "attribName": "building_town_center_capital_mon",
       "age": 1,
@@ -207,6 +214,7 @@
         "mo"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民和侦察兵。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "defensive_structure",
@@ -282,6 +290,7 @@
       "baseId": "deer-stones",
       "type": "building",
       "name": "Deer Stones",
+      "nameCN": "鹿石",
       "pbgid": 136383,
       "attribName": "building_wonder_age1_deer_stones_mon",
       "age": 1,
@@ -289,6 +298,7 @@
         "mo"
       ],
       "description": "Deer Stones grant access to the Khan's Hunter at the Archery Range.\nInstantly researches the Yam Network technology.",
+      "descriptionCN": "有了鹿石，可以在靶场获得汗的猎人。\n立即研究驿站网络科技。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -344,6 +354,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 193148,
       "attribName": "building_unit_naval_mon",
       "age": 1,
@@ -351,6 +362,7 @@
         "mo"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "classes": [
         "building",
         "military_only_production",
@@ -413,6 +425,7 @@
       "baseId": "ger",
       "type": "building",
       "name": "Ger",
+      "nameCN": "蒙古包",
       "pbgid": 129843,
       "attribName": "building_house_mon",
       "age": 1,
@@ -420,6 +433,7 @@
         "mo"
       ],
       "description": "Villagers can drop off Food, Wood, and Gold at this building. Houses technologies to improve resource gathering.\nStone is gathered through Ovoos.",
+      "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
       "classes": [
         "building",
         "economy_building",
@@ -478,6 +492,7 @@
       "baseId": "khaganate-palace",
       "type": "building",
       "name": "Khaganate Palace",
+      "nameCN": "汗国宫殿",
       "pbgid": 131452,
       "attribName": "building_wonder_age3_khanbaliq_mon",
       "age": 3,
@@ -485,6 +500,7 @@
         "mo"
       ],
       "description": "Automatically spawns diverse armies from across the Mongol Empire and its dominions.",
+      "descriptionCN": "自动生成来自蒙古帝国及其领地的各种军队。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -542,6 +558,7 @@
       "baseId": "kurultai",
       "type": "building",
       "name": "Kurultai",
+      "nameCN": "忽里勒台",
       "pbgid": 136384,
       "attribName": "building_wonder_age1_kurultai_mon",
       "age": 2,
@@ -549,6 +566,7 @@
         "mo"
       ],
       "description": "Nearby units within its aura heal +1 health every 1 second and gain an additional +20% damage.",
+      "descriptionCN": "其光环内的附近单位每 1 秒治疗 +1 生命值，并获得额外 +20% 伤害。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",
@@ -604,6 +622,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 129989,
       "attribName": "building_econ_market_mon",
       "age": 2,
@@ -611,6 +630,7 @@
         "mo"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader.",
+      "descriptionCN": "可生产商人及买卖资源。",
       "classes": [
         "building",
         "economy_building",
@@ -667,6 +687,7 @@
       "baseId": "monument-of-the-great-khan",
       "type": "building",
       "name": "Monument of the Great Khan",
+      "nameCN": "大汗纪念碑",
       "pbgid": 174373,
       "attribName": "building_wonder_age4_final_wonder_mon",
       "age": 4,
@@ -674,6 +695,7 @@
         "mo"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -725,6 +747,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 130795,
       "attribName": "building_defense_outpost_mon",
       "age": 1,
@@ -732,6 +755,7 @@
         "mo"
       ],
       "description": "Light garrison and defensible position.\nExtensive line of sight and detects units stealth or disguises.\nCan be upgraded with weaponry.\nYam: Increases the speed of nearby Cavalry and Traders.",
+      "descriptionCN": "简单的驻军及防守位置。\n视野开阔，可侦测匿踪或伪装单位。\n可升级武器。\n驿站：提升附近骑兵和商人的速度。",
       "classes": [
         "building",
         "defensive_structure",
@@ -796,6 +820,7 @@
       "baseId": "ovoo",
       "type": "building",
       "name": "Ovoo",
+      "nameCN": "敖包",
       "pbgid": 168502,
       "attribName": "building_stone_deposit_ovoo_mon",
       "age": 1,
@@ -803,6 +828,7 @@
         "mo"
       ],
       "description": "Must be built on a Stone Outcropping.\nHarvests 70/100/120/150 Stone per minute by Age. Houses unique Mongol technologies.\nConstructing a new Ovoo will destroy the prior one.",
+      "descriptionCN": "必须建在石料露头上。\n随着时代提升，每分钟采集 70/100/120/150 石料。可研究独特蒙古科技。\n建造新敖包会摧毁旧有的敖包。",
       "classes": [
         "building",
         "ovoo",
@@ -854,6 +880,7 @@
       "baseId": "pasture",
       "type": "building",
       "name": "Pasture",
+      "nameCN": "牧场",
       "pbgid": 168713,
       "attribName": "building_pasture_mon",
       "age": 1,
@@ -861,6 +888,7 @@
         "mo"
       ],
       "description": "Automatically produces a gatherable Sheep every 140 seconds. Will eventually stop producing if too many Sheep are produced and not gathered.",
+      "descriptionCN": "每 140 秒自动生产一只可收集的绵羊。如果生产的绵羊太多且没有被收集，则生产将停止。",
       "classes": [
         "building",
         "emits_herding_interest",
@@ -916,6 +944,7 @@
       "baseId": "prayer-tent",
       "type": "building",
       "name": "Prayer Tent",
+      "nameCN": "祈祷帐篷",
       "pbgid": 137157,
       "attribName": "building_unit_religious_mon",
       "age": 3,
@@ -923,6 +952,7 @@
         "mo"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -977,6 +1007,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 129855,
       "attribName": "building_unit_siege_mon",
       "age": 3,
@@ -984,6 +1015,7 @@
         "mo"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1039,6 +1071,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 129993,
       "attribName": "building_unit_cavalry_mon",
       "age": 1,
@@ -1046,6 +1079,7 @@
         "mo"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -1101,6 +1135,7 @@
       "baseId": "steppe-redoubt",
       "type": "building",
       "name": "Steppe Redoubt",
+      "nameCN": "草原防卫据点",
       "pbgid": 136386,
       "attribName": "building_wonder_age2_khara_khoto_mon",
       "age": 2,
@@ -1108,6 +1143,7 @@
         "mo"
       ],
       "description": "Acts as a Ger. Gold dropped off at this Landmark is increased by +50%.",
+      "descriptionCN": "可作为蒙古包使用。在此地标存放黄金时，获得的黄金 +50%。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",
@@ -1170,6 +1206,7 @@
       "baseId": "the-silver-tree",
       "type": "building",
       "name": "The Silver Tree",
+      "nameCN": "银之树",
       "pbgid": 136385,
       "attribName": "building_wonder_age2_karakorum_mon",
       "age": 1,
@@ -1177,6 +1214,7 @@
         "mo"
       ],
       "description": "Acts as a Market. Production speed of Traders increased by +40% with a -40% reduced Gold cost.",
+      "descriptionCN": "可作为市场使用。贸易商的生产速度提高+40%，黄金成本降低-40%。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -1237,6 +1275,7 @@
       "baseId": "the-white-stupa",
       "type": "building",
       "name": "The White Stupa",
+      "nameCN": "白色浮屠佛塔",
       "pbgid": 136389,
       "attribName": "building_wonder_age3_stupa_mon",
       "age": 3,
@@ -1244,6 +1283,7 @@
         "mo"
       ],
       "description": "Acts as an Ovoo and produces 240 Stone per minute without a Stone Outcropping.\nDecreases the Stone cost of double unit production by -50%.",
+      "descriptionCN": "可作为敖包使用，并且不需要石料露头就可以每分钟生产 240 石料。\n双倍单位生产的石料成本 -50%。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -1304,6 +1344,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 129271,
       "attribName": "building_town_center_mon",
       "age": 1,
@@ -1311,6 +1352,7 @@
         "mo"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises",
+      "descriptionCN": "可在此存放所有资源。可生产村民与侦察兵。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
       "classes": [
         "building",
         "emits_herding_interest",

@@ -18,6 +18,7 @@
       "baseId": "ability-pilgrim-loan-medium",
       "type": "ability",
       "name": "Pilgrim Loan (Medium)",
+      "nameCN": "朝圣者借贷 (中等)",
       "pbgid": 9000132,
       "attribName": "pilgrim_loan_medium_tem",
       "age": 1,
@@ -25,6 +26,7 @@
         "kt"
       ],
       "description": "Provide a loan to Pilgrims that will be repaid at a rate of 600 gold per minute for 3 minutes",
+      "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
       "classes": [],
       "displayClasses": [],
       "costs": {

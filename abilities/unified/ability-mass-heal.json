@@ -18,6 +18,7 @@
       "baseId": "ability-mass-heal",
       "type": "ability",
       "name": "Mass Heal",
+      "nameCN": "群体治疗",
       "pbgid": 2126592,
       "attribName": "monk_aoe_heal",
       "age": 1,
@@ -25,6 +26,7 @@
         "ay"
       ],
       "description": "Heals all nearby units. Heals +50% times faster when carrying a relic.",
+      "descriptionCN": "治疗附近所有单位。携带圣物时治疗速度要快 +50% 倍。",
       "classes": [],
       "displayClasses": [],
       "costs": {

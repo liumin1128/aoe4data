@@ -34,6 +34,7 @@
       "baseId": "khaganate-palace",
       "type": "building",
       "name": "Khaganate Palace",
+      "nameCN": "汗国宫殿",
       "pbgid": 131452,
       "attribName": "building_wonder_age3_khanbaliq_mon",
       "age": 3,
@@ -41,6 +42,7 @@
         "mo"
       ],
       "description": "Automatically spawns diverse armies from across the Mongol Empire and its dominions.",
+      "descriptionCN": "自动生成来自蒙古帝国及其领地的各种军队。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

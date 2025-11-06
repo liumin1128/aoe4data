@@ -44,6 +44,7 @@
           "baseId": "atakebune",
           "type": "unit",
           "name": "Atakebune",
+          "nameCN": "安宅船",
           "pbgid": 4708845,
           "attribName": "unit_naval_combat_warship_4_jpn",
           "age": 4,
@@ -51,6 +52,7 @@
             "ja"
           ],
           "description": "Large sailed war vessel armed with rockets.\n+ Anti-structure specialist\n- Vulnerable vs. Incendiary Ships\n- Low movement speed",
+          "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "gunpowder",
@@ -176,6 +178,7 @@
           "baseId": "battering-ram",
           "type": "unit",
           "name": "Battering Ram",
+          "nameCN": "攻城锤",
           "pbgid": 2140594,
           "attribName": "unit_workshop_ram_3_jpn",
           "age": 2,
@@ -183,6 +186,7 @@
             "ja"
           ],
           "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+          "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -317,6 +321,7 @@
           "baseId": "bombard",
           "type": "unit",
           "name": "Bombard",
+          "nameCN": "手推炮",
           "pbgid": 7319578,
           "attribName": "unit_bombard_4_jpn",
           "age": 4,
@@ -324,6 +329,7 @@
             "ja"
           ],
           "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+          "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "bombard",
@@ -493,6 +499,7 @@
           "baseId": "buddhist-monk",
           "type": "unit",
           "name": "Buddhist Monk",
+          "nameCN": "佛教僧侣",
           "pbgid": 6891673,
           "attribName": "unit_monk_buddhist_3_jpn",
           "age": 3,
@@ -500,6 +507,7 @@
             "ja"
           ],
           "description": "Support unit with the ability to decrease enemy attack damage. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Reduced cost\n+ Conversion enhances friendly unit damage\n+ Automatically reduces enemy attack damage\n+ Heals units",
+          "descriptionCN": "能够减少敌人攻击伤害的辅助单位。可拾取圣物、招降敌方单位及占领圣地。\n+ 成本更低\n+ 招降可提高友军单位伤害\n+ 自动减少敌人攻击伤害\n+ 可治疗单位",
           "classes": [
             "annihilation_condition",
             "buddhist_monk_jpn",
@@ -583,6 +591,7 @@
           "baseId": "counterweight-trebuchet",
           "type": "unit",
           "name": "Counterweight Trebuchet",
+          "nameCN": "配重式巨型投石机",
           "pbgid": 3600511,
           "attribName": "unit_trebuchet_4_cw_jpn",
           "age": 3,
@@ -590,6 +599,7 @@
             "ja"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -730,6 +740,7 @@
           "baseId": "explosive-junk",
           "type": "unit",
           "name": "Explosive Junk",
+          "nameCN": "爆破型戎克船",
           "pbgid": 3737428,
           "attribName": "unit_naval_fireship_3_jpn",
           "age": 2,
@@ -737,6 +748,7 @@
             "ja"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -870,6 +882,7 @@
           "baseId": "fishing-boat",
           "type": "unit",
           "name": "Fishing Boat",
+          "nameCN": "渔船",
           "pbgid": 6326214,
           "attribName": "unit_naval_fishing_boat_2_jpn",
           "age": 2,
@@ -877,6 +890,7 @@
             "ja"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "naval_fishing_ship",
@@ -960,6 +974,7 @@
           "baseId": "handcannon-ashigaru",
           "type": "unit",
           "name": "Handcannon Ashigaru",
+          "nameCN": "手铳足轻",
           "pbgid": 4137773,
           "attribName": "unit_handcannon_4_jpn",
           "age": 4,
@@ -967,6 +982,7 @@
             "ja"
           ],
           "description": "Powerful all-purpose ranged infantry.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -1100,7 +1116,9 @@
         }
       ],
       "baseId": "horseman",
+      "nameCN": "骑手",
       "age": 2,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 100,
         "wood": 20,
@@ -1216,6 +1234,7 @@
         },
         "horseman-3": {
           "name": "Veteran Horseman",
+          "nameCN": "老练骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/horseman-3.png",
           "hitpoints": 155,
@@ -1304,6 +1323,7 @@
         },
         "horseman-4": {
           "name": "Elite Horseman",
+          "nameCN": "精锐骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/horseman-4.png",
           "hitpoints": 180,
@@ -1424,6 +1444,7 @@
           "baseId": "junk",
           "type": "unit",
           "name": "Junk",
+          "nameCN": "戎克船",
           "pbgid": 4159607,
           "attribName": "unit_naval_war_galley_3_jpn",
           "age": 2,
@@ -1431,6 +1452,7 @@
             "ja"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -1567,6 +1589,7 @@
           "baseId": "katana-bannerman",
           "type": "unit",
           "name": "Katana Bannerman",
+          "nameCN": "刀剑旗本武士",
           "pbgid": 2143512,
           "attribName": "unit_banner_samurai_melee_2_jpn",
           "age": 2,
@@ -1574,6 +1597,7 @@
             "ja"
           ],
           "description": "Samurai with an aura that increases damage of melee infantry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Heavy armor\n+ Increased move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+          "descriptionCN": "日本武士，拥有可增加近战步兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 重型护甲\n+ 提高移动速度\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -1718,6 +1742,7 @@
           "baseId": "mangonel",
           "type": "unit",
           "name": "Mangonel",
+          "nameCN": "轻型投石车",
           "pbgid": 8461993,
           "attribName": "unit_mangonel_3_jpn",
           "age": 3,
@@ -1725,6 +1750,7 @@
             "ja"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -2021,7 +2047,9 @@
         }
       ],
       "baseId": "mounted-samurai",
+      "nameCN": "骑马武士",
       "age": 3,
+      "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -2137,6 +2165,7 @@
         },
         "mounted-samurai-4": {
           "name": "Elite Mounted Samurai",
+          "nameCN": "精锐骑马武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mounted-samurai-4.png",
           "hitpoints": 270,
@@ -2281,7 +2310,9 @@
         }
       ],
       "baseId": "onna-bugeisha",
+      "nameCN": "女武艺者",
       "age": 2,
+      "descriptionCN": "轻型近战步兵，攻击速度快且武器攻击范围远。\n+ 攻击速度快\n+ 移动速度快\n+ 武器攻击范围远\n- 不擅长对付重型目标\n- 会受到弓兵、骑士克制",
       "costs": {
         "food": 60,
         "wood": 0,
@@ -2365,6 +2396,7 @@
         },
         "onna-bugeisha-3": {
           "name": "Veteran Onna-Bugeisha",
+          "nameCN": "老练女武艺者",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-3.png",
           "hitpoints": 100,
@@ -2421,6 +2453,7 @@
         },
         "onna-bugeisha-4": {
           "name": "Elite Onna-Bugeisha",
+          "nameCN": "精锐女武艺者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/onna-bugeisha-4.png",
           "hitpoints": 135,
@@ -2525,7 +2558,9 @@
         }
       ],
       "baseId": "onna-musha",
+      "nameCN": "女武者",
       "age": 3,
+      "descriptionCN": "机动性高的远程骑兵单位，擅长对付重型单位。\n+ 移动速度快\n+ 武器范围远\n+ 对抗重型单位可获得伤害加成\n- 不擅长对抗远程单位",
       "costs": {
         "food": 80,
         "wood": 0,
@@ -2637,6 +2672,7 @@
         },
         "onna-musha-4": {
           "name": "Elite Onna-Musha",
+          "nameCN": "精锐女武者",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/onna-musha-4.png",
           "hitpoints": 95,
@@ -2756,6 +2792,7 @@
           "baseId": "ozutsu",
           "type": "unit",
           "name": "Ozutsu",
+          "nameCN": "大筒兵",
           "pbgid": 2124339,
           "attribName": "unit_ozutsu_4_jpn",
           "age": 4,
@@ -2763,6 +2800,7 @@
             "ja"
           ],
           "description": "Ranged infantry equipped with a huge gunpowder weapon that has good weapon range, siege, and splash damage.\n+ Anti-building\n+ Area damage\n- Slow move speed\n- Slow attack speed\n- Countered by Horsemen and Crossbowmen",
+          "descriptionCN": "远程步兵，装备巨大的火药武器，拥有优秀的武器攻击范围、攻城和溅射伤害。\n+ 反建筑\n+ 范围伤害\n- 移动速度慢\n- 攻击速度慢\n- 会受到骑手和弩手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -2891,6 +2929,7 @@
           "baseId": "ribauldequin",
           "type": "unit",
           "name": "Ribauldequin",
+          "nameCN": "风琴炮",
           "pbgid": 2143534,
           "attribName": "unit_ribauldequin_4_jpn",
           "age": 4,
@@ -2898,6 +2937,7 @@
             "ja"
           ],
           "description": "Five-barreled gunpowder weapon effective against massed units. Deals little damage to buildings.\n+ Can hit multiple targets in a single volley\n- Short range\n- Low ranged armor",
+          "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -3052,7 +3092,9 @@
         }
       ],
       "baseId": "samurai",
+      "nameCN": "武士",
       "age": 1,
+      "descriptionCN": "重型步兵，具有优秀的伤害和防御力。同时具有偏转护甲能力，可定期抵挡攻击。\n+ 重型护甲\n+ 脱离战斗后偏转护甲会重新恢复\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -3182,6 +3224,7 @@
         },
         "samurai-2": {
           "name": "Hardened Samurai",
+          "nameCN": "坚韧日本武士",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/samurai-2.png",
           "hitpoints": 120,
@@ -3284,6 +3327,7 @@
         },
         "samurai-3": {
           "name": "Veteran Samurai",
+          "nameCN": "老练日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/samurai-3.png",
           "hitpoints": 155,
@@ -3386,6 +3430,7 @@
         },
         "samurai-4": {
           "name": "Elite Samurai",
+          "nameCN": "精锐日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/samurai-4.png",
           "hitpoints": 180,
@@ -3524,6 +3569,7 @@
           "baseId": "scout",
           "type": "unit",
           "name": "Scout",
+          "nameCN": "侦察兵",
           "pbgid": 6075109,
           "attribName": "unit_scout_1_jpn",
           "age": 1,
@@ -3531,6 +3577,7 @@
             "ja"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -3671,6 +3718,7 @@
           "baseId": "shinobi",
           "type": "unit",
           "name": "Shinobi",
+          "nameCN": "忍者",
           "pbgid": 2151449,
           "attribName": "unit_shinobi_2_free_jpn",
           "age": 2,
@@ -3678,6 +3726,7 @@
             "ja"
           ],
           "description": "Melee infantry that specializes in scouting, sabotage, and assassination.\n+ Disguise as enemy Villagers\n+ Bonus damage vs. melee\n+ Health regeneration\n- Capital Town Centers, Outposts, and Scouts can spot disguises\n\nHeals passively.",
+          "descriptionCN": "近战步兵，擅长侦察、破坏和刺杀。\n+ 可伪装成敌方村民\n+ 对抗近战单位时拥有伤害加成\n+ 能恢复生命值\n- 首都城镇中心、哨站和侦察兵可以识破伪装",
           "classes": [
             "find_non_siege_land_military",
             "formational",
@@ -3822,6 +3871,7 @@
           "baseId": "shinto-priest",
           "type": "unit",
           "name": "Shinto Priest",
+          "nameCN": "神道教神主",
           "pbgid": 2124341,
           "attribName": "unit_monk_shinto_3_jpn",
           "age": 3,
@@ -3829,6 +3879,7 @@
             "ja"
           ],
           "description": "Support unit with unique privileges to hold and deposit Yorishiro into buildings. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Yorishiro provide unique bonuses\n+ Heals friendly units\n- Slow move speed",
+          "descriptionCN": "拥有独特特权的辅助单位，可持有依代并将其存放至建筑内。可拾取圣物、招降敌方单位及占领圣地。\n+ 依代可提供独特的加成效果\n+ 可治疗友方单位\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -3909,6 +3960,7 @@
           "baseId": "siege-tower",
           "type": "unit",
           "name": "Siege Tower",
+          "nameCN": "攻城塔",
           "pbgid": 5450004,
           "attribName": "unit_siege_tower_3_jpn",
           "age": 2,
@@ -3916,6 +3968,7 @@
             "ja"
           ],
           "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+          "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4052,7 +4105,9 @@
         }
       ],
       "baseId": "spearman",
+      "nameCN": "长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 60,
         "wood": 20,
@@ -4164,6 +4219,7 @@
         },
         "spearman-2": {
           "name": "Hardened Spearman",
+          "nameCN": "坚韧长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/spearman-2.png",
           "hitpoints": 90,
@@ -4248,6 +4304,7 @@
         },
         "spearman-3": {
           "name": "Veteran Spearman",
+          "nameCN": "老练长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/spearman-3.png",
           "hitpoints": 110,
@@ -4332,6 +4389,7 @@
         },
         "spearman-4": {
           "name": "Elite Spearman",
+          "nameCN": "精锐长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/spearman-4.png",
           "hitpoints": 130,
@@ -4446,6 +4504,7 @@
           "baseId": "springald",
           "type": "unit",
           "name": "Springald",
+          "nameCN": "扭力弩炮",
           "pbgid": 4856887,
           "attribName": "unit_springald_3_jpn",
           "age": 3,
@@ -4453,6 +4512,7 @@
             "ja"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4597,6 +4657,7 @@
           "baseId": "trade-ship",
           "type": "unit",
           "name": "Trade Ship",
+          "nameCN": "商船",
           "pbgid": 2672613,
           "attribName": "unit_naval_trade_ship_3_jpn",
           "age": 2,
@@ -4604,6 +4665,7 @@
             "ja"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -4681,6 +4743,7 @@
           "baseId": "trader",
           "type": "unit",
           "name": "Trader",
+          "nameCN": "商人",
           "pbgid": 3765649,
           "attribName": "unit_trade_cart_jpn",
           "age": 2,
@@ -4688,6 +4751,7 @@
             "ja"
           ],
           "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+          "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -4763,6 +4827,7 @@
           "baseId": "transport-ship",
           "type": "unit",
           "name": "Transport Ship",
+          "nameCN": "运输船",
           "pbgid": 7831339,
           "attribName": "unit_naval_transport_ship_2_jpn",
           "age": 2,
@@ -4770,6 +4835,7 @@
             "ja"
           ],
           "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+          "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -4872,6 +4938,7 @@
           "baseId": "uma-bannerman",
           "type": "unit",
           "name": "Uma Bannerman",
+          "nameCN": "骑马旗本武士",
           "pbgid": 2127064,
           "attribName": "unit_banner_samurai_cavalry_2_jpn",
           "age": 2,
@@ -4879,6 +4946,7 @@
             "ja"
           ],
           "description": "Mounted Samurai with an aura that increases damage of cavalry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Fast move speed\n+ Heavy armor\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "骑马武士，拥有可增加骑兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 移动速度快\n+ 重型护甲\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -5046,6 +5114,7 @@
           "baseId": "villager",
           "type": "unit",
           "name": "Villager",
+          "nameCN": "村民",
           "pbgid": 7287301,
           "attribName": "unit_villager_1_jpn",
           "age": 1,
@@ -5053,6 +5122,7 @@
             "ja"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced.",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -5182,6 +5252,7 @@
           "baseId": "war-junk",
           "type": "unit",
           "name": "War Junk",
+          "nameCN": "戎克战船",
           "pbgid": 2522875,
           "attribName": "unit_naval_combat_ship_2_jpn",
           "age": 3,
@@ -5189,6 +5260,7 @@
             "ja"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "massive",
@@ -5355,7 +5427,9 @@
         }
       ],
       "baseId": "yumi-ashigaru",
+      "nameCN": "弓足轻",
       "age": 2,
+      "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 25,
         "wood": 35,
@@ -5501,6 +5575,7 @@
         },
         "yumi-ashigaru-3": {
           "name": "Veteran Yumi Ashigaru",
+          "nameCN": "老练弓足轻",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -5634,6 +5709,7 @@
         },
         "yumi-ashigaru-4": {
           "name": "Elite Yumi Ashigaru",
+          "nameCN": "精锐弓足轻",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -5807,6 +5883,7 @@
           "baseId": "yumi-bannerman",
           "type": "unit",
           "name": "Yumi Bannerman",
+          "nameCN": "弓箭旗本武士",
           "pbgid": 2127061,
           "attribName": "unit_banner_samurai_range_2_jpn",
           "age": 2,
@@ -5814,6 +5891,7 @@
             "ja"
           ],
           "description": "Ranged Samurai with an aura that increases damage of ranged infantry. Comes with the Deflective Armor ability that periodically blocks attacks.\n+ Banner drops on death\n+ Fast move speed\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+          "descriptionCN": "远程日本武士，拥有可增加远程步兵伤害的光环。自带偏转护甲能力，可周期性地抵挡攻击。\n+ 死亡时掉落旗帜\n+ 移动速度快\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",

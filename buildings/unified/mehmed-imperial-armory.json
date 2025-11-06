@@ -35,6 +35,7 @@
       "baseId": "mehmed-imperial-armory",
       "type": "building",
       "name": "Mehmed Imperial Armory",
+      "nameCN": "穆罕默德帝国军械库",
       "pbgid": 2055469,
       "attribName": "building_landmark_age2_tophane_armory_ott",
       "age": 2,
@@ -42,6 +43,7 @@
         "ot"
       ],
       "description": "Produces siege engines for free but with a longer train time.",
+      "descriptionCN": "免费生产攻城器械，但训练时间更长。",
       "classes": [
         "age2_landmark2",
         "audio_production_landmark",

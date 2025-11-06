@@ -23,6 +23,7 @@
       "baseId": "bodkin-bolts",
       "type": "technology",
       "name": "Bodkin Bolts",
+      "nameCN": "锥状弩箭",
       "pbgid": 2140681,
       "attribName": "upgrade_crossbow_siege_damage_hre_ha_01",
       "age": 4,
@@ -30,6 +31,7 @@
         "od"
       ],
       "description": "Gilded Crossbowmen deal +20 damage against Siege units.",
+      "descriptionCN": "镀金弩手对攻城单位造成的伤害 +20。",
       "classes": [
         "military_upgrade"
       ],

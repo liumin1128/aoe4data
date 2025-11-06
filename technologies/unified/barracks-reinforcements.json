@@ -21,6 +21,7 @@
       "baseId": "barracks-reinforcements",
       "type": "technology",
       "name": "Barracks Reinforcements",
+      "nameCN": "兵营援军",
       "pbgid": 9004741,
       "attribName": "upgrade_reinforcements_barracks_mon_ha_gol",
       "age": 3,
@@ -28,6 +29,7 @@
         "gol"
       ],
       "description": "Barracks batch production increased by +1, does not increase resource cost or time to recruit.",
+      "descriptionCN": "兵营批量生产 +1，不会增加资源成本或招募时间。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"

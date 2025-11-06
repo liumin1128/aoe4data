@@ -16,6 +16,7 @@
       "baseId": "elite-archers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 125895,
       "attribName": "upgrade_unit_archer_4",
       "age": 4,
@@ -23,6 +24,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Archers to Elite Archers.",
+      "descriptionCN": "将老练步弓手升级为精锐步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -67,6 +69,7 @@
       "baseId": "elite-crossbowmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124651,
       "attribName": "upgrade_unit_crossbowman_4",
       "age": 4,
@@ -74,6 +77,7 @@
         "ch"
       ],
       "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+      "descriptionCN": "将弩手升级为精锐弩手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -116,6 +120,7 @@
       "baseId": "elite-fire-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite Fire Lancer",
+      "nameCN": "升级为精锐火长矛骑兵",
       "pbgid": 156372,
       "attribName": "upgrade_unit_firelancer_4_chi",
       "age": 4,
@@ -123,6 +128,7 @@
         "ch"
       ],
       "description": "Upgrade Fire Lancers to Elite Fire Lancers.",
+      "descriptionCN": "将火长矛骑兵升级为精锐火长矛骑兵。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -156,6 +162,7 @@
       "baseId": "elite-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124725,
       "attribName": "upgrade_unit_horseman_4",
       "age": 4,
@@ -163,6 +170,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+      "descriptionCN": "将老练骑手升级为精锐骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -209,6 +217,7 @@
       "baseId": "elite-knights-or-lancers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124721,
       "attribName": "upgrade_unit_knight_4",
       "age": 4,
@@ -216,6 +225,7 @@
         "ch"
       ],
       "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+      "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -258,6 +268,7 @@
       "baseId": "elite-palace-guards",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2028081,
       "attribName": "upgrade_unit_manatarms_4_chi",
       "age": 4,
@@ -265,6 +276,7 @@
         "ch"
       ],
       "description": "Upgrade Palace Guards to Elite Palace Guards.",
+      "descriptionCN": "将皇宫卫兵升级为精锐皇宫卫兵。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -298,6 +310,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -305,6 +318,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -350,6 +364,7 @@
       "baseId": "elite-zhuge-nu",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 166639,
       "attribName": "upgrade_unit_repeater_crossbow_4_chi",
       "age": 4,
@@ -357,6 +372,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Zhuge Nu to Elite Zhuge Nu.",
+      "descriptionCN": "将老练诸葛弩手升级为精锐诸葛弩手。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",
@@ -390,6 +406,7 @@
       "baseId": "hardened-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 127174,
       "attribName": "upgrade_unit_spearman_2",
       "age": 2,
@@ -397,6 +414,7 @@
         "ch"
       ],
       "description": "Upgrade Spearmen to Hardened Spearmen.",
+      "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -442,6 +460,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -449,6 +468,7 @@
         "ch"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -493,6 +513,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -500,6 +521,7 @@
         "ch"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -546,6 +568,7 @@
       "baseId": "veteran-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124662,
       "attribName": "upgrade_unit_spearman_3",
       "age": 3,
@@ -553,6 +576,7 @@
         "ch"
       ],
       "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+      "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -598,6 +622,7 @@
       "baseId": "veteran-zhuge-nu",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 166638,
       "attribName": "upgrade_unit_repeater_crossbow_3_chi",
       "age": 3,
@@ -605,6 +630,7 @@
         "ch"
       ],
       "description": "Upgrade Zhuge Nu to Veteran Zhuge Nu.",
+      "descriptionCN": "将诸葛弩手升级为老练诸葛弩手。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",

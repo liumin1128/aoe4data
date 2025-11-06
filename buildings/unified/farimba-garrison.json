@@ -34,6 +34,7 @@
       "baseId": "farimba-garrison",
       "type": "building",
       "name": "Farimba Garrison",
+      "nameCN": "死士驻军",
       "pbgid": 2062447,
       "attribName": "building_landmark_age2_landmarkd_control_mal",
       "age": 2,
@@ -41,6 +42,7 @@
         "ma"
       ],
       "description": "Enlist one of three units to enhance your roster: the Mansa Musofadi, Mansa Javelineer, or Freeborn Warrior. Another unit can be enlisted in the Imperial Age.",
+      "descriptionCN": "从以下三种单位中招募其一来强化你的军队：曼萨·穆索法迪、曼萨掷枪手或自由民战士。在帝国时代还可以招募另一种单位。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",

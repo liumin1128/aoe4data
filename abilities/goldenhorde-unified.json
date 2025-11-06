@@ -29,6 +29,7 @@
           "baseId": "ability-advance-to-the-castle-age-iii",
           "type": "ability",
           "name": "Advance to the Castle Age (III)",
+          "nameCN": "发展到城堡时代 (第三时代)",
           "pbgid": 9002033,
           "attribName": "age_up_castle_mon_ha_gol",
           "age": 2,
@@ -36,6 +37,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -77,6 +79,7 @@
           "baseId": "ability-advance-to-the-feudal-age-ii",
           "type": "ability",
           "name": "Advance to the Feudal Age (II)",
+          "nameCN": "发展到封建时代 (第二时代)",
           "pbgid": 9002032,
           "attribName": "age_up_feudal_mon_ha_gol",
           "age": 2,
@@ -84,6 +87,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -125,6 +129,7 @@
           "baseId": "ability-advance-to-the-imperial-age-iv",
           "type": "ability",
           "name": "Advance to the Imperial Age (IV)",
+          "nameCN": "发展到帝王时代 (第四时代)",
           "pbgid": 9002034,
           "attribName": "age_up_imperial_mon_ha_gol",
           "age": 2,
@@ -132,6 +137,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -173,6 +179,7 @@
           "baseId": "ability-age-ii-upgrades",
           "type": "ability",
           "name": "Age II Upgrades",
+          "nameCN": "第二时代升级",
           "pbgid": 9004394,
           "attribName": "golden_tent_feudal_mon_ha_gol",
           "age": 1,
@@ -180,6 +187,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age II",
+          "descriptionCN": "升级以发展到第二时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -220,6 +228,7 @@
           "baseId": "ability-age-iii-upgrades",
           "type": "ability",
           "name": "Age III Upgrades",
+          "nameCN": "第三时代升级",
           "pbgid": 9004395,
           "attribName": "golden_tent_castle_mon_ha_gol",
           "age": 1,
@@ -227,6 +236,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age III",
+          "descriptionCN": "升级以发展到第三时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -267,6 +277,7 @@
           "baseId": "ability-age-iv-upgrades",
           "type": "ability",
           "name": "Age IV Upgrades",
+          "nameCN": "第四时代升级",
           "pbgid": 9004396,
           "attribName": "golden_tent_imperial_mon_ha_gol",
           "age": 1,
@@ -274,6 +285,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age IV",
+          "descriptionCN": "升级以发展到第四时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -314,6 +326,7 @@
           "baseId": "ability-call-rus-tributes",
           "type": "ability",
           "name": "Call Rus Tributes",
+          "nameCN": "征收罗斯贡品",
           "pbgid": 9004751,
           "attribName": "call_rus_tributes_mon_ha_gol",
           "age": 3,
@@ -321,6 +334,7 @@
             "gol"
           ],
           "description": "Dispatch 4 Rus Tributes from the Golden Tent and increase the cost of the Call Rus Tributes by +300 Stone.\nThe cost of Call Rus Tributes will be reduced by 10 Stone every 30 seconds. Each Military Building will reduce the cost by an additional 5 Stone up to a maximum of 70 Stone. Will automatically deploy the Rus Tributes when the cost reaches zero.",
+          "descriptionCN": "从黄金帐篷送出 4 罗斯贡品，并使征收罗斯贡品的成本增加 300 石料。\n征收罗斯贡品的成本每 30 秒将减少 10 石料。每座军事建筑会将该成本额外减少 5 石料，最多可减少 70 石料。当成本为零时，则会自动部署罗斯贡品。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -362,6 +376,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -369,6 +384,7 @@
             "gol"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -429,6 +445,7 @@
           "baseId": "ability-defensive-aura-edict",
           "type": "ability",
           "name": "Defensive Aura Edict",
+          "nameCN": "防御光环法令",
           "pbgid": 9001773,
           "attribName": "outpost_armor_aura_mon_ha_gol",
           "age": 1,
@@ -436,6 +453,7 @@
             "gol"
           ],
           "description": "Units near an Outpost gain +10% health.",
+          "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -461,6 +479,7 @@
           "baseId": "ability-defensive-aura-edict",
           "type": "ability",
           "name": "Defensive Aura Edict",
+          "nameCN": "防御光环法令",
           "pbgid": 9003681,
           "attribName": "toggle_khan_edict_2_mon_ha_gol",
           "age": 2,
@@ -468,6 +487,7 @@
             "gol"
           ],
           "description": "Activate to increase the health of units nearby a Fortified Outpost by +10%.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -509,6 +529,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -516,6 +537,7 @@
             "gol"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -569,6 +591,7 @@
           "baseId": "ability-glorious-charge",
           "type": "ability",
           "name": "Glorious Charge",
+          "nameCN": "荣光冲锋",
           "pbgid": 9002244,
           "attribName": "outpost_glorious_charge_mon_ha_gol",
           "age": 1,
@@ -576,6 +599,7 @@
             "gol"
           ],
           "description": "Activating Glorious Charge starts a 10 second timer which reveals the Outpost and the nearby area to all players, when the timer ends all nearby military units will get +50% movement speed and take -15% less damage for 30 seconds.",
+          "descriptionCN": "启用“荣光冲锋”能力将产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有军事单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -617,6 +641,7 @@
           "baseId": "ability-kharash-edict",
           "type": "ability",
           "name": "Kharash Edict",
+          "nameCN": "肉盾法令",
           "pbgid": 9003692,
           "attribName": "toggle_khan_edict_4_mon_ha_gol",
           "age": 4,
@@ -624,6 +649,7 @@
             "gol"
           ],
           "description": "Activate to allow the Golden Tent and Military Buildings within the influence of a Fortified Outpost to produce an additional Kharash whenever any unit is recruited.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，每当招募任何单位时，强化哨站影响范围内的黄金帐篷和军事建筑都会额外生产一个肉盾。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -665,6 +691,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -672,6 +699,7 @@
             "gol"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -727,6 +755,7 @@
           "baseId": "ability-production-speed-edict",
           "type": "ability",
           "name": "Production Speed Edict",
+          "nameCN": "生产速度法令",
           "pbgid": 9003680,
           "attribName": "toggle_khan_edict_1_mon_ha_gol",
           "age": 1,
@@ -734,6 +763,7 @@
             "gol"
           ],
           "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +50%.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -775,6 +805,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -782,6 +813,7 @@
             "gol"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -836,6 +868,7 @@
           "baseId": "ability-silk-road",
           "type": "ability",
           "name": "Silk Road",
+          "nameCN": "丝绸之路",
           "pbgid": 186431,
           "attribName": "market_silk_road_passive_ui_mon",
           "age": 1,
@@ -843,6 +876,7 @@
             "gol"
           ],
           "description": "The types of resources you earn from each Trader is improved based on your total number of active Traders.\n5+ Traders: +10% Food\n10+ Traders: +10% Food, +10% Wood",
+          "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -882,6 +916,7 @@
           "baseId": "ability-stockyard-edict",
           "type": "ability",
           "name": "Stockyard Edict",
+          "nameCN": "牲畜围栏法令",
           "pbgid": 9003693,
           "attribName": "toggle_khan_edict_5_mon_ha_gol",
           "age": 5,
@@ -889,6 +924,7 @@
             "gol"
           ],
           "description": "Activate to allow Stockyards within the influence of a Fortified Outpost to generate Gold while being worked.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，强化哨站影响范围内的牲畜围栏在工作状态下都会生产黄金。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -930,6 +966,7 @@
           "baseId": "ability-yam-network-trade",
           "type": "ability",
           "name": "Yam Network Trade",
+          "nameCN": "驿站网络贸易",
           "pbgid": 9004108,
           "attribName": "golden_tent_trade_network_mon_ha_gol",
           "age": 1,
@@ -937,6 +974,7 @@
             "gol"
           ],
           "description": "The Golden Tent will generate 10 Gold every 10 seconds for each Fortified Outpost, up to a maximum of 6 Fortified Outposts.",
+          "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
           "classes": [],
           "displayClasses": [],
           "costs": {

@@ -39,6 +39,7 @@
       "baseId": "imperial-guard",
       "type": "unit",
       "name": "Imperial Guard",
+      "nameCN": "帝国卫队",
       "pbgid": 2143642,
       "attribName": "unit_ming_guard_chi_ha_01",
       "age": 4,
@@ -46,6 +47,7 @@
         "zx"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen\n\nRequires Dynastic Protectors researched at Zhu Xi's Library.",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

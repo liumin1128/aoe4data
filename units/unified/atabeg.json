@@ -30,6 +30,7 @@
       "baseId": "atabeg",
       "type": "unit",
       "name": "Atabeg",
+      "nameCN": "阿塔贝格",
       "pbgid": 2144832,
       "attribName": "unit_trade_camel_abb_ha_01",
       "age": 1,
@@ -37,6 +38,7 @@
         "ay"
       ],
       "description": "Can be garrisoned into any military production building to grant +20% health to newly trained units.",
+      "descriptionCN": "可驻扎于任意军事生产建筑中，使新训练的单位生命值 +20%。",
       "classes": [
         "annihilation_condition",
         "camel",

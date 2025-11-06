@@ -27,6 +27,7 @@
       "baseId": "rule-of-templars",
       "type": "technology",
       "name": "Rule of Templars",
+      "nameCN": "圣殿骑士的规矩",
       "pbgid": 9000051,
       "attribName": "upgrade_rule_of_templars_tem",
       "age": 3,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "Gain +2 charge damage per nearby charging Heavy Cavalry.",
+      "descriptionCN": "附近的每个冲锋重装骑兵的冲锋伤害 +2。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

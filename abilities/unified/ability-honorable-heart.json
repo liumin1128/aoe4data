@@ -18,6 +18,7 @@
       "baseId": "ability-honorable-heart",
       "type": "ability",
       "name": "Honorable Heart",
+      "nameCN": "光荣之心",
       "pbgid": 2127594,
       "attribName": "jeanne_d_arc_honorable_heart_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne regenerates 1/1.5/2/2.5 health per second while out of combat based on her current level.\nAt level 3 Jeanne takes 45% less damage from ranged attacks; at level 4 this is increased to 60%.",
+      "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

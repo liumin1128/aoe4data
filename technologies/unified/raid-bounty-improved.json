@@ -27,6 +27,7 @@
       "baseId": "raid-bounty-improved",
       "type": "technology",
       "name": "Raid Bounty (Improved)",
+      "nameCN": "突袭赏金 (已强化)",
       "pbgid": 205807,
       "attribName": "upgrade_raid_bounty_improved_mon",
       "age": 2,
@@ -34,6 +35,7 @@
         "mo"
       ],
       "description": "Increase the raid income for igniting a building to +75 Food and Gold.\nIf Raid Bounty has already been researched, increase the raid income for igniting a building by +25 Food and Gold.",
+      "descriptionCN": "点燃建筑带来的突袭收入 +75 食物和黄金。\n如果已完成突袭赏金研究，则点燃建筑带来的突袭收入 +25 食物和黄金。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",

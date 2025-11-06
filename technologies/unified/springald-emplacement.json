@@ -62,6 +62,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -69,6 +70,7 @@
         "ab"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -137,6 +139,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -144,6 +147,7 @@
         "ay"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -212,6 +216,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -219,6 +224,7 @@
         "ch"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -287,6 +293,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -294,6 +301,7 @@
         "de"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -362,6 +370,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -369,6 +378,7 @@
         "en"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -439,6 +449,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -446,6 +457,7 @@
         "fr"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -515,6 +527,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 186399,
       "attribName": "upgrade_outpost_springald_mon",
       "age": 3,
@@ -522,6 +535,7 @@
         "gol"
       ],
       "description": "Add a defensive springald emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -573,6 +587,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -580,6 +595,7 @@
         "hr"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -649,6 +665,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -656,6 +673,7 @@
         "hl"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -726,6 +744,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -733,6 +752,7 @@
         "ja"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -802,6 +822,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -809,6 +830,7 @@
         "je"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -878,6 +900,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -885,6 +908,7 @@
         "kt"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -953,6 +977,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -960,6 +985,7 @@
         "ma"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1029,6 +1055,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 186399,
       "attribName": "upgrade_outpost_springald_mon",
       "age": 3,
@@ -1036,6 +1063,7 @@
         "mo"
       ],
       "description": "Add a defensive springald emplacement to this structure. Only one weapon emplacement can be added.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。只能添加一座武器炮台。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",
@@ -1087,6 +1115,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -1094,6 +1123,7 @@
         "od"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1163,6 +1193,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -1170,6 +1201,7 @@
         "ot"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1239,6 +1271,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -1246,6 +1279,7 @@
         "ru"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1314,6 +1348,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -1321,6 +1356,7 @@
         "sen"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1390,6 +1426,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 9001517,
       "attribName": "upgrade_keep_springald_sul_ha_tug",
       "age": 3,
@@ -1397,6 +1434,7 @@
         "tug"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1464,6 +1502,7 @@
       "baseId": "springald-emplacement",
       "type": "technology",
       "name": "Springald Emplacement",
+      "nameCN": "扭力弩炮炮台",
       "pbgid": 127371,
       "attribName": "upgrade_keep_springald",
       "age": 3,
@@ -1471,6 +1510,7 @@
         "zx"
       ],
       "description": "Add a defensive springald emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -36,6 +36,7 @@
       "baseId": "tanegashima-ashigaru-levy",
       "type": "unit",
       "name": "Tanegashima Ashigaru Levy",
+      "nameCN": "火绳枪足轻征兵",
       "pbgid": 9003837,
       "attribName": "unit_handcannon_levy_jpn_ha_sen",
       "age": 3,
@@ -43,6 +44,7 @@
         "sen"
       ],
       "description": "Powerful ranged infantry that is effective against armored units.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+      "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
       "classes": [
         "annihilation_condition",
         "daimyo_retainer",

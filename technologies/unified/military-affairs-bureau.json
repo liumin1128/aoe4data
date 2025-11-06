@@ -24,6 +24,7 @@
       "baseId": "military-affairs-bureau",
       "type": "technology",
       "name": "Military Affairs Bureau",
+      "nameCN": "枢密院",
       "pbgid": 2127325,
       "attribName": "upgrade_official_supervise_defensive",
       "age": 1,
@@ -31,6 +32,7 @@
         "zx"
       ],
       "description": "Imperial Officials can now supervise Keeps and Outposts to reduce damage taken by 35%.",
+      "descriptionCN": "朝廷命官现在可以监督城堡和哨站，使它们所受伤害降低 35%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "economic_upgrade"

@@ -16,6 +16,7 @@
       "baseId": "archery-range",
       "type": "building",
       "name": "Archery Range",
+      "nameCN": "靶场",
       "pbgid": 9000951,
       "attribName": "building_unit_ranged_control_byz_ha_mac",
       "age": 2,
@@ -23,6 +24,7 @@
         "mac"
       ],
       "description": "Produces ranged infantry units.",
+      "descriptionCN": "生产远程步兵单位。",
       "classes": [
         "archery_range",
         "building",
@@ -75,6 +77,7 @@
       "baseId": "capital-town-center",
       "type": "building",
       "name": "Capital Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 9000946,
       "attribName": "building_town_center_capital_byz_ha_mac",
       "age": 1,
@@ -82,6 +85,7 @@
         "mac"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
       "classes": [
         "building",
         "defensive_structure",
@@ -154,6 +158,7 @@
       "baseId": "cathedral-of-divine-wisdom",
       "type": "building",
       "name": "Cathedral of Divine Wisdom",
+      "nameCN": "圣慧大教堂",
       "pbgid": 9000954,
       "attribName": "building_wonder_age4_hagia_sophia_byz_ha_mac",
       "age": 4,
@@ -161,6 +166,7 @@
         "mac"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",
@@ -212,6 +218,7 @@
       "baseId": "cistern-of-the-first-hill",
       "type": "building",
       "name": "Cistern of the First Hill",
+      "nameCN": "地下水宫",
       "pbgid": 9000938,
       "attribName": "building_landmark_age2_cistern_byz_ha_mac",
       "age": 2,
@@ -219,6 +226,7 @@
         "mac"
       ],
       "description": "Charges an ability used for boosting the work rate of military and research buildings. If used on a Mining Camp, Lumber Camp, or Farm, begin earning 160 Gold, Wood, or Food over 60 seconds.\nHolds 9 charges.",
+      "descriptionCN": "充能一项用于提升军事和研究建筑工作速率的能力。如果是对采矿场、伐木场或农田使用，则开始赚取 160 黄金、木材或食物，持续 60 秒。\n保持 9 充能。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -274,6 +282,7 @@
       "baseId": "dock",
       "type": "building",
       "name": "Dock",
+      "nameCN": "码头",
       "pbgid": 9000950,
       "attribName": "building_unit_naval_byz_ha_mac",
       "age": 1,
@@ -281,6 +290,7 @@
         "mac"
       ],
       "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+      "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
       "classes": [
         "building",
         "military_only_production",
@@ -342,6 +352,7 @@
       "baseId": "farm",
       "type": "building",
       "name": "Farm",
+      "nameCN": "农田",
       "pbgid": 9000942,
       "attribName": "building_resource_farm_byz_ha_mac",
       "age": 1,
@@ -349,6 +360,7 @@
         "mac"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+      "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
       "classes": [
         "building",
         "farm",
@@ -400,6 +412,7 @@
       "baseId": "foreign-engineering-company",
       "type": "building",
       "name": "Foreign Engineering Company",
+      "nameCN": "外国工程公司",
       "pbgid": 9000940,
       "attribName": "building_landmark_age3_eastern_merc_house_byz_ha_mac",
       "age": 3,
@@ -407,6 +420,7 @@
         "mac"
       ],
       "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons for Silver.",
+      "descriptionCN": "允许生产一窝蜂、回回炮和皇家加农炮来换取白银。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -461,6 +475,7 @@
       "baseId": "golden-horn-tower",
       "type": "building",
       "name": "Golden Horn Tower",
+      "nameCN": "金角湾塔",
       "pbgid": 9000939,
       "attribName": "building_landmark_age2_galata_tower_byz_ha_mac",
       "age": 3,
@@ -468,6 +483,7 @@
         "mac"
       ],
       "description": "Defensive building equipped with Crossbow emplacements and large Line of Sight. Generates batches of Crossbowman for free over time. \nDetects units in stealth or disguises.",
+      "descriptionCN": "防御建筑，配备弩炮台并拥有广阔视野。随时间推移免费生成一批批弩手。\n可侦测处于匿踪或伪装状态下的单位。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -1185,6 +1201,7 @@
       "baseId": "grand-winery",
       "type": "building",
       "name": "Grand Winery",
+      "nameCN": "大酒庄",
       "pbgid": 9000937,
       "attribName": "building_landmark_age1_winery_byz_ha_mac",
       "age": 1,
@@ -1192,6 +1209,7 @@
         "mac"
       ],
       "description": "Acts as a Mill and Monastery. Villagers gather Food 30% faster when affected by its aura. Relics garrisoned generate Silver instead of Gold.",
+      "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
       "classes": [
         "age1_landmark1",
         "building",
@@ -1252,6 +1270,7 @@
       "baseId": "house",
       "type": "building",
       "name": "House",
+      "nameCN": "房屋",
       "pbgid": 9000935,
       "attribName": "building_house_control_byz_ha_mac",
       "age": 1,
@@ -1259,6 +1278,7 @@
         "mac"
       ],
       "description": "Increases your maximum Population.",
+      "descriptionCN": "提升您的人口上限。",
       "classes": [
         "building",
         "house",
@@ -1308,6 +1328,7 @@
       "baseId": "imperial-hippodrome",
       "type": "building",
       "name": "Imperial Hippodrome",
+      "nameCN": "帝国竞技场",
       "pbgid": 9000936,
       "attribName": "building_landmark_age1_hippodrome_byz_ha_mac",
       "age": 1,
@@ -1315,6 +1336,7 @@
         "mac"
       ],
       "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+      "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
       "classes": [
         "age1_landmark2",
         "building",
@@ -1372,6 +1394,7 @@
       "baseId": "keep",
       "type": "building",
       "name": "Keep",
+      "nameCN": "城堡",
       "pbgid": 9000929,
       "attribName": "building_defense_keep_byz_ha_mac",
       "age": 3,
@@ -1379,6 +1402,7 @@
         "mac"
       ],
       "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+      "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
       "classes": [
         "building",
         "castle",
@@ -1490,6 +1514,7 @@
       "baseId": "lumber-camp",
       "type": "building",
       "name": "Lumber Camp",
+      "nameCN": "伐木场",
       "pbgid": 9000934,
       "attribName": "building_econ_wood_control_byz_ha_mac",
       "age": 1,
@@ -1497,6 +1522,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.",
+      "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1548,6 +1574,7 @@
       "baseId": "market",
       "type": "building",
       "name": "Market",
+      "nameCN": "市场",
       "pbgid": 9000932,
       "attribName": "building_econ_market_control_byz_ha_mac",
       "age": 2,
@@ -1555,6 +1582,7 @@
         "mac"
       ],
       "description": "Allows the buying and selling of resources and produces the Trader. Byzantine Traders generate +20% Olive Oil on successful trades.",
+      "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
       "classes": [
         "building",
         "economy_building",
@@ -1608,6 +1636,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 9000931,
       "attribName": "building_econ_food_control_byz_ha_mac",
       "age": 1,
@@ -1615,6 +1644,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+      "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
       "classes": [
         "building",
         "economy_building",
@@ -1669,6 +1699,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 9000933,
       "attribName": "building_econ_mining_camp_control_byz_ha_mac",
       "age": 1,
@@ -1676,6 +1707,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining. Villagers drop off Silver in addition to Stone and Gold at Mining Camps.",
+      "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。除了在采矿营地存放石料和黄金外，村民还存放白银。",
       "classes": [
         "building",
         "economy_building",
@@ -1731,6 +1763,7 @@
       "baseId": "monastery",
       "type": "building",
       "name": "Monastery",
+      "nameCN": "修道院",
       "pbgid": 9000952,
       "attribName": "building_unit_religious_control_byz_ha_mac",
       "age": 3,
@@ -1738,6 +1771,7 @@
         "mac"
       ],
       "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+      "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
       "classes": [
         "building",
         "monastery",
@@ -1790,6 +1824,7 @@
       "baseId": "outpost",
       "type": "building",
       "name": "Outpost",
+      "nameCN": "哨站",
       "pbgid": 9000930,
       "attribName": "building_defense_outpost_byz_ha_mac",
       "age": 1,
@@ -1797,6 +1832,7 @@
         "mac"
       ],
       "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+      "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1863,6 +1899,7 @@
       "baseId": "palatine-school",
       "type": "building",
       "name": "Palatine School",
+      "nameCN": "贵族学校",
       "pbgid": 9000941,
       "attribName": "building_landmark_age3_western_merc_house_byz_ha_mac",
       "age": 3,
@@ -1870,6 +1907,7 @@
         "mac"
       ],
       "description": "Elite Cataphracts can be rapidly produced in batches at this Landmark for Silver.",
+      "descriptionCN": "可在此地标花费白银快速批量生产精锐甲胄骑兵。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -1924,6 +1962,7 @@
       "baseId": "palisade",
       "type": "building",
       "name": "Palisade",
+      "nameCN": "木栅栏",
       "pbgid": 9000922,
       "attribName": "building_defense_palisade_byz_ha_mac",
       "age": 1,
@@ -1931,6 +1970,7 @@
         "mac"
       ],
       "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+      "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1982,6 +2022,7 @@
       "baseId": "palisade-gate",
       "type": "building",
       "name": "Palisade Gate",
+      "nameCN": "木城门",
       "pbgid": 9000923,
       "attribName": "building_defense_palisade_gate_byz_ha_mac",
       "age": 1,
@@ -1989,6 +2030,7 @@
         "mac"
       ],
       "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+      "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2040,6 +2082,7 @@
       "baseId": "runestones",
       "type": "building",
       "name": "Runestones",
+      "nameCN": "符文石群",
       "pbgid": 9003200,
       "attribName": "building_varangian_runestone_byz_ha_mac",
       "age": 1,
@@ -2047,6 +2090,7 @@
         "mac"
       ],
       "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
+      "descriptionCN": "雕刻符文石以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格、近战伤害 +1，移动速度 +15%。持续 150 秒。",
       "classes": [
         "runestone",
         "unchargeable"
@@ -2090,6 +2134,7 @@
       "baseId": "siege-workshop",
       "type": "building",
       "name": "Siege Workshop",
+      "nameCN": "攻城武器厂",
       "pbgid": 9000953,
       "attribName": "building_unit_siege_control_byz_ha_mac",
       "age": 3,
@@ -2097,6 +2142,7 @@
         "mac"
       ],
       "description": "Produces siege engines and powerful gunpowder units.",
+      "descriptionCN": "生产攻城器械和强大的火药单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -2149,6 +2195,7 @@
       "baseId": "stable",
       "type": "building",
       "name": "Stable",
+      "nameCN": "马厩",
       "pbgid": 9000947,
       "attribName": "building_unit_cavalry_control_byz_ha_mac",
       "age": 2,
@@ -2156,6 +2203,7 @@
         "mac"
       ],
       "description": "Produces cavalry military units.",
+      "descriptionCN": "生产骑兵军事单位。",
       "classes": [
         "building",
         "military_only_production",
@@ -2208,6 +2256,7 @@
       "baseId": "stone-wall",
       "type": "building",
       "name": "Stone Wall",
+      "nameCN": "石墙",
       "pbgid": 9000926,
       "attribName": "building_defense_wall_byz_ha_mac",
       "age": 2,
@@ -2215,6 +2264,7 @@
         "mac"
       ],
       "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+      "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2266,6 +2316,7 @@
       "baseId": "stone-wall-gate",
       "type": "building",
       "name": "Stone Wall Gate",
+      "nameCN": "石墙城门",
       "pbgid": 9000927,
       "attribName": "building_defense_wall_gate_byz_ha_mac",
       "age": 2,
@@ -2273,6 +2324,7 @@
         "mac"
       ],
       "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+      "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2324,6 +2376,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 9000924,
       "attribName": "building_defense_tower_byz_ha_mac",
       "age": 2,
@@ -2331,6 +2384,7 @@
         "mac"
       ],
       "description": "Heavy defensive tower that fires a mangonel. Must be built on a Stone Wall. \nCan be used to access the top of walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -2388,6 +2442,7 @@
       "baseId": "town-center",
       "type": "building",
       "name": "Town Center",
+      "nameCN": "城镇中心",
       "pbgid": 9000945,
       "attribName": "building_town_center_byz_ha_mac",
       "age": 1,
@@ -2395,6 +2450,7 @@
         "mac"
       ],
       "description": "All Resources can be dropped off here. Produces Villagers, Scouts, and increases your maximum Population. Villagers drop off Silver in addition to Stone and Gold at Non-Capital Town Centers. Adds additional attacks while garrisoned. \nNon-Capital Town Centers can't detect stealth or disguises.",
+      "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。在非首都城镇中心，村民除了存放石料和黄金，还能存放白银。驻扎时可增加额外的攻击次数。\n非首都城镇中心不能侦测匿踪或伪装。",
       "classes": [
         "building",
         "emits_herding_interest",
@@ -2463,6 +2519,7 @@
       "baseId": "varangian-arsenal",
       "type": "building",
       "name": "Varangian Arsenal",
+      "nameCN": "瓦兰吉兵工厂",
       "pbgid": 9003576,
       "attribName": "building_tech_unit_varangian_byz_ha_mac",
       "age": 2,
@@ -2470,6 +2527,7 @@
         "mac"
       ],
       "description": "Houses advanced technology for the Macedonian Dynasty.",
+      "descriptionCN": "推动马其顿王朝的科技发展。",
       "classes": [
         "bowyer",
         "building",
@@ -2522,6 +2580,7 @@
       "baseId": "varangian-stronghold",
       "type": "building",
       "name": "Varangian Stronghold",
+      "nameCN": "瓦兰吉堡垒",
       "pbgid": 9001600,
       "attribName": "building_unit_passive_trait_byz_ha_mac",
       "age": 1,
@@ -2529,6 +2588,7 @@
         "mac"
       ],
       "description": "Structure capable of producing any Varangian unit.",
+      "descriptionCN": "能够生产任何瓦兰吉单位的建筑。",
       "classes": [
         "barracks",
         "building",
@@ -2620,6 +2680,7 @@
       "baseId": "varangian-warcamp",
       "type": "building",
       "name": "Varangian Warcamp",
+      "nameCN": "瓦兰吉军营",
       "pbgid": 9003662,
       "attribName": "building_unit_varangian_warcamp_byz_ha_mac",
       "age": 1,
@@ -2627,6 +2688,7 @@
         "mac"
       ],
       "description": "Increases your maximum Population.\n \nAs the Empire suffers casualties in war, the emperor calls forth more Varangians. \nOnce enough troops are lost in battle, the selected Varangian is reinforced to the battlefield at no cost. If placed on shore near water, Attack Ships or Galleys become available as reinforcements.\n \nReinforcements cost 6 times their value in fallen warriors.",
+      "descriptionCN": "提高你的人口上限。\n随着帝国在战争中伤亡加剧，皇帝便会召集更多瓦兰吉人。\n一旦在战斗中损失的部队数量足够多，选定的瓦兰吉人将在不消耗任何资源的情况下被增援到战场上。如果将其安置在近水岸边，攻击船或箭船可成为增援力量。\n援军在阵亡战士身上花费 6 倍的成本。",
       "classes": [
         "audio_production_landmark",
         "building",

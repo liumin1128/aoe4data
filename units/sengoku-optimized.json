@@ -44,6 +44,7 @@
           "baseId": "atakebune",
           "type": "unit",
           "name": "Atakebune",
+          "nameCN": "安宅船",
           "pbgid": 3280750,
           "attribName": "unit_naval_combat_warship_4_jpn_ha_sen",
           "age": 4,
@@ -51,6 +52,7 @@
             "sen"
           ],
           "description": "Large sailed war vessel armed with rockets.\n+ Anti-structure specialist\n- Vulnerable vs. Incendiary Ships\n- Low movement speed",
+          "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "gunpowder",
@@ -176,6 +178,7 @@
           "baseId": "battering-ram",
           "type": "unit",
           "name": "Battering Ram",
+          "nameCN": "攻城锤",
           "pbgid": 5037877,
           "attribName": "unit_workshop_ram_3_jpn_ha_sen",
           "age": 2,
@@ -183,6 +186,7 @@
             "sen"
           ],
           "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+          "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -317,6 +321,7 @@
           "baseId": "bombard",
           "type": "unit",
           "name": "Bombard",
+          "nameCN": "手推炮",
           "pbgid": 6474220,
           "attribName": "unit_bombard_4_jpn_ha_sen",
           "age": 4,
@@ -324,6 +329,7 @@
             "sen"
           ],
           "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+          "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "bombard",
@@ -490,6 +496,7 @@
           "baseId": "counterweight-trebuchet",
           "type": "unit",
           "name": "Counterweight Trebuchet",
+          "nameCN": "配重式巨型投石机",
           "pbgid": 4122988,
           "attribName": "unit_trebuchet_4_cw_jpn_ha_sen",
           "age": 3,
@@ -497,6 +504,7 @@
             "sen"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -644,6 +652,7 @@
           "baseId": "daimyo",
           "type": "unit",
           "name": "Daimyo",
+          "nameCN": "大名",
           "pbgid": 9001369,
           "attribName": "unit_daimyo_2_jpn_ha_sen",
           "age": 2,
@@ -651,6 +660,7 @@
             "sen"
           ],
           "description": "High health and damage melee cavalry that provides an aura that increases attack speed of nearby military units. Effective against melee units. Limited to one per Daimyo Estate built.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "高生命值、高伤害的近战骑兵，提供的光环可提高附近军事单位的攻击速度。擅长对付近战单位。每个已建造的大名庄园限造一个。\n+ 重型护甲\n+ 近战能力强大\n - 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -823,6 +833,7 @@
           "baseId": "explosive-junk",
           "type": "unit",
           "name": "Explosive Junk",
+          "nameCN": "爆破型戎克船",
           "pbgid": 6754252,
           "attribName": "unit_naval_fireship_3_jpn_ha_sen",
           "age": 2,
@@ -830,6 +841,7 @@
             "sen"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -963,6 +975,7 @@
           "baseId": "fishing-boat",
           "type": "unit",
           "name": "Fishing Boat",
+          "nameCN": "渔船",
           "pbgid": 2206733,
           "attribName": "unit_naval_fishing_boat_2_jpn_ha_sen",
           "age": 2,
@@ -970,6 +983,7 @@
             "sen"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "naval_fishing_ship",
@@ -1057,6 +1071,7 @@
           "baseId": "ikko-ikki-monk",
           "type": "unit",
           "name": "Ikko-ikki Monk",
+          "nameCN": "一向一揆僧侣",
           "pbgid": 4457354,
           "attribName": "unit_monk_ikko_3_jpn_ha_sen",
           "age": 3,
@@ -1064,6 +1079,7 @@
             "sen"
           ],
           "description": "Warrior Monk with strong combat capabilities that heals nearby units when attacking. Does not have a targeted heal ability.\n+ Can heal themselves\n- Slow move speed",
+          "descriptionCN": "拥有强大战斗能力的僧侣战士，进攻时可治疗附近单位。不具备定向治疗能力。\n+ 可以治疗自己\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "buddhist_monk_jpn",
@@ -1200,6 +1216,7 @@
           "baseId": "junk",
           "type": "unit",
           "name": "Junk",
+          "nameCN": "戎克船",
           "pbgid": 5747762,
           "attribName": "unit_naval_war_galley_3_jpn_ha_sen",
           "age": 2,
@@ -1207,6 +1224,7 @@
             "sen"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -1364,7 +1382,9 @@
         }
       ],
       "baseId": "kanabo-samurai",
+      "nameCN": "金碎棒日本武士",
       "age": 2,
+      "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
       "costs": {
         "food": 130,
         "wood": 0,
@@ -1453,6 +1473,7 @@
         },
         "kanabo-samurai-3": {
           "name": "Veteran Kanabo Samurai",
+          "nameCN": "老练金碎棒日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/kanabo-samurai-3.png",
           "hitpoints": 230,
@@ -1518,6 +1539,7 @@
         },
         "kanabo-samurai-4": {
           "name": "Elite Kanabo Samurai",
+          "nameCN": "精锐金碎棒日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/kanabo-samurai-4.png",
           "hitpoints": 260,
@@ -1614,6 +1636,7 @@
           "baseId": "mangonel",
           "type": "unit",
           "name": "Mangonel",
+          "nameCN": "轻型投石车",
           "pbgid": 3407399,
           "attribName": "unit_mangonel_3_jpn_ha_sen",
           "age": 3,
@@ -1621,6 +1644,7 @@
             "sen"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -1918,7 +1942,9 @@
         }
       ],
       "baseId": "mounted-samurai",
+      "nameCN": "骑马武士",
       "age": 3,
+      "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
       "costs": {
         "food": 140,
         "wood": 0,
@@ -2071,6 +2097,7 @@
         },
         "mounted-samurai-4": {
           "name": "Elite Mounted Samurai",
+          "nameCN": "精锐骑马武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/mounted-samurai-4.png",
           "hitpoints": 270,
@@ -2236,6 +2263,7 @@
           "baseId": "mounted-samurai-levy",
           "type": "unit",
           "name": "Mounted Samurai Levy",
+          "nameCN": "骑马日本武士征兵",
           "pbgid": 9003839,
           "attribName": "unit_knight_levy_jpn_ha_sen",
           "age": 3,
@@ -2243,6 +2271,7 @@
             "sen"
           ],
           "description": "Expensive cavalry with high damage and a powerful charge attack.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -2483,7 +2512,9 @@
         }
       ],
       "baseId": "naginata-samurai",
+      "nameCN": "薙刀日本武士",
       "age": 1,
+      "descriptionCN": "重装步兵，具有良好的伤害和防御力。\n+ 重型护甲\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
       "costs": {
         "food": 100,
         "wood": 0,
@@ -2576,6 +2607,7 @@
         },
         "naginata-samurai-2": {
           "name": "Hardened Naginata Samurai",
+          "nameCN": "坚韧薙刀日本武士",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-2.png",
           "hitpoints": 120,
@@ -2641,6 +2673,7 @@
         },
         "naginata-samurai-3": {
           "name": "Veteran Naginata Samurai",
+          "nameCN": "老练薙刀日本武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-3.png",
           "hitpoints": 155,
@@ -2706,6 +2739,7 @@
         },
         "naginata-samurai-4": {
           "name": "Elite Naginata Samurai",
+          "nameCN": "精锐薙刀日本武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/naginata-samurai-4.png",
           "hitpoints": 180,
@@ -2809,6 +2843,7 @@
           "baseId": "naginata-samurai-levy",
           "type": "unit",
           "name": "Naginata Samurai Levy",
+          "nameCN": "薙刀日本征召武士",
           "pbgid": 9003840,
           "attribName": "unit_samurai_levy_jpn_ha_sen",
           "age": 1,
@@ -2816,6 +2851,7 @@
             "sen"
           ],
           "description": "Heavy infantry with good damage and defense.\n+ Heavy armor\n- Slow move speed\n- Countered by Knights, Lancers, and Crossbowmen",
+          "descriptionCN": "重装步兵，具有良好的伤害和防御力。\n+ 重型护甲\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
           "classes": [
             "annihilation_condition",
             "armored",
@@ -3029,7 +3065,9 @@
         }
       ],
       "baseId": "ozutsu",
+      "nameCN": "早期大筒兵",
       "age": 3,
+      "descriptionCN": "强大的多用途远程步兵。\n+ 高伤害\n- 高成本\n- 移动速度慢\n- 会受到骑手克制",
       "costs": {
         "food": 85,
         "wood": 0,
@@ -3109,8 +3147,10 @@
         },
         "ozutsu-4": {
           "name": "Ozutsu",
+          "nameCN": "大筒兵",
           "age": 4,
           "description": "Ranged infantry equipped with a huge gunpowder weapon that has good weapon range, siege, and splash damage.\n+ Anti-building\n+ Area damage\n- Slow move speed\n- Slow attack speed\n- Countered by Horsemen and Crossbowmen",
+          "descriptionCN": "远程步兵，装备巨大的火药武器，拥有优秀的武器攻击范围、攻城和溅射伤害。\n+ 反建筑\n+ 范围伤害\n- 移动速度慢\n- 攻击速度慢\n- 会受到骑手和弩手克制",
           "icon": "https://data.aoe4world.com/images/units/ozutsu-4.png",
           "hitpoints": 160,
           "weapons": [
@@ -3198,6 +3238,7 @@
           "baseId": "scout",
           "type": "unit",
           "name": "Scout",
+          "nameCN": "侦察兵",
           "pbgid": 3188784,
           "attribName": "unit_scout_1_jpn_ha_sen",
           "age": 1,
@@ -3205,6 +3246,7 @@
             "sen"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -3342,6 +3384,7 @@
           "baseId": "siege-tower",
           "type": "unit",
           "name": "Siege Tower",
+          "nameCN": "攻城塔",
           "pbgid": 2848165,
           "attribName": "unit_siege_tower_3_jpn_ha_sen",
           "age": 2,
@@ -3349,6 +3392,7 @@
             "sen"
           ],
           "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+          "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -3486,7 +3530,9 @@
         }
       ],
       "baseId": "spearman",
+      "nameCN": "长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 60,
         "wood": 20,
@@ -3598,6 +3644,7 @@
         },
         "spearman-2": {
           "name": "Hardened Spearman",
+          "nameCN": "坚韧长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/spearman-2.png",
           "hitpoints": 90,
@@ -3682,6 +3729,7 @@
         },
         "spearman-3": {
           "name": "Veteran Spearman",
+          "nameCN": "老练长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/spearman-3.png",
           "hitpoints": 110,
@@ -3766,6 +3814,7 @@
         },
         "spearman-4": {
           "name": "Elite Spearman",
+          "nameCN": "精锐长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/spearman-4.png",
           "hitpoints": 130,
@@ -3886,6 +3935,7 @@
           "baseId": "spearman-levy",
           "type": "unit",
           "name": "Spearman Levy",
+          "nameCN": "长矛兵征兵",
           "pbgid": 9003842,
           "attribName": "unit_spearman_levy_jpn_ha_sen",
           "age": 1,
@@ -3893,6 +3943,7 @@
             "sen"
           ],
           "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+          "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -4051,6 +4102,7 @@
           "baseId": "springald",
           "type": "unit",
           "name": "Springald",
+          "nameCN": "扭力弩炮",
           "pbgid": 7687757,
           "attribName": "unit_springald_3_jpn_ha_sen",
           "age": 3,
@@ -4058,6 +4110,7 @@
             "sen"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4219,7 +4272,9 @@
         }
       ],
       "baseId": "tanegashima-ashigaru",
+      "nameCN": "火绳枪足轻",
       "age": 3,
+      "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
       "costs": {
         "food": 70,
         "wood": 0,
@@ -4294,6 +4349,7 @@
         },
         "tanegashima-ashigaru-4": {
           "name": "Elite Tanegashima Ashigaru",
+          "nameCN": "精锐火绳枪足轻",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -4395,6 +4451,7 @@
           "baseId": "tanegashima-ashigaru-levy",
           "type": "unit",
           "name": "Tanegashima Ashigaru Levy",
+          "nameCN": "火绳枪足轻征兵",
           "pbgid": 9003837,
           "attribName": "unit_handcannon_levy_jpn_ha_sen",
           "age": 3,
@@ -4402,6 +4459,7 @@
             "sen"
           ],
           "description": "Powerful ranged infantry that is effective against armored units.\n+ High damage\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
           "classes": [
             "annihilation_condition",
             "daimyo_retainer",
@@ -4525,6 +4583,7 @@
           "baseId": "trade-ship",
           "type": "unit",
           "name": "Trade Ship",
+          "nameCN": "商船",
           "pbgid": 7740392,
           "attribName": "unit_naval_trade_ship_3_jpn_ha_sen",
           "age": 2,
@@ -4532,6 +4591,7 @@
             "sen"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -4609,6 +4669,7 @@
           "baseId": "trader",
           "type": "unit",
           "name": "Trader",
+          "nameCN": "商人",
           "pbgid": 2954095,
           "attribName": "unit_trade_cart_jpn_ha_sen",
           "age": 1,
@@ -4616,6 +4677,7 @@
             "sen"
           ],
           "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+          "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -4691,6 +4753,7 @@
           "baseId": "transport-ship",
           "type": "unit",
           "name": "Transport Ship",
+          "nameCN": "运输船",
           "pbgid": 3996165,
           "attribName": "unit_naval_transport_ship_2_jpn_ha_sen",
           "age": 2,
@@ -4698,6 +4761,7 @@
             "sen"
           ],
           "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+          "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -4786,6 +4850,7 @@
           "baseId": "villager",
           "type": "unit",
           "name": "Villager",
+          "nameCN": "村民",
           "pbgid": 6094899,
           "attribName": "unit_villager_1_jpn_ha_sen",
           "age": 1,
@@ -4793,6 +4858,7 @@
             "sen"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units.\n- Weak in combat.\nWhen 5 or more stone is deposited an extra 20% gold is produced and when 5 or more gold is deposited an extra 20% stone is produced.",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -4922,6 +4988,7 @@
           "baseId": "war-junk",
           "type": "unit",
           "name": "War Junk",
+          "nameCN": "戎克战船",
           "pbgid": 8279765,
           "attribName": "unit_naval_combat_ship_2_jpn_ha_sen",
           "age": 3,
@@ -4929,6 +4996,7 @@
             "sen"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "massive",
@@ -5095,7 +5163,9 @@
         }
       ],
       "baseId": "yari-cavalry",
+      "nameCN": "日本长枪骑兵",
       "age": 2,
+      "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
       "costs": {
         "food": 115,
         "wood": 30,
@@ -5224,6 +5294,7 @@
         },
         "yari-cavalry-3": {
           "name": "Veteran Yari Cavalry",
+          "nameCN": "老练日本长枪骑兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/yari-cavalry-3.png",
           "hitpoints": 175,
@@ -5325,6 +5396,7 @@
         },
         "yari-cavalry-4": {
           "name": "Elite Yari Cavalry",
+          "nameCN": "精锐日本长枪骑兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/yari-cavalry-4.png",
           "hitpoints": 200,
@@ -5461,6 +5533,7 @@
           "baseId": "yari-cavalry-levy",
           "type": "unit",
           "name": "Yari Cavalry Levy",
+          "nameCN": "日本长枪征召骑兵",
           "pbgid": 9003838,
           "attribName": "unit_horseman_levy_jpn_ha_sen",
           "age": 1,
@@ -5468,6 +5541,7 @@
             "sen"
           ],
           "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Bonus damage against cavalry.\n+ High movement speed\n- Weak against melee units\n- Countered by Spearmen",
+          "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
           "classes": [
             "annihilation_condition",
             "cavalry",
@@ -5637,6 +5711,7 @@
           "baseId": "yatai",
           "type": "unit",
           "name": "Yatai",
+          "nameCN": "屋台",
           "pbgid": 9001316,
           "attribName": "unit_yatai_1_jpn_ha_sen",
           "age": 1,
@@ -5644,6 +5719,7 @@
             "sen"
           ],
           "description": "Collects Food from nearby sources without consuming them in addition to a base rate of 20 Food every minute. After collecting enough Food it will send a trader to its Home Matsuri, which improves the Matsuri gather rate aura by 5%, +250 health and grants +50 additional Food. \nFood sources overlapped by multiple Yatai are only counted once and Boar do not retaliate while near a Yatai. The Yatai is limited to 3 and is increased by +1 per age up.",
+          "descriptionCN": "从附近来源收集食物，但不会进行消耗，此外基础速率为每分钟 20 食物。收集到足够的食物后，将会派出一名商人前往参加主祭典，这可让祭典采集速率光环 +5%，生命值 +250，并额外提供 +50 的食物。\n多个屋台所覆盖的食物来源只计算一次，野猪在屋台附近时不会反击。屋台的上限为 3，并且每次提升时代 +1。",
           "classes": [
             "mobile_building",
             "packable_building",
@@ -5743,7 +5819,9 @@
         }
       ],
       "baseId": "yumi-ashigaru",
+      "nameCN": "弓足轻",
       "age": 2,
+      "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 25,
         "wood": 35,
@@ -5912,6 +5990,7 @@
         },
         "yumi-ashigaru-3": {
           "name": "Veteran Yumi Ashigaru",
+          "nameCN": "老练弓足轻",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -6068,6 +6147,7 @@
         },
         "yumi-ashigaru-4": {
           "name": "Elite Yumi Ashigaru",
+          "nameCN": "精锐弓足轻",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -6259,6 +6339,7 @@
           "baseId": "yumi-ashigaru-levy",
           "type": "unit",
           "name": "Yumi Ashigaru Levy",
+          "nameCN": "日本长弓足轻征兵",
           "pbgid": 9003836,
           "attribName": "unit_archer_levy_jpn_ha_sen",
           "age": 1,
@@ -6266,6 +6347,7 @@
             "sen"
           ],
           "description": "Quick and cheap ranged infantry with good damage vs. unarmored targets.\n+ Increased move speed\n+ Cheaper than Archers\n- Reduced health\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+          "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "archer",

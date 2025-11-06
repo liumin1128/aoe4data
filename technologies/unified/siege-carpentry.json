@@ -26,6 +26,7 @@
       "baseId": "siege-carpentry",
       "type": "technology",
       "name": "Siege Carpentry",
+      "nameCN": "木制攻城器械",
       "pbgid": 2141404,
       "attribName": "upgrade_siege_carpentry_abb_ha_01",
       "age": 3,
@@ -33,6 +34,7 @@
         "ay"
       ],
       "description": "Upon completion, siege units gain access to the Structural Reinforcements ability.\nSiege units gain +20 melee armor and +5 fire armor for 10 seconds.",
+      "descriptionCN": "完成后，攻城单位可获得结构强化能力。\n攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "scar_imperial_age_upgrade",

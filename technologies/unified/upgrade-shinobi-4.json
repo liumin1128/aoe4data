@@ -25,6 +25,7 @@
       "baseId": "upgrade-shinobi-4",
       "type": "technology",
       "name": "Imperial Age Shinobi",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2140389,
       "attribName": "upgrade_unit_shinobi_4",
       "age": 4,
@@ -32,6 +33,7 @@
         "ja"
       ],
       "description": "Increases the health and damage of of Shinobi when reaching Imperial Age.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [
         "shinobi",
         "scaling",

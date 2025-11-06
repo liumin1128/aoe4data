@@ -63,6 +63,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -70,6 +71,7 @@
         "ab"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -130,6 +132,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -137,6 +140,7 @@
         "ay"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -197,6 +201,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -204,6 +209,7 @@
         "by"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -264,6 +270,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -271,6 +278,7 @@
         "ch"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -331,6 +339,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 181939,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3_sul",
       "age": 3,
@@ -338,6 +347,7 @@
         "de"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "scar_castle_age_upgrade",
@@ -383,6 +393,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -390,6 +401,7 @@
         "en"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -450,6 +462,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -457,6 +470,7 @@
         "fr"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -517,6 +531,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 9005037,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3_mon_ha_gol",
       "age": 3,
@@ -524,6 +539,7 @@
         "gol"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -584,6 +600,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -591,6 +608,7 @@
         "hr"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -651,6 +669,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -658,6 +677,7 @@
         "hl"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -718,6 +738,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 2136380,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3_jpn",
       "age": 3,
@@ -725,6 +746,7 @@
         "ja"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -772,6 +794,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -779,6 +802,7 @@
         "je"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -839,6 +863,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -846,6 +871,7 @@
         "mac"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -906,6 +932,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -913,6 +940,7 @@
         "ma"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -973,6 +1001,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -980,6 +1009,7 @@
         "mo"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1041,6 +1071,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -1048,6 +1079,7 @@
         "od"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1108,6 +1140,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -1115,6 +1148,7 @@
         "ot"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1175,6 +1209,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -1182,6 +1217,7 @@
         "ru"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1242,6 +1278,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 2136380,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3_jpn",
       "age": 3,
@@ -1249,6 +1286,7 @@
         "sen"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1295,6 +1333,7 @@
       "baseId": "lumber-preservation",
       "type": "technology",
       "name": "Lumber Preservation",
+      "nameCN": "木材保存",
       "pbgid": 171836,
       "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
       "age": 3,
@@ -1302,6 +1341,7 @@
         "zx"
       ],
       "description": "Increase Villagers' gathering rate for Wood by 15%.",
+      "descriptionCN": "村民的木材采集速率 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

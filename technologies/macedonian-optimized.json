@@ -52,6 +52,7 @@
           "baseId": "adjustable-crossbars",
           "type": "technology",
           "name": "Adjustable Crossbars",
+          "nameCN": "可调式横杆",
           "pbgid": 130999,
           "attribName": "upgrade_siege_adjustable_crossbar",
           "age": 4,
@@ -59,6 +60,7 @@
             "mac"
           ],
           "description": "Increases Mangonel range by +1, blast radius by +75%, and adds +1 projectile to attacks.",
+          "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -159,6 +161,7 @@
           "baseId": "armored-hull",
           "type": "technology",
           "name": "Armored Hull",
+          "nameCN": "装甲船身",
           "pbgid": 196879,
           "attribName": "upgrade_naval_armored_hull",
           "age": 3,
@@ -166,6 +169,7 @@
             "mac"
           ],
           "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+          "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -278,6 +282,7 @@
           "baseId": "arrowslits",
           "type": "technology",
           "name": "Arrowslits",
+          "nameCN": "射箭槽",
           "pbgid": 127325,
           "attribName": "upgrade_outpost_arrowslits",
           "age": 2,
@@ -285,6 +290,7 @@
             "mac"
           ],
           "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+          "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -387,7 +393,9 @@
         }
       ],
       "baseId": "blade-inlaying",
+      "nameCN": "刀片嵌饰",
       "age": 2,
+      "descriptionCN": "所有骑兵的伤害提升 1。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -481,6 +489,7 @@
           "baseId": "boiling-oil",
           "type": "technology",
           "name": "Boiling Oil",
+          "nameCN": "沸油",
           "pbgid": 128447,
           "attribName": "upgrade_tech_university_murder_holes_4",
           "age": 3,
@@ -488,6 +497,7 @@
             "mac"
           ],
           "description": "Towers and Keeps gain a boiling oil attack against nearby units that deals 30 damage.",
+          "descriptionCN": "箭塔和城堡能对附近敌方单位倾倒沸油，对其造成 30 伤害。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -575,6 +585,7 @@
           "baseId": "border-settlements",
           "type": "technology",
           "name": "Border Settlements",
+          "nameCN": "边境聚落",
           "pbgid": 2122674,
           "attribName": "upgrade_house_vision_byz",
           "age": 2,
@@ -582,6 +593,7 @@
             "mac"
           ],
           "description": "Increase House line of sight by 7 tiles and improve their construction speed by 500%.",
+          "descriptionCN": "房屋的视野提升 7 格，并提升其建造速度 500%。",
           "classes": [
             "byzantine_upgrade"
           ],
@@ -668,7 +680,9 @@
         }
       ],
       "baseId": "butted-chainmail",
+      "nameCN": "对接锁子甲",
       "age": 2,
+      "descriptionCN": "所有近战步兵的护甲提升 1，生命值提升 5%。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -763,6 +777,7 @@
           "baseId": "cannon-emplacement",
           "type": "technology",
           "name": "Cannon Emplacement",
+          "nameCN": "加农炮炮台",
           "pbgid": 185626,
           "attribName": "upgrade_keep_cannon",
           "age": 4,
@@ -770,6 +785,7 @@
             "mac"
           ],
           "description": "Add a defensive cannon emplacement to this structure.",
+          "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -876,6 +892,7 @@
           "baseId": "crosscut-saw",
           "type": "technology",
           "name": "Crosscut Saw",
+          "nameCN": "横切锯",
           "pbgid": 171837,
           "attribName": "upgrade_econ_resource_wood_harvest_rate_4",
           "age": 4,
@@ -883,6 +900,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Wood by 15% and Wood gatherers carry capacity by +5.",
+          "descriptionCN": "村民的木材采集速率 +15%，木材采集者运载量 +5。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -981,6 +999,7 @@
           "baseId": "cupellation",
           "type": "technology",
           "name": "Cupellation",
+          "nameCN": "灰吹法",
           "pbgid": 171824,
           "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
           "age": 4,
@@ -988,6 +1007,7 @@
             "mac"
           ],
           "description": "Gold gatherers drop off 15% more resources.",
+          "descriptionCN": "黄金采集者存放资源量额外 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1098,6 +1118,7 @@
           "baseId": "double-broadax",
           "type": "technology",
           "name": "Double Broadax",
+          "nameCN": "双阔斧",
           "pbgid": 128070,
           "attribName": "upgrade_econ_resource_wood_harvest_rate_2",
           "age": 2,
@@ -1105,6 +1126,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Wood by 15%.",
+          "descriptionCN": "村民的木材采集速率 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1205,6 +1227,7 @@
           "baseId": "drift-nets",
           "type": "technology",
           "name": "Drift Nets",
+          "nameCN": "流刺网",
           "pbgid": 2033746,
           "attribName": "upgrade_econ_drift_nets",
           "age": 3,
@@ -1212,6 +1235,7 @@
             "mac"
           ],
           "description": "Increase the gathering rate of Fishing Ships by +10%, carry capacity by +20 and move speed by +10%.",
+          "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1338,6 +1362,7 @@
           "baseId": "explosives",
           "type": "technology",
           "name": "Explosives",
+          "nameCN": "炸药",
           "pbgid": 196883,
           "attribName": "upgrade_naval_explosives",
           "age": 4,
@@ -1345,6 +1370,7 @@
             "mac"
           ],
           "description": "Increase the damage of Incendiary Ships by +40%.",
+          "descriptionCN": "燃烧船伤害 +40%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1449,6 +1475,7 @@
           "baseId": "extended-lines",
           "type": "technology",
           "name": "Extended Lines",
+          "nameCN": "延绳钓",
           "pbgid": 2033745,
           "attribName": "upgrade_econ_extended_lines",
           "age": 2,
@@ -1456,6 +1483,7 @@
             "mac"
           ],
           "description": "Increase the gathering rate of Fishing Ships by +15% and carry capacity by +10.",
+          "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1570,6 +1598,7 @@
           "baseId": "extra-hammocks",
           "type": "technology",
           "name": "Extra Hammocks",
+          "nameCN": "额外吊床",
           "pbgid": 2101642,
           "attribName": "upgrade_naval_extra_hammocks",
           "age": 3,
@@ -1577,6 +1606,7 @@
             "mac"
           ],
           "description": "Increases the number of arrows fired by Archer Ships by +1.",
+          "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1666,6 +1696,7 @@
           "baseId": "fertilization",
           "type": "technology",
           "name": "Fertilization",
+          "nameCN": "施肥",
           "pbgid": 2159810,
           "attribName": "upgrade_econ_resource_food_harvest_rate_3_byz",
           "age": 3,
@@ -1673,6 +1704,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+          "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
           "classes": [
             "byzantine_upgrade",
             "economic_upgrade",
@@ -1757,6 +1789,7 @@
           "baseId": "forestry",
           "type": "technology",
           "name": "Forestry",
+          "nameCN": "林业",
           "pbgid": 171999,
           "attribName": "upgrade_econ_resource_wood_fell_rate_1",
           "age": 1,
@@ -1764,6 +1797,7 @@
             "mac"
           ],
           "description": "Double the rate at which Villagers chop down trees.",
+          "descriptionCN": "村民伐木速率加倍。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -1868,7 +1902,9 @@
         }
       ],
       "baseId": "fortifications",
+      "nameCN": "防御工事",
       "age": 2,
+      "descriptionCN": "所有建筑的生命值提升 10%。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1962,6 +1998,7 @@
           "baseId": "fortify-outpost",
           "type": "technology",
           "name": "Fortify Outpost",
+          "nameCN": "强化哨站",
           "pbgid": 127331,
           "attribName": "upgrade_outpost_stone",
           "age": 2,
@@ -1969,6 +2006,7 @@
             "mac"
           ],
           "description": "Add +1000 health and +5 fire armor to this Outpost.",
+          "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2079,6 +2117,7 @@
           "baseId": "greased-axles",
           "type": "technology",
           "name": "Greased Axles",
+          "nameCN": "润滑轮轴",
           "pbgid": 191268,
           "attribName": "upgrade_siege_weapon_speed",
           "age": 3,
@@ -2086,6 +2125,7 @@
             "mac"
           ],
           "description": "Increase the movement speed of siege engines by +15%.",
+          "descriptionCN": "攻城器械的移动速度 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2173,6 +2213,7 @@
           "baseId": "greek-fire-projectiles",
           "type": "technology",
           "name": "Greek Fire Projectiles",
+          "nameCN": "希腊之火炮弹",
           "pbgid": 2104321,
           "attribName": "upgrade_greek_fire_trebuchet_byz",
           "age": 4,
@@ -2180,6 +2221,7 @@
             "mac"
           ],
           "description": "Counterweight Trebuchets deal +30% increased damage and engulf their target with Greek Fire, dealing area damage. Greek Fire does not stack with other patches.",
+          "descriptionCN": "配重式巨型投石机造成的伤害 +30%，可以向目标倾泻希腊之火，造成范围伤害。希腊之火不与其他效果叠加。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -2266,6 +2308,7 @@
           "baseId": "heated-shot",
           "type": "technology",
           "name": "Heated Shot",
+          "nameCN": "加热射击",
           "pbgid": 2101720,
           "attribName": "upgrade_naval_heated_shot",
           "age": 4,
@@ -2273,6 +2316,7 @@
             "mac"
           ],
           "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+          "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2363,6 +2407,7 @@
           "baseId": "heavy-dromon",
           "type": "technology",
           "name": "Heavy Dromon",
+          "nameCN": "重型德罗蒙战舰",
           "pbgid": 2145685,
           "attribName": "upgrade_heavy_dromon_byz",
           "age": 3,
@@ -2370,6 +2415,7 @@
             "mac"
           ],
           "description": "Upgrade all Dromons to leave Greek Fire on the surface or ground where they attack. Man The Sails cooldown also reduced to 20 seconds.",
+          "descriptionCN": "升级所有的德罗蒙战舰，使其可以在攻击目标的表面或地面上留下希腊之火。掌舵人的冷却时间还会缩短至 20 秒。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -2454,6 +2500,7 @@
           "baseId": "herbal-medicine",
           "type": "technology",
           "name": "Herbal Medicine",
+          "nameCN": "草药",
           "pbgid": 129401,
           "attribName": "upgrade_unit_religious_herbal_medicine_4",
           "age": 3,
@@ -2461,6 +2508,7 @@
             "mac"
           ],
           "description": "Increase the healing rate of religious units and healers by +60%.",
+          "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2553,6 +2601,7 @@
           "baseId": "horticulture",
           "type": "technology",
           "name": "Horticulture",
+          "nameCN": "园艺学",
           "pbgid": 2159809,
           "attribName": "upgrade_econ_resource_food_harvest_rate_2_byz",
           "age": 2,
@@ -2560,6 +2609,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+          "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
           "classes": [
             "byzantine_upgrade",
             "economic_upgrade",
@@ -2650,7 +2700,9 @@
         }
       ],
       "baseId": "iron-fittings",
+      "nameCN": "铁制配件",
       "age": 2,
+      "descriptionCN": "所有攻城单位的生命值提升 5%。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2750,7 +2802,9 @@
         }
       ],
       "baseId": "lamellar-armor",
+      "nameCN": "札甲",
       "age": 2,
+      "descriptionCN": "所有远程单位的护甲提升 1，生命值提升 5%。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2845,6 +2899,7 @@
           "baseId": "lightweight-beams",
           "type": "technology",
           "name": "Lightweight Beams",
+          "nameCN": "轻质横梁",
           "pbgid": 2117424,
           "attribName": "upgrade_ram_scaling",
           "age": 4,
@@ -2852,6 +2907,7 @@
             "mac"
           ],
           "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+          "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2953,6 +3009,7 @@
           "baseId": "liquid-explosives",
           "type": "technology",
           "name": "Liquid Explosives",
+          "nameCN": "液体炸药",
           "pbgid": 2145611,
           "attribName": "upgrade_fireship_liquid_explosives_byz",
           "age": 3,
@@ -2960,6 +3017,7 @@
             "mac"
           ],
           "description": "Incendiary Ships deal full damage to all enemies in their explosion radius.",
+          "descriptionCN": "燃烧船可对爆炸范围内的所有敌人造成全值伤害。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -3046,6 +3104,7 @@
           "baseId": "lumber-preservation",
           "type": "technology",
           "name": "Lumber Preservation",
+          "nameCN": "木材保存",
           "pbgid": 171836,
           "attribName": "upgrade_econ_resource_wood_harvest_rate_3",
           "age": 3,
@@ -3053,6 +3112,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Wood by 15%.",
+          "descriptionCN": "村民的木材采集速率 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -3136,6 +3196,7 @@
           "baseId": "mangonel-emplacement",
           "type": "technology",
           "name": "Mangonel Emplacement",
+          "nameCN": "轻型投石车炮台",
           "pbgid": 2129278,
           "attribName": "upgrade_keep_mangonel_byz",
           "age": 3,
@@ -3143,6 +3204,7 @@
             "mac"
           ],
           "description": "Add a defensive mangonel emplacement to this structure.",
+          "descriptionCN": "为该建筑增加一座用于防御的轻型投石车炮台。",
           "classes": [
             "byzantine_upgrade",
             "emplacement_upgrade",
@@ -3226,6 +3288,7 @@
           "baseId": "military-academy",
           "type": "technology",
           "name": "Military Academy",
+          "nameCN": "军事学院",
           "pbgid": 9003740,
           "attribName": "upgrade_tech_military_academy_byz_ha_mac",
           "age": 3,
@@ -3233,6 +3296,7 @@
             "mac"
           ],
           "description": "Increase the production speed of infantry, cavalry, siege, and transport units at buildings by 33%.\nDoes not affect religious units or other support units.",
+          "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -3348,6 +3412,7 @@
           "baseId": "naval-arrowslits",
           "type": "technology",
           "name": "Naval Arrowslits",
+          "nameCN": "海军射箭槽",
           "pbgid": 2076426,
           "attribName": "upgrade_naval_arrowslits",
           "age": 2,
@@ -3355,6 +3420,7 @@
             "mac"
           ],
           "description": "Add a defensive arrowslit to this Dock which only attacks ships.",
+          "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -3447,7 +3513,9 @@
         }
       ],
       "baseId": "pattern-welding",
+      "nameCN": "图案焊接",
       "age": 2,
+      "descriptionCN": "所有近战步兵的伤害提升 1。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -3538,6 +3606,7 @@
           "baseId": "piety",
           "type": "technology",
           "name": "Piety",
+          "nameCN": "虔诚",
           "pbgid": 129403,
           "attribName": "upgrade_unit_religious_piety_4",
           "age": 4,
@@ -3545,6 +3614,7 @@
             "mac"
           ],
           "description": "Increase the health of religious units and healers by +40.",
+          "descriptionCN": "宗教单位和治疗者的生命值 +40。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "ayyubid_cmp_upgrade",
@@ -3634,6 +3704,7 @@
           "baseId": "polutasvarf",
           "type": "technology",
           "name": "Polutasvarf",
+          "nameCN": "宫殿掠夺",
           "pbgid": 9002757,
           "attribName": "upgrade_palace_pillaging_byz_ha_mac",
           "age": 3,
@@ -3641,6 +3712,7 @@
             "mac"
           ],
           "description": "Each Varangian unit that is present for the destruction of a Landmark or Town Center will award the player with a boon of Silver.",
+          "descriptionCN": "当一个地标或城镇中心被摧毁时，附近的所有瓦兰吉单位都会为玩家带来白银增益。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -3698,6 +3770,7 @@
           "baseId": "precision-cross-breeding",
           "type": "technology",
           "name": "Precision Cross-Breeding",
+          "nameCN": "精准杂交育种",
           "pbgid": 2159811,
           "attribName": "upgrade_econ_resource_food_harvest_rate_4_byz",
           "age": 4,
@@ -3705,6 +3778,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Food by 10%. Does not apply to hunted meat.",
+          "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
           "classes": [
             "byzantine_upgrade",
             "economic_upgrade",
@@ -3776,6 +3850,7 @@
           "baseId": "professional-scouts",
           "type": "technology",
           "name": "Professional Scouts",
+          "nameCN": "专业侦察兵",
           "pbgid": 2159813,
           "attribName": "upgrade_scout_forester_byz",
           "age": 2,
@@ -3783,6 +3858,7 @@
             "mac"
           ],
           "description": "Scouts gain the ability to carry animal carcasses and +100% damage against wild animals.\nScouts move -55% slower while carrying and cannot pick up Boar. Deer slowly decay while being carried.",
+          "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
           "classes": [
             "byzantine_upgrade",
             "japanese_ha_sen_upgrade",
@@ -3871,6 +3947,7 @@
           "baseId": "prolonged-siege",
           "type": "technology",
           "name": "Prolonged Siege",
+          "nameCN": "长期围攻",
           "pbgid": 9002997,
           "attribName": "upgrade_siege_setup_damage_byz_ha_mac",
           "age": 4,
@@ -3878,6 +3955,7 @@
             "mac"
           ],
           "description": "Siege units will deal 10% additional damage for every 10 seconds they are set up - to a maximum of 50%.",
+          "descriptionCN": "攻城单位处于架设状态的时间每延长 10 秒，其造成的伤害便会提升 10% (最多可提升至 50%)。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -3934,6 +4012,7 @@
           "baseId": "rhomphaia",
           "type": "technology",
           "name": "Rhomphaia",
+          "nameCN": "长柄逆刃刀",
           "pbgid": 9002991,
           "attribName": "upgrade_rhomphaia_byz_ha_mac",
           "age": 3,
@@ -3941,6 +4020,7 @@
             "mac"
           ],
           "description": "Varangian Guards and Riddari equip a powerful Rhomphaia sword, increasing light infantry damage of Guards by 3, and damage of Riddari by 3.",
+          "descriptionCN": "瓦兰吉卫队和瑞塔利装备了威力强大的长柄逆刃刀，使卫队轻型步兵的伤害 +3，瑞塔利的伤害 +3。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -4013,6 +4093,7 @@
           "baseId": "roller-shutter-triggers",
           "type": "technology",
           "name": "Roller Shutter Triggers",
+          "nameCN": "卷帘式触发器",
           "pbgid": 127938,
           "attribName": "upgrade_siege_roller_trigger",
           "age": 4,
@@ -4020,6 +4101,7 @@
             "mac"
           ],
           "description": "Increases Springald attack speed by +25% and grants +10% Ranged Resistance.",
+          "descriptionCN": "扭力弩炮攻击速度 +25%，并且获得 +10% 远程抗性。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -4115,6 +4197,7 @@
           "baseId": "roman-fire",
           "type": "technology",
           "name": "Roman Fire",
+          "nameCN": "罗马火",
           "pbgid": 9002994,
           "attribName": "upgrade_flaming_springald_byz_ha_mac",
           "age": 4,
@@ -4122,6 +4205,7 @@
             "mac"
           ],
           "description": "Springalds gain 15% attack speed and engulf their projectiles with fire, creating a patch of Greek Fire after impact.",
+          "descriptionCN": "扭力弩炮获得 15% 的攻击速度并会用火包裹它们的炮弹，在撞击后产生一片希腊之火。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -4178,6 +4262,7 @@
           "baseId": "ruinous-blinding",
           "type": "technology",
           "name": "Ruinous Blinding",
+          "nameCN": "毁灭致盲",
           "pbgid": 9002956,
           "attribName": "upgrade_varangian_bowmen_blinding_byz_ha_mac",
           "age": 2,
@@ -4185,6 +4270,7 @@
             "mac"
           ],
           "description": "Varangian Arsenals craft more lethal arrows, causing units hit by Bogmaðr to have their damage reduced by 20% for 5 seconds.",
+          "descriptionCN": "瓦兰吉兵工厂能制作更多致命的箭矢，可让波莫射中的单位 -20% 的伤害，持续 5 秒。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -4262,7 +4348,9 @@
         }
       ],
       "baseId": "scale-barding",
+      "nameCN": "鳞纹马铠",
       "age": 2,
+      "descriptionCN": "所有骑兵的护甲提升 1，生命值提升 5%。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4356,6 +4444,7 @@
           "baseId": "shaft-mining",
           "type": "technology",
           "name": "Shaft Mining",
+          "nameCN": "竖井开采",
           "pbgid": 171823,
           "attribName": "upgrade_econ_resource_gold_harvest_rate_3",
           "age": 3,
@@ -4363,6 +4452,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+          "descriptionCN": "村民的黄金和石料采集速率 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -4455,7 +4545,9 @@
         }
       ],
       "baseId": "sharpening-stones",
+      "nameCN": "磨刀石",
       "age": 2,
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4551,6 +4643,7 @@
           "baseId": "shipwrights",
           "type": "technology",
           "name": "Shipwrights",
+          "nameCN": "造船工",
           "pbgid": 2101643,
           "attribName": "upgrade_naval_shipwrights",
           "age": 4,
@@ -4558,6 +4651,7 @@
             "mac"
           ],
           "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+          "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -4673,6 +4767,7 @@
           "baseId": "siege-engineering",
           "type": "technology",
           "name": "Siege Engineering",
+          "nameCN": "攻城工程学",
           "pbgid": 9003739,
           "attribName": "upgrade_siege_engineers_byz_ha_mac",
           "age": 2,
@@ -4680,6 +4775,7 @@
             "mac"
           ],
           "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field.",
+          "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
           "classes": [
             "byzantine_upgrade",
             "chinese_ha_01_upgrade",
@@ -4780,6 +4876,7 @@
           "baseId": "specialized-pick",
           "type": "technology",
           "name": "Specialized Pick",
+          "nameCN": "特制矿锄",
           "pbgid": 171822,
           "attribName": "upgrade_econ_resource_gold_harvest_rate_2",
           "age": 2,
@@ -4787,6 +4884,7 @@
             "mac"
           ],
           "description": "Increase Villagers' gathering rate for Gold and Stone by 15%.",
+          "descriptionCN": "村民的黄金和石料采集速率 +15%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -4893,6 +4991,7 @@
           "baseId": "spyglass",
           "type": "technology",
           "name": "Spyglass",
+          "nameCN": "小型望远镜",
           "pbgid": 2126207,
           "attribName": "upgrade_scout_los_increase",
           "age": 4,
@@ -4900,6 +4999,7 @@
             "mac"
           ],
           "description": "Increase the sight radius of Scouts by 30%.",
+          "descriptionCN": "侦察兵的视线半径增加 30%。",
           "classes": [
             "byzantine_upgrade",
             "crusader_cmp_upgrade",
@@ -4983,6 +5083,7 @@
           "baseId": "stronghold-defensive-arrowslits",
           "type": "technology",
           "name": "Stronghold Defensive Arrowslits",
+          "nameCN": "堡垒防御射箭槽",
           "pbgid": 9004725,
           "attribName": "upgrade_tech_stronghold_arrows_byz_ha_mac",
           "age": 2,
@@ -4990,6 +5091,7 @@
             "mac"
           ],
           "description": "Upgrades all Varangian Strongholds with default arrowslit emplacements that deal 10 damage with 6 tiles weapon range.",
+          "descriptionCN": "用默认射箭槽炮台升级所有瓦兰吉堡垒，能以 6 格武器攻击范围造成 10 伤害。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -5048,6 +5150,7 @@
           "baseId": "survival-techniques",
           "type": "technology",
           "name": "Survival Techniques",
+          "nameCN": "生存技术",
           "pbgid": 2159812,
           "attribName": "upgrade_econ_villager_hunting_gear_1_byz",
           "age": 1,
@@ -5055,6 +5158,7 @@
             "mac"
           ],
           "description": "Increase Villagers' hunted meat gather rate by +15%.",
+          "descriptionCN": "村民狩猎肉类采集速率 +15%。",
           "classes": [
             "byzantine_upgrade",
             "economic_upgrade",
@@ -5142,6 +5246,7 @@
           "baseId": "textiles",
           "type": "technology",
           "name": "Textiles",
+          "nameCN": "纺织品",
           "pbgid": 2045367,
           "attribName": "upgrade_villager_health",
           "age": 2,
@@ -5149,6 +5254,7 @@
             "mac"
           ],
           "description": "Increase Villagers' health by +50%.",
+          "descriptionCN": "村民生命值 +50%。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -5246,6 +5352,7 @@
           "baseId": "tithe-barns",
           "type": "technology",
           "name": "Tithe Barns",
+          "nameCN": "什一税仓库",
           "pbgid": 129407,
           "attribName": "upgrade_unit_religious_tithe_barn_4",
           "age": 4,
@@ -5253,6 +5360,7 @@
             "mac"
           ],
           "description": "Relics placed in a Monastery provide an income of +40 Food, +40 Wood, and +10 Stone every minute.",
+          "descriptionCN": "放置在修道院的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
           "classes": [
             "byzantine_upgrade",
             "chinese_ha_01_upgrade",
@@ -5363,6 +5471,7 @@
           "baseId": "wheelbarrow",
           "type": "technology",
           "name": "Wheelbarrow",
+          "nameCN": "独轮推车",
           "pbgid": 2159825,
           "attribName": "upgrade_unit_town_center_wheelbarrow_byz",
           "age": 1,
@@ -5370,6 +5479,7 @@
             "mac"
           ],
           "description": "Increase the carry capacity of Villagers by +5 and their movement speed by +15%.",
+          "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
           "classes": [
             "byzantine_upgrade",
             "economic_upgrade",

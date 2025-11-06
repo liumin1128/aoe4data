@@ -42,6 +42,7 @@
           "baseId": "battering-ram",
           "type": "unit",
           "name": "Battering Ram",
+          "nameCN": "攻城锤",
           "pbgid": 2145247,
           "attribName": "unit_workshop_ram_3_hre_ha_01",
           "age": 2,
@@ -49,6 +50,7 @@
             "od"
           ],
           "description": "Durable infantry transport effective against buildings and walls.\n+ High ranged armor\n+ High health\n- Takes bonus damage from melee attacks\n- Can only attack buildings\n- Slow movement speed",
+          "descriptionCN": "耐久的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 只能通过近战攻击受到额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -185,6 +187,7 @@
           "baseId": "carrack",
           "type": "unit",
           "name": "Carrack",
+          "nameCN": "大帆船",
           "pbgid": 8922530,
           "attribName": "unit_naval_combat_warship_4_hre_ha_01",
           "age": 4,
@@ -192,6 +195,7 @@
             "od"
           ],
           "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+          "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "gunpowder",
@@ -321,6 +325,7 @@
           "baseId": "counterweight-trebuchet",
           "type": "unit",
           "name": "Counterweight Trebuchet",
+          "nameCN": "配重式巨型投石机",
           "pbgid": 4857694,
           "attribName": "unit_trebuchet_4_cw_hre_ha_01",
           "age": 3,
@@ -328,6 +333,7 @@
             "od"
           ],
           "description": "Powerful siege engine effective at destroying buildings and walls over a great distance.\n+ Bonus damage vs buildings\n- Must be set up to fire\n- Inaccurate against units",
+          "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -467,6 +473,7 @@
           "baseId": "culverin",
           "type": "unit",
           "name": "Culverin",
+          "nameCN": "长管炮",
           "pbgid": 7541634,
           "attribName": "unit_culverin_4_hre_ha_01",
           "age": 4,
@@ -474,6 +481,7 @@
             "od"
           ],
           "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+          "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
           "classes": [
             "annihilation_condition",
             "culverin",
@@ -642,6 +650,7 @@
           "baseId": "demolition-ship",
           "type": "unit",
           "name": "Demolition Ship",
+          "nameCN": "爆破船",
           "pbgid": 2280488,
           "attribName": "unit_naval_fireship_3_hre_ha_01",
           "age": 2,
@@ -649,6 +658,7 @@
             "od"
           ],
           "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+          "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
           "classes": [
             "annihilation_condition",
             "incendiary",
@@ -782,6 +792,7 @@
           "baseId": "fishing-boat",
           "type": "unit",
           "name": "Fishing Boat",
+          "nameCN": "渔船",
           "pbgid": 6922142,
           "attribName": "unit_naval_fishing_boat_2_hre_ha_01",
           "age": 2,
@@ -789,6 +800,7 @@
             "od"
           ],
           "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+          "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "naval_fishing_ship",
@@ -870,6 +882,7 @@
           "baseId": "galley",
           "type": "unit",
           "name": "Galley",
+          "nameCN": "箭船",
           "pbgid": 8686565,
           "attribName": "unit_naval_war_galley_3_hre_ha_01",
           "age": 2,
@@ -877,6 +890,7 @@
             "od"
           ],
           "description": "Oared war vessel armed with a crew of archers.\n+ Increased maneuverability\n+ Benefits from ranged damage Blacksmith technology",
+          "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
           "classes": [
             "annihilation_condition",
             "archer_ship",
@@ -1030,7 +1044,9 @@
         }
       ],
       "baseId": "gilded-archer",
+      "nameCN": "镀金步弓手",
       "age": 2,
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "costs": {
         "food": 60,
         "wood": 100,
@@ -1062,6 +1078,7 @@
         "gilded-archer-2": {
           "name": "Gilded Archer",
           "description": "Ranged infantry with good damage vs. unarmored targets and increased fire rate and longer weapon range than standard Archers.\n+ Increased weapon range\n+ Faster attack speed\n- Weak against armored targets\n- Countered by Horsemen",
+          "descriptionCN": "与标准弓箭手相比，远程步兵可对非装甲目标造成很高的伤害，攻击速度更快，武器射程更远。\n+ 更远的武器射程\n+ 更快的攻击速度\n- 不擅长对付装甲目标\n- 会受到骑兵克制",
           "weapons": [
             {
               "name": "Bow",
@@ -1123,6 +1140,7 @@
         },
         "gilded-archer-3": {
           "name": "Veteran Gilded Archer",
+          "nameCN": "老练镀金步弓手",
           "age": 3,
           "classes": [
             "annihilation_condition",
@@ -1202,6 +1220,7 @@
         },
         "gilded-archer-4": {
           "name": "Elite Gilded Archer",
+          "nameCN": "精锐镀金步弓手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1329,7 +1348,9 @@
         }
       ],
       "baseId": "gilded-crossbowman",
+      "nameCN": "镀金弩手",
       "age": 3,
+      "descriptionCN": "射程较远的弩手，可以对重型单位造成极高的伤害。\n+ 反重型专家\n+ 射程远\n- 生命值低\n- 会受到骑手克制",
       "costs": {
         "food": 160,
         "wood": 0,
@@ -1454,6 +1475,7 @@
         },
         "gilded-crossbowman-4": {
           "name": "Elite Gilded Crossbowman",
+          "nameCN": "精锐镀金弩手",
           "age": 4,
           "classes": [
             "annihilation_condition",
@@ -1551,6 +1573,7 @@
           "baseId": "gilded-handcannoneer",
           "type": "unit",
           "name": "Gilded Handcannoneer",
+          "nameCN": "镀金火枪兵",
           "pbgid": 6642514,
           "attribName": "unit_handcannon_4_hre_ha_01",
           "age": 4,
@@ -1558,6 +1581,7 @@
             "od"
           ],
           "description": "More powerful all-purpose ranged infantry with increased attack speed.\n+ High damage\n+ Increased attack speed\n- High cost\n- Slow movement speed\n- Countered by Horsemen",
+          "descriptionCN": "更为强大的全面型高攻速远程步兵。\n+ 高伤害\n+ 攻击速度提升\n- 高成本\n- 移动速度较慢\n- 会受到骑手克制",
           "classes": [
             "annihilation_condition",
             "find_non_siege_land_military",
@@ -1690,7 +1714,9 @@
         }
       ],
       "baseId": "gilded-horseman",
+      "nameCN": "镀金骑手",
       "age": 2,
+      "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
       "costs": {
         "food": 200,
         "wood": 40,
@@ -1806,6 +1832,7 @@
         },
         "gilded-horseman-3": {
           "name": "Veteran Gilded Horseman",
+          "nameCN": "老练镀金骑手",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-horseman-3.png",
           "hitpoints": 310,
@@ -1894,6 +1921,7 @@
         },
         "gilded-horseman-4": {
           "name": "Elite Gilded Horseman",
+          "nameCN": "精锐镀金骑手",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-horseman-4.png",
           "hitpoints": 360,
@@ -2033,7 +2061,9 @@
         }
       ],
       "baseId": "gilded-knight",
+      "nameCN": "镀金骑士",
       "age": 3,
+      "descriptionCN": "拥有强大冲锋能力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "costs": {
         "food": 280,
         "wood": 0,
@@ -2149,8 +2179,10 @@
         },
         "gilded-knight-4": {
           "name": "Elite Gilded Knight",
+          "nameCN": "精锐镀金骑士",
           "age": 4,
           "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+          "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
           "icon": "https://data.aoe4world.com/images/units/gilded-knight-4.png",
           "hitpoints": 460,
           "weapons": [
@@ -2288,7 +2320,9 @@
         }
       ],
       "baseId": "gilded-landsknecht",
+      "nameCN": "镀金国土佣仆",
       "age": 3,
+      "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
       "costs": {
         "food": 120,
         "wood": 0,
@@ -2396,6 +2430,7 @@
         },
         "gilded-landsknecht-4": {
           "name": "Elite Gilded Landsknecht",
+          "nameCN": "精锐镀金国土佣仆",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-landsknecht-4.png",
           "hitpoints": 220,
@@ -2532,7 +2567,9 @@
         }
       ],
       "baseId": "gilded-man-at-arms",
+      "nameCN": "早期镀金武士",
       "age": 2,
+      "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
       "costs": {
         "food": 200,
         "wood": 0,
@@ -2649,6 +2686,7 @@
         },
         "gilded-man-at-arms-3": {
           "name": "Gilded Man-at-Arms",
+          "nameCN": "镀金武士",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-man-at-arms-3.png",
           "hitpoints": 290,
@@ -2811,6 +2849,7 @@
         },
         "gilded-man-at-arms-4": {
           "name": "Elite Gilded Man-at-Arms",
+          "nameCN": "精锐镀金武士",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-man-at-arms-4.png",
           "hitpoints": 340,
@@ -3001,7 +3040,9 @@
         }
       ],
       "baseId": "gilded-spearman",
+      "nameCN": "镀金长矛兵",
       "age": 1,
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "costs": {
         "food": 120,
         "wood": 40,
@@ -3119,6 +3160,7 @@
         },
         "gilded-spearman-2": {
           "name": "Hardened Gilded Spearman",
+          "nameCN": "坚韧镀金长矛兵",
           "age": 2,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-2.png",
           "hitpoints": 180,
@@ -3208,6 +3250,7 @@
         },
         "gilded-spearman-3": {
           "name": "Veteran Gilded Spearman",
+          "nameCN": "老练镀金长矛兵",
           "age": 3,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-3.png",
           "hitpoints": 220,
@@ -3297,6 +3340,7 @@
         },
         "gilded-spearman-4": {
           "name": "Elite Gilded Spearman",
+          "nameCN": "精锐镀金长矛兵",
           "age": 4,
           "icon": "https://data.aoe4world.com/images/units/gilded-spearman-4.png",
           "hitpoints": 260,
@@ -3414,6 +3458,7 @@
           "baseId": "gilded-villager",
           "type": "unit",
           "name": "Gilded Villager",
+          "nameCN": "镀金村民",
           "pbgid": 2513732,
           "attribName": "unit_villager_1_hre_ha_01",
           "age": 1,
@@ -3421,6 +3466,7 @@
             "od"
           ],
           "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units. Gathers resources 28% quicker and builds and repairs 20% faster than regular Villagers.\n- Weak in combat",
+          "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。与普通村民相比，收集资源速度加快 28%，并且建造和修理速度加快 20%。\n- 战斗能力弱",
           "classes": [
             "annihilation_condition",
             "builder",
@@ -3620,6 +3666,7 @@
           "baseId": "hulk",
           "type": "unit",
           "name": "Hulk",
+          "nameCN": "趸船",
           "pbgid": 2265911,
           "attribName": "unit_naval_combat_ship_2_hre_ha_01",
           "age": 2,
@@ -3627,6 +3674,7 @@
             "od"
           ],
           "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+          "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
           "classes": [
             "annihilation_condition",
             "massive",
@@ -3768,6 +3816,7 @@
           "baseId": "mangonel",
           "type": "unit",
           "name": "Mangonel",
+          "nameCN": "轻型投石车",
           "pbgid": 6182386,
           "attribName": "unit_mangonel_3_hre_ha_01",
           "age": 3,
@@ -3775,6 +3824,7 @@
             "od"
           ],
           "description": "Fires multiple projectiles dealing damage in an area.\n+ Effective against massed units\n- Must be set up to fire",
+          "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
           "classes": [
             "annihilation_condition",
             "catapult",
@@ -4052,6 +4102,7 @@
           "baseId": "prelate",
           "type": "unit",
           "name": "Prelate",
+          "nameCN": "高级教士",
           "pbgid": 5982677,
           "attribName": "unit_monk_1_hre_ha_01",
           "age": 3,
@@ -4059,6 +4110,7 @@
             "od"
           ],
           "description": "Support unit with no combat capability. Can pick up Relics, convert enemy units, and capture Sacred Sites starting in the Castle Age (III).\n+ Heals friendly units\n- Low health",
+          "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值较低",
           "classes": [
             "annihilation_condition",
             "can_inspire",
@@ -4148,6 +4200,7 @@
           "baseId": "scout",
           "type": "unit",
           "name": "Scout",
+          "nameCN": "侦察兵",
           "pbgid": 8092678,
           "attribName": "unit_scout_1_hre_ha_01",
           "age": 1,
@@ -4155,6 +4208,7 @@
             "od"
           ],
           "description": "Lightly armed cavalry effective at exploring the world, hunting wildlife, and herding Sheep.\n+ Able to see into Stealth Forests\n+ Health regeneration\n+ High movement speed\n- Very weak in combat",
+          "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 具有生命值恢复能力\n+ 高移动速度\n- 战斗能力非常弱",
           "classes": [
             "annihilation_condition",
             "carrier",
@@ -4293,6 +4347,7 @@
           "baseId": "siege-tower",
           "type": "unit",
           "name": "Siege Tower",
+          "nameCN": "攻城塔",
           "pbgid": 2367445,
           "attribName": "unit_siege_tower_3_hre_ha_01",
           "age": 2,
@@ -4300,6 +4355,7 @@
             "od"
           ],
           "description": "Tall infantry transport with no combat capability. Allows garrisoned infantry to be unloaded directly onto Stone Walls.\n+ High ranged armor\n- Cannot attack\n- Slow movement speed",
+          "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4398,6 +4454,7 @@
           "baseId": "springald",
           "type": "unit",
           "name": "Springald",
+          "nameCN": "扭力弩炮",
           "pbgid": 2998550,
           "attribName": "unit_springald_3_hre_ha_01",
           "age": 3,
@@ -4405,6 +4462,7 @@
             "od"
           ],
           "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+          "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
           "classes": [
             "annihilation_condition",
             "formational",
@@ -4549,6 +4607,7 @@
           "baseId": "trade-ship",
           "type": "unit",
           "name": "Trade Ship",
+          "nameCN": "商船",
           "pbgid": 3676139,
           "attribName": "unit_naval_trade_ship_3_hre_ha_01",
           "age": 2,
@@ -4556,6 +4615,7 @@
             "od"
           ],
           "description": "Trade Ships generate Gold and Wood when assigned to a trade route with a Coastal Trade Post or another player's Dock.\n- No combat",
+          "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",
@@ -4633,6 +4693,7 @@
           "baseId": "trader",
           "type": "unit",
           "name": "Trader",
+          "nameCN": "商人",
           "pbgid": 5309942,
           "attribName": "unit_trade_cart_hre_ha_01",
           "age": 2,
@@ -4640,6 +4701,7 @@
             "od"
           ],
           "description": "Traders generate Gold by travelling between their Home Market and a Trade Post or another player's Market. Greater distances between the Home Market and trade destination will generate higher amounts of Gold.\nThe Home Market or Trade destination may be changed at any time.",
+          "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
           "classes": [
             "annihilation_condition",
             "human",
@@ -4715,6 +4777,7 @@
           "baseId": "transport-ship",
           "type": "unit",
           "name": "Transport Ship",
+          "nameCN": "运输船",
           "pbgid": 5886437,
           "attribName": "unit_naval_transport_ship_2_hre_ha_01",
           "age": 2,
@@ -4722,6 +4785,7 @@
             "od"
           ],
           "description": "Large oared vessel able to transport land units across water.\n+ Can be garrisoned by any unit\n+ Uses sight range of units in garrison\n- No combat",
+          "descriptionCN": "大型带桨船只，可运送陆上单位渡过水域。\n+ 任何单位都能驻扎\n+ 使用驻扎于其中的单位的视野范围\n- 不具备战斗能力",
           "classes": [
             "annihilation_condition",
             "medium_ship",

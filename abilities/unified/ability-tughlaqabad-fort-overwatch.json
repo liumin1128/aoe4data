@@ -18,6 +18,7 @@
       "baseId": "ability-tughlaqabad-fort-overwatch",
       "type": "ability",
       "name": "Tughlaqabad Fort Overwatch",
+      "nameCN": "腾格拉卡巴德堡垒瞭望",
       "pbgid": 9004580,
       "attribName": "fort_dock_aura_sul_ha_tug",
       "age": 1,
@@ -25,6 +26,7 @@
         "tug"
       ],
       "description": "Increasing the production speed of nearby Docks by 30%, arrowslits damage by 2, and weapon range by 1 tile.",
+      "descriptionCN": "附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
       "classes": [],
       "displayClasses": [],
       "costs": {

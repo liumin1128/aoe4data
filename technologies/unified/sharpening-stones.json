@@ -26,6 +26,7 @@
       "baseId": "sharpening-stones",
       "type": "technology",
       "name": "Sharpening Stones",
+      "nameCN": "磨刀石",
       "pbgid": 9004691,
       "attribName": "upgrade_arsenal_ranged_damage_2_byz_ha_mac",
       "age": 2,
@@ -33,6 +34,7 @@
         "mac"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",
@@ -65,6 +67,7 @@
       "baseId": "sharpening-stones",
       "type": "technology",
       "name": "Sharpening Stones",
+      "nameCN": "磨刀石",
       "pbgid": 9004693,
       "attribName": "upgrade_arsenal_ranged_damage_4_byz_ha_mac",
       "age": 3,
@@ -72,6 +75,7 @@
         "mac"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",
@@ -104,6 +108,7 @@
       "baseId": "sharpening-stones",
       "type": "technology",
       "name": "Sharpening Stones",
+      "nameCN": "磨刀石",
       "pbgid": 9004695,
       "attribName": "upgrade_arsenal_ranged_damage_6_byz_ha_mac",
       "age": 4,
@@ -111,6 +116,7 @@
         "mac"
       ],
       "description": "Increase the ranged damage of all arrows and bolts by +1.",
+      "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

@@ -64,6 +64,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -141,6 +143,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -148,6 +151,7 @@
         "ay"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -218,6 +222,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -225,6 +230,7 @@
         "by"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -295,6 +301,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -302,6 +309,7 @@
         "ch"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -372,6 +380,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 181905,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_sul",
       "age": 4,
@@ -379,6 +388,7 @@
         "de"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "scar_economic_upgrade",
@@ -435,6 +445,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -442,6 +453,7 @@
         "en"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -512,6 +524,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -519,6 +532,7 @@
         "fr"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -589,6 +603,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 188052,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_mon",
       "age": 4,
@@ -596,6 +611,7 @@
         "gol"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -652,6 +668,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -659,6 +676,7 @@
         "hr"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -729,6 +747,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -736,6 +755,7 @@
         "hl"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -806,6 +826,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 9002860,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_kura_jpn",
       "age": 4,
@@ -813,6 +834,7 @@
         "ja"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -870,6 +892,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -877,6 +900,7 @@
         "je"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -947,6 +971,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -954,6 +979,7 @@
         "kt"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1024,6 +1050,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1031,6 +1058,7 @@
         "mac"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1101,6 +1129,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1108,6 +1137,7 @@
         "ma"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1178,6 +1208,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 188052,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_mon",
       "age": 4,
@@ -1185,6 +1216,7 @@
         "mo"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "mongol_upgrade",
@@ -1242,6 +1274,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1249,6 +1282,7 @@
         "od"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1319,6 +1353,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1326,6 +1361,7 @@
         "ot"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1396,6 +1432,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1403,6 +1440,7 @@
         "ru"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1473,6 +1511,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 2127599,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4_jpn",
       "age": 4,
@@ -1480,6 +1519,7 @@
         "sen"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "economic_upgrade",
         "japanese_ha_sen_upgrade",
@@ -1537,6 +1577,7 @@
       "baseId": "cupellation",
       "type": "technology",
       "name": "Cupellation",
+      "nameCN": "灰吹法",
       "pbgid": 171824,
       "attribName": "upgrade_econ_resource_gold_harvest_rate_4",
       "age": 4,
@@ -1544,6 +1585,7 @@
         "zx"
       ],
       "description": "Gold gatherers drop off 15% more resources.",
+      "descriptionCN": "黄金采集者存放资源量额外 +15%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

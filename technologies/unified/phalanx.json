@@ -28,6 +28,7 @@
       "baseId": "phalanx",
       "type": "technology",
       "name": "Phalanx",
+      "nameCN": "方阵",
       "pbgid": 200371,
       "attribName": "upgrade_camel_archer_comp_bow_abb",
       "age": 2,
@@ -35,6 +36,7 @@
         "ab"
       ],
       "description": "Increase the attack range of Spearmen by +100%.",
+      "descriptionCN": "长矛兵的攻击范围 +100%。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",
@@ -80,6 +82,7 @@
       "baseId": "phalanx",
       "type": "technology",
       "name": "Phalanx",
+      "nameCN": "方阵",
       "pbgid": 200371,
       "attribName": "upgrade_camel_archer_comp_bow_abb",
       "age": 2,
@@ -87,6 +90,7 @@
         "ay"
       ],
       "description": "Increase the attack range of Spearmen by +100%.",
+      "descriptionCN": "长矛兵的攻击范围 +100%。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",

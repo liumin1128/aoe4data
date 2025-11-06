@@ -26,6 +26,7 @@
       "baseId": "prolonged-siege",
       "type": "technology",
       "name": "Prolonged Siege",
+      "nameCN": "长期围攻",
       "pbgid": 9002997,
       "attribName": "upgrade_siege_setup_damage_byz_ha_mac",
       "age": 4,
@@ -33,6 +34,7 @@
         "mac"
       ],
       "description": "Siege units will deal 10% additional damage for every 10 seconds they are set up - to a maximum of 50%.",
+      "descriptionCN": "攻城单位处于架设状态的时间每延长 10 秒，其造成的伤害便会提升 10% (最多可提升至 50%)。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

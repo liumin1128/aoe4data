@@ -32,6 +32,7 @@
       "baseId": "istanbul-observatory",
       "type": "building",
       "name": "Istanbul Observatory",
+      "nameCN": "伊斯坦布尔天文台",
       "pbgid": 2055471,
       "attribName": "building_landmark_age3_istanbul_observatory_ott",
       "age": 3,
@@ -39,6 +40,7 @@
         "ot"
       ],
       "description": "Acts as a University. Improves the influence provided by the University and Blacksmith and production speed of the Grand Galley to +100%.",
+      "descriptionCN": "可作为大学使用。大学和铁匠铺所提供的影响力，以及大型桨帆船的生产速度均提升至 +100%。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",

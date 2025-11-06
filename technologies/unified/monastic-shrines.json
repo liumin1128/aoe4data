@@ -27,6 +27,7 @@
       "baseId": "monastic-shrines",
       "type": "technology",
       "name": "Monastic Shrines",
+      "nameCN": "僧侣祭坛",
       "pbgid": 193988,
       "attribName": "upgrade_religious_monastery_ovoo_mon",
       "age": 3,
@@ -34,6 +35,7 @@
         "mo"
       ],
       "description": "Prayer Tents allow Improved Production within their influence even without an Ovoo.",
+      "descriptionCN": "祈祷帐篷可在没有敖包的情况下为其影响范围内提供强化生产效果。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

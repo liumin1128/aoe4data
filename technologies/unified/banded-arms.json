@@ -28,6 +28,7 @@
       "baseId": "banded-arms",
       "type": "technology",
       "name": "Banded Arms",
+      "nameCN": "钢带臂",
       "pbgid": 207446,
       "attribName": "upgrade_springald_range_rus",
       "age": 4,
@@ -35,6 +36,7 @@
         "ru"
       ],
       "description": "Increase the range of Springalds by +1 tiles.",
+      "descriptionCN": "扭力弩炮的攻击范围 +1 格。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

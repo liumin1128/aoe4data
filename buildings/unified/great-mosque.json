@@ -28,6 +28,7 @@
       "baseId": "great-mosque",
       "type": "building",
       "name": "Great Mosque",
+      "nameCN": "大清真寺",
       "pbgid": 2058992,
       "attribName": "building_wonder_age4_great_mosque_control_mal",
       "age": 4,
@@ -35,6 +36,7 @@
         "ma"
       ],
       "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+      "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
       "classes": [
         "audio_production_landmark",
         "building",

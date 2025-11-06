@@ -28,6 +28,7 @@
       "baseId": "elite-arbaletriers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 1601627,
       "attribName": "upgrade_unit_crossbowman_4_fre",
       "age": 4,
@@ -35,6 +36,7 @@
         "fr"
       ],
       "description": "Upgrade Arbalétriers to Elite Arbalétriers.",
+      "descriptionCN": "将弓弩手升级为精锐弓弩手。",
       "classes": [
         "french_upgrade",
         "military_upgrade",
@@ -68,6 +70,7 @@
       "baseId": "elite-arbaletriers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 1601627,
       "attribName": "upgrade_unit_crossbowman_4_fre",
       "age": 4,
@@ -75,6 +78,7 @@
         "je"
       ],
       "description": "Upgrade Arbalétriers to Elite Arbalétriers.",
+      "descriptionCN": "将弓弩手升级为精锐弓弩手。",
       "classes": [
         "french_upgrade",
         "military_upgrade",

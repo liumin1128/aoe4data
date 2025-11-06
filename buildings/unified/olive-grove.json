@@ -28,6 +28,7 @@
       "baseId": "olive-grove",
       "type": "building",
       "name": "Olive Grove",
+      "nameCN": "橄榄树林",
       "pbgid": 2104744,
       "attribName": "building_resource_farm_byz",
       "age": 1,
@@ -35,6 +36,7 @@
         "by"
       ],
       "description": "Harvestable Food source. Use a Villager to gather Food from the Olive Grove.\nOnly one Villager can work each Olive Grove.\nByzantine Villagers gather Olive Oil equal to 20% of Food gathered.",
+      "descriptionCN": "可收获的食物来源。用一名村民从橄榄树林采集食物。\n每个橄榄树林只能有一名村民工作。\n拜占庭的村民能采集橄榄油，采集的数量相当于食物采集的 20%。",
       "classes": [
         "building",
         "farm",

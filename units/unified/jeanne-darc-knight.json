@@ -44,6 +44,7 @@
       "baseId": "jeanne-darc-knight",
       "type": "unit",
       "name": "Jeanne d'Arc - Knight",
+      "nameCN": "圣女贞德 - 骑士",
       "pbgid": 2136358,
       "attribName": "unit_jeanne_d_arc_3_melee_knight_fre_ha_01",
       "age": 3,
@@ -51,6 +52,7 @@
         "je"
       ],
       "description": "Powerful heavy cavalry leader with high damage and health. If Jeanne is defeated, she can be brought back at a Town Center.\n+ Heavy armor\n+ Fast movement\n- Countered by Spearmen",
+      "descriptionCN": "强大的重装骑兵领袖，具有高伤害和高生命值。如果贞德被击败，她可以在城镇中心被复活。\n+ 重型护甲\n+ 移动速度快\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "armored",

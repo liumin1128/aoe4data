@@ -18,6 +18,7 @@
       "baseId": "ability-tower-of-victory-aura",
       "type": "ability",
       "name": "Tower of Victory Aura",
+      "nameCN": "胜利之塔光环",
       "pbgid": 200847,
       "attribName": "tower_of_victory_aura_sul",
       "age": 2,
@@ -25,6 +26,7 @@
         "de"
       ],
       "description": "Melee and ranged infantry who move near this Landmark permanently gain +20% attack speed.",
+      "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

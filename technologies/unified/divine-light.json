@@ -27,6 +27,7 @@
       "baseId": "divine-light",
       "type": "technology",
       "name": "Divine Light",
+      "nameCN": "神圣之光",
       "pbgid": 207442,
       "attribName": "upgrade_saints_blessing_duration_rus",
       "age": 1,
@@ -34,6 +35,7 @@
         "ru"
       ],
       "description": "Increase the duration of Saint's Blessing by +10 seconds.",
+      "descriptionCN": "圣者的祝福持续时间 +10 秒。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

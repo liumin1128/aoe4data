@@ -35,6 +35,7 @@
       "baseId": "grand-galley",
       "type": "unit",
       "name": "Grand Galley",
+      "nameCN": "大型桨帆船",
       "pbgid": 2056917,
       "attribName": "unit_naval_galleass_4_ott",
       "age": 3,
@@ -42,6 +43,7 @@
         "ot"
       ],
       "description": "Large oared vessel which can be upgraded into a naval Military School.\n+ Large hold which can be garrisoned by any unit once upgraded into a Military School\n+ Very long range\n- Lower damage",
+      "descriptionCN": "大型带桨船只，可升级为一所海军军事学校。\n+ 大型船舱，升级到军事学校后任何单位都能驻扎\n+ 攻击范围极远\n - 较低的伤害",
       "classes": [
         "annihilation_condition",
         "gunpowder",

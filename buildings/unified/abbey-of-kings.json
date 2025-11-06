@@ -33,6 +33,7 @@
       "baseId": "abbey-of-kings",
       "type": "building",
       "name": "Abbey of Kings",
+      "nameCN": "列王修道院",
       "pbgid": 166274,
       "attribName": "building_landmark_age1_westminster_abbey_eng",
       "age": 1,
@@ -40,6 +41,7 @@
         "en"
       ],
       "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds. May also Crown a King, a powerful cavalry leader with a healing aura. Queues production of a free King upon completion.",
+      "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒恢复其 +6 生命值。也可以加冕一位国王，一位带有治疗光环的强大骑兵领袖。完成后自动生产一个免费国王。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -95,6 +97,7 @@
       "baseId": "abbey-of-kings",
       "type": "building",
       "name": "Abbey of Kings",
+      "nameCN": "列王修道院",
       "pbgid": 5000026,
       "attribName": "building_landmark_age1_abbey_lan",
       "age": 1,
@@ -102,6 +105,7 @@
         "hl"
       ],
       "description": "Heals all nearby friendly units that are out of combat by +6 every 1 seconds.\nOrdain up to 4 Lords of Lancaster, powerful melee leaders which increase the max health of nearby military units by +5% each. Queues production of a free Lord of Lancaster upon completion.",
+      "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒生命值 +6。\n最多任命 4 个兰开斯特领主，兰开斯特领主是强大的近战领袖，可以使附近所有军事单位的最大生命值 +5%。建造完成后为生产队列中添加一名免费的兰开斯特领主。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

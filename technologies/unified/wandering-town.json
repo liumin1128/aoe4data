@@ -28,6 +28,7 @@
       "baseId": "wandering-town",
       "type": "technology",
       "name": "Wandering Town",
+      "nameCN": "漂泊城镇",
       "pbgid": 182869,
       "attribName": "upgrade_siege_improvements_rus",
       "age": 4,
@@ -35,6 +36,7 @@
         "ru"
       ],
       "description": "Ram damage increased by +25%. Rams heal 2 health every 1 second.",
+      "descriptionCN": "冲车伤害增加 +25%。冲车每 1 秒恢复 2 生命值。",
       "classes": [
         "military_upgrade",
         "rus_upgrade",

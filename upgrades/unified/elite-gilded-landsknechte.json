@@ -27,6 +27,7 @@
       "baseId": "elite-gilded-landsknechte",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146734,
       "attribName": "upgrade_unit_landsknecht_4_hre_ha_01",
       "age": 4,
@@ -34,6 +35,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Landsknechte to Elite Gilded Landsknechte.",
+      "descriptionCN": "将镀金国土佣仆升级为精锐镀金国土佣仆。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",

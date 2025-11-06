@@ -20,6 +20,7 @@
           "baseId": "ability-camel-support",
           "type": "ability",
           "name": "Camel Support",
+          "nameCN": "骆驼支援",
           "pbgid": 200770,
           "attribName": "camel_support_aura_abb",
           "age": 4,
@@ -27,6 +28,7 @@
             "ab"
           ],
           "description": "Infantry gain armor when near a camel unit.",
+          "descriptionCN": "步兵在骆驼单位附近时可获得护甲。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -100,6 +102,7 @@
           "baseId": "ability-camel-unease",
           "type": "ability",
           "name": "Camel Unease",
+          "nameCN": "骆驼惊吓",
           "pbgid": 202653,
           "attribName": "mamluke_anti_cavalry_aura_abb",
           "age": 1,
@@ -107,6 +110,7 @@
             "ab"
           ],
           "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+          "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -147,6 +151,7 @@
           "baseId": "ability-camel-unease",
           "type": "ability",
           "name": "Camel Unease",
+          "nameCN": "骆驼惊吓",
           "pbgid": 202653,
           "attribName": "mamluke_anti_cavalry_aura_abb",
           "age": 1,
@@ -154,6 +159,7 @@
             "ay"
           ],
           "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+          "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -230,6 +236,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -237,6 +244,7 @@
             "ab"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -282,6 +290,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -289,6 +298,7 @@
             "ay"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -334,6 +344,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -341,6 +352,7 @@
             "by"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -386,6 +398,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -393,6 +406,7 @@
             "ch"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -438,6 +452,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -445,6 +460,7 @@
             "de"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -490,6 +506,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -497,6 +514,7 @@
             "en"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -542,6 +560,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -549,6 +568,7 @@
             "fr"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -594,6 +614,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -601,6 +622,7 @@
             "gol"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -646,6 +668,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -653,6 +676,7 @@
             "hr"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -698,6 +722,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -705,6 +730,7 @@
             "hl"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -750,6 +776,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -757,6 +784,7 @@
             "ja"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -802,6 +830,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -809,6 +838,7 @@
             "je"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -854,6 +884,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -861,6 +892,7 @@
             "kt"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -906,6 +938,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -913,6 +946,7 @@
             "mac"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -958,6 +992,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -965,6 +1000,7 @@
             "ma"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1010,6 +1046,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1017,6 +1054,7 @@
             "mo"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1062,6 +1100,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1069,6 +1108,7 @@
             "od"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1114,6 +1154,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1121,6 +1162,7 @@
             "ot"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1166,6 +1208,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1173,6 +1216,7 @@
             "ru"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1218,6 +1262,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1225,6 +1270,7 @@
             "sen"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1270,6 +1316,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1277,6 +1324,7 @@
             "tug"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1322,6 +1370,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -1329,6 +1378,7 @@
             "zx"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1410,6 +1460,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1417,6 +1468,7 @@
             "ab"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1455,6 +1507,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1462,6 +1515,7 @@
             "ay"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1500,6 +1554,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1507,6 +1562,7 @@
             "by"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1545,6 +1601,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1552,6 +1609,7 @@
             "ch"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1590,6 +1648,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1597,6 +1656,7 @@
             "de"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1635,6 +1695,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1642,6 +1703,7 @@
             "en"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1680,6 +1742,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1687,6 +1750,7 @@
             "fr"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1725,6 +1789,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1732,6 +1797,7 @@
             "gol"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1770,6 +1836,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1777,6 +1844,7 @@
             "hr"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1815,6 +1883,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1822,6 +1891,7 @@
             "hl"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1860,6 +1930,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1867,6 +1938,7 @@
             "ja"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1905,6 +1977,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1912,6 +1985,7 @@
             "je"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1950,6 +2024,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -1957,6 +2032,7 @@
             "kt"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -1995,6 +2071,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2002,6 +2079,7 @@
             "mac"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2040,6 +2118,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2047,6 +2126,7 @@
             "ma"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2085,6 +2165,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2092,6 +2173,7 @@
             "mo"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2130,6 +2212,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2137,6 +2220,7 @@
             "od"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2175,6 +2259,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2182,6 +2267,7 @@
             "ot"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2220,6 +2306,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2227,6 +2314,7 @@
             "ru"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2265,6 +2353,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2272,6 +2361,7 @@
             "sen"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2310,6 +2400,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2317,6 +2408,7 @@
             "tug"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2355,6 +2447,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -2362,6 +2455,7 @@
             "zx"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2416,6 +2510,7 @@
           "baseId": "ability-golden-age-tier-1",
           "type": "ability",
           "name": "Golden Age Tier 1",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 201563,
           "attribName": "golden_age_tier_1",
           "age": 1,
@@ -2423,6 +2518,7 @@
             "ab"
           ],
           "description": "+15% Resource Gathering Rate",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2448,6 +2544,7 @@
           "baseId": "ability-golden-age-tier-1",
           "type": "ability",
           "name": "Golden Age Tier 1",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146738,
           "attribName": "golden_age_tier_1_ha_01",
           "age": 1,
@@ -2455,6 +2552,7 @@
             "ay"
           ],
           "description": "10 Structures: Villager gathering rate +10% for all resources.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2522,6 +2620,7 @@
           "baseId": "ability-golden-age-tier-2",
           "type": "ability",
           "name": "Golden Age Tier 2",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 201593,
           "attribName": "golden_age_tier_2",
           "age": 1,
@@ -2529,6 +2628,7 @@
             "ab"
           ],
           "description": "+15% Research Speed",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2554,6 +2654,7 @@
           "baseId": "ability-golden-age-tier-2",
           "type": "ability",
           "name": "Golden Age Tier 2",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146739,
           "attribName": "golden_age_tier_2_ha_01",
           "age": 2,
@@ -2561,6 +2662,7 @@
             "ay"
           ],
           "description": "20 Structures: Research Speeds +50%",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2630,6 +2732,7 @@
           "baseId": "ability-golden-age-tier-3",
           "type": "ability",
           "name": "Golden Age Tier 3",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 201595,
           "attribName": "golden_age_tier_3",
           "age": 1,
@@ -2637,6 +2740,7 @@
             "ab"
           ],
           "description": "+20% Production Speed, additional +5% Research Speed, additional +5% Resource Gathering Rate",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2662,6 +2766,7 @@
           "baseId": "ability-golden-age-tier-3",
           "type": "ability",
           "name": "Golden Age Tier 3",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146740,
           "attribName": "golden_age_tier_3_ha_01",
           "age": 3,
@@ -2669,6 +2774,7 @@
             "ay"
           ],
           "description": "30 Structures: Production Speeds +20%",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2738,6 +2844,7 @@
           "baseId": "ability-house-of-wisdom-influence",
           "type": "ability",
           "name": "House of Wisdom Influence",
+          "nameCN": "智慧宫影响力",
           "pbgid": 1838842,
           "attribName": "how_influence_abb",
           "age": 1,
@@ -2745,6 +2852,7 @@
             "ab"
           ],
           "description": "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses.",
+          "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2784,6 +2892,7 @@
           "baseId": "ability-house-of-wisdom-influence",
           "type": "ability",
           "name": "House of Wisdom Influence",
+          "nameCN": "智慧宫影响力",
           "pbgid": 1838842,
           "attribName": "how_influence_abb",
           "age": 1,
@@ -2791,6 +2900,7 @@
             "ay"
           ],
           "description": "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses.",
+          "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2866,6 +2976,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -2873,6 +2984,7 @@
             "ab"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2913,6 +3025,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -2920,6 +3033,7 @@
             "ay"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -2960,6 +3074,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -2967,6 +3082,7 @@
             "by"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3007,6 +3123,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3014,6 +3131,7 @@
             "ch"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3054,6 +3172,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3061,6 +3180,7 @@
             "de"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3101,6 +3221,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3108,6 +3229,7 @@
             "en"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3148,6 +3270,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3155,6 +3278,7 @@
             "fr"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3195,6 +3319,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3202,6 +3327,7 @@
             "gol"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3242,6 +3368,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3249,6 +3376,7 @@
             "hr"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3289,6 +3417,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3296,6 +3425,7 @@
             "hl"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3336,6 +3466,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3343,6 +3474,7 @@
             "ja"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3383,6 +3515,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3390,6 +3523,7 @@
             "je"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3430,6 +3564,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3437,6 +3572,7 @@
             "kt"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3477,6 +3613,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3484,6 +3621,7 @@
             "mac"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3524,6 +3662,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3531,6 +3670,7 @@
             "ma"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3571,6 +3711,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3578,6 +3719,7 @@
             "mo"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3618,6 +3760,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3625,6 +3768,7 @@
             "od"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3665,6 +3809,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3672,6 +3817,7 @@
             "ot"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3712,6 +3858,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3719,6 +3866,7 @@
             "ru"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3759,6 +3907,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3766,6 +3915,7 @@
             "sen"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3806,6 +3956,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3813,6 +3964,7 @@
             "tug"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3853,6 +4005,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -3860,6 +4013,7 @@
             "zx"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3915,6 +4069,7 @@
           "baseId": "ability-medical-centers",
           "type": "ability",
           "name": "Medical Centers",
+          "nameCN": "医疗中心",
           "pbgid": 201837,
           "attribName": "medical_centers_abb",
           "age": 1,
@@ -3922,6 +4077,7 @@
             "ab"
           ],
           "description": "Heals nearby units for +2 health every 1 second",
+          "descriptionCN": "治疗附近单位。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -3981,6 +4137,7 @@
           "baseId": "ability-proselytize",
           "type": "ability",
           "name": "Proselytize",
+          "nameCN": "传教",
           "pbgid": 2035316,
           "attribName": "monk_conversion_faith_abb",
           "age": 4,
@@ -3988,6 +4145,7 @@
             "ab"
           ],
           "description": "Attempts to convert a single enemy unit within range of this Imam to your control.",
+          "descriptionCN": "试图招降此伊玛目范围内的单个敌方单位，使其为您所用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4043,6 +4201,7 @@
           "baseId": "ability-quick-strike",
           "type": "ability",
           "name": "Quick Strike",
+          "nameCN": "快速攻击",
           "pbgid": 2133476,
           "attribName": "ghulam_attack_abb",
           "age": 1,
@@ -4050,6 +4209,7 @@
             "ab"
           ],
           "description": "Quickly deals a second hit after finishing an attack.",
+          "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4086,6 +4246,7 @@
           "baseId": "ability-quick-strike",
           "type": "ability",
           "name": "Quick Strike",
+          "nameCN": "快速攻击",
           "pbgid": 2133476,
           "attribName": "ghulam_attack_abb",
           "age": 1,
@@ -4093,6 +4254,7 @@
             "ay"
           ],
           "description": "Quickly deals a second hit after finishing an attack.",
+          "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4165,6 +4327,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4172,6 +4335,7 @@
             "ab"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4212,6 +4376,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4219,6 +4384,7 @@
             "ay"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4259,6 +4425,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4266,6 +4433,7 @@
             "by"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4306,6 +4474,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4313,6 +4482,7 @@
             "ch"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4353,6 +4523,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4360,6 +4531,7 @@
             "de"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4401,6 +4573,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4408,6 +4581,7 @@
             "en"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4449,6 +4623,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4456,6 +4631,7 @@
             "fr"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4496,6 +4672,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4503,6 +4680,7 @@
             "gol"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4543,6 +4721,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4550,6 +4729,7 @@
             "hr"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4591,6 +4771,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4598,6 +4779,7 @@
             "hl"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4638,6 +4820,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4645,6 +4828,7 @@
             "ja"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4685,6 +4869,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4692,6 +4877,7 @@
             "je"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4732,6 +4918,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4739,6 +4926,7 @@
             "kt"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4779,6 +4967,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4786,6 +4975,7 @@
             "mac"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4826,6 +5016,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4833,6 +5024,7 @@
             "ma"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4873,6 +5065,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4880,6 +5073,7 @@
             "mo"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4920,6 +5114,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4927,6 +5122,7 @@
             "od"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -4968,6 +5164,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -4975,6 +5172,7 @@
             "ot"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5015,6 +5213,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -5022,6 +5221,7 @@
             "ru"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5062,6 +5262,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -5069,6 +5270,7 @@
             "sen"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5109,6 +5311,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -5116,6 +5319,7 @@
             "tug"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5156,6 +5360,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -5163,6 +5368,7 @@
             "zx"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5218,6 +5424,7 @@
           "baseId": "ability-atabeg-supervision",
           "type": "ability",
           "name": "Atabeg Supervision",
+          "nameCN": "阿塔贝格监管",
           "pbgid": 2144843,
           "attribName": "production_building_enhance_abb",
           "age": 1,
@@ -5225,6 +5432,7 @@
             "ay"
           ],
           "description": "Garrison inside of a military production building to grant +20% health to newly trained units. Cannot garrison in Docks.",
+          "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +20%。不能在码头驻扎。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5285,6 +5493,7 @@
           "baseId": "ability-desert-raider-blade",
           "type": "ability",
           "name": "Desert Raider Blade",
+          "nameCN": "沙漠掠夺者之刃",
           "pbgid": 2138338,
           "attribName": "mamluk_swap_to_sword_weapon",
           "age": 1,
@@ -5292,6 +5501,7 @@
             "ay"
           ],
           "description": "Swap to a melee Sword weapon.",
+          "descriptionCN": "切换为近战武器剑。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5342,6 +5552,7 @@
           "baseId": "ability-desert-raider-bow",
           "type": "ability",
           "name": "Desert Raider Bow",
+          "nameCN": "沙漠掠夺弓",
           "pbgid": 2138337,
           "attribName": "mamluk_swap_to_bow_weapon",
           "age": 1,
@@ -5349,6 +5560,7 @@
             "ay"
           ],
           "description": "Swap to a ranged Bow weapon.",
+          "descriptionCN": "切换为远程武器长弓。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5399,6 +5611,7 @@
           "baseId": "ability-golden-age-tier-4",
           "type": "ability",
           "name": "Golden Age Tier 4",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146741,
           "attribName": "golden_age_tier_4_ha_01",
           "age": 4,
@@ -5406,6 +5619,7 @@
             "ay"
           ],
           "description": "50 Structures: Siege units cost 20% less resources to produce.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5474,6 +5688,7 @@
           "baseId": "ability-golden-age-tier-5",
           "type": "ability",
           "name": "Golden Age Tier 5",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2146742,
           "attribName": "golden_age_tier_5_ha_01",
           "age": 5,
@@ -5481,6 +5696,7 @@
             "ay"
           ],
           "description": "75 Structures: Camel units attack 20% faster.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5548,6 +5764,7 @@
           "baseId": "ability-mass-heal",
           "type": "ability",
           "name": "Mass Heal",
+          "nameCN": "群体治疗",
           "pbgid": 2126592,
           "attribName": "monk_aoe_heal",
           "age": 1,
@@ -5555,6 +5772,7 @@
             "ay"
           ],
           "description": "Heals all nearby units. Heals +50% times faster when carrying a relic.",
+          "descriptionCN": "治疗附近所有单位。携带圣物时治疗速度要快 +50% 倍。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5625,6 +5843,7 @@
           "baseId": "ability-structural-reinforcements",
           "type": "ability",
           "name": "Structural Reinforcements",
+          "nameCN": "结构强化",
           "pbgid": 2141405,
           "attribName": "siege_carpentry_abb_ha_01",
           "age": 1,
@@ -5632,6 +5851,7 @@
             "ay"
           ],
           "description": "Siege unit gains +20 melee armor and +5 fire armor for 10 seconds.\nOnly useable on one unit at a time.",
+          "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5703,6 +5923,7 @@
           "baseId": "ability-swap-weapon-incendiary",
           "type": "ability",
           "name": "Swap Weapon (Incendiary)",
+          "nameCN": "切换武器 (燃烧)",
           "pbgid": 2138274,
           "attribName": "mangonel_swap_to_incendiary_weapon",
           "age": 1,
@@ -5710,6 +5931,7 @@
             "ay"
           ],
           "description": "Switch to incendiary ammunition, which deals damage in an increased area.",
+          "descriptionCN": "切换为燃烧弹药，可造成更大范围的伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5761,6 +5983,7 @@
           "baseId": "ability-swap-weapon-kinetic",
           "type": "ability",
           "name": "Swap Weapon (Kinetic)",
+          "nameCN": "切换武器(动能)",
           "pbgid": 2138275,
           "attribName": "mangonel_swap_to_kinetic_weapon",
           "age": 1,
@@ -5768,6 +5991,7 @@
             "ay"
           ],
           "description": "Switch to solid ammunition, which deals higher damage.",
+          "descriptionCN": "切换为实心弹药，可造成更高的伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5819,6 +6043,7 @@
           "baseId": "ability-tactical-charge",
           "type": "ability",
           "name": "Tactical Charge",
+          "nameCN": "战术冲锋",
           "pbgid": 2126336,
           "attribName": "camel_knight_charge_damage",
           "age": 1,
@@ -5826,6 +6051,7 @@
             "ay"
           ],
           "description": "Camel Lancers charge faster, more often, and for longer distances than other heavy cavalry. Camel Lancers deals -25% less baseline charge damage. Each second spent charging increases the charge damage (up to +40%).",
+          "descriptionCN": "与其他重装骑兵相比，骆驼长矛骑兵的冲锋速度更快，发起冲锋的频率更高，距离也更长。骆驼长矛骑兵所造成的基线冲锋伤害 -25%。冲锋所用的每秒时间可提高冲锋的伤害 (最高达 +40%)。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5876,6 +6102,7 @@
           "baseId": "ability-akritoi-defense",
           "type": "ability",
           "name": "Akritoi Defense",
+          "nameCN": "边防部队防御",
           "pbgid": 2146135,
           "attribName": "landmark_activate_akritoi_byz",
           "age": 1,
@@ -5883,6 +6110,7 @@
             "by"
           ],
           "description": "Arm nearby Villagers with stronger weapons and increase their armor by +2 for 30 seconds.\n+1 damage in Dark Age\n+1 damage in Feudal Age\n+1 damage in Castle Age\n+2 damage in Imperial Age",
+          "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -5955,6 +6183,7 @@
           "baseId": "ability-artillery-shot",
           "type": "ability",
           "name": "Artillery Shot",
+          "nameCN": "火炮射击",
           "pbgid": 2122116,
           "attribName": "cannon_swap_fre",
           "age": 1,
@@ -5962,6 +6191,7 @@
             "by"
           ],
           "description": "Loads this Cannon with an Artillery Shot that has an increased range of 5 tiles and 30% more damage.\nCan only target buildings.",
+          "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6002,6 +6232,7 @@
           "baseId": "ability-artillery-shot",
           "type": "ability",
           "name": "Artillery Shot",
+          "nameCN": "火炮射击",
           "pbgid": 2122116,
           "attribName": "cannon_swap_fre",
           "age": 1,
@@ -6009,6 +6240,7 @@
             "fr"
           ],
           "description": "Loads this Cannon with an Artillery Shot that has an increased range of 5 tiles and 30% more damage.\nCan only target buildings.",
+          "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6064,6 +6296,7 @@
           "baseId": "ability-automatic-pilgrim-flask",
           "type": "ability",
           "name": "Automatic Pilgrim Flask",
+          "nameCN": "自动使用朝圣者之瓶饮水 (关闭)",
           "pbgid": 2146130,
           "attribName": "landmark_toggle_automatic_flask_byz",
           "age": 1,
@@ -6071,6 +6304,7 @@
             "by"
           ],
           "description": "Toggle on to activate automatic drinking when low health, rapidly increasing health regeneration by 25 per second for 6 seconds.",
+          "descriptionCN": "切换为开启以激活低生命值时自动饮水功能，每秒恢复的生命值快速增加 25，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6140,6 +6374,7 @@
           "baseId": "ability-berserking",
           "type": "ability",
           "name": "Berserking",
+          "nameCN": "狂战士",
           "pbgid": 2104590,
           "attribName": "varangian_berserk_byz",
           "age": 1,
@@ -6147,6 +6382,7 @@
             "by"
           ],
           "description": "Varangian Guard swap to their two-handed weapon and deal +6 damage for 30 seconds. Armor is reduced by -4.",
+          "descriptionCN": "瓦兰吉卫队换用他们的双手武器，可造成 +6 伤害，持续 30 秒。护甲防护 -4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6212,6 +6448,7 @@
           "baseId": "ability-border-settlement",
           "type": "ability",
           "name": "Border Settlement",
+          "nameCN": "边境聚落",
           "pbgid": 2140943,
           "attribName": "border_settlement_byz",
           "age": 1,
@@ -6219,6 +6456,7 @@
             "by"
           ],
           "description": "Line of sight increased by 7 tiles.",
+          "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6259,6 +6497,7 @@
           "baseId": "ability-border-settlement",
           "type": "ability",
           "name": "Border Settlement",
+          "nameCN": "边境聚落",
           "pbgid": 2140943,
           "attribName": "border_settlement_byz",
           "age": 1,
@@ -6266,6 +6505,7 @@
             "mac"
           ],
           "description": "Line of sight increased by 7 tiles.",
+          "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6321,6 +6561,7 @@
           "baseId": "ability-conscriptio",
           "type": "ability",
           "name": "Conscriptio",
+          "nameCN": "征兵",
           "pbgid": 2146132,
           "attribName": "toggle_landmark_cistern_influence_2_byz",
           "age": 2,
@@ -6328,6 +6569,7 @@
             "by"
           ],
           "description": "Military unit production rate increased +20%/+40%/+60%/+80%/+100% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，军事单位生产速率将按水位 +20%/+40%/+60%/+80%/+100%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6388,6 +6630,7 @@
           "baseId": "ability-dialecticus",
           "type": "ability",
           "name": "Dialecticus",
+          "nameCN": "辩证法",
           "pbgid": 2146133,
           "attribName": "toggle_landmark_cistern_influence_3_byz",
           "age": 3,
@@ -6395,6 +6638,7 @@
             "by"
           ],
           "description": "Research rate increased +30%/+60%/+90%/+120%/+150% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6454,6 +6698,7 @@
           "baseId": "ability-emperors-guard",
           "type": "ability",
           "name": "Emperor's Guard",
+          "nameCN": "皇帝的护卫",
           "pbgid": 2121939,
           "attribName": "varangian_landmark_armor_aura_byz",
           "age": 1,
@@ -6461,6 +6706,7 @@
             "by"
           ],
           "description": "Armor increased by +3 while near allied Wonders.",
+          "descriptionCN": "盟军奇观附近护甲 +3。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6488,6 +6734,7 @@
           "baseId": "ability-field-stones",
           "type": "ability",
           "name": "Field Stones",
+          "nameCN": "野外石料",
           "pbgid": 2145743,
           "attribName": "field_stone_buff_info_byz",
           "age": 1,
@@ -6495,6 +6742,7 @@
             "by"
           ],
           "description": "Earn various amounts of Stone from every building constructed.",
+          "descriptionCN": "从建造的每种建筑获得各种石料量。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6545,6 +6793,7 @@
           "baseId": "ability-improved-torch",
           "type": "ability",
           "name": "Improved Torch",
+          "nameCN": "强化火炬",
           "pbgid": 2121987,
           "attribName": "hippodrome_scout_torch_byz",
           "age": 1,
@@ -6552,6 +6801,7 @@
             "by"
           ],
           "description": "Torch damage improved by a nearby Scout.",
+          "descriptionCN": "附近的侦察兵强化了火炬伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6608,6 +6858,7 @@
           "baseId": "ability-irrigated",
           "type": "ability",
           "name": "Irrigated",
+          "nameCN": "已灌溉",
           "pbgid": 2128567,
           "attribName": "cistern_influence_gathering_bonus_1_byz",
           "age": 1,
@@ -6615,6 +6866,7 @@
             "by"
           ],
           "description": "Villager gathering rate increased by 5/10/15/20/25% (depening on water level)",
+          "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6659,6 +6911,7 @@
           "baseId": "ability-naval-deployment",
           "type": "ability",
           "name": "Naval Deployment",
+          "nameCN": "海军部署",
           "pbgid": 2146720,
           "attribName": "naval_transport_movespeed_unload_byz",
           "age": 1,
@@ -6666,6 +6919,7 @@
             "by"
           ],
           "description": "Increased movement speed after unloading from a Transport Ship.",
+          "descriptionCN": "运输船在卸载后的移动速度加快。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6718,6 +6972,7 @@
           "baseId": "ability-oil-commerce",
           "type": "ability",
           "name": "Oil Commerce",
+          "nameCN": "油商业",
           "pbgid": 2146205,
           "attribName": "oil_villager_fish_dropoff_byz",
           "age": 1,
@@ -6725,6 +6980,7 @@
             "by"
           ],
           "description": "Traders provide +20% Olive Oil on trades.",
+          "descriptionCN": "村民产生的橄榄油相当于捕鱼时采集的 10% 食物。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6765,6 +7021,7 @@
           "baseId": "ability-olive-harvest",
           "type": "ability",
           "name": "Olive Harvest",
+          "nameCN": "橄榄收获",
           "pbgid": 2146200,
           "attribName": "oil_farm_dropoff_byz",
           "age": 1,
@@ -6772,6 +7029,7 @@
             "by"
           ],
           "description": "Villagers generate Olive Oil equal to 20% of Food gathered when farming.",
+          "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 20% 食物。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -6799,6 +7057,7 @@
           "baseId": "ability-pilgrim-flask",
           "type": "ability",
           "name": "Pilgrim Flask",
+          "nameCN": "朝圣者之瓶",
           "pbgid": 2144175,
           "attribName": "pilgrim_flask_byz",
           "age": 1,
@@ -6806,6 +7065,7 @@
             "by"
           ],
           "description": "Activate to drink, rapidly increasing health regeneration by 25 per second for 6 seconds.",
+          "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6875,6 +7135,7 @@
           "baseId": "ability-place-palings",
           "type": "ability",
           "name": "Place Palings",
+          "nameCN": "放置拒马",
           "pbgid": 2025568,
           "attribName": "deploy_palings",
           "age": 1,
@@ -6882,6 +7143,7 @@
             "by"
           ],
           "description": "Enemy cavalry are stunned for 2.5 seconds and take 25 damage.",
+          "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6926,6 +7188,7 @@
           "baseId": "ability-place-palings",
           "type": "ability",
           "name": "Place Palings",
+          "nameCN": "放置拒马",
           "pbgid": 2025568,
           "attribName": "deploy_palings",
           "age": 1,
@@ -6933,6 +7196,7 @@
             "en"
           ],
           "description": "Enemy cavalry are stunned for 2.5 seconds and take 25 damage.",
+          "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -6992,6 +7256,7 @@
           "baseId": "ability-praesidium",
           "type": "ability",
           "name": "Praesidium",
+          "nameCN": "委员会",
           "pbgid": 2146134,
           "attribName": "toggle_landmark_cistern_influence_4_byz",
           "age": 4,
@@ -6999,6 +7264,7 @@
             "by"
           ],
           "description": "Building damage taken decreased by -5%/-10%/-15%/-20%/-25% by Water Level while within the influence of a Cistern.",
+          "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7060,6 +7326,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -7067,6 +7334,7 @@
             "by"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7103,6 +7371,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -7110,6 +7379,7 @@
             "fr"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7146,6 +7416,7 @@
           "baseId": "ability-royal-knight-charge-damage",
           "type": "ability",
           "name": "Royal Knight Charge Damage",
+          "nameCN": "皇家骑士冲锋伤害",
           "pbgid": 2032837,
           "attribName": "lancer_charge_bonus_damage",
           "age": 2,
@@ -7153,6 +7424,7 @@
             "je"
           ],
           "description": "Gain +3 melee attack damage for 5 seconds after charging.",
+          "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7204,6 +7476,7 @@
           "baseId": "ability-shield-wall",
           "type": "ability",
           "name": "Shield Wall",
+          "nameCN": "盾墙",
           "pbgid": 2141378,
           "attribName": "toggle_spearman_shield_wall_on_byz",
           "age": 1,
@@ -7211,6 +7484,7 @@
             "by"
           ],
           "description": "Enter a defensive stance, decreasing move speed by -25%, attack speed by -25%, and ranged damage taken by -30%.",
+          "descriptionCN": "进入防御姿态，移动速度 -25%，攻击速度 -25%，以及受到的远程伤害 -30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7287,6 +7561,7 @@
           "baseId": "ability-synergistic-crops",
           "type": "ability",
           "name": "Synergistic Crops",
+          "nameCN": "协同作物",
           "pbgid": 2129926,
           "attribName": "winery_food_dropoff_imp_byz",
           "age": 1,
@@ -7294,6 +7569,7 @@
             "by"
           ],
           "description": "Farmers and Foragers generate +60% Olive Oil around the Grand Winery.",
+          "descriptionCN": "在大酒庄附近，农夫和浆果采集者产生的橄榄油 +60%。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -7336,6 +7612,7 @@
           "baseId": "ability-trample",
           "type": "ability",
           "name": "Trample",
+          "nameCN": "践踏",
           "pbgid": 2133600,
           "attribName": "cataphract_trample_byz",
           "age": 1,
@@ -7343,6 +7620,7 @@
             "by"
           ],
           "description": "Charge through enemy units in your path, dealing 12 damage to each one.",
+          "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7394,6 +7672,7 @@
           "baseId": "ability-triumph",
           "type": "ability",
           "name": "Triumph",
+          "nameCN": "凯旋",
           "pbgid": 2138249,
           "attribName": "hippodrome_triumph_byz",
           "age": 1,
@@ -7401,6 +7680,7 @@
             "by"
           ],
           "description": "Consume all Supply Points to increase cavalry damage by +4, move speed by +10%, and health regeneration by +2. \nEach Supply Point increases Triumph's duration by 1 seconds. A maximum of 45 Supply Points can be collected.",
+          "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7485,6 +7765,7 @@
           "baseId": "ability-varangian-berserking",
           "type": "ability",
           "name": "Varangian Berserking",
+          "nameCN": "瓦兰吉狂战士",
           "pbgid": 2105290,
           "attribName": "varangian_berserking_byz",
           "age": 1,
@@ -7492,6 +7773,7 @@
             "by"
           ],
           "description": "Damage increased by +6 and armor decreased by -4.",
+          "descriptionCN": "伤害增加 +6，护甲削弱 -4。",
           "classes": [],
           "displayClasses": [],
           "costs": {},
@@ -7519,6 +7801,7 @@
           "baseId": "ability-extra-materials",
           "type": "ability",
           "name": "Extra Materials",
+          "nameCN": "额外材料",
           "pbgid": 182388,
           "attribName": "tower_repair_nearby_walls_chi",
           "age": 1,
@@ -7526,6 +7809,7 @@
             "ch"
           ],
           "description": "Towers and Keeps repair nearby walls and gates for +25 health per second.",
+          "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7579,6 +7863,7 @@
           "baseId": "ability-imperial-spies",
           "type": "ability",
           "name": "Imperial Spies",
+          "nameCN": "皇家密探",
           "pbgid": 206838,
           "attribName": "imperial_spies",
           "age": 3,
@@ -7586,6 +7871,7 @@
             "ch"
           ],
           "description": "Reveal location of enemy workers for 15 seconds.",
+          "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7640,6 +7926,7 @@
           "baseId": "ability-spirit-way",
           "type": "ability",
           "name": "Spirit Way Ancestors",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 207131,
           "attribName": "spirit_way",
           "age": 4,
@@ -7647,6 +7934,7 @@
             "ch"
           ],
           "description": "When a dynasty unit is killed, nearby units receive +20% attack speed and +20 health over 10 seconds.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7688,6 +7976,7 @@
           "baseId": "ability-the-long-wall",
           "type": "ability",
           "name": "The Long Wall",
+          "nameCN": "长墙",
           "pbgid": 2076747,
           "attribName": "great_wall_buff_chi",
           "age": 4,
@@ -7695,6 +7984,7 @@
             "ch"
           ],
           "description": "All units standing on Walls gain +25% ranged damage.",
+          "descriptionCN": "所有站在城墙上的单位的远程伤害 +25%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7755,6 +8045,7 @@
           "baseId": "ability-forced-march",
           "type": "ability",
           "name": "Forced March",
+          "nameCN": "急行军",
           "pbgid": 180772,
           "attribName": "infantry_forced_march_sul",
           "age": 3,
@@ -7762,6 +8053,7 @@
             "de"
           ],
           "description": "Activate to move 100% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 100%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7816,6 +8108,7 @@
           "baseId": "ability-tower-of-victory-aura",
           "type": "ability",
           "name": "Tower of Victory Aura",
+          "nameCN": "胜利之塔光环",
           "pbgid": 200847,
           "attribName": "tower_of_victory_aura_sul",
           "age": 2,
@@ -7823,6 +8116,7 @@
             "de"
           ],
           "description": "Melee and ranged infantry who move near this Landmark permanently gain +20% attack speed.",
+          "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7876,6 +8170,7 @@
           "baseId": "ability-abbey-healing",
           "type": "ability",
           "name": "Abbey Healing",
+          "nameCN": "修道院治疗",
           "pbgid": 202453,
           "attribName": "abbey_of_kings_heal_aura_eng",
           "age": 2,
@@ -7883,6 +8178,7 @@
             "en"
           ],
           "description": "Heals nearby out of combat units by 6 every 1 seconds.",
+          "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -7939,6 +8235,7 @@
           "baseId": "ability-abbey-healing",
           "type": "ability",
           "name": "Abbey Healing",
+          "nameCN": "修道院治疗",
           "pbgid": 202453,
           "attribName": "abbey_of_kings_heal_aura_eng",
           "age": 2,
@@ -7946,6 +8243,7 @@
             "hl"
           ],
           "description": "Heals nearby out of combat units by 6 every 1 seconds.",
+          "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8017,6 +8315,7 @@
           "baseId": "ability-arrow-volley",
           "type": "ability",
           "name": "Arrow Volley",
+          "nameCN": "万箭齐发",
           "pbgid": 178834,
           "attribName": "longbow_rate_of_fire_ability",
           "age": 4,
@@ -8024,6 +8323,7 @@
             "en"
           ],
           "description": "Reduce Longbowman's time to attack by +1 second for a duration of 6 seconds.",
+          "descriptionCN": "将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8076,6 +8376,7 @@
           "baseId": "ability-mill-influence",
           "type": "ability",
           "name": "Mill Influence",
+          "nameCN": "磨坊影响力",
           "pbgid": 1451854,
           "attribName": "mill_influence_eng",
           "age": 1,
@@ -8083,6 +8384,7 @@
             "en"
           ],
           "description": "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill.",
+          "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8139,6 +8441,7 @@
           "baseId": "ability-network-of-castles",
           "type": "ability",
           "name": "Network of Castles",
+          "nameCN": "城堡网络",
           "pbgid": 168608,
           "attribName": "tower_outpost_alert_aura_eng",
           "age": 1,
@@ -8146,6 +8449,7 @@
             "en"
           ],
           "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +20% increase to attack speed.",
+          "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8226,6 +8530,7 @@
           "baseId": "ability-network-of-citadels",
           "type": "ability",
           "name": "Network of Citadels",
+          "nameCN": "城堡网络",
           "pbgid": 2160807,
           "attribName": "network_of_citadels_eng",
           "age": 1,
@@ -8233,6 +8538,7 @@
             "en"
           ],
           "description": "When enemies are nearby, this building sounds an alarm, causing nearby units to get a +30% increase to attack speed.",
+          "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8303,6 +8609,7 @@
           "baseId": "ability-setup-camp",
           "type": "ability",
           "name": "Setup Camp",
+          "nameCN": "预备营地",
           "pbgid": 2133269,
           "attribName": "deploy_campfire_eng",
           "age": 2,
@@ -8310,6 +8617,7 @@
             "en"
           ],
           "description": "Place a Campfire which increases sight range of nearby units by +30% and Villager gather rate for huntable animals by +10%.\nA maximum of 5 Campfires can be lit at any one time. Placing an additional Campfire extinguishes an older one.",
+          "descriptionCN": "放置篝火，使附近单位的视野范围 +30%，村民采集可狩猎动物的速率 +10%。\n任何时候最多可以点燃 5 堆篝火。额外放置一堆篝火会熄灭一堆旧篝火。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8361,6 +8669,7 @@
           "baseId": "ability-deploy-pavise",
           "type": "ability",
           "name": "Deploy Pavise",
+          "nameCN": "部署大盾",
           "pbgid": 212030,
           "attribName": "deploy_pavise_fre",
           "age": 3,
@@ -8368,6 +8677,7 @@
             "fr"
           ],
           "description": "Activate to increase weapon range by +1 tile and gain +5 ranged armor.\nRemains active for 30 seconds or until the Arbalétrier moves away.",
+          "descriptionCN": "激活可增加 +1 格武器攻击范围，并获得 +5 远程护甲。\n效果持续 30 秒或直到弓弩手移动为止。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8432,6 +8742,7 @@
           "baseId": "ability-royal-institute-influence",
           "type": "ability",
           "name": "Royal Institute Influence",
+          "nameCN": "皇家学院影响力",
           "pbgid": 1452233,
           "attribName": "keep_influence_fre",
           "age": 1,
@@ -8439,6 +8750,7 @@
             "fr"
           ],
           "description": "Archery Ranges and Stables within influence have unit costs decreased by 20%.",
+          "descriptionCN": "影响范围内的靶场和马厩生产单位的成本降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8480,6 +8792,7 @@
           "baseId": "ability-town-center-production-speed-castle-age",
           "type": "ability",
           "name": "Castle Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187280,
           "attribName": "town_center_production_age3_fre",
           "age": 3,
@@ -8487,6 +8800,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by 20%.",
+          "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8526,6 +8840,7 @@
           "baseId": "ability-town-center-production-speed-castle-age",
           "type": "ability",
           "name": "Castle Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187280,
           "attribName": "town_center_production_age3_fre",
           "age": 3,
@@ -8533,6 +8848,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by 20%.",
+          "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8587,6 +8903,7 @@
           "baseId": "ability-town-center-production-speed-dark-age",
           "type": "ability",
           "name": "Dark Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187278,
           "attribName": "town_center_production_age1_fre",
           "age": 1,
@@ -8594,6 +8911,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by +10%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8633,6 +8951,7 @@
           "baseId": "ability-town-center-production-speed-dark-age",
           "type": "ability",
           "name": "Dark Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187278,
           "attribName": "town_center_production_age1_fre",
           "age": 1,
@@ -8640,6 +8959,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by +10%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8694,6 +9014,7 @@
           "baseId": "ability-town-center-production-speed-feudal-age",
           "type": "ability",
           "name": "Feudal Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187279,
           "attribName": "town_center_production_age2_fre",
           "age": 2,
@@ -8701,6 +9022,7 @@
             "fr"
           ],
           "description": "Town Center production and research speed increased by +15%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8740,6 +9062,7 @@
           "baseId": "ability-town-center-production-speed-feudal-age",
           "type": "ability",
           "name": "Feudal Age Town Center Production Speed",
+          "nameCN": "封地",
           "pbgid": 187279,
           "attribName": "town_center_production_age2_fre",
           "age": 2,
@@ -8747,6 +9070,7 @@
             "je"
           ],
           "description": "Town Center production and research speed increased by +15%.\nBonus increases further in later Ages.",
+          "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8800,6 +9124,7 @@
           "baseId": "ability-advance-to-the-castle-age-iii",
           "type": "ability",
           "name": "Advance to the Castle Age (III)",
+          "nameCN": "发展到城堡时代 (第三时代)",
           "pbgid": 9002033,
           "attribName": "age_up_castle_mon_ha_gol",
           "age": 2,
@@ -8807,6 +9132,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8848,6 +9174,7 @@
           "baseId": "ability-advance-to-the-feudal-age-ii",
           "type": "ability",
           "name": "Advance to the Feudal Age (II)",
+          "nameCN": "发展到封建时代 (第二时代)",
           "pbgid": 9002032,
           "attribName": "age_up_feudal_mon_ha_gol",
           "age": 2,
@@ -8855,6 +9182,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8896,6 +9224,7 @@
           "baseId": "ability-advance-to-the-imperial-age-iv",
           "type": "ability",
           "name": "Advance to the Imperial Age (IV)",
+          "nameCN": "发展到帝王时代 (第四时代)",
           "pbgid": 9002034,
           "attribName": "age_up_imperial_mon_ha_gol",
           "age": 2,
@@ -8903,6 +9232,7 @@
             "gol"
           ],
           "description": "Upgrade the Golden Tent to advance to the next Age.",
+          "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8944,6 +9274,7 @@
           "baseId": "ability-age-ii-upgrades",
           "type": "ability",
           "name": "Age II Upgrades",
+          "nameCN": "第二时代升级",
           "pbgid": 9004394,
           "attribName": "golden_tent_feudal_mon_ha_gol",
           "age": 1,
@@ -8951,6 +9282,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age II",
+          "descriptionCN": "升级以发展到第二时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -8991,6 +9323,7 @@
           "baseId": "ability-age-iii-upgrades",
           "type": "ability",
           "name": "Age III Upgrades",
+          "nameCN": "第三时代升级",
           "pbgid": 9004395,
           "attribName": "golden_tent_castle_mon_ha_gol",
           "age": 1,
@@ -8998,6 +9331,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age III",
+          "descriptionCN": "升级以发展到第三时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9038,6 +9372,7 @@
           "baseId": "ability-age-iv-upgrades",
           "type": "ability",
           "name": "Age IV Upgrades",
+          "nameCN": "第四时代升级",
           "pbgid": 9004396,
           "attribName": "golden_tent_imperial_mon_ha_gol",
           "age": 1,
@@ -9045,6 +9380,7 @@
             "gol"
           ],
           "description": "Upgrade to advance to Age IV",
+          "descriptionCN": "升级以发展到第四时代",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9085,6 +9421,7 @@
           "baseId": "ability-call-rus-tributes",
           "type": "ability",
           "name": "Call Rus Tributes",
+          "nameCN": "征收罗斯贡品",
           "pbgid": 9004751,
           "attribName": "call_rus_tributes_mon_ha_gol",
           "age": 3,
@@ -9092,6 +9429,7 @@
             "gol"
           ],
           "description": "Dispatch 4 Rus Tributes from the Golden Tent and increase the cost of the Call Rus Tributes by +300 Stone.\nThe cost of Call Rus Tributes will be reduced by 10 Stone every 30 seconds. Each Military Building will reduce the cost by an additional 5 Stone up to a maximum of 70 Stone. Will automatically deploy the Rus Tributes when the cost reaches zero.",
+          "descriptionCN": "从黄金帐篷送出 4 罗斯贡品，并使征收罗斯贡品的成本增加 300 石料。\n征收罗斯贡品的成本每 30 秒将减少 10 石料。每座军事建筑会将该成本额外减少 5 石料，最多可减少 70 石料。当成本为零时，则会自动部署罗斯贡品。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9133,6 +9471,7 @@
           "baseId": "ability-defensive-aura-edict",
           "type": "ability",
           "name": "Defensive Aura Edict",
+          "nameCN": "防御光环法令",
           "pbgid": 9001773,
           "attribName": "outpost_armor_aura_mon_ha_gol",
           "age": 1,
@@ -9140,6 +9479,7 @@
             "gol"
           ],
           "description": "Units near an Outpost gain +10% health.",
+          "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9165,6 +9505,7 @@
           "baseId": "ability-defensive-aura-edict",
           "type": "ability",
           "name": "Defensive Aura Edict",
+          "nameCN": "防御光环法令",
           "pbgid": 9003681,
           "attribName": "toggle_khan_edict_2_mon_ha_gol",
           "age": 2,
@@ -9172,6 +9513,7 @@
             "gol"
           ],
           "description": "Activate to increase the health of units nearby a Fortified Outpost by +10%.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9213,6 +9555,7 @@
           "baseId": "ability-glorious-charge",
           "type": "ability",
           "name": "Glorious Charge",
+          "nameCN": "荣光冲锋",
           "pbgid": 9002244,
           "attribName": "outpost_glorious_charge_mon_ha_gol",
           "age": 1,
@@ -9220,6 +9563,7 @@
             "gol"
           ],
           "description": "Activating Glorious Charge starts a 10 second timer which reveals the Outpost and the nearby area to all players, when the timer ends all nearby military units will get +50% movement speed and take -15% less damage for 30 seconds.",
+          "descriptionCN": "启用“荣光冲锋”能力将产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有军事单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9261,6 +9605,7 @@
           "baseId": "ability-kharash-edict",
           "type": "ability",
           "name": "Kharash Edict",
+          "nameCN": "肉盾法令",
           "pbgid": 9003692,
           "attribName": "toggle_khan_edict_4_mon_ha_gol",
           "age": 4,
@@ -9268,6 +9613,7 @@
             "gol"
           ],
           "description": "Activate to allow the Golden Tent and Military Buildings within the influence of a Fortified Outpost to produce an additional Kharash whenever any unit is recruited.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，每当招募任何单位时，强化哨站影响范围内的黄金帐篷和军事建筑都会额外生产一个肉盾。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9309,6 +9655,7 @@
           "baseId": "ability-production-speed-edict",
           "type": "ability",
           "name": "Production Speed Edict",
+          "nameCN": "生产速度法令",
           "pbgid": 9003680,
           "attribName": "toggle_khan_edict_1_mon_ha_gol",
           "age": 1,
@@ -9316,6 +9663,7 @@
             "gol"
           ],
           "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +50%.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9357,6 +9705,7 @@
           "baseId": "ability-silk-road",
           "type": "ability",
           "name": "Silk Road",
+          "nameCN": "丝绸之路",
           "pbgid": 186431,
           "attribName": "market_silk_road_passive_ui_mon",
           "age": 1,
@@ -9364,6 +9713,7 @@
             "gol"
           ],
           "description": "The types of resources you earn from each Trader is improved based on your total number of active Traders.\n5+ Traders: +10% Food\n10+ Traders: +10% Food, +10% Wood",
+          "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9388,6 +9738,7 @@
           "baseId": "ability-silk-road",
           "type": "ability",
           "name": "Silk Road",
+          "nameCN": "丝绸之路",
           "pbgid": 186431,
           "attribName": "market_silk_road_passive_ui_mon",
           "age": 1,
@@ -9395,6 +9746,7 @@
             "mo"
           ],
           "description": "The types of resources you earn from each Trader is improved based on your total number of active Traders.\n5+ Traders: +10% Food\n10+ Traders: +10% Food, +10% Wood",
+          "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9435,6 +9787,7 @@
           "baseId": "ability-stockyard-edict",
           "type": "ability",
           "name": "Stockyard Edict",
+          "nameCN": "牲畜围栏法令",
           "pbgid": 9003693,
           "attribName": "toggle_khan_edict_5_mon_ha_gol",
           "age": 5,
@@ -9442,6 +9795,7 @@
             "gol"
           ],
           "description": "Activate to allow Stockyards within the influence of a Fortified Outpost to generate Gold while being worked.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，强化哨站影响范围内的牲畜围栏在工作状态下都会生产黄金。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9483,6 +9837,7 @@
           "baseId": "ability-yam-network-trade",
           "type": "ability",
           "name": "Yam Network Trade",
+          "nameCN": "驿站网络贸易",
           "pbgid": 9004108,
           "attribName": "golden_tent_trade_network_mon_ha_gol",
           "age": 1,
@@ -9490,6 +9845,7 @@
             "gol"
           ],
           "description": "The Golden Tent will generate 10 Gold every 10 seconds for each Fortified Outpost, up to a maximum of 6 Fortified Outposts.",
+          "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9530,6 +9886,7 @@
           "baseId": "ability-cistercian-abbeys",
           "type": "ability",
           "name": "Cistercian Abbeys",
+          "nameCN": "西多会修道院",
           "pbgid": 9001924,
           "attribName": "monastery_inspire_aoe_hre",
           "age": 1,
@@ -9537,6 +9894,7 @@
             "hr"
           ],
           "description": "Villagers can drop off resources in Monasteries.\nGarrisoning a Prelate in this Monastery allows it to inspire all nearby Villagers, increasing their gather speed.",
+          "descriptionCN": "村民可以将资源存放在修道院。\n在该修道院中驻扎高级教士可以鼓舞附近的所有村民，提升他们的采集速度。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9579,6 +9937,7 @@
           "baseId": "ability-emergency-repairs",
           "type": "ability",
           "name": "Emergency Repairs",
+          "nameCN": "紧急修理",
           "pbgid": 2031580,
           "attribName": "influence_auto_repair_hre",
           "age": 1,
@@ -9586,6 +9945,7 @@
             "hr"
           ],
           "description": "Building repairs itself by 150 health every 1 second for 20 seconds.",
+          "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9650,6 +10010,7 @@
           "baseId": "ability-emergency-repairs",
           "type": "ability",
           "name": "Emergency Repairs",
+          "nameCN": "紧急修理",
           "pbgid": 2031580,
           "attribName": "influence_auto_repair_hre",
           "age": 1,
@@ -9657,6 +10018,7 @@
             "od"
           ],
           "description": "Building repairs itself by 150 health every 1 second for 20 seconds.",
+          "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9736,6 +10098,7 @@
           "baseId": "ability-inspired-warriors",
           "type": "ability",
           "name": "Inspired Warriors",
+          "nameCN": "精神鼓舞",
           "pbgid": 176144,
           "attribName": "inspired_infantry_hre",
           "age": 3,
@@ -9743,6 +10106,7 @@
             "hr"
           ],
           "description": "Military units deal +15% damage and gain +1 armor.",
+          "descriptionCN": "军事单位造成的伤害 +15% ，护甲 +1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9895,6 +10259,7 @@
           "baseId": "ability-relic-garrisoned-dock",
           "type": "ability",
           "name": "Relic Garrisoned in Docks",
+          "nameCN": "存放的圣物",
           "pbgid": 2034812,
           "attribName": "relic_dock_bonus_hre",
           "age": 3,
@@ -9902,6 +10267,7 @@
             "hr"
           ],
           "description": "Increasing attack speed of military ships by +5%.",
+          "descriptionCN": "军事船只的攻击速度 +5%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -9941,6 +10307,7 @@
           "baseId": "ability-relic-garrisoned-dock",
           "type": "ability",
           "name": "Relic Garrisoned in Docks",
+          "nameCN": "存放的圣物",
           "pbgid": 2034812,
           "attribName": "relic_dock_bonus_hre",
           "age": 3,
@@ -9948,6 +10315,7 @@
             "od"
           ],
           "description": "Increasing attack speed of military ships by +5%.",
+          "descriptionCN": "军事船只的攻击速度 +5%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10003,6 +10371,7 @@
           "baseId": "ability-relic-garrisoned-keep",
           "type": "ability",
           "name": "Relic Garrisoned in Defensive Structures",
+          "nameCN": "存放的圣物",
           "pbgid": 195371,
           "attribName": "relic_tower_keep_bonus_hre",
           "age": 3,
@@ -10010,6 +10379,7 @@
             "hr"
           ],
           "description": "• Armor increased by +25%\n• Damage increased by +25%\n• Sight range increased by +20%\n• Weapon range increased by +20%",
+          "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10109,6 +10479,7 @@
           "baseId": "ability-relic-garrisoned-keep",
           "type": "ability",
           "name": "Relic Garrisoned in Defensive Structures",
+          "nameCN": "存放的圣物",
           "pbgid": 195371,
           "attribName": "relic_tower_keep_bonus_hre",
           "age": 3,
@@ -10116,6 +10487,7 @@
             "od"
           ],
           "description": "• Armor increased by +25%\n• Damage increased by +25%\n• Sight range increased by +20%\n• Weapon range increased by +20%",
+          "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10230,6 +10602,7 @@
           "baseId": "ability-kings-college",
           "type": "ability",
           "name": "King's College",
+          "nameCN": "国王学院",
           "pbgid": 9001565,
           "attribName": "kings_college_research_speed",
           "age": 1,
@@ -10237,6 +10610,7 @@
             "hl"
           ],
           "description": "Granted +15% cheaper research costs by the King's College.",
+          "descriptionCN": "国王学院提供了 +15% 更便宜的研究成本。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10294,6 +10668,7 @@
           "baseId": "ability-deflective-armor",
           "type": "ability",
           "name": "Deflective Armor",
+          "nameCN": "偏转护甲",
           "pbgid": 2127304,
           "attribName": "samurai_shield_jpn",
           "age": 1,
@@ -10301,6 +10676,7 @@
             "ja"
           ],
           "description": "Deflective Armor charge can block one melee or ranged attack. Recharges while out of combat for 8 seconds.",
+          "descriptionCN": "偏转护甲充能可以抵挡一次近战或远程攻击。脱离战斗 8 秒后可重新充能。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10355,6 +10731,7 @@
           "baseId": "ability-five-mountain-ministries",
           "type": "ability",
           "name": "Five Mountain Ministries",
+          "nameCN": "五项山地事工",
           "pbgid": 2158018,
           "attribName": "monk_debuff_target_jpn_five_mountain_version",
           "age": 1,
@@ -10362,6 +10739,7 @@
             "ja"
           ],
           "description": "Every 6 seconds, applies Sohei Sutra to the closest enemy. Sohei Sutra reduces the enemies damage by 50% for 60 seconds.",
+          "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10402,6 +10780,7 @@
           "baseId": "ability-kabura-ya",
           "type": "ability",
           "name": "Kabura-ya",
+          "nameCN": "鸣镝箭",
           "pbgid": 2127408,
           "attribName": "kaburya_arrow_jpn",
           "age": 1,
@@ -10409,6 +10788,7 @@
             "ja"
           ],
           "description": "Onna-Musha fire a whistling arrow when an enemy is seen, increasing move speed for 10 seconds.",
+          "descriptionCN": "女武者会在看到敌人时发射镝矢以加快移动速度，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10463,6 +10843,7 @@
           "baseId": "ability-katana-bannerman-aura",
           "type": "ability",
           "name": "Katana Bannerman Aura",
+          "nameCN": "刀剑旗本武士光环",
           "pbgid": 2127069,
           "attribName": "bannerman_aura_melee_jpn",
           "age": 1,
@@ -10470,6 +10851,7 @@
             "ja"
           ],
           "description": "Aura that increases melee infantry damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使近战步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10526,6 +10908,7 @@
           "baseId": "ability-place-yorishiro",
           "type": "ability",
           "name": "Place Yorishiro",
+          "nameCN": "放置依代",
           "pbgid": 2141548,
           "attribName": "monk_shinto_deposit_sacred_object_jpn",
           "age": 1,
@@ -10533,6 +10916,7 @@
             "ja"
           ],
           "description": "Place a Yorishiro in the following buildings to receive bonuses and increase their line of sight.\nMilitary and Docks: +125% Production speed\nTown Center: +30% Production speed\nFarmhouse: +70 Food per minute\nLumber Camp: +70 Wood per minute\nForge: +50 Gold per minute\nWonder: +4000 Health",
+          "descriptionCN": "将一个依代放置在以下建筑中，获得加成并增加视野。\n军事和码头：+125% 工作效率\n城镇中心：+30% 生产速度\n农舍：每分钟 +70 食物\n伐木场：每分钟 +70 木材\n锻造厂：每分钟 +50 黄金\n世界奇观：+4000 生命值",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10595,6 +10979,7 @@
           "baseId": "ability-sabotage",
           "type": "ability",
           "name": "Sabotage",
+          "nameCN": "破坏",
           "pbgid": 2127420,
           "attribName": "shinobi_sabotage_jpn",
           "age": 1,
@@ -10602,6 +10987,7 @@
             "ja"
           ],
           "description": "Target a visible enemy building to deal 200 damage, disable its production, and set it on fire for 30 seconds.",
+          "descriptionCN": "瞄准一座视野内的敌方建筑，对其造成 200 伤害，使其无法生产并将其点燃，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10653,6 +11039,7 @@
           "baseId": "ability-shunshin",
           "type": "ability",
           "name": "Shunshin",
+          "nameCN": "瞬移",
           "pbgid": 2145411,
           "attribName": "shinobi_blink_jpn",
           "age": 1,
@@ -10660,6 +11047,7 @@
             "ja"
           ],
           "description": "Drop a smoke bomb and reappear at a selected location.",
+          "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10711,6 +11099,7 @@
           "baseId": "ability-soheis-sutra",
           "type": "ability",
           "name": "Sohei's Sutra",
+          "nameCN": "僧兵经书",
           "pbgid": 2141302,
           "attribName": "monk_debuff_target_jpn",
           "age": 1,
@@ -10718,6 +11107,7 @@
             "ja"
           ],
           "description": "Reduces enemy damage by 50% for 60 seconds.",
+          "descriptionCN": "敌方伤害降低 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10770,6 +11160,7 @@
           "baseId": "ability-spy",
           "type": "ability",
           "name": "Spy",
+          "nameCN": "间谍",
           "pbgid": 2127419,
           "attribName": "shinobi_spy_jpn",
           "age": 1,
@@ -10777,6 +11168,7 @@
             "ja"
           ],
           "description": "Target a visible enemy unit or structure to disguise the Shinobi as a Villager of that player.",
+          "descriptionCN": "瞄准敌方的可见单位或建筑，将忍者伪装成该玩家的村民。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10828,6 +11220,7 @@
           "baseId": "ability-treasure-caravans",
           "type": "ability",
           "name": "Treasure Caravans",
+          "nameCN": "宝藏商队",
           "pbgid": 2127492,
           "attribName": "treasure_landmark_target_jpn",
           "age": 1,
@@ -10835,6 +11228,7 @@
             "ja"
           ],
           "description": "Select a neutral Trade Post to periodically spawn Treasure Caravans from that location. Caravans can convert into a Trade Ship when instructed to reach Trade Posts over water.",
+          "descriptionCN": "选择一个中立贸易站，从该位置定期生成宝藏商队。当获得命令到达水上贸易站时，商队可以转变成贸易船。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10887,6 +11281,7 @@
           "baseId": "ability-uma-bannerman-aura",
           "type": "ability",
           "name": "Uma Bannerman Aura",
+          "nameCN": "骑马旗本武士光环",
           "pbgid": 2127073,
           "attribName": "bannerman_aura_cavalry_jpn",
           "age": 1,
@@ -10894,6 +11289,7 @@
             "ja"
           ],
           "description": "Aura that increases cavalry unit damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使骑兵单位的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -10949,6 +11345,7 @@
           "baseId": "ability-yumi-bannerman-aura",
           "type": "ability",
           "name": "Yumi Bannerman Aura",
+          "nameCN": "弓箭旗本武士光环",
           "pbgid": 2127067,
           "attribName": "bannerman_aura_range_jpn",
           "age": 1,
@@ -10956,6 +11353,7 @@
             "ja"
           ],
           "description": "Aura that increases ranged infantry damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使远程步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11012,6 +11410,7 @@
           "baseId": "ability-bring-down-the-walls",
           "type": "ability",
           "name": "Bring down the walls!",
+          "nameCN": "推倒城墙！",
           "pbgid": 2127667,
           "attribName": "jeanne_d_arc_rallying_call_cannon_fre_ha_01",
           "age": 1,
@@ -11019,6 +11418,7 @@
             "je"
           ],
           "description": "Jeanne calls a Cannon to her side. Rallies an additional Cannon if used on a Neutral Settlement.",
+          "descriptionCN": "贞德在其身边召唤一门加农炮。若使用地点为中立聚落，则会额外召唤一门加农炮。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11058,6 +11458,7 @@
           "baseId": "ability-consecrate",
           "type": "ability",
           "name": "Consecrate",
+          "nameCN": "圣化",
           "pbgid": 2141453,
           "attribName": "jeanne_d_arc_influence_building_fre_ha_01",
           "age": 1,
@@ -11065,6 +11466,7 @@
             "je"
           ],
           "description": "Jeanne consecrates a production building, reducing the Food cost of units by -25%.\nNo Cooldown\nRecharge Time: 120 Seconds.\nMax Charges: 4.",
+          "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11121,6 +11523,7 @@
           "baseId": "ability-construct-the-kingdom",
           "type": "ability",
           "name": "Construct the Kingdom",
+          "nameCN": "建造王国",
           "pbgid": 2139259,
           "attribName": "jeanne_d_arc_construction_aura_fre_ha_01",
           "age": 1,
@@ -11128,6 +11531,7 @@
             "je"
           ],
           "description": "Nearby Villagers construct buildings 33% faster.",
+          "descriptionCN": "附近村民建造建筑的速度加快 33%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11178,6 +11582,7 @@
           "baseId": "ability-divine-arrow",
           "type": "ability",
           "name": "Divine Arrow",
+          "nameCN": "神圣之箭",
           "pbgid": 2141675,
           "attribName": "jeanne_d_arc_ranged_damage_ability_fre_ha_01",
           "age": 1,
@@ -11185,6 +11590,7 @@
             "je"
           ],
           "description": "Jeanne targets an enemy and fires a divine arrow that deals 40 damage.\nCooldown: 8 Seconds.\nRecharge Time: 60 Seconds.\nMax Charges: 4",
+          "descriptionCN": "贞德瞄准一个敌人并发射一支神圣之箭，造成 40 伤害。\n冷却时间：8 秒。\n充能时间：60 秒。\n最大充能数：4",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11238,6 +11644,7 @@
           "baseId": "ability-divine-restoration",
           "type": "ability",
           "name": "Divine Restoration",
+          "nameCN": "神圣恢复",
           "pbgid": 2128763,
           "attribName": "jeanne_d_arc_divine_restoration_fre_ha_01",
           "age": 1,
@@ -11245,6 +11652,7 @@
             "je"
           ],
           "description": "Jeanne and nearby allies are blessed, instantly healing for 30% of their missing health.\nCooldown: 120 Seconds.",
+          "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11301,6 +11709,7 @@
           "baseId": "ability-forward-companions",
           "type": "ability",
           "name": "Forward, companions!",
+          "nameCN": "同伴们，前进！",
           "pbgid": 2127665,
           "attribName": "jeanne_d_arc_rallying_call_knights_fre_ha_01",
           "age": 1,
@@ -11308,6 +11717,7 @@
             "je"
           ],
           "description": "Jeanne calls 3/6 Knights to her side. Rallies 2 additional Knights if used on a Neutral Settlement.",
+          "descriptionCN": "贞德在其身边召唤 3/6 名骑士。若使用地点为中立聚落，则可额外召唤 2 名骑士。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11347,6 +11757,7 @@
           "baseId": "ability-galvanize-the-righteous",
           "type": "ability",
           "name": "Galvanize the Righteous",
+          "nameCN": "鼓舞士气",
           "pbgid": 2144058,
           "attribName": "jeanne_d_arc_buff_follower_aura_fre_ha_01",
           "age": 1,
@@ -11354,6 +11765,7 @@
             "je"
           ],
           "description": "Companions close to Jeanne gain +1/1 armor and +10% damage.",
+          "descriptionCN": "贞德附近的同伴获得 +1/1 护甲和 +10% 伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11407,6 +11819,7 @@
           "baseId": "ability-holy-wrath",
           "type": "ability",
           "name": "Holy Wrath",
+          "nameCN": "神圣愤怒",
           "pbgid": 2141553,
           "attribName": "jeanne_d_arc_aoe_damage_ability_fre_ha_01",
           "age": 1,
@@ -11414,6 +11827,7 @@
             "je"
           ],
           "description": "Jeanne unleashes a powerful area of effect attack, striking all enemies within 1.25 tiles for 20 damage.\nCooldown: 8 Seconds.\nRecharge Time: 60 Seconds.\nMax Charges: 4.",
+          "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11467,6 +11881,7 @@
           "baseId": "ability-honorable-heart",
           "type": "ability",
           "name": "Honorable Heart",
+          "nameCN": "光荣之心",
           "pbgid": 2127594,
           "attribName": "jeanne_d_arc_honorable_heart_fre_ha_01",
           "age": 1,
@@ -11474,6 +11889,7 @@
             "je"
           ],
           "description": "Jeanne regenerates 1/1.5/2/2.5 health per second while out of combat based on her current level.\nAt level 3 Jeanne takes 45% less damage from ranged attacks; at level 4 this is increased to 60%.",
+          "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11530,6 +11946,7 @@
           "baseId": "ability-jeannes-companions",
           "type": "ability",
           "name": "Jeanne's Companions",
+          "nameCN": "贞德的同伴",
           "pbgid": 2149013,
           "attribName": "jeanne_companion_keep_dummy_keep",
           "age": 1,
@@ -11537,6 +11954,7 @@
             "je"
           ],
           "description": "Achieve level 3 with Jeanne d'Arc to select between Champions and Riders to be trained at the keep.",
+          "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11592,6 +12010,7 @@
           "baseId": "ability-journey-of-a-hero",
           "type": "ability",
           "name": "Journey of a Hero",
+          "nameCN": "英雄之旅",
           "pbgid": 2127657,
           "attribName": "jeanne_d_arc_experience_gain_fre_ha_01",
           "age": 1,
@@ -11599,6 +12018,7 @@
             "je"
           ],
           "description": "Jeanne generates experience for completing tasks such as gathering resources, constructing buildings, hunting boar, capturing Sacred Sites, and participating in combat. Jeanne also gains a small trickle of experience over time.\nAfter earning sufficient experience Jeanne can level up, becoming more powerful and gaining access to unique abilities.",
+          "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11649,6 +12069,7 @@
           "baseId": "ability-merchant-guilds",
           "type": "ability",
           "name": "Merchant Guilds",
+          "nameCN": "商人公会",
           "pbgid": 186581,
           "attribName": "market_passive_gold_generation_fre",
           "age": 1,
@@ -11656,6 +12077,7 @@
             "je"
           ],
           "description": "Active Traders generate 1 gold every 6 seconds.",
+          "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11696,6 +12118,7 @@
           "baseId": "ability-nock-your-arrows",
           "type": "ability",
           "name": "Nock your arrows!",
+          "nameCN": "架弓！",
           "pbgid": 2127666,
           "attribName": "jeanne_d_arc_rallying_call_archers_fre_ha_01",
           "age": 1,
@@ -11703,6 +12126,7 @@
             "je"
           ],
           "description": "Jeanne calls 2/4/6 Archers to her side. Rallies 2 additional Archers if used on a Neutral Settlement.",
+          "descriptionCN": "贞德召唤 2/4/6 名步弓手到她身边。在中立聚落使用时，可额外多召唤 2 名步弓兵。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11742,6 +12166,7 @@
           "baseId": "ability-return-of-the-saint",
           "type": "ability",
           "name": "Return of the Saint",
+          "nameCN": "圣者归来",
           "pbgid": 2141662,
           "attribName": "jeanne_d_arc_buyback_1_fre_ha_01",
           "age": 1,
@@ -11749,6 +12174,7 @@
             "je"
           ],
           "description": "Pay tribute and instantly return Jeanne to the battlefield.",
+          "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11787,6 +12213,7 @@
           "baseId": "ability-return-of-the-saint",
           "type": "ability",
           "name": "Return of the Saint",
+          "nameCN": "圣者归来",
           "pbgid": 2141664,
           "attribName": "jeanne_d_arc_buyback_2_fre_ha_01",
           "age": 2,
@@ -11794,6 +12221,7 @@
             "je"
           ],
           "description": "Pay tribute and instantly return Jeanne to the battlefield.",
+          "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11832,6 +12260,7 @@
           "baseId": "ability-return-of-the-saint",
           "type": "ability",
           "name": "Return of the Saint",
+          "nameCN": "圣者归来",
           "pbgid": 2141665,
           "attribName": "jeanne_d_arc_buyback_3_fre_ha_01",
           "age": 3,
@@ -11839,6 +12268,7 @@
             "je"
           ],
           "description": "Pay tribute and instantly return Jeanne to the battlefield.",
+          "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11877,6 +12307,7 @@
           "baseId": "ability-return-of-the-saint",
           "type": "ability",
           "name": "Return of the Saint",
+          "nameCN": "圣者归来",
           "pbgid": 2141666,
           "attribName": "jeanne_d_arc_buyback_4_fre_ha_01",
           "age": 4,
@@ -11884,6 +12315,7 @@
             "je"
           ],
           "description": "Pay tribute and instantly return Jeanne to the battlefield.",
+          "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -11937,6 +12369,7 @@
           "baseId": "ability-riders-ready",
           "type": "ability",
           "name": "Riders, Ready!",
+          "nameCN": "骑兵就绪！",
           "pbgid": 2136635,
           "attribName": "jeanne_d_arc_rallying_call_crossbows_fre_ha_01",
           "age": 1,
@@ -11944,6 +12377,7 @@
             "je"
           ],
           "description": "Jeanne calls 3 Riders to her side.\nCooldown: 240 Seconds.",
+          "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12001,6 +12435,7 @@
           "baseId": "ability-spears-up",
           "type": "ability",
           "name": "Spears up!",
+          "nameCN": "举起长矛！",
           "pbgid": 2136639,
           "attribName": "jeanne_d_arc_rallying_call_spearmen_fre_ha_01",
           "age": 1,
@@ -12008,6 +12443,7 @@
             "je"
           ],
           "description": "Jeanne calls 2 Spearmen to her side. Awards 50 experience if activated on a Neutral Settlement or a friendly Keep or Landmark.",
+          "descriptionCN": "贞德在其身边召唤 2 名长矛兵。若激活位置为中立聚落、友军城堡或地标，则奖励 50 点经验值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12047,6 +12483,7 @@
           "baseId": "ability-strength-of-heaven",
           "type": "ability",
           "name": "Strength of Heaven",
+          "nameCN": "天堂之力",
           "pbgid": 2139646,
           "attribName": "jeanne_d_arc_inspired_ally_fre_ha_01",
           "age": 1,
@@ -12054,6 +12491,7 @@
             "je"
           ],
           "description": "Jeanne chooses a unit to bless, bestowing them with incredible strength and durability. The chosen warrior gains 300 health, 4 Melee and Ranged Armor, and +300% damage.\nJeanne may only bless one unit at a time.\nCooldown: 30 Seconds.",
+          "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12109,6 +12547,7 @@
           "baseId": "ability-talented-builder",
           "type": "ability",
           "name": "Talented Builder",
+          "nameCN": "建筑天才",
           "pbgid": 2144250,
           "attribName": "jeanne_d_arc_talented_builder_fre_ha_01",
           "age": 1,
@@ -12116,6 +12555,7 @@
             "je"
           ],
           "description": "Jeanne constructs buildings 33% faster.\nUpon reaching level 2, Jeanne shares her talents with nearby builders.",
+          "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12166,6 +12606,7 @@
           "baseId": "ability-to-arms-men",
           "type": "ability",
           "name": "To Arms, Men!",
+          "nameCN": "大家，拿起武器！",
           "pbgid": 2136640,
           "attribName": "jeanne_d_arc_rallying_call_manatarms_fre_ha_01",
           "age": 1,
@@ -12173,6 +12614,7 @@
             "je"
           ],
           "description": "Jeanne calls 3 Champions to her side.\nCooldown: 240 Seconds.",
+          "descriptionCN": "贞德召唤 3 名冠军剑士到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12230,6 +12672,7 @@
           "baseId": "ability-valorous-inspiration",
           "type": "ability",
           "name": "Valorous Inspiration",
+          "nameCN": "勇气鼓舞",
           "pbgid": 2127606,
           "attribName": "jeanne_d_arc_valorous_inspiration_fre_ha_01",
           "age": 1,
@@ -12237,6 +12680,7 @@
             "je"
           ],
           "description": "Increases the attack speed of all units within 4 tiles by 35% for 20 seconds.\nCooldown: 60 Seconds.",
+          "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12292,6 +12736,7 @@
           "baseId": "ability-desert-citadels",
           "type": "ability",
           "name": "Desert Citadels",
+          "nameCN": "沙漠城堡",
           "pbgid": 9000069,
           "attribName": "aura_desert_citadels",
           "age": 1,
@@ -12299,6 +12744,7 @@
             "kt"
           ],
           "description": "Improves the range of nearby units by +15% and armor by +1/+1.",
+          "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12339,6 +12785,7 @@
           "baseId": "ability-fortress-influence",
           "type": "ability",
           "name": "Fortress Influence",
+          "nameCN": "要塞影响力",
           "pbgid": 9000058,
           "attribName": "keep_influence_tem_buff_info",
           "age": 1,
@@ -12346,6 +12793,7 @@
             "kt"
           ],
           "description": "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement.",
+          "descriptionCN": "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12400,6 +12848,7 @@
           "baseId": "ability-pilgrim-destination",
           "type": "ability",
           "name": "Pilgrim Destination",
+          "nameCN": "朝圣者目的地",
           "pbgid": 5000303,
           "attribName": "pilgrim_target_tem",
           "age": 1,
@@ -12407,6 +12856,7 @@
             "kt"
           ],
           "description": "Select a Sacred Site for your Pilgrims to travel to. Pilgrims cannot travel to a Sacred Site captured by an enemy.",
+          "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12448,6 +12898,7 @@
           "baseId": "ability-pilgrim-loan-large",
           "type": "ability",
           "name": "Pilgrim Loan (Large)",
+          "nameCN": "朝圣者借贷 (高)",
           "pbgid": 9000133,
           "attribName": "pilgrim_loan_large_tem",
           "age": 1,
@@ -12455,6 +12906,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 900 gold per minute for 4 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 900 黄金的利率偿还，持续 4 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12495,6 +12947,7 @@
           "baseId": "ability-pilgrim-loan-medium",
           "type": "ability",
           "name": "Pilgrim Loan (Medium)",
+          "nameCN": "朝圣者借贷 (中等)",
           "pbgid": 9000132,
           "attribName": "pilgrim_loan_medium_tem",
           "age": 1,
@@ -12502,6 +12955,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 600 gold per minute for 3 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12542,6 +12996,7 @@
           "baseId": "ability-pilgrim-loan-small",
           "type": "ability",
           "name": "Pilgrim Loan (Small)",
+          "nameCN": "朝圣者借贷 (低)",
           "pbgid": 9000130,
           "attribName": "pilgrim_loan_small_tem",
           "age": 1,
@@ -12549,6 +13004,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 300 gold per minute for 2 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 300 黄金的利率偿还，持续 2 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12589,6 +13045,7 @@
           "baseId": "ability-treasure-towers",
           "type": "ability",
           "name": "Treasure Towers",
+          "nameCN": "藏宝塔",
           "pbgid": 9000148,
           "attribName": "treasure_tower_tem",
           "age": 1,
@@ -12596,6 +13053,7 @@
             "kt"
           ],
           "description": "Increases the gold generation of Monasteries, Sacred Sites and Pilgrims by 20% within the aura of a Fortress.",
+          "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12636,6 +13094,7 @@
           "baseId": "ability-atgeirmadr-production",
           "type": "ability",
           "name": "Atgeirmaðr Production",
+          "nameCN": "阿特盖尔生产",
           "pbgid": 9003592,
           "attribName": "passive_trait_spearman_toggle_byz_ha_mac",
           "age": 1,
@@ -12643,6 +13102,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Atgeirmaðr",
+          "descriptionCN": "开启以派遣阿特盖尔增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12684,6 +13144,7 @@
           "baseId": "ability-attack-ship-production",
           "type": "ability",
           "name": "Attack Ship Production",
+          "nameCN": "攻击船生产",
           "pbgid": 9004101,
           "attribName": "passive_trait_lodya_attack_toggle_byz_ha_mac",
           "age": 2,
@@ -12691,6 +13152,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Attack Ships",
+          "descriptionCN": "开启以派遣攻击船增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12732,6 +13194,7 @@
           "baseId": "ability-bogmadr-production",
           "type": "ability",
           "name": "Bogmaðr Production",
+          "nameCN": "波莫生产",
           "pbgid": 9001671,
           "attribName": "passive_trait_bowman_toggle_byz_ha_mac",
           "age": 2,
@@ -12739,6 +13202,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Bogmaðr",
+          "descriptionCN": "开启以派遣波莫增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12780,6 +13244,7 @@
           "baseId": "ability-cisterns-favor",
           "type": "ability",
           "name": "Cistern's Favor",
+          "nameCN": "水池的恩惠",
           "pbgid": 9004106,
           "attribName": "landmark_cistern_boost_byz_ha_mac",
           "age": 1,
@@ -12787,6 +13252,7 @@
             "mac"
           ],
           "description": "Ability can be used on military production or technology buildings to increase their work rate by +150%. If used on Mining Camps, Lumber Camps, or Farms, begin generating 160 Gold, Wood, or Food over 60 seconds.\nRecharges every 90 seconds.",
+          "descriptionCN": "能力可对军事生产或科技建筑使用，使其工作速率 +150%。如果是对采矿场、伐木场或农田使用，则开始产生 160 黄金、木材或食物，持续 60 秒。\n每隔 90 秒补充一次。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12828,6 +13294,7 @@
           "baseId": "ability-galley-production",
           "type": "ability",
           "name": "Galley Production",
+          "nameCN": "箭船生产",
           "pbgid": 9004097,
           "attribName": "passive_trait_lodya_galley_toggle_byz_ha_mac",
           "age": 2,
@@ -12835,6 +13302,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Galleys",
+          "descriptionCN": "开启以派遣箭船增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12876,6 +13344,7 @@
           "baseId": "ability-riddari-production",
           "type": "ability",
           "name": "Riddari Production",
+          "nameCN": "瑞塔利生产",
           "pbgid": 9001673,
           "attribName": "passive_trait_knight_toggle_byz_ha_mac",
           "age": 3,
@@ -12883,6 +13352,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Riddari",
+          "descriptionCN": "开启以派遣瑞塔利增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12924,6 +13394,7 @@
           "baseId": "ability-varangian-arsenal-influence",
           "type": "ability",
           "name": "Varangian Arsenal Influence",
+          "nameCN": "瓦兰吉兵工厂影响力",
           "pbgid": 9004485,
           "attribName": "silver_influence_byz_ha_mac",
           "age": 1,
@@ -12931,6 +13402,7 @@
             "mac"
           ],
           "description": "Supports nearby Mining Camps and Town Centers with passive Silver generation. The amount processed equals to 12% of the total amount of Silver dropped off at that mine.",
+          "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -12971,6 +13443,7 @@
           "baseId": "ability-varangian-guard-production",
           "type": "ability",
           "name": "Varangian Guard Production",
+          "nameCN": "瓦兰吉卫队生产",
           "pbgid": 9001672,
           "attribName": "passive_trait_warrior_toggle_byz_ha_mac",
           "age": 2,
@@ -12978,6 +13451,7 @@
             "mac"
           ],
           "description": "Toggle on to reinforce with Varangian Guards",
+          "descriptionCN": "开启以派遣瓦兰吉卫队增援",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13019,6 +13493,7 @@
           "baseId": "ability-varangian-reinforcements",
           "type": "ability",
           "name": "Varangian Reinforcements",
+          "nameCN": "瓦兰吉援军",
           "pbgid": 9001605,
           "attribName": "varangian_free_unit_spawning",
           "age": 1,
@@ -13026,6 +13501,7 @@
             "mac"
           ],
           "description": "Reinforcing with Varangians, Galleys, or Attack Ships after enough units fall in battle.",
+          "descriptionCN": "在战斗中足够多的单位阵亡后，用瓦兰吉人、箭船或攻击船进行增援。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13067,6 +13543,7 @@
           "baseId": "ability-activate-stealth",
           "type": "ability",
           "name": "Activate Stealth",
+          "nameCN": "激活潜行",
           "pbgid": 2099938,
           "attribName": "activate_stealth_mal",
           "age": 2,
@@ -13074,6 +13551,7 @@
             "ma"
           ],
           "description": "Enter Stealth for 30 seconds.\nWhile in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, Landmark Town Centers, or they engage in combat.",
+          "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13127,6 +13605,7 @@
           "baseId": "ability-coastal-navigation",
           "type": "ability",
           "name": "Coastal Navigation",
+          "nameCN": "沿海航行",
           "pbgid": 2071572,
           "attribName": "docks_speed_bonus_mal",
           "age": 1,
@@ -13134,6 +13613,7 @@
             "ma"
           ],
           "description": "Ships near a Docks get +15% speed for 25 seconds.",
+          "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13192,6 +13672,7 @@
           "baseId": "ability-first-strike",
           "type": "ability",
           "name": "First Strike",
+          "nameCN": "先发制人",
           "pbgid": 2067085,
           "attribName": "gbeto_ambush_buff_mal",
           "age": 4,
@@ -13199,6 +13680,7 @@
             "ma"
           ],
           "description": "Musofadi Warriors and Musofadi Gunners deal double damage on their first attack when breaking stealth.",
+          "descriptionCN": "可提升下一次攻击造成的伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13267,6 +13749,7 @@
           "baseId": "ability-food-festival",
           "type": "ability",
           "name": "Food Festival",
+          "nameCN": "食物节庆",
           "pbgid": 2062644,
           "attribName": "festival_food_mal",
           "age": 4,
@@ -13274,6 +13757,7 @@
             "ma"
           ],
           "description": "Increase villager gather rate and move speed by +50%",
+          "descriptionCN": "村民的采集速率和移动速度提升 +50%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13331,6 +13815,7 @@
           "baseId": "ability-huntress-stealth",
           "type": "ability",
           "name": "Huntress' Stealth",
+          "nameCN": "女猎手的隐身",
           "pbgid": 2099928,
           "attribName": "stealth_landmark_aura_mal",
           "age": 4,
@@ -13338,6 +13823,7 @@
             "ma"
           ],
           "description": "Malian infantry within range enter Stealth. While in Stealth, units are invisible until they are revealed by enemy Scouts, Outposts, or when they engage in combat.",
+          "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13396,6 +13882,7 @@
           "baseId": "ability-military-festival",
           "type": "ability",
           "name": "Military Festival",
+          "nameCN": "军事节庆",
           "pbgid": 2062645,
           "attribName": "festival_military_mal",
           "age": 4,
@@ -13403,6 +13890,7 @@
             "ma"
           ],
           "description": "Increase all unit production speed by +100% for 90 seconds.",
+          "descriptionCN": "所有单位生产速度 +100%，持续 90 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13468,6 +13956,7 @@
           "baseId": "ability-siege-festival",
           "type": "ability",
           "name": "Siege Festival",
+          "nameCN": "攻城节庆",
           "pbgid": 2062641,
           "attribName": "festival_siege_mal",
           "age": 4,
@@ -13475,6 +13964,7 @@
             "ma"
           ],
           "description": "Increase damage of Battering Rams, Bombards, Counterweight Trebuchets, and torches by +50% for 90 seconds.\nApplies to Springald Ships once Mounted Guns has been researched.",
+          "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13554,6 +14044,7 @@
           "baseId": "ability-attack-speed-arrow",
           "type": "ability",
           "name": "Attack Speed Arrow",
+          "nameCN": "攻速箭",
           "pbgid": 168622,
           "attribName": "khan_attack_speed_signal_arrow_mon",
           "age": 2,
@@ -13561,6 +14052,7 @@
             "mo"
           ],
           "description": "Fires a Signal Arrow that increases the attack speed of nearby ranged units (including the Khan) by +50% for 5 seconds.",
+          "descriptionCN": "射出一支信号箭，使附近远程单位 (包括汗) 的攻击速度提升 +50%，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13619,6 +14111,7 @@
           "baseId": "ability-battle-veteran",
           "type": "ability",
           "name": "Keshik Healing",
+          "nameCN": "战斗老兵",
           "pbgid": 2131332,
           "attribName": "lancer_healing_mon",
           "age": 2,
@@ -13626,6 +14119,7 @@
             "mo"
           ],
           "description": "Heals after every attack performed.",
+          "descriptionCN": "每次攻击后恢复生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13676,6 +14170,7 @@
           "baseId": "ability-defense-arrow",
           "type": "ability",
           "name": "Defense Arrow",
+          "nameCN": "防御箭",
           "pbgid": 168628,
           "attribName": "khan_defensive_signal_arrow_mon",
           "age": 3,
@@ -13683,6 +14178,7 @@
             "mo"
           ],
           "description": "Fires a Signal Arrow that increases the armor of nearby units (including the Khan) by +2 for 5 seconds.",
+          "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的护甲 +2，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13777,6 +14273,7 @@
           "baseId": "ability-kurultai-aura",
           "type": "ability",
           "name": "Kurultai Aura",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2075585,
           "attribName": "kurultai_healing_aura_mon",
           "age": 3,
@@ -13784,6 +14281,7 @@
             "mo"
           ],
           "description": "Nearby units within its aura heal +1 health every 1 second and gain an additional +20% damage.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13824,6 +14322,7 @@
           "baseId": "ability-maneuver-arrow",
           "type": "ability",
           "name": "Maneuver Arrow",
+          "nameCN": "机动箭",
           "pbgid": 168567,
           "attribName": "khan_maneuver_signal_arrow_mon",
           "age": 1,
@@ -13831,6 +14330,7 @@
             "mo"
           ],
           "description": "Fire a Signal Arrow that increases the movement speed of nearby units (including the Khan) by +33% for 5 seconds. Does not affect Villagers.",
+          "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13900,6 +14400,7 @@
           "baseId": "ability-ovoo-influence",
           "type": "ability",
           "name": "Ovoo Influence",
+          "nameCN": "敖包影响力",
           "pbgid": 1457772,
           "attribName": "ovoo_influence_mon",
           "age": 1,
@@ -13907,6 +14408,7 @@
             "mo"
           ],
           "description": "Buildings within influence have access to double production and improved technology. Pastures within influence produce Sheep at a faster rate.",
+          "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -13947,6 +14449,7 @@
           "baseId": "ability-yam",
           "type": "ability",
           "name": "Yam",
+          "nameCN": "驿站",
           "pbgid": 131400,
           "attribName": "ortoo_outpost_speed_aura_mon",
           "age": 1,
@@ -13954,6 +14457,7 @@
             "mo"
           ],
           "description": "Cavalry and Traders near an Outpost get +15% speed for 10 seconds.",
+          "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14019,6 +14523,7 @@
           "baseId": "ability-yam-network-improved",
           "type": "ability",
           "name": "Yam Network (Improved)",
+          "nameCN": "驿站",
           "pbgid": 190079,
           "attribName": "outpost_speed_improved_mon",
           "age": 2,
@@ -14026,6 +14531,7 @@
             "mo"
           ],
           "description": "Yam speed aura applies to all units instead of just Traders and cavalry units. Does not apply to siege engines.",
+          "descriptionCN": "速度提升 25%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14088,6 +14594,7 @@
           "baseId": "ability-attack-drums",
           "type": "ability",
           "name": "Attack Drums",
+          "nameCN": "攻击战鼓 (关闭)",
           "pbgid": 2074302,
           "attribName": "mehter_attack_buff_ott",
           "age": 1,
@@ -14095,6 +14602,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the attack speed of nearby units by +15%.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的攻击速度 +15%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14163,6 +14671,7 @@
           "baseId": "ability-blacksmith-and-university-influence",
           "type": "ability",
           "name": "Blacksmith and University Influence",
+          "nameCN": "铁匠铺和大学的影响",
           "pbgid": 2082042,
           "attribName": "university_blacksmith_influence_ott",
           "age": 2,
@@ -14170,6 +14679,7 @@
             "ot"
           ],
           "description": "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%.",
+          "descriptionCN": "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14308,6 +14818,7 @@
           "baseId": "ability-fortitude",
           "type": "ability",
           "name": "Fortitude",
+          "nameCN": "坚毅",
           "pbgid": 2089398,
           "attribName": "sipahi_stamina_ott",
           "age": 2,
@@ -14315,6 +14826,7 @@
             "ot"
           ],
           "description": "Gain +50% attack speed and receive +50% damage from melee weapons for 10 seconds.",
+          "descriptionCN": "获得 +50% 攻击速度，并从近战武器中受得 +50% 伤害，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14379,6 +14891,7 @@
           "baseId": "ability-mehter-speed-bonus",
           "type": "ability",
           "name": "Mehter Speed Bonus",
+          "nameCN": "奥斯曼军乐队速度加成",
           "pbgid": 2063074,
           "attribName": "mehter_default_formation_ott",
           "age": 1,
@@ -14386,6 +14899,7 @@
             "ot"
           ],
           "description": "Units move +15% faster when in formation.",
+          "descriptionCN": "移动速度加成 +15%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14456,6 +14970,7 @@
           "baseId": "ability-melee-defense-drums",
           "type": "ability",
           "name": "Melee Defense Drums",
+          "nameCN": "近战防御战鼓 (关闭)",
           "pbgid": 2074304,
           "attribName": "mehter_melee_armor_buff_ott",
           "age": 1,
@@ -14463,6 +14978,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the melee armor of nearby units by +2.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的近战护甲增加 +2。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14531,6 +15047,7 @@
           "baseId": "ability-ranged-defense-drums",
           "type": "ability",
           "name": "Ranged Defense Drums",
+          "nameCN": "远程防御战鼓 (关闭)",
           "pbgid": 2074303,
           "attribName": "mehter_ranged_armor_buff_ott",
           "age": 1,
@@ -14538,6 +15055,7 @@
             "ot"
           ],
           "description": "Mehter drums that increase the ranged armor of nearby units by +1.",
+          "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的远程护甲增加 +1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14606,6 +15124,7 @@
           "baseId": "ability-trade-protection",
           "type": "ability",
           "name": "Trade Protection",
+          "nameCN": "贸易保护",
           "pbgid": 2062057,
           "attribName": "keep_trader_speed_boost_aura_ott",
           "age": 4,
@@ -14613,6 +15132,7 @@
             "ot"
           ],
           "description": "Traders and Trade Ships near Keeps receive +30% move speed and +8 armor for 20 seconds.",
+          "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14701,6 +15221,7 @@
           "baseId": "ability-gallop",
           "type": "ability",
           "name": "Gallop",
+          "nameCN": "疾驰",
           "pbgid": 2134249,
           "attribName": "horse_archer_mounted_training_gallop_rus",
           "age": 4,
@@ -14708,6 +15229,7 @@
             "ru"
           ],
           "description": "Activate to move at maximum speed with +2 tile weapon range for 8 seconds.",
+          "descriptionCN": "激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14775,6 +15297,7 @@
           "baseId": "ability-high-armory-production-bonus",
           "type": "ability",
           "name": "High Armory Production Bonus",
+          "nameCN": "高级军械库生产加成",
           "pbgid": 207496,
           "attribName": "high_armory_production_aura_rus",
           "age": 4,
@@ -14782,6 +15305,7 @@
             "ru"
           ],
           "description": "The cost of siege engines in nearby Siege Workshops is decreased by 20%.",
+          "descriptionCN": "邻近攻城武器厂的攻城器械成本降低 20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -14856,6 +15380,7 @@
           "baseId": "ability-saints-blessing",
           "type": "ability",
           "name": "Saint's Blessing",
+          "nameCN": "圣者的祝福",
           "pbgid": 181465,
           "attribName": "saints_blessing_rus",
           "age": 3,
@@ -14863,6 +15388,7 @@
             "ru"
           ],
           "description": "After striking an enemy, the Warrior Monk increases the armor and damage of nearby allied Rus military units for a duration.",
+          "descriptionCN": "攻击敌人后，僧侣战士会在一段时间内提升邻近友方罗斯军事单位的护甲和伤害。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15043,6 +15569,7 @@
           "baseId": "ability-static-deployment",
           "type": "ability",
           "name": "Static Deployment",
+          "nameCN": "静态部署",
           "pbgid": 182235,
           "attribName": "streltsy_static_deployment_ability_rus",
           "age": 4,
@@ -15050,6 +15577,7 @@
             "ru"
           ],
           "description": "Streltsy gain +30% attack speed after remaining stationary for 10 seconds.",
+          "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15100,6 +15628,7 @@
           "baseId": "ability-brewery-delivery",
           "type": "ability",
           "name": "Brewery Delivery",
+          "nameCN": "酒厂送货",
           "pbgid": 9004283,
           "attribName": "brewery_rice_mat_manager_jpn_ha_sen",
           "age": 1,
@@ -15107,6 +15636,7 @@
             "sen"
           ],
           "description": "When 350 Gold is collected from the Toko-Koji Mats, a Sake delivery is sent to a nearby Matsuri.",
+          "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15147,6 +15677,7 @@
           "baseId": "ability-castle-of-the-crow-aura",
           "type": "ability",
           "name": "Castle of the Crow Aura",
+          "nameCN": "乌城光环",
           "pbgid": 9001990,
           "attribName": "crow_castle_siege_aura_jpn_ha_sen",
           "age": 1,
@@ -15154,6 +15685,7 @@
             "sen"
           ],
           "description": "Siege units near the Castle gain +10% damage and +1 tiles range.",
+          "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15195,6 +15727,7 @@
           "baseId": "ability-daimyo-estate-influence",
           "type": "ability",
           "name": "Daimyo Estate Influence",
+          "nameCN": "大名府邸影响",
           "pbgid": 9003674,
           "attribName": "daimyo_estate_influence_jpn_ha_sen",
           "age": 1,
@@ -15202,6 +15735,7 @@
             "sen"
           ],
           "description": "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate.",
+          "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15244,6 +15778,7 @@
           "baseId": "ability-matsuri-aura",
           "type": "ability",
           "name": "Matsuri Aura",
+          "nameCN": "祭典光环",
           "pbgid": 9004249,
           "attribName": "matsuri_aura_no_bonus_jpn_ha_sen",
           "age": 1,
@@ -15251,6 +15786,7 @@
             "sen"
           ],
           "description": "Currently no bonus gather rate. Each Yatai trader that arrives to this Matsuri will increase the bonus gather rate provided to nearby Villagers by +5%.",
+          "descriptionCN": "当前没有采集速率加成。每个抵达此祭典的屋台商人都会为附近村民提供 +5% 的采集速率加成。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15291,6 +15827,7 @@
           "baseId": "ability-redirect-yatai",
           "type": "ability",
           "name": "Redirect Yatai",
+          "nameCN": "改变屋台的方向",
           "pbgid": 9003882,
           "attribName": "matsuri_call_yatai_jpn_ha_sen",
           "age": 1,
@@ -15298,6 +15835,7 @@
             "sen"
           ],
           "description": "While active the Home Matsuri of all Yatai is set to this building.",
+          "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15339,6 +15877,7 @@
           "baseId": "ability-ryokan-healing",
           "type": "ability",
           "name": "Ryokan Healing",
+          "nameCN": "日式旅馆治疗",
           "pbgid": 9001951,
           "attribName": "ryokan_aura_jpn_ha_sen",
           "age": 1,
@@ -15346,6 +15885,7 @@
             "sen"
           ],
           "description": "Nearby units gain a permanent healing buff. The healing buff will heal the unit when out of combat by 3 health every 5 seconds.",
+          "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15386,6 +15926,7 @@
           "baseId": "ability-shinobi-ambush",
           "type": "ability",
           "name": "Shinobi Ambush",
+          "nameCN": "忍者埋伏",
           "pbgid": 9001933,
           "attribName": "spawn_shinobi_ambush_jpn_ha_sen",
           "age": 1,
@@ -15393,6 +15934,7 @@
             "sen"
           ],
           "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 50% and slow enemies by 30% for 3 seconds.\nThe Shinobi will escape after 90 seconds or if they used their 3 grenades.",
+          "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +50%，并让敌方的速度 -30%，持续 3 秒。\n忍者在 90 秒后或用完 3 枚烟雾弹后就会逃走。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15434,6 +15976,7 @@
           "baseId": "ability-shinobi-scout",
           "type": "ability",
           "name": "Shinobi Scout",
+          "nameCN": "忍者侦察兵",
           "pbgid": 9002051,
           "attribName": "shinobi_spy_jpn_ha_sen",
           "age": 1,
@@ -15441,6 +15984,7 @@
             "sen"
           ],
           "description": "Reveals a 10 tile radius for 20 seconds.",
+          "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15482,6 +16026,7 @@
           "baseId": "ability-elephant-economics",
           "type": "ability",
           "name": "Elephant Economics",
+          "nameCN": "大象经济",
           "pbgid": 9001171,
           "attribName": "worker_elephant_resource_gathering_passive_sul_ha_tug",
           "age": 1,
@@ -15489,6 +16034,7 @@
             "tug"
           ],
           "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
+          "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15531,6 +16077,7 @@
           "baseId": "ability-tughlaqabad-fort-overwatch",
           "type": "ability",
           "name": "Tughlaqabad Fort Overwatch",
+          "nameCN": "腾格拉卡巴德堡垒瞭望",
           "pbgid": 9004580,
           "attribName": "fort_dock_aura_sul_ha_tug",
           "age": 1,
@@ -15538,6 +16085,7 @@
             "tug"
           ],
           "description": "Increasing the production speed of nearby Docks by 30%, arrowslits damage by 2, and weapon range by 1 tile.",
+          "descriptionCN": "附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15578,6 +16126,7 @@
           "baseId": "ability-ascetic-recovery",
           "type": "ability",
           "name": "Ascetic Recovery",
+          "nameCN": "苦行恢复",
           "pbgid": 2127510,
           "attribName": "shaolin_monk_passive_heal_self",
           "age": 1,
@@ -15585,6 +16134,7 @@
             "zx"
           ],
           "description": "The Shaolin Monk regains health when out of combat.",
+          "descriptionCN": "少林僧侣在脱离战斗时会恢复生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15635,6 +16185,7 @@
           "baseId": "ability-body-of-iron",
           "type": "ability",
           "name": "Body of Iron",
+          "nameCN": "钢铁之躯",
           "pbgid": 2127511,
           "attribName": "shaolin_monk_ranged_damage_reduction",
           "age": 1,
@@ -15642,6 +16193,7 @@
             "zx"
           ],
           "description": "The Shaolin Monk hardens his body and reduces incoming ranged damage by 50% for 15 seconds.",
+          "descriptionCN": "少林僧侣能让身体硬化，并将来袭远程伤害减少 50%，持续 15 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15693,6 +16245,7 @@
           "baseId": "ability-bounty-of-solitude",
           "type": "ability",
           "name": "Bounty of Solitude",
+          "nameCN": "孤独的恩赐",
           "pbgid": 2127403,
           "attribName": "meditation_gardens_resource_generation",
           "age": 1,
@@ -15700,6 +16253,7 @@
             "zx"
           ],
           "description": "Generates resources depending on the type of resources nearby. Enemy units within 8 tiles reduce the rate at which resources are generated.",
+          "descriptionCN": "根据附近的资源类型产生资源。8 格内的敌方单位将降低资源的生成速率。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15752,6 +16306,7 @@
           "baseId": "ability-divine-charge",
           "type": "ability",
           "name": "Divine Charge",
+          "nameCN": "侵略如火",
           "pbgid": 2145464,
           "attribName": "toggle_temple_of_the_sun_damage_chi_ha_01",
           "age": 1,
@@ -15759,6 +16314,7 @@
             "zx"
           ],
           "description": "Cavalry units deal +20% damage.",
+          "descriptionCN": "骑兵单位造成伤害 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15818,6 +16374,7 @@
           "baseId": "ability-divine-defense",
           "type": "ability",
           "name": "Divine Defense",
+          "nameCN": "其徐如林",
           "pbgid": 2145449,
           "attribName": "toggle_temple_of_the_sun_range_chi_ha_01",
           "age": 1,
@@ -15825,6 +16382,7 @@
             "zx"
           ],
           "description": "Gunpowder units and defensive structures gain +1 range.",
+          "descriptionCN": "火药单位和防御性建筑攻击范围 +1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15900,6 +16458,7 @@
           "baseId": "ability-divine-haste",
           "type": "ability",
           "name": "Divine Haste",
+          "nameCN": "其疾如风",
           "pbgid": 2145444,
           "attribName": "toggle_temple_of_the_sun_speed_chi_ha_01",
           "age": 1,
@@ -15907,6 +16466,7 @@
             "zx"
           ],
           "description": "Infantry units move 15% faster.",
+          "descriptionCN": "步兵单位移动速度加快 15%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -15976,6 +16536,7 @@
           "baseId": "ability-divine-vitality",
           "type": "ability",
           "name": "Divine Vitality",
+          "nameCN": "不动如山",
           "pbgid": 2145465,
           "attribName": "toggle_temple_of_the_sun_regen_chi_ha_01",
           "age": 1,
@@ -15983,6 +16544,7 @@
             "zx"
           ],
           "description": "Units out of combat heal 2 health per second.",
+          "descriptionCN": "脱离战斗的单位每秒恢复 2 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -16066,6 +16628,7 @@
           "baseId": "ability-supervise",
           "type": "ability",
           "name": "Supervise",
+          "nameCN": "监督",
           "pbgid": 182138,
           "attribName": "official_supervise_building_target_chi",
           "age": 1,
@@ -16073,6 +16636,7 @@
             "zx"
           ],
           "description": "Supervise a research, production, or drop-off building with an Imperial Official to make it work 150% faster. Resource drop-off buildings receive 20% more resources. Cannot be used on Landmarks, Town Centers, or Docks.",
+          "descriptionCN": "使用朝廷命官监督研究、生产或存放建筑，使其工作速度提升 150%。存放资源的建筑可多接收 20% 资源。无法用于地标、城镇中心或码头。",
           "classes": [],
           "displayClasses": [],
           "costs": {

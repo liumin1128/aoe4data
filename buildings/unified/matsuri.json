@@ -34,6 +34,7 @@
       "baseId": "matsuri",
       "type": "building",
       "name": "Matsuri",
+      "nameCN": "祭典",
       "pbgid": 9001339,
       "attribName": "building_econ_matsuri_jpn_ha_sen",
       "age": 1,
@@ -41,6 +42,7 @@
         "sen"
       ],
       "description": "The Matsuri acts as a early Market and universal drop-off location.\n \nProduces the Yatai. The Yatai can gather Food and when full it will send a trader back to the Matsuri, which improves the Matsuri gather rate aura by +5%.",
+      "descriptionCN": "祭典承担了早期市场和通用存放位置的角色。\n \n生产屋台。屋台可以采集食物，当食物装满时，它会派出一名商人返回祭典，这将使祭典的采集速度光环的效果 +5%。",
       "classes": [
         "building",
         "economy_building",

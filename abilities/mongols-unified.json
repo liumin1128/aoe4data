@@ -29,6 +29,7 @@
           "baseId": "ability-attack-speed-arrow",
           "type": "ability",
           "name": "Attack Speed Arrow",
+          "nameCN": "攻速箭",
           "pbgid": 168622,
           "attribName": "khan_attack_speed_signal_arrow_mon",
           "age": 2,
@@ -36,6 +37,7 @@
             "mo"
           ],
           "description": "Fires a Signal Arrow that increases the attack speed of nearby ranged units (including the Khan) by +50% for 5 seconds.",
+          "descriptionCN": "射出一支信号箭，使附近远程单位 (包括汗) 的攻击速度提升 +50%，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -94,6 +96,7 @@
           "baseId": "ability-battle-veteran",
           "type": "ability",
           "name": "Keshik Healing",
+          "nameCN": "战斗老兵",
           "pbgid": 2131332,
           "attribName": "lancer_healing_mon",
           "age": 2,
@@ -101,6 +104,7 @@
             "mo"
           ],
           "description": "Heals after every attack performed.",
+          "descriptionCN": "每次攻击后恢复生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -151,6 +155,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -158,6 +163,7 @@
             "mo"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -218,6 +224,7 @@
           "baseId": "ability-defense-arrow",
           "type": "ability",
           "name": "Defense Arrow",
+          "nameCN": "防御箭",
           "pbgid": 168628,
           "attribName": "khan_defensive_signal_arrow_mon",
           "age": 3,
@@ -225,6 +232,7 @@
             "mo"
           ],
           "description": "Fires a Signal Arrow that increases the armor of nearby units (including the Khan) by +2 for 5 seconds.",
+          "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的护甲 +2，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -319,6 +327,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -326,6 +335,7 @@
             "mo"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -379,6 +389,7 @@
           "baseId": "ability-kurultai-aura",
           "type": "ability",
           "name": "Kurultai Aura",
+          "nameCN": "(translation not found) (undefined)",
           "pbgid": 2075585,
           "attribName": "kurultai_healing_aura_mon",
           "age": 3,
@@ -386,6 +397,7 @@
             "mo"
           ],
           "description": "Nearby units within its aura heal +1 health every 1 second and gain an additional +20% damage.",
+          "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -426,6 +438,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -433,6 +446,7 @@
             "mo"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -488,6 +502,7 @@
           "baseId": "ability-maneuver-arrow",
           "type": "ability",
           "name": "Maneuver Arrow",
+          "nameCN": "机动箭",
           "pbgid": 168567,
           "attribName": "khan_maneuver_signal_arrow_mon",
           "age": 1,
@@ -495,6 +510,7 @@
             "mo"
           ],
           "description": "Fire a Signal Arrow that increases the movement speed of nearby units (including the Khan) by +33% for 5 seconds. Does not affect Villagers.",
+          "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -564,6 +580,7 @@
           "baseId": "ability-ovoo-influence",
           "type": "ability",
           "name": "Ovoo Influence",
+          "nameCN": "敖包影响力",
           "pbgid": 1457772,
           "attribName": "ovoo_influence_mon",
           "age": 1,
@@ -571,6 +588,7 @@
             "mo"
           ],
           "description": "Buildings within influence have access to double production and improved technology. Pastures within influence produce Sheep at a faster rate.",
+          "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -611,6 +629,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -618,6 +637,7 @@
             "mo"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -672,6 +692,7 @@
           "baseId": "ability-silk-road",
           "type": "ability",
           "name": "Silk Road",
+          "nameCN": "丝绸之路",
           "pbgid": 186431,
           "attribName": "market_silk_road_passive_ui_mon",
           "age": 1,
@@ -679,6 +700,7 @@
             "mo"
           ],
           "description": "The types of resources you earn from each Trader is improved based on your total number of active Traders.\n5+ Traders: +10% Food\n10+ Traders: +10% Food, +10% Wood",
+          "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -719,6 +741,7 @@
           "baseId": "ability-yam",
           "type": "ability",
           "name": "Yam",
+          "nameCN": "驿站",
           "pbgid": 131400,
           "attribName": "ortoo_outpost_speed_aura_mon",
           "age": 1,
@@ -726,6 +749,7 @@
             "mo"
           ],
           "description": "Cavalry and Traders near an Outpost get +15% speed for 10 seconds.",
+          "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -791,6 +815,7 @@
           "baseId": "ability-yam-network-improved",
           "type": "ability",
           "name": "Yam Network (Improved)",
+          "nameCN": "驿站",
           "pbgid": 190079,
           "attribName": "outpost_speed_improved_mon",
           "age": 2,
@@ -798,6 +823,7 @@
             "mo"
           ],
           "description": "Yam speed aura applies to all units instead of just Traders and cavalry units. Does not apply to siege engines.",
+          "descriptionCN": "速度提升 25%。",
           "classes": [],
           "displayClasses": [],
           "costs": {

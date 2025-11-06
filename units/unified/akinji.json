@@ -36,6 +36,7 @@
       "baseId": "akinji",
       "type": "unit",
       "name": "Akinji",
+      "nameCN": "阿金基轻骑兵",
       "pbgid": 9000524,
       "attribName": "unit_horsearcher_2_ott",
       "age": 2,
@@ -43,6 +44,7 @@
         "ot"
       ],
       "description": "Highly mobile long ranged cavalry which fires two arrows in quick succession. \n+ High mobility\n- Weak vs ranged units",
+      "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -127,6 +129,7 @@
       "baseId": "akinji",
       "type": "unit",
       "name": "Veteran Akinji",
+      "nameCN": "老练阿金基轻骑兵",
       "pbgid": 9000522,
       "attribName": "unit_horsearcher_3_ott",
       "age": 3,
@@ -134,6 +137,7 @@
         "ot"
       ],
       "description": "Highly mobile long ranged cavalry which fires two arrows in quick succession. \n+ High mobility\n- Weak vs ranged units",
+      "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -218,6 +222,7 @@
       "baseId": "akinji",
       "type": "unit",
       "name": "Elite Akinji",
+      "nameCN": "精锐阿金基轻骑兵",
       "pbgid": 9000523,
       "attribName": "unit_horsearcher_4_ott",
       "age": 4,
@@ -225,6 +230,7 @@
         "ot"
       ],
       "description": "Highly mobile long ranged cavalry which fires two arrows in quick succession. \n+ High mobility\n- Weak vs ranged units",
+      "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
       "classes": [
         "annihilation_condition",
         "archer",

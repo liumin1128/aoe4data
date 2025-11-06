@@ -27,6 +27,7 @@
       "baseId": "collar-of-esses",
       "type": "technology",
       "name": "Collar of Esses",
+      "nameCN": "埃索斯的项圈",
       "pbgid": 5000164,
       "attribName": "upgrade_collarofesses_lan",
       "age": 3,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Your Knights and Demilancers adorn their armor with the Lancaster livery, gaining +5 bonus damage against enemy heavy units.",
+      "descriptionCN": "用兰开斯特涂装来装点骑士和短矛骑兵的护甲，对敌方重型单位造成的伤害 +5。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

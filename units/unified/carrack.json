@@ -41,6 +41,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 2616092,
       "attribName": "unit_naval_combat_warship_4_byz",
       "age": 4,
@@ -48,6 +49,7 @@
         "by"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -147,6 +149,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 193115,
       "attribName": "unit_naval_carrack_4_eng",
       "age": 4,
@@ -154,6 +157,7 @@
         "en"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -254,6 +258,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 193120,
       "attribName": "unit_naval_combat_warship_4_fre",
       "age": 4,
@@ -261,6 +266,7 @@
         "fr"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -361,6 +367,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 193125,
       "attribName": "unit_naval_combat_warship_4_hre",
       "age": 4,
@@ -368,6 +375,7 @@
         "hr"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -468,6 +476,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 5000127,
       "attribName": "unit_naval_carrack_lan",
       "age": 4,
@@ -475,6 +484,7 @@
         "hl"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -575,6 +585,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 193120,
       "attribName": "unit_naval_combat_warship_4_fre",
       "age": 4,
@@ -582,6 +593,7 @@
         "je"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -682,6 +694,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 8922530,
       "attribName": "unit_naval_combat_warship_4_hre_ha_01",
       "age": 4,
@@ -689,6 +702,7 @@
         "od"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",
@@ -789,6 +803,7 @@
       "baseId": "carrack",
       "type": "unit",
       "name": "Carrack",
+      "nameCN": "大帆船",
       "pbgid": 2046447,
       "attribName": "unit_naval_combat_warship_4_ott",
       "age": 4,
@@ -796,6 +811,7 @@
         "ot"
       ],
       "description": "Large sailed war vessel armed with broadside cannons.\n+ Anti-structure specialist\n- Low movement speed",
+      "descriptionCN": "装备有船侧加农炮的大型有帆战船。\n+ 反建筑专家\n- 移动速度较慢",
       "classes": [
         "annihilation_condition",
         "gunpowder",

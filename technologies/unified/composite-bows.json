@@ -28,6 +28,7 @@
       "baseId": "composite-bows",
       "type": "technology",
       "name": "Composite Bows",
+      "nameCN": "复合弓",
       "pbgid": 200372,
       "attribName": "upgrade_mameluke_damage_abb",
       "age": 3,
@@ -35,6 +36,7 @@
         "ab"
       ],
       "description": "Increase the attack speed of Archers by +33%.",
+      "descriptionCN": "弓兵的攻击速度 +33%。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",

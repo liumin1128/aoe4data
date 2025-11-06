@@ -38,6 +38,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2074107,
           "attribName": "upgrade_unit_archer_4_mal",
           "age": 4,
@@ -45,6 +46,7 @@
             "ma"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -103,6 +105,7 @@
           "baseId": "elite-donso",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2059145,
           "attribName": "upgrade_unit_spearman_4_mal",
           "age": 4,
@@ -110,6 +113,7 @@
             "ma"
           ],
           "description": "Upgrade Veteran Donso to Elite Donso.",
+          "descriptionCN": "将老练当佐兵升级为精锐当佐兵。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -168,6 +172,7 @@
           "baseId": "elite-freeborn-warrior",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9000374,
           "attribName": "upgrade_unit_freebornwarrior_4_mal",
           "age": 4,
@@ -175,6 +180,7 @@
             "ma"
           ],
           "description": "Upgrade Freeborn Warrior to Elite Freeborn Warrior.",
+          "descriptionCN": "将自由民战士升级为精锐自由民战士。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -234,6 +240,7 @@
           "baseId": "elite-javelin-thrower",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2062113,
           "attribName": "upgrade_unit_javelin_4_mal",
           "age": 4,
@@ -241,6 +248,7 @@
             "ma"
           ],
           "description": "Upgrades Veteran Javelin Thrower to Elite Javelin Thrower",
+          "descriptionCN": "将老练掷枪兵升级为精锐掷枪兵",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -299,6 +307,7 @@
           "baseId": "elite-musofadi",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9000877,
           "attribName": "upgrade_unit_mansa_musofadi_4_mal",
           "age": 4,
@@ -306,6 +315,7 @@
             "ma"
           ],
           "description": "Upgrade Veteran Musofadi to Elite Musofadi.",
+          "descriptionCN": "将老练穆索法迪兵升级为精锐穆索法迪兵。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -364,6 +374,7 @@
           "baseId": "elite-sofa",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2059147,
           "attribName": "upgrade_unit_horseman_4_mal",
           "age": 4,
@@ -371,6 +382,7 @@
             "ma"
           ],
           "description": "Upgrade Veteran Sofa to Elite Sofa.",
+          "descriptionCN": "将老练索法骑手升级为精锐索法骑手。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -429,6 +441,7 @@
           "baseId": "elite-warrior-scout",
           "type": "upgrade",
           "name": "Elite Warrior Scout",
+          "nameCN": "精锐战士侦察兵",
           "pbgid": 2073305,
           "attribName": "upgrade_unit_scout_mal_4",
           "age": 4,
@@ -436,6 +449,7 @@
             "ma"
           ],
           "description": "Upgrade Veteran Warrior Scout to Elite Warrior Scout",
+          "descriptionCN": "将老练战士侦察兵升级为精锐战士侦察兵",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -494,6 +508,7 @@
           "baseId": "hardened-donso",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 2059143,
           "attribName": "upgrade_unit_spearman_2_mal",
           "age": 2,
@@ -501,6 +516,7 @@
             "ma"
           ],
           "description": "Upgrade Donso to Hardened Donso.",
+          "descriptionCN": "将当佐兵升级为坚韧当佐兵。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -559,6 +575,7 @@
           "baseId": "upgrade-warrior-scout",
           "type": "upgrade",
           "name": "Warrior Scout",
+          "nameCN": "战士侦察兵",
           "pbgid": 2073303,
           "attribName": "upgrade_unit_scout_mal_2",
           "age": 2,
@@ -566,6 +583,7 @@
             "ma"
           ],
           "description": "Upgrade Vanguard Scout to Warrior Scout",
+          "descriptionCN": "将先锋士兵升级为战士侦察兵",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -624,6 +642,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2074106,
           "attribName": "upgrade_unit_archer_3_mal",
           "age": 3,
@@ -631,6 +650,7 @@
             "ma"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -689,6 +709,7 @@
           "baseId": "veteran-donso",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2059144,
           "attribName": "upgrade_unit_spearman_3_mal",
           "age": 3,
@@ -696,6 +717,7 @@
             "ma"
           ],
           "description": "Upgrade Hardened Dosno to Veteran Donso.",
+          "descriptionCN": "将坚韧当佐兵升级为老练当佐兵。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -754,6 +776,7 @@
           "baseId": "veteran-javelin-thrower",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2062114,
           "attribName": "upgrade_unit_javelin_3_mal",
           "age": 3,
@@ -761,6 +784,7 @@
             "ma"
           ],
           "description": "Upgrades Javelin Thrower to Veteran Javelin Thrower",
+          "descriptionCN": "将掷枪兵升级为老练掷枪兵",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -819,6 +843,7 @@
           "baseId": "veteran-musofadi",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9000876,
           "attribName": "upgrade_unit_mansa_musofadi_3_mal",
           "age": 3,
@@ -826,6 +851,7 @@
             "ma"
           ],
           "description": "Upgrade Musofadi to Veteran Musofadi.",
+          "descriptionCN": "将穆索法迪兵升级为老练穆索法迪兵。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -884,6 +910,7 @@
           "baseId": "veteran-sofa",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2059146,
           "attribName": "upgrade_unit_horseman_3_mal",
           "age": 3,
@@ -891,6 +918,7 @@
             "ma"
           ],
           "description": "Upgrade Sofa to Veteran Sofa.",
+          "descriptionCN": "将索法骑手升级为老练索法骑手。",
           "classes": [
             "malian_upgrade",
             "military_upgrade",
@@ -949,6 +977,7 @@
           "baseId": "veteran-warrior-scout",
           "type": "upgrade",
           "name": "Veteran Warrior Scout",
+          "nameCN": "老练战士侦察兵",
           "pbgid": 2073304,
           "attribName": "upgrade_unit_scout_mal_3",
           "age": 3,
@@ -956,6 +985,7 @@
             "ma"
           ],
           "description": "Upgrade Warrior Scout to Veteran Warrior Scout",
+          "descriptionCN": "将战士侦察兵升级为老练战士侦察兵",
           "classes": [
             "malian_upgrade",
             "military_upgrade",

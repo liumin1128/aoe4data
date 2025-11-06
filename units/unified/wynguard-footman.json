@@ -35,6 +35,7 @@
       "baseId": "wynguard-footman",
       "type": "unit",
       "name": "Wynguard Footman",
+      "nameCN": "温嘉德步兵",
       "pbgid": 2122350,
       "attribName": "unit_footman_wynguard_4_eng",
       "age": 4,
@@ -42,6 +43,7 @@
         "en"
       ],
       "description": "Specialized man at arms with high health and pierce armor.\n- Slow movement\n- Countered by Crossbowmen",
+      "descriptionCN": "具有高生命值和刺穿盔甲的专业武士。\n- 移动缓慢\n- 会受到弩手克制",
       "classes": [
         "armored",
         "find_non_siege_land_military",

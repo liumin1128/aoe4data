@@ -55,6 +55,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -62,6 +63,7 @@
         "ab"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -106,6 +108,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -113,6 +116,7 @@
         "ay"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -157,6 +161,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -164,6 +169,7 @@
         "by"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -208,6 +214,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -215,6 +222,7 @@
         "ch"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -259,6 +267,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 181855,
       "attribName": "upgrade_unit_archer_3_sul",
       "age": 3,
@@ -266,6 +275,7 @@
         "de"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -299,6 +309,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -306,6 +317,7 @@
         "fr"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -350,6 +362,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 136271,
       "attribName": "upgrade_unit_archer_3_mon",
       "age": 3,
@@ -357,6 +370,7 @@
         "gol"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -390,6 +404,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -397,6 +412,7 @@
         "hr"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -441,6 +457,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -448,6 +465,7 @@
         "je"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -492,6 +510,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -499,6 +518,7 @@
         "kt"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -543,6 +563,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2074106,
       "attribName": "upgrade_unit_archer_3_mal",
       "age": 3,
@@ -550,6 +571,7 @@
         "ma"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "malian_upgrade",
         "military_upgrade",
@@ -583,6 +605,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 136271,
       "attribName": "upgrade_unit_archer_3_mon",
       "age": 3,
@@ -590,6 +613,7 @@
         "mo"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -623,6 +647,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -630,6 +655,7 @@
         "ot"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -674,6 +700,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 170246,
       "attribName": "upgrade_unit_archer_3",
       "age": 3,
@@ -681,6 +708,7 @@
         "ru"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -725,6 +753,7 @@
       "baseId": "veteran-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 8222465,
       "attribName": "upgrade_unit_archer_3_sul_ha_tug",
       "age": 3,
@@ -732,6 +761,7 @@
         "tug"
       ],
       "description": "Upgrade Archers to Veteran Archers.",
+      "descriptionCN": "将步弓手升级为老练步弓手。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",

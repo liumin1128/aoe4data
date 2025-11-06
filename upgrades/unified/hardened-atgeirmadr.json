@@ -27,6 +27,7 @@
       "baseId": "hardened-atgeirmadr",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 9003583,
       "attribName": "upgrade_unit_spearman_2_byz_ha_mac",
       "age": 2,
@@ -34,6 +35,7 @@
         "mac"
       ],
       "description": "Upgrade Atgeirmaðr to Hardened Atgeirmaðr.",
+      "descriptionCN": "将阿特盖尔升级到坚韧阿特盖尔。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

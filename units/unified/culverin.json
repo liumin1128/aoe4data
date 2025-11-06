@@ -36,6 +36,7 @@
       "baseId": "culverin",
       "type": "unit",
       "name": "Culverin",
+      "nameCN": "长管炮",
       "pbgid": 199713,
       "attribName": "unit_culverin_4_abb",
       "age": 4,
@@ -43,6 +44,7 @@
         "ab"
       ],
       "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "classes": [
         "annihilation_condition",
         "culverin",
@@ -180,6 +182,7 @@
       "baseId": "culverin",
       "type": "unit",
       "name": "Culverin",
+      "nameCN": "长管炮",
       "pbgid": 3302284,
       "attribName": "unit_culverin_4_abb_ha_01",
       "age": 4,
@@ -187,6 +190,7 @@
         "ay"
       ],
       "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "classes": [
         "annihilation_condition",
         "culverin",
@@ -324,6 +328,7 @@
       "baseId": "culverin",
       "type": "unit",
       "name": "Culverin",
+      "nameCN": "长管炮",
       "pbgid": 165170,
       "attribName": "unit_culverin_4_hre",
       "age": 4,
@@ -331,6 +336,7 @@
         "hr"
       ],
       "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "classes": [
         "annihilation_condition",
         "culverin",
@@ -468,6 +474,7 @@
       "baseId": "culverin",
       "type": "unit",
       "name": "Culverin",
+      "nameCN": "长管炮",
       "pbgid": 5000108,
       "attribName": "unit_siege_culverin_4_lan",
       "age": 4,
@@ -475,6 +482,7 @@
         "hl"
       ],
       "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "classes": [
         "annihilation_condition",
         "culverin",
@@ -612,6 +620,7 @@
       "baseId": "culverin",
       "type": "unit",
       "name": "Culverin",
+      "nameCN": "长管炮",
       "pbgid": 7541634,
       "attribName": "unit_culverin_4_hre_ha_01",
       "age": 4,
@@ -619,6 +628,7 @@
         "od"
       ],
       "description": "Long-range mobile cannon with bonus vs buildings.\n+ Effective against Defenses\n+ Does not require setup to fire",
+      "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
       "classes": [
         "annihilation_condition",
         "culverin",

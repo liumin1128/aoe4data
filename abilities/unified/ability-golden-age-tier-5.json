@@ -18,6 +18,7 @@
       "baseId": "ability-golden-age-tier-5",
       "type": "ability",
       "name": "Golden Age Tier 5",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2146742,
       "attribName": "golden_age_tier_5_ha_01",
       "age": 5,
@@ -25,6 +26,7 @@
         "ay"
       ],
       "description": "75 Structures: Camel units attack 20% faster.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
       "costs": {

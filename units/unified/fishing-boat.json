@@ -55,6 +55,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 199728,
       "attribName": "unit_naval_fishing_boat_2_abb",
       "age": 2,
@@ -62,6 +63,7 @@
         "ab"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -113,6 +115,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 6306556,
       "attribName": "unit_naval_fishing_boat_2_abb_ha_01",
       "age": 2,
@@ -120,6 +123,7 @@
         "ay"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -171,6 +175,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 8626667,
       "attribName": "unit_naval_fishing_boat_2_byz",
       "age": 2,
@@ -178,6 +183,7 @@
         "by"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -229,6 +235,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193111,
       "attribName": "unit_naval_fishing_boat_2_chi",
       "age": 2,
@@ -236,6 +243,7 @@
         "ch"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -287,6 +295,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193141,
       "attribName": "unit_naval_fishing_boat_2_sul",
       "age": 2,
@@ -294,6 +303,7 @@
         "de"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n+ Fires a low damage arrow",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n+ 可射出一支伤害较低的箭矢",
       "classes": [
         "annihilation_condition",
         "fishing_ship_attack_sul",
@@ -385,6 +395,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193116,
       "attribName": "unit_naval_fishing_boat_2_eng",
       "age": 2,
@@ -392,6 +403,7 @@
         "en"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -443,6 +455,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193121,
       "attribName": "unit_naval_fishing_boat_2_fre",
       "age": 2,
@@ -450,6 +463,7 @@
         "fr"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -501,6 +515,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 2389375,
       "attribName": "unit_naval_fishing_boat_2_mon_ha_gol",
       "age": 2,
@@ -508,6 +523,7 @@
         "gol"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -559,6 +575,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193126,
       "attribName": "unit_naval_fishing_boat_2_hre",
       "age": 2,
@@ -566,6 +583,7 @@
         "hr"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -617,6 +635,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 5000130,
       "attribName": "unit_naval_fishing_boat_lan",
       "age": 1,
@@ -624,6 +643,7 @@
         "hl"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -675,6 +695,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 6326214,
       "attribName": "unit_naval_fishing_boat_2_jpn",
       "age": 2,
@@ -682,6 +703,7 @@
         "ja"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -733,6 +755,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193121,
       "attribName": "unit_naval_fishing_boat_2_fre",
       "age": 2,
@@ -740,6 +763,7 @@
         "je"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -791,6 +815,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 8999919,
       "attribName": "unit_naval_fishing_boat_2_tem",
       "age": 2,
@@ -798,6 +823,7 @@
         "kt"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -849,6 +875,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 9001025,
       "attribName": "unit_naval_fishing_boat_2_byz_ha_mac",
       "age": 2,
@@ -856,6 +883,7 @@
         "mac"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -907,6 +935,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 2553220,
       "attribName": "unit_naval_fishing_boat_2_mal",
       "age": 2,
@@ -914,6 +943,7 @@
         "ma"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "medium_ship",
@@ -965,6 +995,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 193131,
       "attribName": "unit_naval_fishing_boat_2_mon",
       "age": 2,
@@ -972,6 +1003,7 @@
         "mo"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -1023,6 +1055,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 6922142,
       "attribName": "unit_naval_fishing_boat_2_hre_ha_01",
       "age": 2,
@@ -1030,6 +1063,7 @@
         "od"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -1081,6 +1115,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 2046449,
       "attribName": "unit_naval_fishing_boat_2_ott",
       "age": 2,
@@ -1088,6 +1123,7 @@
         "ot"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "military",
@@ -1140,6 +1176,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 2206733,
       "attribName": "unit_naval_fishing_boat_2_jpn_ha_sen",
       "age": 2,
@@ -1147,6 +1184,7 @@
         "sen"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",
@@ -1198,6 +1236,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 7003469,
       "attribName": "unit_naval_fishing_boat_2_sul_ha_tug",
       "age": 2,
@@ -1205,6 +1244,7 @@
         "tug"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n+ Fires a low damage arrow",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n+ 可射出一支伤害较低的箭矢",
       "classes": [
         "annihilation_condition",
         "fishing_ship_attack_sul",
@@ -1296,6 +1336,7 @@
       "baseId": "fishing-boat",
       "type": "unit",
       "name": "Fishing Boat",
+      "nameCN": "渔船",
       "pbgid": 3615217,
       "attribName": "unit_naval_fishing_boat_2_chi_ha_01",
       "age": 2,
@@ -1303,6 +1344,7 @@
         "zx"
       ],
       "description": "Small boat that gathers Food from either Deep Water Fish or Shoreline Fish. Drops off gathered resources at the Dock.\n+ Can repair\n- No combat",
+      "descriptionCN": "从深海鱼群或海岸鱼群采集食物的小型船只。在码头处存放采集到的资源。\n+ 可以修理\n- 不具备战斗能力",
       "classes": [
         "annihilation_condition",
         "naval_fishing_ship",

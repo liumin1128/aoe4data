@@ -27,6 +27,7 @@
       "baseId": "cloud-of-terror",
       "type": "technology",
       "name": "Cloud of Terror",
+      "nameCN": "恐怖之云",
       "pbgid": 2127461,
       "attribName": "upgrade_library_siege_works",
       "age": 4,
@@ -34,6 +35,7 @@
         "zx"
       ],
       "description": "Adds area of effect damage to Bombards.",
+      "descriptionCN": "增加手推炮的范围伤害。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

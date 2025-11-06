@@ -27,6 +27,7 @@
       "baseId": "elite-yeomen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 5000159,
       "attribName": "upgrade_unit_yeoman_4_lan",
       "age": 4,
@@ -34,6 +35,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Yeomen to Elite Yeomen.",
+      "descriptionCN": "将老练英皇侍卫升级为精锐英皇侍卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

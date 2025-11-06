@@ -18,6 +18,7 @@
       "baseId": "ability-nock-your-arrows",
       "type": "ability",
       "name": "Nock your arrows!",
+      "nameCN": "架弓！",
       "pbgid": 2127666,
       "attribName": "jeanne_d_arc_rallying_call_archers_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne calls 2/4/6 Archers to her side. Rallies 2 additional Archers if used on a Neutral Settlement.",
+      "descriptionCN": "贞德召唤 2/4/6 名步弓手到她身边。在中立聚落使用时，可额外多召唤 2 名步弓兵。",
       "classes": [],
       "displayClasses": [],
       "costs": {

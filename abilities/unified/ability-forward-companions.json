@@ -18,6 +18,7 @@
       "baseId": "ability-forward-companions",
       "type": "ability",
       "name": "Forward, companions!",
+      "nameCN": "同伴们，前进！",
       "pbgid": 2127665,
       "attribName": "jeanne_d_arc_rallying_call_knights_fre_ha_01",
       "age": 1,
@@ -25,6 +26,7 @@
         "je"
       ],
       "description": "Jeanne calls 3/6 Knights to her side. Rallies 2 additional Knights if used on a Neutral Settlement.",
+      "descriptionCN": "贞德在其身边召唤 3/6 名骑士。若使用地点为中立聚落，则可额外召唤 2 名骑士。",
       "classes": [],
       "displayClasses": [],
       "costs": {

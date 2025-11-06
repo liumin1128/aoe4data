@@ -36,6 +36,7 @@
       "baseId": "yuan-raider",
       "type": "unit",
       "name": "Yuan Raider",
+      "nameCN": "元朝掠夺者",
       "pbgid": 2143640,
       "attribName": "unit_yuan_guard_4_chi_ha_01",
       "age": 4,
@@ -43,6 +44,7 @@
         "zx"
       ],
       "description": "Extremely swift light cavalry which deals bonus damage to economic units.\n+ Fast move speed\n+ Bonus damage vs Villagers\n- Weak in melee combat\n- Countered by Spearmen\n\nRequires Dynastic Protectors researched at Zhu Xi's Library.",
+      "descriptionCN": "高度机动的轻型骑兵，可对经济单位造成额外伤害。\n+ 快速移动能力\n+ 对村民造成额外伤害\n- 不擅近战\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

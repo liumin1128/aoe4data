@@ -21,6 +21,7 @@
       "baseId": "earthen-core-walls",
       "type": "technology",
       "name": "Earthen Core Walls",
+      "nameCN": "土芯墙",
       "pbgid": 9004430,
       "attribName": "upgrade_defensive_improvement_mon_ha_gol",
       "age": 3,
@@ -28,6 +29,7 @@
         "gol"
       ],
       "description": "Increase Fortified Outpost and Palisade fire armor by +3 and health by +300.",
+      "descriptionCN": "强化哨站和木栅栏火焰护甲 +3，生命值 +300。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"

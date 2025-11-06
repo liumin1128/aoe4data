@@ -37,6 +37,7 @@
       "baseId": "teutonic-knight",
       "type": "unit",
       "name": "Teutonic Knight",
+      "nameCN": "条顿骑士",
       "pbgid": 8999913,
       "attribName": "unit_teutonic_knight_4_tem",
       "age": 4,
@@ -44,6 +45,7 @@
         "kt"
       ],
       "description": "Extremely powerful and Expensive Heavy Infantry. Lowers the armor of nearby enemy units. Becomes more powerful after defeating an enemy.\n+ Excellent in melee combat\n- Weak to Crossbowmen\n- Low Mobility",
+      "descriptionCN": "极其强大且昂贵的重装步兵。能降低附近敌方单位的护甲。击败敌人后会变得更加强大。\n+ 非常擅长近战战斗\n- 不擅长对付弩手\n- 机动性低",
       "classes": [
         "annihilation_condition",
         "armored",

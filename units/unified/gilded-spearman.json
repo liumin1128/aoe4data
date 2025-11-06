@@ -36,6 +36,7 @@
       "baseId": "gilded-spearman",
       "type": "unit",
       "name": "Gilded Spearman",
+      "nameCN": "镀金长矛兵",
       "pbgid": 3735944,
       "attribName": "unit_spearman_1_hre_ha_01",
       "age": 1,
@@ -43,6 +44,7 @@
         "od"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -180,6 +182,7 @@
       "baseId": "gilded-spearman",
       "type": "unit",
       "name": "Hardened Gilded Spearman",
+      "nameCN": "坚韧镀金长矛兵",
       "pbgid": 3834129,
       "attribName": "unit_spearman_2_hre_ha_01",
       "age": 2,
@@ -187,6 +190,7 @@
         "od"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -324,6 +328,7 @@
       "baseId": "gilded-spearman",
       "type": "unit",
       "name": "Veteran Gilded Spearman",
+      "nameCN": "老练镀金长矛兵",
       "pbgid": 4502609,
       "attribName": "unit_spearman_3_hre_ha_01",
       "age": 3,
@@ -331,6 +336,7 @@
         "od"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -468,6 +474,7 @@
       "baseId": "gilded-spearman",
       "type": "unit",
       "name": "Elite Gilded Spearman",
+      "nameCN": "精锐镀金长矛兵",
       "pbgid": 7605490,
       "attribName": "unit_spearman_4_hre_ha_01",
       "age": 4,
@@ -475,6 +482,7 @@
         "od"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

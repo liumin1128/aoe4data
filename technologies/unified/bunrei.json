@@ -28,6 +28,7 @@
       "baseId": "bunrei",
       "type": "technology",
       "name": "Bunrei",
+      "nameCN": "分灵",
       "pbgid": 2157994,
       "attribName": "upgrade_shrine_bunrei_jpn",
       "age": 4,
@@ -35,6 +36,7 @@
         "ja"
       ],
       "description": "Increases the maximum number of Yorishiro by +2. Immediately produces 2 Yorishiro at the Floating Gate.",
+      "descriptionCN": "将依代的最大数量增加 +2。立即在水上鸟居产生 2 依代。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

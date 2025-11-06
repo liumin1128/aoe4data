@@ -35,6 +35,7 @@
       "baseId": "the-silver-tree",
       "type": "building",
       "name": "The Silver Tree",
+      "nameCN": "银之树",
       "pbgid": 136385,
       "attribName": "building_wonder_age2_karakorum_mon",
       "age": 1,
@@ -42,6 +43,7 @@
         "mo"
       ],
       "description": "Acts as a Market. Production speed of Traders increased by +40% with a -40% reduced Gold cost.",
+      "descriptionCN": "可作为市场使用。贸易商的生产速度提高+40%，黄金成本降低-40%。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",

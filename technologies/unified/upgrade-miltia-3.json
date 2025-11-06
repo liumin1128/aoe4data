@@ -25,6 +25,7 @@
       "baseId": "upgrade-miltia-3",
       "type": "technology",
       "name": "Castle Age Militia",
+      "nameCN": "(translation not found) (undefined)",
       "pbgid": 2124314,
       "attribName": "upgrade_militia_3",
       "age": 3,
@@ -32,6 +33,7 @@
         "ru"
       ],
       "description": "Increases the health, attack and armor of Militia when reaching Castle Age.",
+      "descriptionCN": "(translation not found) (undefined)",
       "classes": [
         "Militia",
         "scaling",

@@ -26,6 +26,7 @@
       "baseId": "rhomphaia",
       "type": "technology",
       "name": "Rhomphaia",
+      "nameCN": "长柄逆刃刀",
       "pbgid": 9002991,
       "attribName": "upgrade_rhomphaia_byz_ha_mac",
       "age": 3,
@@ -33,6 +34,7 @@
         "mac"
       ],
       "description": "Varangian Guards and Riddari equip a powerful Rhomphaia sword, increasing light infantry damage of Guards by 3, and damage of Riddari by 3.",
+      "descriptionCN": "瓦兰吉卫队和瑞塔利装备了威力强大的长柄逆刃刀，使卫队轻型步兵的伤害 +3，瑞塔利的伤害 +3。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

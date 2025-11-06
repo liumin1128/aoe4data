@@ -53,6 +53,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 199736,
       "attribName": "unit_spearman_1_abb",
       "age": 1,
@@ -60,6 +61,7 @@
         "ab"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -191,6 +193,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 199738,
       "attribName": "unit_spearman_2_abb",
       "age": 2,
@@ -198,6 +201,7 @@
         "ab"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -329,6 +333,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 199740,
       "attribName": "unit_spearman_3_abb",
       "age": 3,
@@ -336,6 +341,7 @@
         "ab"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -467,6 +473,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 199742,
       "attribName": "unit_spearman_4_abb",
       "age": 4,
@@ -474,6 +481,7 @@
         "ab"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -605,6 +613,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 6832042,
       "attribName": "unit_spearman_1_abb_ha_01",
       "age": 1,
@@ -612,6 +621,7 @@
         "ay"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -743,6 +753,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 8681000,
       "attribName": "unit_spearman_2_abb_ha_01",
       "age": 2,
@@ -750,6 +761,7 @@
         "ay"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -881,6 +893,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 2191193,
       "attribName": "unit_spearman_3_abb_ha_01",
       "age": 3,
@@ -888,6 +901,7 @@
         "ay"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1019,6 +1033,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 5864359,
       "attribName": "unit_spearman_4_abb_ha_01",
       "age": 4,
@@ -1026,6 +1041,7 @@
         "ay"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1157,6 +1173,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 143708,
       "attribName": "unit_spearman_1_chi",
       "age": 1,
@@ -1164,6 +1181,7 @@
         "ch"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1295,6 +1313,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 143710,
       "attribName": "unit_spearman_2_chi",
       "age": 2,
@@ -1302,6 +1321,7 @@
         "ch"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1433,6 +1453,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 143712,
       "attribName": "unit_spearman_3_chi",
       "age": 3,
@@ -1440,6 +1461,7 @@
         "ch"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1571,6 +1593,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 143714,
       "attribName": "unit_spearman_4_chi",
       "age": 4,
@@ -1578,6 +1601,7 @@
         "ch"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1709,6 +1733,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 136069,
       "attribName": "unit_spearman_1_sul",
       "age": 1,
@@ -1716,6 +1741,7 @@
         "de"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1847,6 +1873,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 136071,
       "attribName": "unit_spearman_2_sul",
       "age": 2,
@@ -1854,6 +1881,7 @@
         "de"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -1985,6 +2013,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 136073,
       "attribName": "unit_spearman_3_sul",
       "age": 3,
@@ -1992,6 +2021,7 @@
         "de"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2123,6 +2153,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 136075,
       "attribName": "unit_spearman_4_sul",
       "age": 4,
@@ -2130,6 +2161,7 @@
         "de"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2261,6 +2293,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 166417,
       "attribName": "unit_spearman_2_eng",
       "age": 2,
@@ -2268,6 +2301,7 @@
         "en"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2402,6 +2436,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 166419,
       "attribName": "unit_spearman_3_eng",
       "age": 3,
@@ -2409,6 +2444,7 @@
         "en"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2543,6 +2579,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 166421,
       "attribName": "unit_spearman_4_eng",
       "age": 4,
@@ -2550,6 +2587,7 @@
         "en"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2684,6 +2722,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 132299,
       "attribName": "unit_spearman_1_fre",
       "age": 1,
@@ -2691,6 +2730,7 @@
         "fr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2822,6 +2862,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 132301,
       "attribName": "unit_spearman_2_fre",
       "age": 2,
@@ -2829,6 +2870,7 @@
         "fr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -2960,6 +3002,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 132303,
       "attribName": "unit_spearman_3_fre",
       "age": 3,
@@ -2967,6 +3010,7 @@
         "fr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3098,6 +3142,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 132305,
       "attribName": "unit_spearman_4_fre",
       "age": 4,
@@ -3105,6 +3150,7 @@
         "fr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3236,6 +3282,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 7478510,
       "attribName": "unit_spearman_1_mon_ha_gol",
       "age": 1,
@@ -3243,6 +3290,7 @@
         "gol"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3374,6 +3422,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 2272343,
       "attribName": "unit_spearman_2_mon_ha_gol",
       "age": 2,
@@ -3381,6 +3430,7 @@
         "gol"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3512,6 +3562,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 8136891,
       "attribName": "unit_spearman_3_mon_ha_gol",
       "age": 3,
@@ -3519,6 +3570,7 @@
         "gol"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3650,6 +3702,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 4618916,
       "attribName": "unit_spearman_4_mon_ha_gol",
       "age": 4,
@@ -3657,6 +3710,7 @@
         "gol"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3788,6 +3842,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 134743,
       "attribName": "unit_spearman_1_hre",
       "age": 1,
@@ -3795,6 +3850,7 @@
         "hr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -3927,6 +3983,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 134745,
       "attribName": "unit_spearman_2_hre",
       "age": 2,
@@ -3934,6 +3991,7 @@
         "hr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4066,6 +4124,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 134747,
       "attribName": "unit_spearman_3_hre",
       "age": 3,
@@ -4073,6 +4132,7 @@
         "hr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4205,6 +4265,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 134749,
       "attribName": "unit_spearman_4_hre",
       "age": 4,
@@ -4212,6 +4273,7 @@
         "hr"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4344,6 +4406,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 5000077,
       "attribName": "unit_spearman_1_lan",
       "age": 1,
@@ -4351,6 +4414,7 @@
         "hl"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4533,6 +4597,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 5000076,
       "attribName": "unit_spearman_2_lan",
       "age": 2,
@@ -4540,6 +4605,7 @@
         "hl"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4722,6 +4788,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 5000078,
       "attribName": "unit_spearman_3_lan",
       "age": 3,
@@ -4729,6 +4796,7 @@
         "hl"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -4911,6 +4979,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 5000079,
       "attribName": "unit_spearman_4_lan",
       "age": 4,
@@ -4918,6 +4987,7 @@
         "hl"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5100,6 +5170,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 4830033,
       "attribName": "unit_spearman_1_jpn",
       "age": 1,
@@ -5107,6 +5178,7 @@
         "ja"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5238,6 +5310,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 3688536,
       "attribName": "unit_spearman_2_jpn",
       "age": 2,
@@ -5245,6 +5318,7 @@
         "ja"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5376,6 +5450,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 6201479,
       "attribName": "unit_spearman_3_jpn",
       "age": 3,
@@ -5383,6 +5458,7 @@
         "ja"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5514,6 +5590,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 6816972,
       "attribName": "unit_spearman_4_jpn",
       "age": 4,
@@ -5521,6 +5598,7 @@
         "ja"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5652,6 +5730,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 132299,
       "attribName": "unit_spearman_1_fre",
       "age": 1,
@@ -5659,6 +5738,7 @@
         "je"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5790,6 +5870,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 132301,
       "attribName": "unit_spearman_2_fre",
       "age": 2,
@@ -5797,6 +5878,7 @@
         "je"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -5928,6 +6010,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 132303,
       "attribName": "unit_spearman_3_fre",
       "age": 3,
@@ -5935,6 +6018,7 @@
         "je"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6066,6 +6150,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 132305,
       "attribName": "unit_spearman_4_fre",
       "age": 4,
@@ -6073,6 +6158,7 @@
         "je"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6204,6 +6290,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 8999940,
       "attribName": "unit_spearman_1_tem",
       "age": 1,
@@ -6211,6 +6298,7 @@
         "kt"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6342,6 +6430,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 8999943,
       "attribName": "unit_spearman_2_tem",
       "age": 2,
@@ -6349,6 +6438,7 @@
         "kt"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6480,6 +6570,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 8999941,
       "attribName": "unit_spearman_3_tem",
       "age": 3,
@@ -6487,6 +6578,7 @@
         "kt"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6618,6 +6710,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 8999942,
       "attribName": "unit_spearman_4_tem",
       "age": 4,
@@ -6625,6 +6718,7 @@
         "kt"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6756,6 +6850,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 136239,
       "attribName": "unit_spearman_1_mon",
       "age": 1,
@@ -6763,6 +6858,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -6894,6 +6990,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 129597,
       "attribName": "unit_spearman_2_mon",
       "age": 2,
@@ -6901,6 +6998,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7032,6 +7130,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 129598,
       "attribName": "unit_spearman_3_mon",
       "age": 3,
@@ -7039,6 +7138,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7170,6 +7270,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 136261,
       "attribName": "unit_spearman_4_mon",
       "age": 4,
@@ -7177,6 +7278,7 @@
         "mo"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7308,6 +7410,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 2046458,
       "attribName": "unit_spearman_1_ott",
       "age": 1,
@@ -7315,6 +7418,7 @@
         "ot"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7447,6 +7551,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 2046460,
       "attribName": "unit_spearman_2_ott",
       "age": 2,
@@ -7454,6 +7559,7 @@
         "ot"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7586,6 +7692,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 2046462,
       "attribName": "unit_spearman_3_ott",
       "age": 3,
@@ -7593,6 +7700,7 @@
         "ot"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7725,6 +7833,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 2046464,
       "attribName": "unit_spearman_4_ott",
       "age": 4,
@@ -7732,6 +7841,7 @@
         "ot"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -7864,6 +7974,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 133481,
       "attribName": "unit_spearman_1_rus",
       "age": 1,
@@ -7871,6 +7982,7 @@
         "ru"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8002,6 +8114,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 133483,
       "attribName": "unit_spearman_2_rus",
       "age": 2,
@@ -8009,6 +8122,7 @@
         "ru"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8140,6 +8254,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 133485,
       "attribName": "unit_spearman_3_rus",
       "age": 3,
@@ -8147,6 +8262,7 @@
         "ru"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8278,6 +8394,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 133487,
       "attribName": "unit_spearman_4_rus",
       "age": 4,
@@ -8285,6 +8402,7 @@
         "ru"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8416,6 +8534,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 7244753,
       "attribName": "unit_spearman_1_jpn_ha_sen",
       "age": 1,
@@ -8423,6 +8542,7 @@
         "sen"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8554,6 +8674,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 3241548,
       "attribName": "unit_spearman_2_jpn_ha_sen",
       "age": 2,
@@ -8561,6 +8682,7 @@
         "sen"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8692,6 +8814,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 7702892,
       "attribName": "unit_spearman_3_jpn_ha_sen",
       "age": 3,
@@ -8699,6 +8822,7 @@
         "sen"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8830,6 +8954,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 6399512,
       "attribName": "unit_spearman_4_jpn_ha_sen",
       "age": 4,
@@ -8837,6 +8962,7 @@
         "sen"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -8968,6 +9094,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 3084582,
       "attribName": "unit_spearman_1_sul_ha_tug",
       "age": 1,
@@ -8975,6 +9102,7 @@
         "tug"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9106,6 +9234,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 3047260,
       "attribName": "unit_spearman_2_sul_ha_tug",
       "age": 2,
@@ -9113,6 +9242,7 @@
         "tug"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9244,6 +9374,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 6458746,
       "attribName": "unit_spearman_3_sul_ha_tug",
       "age": 3,
@@ -9251,6 +9382,7 @@
         "tug"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9382,6 +9514,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 8486447,
       "attribName": "unit_spearman_4_sul_ha_tug",
       "age": 4,
@@ -9389,6 +9522,7 @@
         "tug"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9520,6 +9654,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Spearman",
+      "nameCN": "长矛兵",
       "pbgid": 5551219,
       "attribName": "unit_spearman_1_chi_ha_01",
       "age": 1,
@@ -9527,6 +9662,7 @@
         "zx"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9710,6 +9846,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Hardened Spearman",
+      "nameCN": "坚韧长矛兵",
       "pbgid": 6749113,
       "attribName": "unit_spearman_2_chi_ha_01",
       "age": 2,
@@ -9717,6 +9854,7 @@
         "zx"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -9900,6 +10038,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Veteran Spearman",
+      "nameCN": "老练长矛兵",
       "pbgid": 8693055,
       "attribName": "unit_spearman_3_chi_ha_01",
       "age": 3,
@@ -9907,6 +10046,7 @@
         "zx"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",
@@ -10090,6 +10230,7 @@
       "baseId": "spearman",
       "type": "unit",
       "name": "Elite Spearman",
+      "nameCN": "精锐长矛兵",
       "pbgid": 4109073,
       "attribName": "unit_spearman_4_chi_ha_01",
       "age": 4,
@@ -10097,6 +10238,7 @@
         "zx"
       ],
       "description": "Infantry best used against mounted units.\n+ Anti-cavalry specialist\n+ Additional damage against Elephants\n- Weak against heavy infantry\n- Countered by Archers",
+      "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
       "classes": [
         "annihilation_condition",
         "find_non_siege_land_military",

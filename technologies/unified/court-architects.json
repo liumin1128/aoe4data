@@ -63,6 +63,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -70,6 +71,7 @@
         "ab"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -138,6 +140,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -145,6 +148,7 @@
         "ay"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -213,6 +217,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -220,6 +225,7 @@
         "by"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -288,6 +294,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -295,6 +302,7 @@
         "ch"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -363,6 +371,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 2108028,
       "attribName": "upgrade_tech_university_architecture_compound_sul",
       "age": 3,
@@ -370,6 +379,7 @@
         "de"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "military_upgrade",
         "sultinate_upgrade"
@@ -420,6 +430,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 181942,
       "attribName": "upgrade_tech_university_architecture_4_sul",
       "age": 4,
@@ -427,6 +438,7 @@
         "de"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -481,6 +493,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -488,6 +501,7 @@
         "en"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -556,6 +570,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -563,6 +578,7 @@
         "fr"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -631,6 +647,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 9003022,
       "attribName": "upgrade_tech_university_architecture_4_mon_ha_gol",
       "age": 4,
@@ -638,6 +655,7 @@
         "gol"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -706,6 +724,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -713,6 +732,7 @@
         "hr"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -781,6 +801,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -788,6 +809,7 @@
         "hl"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -856,6 +878,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -863,6 +886,7 @@
         "ja"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -931,6 +955,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -938,6 +963,7 @@
         "je"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1006,6 +1032,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1013,6 +1040,7 @@
         "kt"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1081,6 +1109,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1088,6 +1117,7 @@
         "ma"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1156,6 +1186,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1163,6 +1194,7 @@
         "mo"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1232,6 +1264,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1239,6 +1272,7 @@
         "od"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1307,6 +1341,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1314,6 +1349,7 @@
         "ot"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1383,6 +1419,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1390,6 +1427,7 @@
         "ru"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1458,6 +1496,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1465,6 +1504,7 @@
         "sen"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1533,6 +1573,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 7229437,
       "attribName": "upgrade_tech_university_architecture_4_sul_ha_tug",
       "age": 4,
@@ -1540,6 +1581,7 @@
         "tug"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1594,6 +1636,7 @@
       "baseId": "court-architects",
       "type": "technology",
       "name": "Court Architects",
+      "nameCN": "宫廷建筑师",
       "pbgid": 128427,
       "attribName": "upgrade_tech_university_architecture_4",
       "age": 4,
@@ -1601,6 +1644,7 @@
         "zx"
       ],
       "description": "Patronage of the finest builders increases all building health by +30%.",
+      "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

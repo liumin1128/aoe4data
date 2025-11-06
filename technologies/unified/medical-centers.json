@@ -27,6 +27,7 @@
       "baseId": "medical-centers",
       "type": "technology",
       "name": "Medical Centers",
+      "nameCN": "医疗中心",
       "pbgid": 201794,
       "attribName": "upgrade_cul_medical_centers_abb",
       "age": 3,
@@ -34,6 +35,7 @@
         "ab"
       ],
       "description": "Town Centers and Keeps heal nearby units for +2 health every 1 second.",
+      "descriptionCN": "城镇中心和城堡可治疗附近单位，每 1 秒恢复其 +2 的生命值。",
       "classes": [
         "abbasid_upgrade",
         "scar_castle_age_upgrade",

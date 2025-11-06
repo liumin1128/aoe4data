@@ -27,6 +27,7 @@
       "baseId": "battle-hardened",
       "type": "technology",
       "name": "Battle Hardened",
+      "nameCN": "身经百战",
       "pbgid": 182889,
       "attribName": "upgrade_manatarms_battle_hardened_chi",
       "age": 4,
@@ -34,6 +35,7 @@
         "ch"
       ],
       "description": "Increase the health of Palace Guards by +30.",
+      "descriptionCN": "皇宫卫兵的生命值 +30。",
       "classes": [
         "chinese_upgrade",
         "military_upgrade",

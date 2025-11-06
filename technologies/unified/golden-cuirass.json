@@ -23,6 +23,7 @@
       "baseId": "golden-cuirass",
       "type": "technology",
       "name": "Golden Cuirass",
+      "nameCN": "黄金胸甲",
       "pbgid": 2140670,
       "attribName": "upgrade_golden_cuirass_hre_ha_01",
       "age": 2,
@@ -30,6 +31,7 @@
         "od"
       ],
       "description": "Gilded Men-at-Arms who fall below 20% health take -20% damage.",
+      "descriptionCN": "镀金武士在生命值低于 20% 时，受到的伤害 -20%。",
       "classes": [
         "military_upgrade"
       ],

@@ -38,6 +38,7 @@
           "baseId": "elite-atgeirmadr",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9003586,
           "attribName": "upgrade_unit_spearman_4_byz_ha_mac",
           "age": 4,
@@ -45,6 +46,7 @@
             "mac"
           ],
           "description": "Upgrade Veteran Atgeirmaðr to Elite Atgeirmaðr.",
+          "descriptionCN": "将老练阿特盖尔升级到精锐阿特盖尔。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -103,6 +105,7 @@
           "baseId": "elite-bogmadr",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001738,
           "attribName": "upgrade_unit_archer_4_byz_ha_mac",
           "age": 4,
@@ -110,6 +113,7 @@
             "mac"
           ],
           "description": "Upgrade Veteran Bogmaðr to Elite Bogmaðr.",
+          "descriptionCN": "将老练波莫升级为精锐波莫。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -177,6 +181,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124651,
           "attribName": "upgrade_unit_crossbowman_4",
           "age": 4,
@@ -184,6 +189,7 @@
             "mac"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -264,6 +270,7 @@
           "baseId": "elite-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124725,
           "attribName": "upgrade_unit_horseman_4",
           "age": 4,
@@ -271,6 +278,7 @@
             "mac"
           ],
           "description": "Upgrade Veteran Horsemen to Elite Horsemen.",
+          "descriptionCN": "将老练骑手升级为精锐骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -343,6 +351,7 @@
           "baseId": "elite-varangian-guards",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001732,
           "attribName": "upgrade_unit_manatarms_4_byz_ha_mac",
           "age": 4,
@@ -350,6 +359,7 @@
             "mac"
           ],
           "description": "Upgrade Varangian Guards to Elite Varangian Guards.",
+          "descriptionCN": "将瓦兰吉卫队升级为精锐瓦兰吉卫队。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -408,6 +418,7 @@
           "baseId": "hardened-atgeirmadr",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 9003583,
           "attribName": "upgrade_unit_spearman_2_byz_ha_mac",
           "age": 2,
@@ -415,6 +426,7 @@
             "mac"
           ],
           "description": "Upgrade Atgeirmaðr to Hardened Atgeirmaðr.",
+          "descriptionCN": "将阿特盖尔升级到坚韧阿特盖尔。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -473,6 +485,7 @@
           "baseId": "upgrade-riddari-into-elite-riddari",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9001740,
           "attribName": "upgrade_unit_knight_4_byz_ha_mac",
           "age": 4,
@@ -480,6 +493,7 @@
             "mac"
           ],
           "description": "Upgrade Riddari into Elite Riddari.",
+          "descriptionCN": "将瑞塔利升级为精锐瑞塔利。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -539,6 +553,7 @@
           "baseId": "varangian-guards",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9001739,
           "attribName": "upgrade_unit_manatarms_3_byz_ha_mac",
           "age": 3,
@@ -546,6 +561,7 @@
             "mac"
           ],
           "description": "Upgrade Early Varangian Guards to Varangian Guards.",
+          "descriptionCN": "将早期瓦兰吉卫队升级为瓦兰吉卫队。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -604,6 +620,7 @@
           "baseId": "veteran-atgeirmadr",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9003585,
           "attribName": "upgrade_unit_spearman_3_byz_ha_mac",
           "age": 3,
@@ -611,6 +628,7 @@
             "mac"
           ],
           "description": "Upgrade Hardened Atgeirmaðr to Veteran Atgeirmaðr.",
+          "descriptionCN": "将坚韧阿特盖尔升级到老练阿特盖尔。",
           "classes": [
             "byzantine_upgrade",
             "military_upgrade",
@@ -669,6 +687,7 @@
           "baseId": "veteran-bogmadr",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9001737,
           "attribName": "upgrade_unit_archer_3_byz_ha_mac",
           "age": 3,
@@ -676,6 +695,7 @@
             "mac"
           ],
           "description": "Upgrade Bogmaðr to Veteran Bogmaðr.",
+          "descriptionCN": "将波莫升级为老练波莫。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -747,6 +767,7 @@
           "baseId": "veteran-horsemen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124723,
           "attribName": "upgrade_unit_horseman_3",
           "age": 3,
@@ -754,6 +775,7 @@
             "mac"
           ],
           "description": "Upgrade Horsemen to Veteran Horsemen.",
+          "descriptionCN": "将骑手升级为老练骑手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",

@@ -18,6 +18,7 @@
       "baseId": "ability-supervise",
       "type": "ability",
       "name": "Supervise",
+      "nameCN": "监督",
       "pbgid": 182138,
       "attribName": "official_supervise_building_target_chi",
       "age": 1,
@@ -25,6 +26,7 @@
         "zx"
       ],
       "description": "Supervise a research, production, or drop-off building with an Imperial Official to make it work 150% faster. Resource drop-off buildings receive 20% more resources. Cannot be used on Landmarks, Town Centers, or Docks.",
+      "descriptionCN": "使用朝廷命官监督研究、生产或存放建筑，使其工作速度提升 150%。存放资源的建筑可多接收 20% 资源。无法用于地标、城镇中心或码头。",
       "classes": [],
       "displayClasses": [],
       "costs": {

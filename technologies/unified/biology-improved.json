@@ -28,6 +28,7 @@
       "baseId": "biology-improved",
       "type": "technology",
       "name": "Biology (Improved)",
+      "nameCN": "生物学 (已强化)",
       "pbgid": 188502,
       "attribName": "upgrade_tech_university_biology_improved_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Investing in natural sciences increases the health of all cavalry by +35%.\nIf Biology has already been researched, increase it by +10% instead.",
+      "descriptionCN": "投资自然科学可使所有骑兵的生命值 +35%。\n如果已完成生物学研究，则 +10%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

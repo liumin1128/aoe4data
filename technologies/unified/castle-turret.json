@@ -25,6 +25,7 @@
       "baseId": "castle-turret",
       "type": "technology",
       "name": "Castle Turret",
+      "nameCN": "城堡炮塔",
       "pbgid": 135071,
       "attribName": "upgrade_wooden_castle_turret_rus",
       "age": 2,
@@ -32,6 +33,7 @@
         "ru"
       ],
       "description": "Increase the damage of arrows fired from this Wooden Fortress by +2.",
+      "descriptionCN": "此木制要塞发射的箭矢伤害 +2。",
       "classes": [
         "emplacement_upgrade",
         "military_upgrade",

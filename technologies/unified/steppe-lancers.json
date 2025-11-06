@@ -26,6 +26,7 @@
       "baseId": "steppe-lancers",
       "type": "technology",
       "name": "Steppe Lancers",
+      "nameCN": "草原长矛骑兵",
       "pbgid": 2137100,
       "attribName": "upgrade_lancer_healing_mon",
       "age": 3,
@@ -33,6 +34,7 @@
         "mo"
       ],
       "description": "Increase Keshik healing by +1 Health per attack and attack speed by +10%.",
+      "descriptionCN": "每次攻击怯薛骑兵恢复的生命值提升 +1，攻击速度增加 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",

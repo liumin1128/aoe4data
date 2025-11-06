@@ -27,6 +27,7 @@
       "baseId": "veteran-atgeirmadr",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 9003585,
       "attribName": "upgrade_unit_spearman_3_byz_ha_mac",
       "age": 3,
@@ -34,6 +35,7 @@
         "mac"
       ],
       "description": "Upgrade Hardened Atgeirmaðr to Veteran Atgeirmaðr.",
+      "descriptionCN": "将坚韧阿特盖尔升级到老练阿特盖尔。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

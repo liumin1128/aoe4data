@@ -18,6 +18,7 @@
       "baseId": "ability-berserking",
       "type": "ability",
       "name": "Berserking",
+      "nameCN": "狂战士",
       "pbgid": 2104590,
       "attribName": "varangian_berserk_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Varangian Guard swap to their two-handed weapon and deal +6 damage for 30 seconds. Armor is reduced by -4.",
+      "descriptionCN": "瓦兰吉卫队换用他们的双手武器，可造成 +6 伤害，持续 30 秒。护甲防护 -4。",
       "classes": [],
       "displayClasses": [],
       "costs": {

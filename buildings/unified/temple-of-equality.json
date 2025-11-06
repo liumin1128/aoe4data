@@ -35,6 +35,7 @@
       "baseId": "temple-of-equality",
       "type": "building",
       "name": "Temple of Equality",
+      "nameCN": "平等院",
       "pbgid": 2122034,
       "attribName": "building_landmark_age2_buddhist_jpn",
       "age": 2,
@@ -42,6 +43,7 @@
         "ja"
       ],
       "description": "Produces Buddhist Monks and contains unique Buddhist technologies. Buddhist Monks provide support in combat by decreasing enemy damage with Sohei's Sutra and by enhancing damage of allies with Buddhist Conversion.\n \nAlso allows construction of 4 additional Buddhist Temples.",
+      "descriptionCN": "生产佛教僧侣，并包含独特的佛教科技。佛教僧侣可以在战斗中提供支持，可施放僧兵经文降低敌人带来的伤害，并用佛教皈依来增强盟友带来的伤害。\n \n另外可以建造 4 座额外的佛教寺庙。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -99,6 +101,7 @@
       "baseId": "temple-of-equality",
       "type": "building",
       "name": "Temple of Equality",
+      "nameCN": "平等院",
       "pbgid": 6326487,
       "attribName": "building_landmark_age2_buddhist_jpn_ha_sen",
       "age": 2,
@@ -106,6 +109,7 @@
         "sen"
       ],
       "description": "Acts as a Buddhist Temple that contains unique Ikko-ikki upgrades. Reduces the cost of training Ikko-ikki monks by 25%.",
+      "descriptionCN": "可作为佛教寺庙使用，其中包含独特的一向一揆升级。可将一向一揆僧侣的训练成本降低 25%。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",

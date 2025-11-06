@@ -32,6 +32,7 @@
       "baseId": "traction-trebuchet",
       "type": "unit",
       "name": "Traction Trebuchet",
+      "nameCN": "牵引式巨型投石机",
       "pbgid": 6195268,
       "attribName": "unit_trebuchet_4_tr_mon_ha_gol",
       "age": 3,
@@ -39,6 +40,7 @@
         "gol"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a long distance.\n+ Bonus damage vs buildings\n+ High mobility\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从远距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n+ 高机动性\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",
@@ -148,6 +150,7 @@
       "baseId": "traction-trebuchet",
       "type": "unit",
       "name": "Traction Trebuchet",
+      "nameCN": "牵引式巨型投石机",
       "pbgid": 171143,
       "attribName": "unit_trebuchet_4_tr_mon",
       "age": 3,
@@ -155,6 +158,7 @@
         "mo"
       ],
       "description": "Powerful siege engine effective at destroying buildings and walls over a long distance.\n+ Bonus damage vs buildings\n+ High mobility\n- Must be set up to fire\n- Inaccurate against units",
+      "descriptionCN": "强大的攻城器械，擅长从远距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n+ 高机动性\n- 必须架设才能开火\n- 无法精准命中单位",
       "classes": [
         "annihilation_condition",
         "catapult",

@@ -29,6 +29,7 @@
       "baseId": "liquid-explosives",
       "type": "technology",
       "name": "Liquid Explosives",
+      "nameCN": "液体炸药",
       "pbgid": 2145611,
       "attribName": "upgrade_fireship_liquid_explosives_byz",
       "age": 3,
@@ -36,6 +37,7 @@
         "by"
       ],
       "description": "Incendiary Ships deal full damage to all enemies in their explosion radius.",
+      "descriptionCN": "燃烧船可对爆炸范围内的所有敌人造成全值伤害。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",
@@ -82,6 +84,7 @@
       "baseId": "liquid-explosives",
       "type": "technology",
       "name": "Liquid Explosives",
+      "nameCN": "液体炸药",
       "pbgid": 2145611,
       "attribName": "upgrade_fireship_liquid_explosives_byz",
       "age": 3,
@@ -89,6 +92,7 @@
         "mac"
       ],
       "description": "Incendiary Ships deal full damage to all enemies in their explosion radius.",
+      "descriptionCN": "燃烧船可对爆炸范围内的所有敌人造成全值伤害。",
       "classes": [
         "byzantine_upgrade",
         "military_upgrade",

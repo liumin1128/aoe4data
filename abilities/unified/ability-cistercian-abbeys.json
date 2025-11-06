@@ -18,6 +18,7 @@
       "baseId": "ability-cistercian-abbeys",
       "type": "ability",
       "name": "Cistercian Abbeys",
+      "nameCN": "西多会修道院",
       "pbgid": 9001924,
       "attribName": "monastery_inspire_aoe_hre",
       "age": 1,
@@ -25,6 +26,7 @@
         "hr"
       ],
       "description": "Villagers can drop off resources in Monasteries.\nGarrisoning a Prelate in this Monastery allows it to inspire all nearby Villagers, increasing their gather speed.",
+      "descriptionCN": "村民可以将资源存放在修道院。\n在该修道院中驻扎高级教士可以鼓舞附近的所有村民，提升他们的采集速度。",
       "classes": [],
       "displayClasses": [],
       "costs": {

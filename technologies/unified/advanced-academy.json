@@ -26,6 +26,7 @@
       "baseId": "advanced-academy",
       "type": "technology",
       "name": "Advanced Academy",
+      "nameCN": "高级学院",
       "pbgid": 2059527,
       "attribName": "upgrade_imperial_military_training_ott",
       "age": 1,
@@ -33,6 +34,7 @@
         "ot"
       ],
       "description": "Increases military production speed by +25% and outfits Military Schools with the ability to train Lancers and Janissaries.",
+      "descriptionCN": "军事生产速度 +25%，并为军事学校提供训练长矛骑兵和禁卫军的能力。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",

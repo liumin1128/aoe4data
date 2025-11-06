@@ -28,6 +28,7 @@
       "baseId": "feudal-culture-wing-advancement",
       "type": "technology",
       "name": "Advancement\n(Feudal Culture Wing)",
+      "nameCN": "文化偏殿：发展",
       "pbgid": 2141106,
       "attribName": "upgrade_add_culture_wing_dark_a_abb_ha_01",
       "age": 1,
@@ -35,6 +36,7 @@
         "ay"
       ],
       "description": "Constructs the Culture Wing.\nBuild this wing to advance to the next Age in 20% less time and with 250 less costs.",
+      "descriptionCN": "建造文化偏殿。\n建造该偏殿后，升级至下一个时代的时间缩短 20%，且花费的资源减少 250。",
       "classes": [
         "abbasid_upgrade",
         "abbasid_wing_upgrade",

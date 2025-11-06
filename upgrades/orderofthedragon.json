@@ -16,6 +16,7 @@
       "baseId": "elite-gilded-archers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146723,
       "attribName": "upgrade_unit_archer_4_hre_ha_01",
       "age": 4,
@@ -23,6 +24,7 @@
         "od"
       ],
       "description": "Upgrade Veteran Gilded Archers to Elite Gilded Archers.",
+      "descriptionCN": "将老练镀金步弓手升级为精锐镀金步弓手。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -56,6 +58,7 @@
       "baseId": "elite-gilded-crossbowmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146724,
       "attribName": "upgrade_unit_crossbowman_4_hre_ha_01",
       "age": 4,
@@ -63,6 +66,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Crossbowmen to Elite Gilded Crossbowmen.",
+      "descriptionCN": "将镀金弩手升级为精锐镀金弩手。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -96,6 +100,7 @@
       "baseId": "elite-gilded-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146727,
       "attribName": "upgrade_unit_horseman_4_hre_ha_01",
       "age": 4,
@@ -103,6 +108,7 @@
         "od"
       ],
       "description": "Upgrade Veteran Gilded Horsemen to Elite Gilded Horsemen.",
+      "descriptionCN": "将老练镀金骑手升级为精锐镀金骑手。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -136,6 +142,7 @@
       "baseId": "elite-gilded-knights",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146728,
       "attribName": "upgrade_unit_knight_4_hre_ha_01",
       "age": 4,
@@ -143,6 +150,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Knights to Elite Gilded Knights.",
+      "descriptionCN": "将镀金骑士升级为精锐镀金骑士。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -176,6 +184,7 @@
       "baseId": "elite-gilded-landsknechte",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146734,
       "attribName": "upgrade_unit_landsknecht_4_hre_ha_01",
       "age": 4,
@@ -183,6 +192,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Landsknechte to Elite Gilded Landsknechte.",
+      "descriptionCN": "将镀金国土佣仆升级为精锐镀金国土佣仆。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -217,6 +227,7 @@
       "baseId": "elite-gilded-men-at-arms",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146729,
       "attribName": "upgrade_unit_manatarms_4_hre_ha_01",
       "age": 4,
@@ -224,6 +235,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Men-at-Arms to Elite Gilded Men-at-Arms.",
+      "descriptionCN": "将镀金武士升级为精锐镀金武士。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -258,6 +270,7 @@
       "baseId": "elite-gilded-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146732,
       "attribName": "upgrade_unit_spearman_4_hre_ha_01",
       "age": 4,
@@ -265,6 +278,7 @@
         "od"
       ],
       "description": "Upgrade Veteran Gilded Spearmen to Elite Gilded Spearmen.",
+      "descriptionCN": "将老练镀金长矛兵升级为精锐镀金长矛兵。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -299,6 +313,7 @@
       "baseId": "gilded-men-at-arms",
       "type": "upgrade",
       "name": "Upgrade to Man-at-Arms",
+      "nameCN": "升级为武士",
       "pbgid": 2146733,
       "attribName": "upgrade_unit_manatarms_3_hre_ha_01",
       "age": 3,
@@ -306,6 +321,7 @@
         "od"
       ],
       "description": "Upgrade Early Gilded Men-at-Arms to Gilded Men-at-Arms.",
+      "descriptionCN": "将早期镀金武士升级为镀金武士。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -340,6 +356,7 @@
       "baseId": "hardened-gilded-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Hardened",
+      "nameCN": "升级为坚韧",
       "pbgid": 2146730,
       "attribName": "upgrade_unit_spearman_2_hre_ha_01",
       "age": 2,
@@ -347,6 +364,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Spearmen to Hardened Gilded Spearmen.",
+      "descriptionCN": "将镀金长矛兵升级为坚韧镀金长矛兵。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -381,6 +399,7 @@
       "baseId": "veteran-gilded-archers",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2146722,
       "attribName": "upgrade_unit_archer_3_hre_ha_01",
       "age": 3,
@@ -388,6 +407,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Archers to Veteran Gilded Archers.",
+      "descriptionCN": "将镀金步弓手升级为老练镀金步弓手。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -421,6 +441,7 @@
       "baseId": "veteran-gilded-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2146726,
       "attribName": "upgrade_unit_horseman_3_hre_ha_01",
       "age": 3,
@@ -428,6 +449,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Horsemen to Veteran Gilded Horsemen.",
+      "descriptionCN": "将镀金骑手升级为老练镀金骑手。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",
@@ -461,6 +483,7 @@
       "baseId": "veteran-gilded-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2146731,
       "attribName": "upgrade_unit_spearman_3_hre_ha_01",
       "age": 3,
@@ -468,6 +491,7 @@
         "od"
       ],
       "description": "Upgrade Hardened Gilded Spearmen to Veteran Gilded Spearmen.",
+      "descriptionCN": "将坚韧镀金长矛兵升级为老练镀金长矛兵。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",

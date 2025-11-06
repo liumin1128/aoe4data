@@ -41,6 +41,7 @@
           "baseId": "archery-range",
           "type": "building",
           "name": "Archery Range",
+          "nameCN": "靶场",
           "pbgid": 2864322,
           "attribName": "building_unit_ranged_mon_ha_gol",
           "age": 2,
@@ -48,6 +49,7 @@
             "gol"
           ],
           "description": "Produces ranged infantry units.",
+          "descriptionCN": "生产远程步兵单位。",
           "classes": [
             "archery_range",
             "building",
@@ -128,6 +130,7 @@
           "baseId": "barracks",
           "type": "building",
           "name": "Barracks",
+          "nameCN": "兵营",
           "pbgid": 2887926,
           "attribName": "building_unit_infantry_mon_ha_gol",
           "age": 1,
@@ -135,6 +138,7 @@
             "gol"
           ],
           "description": "Produces melee infantry units.",
+          "descriptionCN": "生产近战步兵单位。",
           "classes": [
             "barracks",
             "building",
@@ -213,6 +217,7 @@
           "baseId": "blacksmith",
           "type": "building",
           "name": "Blacksmith",
+          "nameCN": "铁匠铺",
           "pbgid": 7579869,
           "attribName": "building_tech_unit_infantry_mon_ha_gol",
           "age": 2,
@@ -220,6 +225,7 @@
             "gol"
           ],
           "description": "Houses technology to improve infantry and cavalry.",
+          "descriptionCN": "可研究强化步兵和骑兵的科技。",
           "classes": [
             "blacksmith",
             "building",
@@ -306,6 +312,7 @@
           "baseId": "capital-town-center",
           "type": "building",
           "name": "Capital Town Center",
+          "nameCN": "城镇中心",
           "pbgid": 6133375,
           "attribName": "building_town_center_capital_mon_ha_gol",
           "age": 1,
@@ -313,6 +320,7 @@
             "gol"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nCapital Town Centers can detect units stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民和侦察兵。驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
           "classes": [
             "building",
             "defensive_structure",
@@ -415,6 +423,7 @@
           "baseId": "dock",
           "type": "building",
           "name": "Dock",
+          "nameCN": "码头",
           "pbgid": 5090333,
           "attribName": "building_unit_naval_mon_ha_gol",
           "age": 1,
@@ -422,6 +431,7 @@
             "gol"
           ],
           "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three Fishing Ships.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
           "classes": [
             "building",
             "military_only_production",
@@ -511,6 +521,7 @@
           "baseId": "fortified-outpost",
           "type": "building",
           "name": "Fortified Outpost",
+          "nameCN": "设防哨站",
           "pbgid": 9003602,
           "attribName": "building_fortified_outpost_mon_ha_gol",
           "age": 1,
@@ -518,6 +529,7 @@
             "gol"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
           "classes": [
             "building",
             "defensive_structure",
@@ -939,6 +951,7 @@
           "baseId": "ger",
           "type": "building",
           "name": "Ger",
+          "nameCN": "蒙古包",
           "pbgid": 4298543,
           "attribName": "building_house_mon_ha_gol",
           "age": 1,
@@ -946,6 +959,7 @@
             "gol"
           ],
           "description": "Villagers can drop off Food, Wood, and Gold at this building. Houses technologies to improve resource gathering.\nStone is gathered through Ovoos.",
+          "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
           "classes": [
             "building",
             "economy_building",
@@ -1031,6 +1045,7 @@
           "baseId": "golden-tent",
           "type": "building",
           "name": "Golden Tent",
+          "nameCN": "黄金帐篷",
           "pbgid": 9002973,
           "attribName": "building_landmark_golden_tent_mon_ha_gol",
           "age": 2,
@@ -1038,6 +1053,7 @@
             "gol"
           ],
           "description": "Contains upgrades that will advance through the Ages. Batu Khan and his Torguud can be deployed to the field.\nCan activate Edicts which will change the bonuses provided by Fortified Outposts.",
+          "descriptionCN": "包含会随时代推进而提升的升级。可在战场上部署拔都汗及其土尔扈特。\n可激活法令，这能改变强化哨站提供的加成。",
           "classes": [
             "age_up_producer",
             "audio_production_landmark",
@@ -1125,6 +1141,7 @@
           "baseId": "market",
           "type": "building",
           "name": "Market",
+          "nameCN": "市场",
           "pbgid": 5761342,
           "attribName": "building_econ_market_mon_ha_gol",
           "age": 2,
@@ -1132,6 +1149,7 @@
             "gol"
           ],
           "description": "Allows the buying and selling of resources and produces the Trader.",
+          "descriptionCN": "可生产商人及买卖资源。",
           "classes": [
             "building",
             "economy_building",
@@ -1210,6 +1228,7 @@
           "baseId": "monument-of-the-great-khan",
           "type": "building",
           "name": "Monument of the Great Khan",
+          "nameCN": "大汗纪念碑",
           "pbgid": 7283060,
           "attribName": "building_wonder_age4_final_wonder_mon_ha_gol",
           "age": 4,
@@ -1217,6 +1236,7 @@
             "gol"
           ],
           "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+          "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -1292,6 +1312,7 @@
           "baseId": "ovoo",
           "type": "building",
           "name": "Ovoo",
+          "nameCN": "敖包",
           "pbgid": 7993333,
           "attribName": "building_stone_deposit_ovoo_mon_ha_gol",
           "age": 1,
@@ -1299,6 +1320,7 @@
             "gol"
           ],
           "description": "Must be built on a Stone Outcropping.\nHarvests 60 Stone per minute even from Depleted Stone Deposits. Build limit is increased by +1 after each age up.",
+          "descriptionCN": "必须建造在石料露头上。\n每分钟甚至从枯竭的石料存放点收获 60 石料。每次进入新时代后，建造上限 +1。",
           "classes": [
             "building",
             "ovoo",
@@ -1374,6 +1396,7 @@
           "baseId": "palisade",
           "type": "building",
           "name": "Palisade",
+          "nameCN": "木栅栏",
           "pbgid": 9001776,
           "attribName": "building_defense_palisade_mon_ha_gol",
           "age": 1,
@@ -1381,6 +1404,7 @@
             "gol"
           ],
           "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+          "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
           "classes": [
             "building",
             "defensive_structure",
@@ -1457,6 +1481,7 @@
           "baseId": "palisade-gate",
           "type": "building",
           "name": "Palisade Gate",
+          "nameCN": "木城门",
           "pbgid": 9001777,
           "attribName": "building_defense_palisade_gate_mon_ha_gol",
           "age": 1,
@@ -1464,6 +1489,7 @@
             "gol"
           ],
           "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+          "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
           "classes": [
             "building",
             "defensive_structure",
@@ -1541,6 +1567,7 @@
           "baseId": "prayer-tent",
           "type": "building",
           "name": "Prayer Tent",
+          "nameCN": "祈祷帐篷",
           "pbgid": 4059118,
           "attribName": "building_unit_religious_mon_ha_gol",
           "age": 3,
@@ -1548,6 +1575,7 @@
             "gol"
           ],
           "description": "Produces religious units and houses religious technologies. Starting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "classes": [
             "building",
             "monastery",
@@ -1626,6 +1654,7 @@
           "baseId": "relic-ovoo",
           "type": "building",
           "name": "Relic Ovoo",
+          "nameCN": "圣物敖包",
           "pbgid": 9002133,
           "attribName": "building_relic_ovoo_mon_ha_gol",
           "age": 1,
@@ -1633,6 +1662,7 @@
             "gol"
           ],
           "description": "The Relic Ovoo does not have to be placed on Stone deposits and the Relic will drop if the Ovoo is destroyed.\nHarvests 60 Stone per minute.",
+          "descriptionCN": "圣物敖包不必安置在石料矿床上；如果敖包被摧毁，圣物就会掉落。\n每分钟收获 60 石料。",
           "classes": [
             "building",
             "ovoo",
@@ -1712,6 +1742,7 @@
           "baseId": "siege-workshop",
           "type": "building",
           "name": "Siege Workshop",
+          "nameCN": "攻城武器厂",
           "pbgid": 5757301,
           "attribName": "building_unit_siege_mon_ha_gol",
           "age": 3,
@@ -1719,6 +1750,7 @@
             "gol"
           ],
           "description": "Produces siege engines and powerful gunpowder units.",
+          "descriptionCN": "生产攻城器械和强大的火药单位。",
           "classes": [
             "building",
             "military_only_production",
@@ -1799,6 +1831,7 @@
           "baseId": "stable",
           "type": "building",
           "name": "Stable",
+          "nameCN": "马厩",
           "pbgid": 7776645,
           "attribName": "building_unit_cavalry_mon_ha_gol",
           "age": 1,
@@ -1806,6 +1839,7 @@
             "gol"
           ],
           "description": "Produces cavalry military units.",
+          "descriptionCN": "生产骑兵军事单位。",
           "classes": [
             "building",
             "military_only_production",
@@ -1885,6 +1919,7 @@
           "baseId": "stockyard",
           "type": "building",
           "name": "Stockyard",
+          "nameCN": "牲畜围栏",
           "pbgid": 9001697,
           "attribName": "building_resource_pasture_mon_ha_gol",
           "age": 1,
@@ -1892,6 +1927,7 @@
             "gol"
           ],
           "description": "Food drop off and harvestable Food source. Use a Villager to gather Food from the sheep carcasses.\nUp to four Villagers can work each Stockyard.",
+          "descriptionCN": "食物存放点以及可供采集的食物来源。派遣村民从此处的绵羊尸体上采集食物。\n每个牲畜围栏最多可容纳四名村民同时工作。",
           "classes": [
             "building",
             "farm",
@@ -1974,6 +2010,7 @@
           "baseId": "town-center",
           "type": "building",
           "name": "Town Center",
+          "nameCN": "城镇中心",
           "pbgid": 7379151,
           "attribName": "building_town_center_mon_ha_gol",
           "age": 1,
@@ -1981,6 +2018,7 @@
             "gol"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers and Scouts. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises",
+          "descriptionCN": "可在此存放所有资源。可生产村民与侦察兵。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",

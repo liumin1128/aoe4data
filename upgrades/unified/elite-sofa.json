@@ -27,6 +27,7 @@
       "baseId": "elite-sofa",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2059147,
       "attribName": "upgrade_unit_horseman_4_mal",
       "age": 4,
@@ -34,6 +35,7 @@
         "ma"
       ],
       "description": "Upgrade Veteran Sofa to Elite Sofa.",
+      "descriptionCN": "将老练索法骑手升级为精锐索法骑手。",
       "classes": [
         "malian_upgrade",
         "military_upgrade",

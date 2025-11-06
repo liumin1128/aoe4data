@@ -27,6 +27,7 @@
       "baseId": "janissary-guns",
       "type": "technology",
       "name": "Janissary Guns",
+      "nameCN": "苏丹亲兵火枪",
       "pbgid": 2063086,
       "attribName": "upgrade_ranged_janissary_guns_ott",
       "age": 4,
@@ -34,6 +35,7 @@
         "ot"
       ],
       "description": "Increase Janissary gun damage by +4.",
+      "descriptionCN": "苏丹亲兵火枪伤害 +4。",
       "classes": [
         "military_upgrade",
         "ottoman_upgrade",

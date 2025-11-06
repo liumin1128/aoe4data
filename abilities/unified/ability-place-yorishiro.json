@@ -18,6 +18,7 @@
       "baseId": "ability-place-yorishiro",
       "type": "ability",
       "name": "Place Yorishiro",
+      "nameCN": "放置依代",
       "pbgid": 2141548,
       "attribName": "monk_shinto_deposit_sacred_object_jpn",
       "age": 1,
@@ -25,6 +26,7 @@
         "ja"
       ],
       "description": "Place a Yorishiro in the following buildings to receive bonuses and increase their line of sight.\nMilitary and Docks: +125% Production speed\nTown Center: +30% Production speed\nFarmhouse: +70 Food per minute\nLumber Camp: +70 Wood per minute\nForge: +50 Gold per minute\nWonder: +4000 Health",
+      "descriptionCN": "将一个依代放置在以下建筑中，获得加成并增加视野。\n军事和码头：+125% 工作效率\n城镇中心：+30% 生产速度\n农舍：每分钟 +70 食物\n伐木场：每分钟 +70 木材\n锻造厂：每分钟 +50 黄金\n世界奇观：+4000 生命值",
       "classes": [],
       "displayClasses": [],
       "costs": {

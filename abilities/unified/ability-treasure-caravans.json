@@ -18,6 +18,7 @@
       "baseId": "ability-treasure-caravans",
       "type": "ability",
       "name": "Treasure Caravans",
+      "nameCN": "宝藏商队",
       "pbgid": 2127492,
       "attribName": "treasure_landmark_target_jpn",
       "age": 1,
@@ -25,6 +26,7 @@
         "ja"
       ],
       "description": "Select a neutral Trade Post to periodically spawn Treasure Caravans from that location. Caravans can convert into a Trade Ship when instructed to reach Trade Posts over water.",
+      "descriptionCN": "选择一个中立贸易站，从该位置定期生成宝藏商队。当获得命令到达水上贸易站时，商队可以转变成贸易船。",
       "classes": [],
       "displayClasses": [],
       "costs": {

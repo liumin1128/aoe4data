@@ -64,6 +64,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -146,6 +148,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -153,6 +156,7 @@
         "ay"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -228,6 +232,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -235,6 +240,7 @@
         "by"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -310,6 +316,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -317,6 +324,7 @@
         "ch"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -393,6 +401,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117415,
       "attribName": "upgrade_ram_scaling_sul",
       "age": 4,
@@ -400,6 +409,7 @@
         "de"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -458,6 +468,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -465,6 +476,7 @@
         "en"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -540,6 +552,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -547,6 +560,7 @@
         "fr"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -622,6 +636,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -629,6 +644,7 @@
         "gol"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -704,6 +720,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -711,6 +728,7 @@
         "hr"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -786,6 +804,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -793,6 +812,7 @@
         "hl"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -868,6 +888,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -875,6 +896,7 @@
         "ja"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -950,6 +972,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -957,6 +980,7 @@
         "je"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1032,6 +1056,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1039,6 +1064,7 @@
         "kt"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1114,6 +1140,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1121,6 +1148,7 @@
         "mac"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1196,6 +1224,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1203,6 +1232,7 @@
         "ma"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1278,6 +1308,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2119227,
       "attribName": "upgrade_ram_scaling_mon",
       "age": 4,
@@ -1285,6 +1316,7 @@
         "mo"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -1345,6 +1377,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1352,6 +1385,7 @@
         "od"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1427,6 +1461,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1434,6 +1469,7 @@
         "ot"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1509,6 +1545,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1516,6 +1553,7 @@
         "ru"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1591,6 +1629,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1598,6 +1637,7 @@
         "sen"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1673,6 +1713,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 5588181,
       "attribName": "upgrade_ram_scaling_sul_ha_tug",
       "age": 4,
@@ -1680,6 +1721,7 @@
         "tug"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -1738,6 +1780,7 @@
       "baseId": "lightweight-beams",
       "type": "technology",
       "name": "Lightweight Beams",
+      "nameCN": "轻质横梁",
       "pbgid": 2117424,
       "attribName": "upgrade_ram_scaling",
       "age": 4,
@@ -1745,6 +1788,7 @@
         "zx"
       ],
       "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+      "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

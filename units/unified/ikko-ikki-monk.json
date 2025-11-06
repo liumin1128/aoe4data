@@ -38,6 +38,7 @@
       "baseId": "ikko-ikki-monk",
       "type": "unit",
       "name": "Ikko-ikki Monk",
+      "nameCN": "一向一揆僧侣",
       "pbgid": 4457354,
       "attribName": "unit_monk_ikko_3_jpn_ha_sen",
       "age": 3,
@@ -45,6 +46,7 @@
         "sen"
       ],
       "description": "Warrior Monk with strong combat capabilities that heals nearby units when attacking. Does not have a targeted heal ability.\n+ Can heal themselves\n- Slow move speed",
+      "descriptionCN": "拥有强大战斗能力的僧侣战士，进攻时可治疗附近单位。不具备定向治疗能力。\n+ 可以治疗自己\n- 移动速度慢",
       "classes": [
         "annihilation_condition",
         "buddhist_monk_jpn",

@@ -56,6 +56,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -63,6 +64,7 @@
         "ab"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -109,6 +111,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -116,6 +119,7 @@
         "ay"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -162,6 +166,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -169,6 +174,7 @@
         "by"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -216,6 +222,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -223,6 +230,7 @@
         "ch"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -269,6 +277,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -276,6 +285,7 @@
         "en"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -322,6 +332,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -329,6 +340,7 @@
         "fr"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -376,6 +388,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 130353,
       "attribName": "upgrade_unit_horseman_3_mon",
       "age": 3,
@@ -383,6 +396,7 @@
         "gol"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -416,6 +430,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -423,6 +438,7 @@
         "hr"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -469,6 +485,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -476,6 +493,7 @@
         "ja"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -522,6 +540,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -529,6 +548,7 @@
         "je"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -576,6 +596,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -583,6 +604,7 @@
         "kt"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -629,6 +651,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -636,6 +659,7 @@
         "mac"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -683,6 +707,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 130353,
       "attribName": "upgrade_unit_horseman_3_mon",
       "age": 3,
@@ -690,6 +715,7 @@
         "mo"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -723,6 +749,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -730,6 +757,7 @@
         "ru"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -776,6 +804,7 @@
       "baseId": "veteran-horsemen",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 124723,
       "attribName": "upgrade_unit_horseman_3",
       "age": 3,
@@ -783,6 +812,7 @@
         "zx"
       ],
       "description": "Upgrade Horsemen to Veteran Horsemen.",
+      "descriptionCN": "将骑手升级为老练骑手。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

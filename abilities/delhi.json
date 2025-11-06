@@ -16,6 +16,7 @@
       "baseId": "ability-conversion",
       "type": "ability",
       "name": "Conversion",
+      "nameCN": "招降",
       "pbgid": 192685,
       "attribName": "monk_conversion",
       "age": 1,
@@ -23,6 +24,7 @@
         "de"
       ],
       "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+      "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -68,6 +70,7 @@
       "baseId": "ability-detonate",
       "type": "ability",
       "name": "Detonate",
+      "nameCN": "引爆",
       "pbgid": 2013822,
       "attribName": "fireship_self_detonate",
       "age": 1,
@@ -75,6 +78,7 @@
         "de"
       ],
       "description": "Detonate the ship.",
+      "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -113,6 +117,7 @@
       "baseId": "ability-forced-march",
       "type": "ability",
       "name": "Forced March",
+      "nameCN": "急行军",
       "pbgid": 180772,
       "attribName": "infantry_forced_march_sul",
       "age": 3,
@@ -120,6 +125,7 @@
         "de"
       ],
       "description": "Activate to move 100% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 100%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -159,6 +165,7 @@
       "baseId": "ability-man-the-sails",
       "type": "ability",
       "name": "Man The Sails",
+      "nameCN": "掌舵人",
       "pbgid": 2101656,
       "attribName": "naval_man_the_sails",
       "age": 1,
@@ -166,6 +173,7 @@
         "de"
       ],
       "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+      "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -206,6 +214,7 @@
       "baseId": "ability-ring-the-town-bell",
       "type": "ability",
       "name": "Ring the Town Bell",
+      "nameCN": "敲响警钟",
       "pbgid": 2149990,
       "attribName": "town_center_town_bell",
       "age": 1,
@@ -213,6 +222,7 @@
         "de"
       ],
       "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+      "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -254,6 +264,7 @@
       "baseId": "ability-tower-of-victory-aura",
       "type": "ability",
       "name": "Tower of Victory Aura",
+      "nameCN": "胜利之塔光环",
       "pbgid": 200847,
       "attribName": "tower_of_victory_aura_sul",
       "age": 2,
@@ -261,6 +272,7 @@
         "de"
       ],
       "description": "Melee and ranged infantry who move near this Landmark permanently gain +20% attack speed.",
+      "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

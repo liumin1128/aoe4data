@@ -51,6 +51,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 199743,
       "attribName": "unit_springald_3_abb",
       "age": 3,
@@ -58,6 +59,7 @@
         "ab"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -172,6 +174,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2539420,
       "attribName": "unit_springald_3_abb_ha_01",
       "age": 3,
@@ -179,6 +182,7 @@
         "ay"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -293,6 +297,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2129716,
       "attribName": "unit_springald_3_byz",
       "age": 3,
@@ -300,6 +305,7 @@
         "by"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -414,6 +420,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 142047,
       "attribName": "unit_springald_3_chi",
       "age": 3,
@@ -421,6 +428,7 @@
         "ch"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -535,6 +543,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 136061,
       "attribName": "unit_springald_3_sul",
       "age": 3,
@@ -542,6 +551,7 @@
         "de"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -656,6 +666,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 166411,
       "attribName": "unit_springald_3_eng",
       "age": 3,
@@ -663,6 +674,7 @@
         "en"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -780,6 +792,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 132292,
       "attribName": "unit_springald_3_fre",
       "age": 3,
@@ -787,6 +800,7 @@
         "fr"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -901,6 +915,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2574905,
       "attribName": "unit_springald_3_mon_ha_gol",
       "age": 3,
@@ -908,6 +923,7 @@
         "gol"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1022,6 +1038,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 134735,
       "attribName": "unit_springald_3_hre",
       "age": 3,
@@ -1029,6 +1046,7 @@
         "hr"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1143,6 +1161,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 5000115,
       "attribName": "unit_siege_springald_3_lan",
       "age": 3,
@@ -1150,6 +1169,7 @@
         "hl"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1264,6 +1284,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 4856887,
       "attribName": "unit_springald_3_jpn",
       "age": 3,
@@ -1271,6 +1292,7 @@
         "ja"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1385,6 +1407,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 132292,
       "attribName": "unit_springald_3_fre",
       "age": 3,
@@ -1392,6 +1415,7 @@
         "je"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1506,6 +1530,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 8999927,
       "attribName": "unit_springald_3_tem",
       "age": 3,
@@ -1513,6 +1538,7 @@
         "kt"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1627,6 +1653,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 9001044,
       "attribName": "unit_springald_3_byz_ha_mac",
       "age": 3,
@@ -1634,6 +1661,7 @@
         "mac"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1800,6 +1828,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2618732,
       "attribName": "unit_springald_3_mal",
       "age": 3,
@@ -1807,6 +1836,7 @@
         "ma"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -1921,6 +1951,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 129971,
       "attribName": "unit_springald_3_mon",
       "age": 3,
@@ -1928,6 +1959,7 @@
         "mo"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2042,6 +2074,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2998550,
       "attribName": "unit_springald_3_hre_ha_01",
       "age": 3,
@@ -2049,6 +2082,7 @@
         "od"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2163,6 +2197,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 2046465,
       "attribName": "unit_springald_3_ott",
       "age": 3,
@@ -2170,6 +2205,7 @@
         "ot"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2295,6 +2331,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 133473,
       "attribName": "unit_springald_3_rus",
       "age": 3,
@@ -2302,6 +2339,7 @@
         "ru"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2416,6 +2454,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 7687757,
       "attribName": "unit_springald_3_jpn_ha_sen",
       "age": 3,
@@ -2423,6 +2462,7 @@
         "sen"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",
@@ -2537,6 +2577,7 @@
       "baseId": "springald",
       "type": "unit",
       "name": "Springald",
+      "nameCN": "扭力弩炮",
       "pbgid": 4458259,
       "attribName": "unit_springald_3_chi_ha_01",
       "age": 3,
@@ -2544,6 +2585,7 @@
         "zx"
       ],
       "description": "Anti-unit siege weapon. Fires bolts that pierce multiple units.\n+ Does not require setup to fire\n+ Bonus damage vs. melee infantry\n- Trivial damage vs. buildings",
+      "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
       "classes": [
         "annihilation_condition",
         "formational",

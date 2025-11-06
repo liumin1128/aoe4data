@@ -27,6 +27,7 @@
       "baseId": "additional-torches-improved",
       "type": "technology",
       "name": "Additional Torches (Improved)",
+      "nameCN": "更多火炬 (已强化)",
       "pbgid": 205811,
       "attribName": "upgrade_weapon_fire_damage_improved_mon",
       "age": 3,
@@ -34,6 +35,7 @@
         "mo"
       ],
       "description": "Increase the torch damage of all infantry and cavalry by +5.\nIf Additional Torches has already been researched, increase the torch damage from all infantry and cavalry by +2.",
+      "descriptionCN": "所有步兵和骑兵的火炬伤害 +5。\n如果已完成更多火炬研究，则所有步兵和骑兵的火炬伤害 +2。",
       "classes": [
         "mongol_upgrade",
         "scar_castle_age_upgrade",

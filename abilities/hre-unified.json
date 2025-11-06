@@ -29,6 +29,7 @@
           "baseId": "ability-cistercian-abbeys",
           "type": "ability",
           "name": "Cistercian Abbeys",
+          "nameCN": "西多会修道院",
           "pbgid": 9001924,
           "attribName": "monastery_inspire_aoe_hre",
           "age": 1,
@@ -36,6 +37,7 @@
             "hr"
           ],
           "description": "Villagers can drop off resources in Monasteries.\nGarrisoning a Prelate in this Monastery allows it to inspire all nearby Villagers, increasing their gather speed.",
+          "descriptionCN": "村民可以将资源存放在修道院。\n在该修道院中驻扎高级教士可以鼓舞附近的所有村民，提升他们的采集速度。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -77,6 +79,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -84,6 +87,7 @@
             "hr"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -144,6 +148,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -151,6 +156,7 @@
             "hr"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -204,6 +210,7 @@
           "baseId": "ability-emergency-repairs",
           "type": "ability",
           "name": "Emergency Repairs",
+          "nameCN": "紧急修理",
           "pbgid": 2031580,
           "attribName": "influence_auto_repair_hre",
           "age": 1,
@@ -211,6 +218,7 @@
             "hr"
           ],
           "description": "Building repairs itself by 150 health every 1 second for 20 seconds.",
+          "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -290,6 +298,7 @@
           "baseId": "ability-inspired-warriors",
           "type": "ability",
           "name": "Inspired Warriors",
+          "nameCN": "精神鼓舞",
           "pbgid": 176144,
           "attribName": "inspired_infantry_hre",
           "age": 3,
@@ -297,6 +306,7 @@
             "hr"
           ],
           "description": "Military units deal +15% damage and gain +1 armor.",
+          "descriptionCN": "军事单位造成的伤害 +15% ，护甲 +1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -448,6 +458,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -455,6 +466,7 @@
             "hr"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -510,6 +522,7 @@
           "baseId": "ability-relic-garrisoned-dock",
           "type": "ability",
           "name": "Relic Garrisoned in Docks",
+          "nameCN": "存放的圣物",
           "pbgid": 2034812,
           "attribName": "relic_dock_bonus_hre",
           "age": 3,
@@ -517,6 +530,7 @@
             "hr"
           ],
           "description": "Increasing attack speed of military ships by +5%.",
+          "descriptionCN": "军事船只的攻击速度 +5%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -571,6 +585,7 @@
           "baseId": "ability-relic-garrisoned-keep",
           "type": "ability",
           "name": "Relic Garrisoned in Defensive Structures",
+          "nameCN": "存放的圣物",
           "pbgid": 195371,
           "attribName": "relic_tower_keep_bonus_hre",
           "age": 3,
@@ -578,6 +593,7 @@
             "hr"
           ],
           "description": "• Armor increased by +25%\n• Damage increased by +25%\n• Sight range increased by +20%\n• Weapon range increased by +20%",
+          "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -692,6 +708,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -699,6 +716,7 @@
             "hr"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {

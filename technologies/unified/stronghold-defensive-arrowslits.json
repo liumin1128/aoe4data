@@ -27,6 +27,7 @@
       "baseId": "stronghold-defensive-arrowslits",
       "type": "technology",
       "name": "Stronghold Defensive Arrowslits",
+      "nameCN": "堡垒防御射箭槽",
       "pbgid": 9004725,
       "attribName": "upgrade_tech_stronghold_arrows_byz_ha_mac",
       "age": 2,
@@ -34,6 +35,7 @@
         "mac"
       ],
       "description": "Upgrades all Varangian Strongholds with default arrowslit emplacements that deal 10 damage with 6 tiles weapon range.",
+      "descriptionCN": "用默认射箭槽炮台升级所有瓦兰吉堡垒，能以 6 格武器攻击范围造成 10 伤害。",
       "classes": [
         "byzantine_ha_mac_upgrade",
         "military_upgrade",

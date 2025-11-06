@@ -27,6 +27,7 @@
       "baseId": "proselytization",
       "type": "technology",
       "name": "Proselytization",
+      "nameCN": "传教",
       "pbgid": 201793,
       "attribName": "upgrade_cul_conversion_invuln_abb",
       "age": 4,
@@ -34,6 +35,7 @@
         "ab"
       ],
       "description": "Imams can convert units without holding a Relic, but can only target a single unit.",
+      "descriptionCN": "伊玛目不需持有圣物便可招降单位，但只能以一个单位为目标。",
       "classes": [
         "abbasid_upgrade",
         "scar_imperial_age_upgrade",

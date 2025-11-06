@@ -18,6 +18,7 @@
       "baseId": "ability-shunshin",
       "type": "ability",
       "name": "Shunshin",
+      "nameCN": "瞬移",
       "pbgid": 2145411,
       "attribName": "shinobi_blink_jpn",
       "age": 1,
@@ -25,6 +26,7 @@
         "ja"
       ],
       "description": "Drop a smoke bomb and reappear at a selected location.",
+      "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
       "classes": [],
       "displayClasses": [],
       "costs": {

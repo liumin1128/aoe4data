@@ -27,6 +27,7 @@
       "baseId": "veteran-serjeants",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 9000006,
       "attribName": "upgrade_unit_serjeant_3_tem",
       "age": 3,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "Upgrade Serjeants to Veteran Serjeants.",
+      "descriptionCN": "将萨金特卫兵升级为老练萨金特卫兵。",
       "classes": [
         "hre_upgrade",
         "military_upgrade",

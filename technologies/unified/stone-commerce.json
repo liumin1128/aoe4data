@@ -27,6 +27,7 @@
       "baseId": "stone-commerce",
       "type": "technology",
       "name": "Stone Commerce",
+      "nameCN": "石料商业",
       "pbgid": 205556,
       "attribName": "upgrade_trader_silkroad_stone_mon",
       "age": 4,
@@ -34,6 +35,7 @@
         "gol"
       ],
       "description": "Traders supply +10% Stone to their trades.",
+      "descriptionCN": "商人交易时供应的石料 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",
@@ -79,6 +81,7 @@
       "baseId": "stone-commerce",
       "type": "technology",
       "name": "Stone Commerce",
+      "nameCN": "石料商业",
       "pbgid": 205556,
       "attribName": "upgrade_trader_silkroad_stone_mon",
       "age": 4,
@@ -86,6 +89,7 @@
         "mo"
       ],
       "description": "Traders supply +10% Stone to their trades.",
+      "descriptionCN": "商人交易时供应的石料 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",

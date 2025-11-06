@@ -52,6 +52,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 199627,
       "attribName": "building_defense_tower_abb",
       "age": 2,
@@ -59,6 +60,7 @@
         "ab"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -151,6 +153,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2986701,
       "attribName": "building_defense_tower_abb_ha_01",
       "age": 2,
@@ -158,6 +161,7 @@
         "ay"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -250,6 +254,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 7914115,
       "attribName": "building_defense_tower_byz",
       "age": 2,
@@ -257,6 +262,7 @@
         "by"
       ],
       "description": "Heavy defensive tower that fires a mangonel. Must be built on a Stone Wall. \nCan be used to access the top of walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -314,6 +320,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 144657,
       "attribName": "building_defense_tower_chi",
       "age": 2,
@@ -321,6 +328,7 @@
         "ch"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -412,6 +420,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 135798,
       "attribName": "building_defense_tower_sul",
       "age": 2,
@@ -419,6 +428,7 @@
         "de"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -515,6 +525,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 166248,
       "attribName": "building_defense_tower_eng",
       "age": 2,
@@ -522,6 +533,7 @@
         "en"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nNetwork of Castles: Nearby enemies trigger an alarm that increases defenders' fire rate.",
+      "descriptionCN": "防御坚实的箭塔，会发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往石墙顶端。\n城堡网络：附近敌人会触发警报，从而加快守军的射击速度。",
       "classes": [
         "building",
         "defensive_structure",
@@ -613,6 +625,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 132684,
       "attribName": "building_defense_tower_fre",
       "age": 2,
@@ -620,6 +633,7 @@
         "fr"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -711,6 +725,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 134927,
       "attribName": "building_defense_tower_hre",
       "age": 2,
@@ -718,6 +733,7 @@
         "hr"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nPlace a Relic here to generate Gold and improve armor, damage, weapon range and sight range.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。\n在此放置圣物可产生黄金并提升护甲、伤害、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "defensive_structure",
@@ -812,6 +828,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 5000035,
       "attribName": "building_defense_tower_lan",
       "age": 2,
@@ -819,6 +836,7 @@
         "hl"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -910,6 +928,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 4964555,
       "attribName": "building_defense_tower_jpn",
       "age": 2,
@@ -917,6 +936,7 @@
         "ja"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1008,6 +1028,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 3329586,
       "attribName": "building_defense_tower_fre_ha_01",
       "age": 2,
@@ -1015,6 +1036,7 @@
         "je"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1107,6 +1129,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 5000219,
       "attribName": "building_defense_stone_tower_tem",
       "age": 2,
@@ -1114,6 +1137,7 @@
         "kt"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1205,6 +1229,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 9000924,
       "attribName": "building_defense_tower_byz_ha_mac",
       "age": 2,
@@ -1212,6 +1237,7 @@
         "mac"
       ],
       "description": "Heavy defensive tower that fires a mangonel. Must be built on a Stone Wall. \nCan be used to access the top of walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1269,6 +1295,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2586732,
       "attribName": "building_defense_tower_mal",
       "age": 2,
@@ -1276,6 +1303,7 @@
         "ma"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1367,6 +1395,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 5833938,
       "attribName": "building_defense_tower_hre_ha_01",
       "age": 2,
@@ -1374,6 +1403,7 @@
         "od"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.\nPlace a Relic here to generate Gold and improve armor, damage, weapon range and sight range.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。\n在此放置圣物可产生黄金并提升护甲、伤害、武器攻击范围和视野范围。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1468,6 +1498,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2034596,
       "attribName": "building_defense_tower_ott",
       "age": 2,
@@ -1475,6 +1506,7 @@
         "ot"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1566,6 +1598,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 133439,
       "attribName": "building_defense_tower_rus",
       "age": 4,
@@ -1573,6 +1606,7 @@
         "ru"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1664,6 +1698,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2128948,
       "attribName": "building_defense_tower_jpn_ha_sen",
       "age": 2,
@@ -1671,6 +1706,7 @@
         "sen"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1762,6 +1798,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 2626542,
       "attribName": "building_defense_tower_sul_ha_tug",
       "age": 2,
@@ -1769,6 +1806,7 @@
         "tug"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",
@@ -1860,6 +1898,7 @@
       "baseId": "stone-wall-tower",
       "type": "building",
       "name": "Stone Wall Tower",
+      "nameCN": "石墙塔",
       "pbgid": 5400246,
       "attribName": "building_defense_tower_chi_ha_01",
       "age": 2,
@@ -1867,6 +1906,7 @@
         "zx"
       ],
       "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+      "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
       "classes": [
         "building",
         "defensive_structure",

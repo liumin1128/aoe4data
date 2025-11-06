@@ -66,6 +66,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126345,
       "attribName": "upgrade_scout_los_increase_abb",
       "age": 4,
@@ -73,6 +74,7 @@
         "ab"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",
@@ -121,6 +123,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2146558,
       "attribName": "upgrade_scout_los_increase_abb_ha_01",
       "age": 4,
@@ -128,6 +131,7 @@
         "ay"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "military_upgrade",
@@ -174,6 +178,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -181,6 +186,7 @@
         "by"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -239,6 +245,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126346,
       "attribName": "upgrade_scout_los_increase_chi",
       "age": 4,
@@ -246,6 +253,7 @@
         "ch"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "chinese_upgrade",
@@ -293,6 +301,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126347,
       "attribName": "upgrade_scout_los_increase_sul",
       "age": 4,
@@ -300,6 +309,7 @@
         "de"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -346,6 +356,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -353,6 +364,7 @@
         "en"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -410,6 +422,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -417,6 +430,7 @@
         "fr"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -475,6 +489,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -482,6 +497,7 @@
         "gol"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -539,6 +555,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -546,6 +563,7 @@
         "hr"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -603,6 +621,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -610,6 +629,7 @@
         "hl"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -667,6 +687,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -674,6 +695,7 @@
         "ja"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -731,6 +753,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -738,6 +761,7 @@
         "je"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -796,6 +820,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -803,6 +828,7 @@
         "kt"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -860,6 +886,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -867,6 +894,7 @@
         "mac"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -925,6 +953,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126348,
       "attribName": "upgrade_scout_los_increase_mal",
       "age": 4,
@@ -932,6 +961,7 @@
         "ma"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "malian_upgrade",
         "military_upgrade",
@@ -978,6 +1008,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -985,6 +1016,7 @@
         "mo"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -1042,6 +1074,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -1049,6 +1082,7 @@
         "od"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -1106,6 +1140,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -1113,6 +1148,7 @@
         "ot"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -1170,6 +1206,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -1177,6 +1214,7 @@
         "ru"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -1234,6 +1272,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126207,
       "attribName": "upgrade_scout_los_increase",
       "age": 4,
@@ -1241,6 +1280,7 @@
         "sen"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "byzantine_upgrade",
         "crusader_cmp_upgrade",
@@ -1298,6 +1338,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 7499511,
       "attribName": "upgrade_scout_los_increase_sul_ha_tug",
       "age": 4,
@@ -1305,6 +1346,7 @@
         "tug"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1351,6 +1393,7 @@
       "baseId": "spyglass",
       "type": "technology",
       "name": "Spyglass",
+      "nameCN": "小型望远镜",
       "pbgid": 2126346,
       "attribName": "upgrade_scout_los_increase_chi",
       "age": 4,
@@ -1358,6 +1401,7 @@
         "zx"
       ],
       "description": "Increase the sight radius of Scouts by 30%.",
+      "descriptionCN": "侦察兵的视线半径增加 30%。",
       "classes": [
         "chinese_ha_01_upgrade",
         "chinese_upgrade",

@@ -29,6 +29,7 @@
           "baseId": "ability-brewery-delivery",
           "type": "ability",
           "name": "Brewery Delivery",
+          "nameCN": "酒厂送货",
           "pbgid": 9004283,
           "attribName": "brewery_rice_mat_manager_jpn_ha_sen",
           "age": 1,
@@ -36,6 +37,7 @@
             "sen"
           ],
           "description": "When 350 Gold is collected from the Toko-Koji Mats, a Sake delivery is sent to a nearby Matsuri.",
+          "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -76,6 +78,7 @@
           "baseId": "ability-castle-of-the-crow-aura",
           "type": "ability",
           "name": "Castle of the Crow Aura",
+          "nameCN": "乌城光环",
           "pbgid": 9001990,
           "attribName": "crow_castle_siege_aura_jpn_ha_sen",
           "age": 1,
@@ -83,6 +86,7 @@
             "sen"
           ],
           "description": "Siege units near the Castle gain +10% damage and +1 tiles range.",
+          "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -124,6 +128,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -131,6 +136,7 @@
             "sen"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -191,6 +197,7 @@
           "baseId": "ability-daimyo-estate-influence",
           "type": "ability",
           "name": "Daimyo Estate Influence",
+          "nameCN": "大名府邸影响",
           "pbgid": 9003674,
           "attribName": "daimyo_estate_influence_jpn_ha_sen",
           "age": 1,
@@ -198,6 +205,7 @@
             "sen"
           ],
           "description": "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate.",
+          "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -240,6 +248,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -247,6 +256,7 @@
             "sen"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -300,6 +310,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -307,6 +318,7 @@
             "sen"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -362,6 +374,7 @@
           "baseId": "ability-matsuri-aura",
           "type": "ability",
           "name": "Matsuri Aura",
+          "nameCN": "祭典光环",
           "pbgid": 9004249,
           "attribName": "matsuri_aura_no_bonus_jpn_ha_sen",
           "age": 1,
@@ -369,6 +382,7 @@
             "sen"
           ],
           "description": "Currently no bonus gather rate. Each Yatai trader that arrives to this Matsuri will increase the bonus gather rate provided to nearby Villagers by +5%.",
+          "descriptionCN": "当前没有采集速率加成。每个抵达此祭典的屋台商人都会为附近村民提供 +5% 的采集速率加成。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -409,6 +423,7 @@
           "baseId": "ability-redirect-yatai",
           "type": "ability",
           "name": "Redirect Yatai",
+          "nameCN": "改变屋台的方向",
           "pbgid": 9003882,
           "attribName": "matsuri_call_yatai_jpn_ha_sen",
           "age": 1,
@@ -416,6 +431,7 @@
             "sen"
           ],
           "description": "While active the Home Matsuri of all Yatai is set to this building.",
+          "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -457,6 +473,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -464,6 +481,7 @@
             "sen"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -519,6 +537,7 @@
           "baseId": "ability-ryokan-healing",
           "type": "ability",
           "name": "Ryokan Healing",
+          "nameCN": "日式旅馆治疗",
           "pbgid": 9001951,
           "attribName": "ryokan_aura_jpn_ha_sen",
           "age": 1,
@@ -526,6 +545,7 @@
             "sen"
           ],
           "description": "Nearby units gain a permanent healing buff. The healing buff will heal the unit when out of combat by 3 health every 5 seconds.",
+          "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -566,6 +586,7 @@
           "baseId": "ability-shinobi-ambush",
           "type": "ability",
           "name": "Shinobi Ambush",
+          "nameCN": "忍者埋伏",
           "pbgid": 9001933,
           "attribName": "spawn_shinobi_ambush_jpn_ha_sen",
           "age": 1,
@@ -573,6 +594,7 @@
             "sen"
           ],
           "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 50% and slow enemies by 30% for 3 seconds.\nThe Shinobi will escape after 90 seconds or if they used their 3 grenades.",
+          "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +50%，并让敌方的速度 -30%，持续 3 秒。\n忍者在 90 秒后或用完 3 枚烟雾弹后就会逃走。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -614,6 +636,7 @@
           "baseId": "ability-shinobi-scout",
           "type": "ability",
           "name": "Shinobi Scout",
+          "nameCN": "忍者侦察兵",
           "pbgid": 9002051,
           "attribName": "shinobi_spy_jpn_ha_sen",
           "age": 1,
@@ -621,6 +644,7 @@
             "sen"
           ],
           "description": "Reveals a 10 tile radius for 20 seconds.",
+          "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {

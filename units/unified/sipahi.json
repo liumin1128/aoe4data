@@ -37,6 +37,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Sipahi",
+      "nameCN": "西帕希骑兵",
       "pbgid": 2136769,
       "attribName": "unit_sipahi_2_byz",
       "age": 2,
@@ -44,6 +45,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nThis Mercenary can only be purchased on Mercenary Houses built near a neutral Trade Post that list this unit. The chance of this unit being available on a Trade Post is 20%.",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -181,6 +183,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Veteran Sipahi",
+      "nameCN": "老练西帕希骑兵",
       "pbgid": 2136770,
       "attribName": "unit_sipahi_3_byz",
       "age": 3,
@@ -188,6 +191,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nThis Mercenary can only be purchased on Mercenary Houses built near a neutral Trade Post that list this unit. The chance of this unit being available on a Trade Post is 20%.",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -325,6 +329,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Elite Sipahi",
+      "nameCN": "精锐西帕希骑兵",
       "pbgid": 2136771,
       "attribName": "unit_sipahi_4_byz",
       "age": 4,
@@ -332,6 +337,7 @@
         "by"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen\n\nMercenary that can be purchased per 3 units for a total of 450 Olive Oil.\n\nThis Mercenary can only be purchased on Mercenary Houses built near a neutral Trade Post that list this unit. The chance of this unit being available on a Trade Post is 20%.",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -469,6 +475,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Sipahi",
+      "nameCN": "西帕希骑兵",
       "pbgid": 2046436,
       "attribName": "unit_horseman_2_ott",
       "age": 2,
@@ -476,6 +483,7 @@
         "ot"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -611,6 +619,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Veteran Sipahi",
+      "nameCN": "老练西帕希骑兵",
       "pbgid": 2046437,
       "attribName": "unit_horseman_3_ott",
       "age": 3,
@@ -618,6 +627,7 @@
         "ot"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",
@@ -753,6 +763,7 @@
       "baseId": "sipahi",
       "type": "unit",
       "name": "Elite Sipahi",
+      "nameCN": "精锐西帕希骑兵",
       "pbgid": 2046438,
       "attribName": "unit_horseman_4_ott",
       "age": 4,
@@ -760,6 +771,7 @@
         "ot"
       ],
       "description": "Fast cavalry effective at raiding, flanking, and countering ranged units. Can gain attack speed at the cost of melee defense.\n+ High movement speed\n+ Strong against ranged units\n- Weak against melee units\n- Countered by Spearmen",
+      "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
       "classes": [
         "annihilation_condition",
         "cavalry",

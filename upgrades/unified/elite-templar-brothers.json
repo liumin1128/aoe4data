@@ -27,6 +27,7 @@
       "baseId": "elite-templar-brothers",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 8999872,
       "attribName": "upgrade_unit_knight_templar_4_tem",
       "age": 4,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "Upgrade Templar Brothers to Elite Templar Brothers.",
+      "descriptionCN": "将圣殿骑士修士升级为精锐圣殿骑士修士。",
       "classes": [
         "french_upgrade",
         "military_upgrade",

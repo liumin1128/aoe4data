@@ -28,6 +28,7 @@
       "baseId": "roller-shutter-triggers-improved",
       "type": "technology",
       "name": "Roller Shutter Triggers (Improved)",
+      "nameCN": "卷帘式触发器 (已强化)",
       "pbgid": 175010,
       "attribName": "upgrade_siege_roller_trigger_improved_mon",
       "age": 4,
@@ -35,6 +36,7 @@
         "mo"
       ],
       "description": "Increases Springald attack speed by +35%, grants +10% Ranged Resistance, and increases health by +10.\nIf Roller Shutter Triggers has already been researched, increase attack speed by 10% and health by +10 instead.",
+      "descriptionCN": "扭力弩炮攻击速度 +35%，远程抗性 +10%，生命值 +10。\n如果已研究卷帘式触发器，则攻击速度 +10%，生命值 +10。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",

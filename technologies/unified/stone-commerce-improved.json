@@ -27,6 +27,7 @@
       "baseId": "stone-commerce-improved",
       "type": "technology",
       "name": "Stone Commerce (Improved)",
+      "nameCN": "石料商业 (已强化)",
       "pbgid": 205810,
       "attribName": "upgrade_trader_silkroad_stone_improved_mon",
       "age": 4,
@@ -34,6 +35,7 @@
         "mo"
       ],
       "description": "Traders supply +20% Stone to their trades.\nIf Stone Commerce has already been researched, supply +10% Stone instead.",
+      "descriptionCN": "商人在交易时供应的石料 +20%。\n如果已完成石料商业研究，则供应的石料 +10%。",
       "classes": [
         "mongol_upgrade",
         "scar_economic_upgrade",

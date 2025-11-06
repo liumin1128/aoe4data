@@ -47,6 +47,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 199631,
       "attribName": "building_econ_food_control_abb",
       "age": 1,
@@ -54,6 +55,7 @@
         "ab"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
       "classes": [
         "building",
         "economy_building",
@@ -111,6 +113,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 7712467,
       "attribName": "building_econ_food_control_abb_ha_01",
       "age": 1,
@@ -118,6 +121,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
       "classes": [
         "building",
         "economy_building",
@@ -175,6 +179,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 2104737,
       "attribName": "building_econ_food_control_byz",
       "age": 1,
@@ -182,6 +187,7 @@
         "by"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+      "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
       "classes": [
         "building",
         "economy_building",
@@ -238,6 +244,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 144662,
       "attribName": "building_econ_food_control_chi",
       "age": 1,
@@ -245,6 +252,7 @@
         "ch"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",
@@ -301,6 +309,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 135805,
       "attribName": "building_econ_food_control_sul",
       "age": 1,
@@ -308,6 +317,7 @@
         "de"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nConstructing the Mill near Berry Bushes increases the amount of Food available by +100.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
       "classes": [
         "building",
         "economy_building",
@@ -364,6 +374,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 170823,
       "attribName": "building_econ_food_control_eng",
       "age": 1,
@@ -371,6 +382,7 @@
         "en"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -427,6 +439,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 132424,
       "attribName": "building_econ_food_control_fre",
       "age": 1,
@@ -434,6 +447,7 @@
         "fr"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -488,6 +502,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 134765,
       "attribName": "building_econ_food_control_hre",
       "age": 1,
@@ -495,6 +510,7 @@
         "hr"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -551,6 +567,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 5000036,
       "attribName": "building_econ_mill_lan",
       "age": 1,
@@ -558,6 +575,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -612,6 +630,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 4101858,
       "attribName": "building_econ_food_control_fre_ha_01",
       "age": 1,
@@ -619,6 +638,7 @@
         "je"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -674,6 +694,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 5000223,
       "attribName": "building_mill_tem",
       "age": 1,
@@ -681,6 +702,7 @@
         "kt"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -735,6 +757,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 9000931,
       "attribName": "building_econ_food_control_byz_ha_mac",
       "age": 1,
@@ -742,6 +765,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering. Byzantine Villagers generate Olive Oil equal to 50% of Food from Berry Bushes, 10% from Fish, and 20% from Olive Groves.",
+      "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
       "classes": [
         "building",
         "economy_building",
@@ -796,6 +820,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 2610685,
       "attribName": "building_econ_food_mal",
       "age": 1,
@@ -803,6 +828,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nProduce Cattle which can be harvested for Food by Villagers or garrisoned within Cattle Ranches for Food over time.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。\n村民可以收获这些牛作为食物，或者将牛放置在养牛场，牛会随着时间的推移生产食物。",
       "classes": [
         "building",
         "economy_building",
@@ -857,6 +883,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 7147465,
       "attribName": "building_econ_food_control_hre_ha_01",
       "age": 1,
@@ -864,6 +891,7 @@
         "od"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -920,6 +948,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 2034602,
       "attribName": "building_econ_food_ott",
       "age": 1,
@@ -927,6 +956,7 @@
         "ot"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.",
+      "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -981,6 +1011,7 @@
       "baseId": "mill",
       "type": "building",
       "name": "Mill",
+      "nameCN": "磨坊",
       "pbgid": 2323132,
       "attribName": "building_econ_food_control_chi_ha_01",
       "age": 1,
@@ -988,6 +1019,7 @@
         "zx"
       ],
       "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",

@@ -19,6 +19,7 @@
       "baseId": "ability-relic-garrisoned-keep",
       "type": "ability",
       "name": "Relic Garrisoned in Defensive Structures",
+      "nameCN": "存放的圣物",
       "pbgid": 195371,
       "attribName": "relic_tower_keep_bonus_hre",
       "age": 3,
@@ -26,6 +27,7 @@
         "hr"
       ],
       "description": "• Armor increased by +25%\n• Damage increased by +25%\n• Sight range increased by +20%\n• Weapon range increased by +20%",
+      "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -125,6 +127,7 @@
       "baseId": "ability-relic-garrisoned-keep",
       "type": "ability",
       "name": "Relic Garrisoned in Defensive Structures",
+      "nameCN": "存放的圣物",
       "pbgid": 195371,
       "attribName": "relic_tower_keep_bonus_hre",
       "age": 3,
@@ -132,6 +135,7 @@
         "od"
       ],
       "description": "• Armor increased by +25%\n• Damage increased by +25%\n• Sight range increased by +20%\n• Weapon range increased by +20%",
+      "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

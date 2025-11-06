@@ -28,6 +28,7 @@
       "baseId": "veteran-onna-bugeisha",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 2127202,
       "attribName": "upgrade_unit_onna_bugeisha_3_jpn",
       "age": 3,
@@ -35,6 +36,7 @@
         "ja"
       ],
       "description": "Upgrade Onna-Bugeisha to Veteran Onna-Bugeisha.",
+      "descriptionCN": "将女武艺者升级为老练女武艺者。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "japanese_upgrade",

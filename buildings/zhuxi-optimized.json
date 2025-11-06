@@ -40,6 +40,7 @@
           "baseId": "archery-range",
           "type": "building",
           "name": "Archery Range",
+          "nameCN": "靶场",
           "pbgid": 5959804,
           "attribName": "building_unit_ranged_control_chi_ha_01",
           "age": 2,
@@ -47,6 +48,7 @@
             "zx"
           ],
           "description": "Produces ranged infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产远程步兵单位。\n每次生产一个单位或进行研究都会产生税。",
           "classes": [
             "archery_range",
             "building",
@@ -126,6 +128,7 @@
           "baseId": "barracks",
           "type": "building",
           "name": "Barracks",
+          "nameCN": "兵营",
           "pbgid": 4586329,
           "attribName": "building_unit_infantry_control_chi_ha_01",
           "age": 1,
@@ -133,6 +136,7 @@
             "zx"
           ],
           "description": "Produces melee infantry units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产近战步兵单位。\n每次生产一个单位或进行研究都会产生税。",
           "classes": [
             "barracks",
             "building",
@@ -210,6 +214,7 @@
           "baseId": "blacksmith",
           "type": "building",
           "name": "Blacksmith",
+          "nameCN": "铁匠铺",
           "pbgid": 4996231,
           "attribName": "building_tech_unit_infantry_control_chi_ha_01",
           "age": 2,
@@ -217,6 +222,7 @@
             "zx"
           ],
           "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
           "classes": [
             "blacksmith",
             "building",
@@ -303,6 +309,7 @@
           "baseId": "capital-town-center",
           "type": "building",
           "name": "Capital Town Center",
+          "nameCN": "城镇中心",
           "pbgid": 5231702,
           "attribName": "building_town_center_capital_chi_ha_01",
           "age": 1,
@@ -310,6 +317,7 @@
             "zx"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nCapital Town Centers can detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装。",
           "classes": [
             "building",
             "defensive_structure",
@@ -412,6 +420,7 @@
           "baseId": "dock",
           "type": "building",
           "name": "Dock",
+          "nameCN": "码头",
           "pbgid": 2760206,
           "attribName": "building_unit_naval_chi_ha_01",
           "age": 1,
@@ -419,6 +428,7 @@
             "zx"
           ],
           "description": "Produces naval units.\nAutomatically repairs nearby damaged naval units.\nCapable of holding up to three fishing ships.\nGenerates Tax each time a unit or research is produced.",
+          "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。\n每次生产一个单位或进行研究都会产生税。",
           "classes": [
             "building",
             "military_only_production",
@@ -506,6 +516,7 @@
           "baseId": "enclave-of-the-emperor",
           "type": "building",
           "name": "Enclave of the Emperor",
+          "nameCN": "帝王飞地",
           "pbgid": 4276574,
           "attribName": "building_wonder_age4_forbidden_control_chi_ha_01",
           "age": 4,
@@ -513,6 +524,7 @@
             "zx"
           ],
           "description": "Build and defend a Wonder to secure victory. Rival civilizations will be aware of its construction and seek to destroy it.",
+          "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
           "classes": [
             "audio_production_landmark",
             "building",
@@ -590,6 +602,7 @@
           "baseId": "farm",
           "type": "building",
           "name": "Farm",
+          "nameCN": "农田",
           "pbgid": 5000269,
           "attribName": "building_resource_farm_chi_ha_01",
           "age": 1,
@@ -597,6 +610,7 @@
             "zx"
           ],
           "description": "Harvestable Food source. Use a Villager to gather Food from the Farm.\nOnly one Villager can work each Farm.",
+          "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
           "classes": [
             "building",
             "farm",
@@ -676,6 +690,7 @@
           "baseId": "granary",
           "type": "building",
           "name": "Granary",
+          "nameCN": "谷仓",
           "pbgid": 7869339,
           "attribName": "building_dynasty_granary_control_chi_ha_01",
           "age": 1,
@@ -683,6 +698,7 @@
             "zx"
           ],
           "description": "Villagers can drop off Food at this building. Improves the Farm gather rate of nearby Villagers by +10% (stacks with other Granaries). Generates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将食物存放于这个建筑。使附近村民的农田采集速率 +10% (可与其他谷仓叠加)。每次存放资源都会产生税。",
           "classes": [
             "building",
             "economy_building",
@@ -760,6 +776,7 @@
           "baseId": "house",
           "type": "building",
           "name": "House",
+          "nameCN": "房屋",
           "pbgid": 8924751,
           "attribName": "building_house_control_chi_ha_01",
           "age": 1,
@@ -767,6 +784,7 @@
             "zx"
           ],
           "description": "Increases your maximum Population.",
+          "descriptionCN": "提升您的人口上限。",
           "classes": [
             "building",
             "house",
@@ -846,6 +864,7 @@
           "baseId": "jiangnan-tower",
           "type": "building",
           "name": "Jiangnan Tower",
+          "nameCN": "江南塔",
           "pbgid": 4715934,
           "attribName": "building_landmark_age1_prefecture_chi_ha_01",
           "age": 2,
@@ -853,6 +872,7 @@
             "zx"
           ],
           "description": "Acts as a tax drop-off for Imperial Officials.\nReceive a free unit at the tower whenever a Barracks, Archery Range, or Stable is completed. Receive a free Villager whenever a Town Center is completed.",
+          "descriptionCN": "可作为朝廷命官的税金存放使用。\n兵营、靶场或马厩建成时可免费在塔楼处获得一个单位。城镇中心建成时可获得一名免费村民。",
           "classes": [
             "age1_landmark2",
             "audio_production_landmark",
@@ -936,6 +956,7 @@
           "baseId": "keep",
           "type": "building",
           "name": "Keep",
+          "nameCN": "城堡",
           "pbgid": 8086882,
           "attribName": "building_defense_keep_chi_ha_01",
           "age": 3,
@@ -943,6 +964,7 @@
             "zx"
           ],
           "description": "Heavy garrison and defensible position. Can be upgraded with weaponry. Adds additional attacks while garrisoned.",
+          "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
           "classes": [
             "building",
             "castle",
@@ -1079,6 +1101,7 @@
           "baseId": "lumber-camp",
           "type": "building",
           "name": "Lumber Camp",
+          "nameCN": "伐木场",
           "pbgid": 5252131,
           "attribName": "building_econ_wood_control_chi_ha_01",
           "age": 1,
@@ -1086,6 +1109,7 @@
             "zx"
           ],
           "description": "Villagers can drop off Wood at this building. Houses technologies to improve Wood gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将木材存放于这个建筑。可研究提升木材采集效率的科技。\n每次存放资源都会产生税。",
           "classes": [
             "building",
             "economy_building",
@@ -1165,6 +1189,7 @@
           "baseId": "market",
           "type": "building",
           "name": "Market",
+          "nameCN": "市场",
           "pbgid": 3933205,
           "attribName": "building_econ_market_control_chi_ha_01",
           "age": 2,
@@ -1172,6 +1197,7 @@
             "zx"
           ],
           "description": "Allows the buying and selling of resources and produces the Trader. Generates tax each time a Trader is produced.",
+          "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
           "classes": [
             "building",
             "economy_building",
@@ -1255,6 +1281,7 @@
           "baseId": "meditation-gardens",
           "type": "building",
           "name": "Meditation Gardens",
+          "nameCN": "冥想花园",
           "pbgid": 6065722,
           "attribName": "building_landmark_age1_meditation_gardens_control_chi_ha_01",
           "age": 1,
@@ -1262,6 +1289,7 @@
             "zx"
           ],
           "description": "Generates resources depending on the type of resources nearby. \nThe more resources are nearby, the more resources are generated. Enemy units nearby disturb the peace and reduce resources generated.",
+          "descriptionCN": "根据附近的资源类型生成资源。\n附近的资源越多，生成的资源越多。附近的敌方单位会扰乱和平状态并减少生成的资源。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -1346,6 +1374,7 @@
           "baseId": "mill",
           "type": "building",
           "name": "Mill",
+          "nameCN": "磨坊",
           "pbgid": 2323132,
           "attribName": "building_econ_food_control_chi_ha_01",
           "age": 1,
@@ -1353,6 +1382,7 @@
             "zx"
           ],
           "description": "Villagers can drop off Food at this building. Houses technologies to improve Food gathering.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n每次存放资源都会产生税。",
           "classes": [
             "building",
             "economy_building",
@@ -1435,6 +1465,7 @@
           "baseId": "mining-camp",
           "type": "building",
           "name": "Mining Camp",
+          "nameCN": "采矿场",
           "pbgid": 7030371,
           "attribName": "building_econ_mining_camp_control_chi_ha_01",
           "age": 1,
@@ -1442,6 +1473,7 @@
             "zx"
           ],
           "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off.",
+          "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。\n每次存放资源都会产生税。",
           "classes": [
             "building",
             "economy_building",
@@ -1522,6 +1554,7 @@
           "baseId": "monastery",
           "type": "building",
           "name": "Monastery",
+          "nameCN": "修道院",
           "pbgid": 2504696,
           "attribName": "building_unit_religious_control_chi_ha_01",
           "age": 3,
@@ -1529,6 +1562,7 @@
             "zx"
           ],
           "description": "Produces religious units. \nGenerates tax each time a unit or research is produced.\nStarting in the Castle Age (III), religious units can pick up Relics and place them in this building to generate Gold.",
+          "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
           "classes": [
             "building",
             "monastery",
@@ -1612,6 +1646,7 @@
           "baseId": "mount-lu-academy",
           "type": "building",
           "name": "Mount Lu Academy",
+          "nameCN": "白鹿洞书院",
           "pbgid": 6406822,
           "attribName": "building_landmark_age2_white_deer_grotto_control_chi_ha_01",
           "age": 1,
@@ -1619,6 +1654,7 @@
             "zx"
           ],
           "description": "Imperial Officials collect tax twice as often and also collect 20% of taxes as Food.\nContains unique upgrades that greatly improve the Imperial Official unit.",
+          "descriptionCN": "朝廷命官可以频繁征税，还会收取 20% 的税款用于食物的开销。\n包含特殊升级，可以大幅强化朝廷命官单位。",
           "classes": [
             "age2_landmark2",
             "audio_production_landmark",
@@ -1703,6 +1739,7 @@
           "baseId": "outpost",
           "type": "building",
           "name": "Outpost",
+          "nameCN": "哨站",
           "pbgid": 7167197,
           "attribName": "building_defense_outpost_chi_ha_01",
           "age": 1,
@@ -1710,6 +1747,7 @@
             "zx"
           ],
           "description": "Offers extensive line of sight and detects units stealth or disguises. Can be upgraded with weaponry and fortifications. Attacks while garrisoned.",
+          "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
           "classes": [
             "building",
             "defensive_structure",
@@ -1799,6 +1837,7 @@
           "baseId": "pagoda",
           "type": "building",
           "name": "Pagoda",
+          "nameCN": "宝塔",
           "pbgid": 6893543,
           "attribName": "building_dynasty_pagoda_control_chi_ha_01",
           "age": 1,
@@ -1806,6 +1845,7 @@
             "zx"
           ],
           "description": "Religious units can pick up Relics and place them in the Pagoda to generate +100 Gold, +62 Food, +62 Wood, and +25 Stone every 60 seconds.",
+          "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，可以每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。",
           "classes": [
             "building",
             "military_production_building",
@@ -1882,6 +1922,7 @@
           "baseId": "palisade",
           "type": "building",
           "name": "Palisade",
+          "nameCN": "木栅栏",
           "pbgid": 4446420,
           "attribName": "building_defense_palisade_chi_ha_01",
           "age": 1,
@@ -1889,6 +1930,7 @@
             "zx"
           ],
           "description": "Light defensive wall for quickly fortifying an area.\nInitially costs 21 Wood, with each additional section costing 7 Wood.",
+          "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
           "classes": [
             "building",
             "defensive_structure",
@@ -1966,6 +2008,7 @@
           "baseId": "palisade-gate",
           "type": "building",
           "name": "Palisade Gate",
+          "nameCN": "木城门",
           "pbgid": 5976475,
           "attribName": "building_defense_palisade_gate_chi_ha_01",
           "age": 1,
@@ -1973,6 +2016,7 @@
             "zx"
           ],
           "description": "Light defensive gate. Must be built on a Palisade Wall segment.",
+          "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
           "classes": [
             "building",
             "defensive_structure",
@@ -2059,6 +2103,7 @@
           "baseId": "shaolin-monastery",
           "type": "building",
           "name": "Shaolin Monastery",
+          "nameCN": "少林寺",
           "pbgid": 4136240,
           "attribName": "building_landmark_age2_shaolin_temple_control_chi_ha_01",
           "age": 2,
@@ -2066,6 +2111,7 @@
             "zx"
           ],
           "description": "Unique Monastery capable of producing Shaolin Monks. From the Yuan Dynasty onwards, Shaolin Monks can also be produced from Pagodas.",
+          "descriptionCN": "独特的修道院，能够生产少林僧侣。从元朝开始，宝塔也可以生产少林僧侣。",
           "classes": [
             "age2_landmark1",
             "audio_production_landmark",
@@ -2153,6 +2199,7 @@
           "baseId": "siege-workshop",
           "type": "building",
           "name": "Siege Workshop",
+          "nameCN": "攻城武器厂",
           "pbgid": 7268500,
           "attribName": "building_unit_siege_control_chi_ha_01",
           "age": 3,
@@ -2160,6 +2207,7 @@
             "zx"
           ],
           "description": "Produces siege engines and powerful gunpowder units.\nGenerates tax each time a unit is produced.",
+          "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。",
           "classes": [
             "building",
             "military_only_production",
@@ -2239,6 +2287,7 @@
           "baseId": "stable",
           "type": "building",
           "name": "Stable",
+          "nameCN": "马厩",
           "pbgid": 7617500,
           "attribName": "building_unit_cavalry_control_chi_ha_01",
           "age": 2,
@@ -2246,6 +2295,7 @@
             "zx"
           ],
           "description": "Produces cavalry military units.\nGenerates tax each time a unit or research is produced.",
+          "descriptionCN": "生产骑兵军事单位。\n每次生产一个单位或进行研究都会产生税。",
           "classes": [
             "building",
             "military_only_production",
@@ -2324,6 +2374,7 @@
           "baseId": "stone-wall",
           "type": "building",
           "name": "Stone Wall",
+          "nameCN": "石墙",
           "pbgid": 8903393,
           "attribName": "building_defense_wall_chi_ha_01",
           "age": 2,
@@ -2331,6 +2382,7 @@
             "zx"
           ],
           "description": "Sturdy wall that cannot be attacked by torches. \nUnits on walls take 25% less damage from ranged attacks, 50% less damage from siege attacks, and their range is increased by +1.",
+          "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
           "classes": [
             "building",
             "defensive_structure",
@@ -2408,6 +2460,7 @@
           "baseId": "stone-wall-gate",
           "type": "building",
           "name": "Stone Wall Gate",
+          "nameCN": "石墙城门",
           "pbgid": 3174473,
           "attribName": "building_defense_wall_gate_chi_ha_01",
           "age": 2,
@@ -2415,6 +2468,7 @@
             "zx"
           ],
           "description": "Heavy defensive gate. Must be built on a Stone Wall segment.\nInfantry can use the gate to access the top of the walls.",
+          "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
           "classes": [
             "building",
             "defensive_structure",
@@ -2493,6 +2547,7 @@
           "baseId": "stone-wall-tower",
           "type": "building",
           "name": "Stone Wall Tower",
+          "nameCN": "石墙塔",
           "pbgid": 5400246,
           "attribName": "building_defense_tower_chi_ha_01",
           "age": 2,
@@ -2500,6 +2555,7 @@
             "zx"
           ],
           "description": "Heavy defensive tower that fires a springald. Must be built on a Stone Wall segment.\nInfantry can use the tower to access the top of the walls.",
+          "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
           "classes": [
             "building",
             "defensive_structure",
@@ -2620,6 +2676,7 @@
           "baseId": "temple-of-the-sun",
           "type": "building",
           "name": "Temple of the Sun",
+          "nameCN": "孙武祠",
           "pbgid": 7368723,
           "attribName": "building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
           "age": 3,
@@ -2627,6 +2684,7 @@
             "zx"
           ],
           "description": "Activate powerful abilities that improve speed, damage, range, or regeneration of specific units.",
+          "descriptionCN": "激活强悍的能力，可以提高特定单位的速度、伤害、射程或恢复效果。",
           "classes": [
             "age3_landmark2",
             "audio_production_landmark",
@@ -2713,6 +2771,7 @@
           "baseId": "town-center",
           "type": "building",
           "name": "Town Center",
+          "nameCN": "城镇中心",
           "pbgid": 6034931,
           "attribName": "building_town_center_chi_ha_01",
           "age": 1,
@@ -2720,6 +2779,7 @@
             "zx"
           ],
           "description": "All Resources can be dropped off here. Produces Villagers, Scouts, Officials, and increases your maximum Population. Adds additional attacks while garrisoned.\nNon-Capital Town Centers can't detect stealth or disguises.",
+          "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和命官，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "classes": [
             "building",
             "emits_herding_interest",
@@ -2813,6 +2873,7 @@
           "baseId": "university",
           "type": "building",
           "name": "University",
+          "nameCN": "大学",
           "pbgid": 6172677,
           "attribName": "building_tech_university_control_chi_ha_01",
           "age": 4,
@@ -2820,6 +2881,7 @@
             "zx"
           ],
           "description": "Houses advanced technology that benefits the civilization.\nGenerates tax each time a technology completes.",
+          "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。",
           "classes": [
             "building",
             "research_building",
@@ -2894,6 +2956,7 @@
           "baseId": "village",
           "type": "building",
           "name": "Village",
+          "nameCN": "村庄",
           "pbgid": 8804259,
           "attribName": "building_dynasty_village_control_chi_ha_01",
           "age": 1,
@@ -2901,6 +2964,7 @@
             "zx"
           ],
           "description": "Increases maximum Population by 40.",
+          "descriptionCN": "人口上限提升 40。",
           "classes": [
             "building",
             "house",
@@ -3027,6 +3091,7 @@
           "baseId": "zhu-xis-library",
           "type": "building",
           "name": "Zhu Xi's Library",
+          "nameCN": "朱熹书院",
           "pbgid": 4927324,
           "attribName": "building_landmark_age3_library_chi_ha_01",
           "age": 3,
@@ -3034,6 +3099,7 @@
             "zx"
           ],
           "description": "Hosts a range of highly unique upgrades.\nCan unlock Yuan Raiders and Imperial Guards. Only 2 technologies can be researched.",
+          "descriptionCN": "提供一系列非常独特的升级。\n可解锁元朝掠夺者和皇宫卫兵。仅可研究 2 科技。",
           "classes": [
             "age3_landmark1",
             "audio_production_landmark",

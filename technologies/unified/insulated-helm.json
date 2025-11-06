@@ -64,6 +64,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -71,6 +72,7 @@
         "ab"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -146,6 +148,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -153,6 +156,7 @@
         "ay"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -228,6 +232,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -235,6 +240,7 @@
         "by"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -310,6 +316,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -317,6 +324,7 @@
         "ch"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -392,6 +400,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188125,
       "attribName": "upgrade_melee_armor_ii_sul",
       "age": 3,
@@ -399,6 +408,7 @@
         "de"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -458,6 +468,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -465,6 +476,7 @@
         "en"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -540,6 +552,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -547,6 +560,7 @@
         "fr"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -622,6 +636,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -629,6 +644,7 @@
         "gol"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -704,6 +720,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -711,6 +728,7 @@
         "hr"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -787,6 +805,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -794,6 +813,7 @@
         "hl"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -869,6 +889,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -876,6 +897,7 @@
         "ja"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -951,6 +973,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -958,6 +981,7 @@
         "je"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1033,6 +1057,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1040,6 +1065,7 @@
         "kt"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1115,6 +1141,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1122,6 +1149,7 @@
         "ma"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1197,6 +1225,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1204,6 +1233,7 @@
         "mo"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1279,6 +1309,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1286,6 +1317,7 @@
         "od"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1362,6 +1394,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1369,6 +1402,7 @@
         "ot"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1444,6 +1478,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1451,6 +1486,7 @@
         "ru"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1526,6 +1562,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1533,6 +1570,7 @@
         "sen"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1608,6 +1646,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 9003709,
       "attribName": "upgrade_melee_armor_ii_sul_ha_tug",
       "age": 3,
@@ -1615,6 +1654,7 @@
         "tug"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -1674,6 +1714,7 @@
       "baseId": "insulated-helm",
       "type": "technology",
       "name": "Insulated Helm",
+      "nameCN": "绝缘头盔",
       "pbgid": 188121,
       "attribName": "upgrade_melee_armor_ii",
       "age": 3,
@@ -1681,6 +1722,7 @@
         "zx"
       ],
       "description": "Increase the melee armor of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战护甲 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

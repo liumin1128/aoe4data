@@ -60,6 +60,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -67,6 +68,7 @@
         "ab"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -112,6 +114,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -119,6 +122,7 @@
         "ay"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -164,6 +168,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -171,6 +176,7 @@
         "ch"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -216,6 +222,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 181873,
       "attribName": "upgrade_unit_spearman_4_sul",
       "age": 4,
@@ -223,6 +230,7 @@
         "de"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -256,6 +264,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 131052,
       "attribName": "upgrade_unit_spearman_4_eng",
       "age": 4,
@@ -263,6 +272,7 @@
         "en"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -296,6 +306,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -303,6 +314,7 @@
         "fr"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -348,6 +360,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 136268,
       "attribName": "upgrade_unit_spearman_4_mon",
       "age": 4,
@@ -355,6 +368,7 @@
         "gol"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -388,6 +402,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -395,6 +410,7 @@
         "hr"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -441,6 +457,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -448,6 +465,7 @@
         "hl"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -493,6 +511,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -500,6 +519,7 @@
         "ja"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -545,6 +565,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -552,6 +573,7 @@
         "je"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -597,6 +619,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -604,6 +627,7 @@
         "kt"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -649,6 +673,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 136268,
       "attribName": "upgrade_unit_spearman_4_mon",
       "age": 4,
@@ -656,6 +681,7 @@
         "mo"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -689,6 +715,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -696,6 +723,7 @@
         "ot"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -741,6 +769,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -748,6 +777,7 @@
         "ru"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -793,6 +823,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -800,6 +831,7 @@
         "sen"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -845,6 +877,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2273132,
       "attribName": "upgrade_unit_spearman_4_sul_ha_tug",
       "age": 4,
@@ -852,6 +885,7 @@
         "tug"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -885,6 +919,7 @@
       "baseId": "elite-spearmen",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 124659,
       "attribName": "upgrade_unit_spearman_4",
       "age": 4,
@@ -892,6 +927,7 @@
         "zx"
       ],
       "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+      "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

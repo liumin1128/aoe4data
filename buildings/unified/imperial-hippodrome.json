@@ -35,6 +35,7 @@
       "baseId": "imperial-hippodrome",
       "type": "building",
       "name": "Imperial Hippodrome",
+      "nameCN": "帝国竞技场",
       "pbgid": 2104742,
       "attribName": "building_landmark_age1_hippodrome_byz",
       "age": 1,
@@ -42,6 +43,7 @@
         "by"
       ],
       "description": "Acts as a Stable. Contains the Triumph ability that can be activated with Supply Points to increase cavalry melee damage, move speed, and health regeneration. \nComes with 10 Supply Points and generates one every 25 seconds. Earn more points by defeating enemy units.",
+      "descriptionCN": "可作为马厩使用。具备凯旋能力，可使用补给点激活，以增加骑兵近战伤害、移动速度和生命值恢复效果。\n自带 10 个补给点，并且每 25 秒产生一个。击败敌方单位可获取更多点数。",
       "classes": [
         "age1_landmark2",
         "building",
@@ -101,6 +103,7 @@
       "baseId": "imperial-hippodrome",
       "type": "building",
       "name": "Imperial Hippodrome",
+      "nameCN": "帝国竞技场",
       "pbgid": 9000936,
       "attribName": "building_landmark_age1_hippodrome_byz_ha_mac",
       "age": 1,
@@ -108,6 +111,7 @@
         "mac"
       ],
       "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+      "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
       "classes": [
         "age1_landmark2",
         "building",

@@ -27,6 +27,7 @@
       "baseId": "poisoned-arrows",
       "type": "technology",
       "name": "Poisoned Arrows",
+      "nameCN": "毒箭",
       "pbgid": 2064213,
       "attribName": "upgrade_archer_poison_arrow_mal",
       "age": 3,
@@ -34,6 +35,7 @@
         "ma"
       ],
       "description": "Archer arrows deal an additional 3 damage over 6 seconds.",
+      "descriptionCN": "步弓手弓箭可造成额外 3 伤害，持续 6 秒。",
       "classes": [
         "malian_upgrade",
         "military_upgrade",

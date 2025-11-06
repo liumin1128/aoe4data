@@ -27,6 +27,7 @@
       "baseId": "palace-guards",
       "type": "upgrade",
       "name": "Upgrade to Palace Guards",
+      "nameCN": "升级为皇宫卫兵",
       "pbgid": 2138272,
       "attribName": "upgrade_unit_manatarms_3_chi_ha_01",
       "age": 3,
@@ -34,6 +35,7 @@
         "zx"
       ],
       "description": "Upgrade Early Palace Guards to Palace Guards.",
+      "descriptionCN": "将早期皇宫卫兵升级为皇宫卫兵。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

@@ -23,6 +23,7 @@
       "baseId": "level-4-field-commander",
       "type": "technology",
       "name": "Field Commander",
+      "nameCN": "战地指挥官",
       "pbgid": 2136347,
       "attribName": "jeanne_d_arc_journey_of_a_hero_commander_monarch_fre_ha_01",
       "age": 0,
@@ -30,6 +31,7 @@
         "je"
       ],
       "description": "Level 4 option\n\nJeanne's Rally Call ability will now call 7 of her chosen companions onto the Battlefield.\nGains the Strength of Heaven ultimate ability, which greatly empowers a single unit.\n\nRequires 500XP",
+      "descriptionCN": "贞德的号召能力现可在战场上召唤她选择的 7 位同伴。\n获得天堂之力终极能力，可以大幅强化单个单位。",
       "classes": [
         "hero",
         "level-up-choice"

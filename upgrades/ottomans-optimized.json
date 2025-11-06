@@ -38,6 +38,7 @@
           "baseId": "elite-akinji",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9000526,
           "attribName": "upgrade_unit_horsearcher_4_ott",
           "age": 4,
@@ -45,6 +46,7 @@
             "ot"
           ],
           "description": "Upgrade Veteran Akinji to Elite Akinji.",
+          "descriptionCN": "将老练阿金基轻骑兵升级为精锐阿金基轻骑兵。",
           "classes": [
             "military_upgrade",
             "ottoman_upgrade",
@@ -114,6 +116,7 @@
           "baseId": "elite-archers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 125895,
           "attribName": "upgrade_unit_archer_4",
           "age": 4,
@@ -121,6 +124,7 @@
             "ot"
           ],
           "description": "Upgrade Veteran Archers to Elite Archers.",
+          "descriptionCN": "将老练步弓手升级为精锐步弓手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -199,6 +203,7 @@
           "baseId": "elite-crossbowmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124651,
           "attribName": "upgrade_unit_crossbowman_4",
           "age": 4,
@@ -206,6 +211,7 @@
             "ot"
           ],
           "description": "Upgrade Crossbowmen to Elite Crossbowmen.",
+          "descriptionCN": "将弩手升级为精锐弩手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -273,6 +279,7 @@
           "baseId": "elite-janissary",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2060003,
           "attribName": "upgrade_unit_handcannon_4_ott",
           "age": 4,
@@ -280,6 +287,7 @@
             "ot"
           ],
           "description": "Upgrade Janissary to Elite Janissary.",
+          "descriptionCN": "将苏丹亲兵升级为精锐苏丹亲兵。",
           "classes": [
             "military_upgrade",
             "ottoman_upgrade",
@@ -347,6 +355,7 @@
           "baseId": "elite-knights-or-lancers",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124721,
           "attribName": "upgrade_unit_knight_4",
           "age": 4,
@@ -354,6 +363,7 @@
             "ot"
           ],
           "description": "Upgrade Knights or Lancers to Elite Knights or Lancers.",
+          "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -426,6 +436,7 @@
           "baseId": "elite-men-at-arms",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124660,
           "attribName": "upgrade_unit_manatarms_4",
           "age": 4,
@@ -433,6 +444,7 @@
             "ot"
           ],
           "description": "Upgrade Men-at-Arms to Elite Men-at-Arms.",
+          "descriptionCN": "将武士升级为精锐武士。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "ayyubid_cmp_upgrade",
@@ -496,6 +508,7 @@
           "baseId": "elite-sipahi",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 2063089,
           "attribName": "upgrade_unit_horseman_4_ott",
           "age": 4,
@@ -503,6 +516,7 @@
             "ot"
           ],
           "description": "Upgrade Veteran Sipahi to Elite Sipahi.",
+          "descriptionCN": "将老练西帕希骑兵升级为精锐西帕希骑兵。",
           "classes": [
             "military_upgrade",
             "ottoman_upgrade",
@@ -573,6 +587,7 @@
           "baseId": "elite-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 124659,
           "attribName": "upgrade_unit_spearman_4",
           "age": 4,
@@ -580,6 +595,7 @@
             "ot"
           ],
           "description": "Upgrade Veteran Spearmen to Elite Spearmen.",
+          "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -662,6 +678,7 @@
           "baseId": "hardened-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Hardened",
+          "nameCN": "升级为坚韧",
           "pbgid": 127174,
           "attribName": "upgrade_unit_spearman_2",
           "age": 2,
@@ -669,6 +686,7 @@
             "ot"
           ],
           "description": "Upgrade Spearmen to Hardened Spearmen.",
+          "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -739,6 +757,7 @@
           "baseId": "veteran-akinji",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 9000525,
           "attribName": "upgrade_unit_horsearcher_3_ott",
           "age": 3,
@@ -746,6 +765,7 @@
             "ot"
           ],
           "description": "Upgrade Akinji to Veteran Akinji.",
+          "descriptionCN": "将阿金基轻骑兵升级为老练阿金基轻骑兵。",
           "classes": [
             "military_upgrade",
             "ottoman_upgrade",
@@ -815,6 +835,7 @@
           "baseId": "veteran-archers",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 170246,
           "attribName": "upgrade_unit_archer_3",
           "age": 3,
@@ -822,6 +843,7 @@
             "ot"
           ],
           "description": "Upgrade Archers to Veteran Archers.",
+          "descriptionCN": "将步弓手升级为老练步弓手。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -891,6 +913,7 @@
           "baseId": "veteran-sipahi",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 2063088,
           "attribName": "upgrade_unit_horseman_3_ott",
           "age": 3,
@@ -898,6 +921,7 @@
             "ot"
           ],
           "description": "Upgrade Sipahi to Veteran Sipahi.",
+          "descriptionCN": "将西帕希骑兵升级为老练西帕希骑兵。",
           "classes": [
             "military_upgrade",
             "ottoman_upgrade",
@@ -968,6 +992,7 @@
           "baseId": "veteran-spearmen",
           "type": "upgrade",
           "name": "Upgrade to Veteran",
+          "nameCN": "升级为老练",
           "pbgid": 124662,
           "attribName": "upgrade_unit_spearman_3",
           "age": 3,
@@ -975,6 +1000,7 @@
             "ot"
           ],
           "description": "Upgrade Hardened Spearmen to Veteran Spearmen.",
+          "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",

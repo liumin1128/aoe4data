@@ -40,6 +40,7 @@
       "baseId": "trebuchet-emplacement",
       "type": "technology",
       "name": "Trebuchet Emplacement",
+      "nameCN": "巨型投石机炮台",
       "pbgid": 9000155,
       "attribName": "upgrade_keep_trebuchet",
       "age": 4,
@@ -47,6 +48,7 @@
         "kt"
       ],
       "description": "Add a defensive trebuchet emplacement to this structure.",
+      "descriptionCN": "为此建筑添加一座防御性巨型投石机炮台。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

@@ -27,6 +27,7 @@
       "baseId": "veteran-ghazi-raiders",
       "type": "upgrade",
       "name": "Upgrade to Veteran",
+      "nameCN": "升级为老练",
       "pbgid": 181864,
       "attribName": "upgrade_unit_horseman_3_sul",
       "age": 3,
@@ -34,6 +35,7 @@
         "de"
       ],
       "description": "Upgrade Ghazi Raiders to Veteran Ghazi Raiders.",
+      "descriptionCN": "将加齐掠夺者升级为老练加齐掠夺者。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",

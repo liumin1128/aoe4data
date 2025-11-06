@@ -37,6 +37,7 @@
       "baseId": "regnitz-cathedral",
       "type": "building",
       "name": "Regnitz Cathedral",
+      "nameCN": "雷格尼茨大教堂",
       "pbgid": 134917,
       "attribName": "building_landmark_age2_bamberg_cathedral_hre",
       "age": 2,
@@ -44,6 +45,7 @@
         "hr"
       ],
       "description": "Acts as a Monastery. All Relics generate +100% gold while garrisoned.",
+      "descriptionCN": "可作为修道院使用。所有放置在其中的圣物产生的黄金 +100%。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",
@@ -111,6 +113,7 @@
       "baseId": "regnitz-cathedral",
       "type": "building",
       "name": "Regnitz Cathedral",
+      "nameCN": "雷格尼茨大教堂",
       "pbgid": 2581618,
       "attribName": "building_landmark_age2_bamberg_cathedral_hre_ha_01",
       "age": 2,
@@ -118,6 +121,7 @@
         "od"
       ],
       "description": "Acts as a Monastery. All Relics generate +100% gold while garrisoned.",
+      "descriptionCN": "可作为修道院使用。所有放置在其中的圣物产生的黄金 +100%。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",

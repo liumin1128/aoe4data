@@ -18,6 +18,7 @@
       "baseId": "ability-triumph",
       "type": "ability",
       "name": "Triumph",
+      "nameCN": "凯旋",
       "pbgid": 2138249,
       "attribName": "hippodrome_triumph_byz",
       "age": 1,
@@ -25,6 +26,7 @@
         "by"
       ],
       "description": "Consume all Supply Points to increase cavalry damage by +4, move speed by +10%, and health regeneration by +2. \nEach Supply Point increases Triumph's duration by 1 seconds. A maximum of 45 Supply Points can be collected.",
+      "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
       "classes": [],
       "displayClasses": [],
       "costs": {

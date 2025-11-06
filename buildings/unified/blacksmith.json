@@ -47,6 +47,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 199637,
       "attribName": "building_tech_unit_infantry_control_abb",
       "age": 2,
@@ -54,6 +55,7 @@
         "ab"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -107,6 +109,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 4992886,
       "attribName": "building_tech_unit_infantry_control_abb_ha_01",
       "age": 2,
@@ -114,6 +117,7 @@
         "ay"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -167,6 +171,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 2104745,
       "attribName": "building_tech_unit_infantry_control_byz",
       "age": 2,
@@ -174,6 +179,7 @@
         "by"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -226,6 +232,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 145515,
       "attribName": "building_tech_unit_infantry_control_chi",
       "age": 2,
@@ -233,6 +240,7 @@
         "ch"
       ],
       "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
       "classes": [
         "blacksmith",
         "building",
@@ -285,6 +293,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 135844,
       "attribName": "building_tech_unit_infantry_control_sul",
       "age": 2,
@@ -292,6 +301,7 @@
         "de"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -344,6 +354,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 131476,
       "attribName": "building_tech_unit_infantry_control_eng",
       "age": 2,
@@ -351,6 +362,7 @@
         "en"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -401,6 +413,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 132714,
       "attribName": "building_tech_unit_infantry_control_fre",
       "age": 2,
@@ -408,6 +421,7 @@
         "fr"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -458,6 +472,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 7579869,
       "attribName": "building_tech_unit_infantry_mon_ha_gol",
       "age": 2,
@@ -465,6 +480,7 @@
         "gol"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -516,6 +532,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 134806,
       "attribName": "building_tech_unit_infantry_control_hre",
       "age": 2,
@@ -523,6 +540,7 @@
         "hr"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -575,6 +593,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 5000047,
       "attribName": "building_tech_blacksmith_lan",
       "age": 2,
@@ -582,6 +601,7 @@
         "hl"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -632,6 +652,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 7105093,
       "attribName": "building_tech_unit_infantry_control_fre_ha_01",
       "age": 2,
@@ -639,6 +660,7 @@
         "je"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -690,6 +712,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 5000229,
       "attribName": "building_tech_blacksmith_tem",
       "age": 2,
@@ -697,6 +720,7 @@
         "kt"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -747,6 +771,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 2555383,
       "attribName": "building_tech_unit_infantry_mal",
       "age": 2,
@@ -754,6 +779,7 @@
         "ma"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -804,6 +830,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 129991,
       "attribName": "building_tech_unit_infantry_mon",
       "age": 2,
@@ -811,6 +838,7 @@
         "mo"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -864,6 +892,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 8417413,
       "attribName": "building_tech_unit_infantry_control_hre_ha_01",
       "age": 2,
@@ -871,6 +900,7 @@
         "od"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -923,6 +953,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 2034613,
       "attribName": "building_tech_unit_infantry_ott",
       "age": 2,
@@ -930,6 +961,7 @@
         "ot"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -982,6 +1014,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 133377,
       "attribName": "building_tech_unit_infantry_control_rus",
       "age": 2,
@@ -989,6 +1022,7 @@
         "ru"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -1039,6 +1073,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 4529917,
       "attribName": "building_tech_unit_infantry_control_sul_ha_tug",
       "age": 2,
@@ -1046,6 +1081,7 @@
         "tug"
       ],
       "description": "Houses technology to improve infantry and cavalry.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。",
       "classes": [
         "blacksmith",
         "building",
@@ -1096,6 +1132,7 @@
       "baseId": "blacksmith",
       "type": "building",
       "name": "Blacksmith",
+      "nameCN": "铁匠铺",
       "pbgid": 4996231,
       "attribName": "building_tech_unit_infantry_control_chi_ha_01",
       "age": 2,
@@ -1103,6 +1140,7 @@
         "zx"
       ],
       "description": "Houses technology to improve infantry and cavalry.\nGenerates tax each time a technology completes.",
+      "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
       "classes": [
         "blacksmith",
         "building",

@@ -36,6 +36,7 @@
       "baseId": "spasskaya-tower",
       "type": "building",
       "name": "Spasskaya Tower",
+      "nameCN": "斯巴斯克塔",
       "pbgid": 133434,
       "attribName": "building_landmark_age3_spassakaya_tower_control_rus",
       "age": 3,
@@ -43,6 +44,7 @@
         "ru"
       ],
       "description": "Acts as a Keep with all weapon emplacements and increased health.\nUnlocks the building of Stone Walls, Stone Gates, and Stone Wall Towers.",
+      "descriptionCN": "可作为城堡使用，配有所有武器炮台，并增加生命值。\n可解锁石墙、石墙城门和石墙塔建筑。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",

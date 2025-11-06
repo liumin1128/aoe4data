@@ -32,6 +32,7 @@
       "baseId": "shinto-priest",
       "type": "unit",
       "name": "Shinto Priest",
+      "nameCN": "神道教神主",
       "pbgid": 2124341,
       "attribName": "unit_monk_shinto_3_jpn",
       "age": 3,
@@ -39,6 +40,7 @@
         "ja"
       ],
       "description": "Support unit with unique privileges to hold and deposit Yorishiro into buildings. Can pick up Relics, convert enemy units, and capture Sacred Sites.\n+ Yorishiro provide unique bonuses\n+ Heals friendly units\n- Slow move speed",
+      "descriptionCN": "拥有独特特权的辅助单位，可持有依代并将其存放至建筑内。可拾取圣物、招降敌方单位及占领圣地。\n+ 依代可提供独特的加成效果\n+ 可治疗友方单位\n- 移动速度慢",
       "classes": [
         "annihilation_condition",
         "carrier",

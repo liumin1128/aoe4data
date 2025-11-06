@@ -29,6 +29,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -36,6 +37,7 @@
             "kt"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -97,6 +99,7 @@
           "baseId": "ability-desert-citadels",
           "type": "ability",
           "name": "Desert Citadels",
+          "nameCN": "沙漠城堡",
           "pbgid": 9000069,
           "attribName": "aura_desert_citadels",
           "age": 1,
@@ -104,6 +107,7 @@
             "kt"
           ],
           "description": "Improves the range of nearby units by +15% and armor by +1/+1.",
+          "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -145,6 +149,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -152,6 +157,7 @@
             "kt"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -206,6 +212,7 @@
           "baseId": "ability-fortress-influence",
           "type": "ability",
           "name": "Fortress Influence",
+          "nameCN": "要塞影响力",
           "pbgid": 9000058,
           "attribName": "keep_influence_tem_buff_info",
           "age": 1,
@@ -213,6 +220,7 @@
             "kt"
           ],
           "description": "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement.",
+          "descriptionCN": "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -268,6 +276,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -275,6 +284,7 @@
             "kt"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -331,6 +341,7 @@
           "baseId": "ability-pilgrim-destination",
           "type": "ability",
           "name": "Pilgrim Destination",
+          "nameCN": "朝圣者目的地",
           "pbgid": 5000303,
           "attribName": "pilgrim_target_tem",
           "age": 1,
@@ -338,6 +349,7 @@
             "kt"
           ],
           "description": "Select a Sacred Site for your Pilgrims to travel to. Pilgrims cannot travel to a Sacred Site captured by an enemy.",
+          "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -380,6 +392,7 @@
           "baseId": "ability-pilgrim-loan-large",
           "type": "ability",
           "name": "Pilgrim Loan (Large)",
+          "nameCN": "朝圣者借贷 (高)",
           "pbgid": 9000133,
           "attribName": "pilgrim_loan_large_tem",
           "age": 1,
@@ -387,6 +400,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 900 gold per minute for 4 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 900 黄金的利率偿还，持续 4 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -428,6 +442,7 @@
           "baseId": "ability-pilgrim-loan-medium",
           "type": "ability",
           "name": "Pilgrim Loan (Medium)",
+          "nameCN": "朝圣者借贷 (中等)",
           "pbgid": 9000132,
           "attribName": "pilgrim_loan_medium_tem",
           "age": 1,
@@ -435,6 +450,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 600 gold per minute for 3 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -476,6 +492,7 @@
           "baseId": "ability-pilgrim-loan-small",
           "type": "ability",
           "name": "Pilgrim Loan (Small)",
+          "nameCN": "朝圣者借贷 (低)",
           "pbgid": 9000130,
           "attribName": "pilgrim_loan_small_tem",
           "age": 1,
@@ -483,6 +500,7 @@
             "kt"
           ],
           "description": "Provide a loan to Pilgrims that will be repaid at a rate of 300 gold per minute for 2 minutes",
+          "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 300 黄金的利率偿还，持续 2 分钟",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -524,6 +542,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -531,6 +550,7 @@
             "kt"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -587,6 +607,7 @@
           "baseId": "ability-treasure-towers",
           "type": "ability",
           "name": "Treasure Towers",
+          "nameCN": "藏宝塔",
           "pbgid": 9000148,
           "attribName": "treasure_tower_tem",
           "age": 1,
@@ -594,6 +615,7 @@
             "kt"
           ],
           "description": "Increases the gold generation of Monasteries, Sacred Sites and Pilgrims by 20% within the aura of a Fortress.",
+          "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
           "classes": [],
           "displayClasses": [],
           "costs": {

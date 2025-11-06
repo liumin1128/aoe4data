@@ -27,6 +27,7 @@
       "baseId": "counterweight-defenses",
       "type": "technology",
       "name": "Counterweight Defenses",
+      "nameCN": "配重式防御",
       "pbgid": 9001209,
       "attribName": "upgrade_trebuchet_projectiles",
       "age": 4,
@@ -34,6 +35,7 @@
         "kt"
       ],
       "description": "All Trebuchet weapons gain +1 additional projectiles.",
+      "descriptionCN": "所有巨型投石机武器获得 +1 额外弹药。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

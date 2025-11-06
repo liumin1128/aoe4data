@@ -28,6 +28,7 @@
       "baseId": "elite-camel-riders",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 200054,
       "attribName": "upgrade_unit_camel_rider_4_abb",
       "age": 4,
@@ -35,6 +36,7 @@
         "ab"
       ],
       "description": "Upgrade Camel Riders to Elite Camel Riders.",
+      "descriptionCN": "将骆驼骑兵升级为精锐骆驼骑兵。",
       "classes": [
         "abbasid_upgrade",
         "ayyubid_cmp_upgrade",

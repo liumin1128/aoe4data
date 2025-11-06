@@ -27,6 +27,7 @@
       "baseId": "roar-of-the-dragon",
       "type": "technology",
       "name": "Roar of the Dragon",
+      "nameCN": "龙之咆哮",
       "pbgid": 2127459,
       "attribName": "upgrade_library_flaming_charge",
       "age": 4,
@@ -34,6 +35,7 @@
         "zx"
       ],
       "description": "Spearmen and Horsemen gain a Fire Lance when charging.",
+      "descriptionCN": "长矛兵和骑手在冲锋时拥有火长矛。",
       "classes": [
         "chinese_ha_01_upgrade",
         "military_upgrade",

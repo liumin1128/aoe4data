@@ -36,6 +36,7 @@
       "baseId": "war-cog",
       "type": "unit",
       "name": "War Cog",
+      "nameCN": "柯克战船",
       "pbgid": 193119,
       "attribName": "unit_naval_combat_ship_2_fre",
       "age": 2,
@@ -43,6 +44,7 @@
         "fr"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",
@@ -206,6 +208,7 @@
       "baseId": "war-cog",
       "type": "unit",
       "name": "War Cog",
+      "nameCN": "柯克战船",
       "pbgid": 193119,
       "attribName": "unit_naval_combat_ship_2_fre",
       "age": 2,
@@ -213,6 +216,7 @@
         "je"
       ],
       "description": "Ship equipped with broadside ballistae.\n+ Strong against Arrow Ships\n- Lower maneuverability",
+      "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
       "classes": [
         "annihilation_condition",
         "massive",

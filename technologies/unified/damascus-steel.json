@@ -60,6 +60,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -67,6 +68,7 @@
         "ab"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -127,6 +129,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -134,6 +137,7 @@
         "ay"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -194,6 +198,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -201,6 +206,7 @@
         "by"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -261,6 +267,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -268,6 +275,7 @@
         "ch"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -328,6 +336,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188020,
       "attribName": "upgrade_melee_damage_iii_sul",
       "age": 4,
@@ -335,6 +344,7 @@
         "de"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -382,6 +392,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -389,6 +400,7 @@
         "en"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -449,6 +461,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -456,6 +469,7 @@
         "fr"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -516,6 +530,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -523,6 +538,7 @@
         "gol"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -583,6 +599,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -590,6 +607,7 @@
         "hr"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -651,6 +669,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -658,6 +677,7 @@
         "hl"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -718,6 +738,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -725,6 +746,7 @@
         "je"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -785,6 +807,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -792,6 +815,7 @@
         "kt"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -852,6 +876,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -859,6 +884,7 @@
         "ma"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -919,6 +945,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188054,
       "attribName": "upgrade_melee_damage_iii_mon",
       "age": 4,
@@ -926,6 +953,7 @@
         "mo"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "military_upgrade",
         "mongol_upgrade",
@@ -973,6 +1001,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -980,6 +1009,7 @@
         "od"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1041,6 +1071,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -1048,6 +1079,7 @@
         "ot"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1108,6 +1140,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -1115,6 +1148,7 @@
         "ru"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",
@@ -1175,6 +1209,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 9003714,
       "attribName": "upgrade_melee_damage_iii_sul_ha_tug",
       "age": 4,
@@ -1182,6 +1217,7 @@
         "tug"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "military_upgrade",
         "scar_imperial_age_upgrade",
@@ -1229,6 +1265,7 @@
       "baseId": "damascus-steel",
       "type": "technology",
       "name": "Damascus Steel",
+      "nameCN": "大马士革钢",
       "pbgid": 188010,
       "attribName": "upgrade_melee_damage_iii",
       "age": 4,
@@ -1236,6 +1273,7 @@
         "zx"
       ],
       "description": "Increase the melee damage of all non-siege units by +1.",
+      "descriptionCN": "所有非攻城单位的近战伤害 +1。",
       "classes": [
         "abbasid_ha_01_upgrade",
         "abbasid_upgrade",

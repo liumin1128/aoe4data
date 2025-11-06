@@ -19,6 +19,7 @@
       "baseId": "ability-camel-unease",
       "type": "ability",
       "name": "Camel Unease",
+      "nameCN": "骆驼惊吓",
       "pbgid": 202653,
       "attribName": "mamluke_anti_cavalry_aura_abb",
       "age": 1,
@@ -26,6 +27,7 @@
         "ab"
       ],
       "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+      "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {
@@ -66,6 +68,7 @@
       "baseId": "ability-camel-unease",
       "type": "ability",
       "name": "Camel Unease",
+      "nameCN": "骆驼惊吓",
       "pbgid": 202653,
       "attribName": "mamluke_anti_cavalry_aura_abb",
       "age": 1,
@@ -73,6 +76,7 @@
         "ay"
       ],
       "description": "Camels cause enemy horse cavalry units to deal 20% less damage.",
+      "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
       "classes": [],
       "displayClasses": [],
       "costs": {

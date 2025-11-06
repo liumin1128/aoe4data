@@ -36,6 +36,7 @@
       "baseId": "yeoman",
       "type": "unit",
       "name": "Yeoman",
+      "nameCN": "英皇侍卫",
       "pbgid": 5000059,
       "attribName": "unit_yeoman_2_lan",
       "age": 2,
@@ -43,6 +44,7 @@
         "hl"
       ],
       "description": "Quick and long-ranged infantry with good damage vs. unarmored targets.\n+ Long Range\n+ Fast movement speed\n- Countered by Horsemen",
+      "descriptionCN": "行动迅速的远程步兵，能对无护甲目标造成可观的伤害。\n+ 射程远\n+ 移动速度快\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -154,6 +156,7 @@
       "baseId": "yeoman",
       "type": "unit",
       "name": "Veteran Yeoman",
+      "nameCN": "老练英皇侍卫",
       "pbgid": 500060,
       "attribName": "unit_yeoman_3_lan",
       "age": 3,
@@ -161,6 +164,7 @@
         "hl"
       ],
       "description": "Quick and long-ranged infantry with good damage vs. unarmored targets.\n+ Long Range\n+ Fast movement speed\n- Countered by Horsemen",
+      "descriptionCN": "行动迅速的远程步兵，能对无护甲目标造成可观的伤害。\n+ 射程远\n+ 移动速度快\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -272,6 +276,7 @@
       "baseId": "yeoman",
       "type": "unit",
       "name": "Elite Yeoman",
+      "nameCN": "精锐英皇侍卫",
       "pbgid": 5000061,
       "attribName": "unit_yeoman_4_lan",
       "age": 4,
@@ -279,6 +284,7 @@
         "hl"
       ],
       "description": "Quick and long-ranged infantry with good damage vs. unarmored targets.\n+ Long Range\n+ Fast movement speed\n- Countered by Horsemen",
+      "descriptionCN": "行动迅速的远程步兵，能对无护甲目标造成可观的伤害。\n+ 射程远\n+ 移动速度快\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",

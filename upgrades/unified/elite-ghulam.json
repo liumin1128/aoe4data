@@ -28,6 +28,7 @@
       "baseId": "elite-ghulam",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2133545,
       "attribName": "upgrade_unit_manatarms_4_abb",
       "age": 4,
@@ -35,6 +36,7 @@
         "ab"
       ],
       "description": "Upgrade Ghulam to Elite Ghulam.",
+      "descriptionCN": "将古拉姆升级为精锐古拉姆。",
       "classes": [
         "abbasid_upgrade",
         "military_upgrade",
@@ -68,6 +70,7 @@
       "baseId": "elite-ghulam",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2133545,
       "attribName": "upgrade_unit_manatarms_4_abb",
       "age": 4,
@@ -75,6 +78,7 @@
         "ay"
       ],
       "description": "Upgrade Ghulam to Elite Ghulam.",
+      "descriptionCN": "将古拉姆升级为精锐古拉姆。",
       "classes": [
         "abbasid_upgrade",
         "military_upgrade",

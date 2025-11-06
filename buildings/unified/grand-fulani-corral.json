@@ -31,6 +31,7 @@
       "baseId": "grand-fulani-corral",
       "type": "building",
       "name": "Grand Fulani Corral",
+      "nameCN": "富拉尼大围栏",
       "pbgid": 2062448,
       "attribName": "building_landmark_age2_landmarkc_control_mal",
       "age": 2,
@@ -38,6 +39,7 @@
         "ma"
       ],
       "description": "Nearby cattle provide 20 Food per minute.",
+      "descriptionCN": "附近的牛每分钟提供 20 食物。",
       "classes": [
         "age2_landmark1",
         "audio_production_landmark",

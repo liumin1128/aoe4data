@@ -47,6 +47,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 199633,
       "attribName": "building_econ_mining_camp_control_abb",
       "age": 1,
@@ -54,6 +55,7 @@
         "ab"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -110,6 +112,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 3847655,
       "attribName": "building_econ_mining_camp_control_abb_ha_01",
       "age": 1,
@@ -117,6 +120,7 @@
         "ay"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -173,6 +177,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 2104739,
       "attribName": "building_econ_mining_camp_control_byz",
       "age": 1,
@@ -180,6 +185,7 @@
         "by"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -235,6 +241,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 144677,
       "attribName": "building_econ_mining_camp_control_chi",
       "age": 1,
@@ -242,6 +249,7 @@
         "ch"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",
@@ -297,6 +305,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 135822,
       "attribName": "building_econ_mining_camp_control_sul",
       "age": 1,
@@ -304,6 +313,7 @@
         "de"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -359,6 +369,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 166258,
       "attribName": "building_econ_mining_camp_control_eng",
       "age": 1,
@@ -366,6 +377,7 @@
         "en"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -419,6 +431,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 132656,
       "attribName": "building_econ_mining_camp_control_fre",
       "age": 1,
@@ -426,6 +439,7 @@
         "fr"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -479,6 +493,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 134781,
       "attribName": "building_econ_mining_camp_control_hre",
       "age": 1,
@@ -486,6 +501,7 @@
         "hr"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -541,6 +557,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 5000038,
       "attribName": "building_econ_mining_camp_lan",
       "age": 1,
@@ -548,6 +565,7 @@
         "hl"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -601,6 +619,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 4014122,
       "attribName": "building_econ_mining_camp_control_fre_ha_01",
       "age": 1,
@@ -608,6 +627,7 @@
         "je"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -662,6 +682,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 5000225,
       "attribName": "building_mining_camp_tem",
       "age": 1,
@@ -669,6 +690,7 @@
         "kt"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -722,6 +744,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 9000933,
       "attribName": "building_econ_mining_camp_control_byz_ha_mac",
       "age": 1,
@@ -729,6 +752,7 @@
         "mac"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining. Villagers drop off Silver in addition to Stone and Gold at Mining Camps.",
+      "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。除了在采矿营地存放石料和黄金外，村民还存放白银。",
       "classes": [
         "building",
         "economy_building",
@@ -784,6 +808,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 2591277,
       "attribName": "building_econ_mining_camp_mal",
       "age": 1,
@@ -791,6 +816,7 @@
         "ma"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -846,6 +872,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 4430561,
       "attribName": "building_econ_mining_camp_control_hre_ha_01",
       "age": 1,
@@ -853,6 +880,7 @@
         "od"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -908,6 +936,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 2034604,
       "attribName": "building_econ_mining_camp_ott",
       "age": 1,
@@ -915,6 +944,7 @@
         "ot"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -968,6 +998,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 133358,
       "attribName": "building_econ_mining_camp_control_rus",
       "age": 1,
@@ -975,6 +1006,7 @@
         "ru"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.",
+      "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
       "classes": [
         "building",
         "economy_building",
@@ -1028,6 +1060,7 @@
       "baseId": "mining-camp",
       "type": "building",
       "name": "Mining Camp",
+      "nameCN": "采矿场",
       "pbgid": 7030371,
       "attribName": "building_econ_mining_camp_control_chi_ha_01",
       "age": 1,
@@ -1035,6 +1068,7 @@
         "zx"
       ],
       "description": "Villagers can drop off Stone and Gold at this building. Houses technologies to improve mining.\nGenerates tax each time a resource is dropped off.",
+      "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。\n每次存放资源都会产生税。",
       "classes": [
         "building",
         "economy_building",

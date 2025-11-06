@@ -29,6 +29,7 @@
           "baseId": "ability-conversion",
           "type": "ability",
           "name": "Conversion",
+          "nameCN": "招降",
           "pbgid": 192685,
           "attribName": "monk_conversion",
           "age": 1,
@@ -36,6 +37,7 @@
             "ja"
           ],
           "description": "Attempts to convert enemy units within range of this Monk to your control.\nCooldown: 120 Seconds.",
+          "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -96,6 +98,7 @@
           "baseId": "ability-deflective-armor",
           "type": "ability",
           "name": "Deflective Armor",
+          "nameCN": "偏转护甲",
           "pbgid": 2127304,
           "attribName": "samurai_shield_jpn",
           "age": 1,
@@ -103,6 +106,7 @@
             "ja"
           ],
           "description": "Deflective Armor charge can block one melee or ranged attack. Recharges while out of combat for 8 seconds.",
+          "descriptionCN": "偏转护甲充能可以抵挡一次近战或远程攻击。脱离战斗 8 秒后可重新充能。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -157,6 +161,7 @@
           "baseId": "ability-detonate",
           "type": "ability",
           "name": "Detonate",
+          "nameCN": "引爆",
           "pbgid": 2013822,
           "attribName": "fireship_self_detonate",
           "age": 1,
@@ -164,6 +169,7 @@
             "ja"
           ],
           "description": "Detonate the ship.",
+          "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -217,6 +223,7 @@
           "baseId": "ability-five-mountain-ministries",
           "type": "ability",
           "name": "Five Mountain Ministries",
+          "nameCN": "五项山地事工",
           "pbgid": 2158018,
           "attribName": "monk_debuff_target_jpn_five_mountain_version",
           "age": 1,
@@ -224,6 +231,7 @@
             "ja"
           ],
           "description": "Every 6 seconds, applies Sohei Sutra to the closest enemy. Sohei Sutra reduces the enemies damage by 50% for 60 seconds.",
+          "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -264,6 +272,7 @@
           "baseId": "ability-kabura-ya",
           "type": "ability",
           "name": "Kabura-ya",
+          "nameCN": "鸣镝箭",
           "pbgid": 2127408,
           "attribName": "kaburya_arrow_jpn",
           "age": 1,
@@ -271,6 +280,7 @@
             "ja"
           ],
           "description": "Onna-Musha fire a whistling arrow when an enemy is seen, increasing move speed for 10 seconds.",
+          "descriptionCN": "女武者会在看到敌人时发射镝矢以加快移动速度，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -325,6 +335,7 @@
           "baseId": "ability-katana-bannerman-aura",
           "type": "ability",
           "name": "Katana Bannerman Aura",
+          "nameCN": "刀剑旗本武士光环",
           "pbgid": 2127069,
           "attribName": "bannerman_aura_melee_jpn",
           "age": 1,
@@ -332,6 +343,7 @@
             "ja"
           ],
           "description": "Aura that increases melee infantry damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使近战步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -388,6 +400,7 @@
           "baseId": "ability-man-the-sails",
           "type": "ability",
           "name": "Man The Sails",
+          "nameCN": "掌舵人",
           "pbgid": 2101656,
           "attribName": "naval_man_the_sails",
           "age": 1,
@@ -395,6 +408,7 @@
             "ja"
           ],
           "description": "Activate to move 40% faster for 10 seconds, deactivates early when dealing damage.",
+          "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -450,6 +464,7 @@
           "baseId": "ability-place-yorishiro",
           "type": "ability",
           "name": "Place Yorishiro",
+          "nameCN": "放置依代",
           "pbgid": 2141548,
           "attribName": "monk_shinto_deposit_sacred_object_jpn",
           "age": 1,
@@ -457,6 +472,7 @@
             "ja"
           ],
           "description": "Place a Yorishiro in the following buildings to receive bonuses and increase their line of sight.\nMilitary and Docks: +125% Production speed\nTown Center: +30% Production speed\nFarmhouse: +70 Food per minute\nLumber Camp: +70 Wood per minute\nForge: +50 Gold per minute\nWonder: +4000 Health",
+          "descriptionCN": "将一个依代放置在以下建筑中，获得加成并增加视野。\n军事和码头：+125% 工作效率\n城镇中心：+30% 生产速度\n农舍：每分钟 +70 食物\n伐木场：每分钟 +70 木材\n锻造厂：每分钟 +50 黄金\n世界奇观：+4000 生命值",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -519,6 +535,7 @@
           "baseId": "ability-ring-the-town-bell",
           "type": "ability",
           "name": "Ring the Town Bell",
+          "nameCN": "敲响警钟",
           "pbgid": 2149990,
           "attribName": "town_center_town_bell",
           "age": 1,
@@ -526,6 +543,7 @@
             "ja"
           ],
           "description": "Alerts and orders all nearby Villagers to automatically seek shelter in the nearest garrisonable building.",
+          "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -581,6 +599,7 @@
           "baseId": "ability-sabotage",
           "type": "ability",
           "name": "Sabotage",
+          "nameCN": "破坏",
           "pbgid": 2127420,
           "attribName": "shinobi_sabotage_jpn",
           "age": 1,
@@ -588,6 +607,7 @@
             "ja"
           ],
           "description": "Target a visible enemy building to deal 200 damage, disable its production, and set it on fire for 30 seconds.",
+          "descriptionCN": "瞄准一座视野内的敌方建筑，对其造成 200 伤害，使其无法生产并将其点燃，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -639,6 +659,7 @@
           "baseId": "ability-shunshin",
           "type": "ability",
           "name": "Shunshin",
+          "nameCN": "瞬移",
           "pbgid": 2145411,
           "attribName": "shinobi_blink_jpn",
           "age": 1,
@@ -646,6 +667,7 @@
             "ja"
           ],
           "description": "Drop a smoke bomb and reappear at a selected location.",
+          "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -697,6 +719,7 @@
           "baseId": "ability-soheis-sutra",
           "type": "ability",
           "name": "Sohei's Sutra",
+          "nameCN": "僧兵经书",
           "pbgid": 2141302,
           "attribName": "monk_debuff_target_jpn",
           "age": 1,
@@ -704,6 +727,7 @@
             "ja"
           ],
           "description": "Reduces enemy damage by 50% for 60 seconds.",
+          "descriptionCN": "敌方伤害降低 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -756,6 +780,7 @@
           "baseId": "ability-spy",
           "type": "ability",
           "name": "Spy",
+          "nameCN": "间谍",
           "pbgid": 2127419,
           "attribName": "shinobi_spy_jpn",
           "age": 1,
@@ -763,6 +788,7 @@
             "ja"
           ],
           "description": "Target a visible enemy unit or structure to disguise the Shinobi as a Villager of that player.",
+          "descriptionCN": "瞄准敌方的可见单位或建筑，将忍者伪装成该玩家的村民。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -814,6 +840,7 @@
           "baseId": "ability-treasure-caravans",
           "type": "ability",
           "name": "Treasure Caravans",
+          "nameCN": "宝藏商队",
           "pbgid": 2127492,
           "attribName": "treasure_landmark_target_jpn",
           "age": 1,
@@ -821,6 +848,7 @@
             "ja"
           ],
           "description": "Select a neutral Trade Post to periodically spawn Treasure Caravans from that location. Caravans can convert into a Trade Ship when instructed to reach Trade Posts over water.",
+          "descriptionCN": "选择一个中立贸易站，从该位置定期生成宝藏商队。当获得命令到达水上贸易站时，商队可以转变成贸易船。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -873,6 +901,7 @@
           "baseId": "ability-uma-bannerman-aura",
           "type": "ability",
           "name": "Uma Bannerman Aura",
+          "nameCN": "骑马旗本武士光环",
           "pbgid": 2127073,
           "attribName": "bannerman_aura_cavalry_jpn",
           "age": 1,
@@ -880,6 +909,7 @@
             "ja"
           ],
           "description": "Aura that increases cavalry unit damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使骑兵单位的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {
@@ -935,6 +965,7 @@
           "baseId": "ability-yumi-bannerman-aura",
           "type": "ability",
           "name": "Yumi Bannerman Aura",
+          "nameCN": "弓箭旗本武士光环",
           "pbgid": 2127067,
           "attribName": "bannerman_aura_range_jpn",
           "age": 1,
@@ -942,6 +973,7 @@
             "ja"
           ],
           "description": "Aura that increases ranged infantry damage by +15%.\nBanner drops on death and lasts for 30 seconds providing the same aura.",
+          "descriptionCN": "光环可使远程步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
           "costs": {

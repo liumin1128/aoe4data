@@ -38,6 +38,7 @@
       "baseId": "berkshire-palace",
       "type": "building",
       "name": "Berkshire Palace",
+      "nameCN": "伯克郡宫殿",
       "pbgid": 166272,
       "attribName": "building_landmark_age3_windsor_castle_eng",
       "age": 3,
@@ -45,6 +46,7 @@
         "en"
       ],
       "description": "Acts as a Keep with increased health and powerful incendiary arrows. All weapons have 14.5 tiles of range.",
+      "descriptionCN": "作为一个城堡使用，拥有增加的生命值和强大的燃烧箭。所有武器都有 14.5 格的射程。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",
@@ -161,6 +163,7 @@
       "baseId": "berkshire-palace",
       "type": "building",
       "name": "Berkshire Palace",
+      "nameCN": "伯克郡宫殿",
       "pbgid": 5000045,
       "attribName": "building_landmark_age3_berkshire_lan",
       "age": 4,
@@ -168,6 +171,7 @@
         "hl"
       ],
       "description": "Acts as a Keep with increased health and powerful incendiary arrows. All weapons have 14.5 tiles of range.\nIncreases the maximum damage granted by a House Unified to +6. Also grants 3 Earl's Guard upon being fully constructed.",
+      "descriptionCN": "作为一个城堡使用，拥有更高的生命值和强大的燃烧箭。所有武器射程增加 14.5 格。\n众志成城提供的最大伤害 +6。建造完成后还可获得 3 名伯爵护卫。",
       "classes": [
         "age3_landmark2",
         "audio_production_landmark",

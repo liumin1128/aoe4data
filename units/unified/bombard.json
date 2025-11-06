@@ -44,6 +44,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 8552218,
       "attribName": "unit_bombard_4_byz",
       "age": 4,
@@ -51,6 +52,7 @@
         "by"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -188,6 +190,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 137559,
       "attribName": "unit_bombard_4_chi",
       "age": 4,
@@ -195,6 +198,7 @@
         "ch"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -332,6 +336,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 136043,
       "attribName": "unit_bombard_4_sul",
       "age": 4,
@@ -339,6 +344,7 @@
         "de"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -476,6 +482,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 166392,
       "attribName": "unit_bombard_4_eng",
       "age": 4,
@@ -483,6 +490,7 @@
         "en"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -623,6 +631,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 7965830,
       "attribName": "unit_bombard_4_mon_ha_gol",
       "age": 4,
@@ -630,6 +639,7 @@
         "gol"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -767,6 +777,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 7319578,
       "attribName": "unit_bombard_4_jpn",
       "age": 4,
@@ -774,6 +785,7 @@
         "ja"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -912,6 +924,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 9001006,
       "attribName": "unit_bombard_4_byz_ha_mac",
       "age": 4,
@@ -919,6 +932,7 @@
         "mac"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1056,6 +1070,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 2356081,
       "attribName": "unit_bombard_4_mal",
       "age": 4,
@@ -1063,6 +1078,7 @@
         "ma"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1200,6 +1216,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 130773,
       "attribName": "unit_bombard_4_mon",
       "age": 4,
@@ -1207,6 +1224,7 @@
         "mo"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1344,6 +1362,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 133455,
       "attribName": "unit_bombard_4_rus",
       "age": 4,
@@ -1351,6 +1370,7 @@
         "ru"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1488,6 +1508,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 6474220,
       "attribName": "unit_bombard_4_jpn_ha_sen",
       "age": 4,
@@ -1495,6 +1516,7 @@
         "sen"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1632,6 +1654,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 3673961,
       "attribName": "unit_bombard_4_sul_ha_tug",
       "age": 4,
@@ -1639,6 +1662,7 @@
         "tug"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",
@@ -1776,6 +1800,7 @@
       "baseId": "bombard",
       "type": "unit",
       "name": "Bombard",
+      "nameCN": "手推炮",
       "pbgid": 2946683,
       "attribName": "unit_bombard_4_chi_ha_01",
       "age": 4,
@@ -1783,6 +1808,7 @@
         "zx"
       ],
       "description": "Intimidating siege gun excellent against buildings or any stubborn targets.\n+ High damage\n- Must be set up to fire",
+      "descriptionCN": "可怕的攻城炮，非常擅于对付建筑或任何顽强的目标。\n+ 高伤害\n- 必须架设才能开火",
       "classes": [
         "annihilation_condition",
         "bombard",

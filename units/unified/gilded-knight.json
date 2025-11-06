@@ -38,6 +38,7 @@
       "baseId": "gilded-knight",
       "type": "unit",
       "name": "Gilded Knight",
+      "nameCN": "镀金骑士",
       "pbgid": 4832700,
       "attribName": "unit_knight_3_hre_ha_01",
       "age": 3,
@@ -45,6 +46,7 @@
         "od"
       ],
       "description": "Expensive cavalry with a powerful charge.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有强大冲锋能力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -182,6 +184,7 @@
       "baseId": "gilded-knight",
       "type": "unit",
       "name": "Elite Gilded Knight",
+      "nameCN": "精锐镀金骑士",
       "pbgid": 7628156,
       "attribName": "unit_knight_4_hre_ha_01",
       "age": 4,
@@ -189,6 +192,7 @@
         "od"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",

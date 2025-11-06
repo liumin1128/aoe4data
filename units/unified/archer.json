@@ -51,6 +51,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 199706,
       "attribName": "unit_archer_2_abb",
       "age": 2,
@@ -58,6 +59,7 @@
         "ab"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -168,6 +170,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 199707,
       "attribName": "unit_archer_3_abb",
       "age": 3,
@@ -175,6 +178,7 @@
         "ab"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -285,6 +289,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 199708,
       "attribName": "unit_archer_4_abb",
       "age": 4,
@@ -292,6 +297,7 @@
         "ab"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -402,6 +408,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 4667268,
       "attribName": "unit_archer_2_abb_ha_01",
       "age": 2,
@@ -409,6 +416,7 @@
         "ay"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -519,6 +527,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 3600109,
       "attribName": "unit_archer_3_abb_ha_01",
       "age": 3,
@@ -526,6 +535,7 @@
         "ay"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -636,6 +646,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 4326724,
       "attribName": "unit_archer_4_abb_ha_01",
       "age": 4,
@@ -643,6 +654,7 @@
         "ay"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -753,6 +765,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 5669457,
       "attribName": "unit_archer_2_byz",
       "age": 2,
@@ -760,6 +773,7 @@
         "by"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -870,6 +884,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 4797287,
       "attribName": "unit_archer_3_byz",
       "age": 3,
@@ -877,6 +892,7 @@
         "by"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -987,6 +1003,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 4097251,
       "attribName": "unit_archer_4_byz",
       "age": 4,
@@ -994,6 +1011,7 @@
         "by"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1104,6 +1122,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 137526,
       "attribName": "unit_archer_2_chi",
       "age": 2,
@@ -1111,6 +1130,7 @@
         "ch"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1221,6 +1241,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 137553,
       "attribName": "unit_archer_3_chi",
       "age": 3,
@@ -1228,6 +1249,7 @@
         "ch"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1338,6 +1360,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 137554,
       "attribName": "unit_archer_4_chi",
       "age": 4,
@@ -1345,6 +1368,7 @@
         "ch"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1455,6 +1479,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 136040,
       "attribName": "unit_archer_2_sul",
       "age": 2,
@@ -1462,6 +1487,7 @@
         "de"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1572,6 +1598,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 136041,
       "attribName": "unit_archer_3_sul",
       "age": 3,
@@ -1579,6 +1606,7 @@
         "de"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1689,6 +1717,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 136042,
       "attribName": "unit_archer_4_sul",
       "age": 4,
@@ -1696,6 +1725,7 @@
         "de"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1806,6 +1836,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 132269,
       "attribName": "unit_archer_2_fre",
       "age": 2,
@@ -1813,6 +1844,7 @@
         "fr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -1923,6 +1955,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 132270,
       "attribName": "unit_archer_3_fre",
       "age": 3,
@@ -1930,6 +1963,7 @@
         "fr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2040,6 +2074,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 132271,
       "attribName": "unit_archer_4_fre",
       "age": 4,
@@ -2047,6 +2082,7 @@
         "fr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2157,6 +2193,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 6289546,
       "attribName": "unit_archer_2_mon_ha_gol",
       "age": 2,
@@ -2164,6 +2201,7 @@
         "gol"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2273,6 +2311,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 5053861,
       "attribName": "unit_archer_3_mon_ha_gol",
       "age": 3,
@@ -2280,6 +2319,7 @@
         "gol"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2389,6 +2429,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 2319209,
       "attribName": "unit_archer_4_mon_ha_gol",
       "age": 4,
@@ -2396,6 +2437,7 @@
         "gol"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2505,6 +2547,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 134713,
       "attribName": "unit_archer_2_hre",
       "age": 2,
@@ -2512,6 +2555,7 @@
         "hr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2622,6 +2666,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 134714,
       "attribName": "unit_archer_3_hre",
       "age": 3,
@@ -2629,6 +2674,7 @@
         "hr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2739,6 +2785,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 134715,
       "attribName": "unit_archer_4_hre",
       "age": 4,
@@ -2746,6 +2793,7 @@
         "hr"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2856,6 +2904,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 132269,
       "attribName": "unit_archer_2_fre",
       "age": 2,
@@ -2863,6 +2912,7 @@
         "je"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -2973,6 +3023,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 132270,
       "attribName": "unit_archer_3_fre",
       "age": 3,
@@ -2980,6 +3031,7 @@
         "je"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3090,6 +3142,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 132271,
       "attribName": "unit_archer_4_fre",
       "age": 4,
@@ -3097,6 +3150,7 @@
         "je"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3207,6 +3261,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 8999866,
       "attribName": "unit_archer_2_tem",
       "age": 2,
@@ -3214,6 +3269,7 @@
         "kt"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3324,6 +3380,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 8999949,
       "attribName": "unit_archer_3_tem",
       "age": 3,
@@ -3331,6 +3388,7 @@
         "kt"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3441,6 +3499,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 8999930,
       "attribName": "unit_archer_4_tem",
       "age": 4,
@@ -3448,6 +3507,7 @@
         "kt"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3558,6 +3618,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 2687089,
       "attribName": "unit_archer_2_mal",
       "age": 2,
@@ -3565,6 +3626,7 @@
         "ma"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3729,6 +3791,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 2284776,
       "attribName": "unit_archer_3_mal",
       "age": 3,
@@ -3736,6 +3799,7 @@
         "ma"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -3900,6 +3964,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 2678898,
       "attribName": "unit_archer_4_mal",
       "age": 4,
@@ -3907,6 +3972,7 @@
         "ma"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4071,6 +4137,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 129582,
       "attribName": "unit_archer_2_mon",
       "age": 2,
@@ -4078,6 +4145,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4187,6 +4255,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 129583,
       "attribName": "unit_archer_3_mon",
       "age": 3,
@@ -4194,6 +4263,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4303,6 +4373,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 136247,
       "attribName": "unit_archer_4_mon",
       "age": 4,
@@ -4310,6 +4381,7 @@
         "mo"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4419,6 +4491,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 2046427,
       "attribName": "unit_archer_2_ott",
       "age": 2,
@@ -4426,6 +4499,7 @@
         "ot"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4537,6 +4611,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 2046428,
       "attribName": "unit_archer_3_ott",
       "age": 3,
@@ -4544,6 +4619,7 @@
         "ot"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4655,6 +4731,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 2046429,
       "attribName": "unit_archer_4_ott",
       "age": 4,
@@ -4662,6 +4739,7 @@
         "ot"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4773,6 +4851,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 133452,
       "attribName": "unit_archer_2_rus",
       "age": 2,
@@ -4780,6 +4859,7 @@
         "ru"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -4890,6 +4970,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 133453,
       "attribName": "unit_archer_3_rus",
       "age": 3,
@@ -4897,6 +4978,7 @@
         "ru"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -5007,6 +5089,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 133454,
       "attribName": "unit_archer_4_rus",
       "age": 4,
@@ -5014,6 +5097,7 @@
         "ru"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -5124,6 +5208,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Archer",
+      "nameCN": "步弓手",
       "pbgid": 3300311,
       "attribName": "unit_archer_2_sul_ha_tug",
       "age": 2,
@@ -5131,6 +5216,7 @@
         "tug"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -5241,6 +5327,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Veteran Archer",
+      "nameCN": "老练步弓手",
       "pbgid": 7771100,
       "attribName": "unit_archer_3_sul_ha_tug",
       "age": 3,
@@ -5248,6 +5335,7 @@
         "tug"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",
@@ -5358,6 +5446,7 @@
       "baseId": "archer",
       "type": "unit",
       "name": "Elite Archer",
+      "nameCN": "精锐步弓手",
       "pbgid": 5516069,
       "attribName": "unit_archer_4_sul_ha_tug",
       "age": 4,
@@ -5365,6 +5454,7 @@
         "tug"
       ],
       "description": "Cheap ranged infantry with good damage vs. unarmored targets.\n+ High rate of fire\n- Weak against high ranged armor targets\n- Countered by Horsemen",
+      "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
       "classes": [
         "annihilation_condition",
         "archer",

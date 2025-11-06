@@ -38,6 +38,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 193112,
       "attribName": "unit_naval_fireship_3_chi",
       "age": 2,
@@ -45,6 +46,7 @@
         "ch"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -149,6 +151,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 8388470,
       "attribName": "unit_naval_fireship_3_mon_ha_gol",
       "age": 2,
@@ -156,6 +159,7 @@
         "gol"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -260,6 +264,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 3737428,
       "attribName": "unit_naval_fireship_3_jpn",
       "age": 2,
@@ -267,6 +272,7 @@
         "ja"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -371,6 +377,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 193132,
       "attribName": "unit_naval_fireship_3_mon",
       "age": 2,
@@ -378,6 +385,7 @@
         "mo"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -482,6 +490,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 6754252,
       "attribName": "unit_naval_fireship_3_jpn_ha_sen",
       "age": 2,
@@ -489,6 +498,7 @@
         "sen"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",
@@ -593,6 +603,7 @@
       "baseId": "explosive-junk",
       "type": "unit",
       "name": "Explosive Junk",
+      "nameCN": "爆破型戎克船",
       "pbgid": 5140347,
       "attribName": "unit_naval_fireship_3_chi_ha_01",
       "age": 2,
@@ -600,6 +611,7 @@
         "zx"
       ],
       "description": "Small ship packed with explosives. Detonates when killed, damaging any units in the area.\n- Damage is reduced further from the explosion center\n- No weapons other than self-destruction",
+      "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
       "classes": [
         "annihilation_condition",
         "incendiary",

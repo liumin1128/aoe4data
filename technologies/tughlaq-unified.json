@@ -38,6 +38,7 @@
           "baseId": "adjustable-crossbars",
           "type": "technology",
           "name": "Adjustable Crossbars",
+          "nameCN": "可调式横杆",
           "pbgid": 2532183,
           "attribName": "upgrade_siege_adjustable_crossbar_sul_ha_tug",
           "age": 4,
@@ -45,6 +46,7 @@
             "tug"
           ],
           "description": "Increases Mangonel range by +1, blast radius by +75%, and adds +1 projectile to attacks.",
+          "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -114,6 +116,7 @@
           "baseId": "angled-surfaces",
           "type": "technology",
           "name": "Angled Surfaces",
+          "nameCN": "斜面",
           "pbgid": 9003708,
           "attribName": "upgrade_ranged_armor_iii_sul_ha_tug",
           "age": 4,
@@ -121,6 +124,7 @@
             "tug"
           ],
           "description": "Increase the ranged armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的远程护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -200,6 +204,7 @@
           "baseId": "armored-beasts",
           "type": "technology",
           "name": "Armored Beasts",
+          "nameCN": "装甲野兽",
           "pbgid": 8298065,
           "attribName": "upgrade_age3_war_elephant_elite_sul_ha_tug",
           "age": 4,
@@ -207,6 +212,7 @@
             "tug"
           ],
           "description": "Grant +20% health and +4 ranged armor to War Elephants.",
+          "descriptionCN": "赋予战象 +20% 生命值和 +4 远程护甲。",
           "classes": [
             "sultinate_upgrade"
           ],
@@ -283,6 +289,7 @@
           "baseId": "armored-hull",
           "type": "technology",
           "name": "Armored Hull",
+          "nameCN": "装甲船身",
           "pbgid": 3830822,
           "attribName": "upgrade_naval_armored_hull_sul_ha_tug",
           "age": 3,
@@ -290,6 +297,7 @@
             "tug"
           ],
           "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+          "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -385,6 +393,7 @@
           "baseId": "arrowslits",
           "type": "technology",
           "name": "Arrowslits",
+          "nameCN": "射箭槽",
           "pbgid": 127325,
           "attribName": "upgrade_outpost_arrowslits",
           "age": 2,
@@ -392,6 +401,7 @@
             "tug"
           ],
           "description": "Add defensive arrowslits to this structure and increase garrison arrow range by +1. Only one weapon emplacement can be added.",
+          "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -473,6 +483,7 @@
           "baseId": "balanced-projectiles",
           "type": "technology",
           "name": "Balanced Projectiles",
+          "nameCN": "平衡炮弹",
           "pbgid": 9003711,
           "attribName": "upgrade_ranged_damage_ii_sul_ha_tug",
           "age": 3,
@@ -480,6 +491,7 @@
             "tug"
           ],
           "description": "Increase the ranged damage of all arrows and bolts by +1.",
+          "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -572,6 +584,7 @@
           "baseId": "biology",
           "type": "technology",
           "name": "Biology",
+          "nameCN": "生物学",
           "pbgid": 3229434,
           "attribName": "upgrade_tech_university_biology_sul_ha_tug",
           "age": 4,
@@ -579,6 +592,7 @@
             "tug"
           ],
           "description": "Investing in natural sciences increases the health of all cavalry by +25%.",
+          "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -651,6 +665,7 @@
           "baseId": "bloomery",
           "type": "technology",
           "name": "Bloomery",
+          "nameCN": "熟铁块吹炼法",
           "pbgid": 6516410,
           "attribName": "upgrade_melee_damage_i_sul_ha_tug",
           "age": 2,
@@ -658,6 +673,7 @@
             "tug"
           ],
           "description": "Increase the melee damage of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -743,6 +759,7 @@
           "baseId": "cannon-emplacement",
           "type": "technology",
           "name": "Cannon Emplacement",
+          "nameCN": "加农炮炮台",
           "pbgid": 9001518,
           "attribName": "upgrade_keep_cannon_sul_ha_tug",
           "age": 4,
@@ -750,6 +767,7 @@
             "tug"
           ],
           "description": "Add a defensive cannon emplacement to this structure.",
+          "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -840,6 +858,7 @@
           "baseId": "chemistry",
           "type": "technology",
           "name": "Chemistry",
+          "nameCN": "化学",
           "pbgid": 7770237,
           "attribName": "upgrade_siege_chemistry_sul_ha_tug",
           "age": 4,
@@ -847,6 +866,7 @@
             "tug"
           ],
           "description": "Advancements in alchemical research increase the bonus damage of all gunpowder siege weapons by +25%.",
+          "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -938,6 +958,7 @@
           "baseId": "collateral-damage",
           "type": "technology",
           "name": "Collateral Damage",
+          "nameCN": "附带损坏",
           "pbgid": 9002934,
           "attribName": "upgrade_elephant_building_damage_sul_ha_tug",
           "age": 3,
@@ -945,6 +966,7 @@
             "tug"
           ],
           "description": "Bonus damage dealt by Elephants is increased by 30%.",
+          "descriptionCN": "象兵造成的额外伤害提升 30%。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -1002,6 +1024,7 @@
           "baseId": "court-architects",
           "type": "technology",
           "name": "Court Architects",
+          "nameCN": "宫廷建筑师",
           "pbgid": 7229437,
           "attribName": "upgrade_tech_university_architecture_4_sul_ha_tug",
           "age": 4,
@@ -1009,6 +1032,7 @@
             "tug"
           ],
           "description": "Patronage of the finest builders increases all building health by +30%.",
+          "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -1084,6 +1108,7 @@
           "baseId": "curse-of-auliya",
           "type": "technology",
           "name": "Curse of Auliya",
+          "nameCN": "阿乌里亚的诅咒",
           "pbgid": 9003826,
           "attribName": "upgrade_keep_curse_of_the_fort",
           "age": 1,
@@ -1091,6 +1116,7 @@
             "tug"
           ],
           "description": "Attackers of this Tughlaqabad Fort are struck by fear, reducing their attack speed by 30% while targeting the Fort.",
+          "descriptionCN": "这座腾格拉卡巴德堡垒的攻击者陷入恐惧之中，以堡垒作为目标时，攻击速度减慢 30%。",
           "classes": [
             "military_upgrade",
             "sultanate_ha_tug_upgrade"
@@ -1145,6 +1171,7 @@
           "baseId": "damascus-steel",
           "type": "technology",
           "name": "Damascus Steel",
+          "nameCN": "大马士革钢",
           "pbgid": 9003714,
           "attribName": "upgrade_melee_damage_iii_sul_ha_tug",
           "age": 4,
@@ -1152,6 +1179,7 @@
             "tug"
           ],
           "description": "Increase the melee damage of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -1223,6 +1251,7 @@
           "baseId": "decarbonization",
           "type": "technology",
           "name": "Decarbonization",
+          "nameCN": "脱碳",
           "pbgid": 9003713,
           "attribName": "upgrade_melee_damage_ii_sul_ha_tug",
           "age": 3,
@@ -1230,6 +1259,7 @@
             "tug"
           ],
           "description": "Increase the melee damage of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -1301,6 +1331,7 @@
           "baseId": "drift-nets",
           "type": "technology",
           "name": "Drift Nets",
+          "nameCN": "流刺网",
           "pbgid": 6413412,
           "attribName": "upgrade_econ_drift_nets_sul_ha_tug",
           "age": 3,
@@ -1308,6 +1339,7 @@
             "tug"
           ],
           "description": "Increase the gathering rate of Fishing Ships by +10%, carry capacity by +20 and move speed by +10%.",
+          "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
           "classes": [
             "economic_upgrade",
             "scar_castle_age_upgrade",
@@ -1401,6 +1433,7 @@
           "baseId": "elephant-caretakers",
           "type": "technology",
           "name": "Elephant Caretakers",
+          "nameCN": "大象看护人",
           "pbgid": 9002800,
           "attribName": "upgrade_elephant_caretakers_sul_ha_tug",
           "age": 2,
@@ -1408,6 +1441,7 @@
             "tug"
           ],
           "description": "Elephants regenerate +2 health every 2 seconds when out of combat.",
+          "descriptionCN": "脱离战斗的象兵每 2 秒恢复 +2 生命值。",
           "classes": [
             "byzantine_ha_mac_upgrade",
             "military_upgrade",
@@ -1464,6 +1498,7 @@
           "baseId": "elite-army-tactics",
           "type": "technology",
           "name": "Elite Army Tactics",
+          "nameCN": "精锐军队战术",
           "pbgid": 3385914,
           "attribName": "upgrade_manatarms_elite_army_tactics_sul_ha_tug",
           "age": 4,
@@ -1471,6 +1506,7 @@
             "tug"
           ],
           "description": "Training elite infantry leads to improved prowess in battle. Melee Infantry gain +15% damage and +15% health.",
+          "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -1558,6 +1594,7 @@
           "baseId": "explosives",
           "type": "technology",
           "name": "Explosives",
+          "nameCN": "炸药",
           "pbgid": 6730230,
           "attribName": "upgrade_naval_explosives_sul_ha_tug",
           "age": 4,
@@ -1565,6 +1602,7 @@
             "tug"
           ],
           "description": "Increase the damage of Incendiary Ships by +40%.",
+          "descriptionCN": "燃烧船伤害 +40%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -1637,6 +1675,7 @@
           "baseId": "extended-lines",
           "type": "technology",
           "name": "Extended Lines",
+          "nameCN": "延绳钓",
           "pbgid": 4993764,
           "attribName": "upgrade_econ_extended_lines_sul_ha_tug",
           "age": 2,
@@ -1644,6 +1683,7 @@
             "tug"
           ],
           "description": "Increase the gathering rate of Fishing Ships by +15% and carry capacity by +10.",
+          "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
           "classes": [
             "economic_upgrade",
             "scar_economic_upgrade",
@@ -1726,6 +1766,7 @@
           "baseId": "extra-hammocks",
           "type": "technology",
           "name": "Extra Hammocks",
+          "nameCN": "额外吊床",
           "pbgid": 5784106,
           "attribName": "upgrade_naval_extra_hammocks_sul_ha_tug",
           "age": 3,
@@ -1733,6 +1774,7 @@
             "tug"
           ],
           "description": "Increases the number of arrows fired by Archer Ships by +1.",
+          "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -1805,6 +1847,7 @@
           "baseId": "fitted-leatherwork",
           "type": "technology",
           "name": "Fitted Leatherwork",
+          "nameCN": "合身皮具",
           "pbgid": 6265661,
           "attribName": "upgrade_melee_armor_i_sul_ha_tug",
           "age": 2,
@@ -1812,6 +1855,7 @@
             "tug"
           ],
           "description": "Increase the melee armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -1909,6 +1953,7 @@
           "baseId": "fortify-outpost",
           "type": "technology",
           "name": "Fortify Outpost",
+          "nameCN": "强化哨站",
           "pbgid": 127331,
           "attribName": "upgrade_outpost_stone",
           "age": 2,
@@ -1916,6 +1961,7 @@
             "tug"
           ],
           "description": "Add +1000 health and +5 fire armor to this Outpost.",
+          "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -2010,6 +2056,7 @@
           "baseId": "geometry",
           "type": "technology",
           "name": "Geometry",
+          "nameCN": "几何学",
           "pbgid": 8566030,
           "attribName": "upgrade_siege_mathematics_sul_ha_tug",
           "age": 4,
@@ -2017,6 +2064,7 @@
             "tug"
           ],
           "description": "Increase damage of Trebuchets by +20%.",
+          "descriptionCN": "巨型投石机的伤害 +20%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -2088,6 +2136,7 @@
           "baseId": "greased-axles",
           "type": "technology",
           "name": "Greased Axles",
+          "nameCN": "润滑轮轴",
           "pbgid": 3437342,
           "attribName": "upgrade_siege_weapon_speed_sul_ha_tug",
           "age": 3,
@@ -2095,6 +2144,7 @@
             "tug"
           ],
           "description": "Increase the movement speed of siege engines by +15%.",
+          "descriptionCN": "攻城器械的移动速度 +15%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2166,6 +2216,7 @@
           "baseId": "heated-shot",
           "type": "technology",
           "name": "Heated Shot",
+          "nameCN": "加热射击",
           "pbgid": 4192943,
           "attribName": "upgrade_naval_heated_shot_sul_ha_tug",
           "age": 4,
@@ -2173,6 +2224,7 @@
             "tug"
           ],
           "description": "Archer Ship arrows light enemy Ships on fire, dealing damage over time.",
+          "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -2245,6 +2297,7 @@
           "baseId": "herbal-medicine",
           "type": "technology",
           "name": "Herbal Medicine",
+          "nameCN": "草药",
           "pbgid": 5671478,
           "attribName": "upgrade_unit_religious_herbal_medicine_4_sul_ha_tug",
           "age": 3,
@@ -2252,6 +2305,7 @@
             "tug"
           ],
           "description": "Increase the healing rate of religious units and healers by +60%.",
+          "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2331,6 +2385,7 @@
           "baseId": "incendiaries",
           "type": "technology",
           "name": "Incendiaries",
+          "nameCN": "燃烧弹",
           "pbgid": 7522107,
           "attribName": "upgrade_naval_incendiaries_sul_ha_tug",
           "age": 3,
@@ -2338,6 +2393,7 @@
             "tug"
           ],
           "description": "Incendiary Ships gain +20% explosion range.",
+          "descriptionCN": "燃烧船的爆炸范围 +20%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2410,6 +2466,7 @@
           "baseId": "incendiary-arrows",
           "type": "technology",
           "name": "Incendiary Arrows",
+          "nameCN": "燃烧箭",
           "pbgid": 3990960,
           "attribName": "upgrade_ranged_incendiary_sul_ha_tug",
           "age": 4,
@@ -2417,6 +2474,7 @@
             "tug"
           ],
           "description": "Flammable munitions grant non-gunpowder ranged units a siege arrow or bolt when attacking buildings and increase their damage by +20%.",
+          "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -2524,6 +2582,7 @@
           "baseId": "insulated-helm",
           "type": "technology",
           "name": "Insulated Helm",
+          "nameCN": "绝缘头盔",
           "pbgid": 9003709,
           "attribName": "upgrade_melee_armor_ii_sul_ha_tug",
           "age": 3,
@@ -2531,6 +2590,7 @@
             "tug"
           ],
           "description": "Increase the melee armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2614,6 +2674,7 @@
           "baseId": "iron-undermesh",
           "type": "technology",
           "name": "Iron Undermesh",
+          "nameCN": "铁制底网",
           "pbgid": 4551739,
           "attribName": "upgrade_ranged_armor_i_sul_ha_tug",
           "age": 2,
@@ -2621,6 +2682,7 @@
             "tug"
           ],
           "description": "Increase the ranged armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的远程护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -2704,6 +2766,7 @@
           "baseId": "khanda-drills",
           "type": "technology",
           "name": "Khanda Drills",
+          "nameCN": "印度直剑操练",
           "pbgid": 9004421,
           "attribName": "upgrade_improved_infantry_charge_sul_ha_tug",
           "age": 3,
@@ -2711,6 +2774,7 @@
             "tug"
           ],
           "description": "Khanda training improves Man-at-Arms charge duration by 3 seconds and increases damage of their charge attack by 100%.",
+          "descriptionCN": "印度直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2766,6 +2830,7 @@
           "baseId": "lightweight-beams",
           "type": "technology",
           "name": "Lightweight Beams",
+          "nameCN": "轻质横梁",
           "pbgid": 5588181,
           "attribName": "upgrade_ram_scaling_sul_ha_tug",
           "age": 4,
@@ -2773,6 +2838,7 @@
             "tug"
           ],
           "description": "Increase Battering Ram attack speed by +20% and reduce their field construction time by -50%.",
+          "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -2855,6 +2921,7 @@
           "baseId": "mahouts",
           "type": "technology",
           "name": "Mahouts",
+          "nameCN": "象夫",
           "pbgid": 3387184,
           "attribName": "upgrade_landmark_mahouts_sul_ha_tug",
           "age": 3,
@@ -2862,6 +2929,7 @@
             "tug"
           ],
           "description": "Elephants move +10% faster.",
+          "descriptionCN": "大象移动速度 +10%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -2919,6 +2987,7 @@
           "baseId": "master-smiths",
           "type": "technology",
           "name": "Master Smiths",
+          "nameCN": "铁匠大师",
           "pbgid": 9003710,
           "attribName": "upgrade_melee_armor_iii_sul_ha_tug",
           "age": 4,
@@ -2926,6 +2995,7 @@
             "tug"
           ],
           "description": "Increase the melee armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的近战护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -3009,6 +3079,7 @@
           "baseId": "military-academy",
           "type": "technology",
           "name": "Military Academy",
+          "nameCN": "军事学院",
           "pbgid": 7716650,
           "attribName": "upgrade_tech_military_academy_sul_ha_tug",
           "age": 3,
@@ -3016,6 +3087,7 @@
             "tug"
           ],
           "description": "Increase the production speed of infantry, cavalry, siege, and transport units at buildings by 33%.\nDoes not affect religious units or other support units.",
+          "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -3115,6 +3187,7 @@
           "baseId": "naval-arrowslits",
           "type": "technology",
           "name": "Naval Arrowslits",
+          "nameCN": "海军射箭槽",
           "pbgid": 2076426,
           "attribName": "upgrade_naval_arrowslits",
           "age": 2,
@@ -3122,6 +3195,7 @@
             "tug"
           ],
           "description": "Add a defensive arrowslit to this Dock which only attacks ships.",
+          "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -3193,6 +3267,7 @@
           "baseId": "neza-training",
           "type": "technology",
           "name": "Neza Training",
+          "nameCN": "内扎兵训练",
           "pbgid": 9004782,
           "attribName": "upgrade_improved_spearman_sul_ha_tug",
           "age": 3,
@@ -3200,6 +3275,7 @@
             "tug"
           ],
           "description": "Spearman damage against cavalry increased by 35% and production speed increased by 50%.",
+          "descriptionCN": "长矛兵对骑兵造成的伤害 +35%，生产速度 +50%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -3281,6 +3357,7 @@
           "baseId": "piety",
           "type": "technology",
           "name": "Piety",
+          "nameCN": "虔诚",
           "pbgid": 4179247,
           "attribName": "upgrade_unit_religious_piety_4_sul_ha_tug",
           "age": 2,
@@ -3288,6 +3365,7 @@
             "tug"
           ],
           "description": "Increase the health of religious units and healers by +40.",
+          "descriptionCN": "宗教单位和治疗者的生命值 +40。",
           "classes": [
             "military_upgrade",
             "scar_military_upgrade",
@@ -3366,6 +3444,7 @@
           "baseId": "platecutter-point",
           "type": "technology",
           "name": "Platecutter Point",
+          "nameCN": "箭头穿孔板甲",
           "pbgid": 9003712,
           "attribName": "upgrade_ranged_damage_iii_sul_ha_tug",
           "age": 4,
@@ -3373,6 +3452,7 @@
             "tug"
           ],
           "description": "Increase the ranged damage of all arrows and bolts by +1.",
+          "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -3461,6 +3541,7 @@
           "baseId": "reinforced-arm-ballista",
           "type": "technology",
           "name": "Reinforced Arm Ballista",
+          "nameCN": "强化武装弩炮",
           "pbgid": 9001226,
           "attribName": "upgrade_unit_war_elephant_ballista_4_sul_ha_tug",
           "age": 4,
@@ -3468,6 +3549,7 @@
             "tug"
           ],
           "description": "Upgrade Ballista Elephants into Elite Ballista Elephants",
+          "descriptionCN": "将弩炮大象升级为精锐弩炮大象",
           "classes": [
             "sultinate_upgrade"
           ],
@@ -3545,6 +3627,7 @@
           "baseId": "serpentine-powder",
           "type": "technology",
           "name": "Serpentine Powder",
+          "nameCN": "蛇纹石粉末",
           "pbgid": 9004381,
           "attribName": "upgrade_ranged_leadshot_sul_ha_tug",
           "age": 4,
@@ -3552,6 +3635,7 @@
             "tug"
           ],
           "description": "With new gunpowder, Handcannoneers gain +5 damage against melee infantry and gain a brief increase to their movement speed after firing their weapon.",
+          "descriptionCN": "使用新型火药，火枪兵对近战步兵的伤害 +5，并在武器开火后短暂提高移动速度。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -3621,6 +3705,7 @@
           "baseId": "shipwrights",
           "type": "technology",
           "name": "Shipwrights",
+          "nameCN": "造船工",
           "pbgid": 8645640,
           "attribName": "upgrade_naval_shipwrights_sul_ha_tug",
           "age": 4,
@@ -3628,6 +3713,7 @@
             "tug"
           ],
           "description": "Increase the health of all military ships by +20% and ranged armor by +1.",
+          "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -3712,6 +3798,7 @@
           "baseId": "siege-engineering",
           "type": "technology",
           "name": "Siege Engineering",
+          "nameCN": "攻城工程学",
           "pbgid": 2976097,
           "attribName": "upgrade_siege_engineers_sul_ha_tug",
           "age": 2,
@@ -3719,6 +3806,7 @@
             "tug"
           ],
           "description": "Melee and ranged infantry can construct Siege Towers and Battering Rams in the field.",
+          "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -3790,6 +3878,7 @@
           "baseId": "siege-works",
           "type": "technology",
           "name": "Siege Works",
+          "nameCN": "攻城武器",
           "pbgid": 5749321,
           "attribName": "upgrade_siege_works_sul_ha_tug",
           "age": 4,
@@ -3797,6 +3886,7 @@
             "tug"
           ],
           "description": "New carpentry techniques increase the health of siege units by +20%.",
+          "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -3869,6 +3959,7 @@
           "baseId": "silk-bowstrings",
           "type": "technology",
           "name": "Silk Bowstrings",
+          "nameCN": "蚕丝弓弦",
           "pbgid": 7350900,
           "attribName": "upgrade_ranged_archer_silkstring_sul_ha_tug",
           "age": 4,
@@ -3876,6 +3967,7 @@
             "tug"
           ],
           "description": "Stringing bows with silk grants Archers +1.5 range and Mounted Archers +0.75 range.",
+          "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1.5，使骑射手的射程 +0.75。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -3934,6 +4026,7 @@
           "baseId": "springald-crews",
           "type": "technology",
           "name": "Springald Crews",
+          "nameCN": "扭力弩炮队",
           "pbgid": 6368415,
           "attribName": "upgrade_naval_springald_ship_upgrade_1_sul_ha_tug",
           "age": 3,
@@ -3941,6 +4034,7 @@
             "tug"
           ],
           "description": "Springald Ships gain +1 range and attack 20% faster.",
+          "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -4041,6 +4135,7 @@
           "baseId": "springald-emplacement",
           "type": "technology",
           "name": "Springald Emplacement",
+          "nameCN": "扭力弩炮炮台",
           "pbgid": 9001517,
           "attribName": "upgrade_keep_springald_sul_ha_tug",
           "age": 3,
@@ -4048,6 +4143,7 @@
             "tug"
           ],
           "description": "Add a defensive springald emplacement to this structure.",
+          "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
           "classes": [
             "abbasid_ha_01_upgrade",
             "abbasid_upgrade",
@@ -4139,6 +4235,7 @@
           "baseId": "spyglass",
           "type": "technology",
           "name": "Spyglass",
+          "nameCN": "小型望远镜",
           "pbgid": 7499511,
           "attribName": "upgrade_scout_los_increase_sul_ha_tug",
           "age": 4,
@@ -4146,6 +4243,7 @@
             "tug"
           ],
           "description": "Increase the sight radius of Scouts by 30%.",
+          "descriptionCN": "侦察兵的视线半径增加 30%。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -4216,6 +4314,7 @@
           "baseId": "steeled-arrow",
           "type": "technology",
           "name": "Steeled Arrow",
+          "nameCN": "钢制箭头",
           "pbgid": 5422283,
           "attribName": "upgrade_ranged_damage_i_sul_ha_tug",
           "age": 2,
@@ -4223,6 +4322,7 @@
             "tug"
           ],
           "description": "Increase the ranged damage of all arrows and bolts by +1.",
+          "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -4315,6 +4415,7 @@
           "baseId": "swivel-cannon",
           "type": "technology",
           "name": "Swivel Cannon",
+          "nameCN": "旋转加农炮",
           "pbgid": 5413547,
           "attribName": "upgrade_naval_swivel_cannon_sul_ha_tug",
           "age": 4,
@@ -4322,6 +4423,7 @@
             "tug"
           ],
           "description": "Springald Ships gain an additional Cannon which fires in 360 degrees.",
+          "descriptionCN": "扭力弩炮船获得了一门额外的加农炮，可以 360 度射击。",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -4394,6 +4496,7 @@
           "baseId": "textiles",
           "type": "technology",
           "name": "Textiles",
+          "nameCN": "纺织品",
           "pbgid": 6493540,
           "attribName": "upgrade_villager_health_sul_ha_tug",
           "age": 2,
@@ -4401,6 +4504,7 @@
             "tug"
           ],
           "description": "Increase Villagers' health by +50%.",
+          "descriptionCN": "村民生命值 +50%。",
           "classes": [
             "military_upgrade",
             "scar_feudal_age_upgrade",
@@ -4471,6 +4575,7 @@
           "baseId": "tithe-barns",
           "type": "technology",
           "name": "Tithe Barns",
+          "nameCN": "什一税仓库",
           "pbgid": 5842978,
           "attribName": "upgrade_unit_religious_tithe_barn_4_sul_ha_tug",
           "age": 4,
@@ -4478,6 +4583,7 @@
             "tug"
           ],
           "description": "Relics placed in a Mosque provide an income of +40 Food, +40 Wood, and +10 Stone every minute.",
+          "descriptionCN": "放置在清真寺的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
           "classes": [
             "economic_upgrade",
             "scar_economic_upgrade",
@@ -4579,6 +4685,7 @@
           "baseId": "tughlaqabad-fort-overwatch",
           "type": "technology",
           "name": "Tughlaqabad Fort Overwatch",
+          "nameCN": "腾格拉卡巴德堡垒瞭望",
           "pbgid": 9004583,
           "attribName": "upgrade_fort_support_sul_ha_tug",
           "age": 2,
@@ -4586,6 +4693,7 @@
             "tug"
           ],
           "description": "Tughlaqabad Forts increase the production speed of nearby Docks by 30%, arrowslits damage by 2, and weapon range by 1 tile.",
+          "descriptionCN": "腾格拉卡巴德堡垒可使附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
           "classes": [
             "economic_upgrade",
             "scar_dark_age_upgrade",
@@ -4643,6 +4751,7 @@
           "baseId": "upgrade-to-elite",
           "type": "technology",
           "name": "Upgrade to Elite",
+          "nameCN": "升级为精锐",
           "pbgid": 9004615,
           "attribName": "upgrade_unit_healer_elephant_4_sul_ha_tug",
           "age": 4,
@@ -4650,6 +4759,7 @@
             "tug"
           ],
           "description": "Upgrade Healer Elephants to Elite Healer Elephants",
+          "descriptionCN": "将治疗者大象升级为精锐治疗者大象",
           "classes": [
             "military_upgrade",
             "scar_imperial_age_upgrade",
@@ -4727,6 +4837,7 @@
           "baseId": "wedge-rivets",
           "type": "technology",
           "name": "Wedge Rivets",
+          "nameCN": "楔形铆钉",
           "pbgid": 9003707,
           "attribName": "upgrade_ranged_armor_ii_sul_ha_tug",
           "age": 3,
@@ -4734,6 +4845,7 @@
             "tug"
           ],
           "description": "Increase the ranged armor of all non-siege units by +1.",
+          "descriptionCN": "所有非攻城单位的远程护甲 +1。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",

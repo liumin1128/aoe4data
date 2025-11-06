@@ -27,6 +27,7 @@
       "baseId": "elite-gilded-men-at-arms",
       "type": "upgrade",
       "name": "Upgrade to Elite",
+      "nameCN": "升级为精锐",
       "pbgid": 2146729,
       "attribName": "upgrade_unit_manatarms_4_hre_ha_01",
       "age": 4,
@@ -34,6 +35,7 @@
         "od"
       ],
       "description": "Upgrade Gilded Men-at-Arms to Elite Gilded Men-at-Arms.",
+      "descriptionCN": "将镀金武士升级为精锐镀金武士。",
       "classes": [
         "hre_ha_01_upgrade",
         "military_upgrade",

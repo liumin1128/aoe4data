@@ -43,6 +43,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 199719,
       "attribName": "unit_knight_3_abb",
       "age": 3,
@@ -50,6 +51,7 @@
         "ab"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -164,6 +166,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 199720,
       "attribName": "unit_knight_4_abb",
       "age": 4,
@@ -171,6 +174,7 @@
         "ab"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -285,6 +289,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 137568,
       "attribName": "unit_knight_3_chi",
       "age": 3,
@@ -292,6 +297,7 @@
         "ch"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -406,6 +412,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 137569,
       "attribName": "unit_knight_4_chi",
       "age": 4,
@@ -413,6 +420,7 @@
         "ch"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -527,6 +535,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 136050,
       "attribName": "unit_knight_3_sul",
       "age": 3,
@@ -534,6 +543,7 @@
         "de"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -671,6 +681,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 136051,
       "attribName": "unit_knight_4_sul",
       "age": 4,
@@ -678,6 +689,7 @@
         "de"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -815,6 +827,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 2046440,
       "attribName": "unit_knight_3_ott",
       "age": 3,
@@ -822,6 +835,7 @@
         "ot"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -937,6 +951,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 2046441,
       "attribName": "unit_knight_4_ott",
       "age": 4,
@@ -944,6 +959,7 @@
         "ot"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1059,6 +1075,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 7613348,
       "attribName": "unit_knight_3_sul_ha_tug",
       "age": 3,
@@ -1066,6 +1083,7 @@
         "tug"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1203,6 +1221,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 7704105,
       "attribName": "unit_knight_4_sul_ha_tug",
       "age": 4,
@@ -1210,6 +1229,7 @@
         "tug"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1347,6 +1367,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Lancer",
+      "nameCN": "长矛骑兵",
       "pbgid": 4272248,
       "attribName": "unit_knight_3_chi_ha_01",
       "age": 3,
@@ -1354,6 +1375,7 @@
         "zx"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
@@ -1468,6 +1490,7 @@
       "baseId": "lancer",
       "type": "unit",
       "name": "Elite Lancer",
+      "nameCN": "精锐长矛骑兵",
       "pbgid": 8427199,
       "attribName": "unit_knight_4_chi_ha_01",
       "age": 4,
@@ -1475,6 +1498,7 @@
         "zx"
       ],
       "description": "Expensive cavalry with high damage and melee armor. Effective against melee units.\n+ Heavy armor\n+ Strong in melee combat\n- Countered by Spearmen and Crossbowmen",
+      "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
       "classes": [
         "annihilation_condition",
         "armored",
