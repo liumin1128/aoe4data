@@ -55,14 +55,20 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     if (!type_ext && ebpExts.type_ext) type_ext = ebpExts.type_ext;
 
     let name = getTranslation(ui_ext?.ui_contextual_info?.screen_name ?? ui_ext?.screen_name ?? ui_ext.title);
+    let nameCN = getTranslation(ui_ext?.ui_contextual_info?.screen_name ?? ui_ext?.screen_name ?? ui_ext.title, [], "zh-hans");
     if (name === NO_TRANSLATION_FOUND) name = file.split("/").pop()!;
     const description = parseDescription(ui_ext);
+    const descriptionCN = parseDescription(ui_ext, "zh-hans");
     const attribName = file.split("/").pop()!.replace(".xml", "").replace(".json", "");
 
     const squad_requirement_ext = data.extensions.find((e) => e.squadexts == "sbpextensions/squad_requirement_ext");
     const squad_type_ext = data.extensions.find((e) => e.squadexts == "sbpextensions/squad_type_ext");
 
-    const age = parseAge(attribName, squad_requirement_ext?.requirement_table ?? ebpExts?.requirement_ext?.requirement_table ?? data.upgrade_bag?.requirements ?? ability_data?.requirements, data.parent_pbg);
+    const age = parseAge(
+      attribName,
+      squad_requirement_ext?.requirement_table ?? ebpExts?.requirement_ext?.requirement_table ?? data.upgrade_bag?.requirements ?? ability_data?.requirements,
+      data.parent_pbg
+    );
     const baseId = getBasedId(name, type, description);
     const id = `${baseId}-${age}`;
 
@@ -84,7 +90,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
         ebpExts?.population_ext?.personnel_pop
       );
 
-    const icon_name = isBuff ? ui_ext.icon?.slice(6) : (ui_ext.icon_name ?? ui_ext.icon);
+    const icon_name = isBuff ? ui_ext.icon?.slice(6) : ui_ext.icon_name ?? ui_ext.icon;
     const [icon_src, icon] = await prepareIcon(icon_name, type, id);
     if (!icon) console.log(`undefined icon for ${file}`, ui_ext.icon_name ?? ui_ext.icon);
 
@@ -95,11 +101,13 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       baseId,
       type: "unit",
       name,
+      nameCN,
       pbgid,
       attribName,
       age,
       civs: [civ.abbr],
       description,
+      descriptionCN,
       classes,
       displayClasses,
       unique,
@@ -110,7 +118,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     };
 
     if (type === ITEM_TYPES.ABILITIES) {
-      const translationFormatter = (isBuff ? ui_ext.description_formatter : ui_ext.help_text_formatter);
+      const translationFormatter = isBuff ? ui_ext.description_formatter : ui_ext.help_text_formatter;
       const translationFormat = getTranslationRaw(translationFormatter?.formatter || ui_ext.help_text);
       const translationParams = translationFormatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x) ?? [];
       const effectsFactory = abilityModifiers[baseId];
@@ -203,7 +211,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     if (type === ITEM_TYPES.TECHNOLOGIES) {
       const translationFormatter = ui_ext.help_text_formatter;
       const translationFormat = getTranslationRaw(translationFormatter?.formatter || ui_ext.help_text);
-      const translationParams =translationFormatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x) ?? [];
+      const translationParams = translationFormatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x) ?? [];
       const effectsFactory = technologyModifiers[baseId];
       const effects = effectsFactory?.call(translationFormat, translationParams, item) ?? [];
 
@@ -283,7 +291,7 @@ function findExt(data: any, key: string, value: string) {
   return data?.extensions?.find((x) => x[key] === value);
 }
 
-function parseDescription(ui_ext: any) {
+function parseDescription(ui_ext: any, locale?: string) {
   if (!ui_ext) return `not-found-${Math.random()}`;
 
   const { formatter, formatter_arguments } = !!ui_ext.help_text_formatter?.formatter
@@ -296,7 +304,8 @@ function parseDescription(ui_ext: any) {
 
   const translation = getTranslation(
     formatter,
-    formatter_arguments.map((x) => (typeof x === "number" ? x : Object.values(x)[0] ?? x))
+    formatter_arguments.map((x) => (typeof x === "number" ? x : Object.values(x)[0] ?? x)),
+    locale
   );
 
   if (translation === NO_TRANSLATION_FOUND) return `not-found-${Math.random()}`; // throw new Error("No translation found for " + ui_ext.help_text);
@@ -342,15 +351,10 @@ function parseAge(name: string, requirements: any, parent_pbg: string) {
 }
 
 function parseSight(sight_ext: any) {
-  const {
-    inner_height = 0,
-    inner_radius = 0,
-    outer_height = 0,
-    outer_radius = 0
-  } = sight_ext?.sight_package || {};
+  const { inner_height = 0, inner_radius = 0, outer_height = 0, outer_radius = 0 } = sight_ext?.sight_package || {};
   // It's a cone and outer_height is negative (which leads to units seeing further from elevation)
   // Calculate the radius at 0 height
-  const base = outer_height === inner_height ? outer_radius : (outer_radius - outer_height * (inner_radius - outer_radius) / (inner_height - outer_height));
+  const base = outer_height === inner_height ? outer_radius : outer_radius - (outer_height * (inner_radius - outer_radius)) / (inner_height - outer_height);
   return {
     inner_height,
     inner_radius,
@@ -382,7 +386,8 @@ function parseArmor(health_ext): Armor[] {
 
 function parseResistance(health_ext): Resistance[] | undefined {
   if (!health_ext?.percentage_reduction_armor_by_damage_type) return undefined;
-  const list = Object.entries<number>(health_ext?.percentage_reduction_armor_by_damage_type)
+  const list =
+    Object.entries<number>(health_ext?.percentage_reduction_armor_by_damage_type)
       ?.filter(([k, v]) => v > 0)
       .map(([k, v]) => ({ type: damageMap[k], value: v }))
       .sort((a, b) => armorSort.indexOf(a.type) - armorSort.indexOf(b.type)) ?? [];
