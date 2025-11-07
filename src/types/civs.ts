@@ -13,10 +13,13 @@ export type CivConfig = {
 
 export type CivInfo = {
   name: string;
+  nameCN: string;
   classes: string;
   description: string;
+  descriptionCN: string;
   // backdrop?: string;
   overview: { title: string; description?: string; list?: string[] }[];
+  overviewCN: { title: string; description?: string; list?: string[] }[];
 };
 
 export const CIVILIZATION_BY_SLUG: Record<CivSlug, CivConfig> = Object.values(CIVILIZATIONS).reduce((acc, civ) => ({ ...acc, [civ.slug]: civ }), {} as Record<CivSlug, CivConfig>);
