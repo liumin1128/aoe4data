@@ -45,6 +45,9 @@
       "displayClasses": [
         "Nest of Bees Technology"
       ],
+      "displayClassesCN": [
+        "一窝蜂科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -99,6 +102,9 @@
       ],
       "displayClasses": [
         "Nest of Bees Technology"
+      ],
+      "displayClassesCN": [
+        "一窝蜂科技"
       ],
       "unique": true,
       "costs": {

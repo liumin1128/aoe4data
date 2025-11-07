@@ -42,6 +42,9 @@
       "displayClasses": [
         "Vision Emplacement"
       ],
+      "displayClassesCN": [
+        "视野炮台"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

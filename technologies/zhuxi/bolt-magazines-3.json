@@ -22,6 +22,9 @@
   "displayClasses": [
     "Zhuge Nu Technology"
   ],
+  "displayClassesCN": [
+    "诸葛弩手科技"
+  ],
   "unique": true,
   "costs": {
     "food": 75,

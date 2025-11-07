@@ -46,6 +46,9 @@
       "displayClasses": [
         "Defensive Ability"
       ],
+      "displayClassesCN": [
+        "防御能力"
+      ],
       "unique": true,
       "costs": {
         "food": 200,

@@ -30,6 +30,9 @@
       "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -79,6 +82,9 @@
       "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -14,6 +14,9 @@
   "descriptionCN": "能力可对军事生产或科技建筑使用，使其工作速率 +150%。如果是对采矿场、伐木场或农田使用，则开始产生 160 黄金、木材或食物，持续 60 秒。\n每隔 90 秒补充一次。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

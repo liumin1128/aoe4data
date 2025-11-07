@@ -27,6 +27,9 @@
   "displayClasses": [
     "Age II - Influence Landmark"
   ],
+  "displayClassesCN": [
+    "第二时代 - 影响地标"
+  ],
   "unique": true,
   "costs": {
     "food": 400,
@@ -60,5 +63,6 @@
     "line": 25,
     "height": 8
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

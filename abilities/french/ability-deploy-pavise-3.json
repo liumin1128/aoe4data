@@ -14,6 +14,9 @@
   "descriptionCN": "激活可增加 +1 格武器攻击范围，并获得 +5 远程护甲。\n效果持续 30 秒或直到弓弩手移动为止。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

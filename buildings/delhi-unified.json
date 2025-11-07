@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -102,6 +105,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -156,6 +162,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -197,6 +206,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -247,6 +259,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -282,6 +297,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -354,6 +372,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -398,7 +419,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -458,6 +480,9 @@
           "displayClasses": [
             "Age III - Defensive Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：防御地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -491,7 +516,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -551,6 +577,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -593,6 +622,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -661,6 +693,9 @@
           "displayClasses": [
             "Age II - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -700,7 +735,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -752,6 +788,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -785,7 +824,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -837,6 +877,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -870,7 +913,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -932,6 +976,9 @@
           "displayClasses": [
             "Age IV - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -971,7 +1018,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1020,6 +1068,9 @@
           ],
           "displayClasses": [
             "Population Building"
+          ],
+          "displayClassesCN": [
+            "人口建筑"
           ],
           "unique": false,
           "costs": {
@@ -1254,7 +1305,8 @@
               "infantry ranged"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1312,6 +1364,9 @@
           "displayClasses": [
             "Age III - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -1347,6 +1402,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -1402,6 +1460,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -1495,6 +1556,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -1547,6 +1611,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1582,6 +1649,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -1634,6 +1704,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1675,6 +1748,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -1731,6 +1807,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1764,7 +1843,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1822,6 +1902,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1857,6 +1940,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -1913,6 +1999,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1948,6 +2037,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -2004,6 +2096,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2045,6 +2140,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -2101,6 +2199,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2145,7 +2246,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2203,6 +2305,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -2242,7 +2347,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2294,6 +2400,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2332,7 +2441,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2384,6 +2494,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2422,7 +2535,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2476,6 +2590,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2515,7 +2632,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2569,6 +2687,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2610,6 +2731,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         }
       ]
@@ -2662,6 +2786,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2700,7 +2827,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2752,6 +2880,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2790,7 +2921,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2843,6 +2975,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2921,7 +3056,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2979,6 +3115,9 @@
           "displayClasses": [
             "Age II - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -3012,7 +3151,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -3078,6 +3218,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3122,7 +3265,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     }

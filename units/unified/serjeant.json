@@ -64,6 +64,9 @@
       "displayClasses": [
         "Heavy Melee Infantry"
       ],
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 70,
@@ -158,6 +161,9 @@
       "displayClasses": [
         "Heavy Melee Infantry"
       ],
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 70,
@@ -251,6 +257,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Infantry"
+      ],
+      "displayClassesCN": [
+        "重装近战步兵"
       ],
       "unique": true,
       "costs": {

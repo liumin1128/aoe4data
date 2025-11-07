@@ -19,6 +19,9 @@
   "displayClasses": [
     "Hero Level Up Choice"
   ],
+  "displayClassesCN": [
+    "获得圣化与神圣恢复"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

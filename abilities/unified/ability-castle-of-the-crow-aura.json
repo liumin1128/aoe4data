@@ -29,6 +29,9 @@
       "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

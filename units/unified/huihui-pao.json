@@ -59,6 +59,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -232,6 +235,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -402,6 +408,9 @@
       "displayClasses": [
         "Siege",
         "Khaganate Unit"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": true,
       "costs": {

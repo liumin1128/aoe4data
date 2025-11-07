@@ -28,6 +28,9 @@
   "displayClasses": [
     "Age III - Economic Landmark"
   ],
+  "displayClassesCN": [
+    "第三时代：经济地标"
+  ],
   "unique": true,
   "costs": {
     "food": 1200,
@@ -61,5 +64,6 @@
     "line": 37,
     "height": 501
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

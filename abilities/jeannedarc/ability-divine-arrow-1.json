@@ -14,6 +14,9 @@
   "descriptionCN": "贞德瞄准一个敌人并发射一支神圣之箭，造成 40 伤害。\n冷却时间：8 秒。\n充能时间：60 秒。\n最大充能数：4",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "伤害能力"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

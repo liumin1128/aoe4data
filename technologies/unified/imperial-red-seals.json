@@ -40,6 +40,9 @@
       "displayClasses": [
         "Economic Upgrade"
       ],
+      "displayClassesCN": [
+        "经济升级"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

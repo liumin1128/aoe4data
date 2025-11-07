@@ -29,6 +29,9 @@
       "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

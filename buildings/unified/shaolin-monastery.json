@@ -66,6 +66,9 @@
       "displayClasses": [
         "Age III - Religious Landmark"
       ],
+      "displayClassesCN": [
+        "第三时代：宗教地标"
+      ],
       "unique": true,
       "costs": {
         "food": 1200,
@@ -99,7 +102,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

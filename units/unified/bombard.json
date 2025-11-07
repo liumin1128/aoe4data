@@ -68,6 +68,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -213,6 +216,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {
@@ -360,6 +366,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -505,6 +514,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {
@@ -655,6 +667,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -800,6 +815,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {
@@ -948,6 +966,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1093,6 +1114,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {
@@ -1240,6 +1264,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1385,6 +1412,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {
@@ -1532,6 +1562,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1678,6 +1711,9 @@
         "Siege",
         "Gunpowder"
       ],
+      "displayClassesCN": [
+        "攻城、火药"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1823,6 +1859,9 @@
       "displayClasses": [
         "Siege",
         "Gunpowder"
+      ],
+      "displayClassesCN": [
+        "攻城、火药"
       ],
       "unique": false,
       "costs": {

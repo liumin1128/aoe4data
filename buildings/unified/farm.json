@@ -66,6 +66,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -99,7 +102,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -126,6 +130,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -159,7 +166,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -185,6 +193,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -219,7 +230,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -245,6 +257,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -279,7 +294,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -305,6 +321,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -341,6 +360,9 @@
       },
       "influences": [
         "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill."
+      ],
+      "influencesCN": [
+        "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。"
       ]
     },
     {
@@ -368,6 +390,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -401,7 +426,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -428,6 +454,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -461,7 +490,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -488,6 +518,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -521,7 +554,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -548,6 +582,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -581,7 +618,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -607,6 +645,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -642,7 +683,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -669,6 +711,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -702,7 +747,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -729,6 +775,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -762,7 +811,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -789,6 +839,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -822,7 +875,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -848,6 +902,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -882,7 +939,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -909,6 +967,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -942,7 +1003,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -969,6 +1031,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1002,7 +1067,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -1029,6 +1095,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1062,7 +1131,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -1089,6 +1159,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1122,7 +1195,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -1149,6 +1223,9 @@
         "Food Source",
         "Building"
       ],
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1182,7 +1259,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

@@ -47,6 +47,9 @@
       "displayClasses": [
         "Influence Technology"
       ],
+      "displayClassesCN": [
+        "影响力科技"
+      ],
       "unique": true,
       "costs": {
         "food": 150,
@@ -105,6 +108,9 @@
       ],
       "displayClasses": [
         "Influence Technology"
+      ],
+      "displayClassesCN": [
+        "影响力科技"
       ],
       "unique": true,
       "costs": {

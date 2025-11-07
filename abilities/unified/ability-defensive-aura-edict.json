@@ -29,6 +29,9 @@
       "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "驿站"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -63,6 +66,9 @@
       "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

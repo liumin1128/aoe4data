@@ -46,6 +46,9 @@
       "displayClasses": [
         "Yeomen and Spearmen Technology"
       ],
+      "displayClassesCN": [
+        "义勇兵和长矛兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 200,

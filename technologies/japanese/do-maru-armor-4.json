@@ -23,6 +23,9 @@
   "displayClasses": [
     "Mounted Samurai Technology"
   ],
+  "displayClassesCN": [
+    "骑马武士科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

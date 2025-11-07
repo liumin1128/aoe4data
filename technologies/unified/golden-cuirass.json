@@ -38,6 +38,9 @@
       "displayClasses": [
         "Man-at-Arms Technology"
       ],
+      "displayClassesCN": [
+        "武士科技"
+      ],
       "unique": true,
       "costs": {
         "food": 150,

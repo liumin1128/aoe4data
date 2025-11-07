@@ -23,6 +23,9 @@
   "displayClasses": [
     "Unlock Bonuses"
   ],
+  "displayClassesCN": [
+    "解锁加成"
+  ],
   "unique": false,
   "costs": {
     "food": 2400,

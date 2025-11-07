@@ -22,6 +22,9 @@
   "displayClasses": [
     "Manor Technology 2/2"
   ],
+  "displayClassesCN": [
+    "庄园科技 2/2"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

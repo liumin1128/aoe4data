@@ -44,6 +44,9 @@
       "displayClasses": [
         "Defensive Upgrade"
       ],
+      "displayClassesCN": [
+        "防御升级"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

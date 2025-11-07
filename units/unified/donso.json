@@ -64,6 +64,9 @@
       "displayClasses": [
         "Light Melee Infantry"
       ],
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 60,
@@ -245,6 +248,9 @@
       ],
       "displayClasses": [
         "Light Melee Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型近战步兵"
       ],
       "unique": true,
       "costs": {
@@ -428,6 +434,9 @@
       "displayClasses": [
         "Light Melee Infantry"
       ],
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 60,
@@ -609,6 +618,9 @@
       ],
       "displayClasses": [
         "Light Melee Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型近战步兵"
       ],
       "unique": true,
       "costs": {

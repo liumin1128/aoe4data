@@ -51,6 +51,9 @@
         "Worker",
         "Trader"
       ],
+      "displayClassesCN": [
+        "工人、商人"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -108,6 +111,9 @@
       "displayClasses": [
         "Worker",
         "Trader"
+      ],
+      "displayClassesCN": [
+        "工人、商人"
       ],
       "unique": true,
       "costs": {

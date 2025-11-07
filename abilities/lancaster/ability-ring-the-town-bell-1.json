@@ -14,6 +14,9 @@
   "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

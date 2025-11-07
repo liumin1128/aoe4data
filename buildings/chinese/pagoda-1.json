@@ -21,6 +21,9 @@
   "displayClasses": [
     "Religious Building"
   ],
+  "displayClassesCN": [
+    "宗教建筑"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -54,5 +57,6 @@
     "line": 25,
     "height": 8
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

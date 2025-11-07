@@ -21,6 +21,9 @@
   "displayClasses": [
     "Population Building"
   ],
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -102,5 +105,6 @@
       "monk"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

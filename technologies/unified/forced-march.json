@@ -46,6 +46,9 @@
       "displayClasses": [
         "Infantry Ability Unlock"
       ],
+      "displayClassesCN": [
+        "步兵能力解锁"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

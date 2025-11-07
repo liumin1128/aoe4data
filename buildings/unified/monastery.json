@@ -62,6 +62,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -97,6 +100,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -124,6 +130,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -160,6 +169,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ]
     },
     {
@@ -188,6 +200,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -221,7 +236,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -249,6 +265,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -282,7 +301,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -310,6 +330,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -352,6 +375,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -379,6 +405,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -413,7 +442,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -440,6 +470,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -475,7 +508,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -503,6 +537,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -536,7 +573,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -564,6 +602,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -597,7 +638,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -624,6 +666,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -660,6 +705,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -688,6 +736,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -721,7 +772,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -749,6 +801,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -782,7 +837,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

@@ -14,6 +14,9 @@
   "descriptionCN": "将一个依代放置在以下建筑中，获得加成并增加视野。\n军事和码头：+125% 工作效率\n城镇中心：+30% 生产速度\n农舍：每分钟 +70 食物\n伐木场：每分钟 +70 木材\n锻造厂：每分钟 +50 黄金\n世界奇观：+4000 生命值",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

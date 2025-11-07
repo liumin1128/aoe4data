@@ -38,6 +38,9 @@
       "displayClasses": [
         "Population Technology"
       ],
+      "displayClassesCN": [
+        "人口科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

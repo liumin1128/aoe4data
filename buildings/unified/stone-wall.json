@@ -69,6 +69,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -102,7 +105,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -129,6 +133,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -162,7 +169,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -189,6 +197,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -222,7 +233,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -249,6 +261,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -282,7 +297,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -308,6 +324,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -347,7 +366,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -374,6 +394,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -407,7 +430,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -434,6 +458,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -467,7 +494,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -494,6 +522,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -527,7 +558,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -554,6 +586,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -587,7 +622,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -614,6 +650,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -647,7 +686,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -673,6 +713,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -708,7 +751,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -736,6 +780,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -811,6 +858,9 @@
       },
       "influences": [
         "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+      ],
+      "influencesCN": [
+        "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
       ]
     },
     {
@@ -838,6 +888,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -871,7 +924,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -898,6 +952,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -931,7 +988,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -957,6 +1015,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -991,7 +1052,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -1017,6 +1079,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1051,7 +1116,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-4",
@@ -1077,6 +1143,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1111,7 +1180,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -1138,6 +1208,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1171,7 +1244,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -1198,6 +1272,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1231,7 +1308,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -1258,6 +1336,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1291,7 +1372,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

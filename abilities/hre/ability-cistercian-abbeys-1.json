@@ -14,6 +14,9 @@
   "descriptionCN": "村民可以将资源存放在修道院。\n在该修道院中驻扎高级教士可以鼓舞附近的所有村民，提升他们的采集速度。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

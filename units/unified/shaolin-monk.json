@@ -68,6 +68,9 @@
       "displayClasses": [
         "Battle Monk"
       ],
+      "displayClassesCN": [
+        "战斗僧侣"
+      ],
       "unique": true,
       "costs": {
         "food": 200,

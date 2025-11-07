@@ -71,6 +71,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -106,6 +109,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -137,6 +143,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -172,6 +181,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -201,6 +213,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -237,6 +252,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -266,6 +284,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -302,6 +323,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ]
     },
     {
@@ -331,6 +355,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -367,6 +394,9 @@
       },
       "influences": [
         "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+      ],
+      "influencesCN": [
+        "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
       ]
     },
     {
@@ -396,6 +426,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -432,6 +465,9 @@
       },
       "influences": [
         "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill."
+      ],
+      "influencesCN": [
+        "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。"
       ]
     },
     {
@@ -461,6 +497,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -495,7 +534,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -524,6 +564,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -560,6 +603,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -589,6 +635,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -623,7 +672,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -652,6 +702,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -687,7 +740,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -717,6 +771,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -750,7 +807,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -780,6 +838,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -813,7 +874,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -843,6 +905,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -876,7 +941,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -905,6 +971,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -941,6 +1010,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -971,6 +1043,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1004,7 +1079,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -1034,6 +1110,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1067,7 +1146,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

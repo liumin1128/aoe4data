@@ -22,6 +22,9 @@
   "displayClasses": [
     "Trebuchet Technology"
   ],
+  "displayClassesCN": [
+    "巨型投石机科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

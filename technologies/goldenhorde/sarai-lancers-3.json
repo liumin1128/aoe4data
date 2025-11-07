@@ -21,6 +21,9 @@
   "displayClasses": [
     "Stone Technology"
   ],
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

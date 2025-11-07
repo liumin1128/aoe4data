@@ -25,6 +25,9 @@
   "displayClasses": [
     "Economy Building"
   ],
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -60,5 +63,8 @@
   },
   "influences": [
     "While in the influence of a Varangian Arsenal, an additional 12% of Silver is generated every minute based off the total Silver deposited at this mine."
+  ],
+  "influencesCN": [
+    "在瓦兰吉兵工厂的影响范围内时，每分钟会根据该矿场的白银矿总量额外产生 12% 的白银。"
   ]
 }

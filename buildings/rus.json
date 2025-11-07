@@ -43,6 +43,9 @@
       "displayClasses": [
         "Age III - Religious Landmark"
       ],
+      "displayClassesCN": [
+        "第三时代：宗教地标"
+      ],
       "unique": true,
       "costs": {
         "food": 1200,
@@ -76,7 +79,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "archery-range-2",
@@ -103,6 +107,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -137,7 +144,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "barracks-1",
@@ -164,6 +172,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -198,7 +209,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "blacksmith-2",
@@ -223,6 +235,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -257,7 +272,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -293,6 +309,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -340,6 +359,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     },
     {
@@ -366,6 +388,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -400,7 +425,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "dock-1",
@@ -430,6 +456,9 @@
       "displayClasses": [
         "Military & Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -470,7 +499,8 @@
           "fishing ship"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -496,6 +526,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -530,7 +563,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "fortified-palisade-gate-1",
@@ -556,6 +590,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": true,
       "costs": {
@@ -590,7 +627,8 @@
         "line": 20,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "fortified-palisade-wall-1",
@@ -616,6 +654,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": true,
       "costs": {
@@ -650,7 +691,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "high-armory-3",
@@ -680,6 +722,9 @@
       ],
       "displayClasses": [
         "Age IV - Technology Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：科技地标"
       ],
       "unique": true,
       "costs": {
@@ -714,7 +759,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "high-trade-house-2",
@@ -745,6 +791,9 @@
       ],
       "displayClasses": [
         "Age III - Economic Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：经济地标"
       ],
       "unique": true,
       "costs": {
@@ -779,7 +828,8 @@
         "line": 37,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -803,6 +853,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -837,7 +890,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "hunting-cabin-1",
@@ -867,6 +921,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": true,
       "costs": {
@@ -901,7 +958,8 @@
         "line": 25,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "keep-3",
@@ -929,6 +987,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1020,7 +1081,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "kremlin-1",
@@ -1054,6 +1116,9 @@
       ],
       "displayClasses": [
         "Age II - Defensive Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：防御地标"
       ],
       "unique": true,
       "costs": {
@@ -1139,6 +1204,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     },
     {
@@ -1165,6 +1233,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1201,6 +1272,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     },
     {
@@ -1229,6 +1303,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -1263,7 +1340,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mining-camp-1",
@@ -1291,6 +1369,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1325,7 +1406,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -1352,6 +1434,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -1386,7 +1471,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "siege-workshop-3",
@@ -1413,6 +1499,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1447,7 +1536,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "spasskaya-tower-3",
@@ -1481,6 +1571,9 @@
       ],
       "displayClasses": [
         "Age IV - Defensive Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：防御地标"
       ],
       "unique": true,
       "costs": {
@@ -1568,7 +1661,8 @@
           "cavalry"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stable-2",
@@ -1595,6 +1689,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1629,7 +1726,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-4",
@@ -1655,6 +1753,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1689,7 +1790,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-gate-4",
@@ -1715,6 +1817,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1749,7 +1854,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-tower-4",
@@ -1776,6 +1882,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1849,7 +1958,8 @@
         "line": 60,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "the-golden-gate-1",
@@ -1878,6 +1988,9 @@
       ],
       "displayClasses": [
         "Age II - Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：地标"
       ],
       "unique": true,
       "costs": {
@@ -1912,7 +2025,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "town-center-1",
@@ -1946,6 +2060,9 @@
       ],
       "displayClasses": [
         "Economy & Population Building"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1993,6 +2110,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     },
     {
@@ -2018,6 +2138,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -2052,7 +2175,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "wooden-fortress-1",
@@ -2082,6 +2206,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": true,
       "costs": {
@@ -2129,6 +2256,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     }
   ]

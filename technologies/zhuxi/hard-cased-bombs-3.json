@@ -21,6 +21,9 @@
   "displayClasses": [
     "Grenadier Technology"
   ],
+  "displayClassesCN": [
+    "掷弹兵科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

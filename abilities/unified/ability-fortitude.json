@@ -29,6 +29,9 @@
       "descriptionCN": "获得 +50% 攻击速度，并从近战武器中受得 +50% 伤害，持续 10 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

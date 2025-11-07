@@ -95,6 +95,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -141,6 +144,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -180,6 +186,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -226,6 +235,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -262,6 +274,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -309,6 +324,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -346,6 +364,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -390,7 +411,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -427,6 +449,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -471,7 +496,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -508,6 +534,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -552,7 +581,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -589,6 +619,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -633,7 +666,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -670,6 +704,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -714,7 +751,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -750,6 +788,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -797,6 +838,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -834,6 +878,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -878,7 +925,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -914,6 +962,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -958,7 +1009,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -994,6 +1046,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -1040,7 +1095,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -1077,6 +1133,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": true,
       "costs": {
@@ -1773,7 +1832,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -1810,6 +1870,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1854,7 +1917,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -1891,6 +1955,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1935,7 +2002,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -1972,6 +2040,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -2019,6 +2090,9 @@
       },
       "influences": [
         "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+      ],
+      "influencesCN": [
+        "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
       ]
     },
     {
@@ -2055,6 +2129,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -2102,6 +2179,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -2138,6 +2218,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -2184,7 +2267,8 @@
           "trader"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -2220,6 +2304,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -2267,6 +2354,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     },
     {
@@ -2303,6 +2393,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -2347,7 +2440,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -2384,6 +2478,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -2428,7 +2525,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -2465,6 +2563,9 @@
         "Economy & Population Building",
         "Landmark"
       ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -2509,7 +2610,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

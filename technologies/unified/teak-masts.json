@@ -51,6 +51,9 @@
       "displayClasses": [
         "Naval Technology"
       ],
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -108,6 +111,9 @@
       ],
       "displayClasses": [
         "Naval Technology"
+      ],
+      "displayClassesCN": [
+        "海军科技"
       ],
       "unique": true,
       "costs": {

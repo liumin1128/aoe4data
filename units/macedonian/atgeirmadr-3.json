@@ -34,6 +34,9 @@
   "displayClasses": [
     "Light Melee Varangian Infantry"
   ],
+  "displayClassesCN": [
+    "轻型近战瓦兰吉步兵"
+  ],
   "unique": true,
   "costs": {
     "food": 70,

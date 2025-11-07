@@ -39,6 +39,9 @@
     "Heavy Siege Cavalry",
     "Hero"
   ],
+  "displayClassesCN": [
+    "重型攻城骑兵"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

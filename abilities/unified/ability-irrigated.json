@@ -29,6 +29,9 @@
       "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {},
       "producedBy": [],
       "icon": "https://data.aoe4world.com/images/abilities/ability-irrigated-1.png",

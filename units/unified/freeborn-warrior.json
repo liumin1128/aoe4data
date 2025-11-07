@@ -62,6 +62,9 @@
       "displayClasses": [
         "Melee Infantry"
       ],
+      "displayClassesCN": [
+        "近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 80,
@@ -192,6 +195,9 @@
       ],
       "displayClasses": [
         "Melee Infantry"
+      ],
+      "displayClassesCN": [
+        "近战步兵"
       ],
       "unique": true,
       "costs": {

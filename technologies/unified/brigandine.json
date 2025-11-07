@@ -46,6 +46,9 @@
       "displayClasses": [
         "Armor Technology"
       ],
+      "displayClassesCN": [
+        "护甲科技"
+      ],
       "unique": true,
       "costs": {
         "food": 300,

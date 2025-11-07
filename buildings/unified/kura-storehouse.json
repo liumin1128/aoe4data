@@ -72,6 +72,9 @@
       "displayClasses": [
         "Age II - Economic Landmark"
       ],
+      "displayClassesCN": [
+        "第二时代：经济地标"
+      ],
       "unique": true,
       "costs": {
         "food": 400,
@@ -116,7 +119,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

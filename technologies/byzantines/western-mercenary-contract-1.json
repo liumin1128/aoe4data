@@ -18,6 +18,9 @@
   "displayClasses": [
     "Mercenary Contract"
   ],
+  "displayClassesCN": [
+    "雇佣兵合同"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

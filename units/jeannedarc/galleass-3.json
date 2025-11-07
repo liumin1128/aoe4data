@@ -26,6 +26,9 @@
   "displayClasses": [
     "Gunpowder Ship"
   ],
+  "displayClassesCN": [
+    "火药船"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

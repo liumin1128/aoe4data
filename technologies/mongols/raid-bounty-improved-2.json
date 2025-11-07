@@ -22,6 +22,9 @@
   "displayClasses": [
     "Raiding Technology"
   ],
+  "displayClassesCN": [
+    "突袭科技"
+  ],
   "unique": true,
   "costs": {
     "food": 75,

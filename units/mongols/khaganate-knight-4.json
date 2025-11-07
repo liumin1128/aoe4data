@@ -35,6 +35,9 @@
     "Heavy Melee Cavalry",
     "Khaganate Unit"
   ],
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

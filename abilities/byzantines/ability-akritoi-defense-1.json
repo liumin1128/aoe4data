@@ -14,6 +14,9 @@
   "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

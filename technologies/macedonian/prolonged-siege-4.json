@@ -21,6 +21,9 @@
   "displayClasses": [
     "Siege Technology"
   ],
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

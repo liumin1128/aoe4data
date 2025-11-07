@@ -14,6 +14,9 @@
   "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "驿站"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

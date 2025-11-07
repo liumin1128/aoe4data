@@ -29,6 +29,9 @@
     "Siege",
     "Gunpowder"
   ],
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

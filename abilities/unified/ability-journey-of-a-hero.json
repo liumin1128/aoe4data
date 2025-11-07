@@ -29,6 +29,9 @@
       "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

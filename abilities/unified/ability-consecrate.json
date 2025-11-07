@@ -29,6 +29,9 @@
       "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "经济能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

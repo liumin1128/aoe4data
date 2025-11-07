@@ -37,6 +37,9 @@
       "displayClasses": [
         "Military Building"
       ],
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -70,7 +73,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -106,6 +110,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -151,7 +158,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "cathedral-of-divine-wisdom-4",
@@ -177,6 +185,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -211,7 +222,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "cistern-of-the-first-hill-2",
@@ -241,6 +253,9 @@
       ],
       "displayClasses": [
         "Age III - Support & Economy Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：支持与经济地标"
       ],
       "unique": true,
       "costs": {
@@ -275,7 +290,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "dock-1",
@@ -305,6 +321,9 @@
       "displayClasses": [
         "Military & Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -345,7 +364,8 @@
           "fishing ship"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -371,6 +391,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -405,7 +428,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "foreign-engineering-company-3",
@@ -434,6 +458,9 @@
       ],
       "displayClasses": [
         "Age IV - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -468,7 +495,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "golden-horn-tower-3",
@@ -502,6 +530,9 @@
       ],
       "displayClasses": [
         "Age III - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -1194,7 +1225,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "grand-winery-1",
@@ -1230,6 +1262,9 @@
       "displayClasses": [
         "Age II - Economic & Religious Landmark"
       ],
+      "displayClassesCN": [
+        "第二时代 - 经济与宗教地标"
+      ],
       "unique": true,
       "costs": {
         "food": 400,
@@ -1263,7 +1298,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -1287,6 +1323,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1321,7 +1360,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "imperial-hippodrome-1",
@@ -1353,6 +1393,9 @@
       ],
       "displayClasses": [
         "Age II - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -1387,7 +1430,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "keep-3",
@@ -1416,6 +1460,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1507,7 +1554,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "lumber-camp-1",
@@ -1533,6 +1581,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1567,7 +1618,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -1595,6 +1647,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -1629,7 +1684,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -1658,6 +1714,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1692,7 +1751,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mining-camp-1",
@@ -1720,6 +1780,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1756,6 +1819,9 @@
       },
       "influences": [
         "While in the influence of a Varangian Arsenal, an additional 12% of Silver is generated every minute based off the total Silver deposited at this mine."
+      ],
+      "influencesCN": [
+        "在瓦兰吉兵工厂的影响范围内时，每分钟会根据该矿场的白银矿总量额外产生 12% 的白银。"
       ]
     },
     {
@@ -1783,6 +1849,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -1817,7 +1886,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1847,6 +1917,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1892,7 +1965,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palatine-school-3",
@@ -1921,6 +1995,9 @@
       ],
       "displayClasses": [
         "Age IV - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -1955,7 +2032,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palisade-1",
@@ -1981,6 +2059,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2015,7 +2096,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palisade-gate-1",
@@ -2041,6 +2123,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2075,7 +2160,8 @@
         "line": 20,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "runestones-1",
@@ -2097,6 +2183,9 @@
       ],
       "displayClasses": [
         "Varangian Enhancement"
+      ],
+      "displayClassesCN": [
+        "瓦兰吉强化"
       ],
       "unique": false,
       "costs": {
@@ -2127,7 +2216,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "siege-workshop-3",
@@ -2154,6 +2244,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -2188,7 +2281,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stable-2",
@@ -2215,6 +2309,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -2249,7 +2346,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -2275,6 +2373,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2309,7 +2410,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-gate-2",
@@ -2335,6 +2437,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2369,7 +2474,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-tower-2",
@@ -2399,6 +2505,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2435,7 +2544,8 @@
         "line": 60,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "town-center-1",
@@ -2467,6 +2577,9 @@
       ],
       "displayClasses": [
         "Economy & Population Building"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -2512,7 +2625,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "varangian-arsenal-2",
@@ -2537,6 +2651,9 @@
       ],
       "displayClasses": [
         "Varangian Technology Building"
+      ],
+      "displayClassesCN": [
+        "瓦兰吉科技建筑"
       ],
       "unique": true,
       "costs": {
@@ -2573,6 +2690,9 @@
       },
       "influences": [
         "Mining Camps and Town Centers within the influence of a Varangian Arsenal begin generating an additional 12% of Silver every minute based off the total Silver deposited at the influenced mine."
+      ],
+      "influencesCN": [
+        "对于在瓦兰吉兵工厂影响范围内的采矿场和城镇中心，每分钟开始根据受影响矿场的白银总储量额外产生 12% 的白银。"
       ]
     },
     {
@@ -2600,6 +2720,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": true,
       "costs": {
@@ -2673,7 +2796,8 @@
         "line": 30,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "varangian-warcamp-1",
@@ -2700,6 +2824,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": true,
       "costs": {
@@ -2734,7 +2861,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

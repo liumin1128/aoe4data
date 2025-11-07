@@ -31,6 +31,9 @@
   "displayClasses": [
     "Age II - Religious Landmark"
   ],
+  "displayClassesCN": [
+    "第二时代：宗教地标"
+  ],
   "unique": true,
   "costs": {
     "food": 400,
@@ -70,5 +73,6 @@
       "monk"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

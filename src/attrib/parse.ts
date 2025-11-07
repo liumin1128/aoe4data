@@ -76,6 +76,10 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       .split(",")
       .map((x) => x.trim());
 
+    const displayClassesCN = getTranslation(ui_ext.extra_text, [], "zh-hans")
+      .split(",")
+      .map((x) => x.trim());
+
     const classes = convertClasses(type_ext?.unit_type_list ?? squad_type_ext?.squad_type_list ?? data.upgrade_bag?.upgrade_type ?? []);
 
     const unique = parseUnique(ui_ext);
@@ -110,6 +114,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       descriptionCN,
       classes,
       displayClasses,
+      displayClassesCN,
       unique,
       costs,
       producedBy: [],
@@ -157,6 +162,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
 
     if (type === ITEM_TYPES.BUILDINGS) {
       let influences = parseInfluences(ui_ext);
+      let influencesCN = parseInfluences(ui_ext, "zh-hans");
 
       const building: Building = {
         ...item,
@@ -168,6 +174,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
         sight: parseSight(ebpExts?.sight_ext),
         garrison: parseGarrison(ebpExts?.hold_ext),
         influences,
+        influencesCN,
       } as any;
 
       return building;
@@ -413,12 +420,13 @@ function parseUnique(ui_ext: any) {
   return ui_ext.is_unique_to_race || ui_ext.is_unique || ["UniqueBuildingUpgradeDataTemplate", "BuildingImprovedUpgradeDataTemplate"].includes(ui_ext.tooltip_data_template);
 }
 
-function parseInfluences(ui_ext: any) {
+function parseInfluences(ui_ext: any, locale = "en") {
   if (ui_ext.ui_extra_infos)
     return ui_ext.ui_extra_infos?.reduce((inf, x) => {
       const str = getTranslation(
         x.description || x.description_formatter.formatter,
-        x.description_formatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x)
+        x.description_formatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x),
+        locale
       );
       if (["influence_buff", "influence_decorator"].includes(x.icon)) inf.push(str);
       return inf;

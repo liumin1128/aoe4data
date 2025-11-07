@@ -89,6 +89,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -155,6 +158,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -223,6 +229,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -290,6 +299,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -345,6 +357,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -414,6 +429,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -480,6 +498,9 @@
       ],
       "displayClasses": [
         "Lancer Technology"
+      ],
+      "displayClassesCN": [
+        "长矛骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -548,6 +569,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -614,6 +638,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -682,6 +709,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -748,6 +778,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -816,6 +849,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -871,6 +907,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -939,6 +978,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -1005,6 +1047,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -1074,6 +1119,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -1141,6 +1189,9 @@
       "displayClasses": [
         "Cavalry Technology"
       ],
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "unique": false,
       "costs": {
         "food": 500,
@@ -1196,6 +1247,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {
@@ -1264,6 +1318,9 @@
       ],
       "displayClasses": [
         "Cavalry Technology"
+      ],
+      "displayClassesCN": [
+        "骑兵科技"
       ],
       "unique": false,
       "costs": {

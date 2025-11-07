@@ -70,6 +70,9 @@
         "Religious Cavalry",
         "Khaganate Unit"
       ],
+      "displayClassesCN": [
+        "宗教骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,

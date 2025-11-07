@@ -29,6 +29,9 @@
       "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -44,6 +44,9 @@
       "displayClasses": [
         "Imperial Council"
       ],
+      "displayClassesCN": [
+        "帝国议会"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

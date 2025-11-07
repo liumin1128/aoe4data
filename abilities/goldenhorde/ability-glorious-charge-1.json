@@ -14,6 +14,9 @@
   "descriptionCN": "启用“荣光冲锋”能力将产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有军事单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

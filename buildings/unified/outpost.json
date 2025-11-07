@@ -74,6 +74,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -120,6 +123,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -150,6 +156,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -196,6 +205,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -226,6 +238,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -273,6 +288,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -302,6 +320,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -346,7 +367,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -375,6 +397,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -419,7 +444,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -448,6 +474,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -492,7 +521,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -521,6 +551,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -565,7 +598,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -595,6 +629,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -642,6 +679,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -671,6 +711,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -715,7 +758,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -744,6 +788,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -788,7 +835,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -816,6 +864,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -862,7 +913,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -890,6 +942,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -935,7 +990,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -966,6 +1022,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1010,7 +1069,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1039,6 +1099,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1083,7 +1146,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1113,6 +1177,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1160,6 +1227,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -1188,6 +1258,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1234,7 +1307,8 @@
           "trader"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1263,6 +1337,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1307,7 +1384,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1336,6 +1414,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1380,7 +1461,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1409,6 +1491,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1453,7 +1538,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

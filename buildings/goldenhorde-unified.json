@@ -63,6 +63,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -96,7 +99,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -152,6 +156,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -185,7 +192,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -237,6 +245,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -270,7 +281,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -342,6 +354,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -386,7 +401,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -448,6 +464,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -487,7 +506,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -542,6 +562,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -915,7 +938,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -975,6 +999,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1008,7 +1035,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1070,6 +1098,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1107,7 +1138,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1163,6 +1195,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1196,7 +1231,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1248,6 +1284,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 6650,
@@ -1281,7 +1320,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1331,6 +1371,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1364,7 +1407,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1416,6 +1460,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1449,7 +1496,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1501,6 +1549,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1534,7 +1585,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1588,6 +1640,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1621,7 +1676,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1675,6 +1731,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1708,7 +1767,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1764,6 +1824,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1797,7 +1860,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1853,6 +1917,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1886,7 +1953,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1940,6 +2008,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1973,7 +2044,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2035,6 +2107,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2079,7 +2154,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     }

@@ -74,6 +74,9 @@
       "displayClasses": [
         "Heavy Melee Varangian Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战瓦兰吉骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 130,
@@ -248,6 +251,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Varangian Cavalry"
+      ],
+      "displayClassesCN": [
+        "重装近战瓦兰吉骑兵"
       ],
       "unique": true,
       "costs": {

@@ -32,6 +32,9 @@
   "displayClasses": [
     "Light Ranged and Melee Camel"
   ],
+  "displayClassesCN": [
+    "轻型远程与近战骆驼"
+  ],
   "unique": true,
   "costs": {
     "food": 80,

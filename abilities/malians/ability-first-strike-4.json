@@ -14,6 +14,9 @@
   "descriptionCN": "可提升下一次攻击造成的伤害。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

@@ -29,6 +29,9 @@
       "descriptionCN": "选择一个中立贸易站，从该位置定期生成宝藏商队。当获得命令到达水上贸易站时，商队可以转变成贸易船。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

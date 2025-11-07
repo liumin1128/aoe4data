@@ -46,6 +46,9 @@
       "displayClasses": [
         "Economic Technology"
       ],
+      "displayClassesCN": [
+        "经济科技"
+      ],
       "unique": true,
       "costs": {
         "food": 200,

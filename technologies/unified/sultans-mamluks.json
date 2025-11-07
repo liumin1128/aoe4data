@@ -44,6 +44,9 @@
       "displayClasses": [
         "Infantry Technology"
       ],
+      "displayClassesCN": [
+        "步兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

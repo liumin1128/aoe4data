@@ -70,6 +70,9 @@
       "displayClasses": [
         "Light Ranged Varangian Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程瓦兰吉步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 40,
@@ -194,6 +197,9 @@
       "displayClasses": [
         "Light Ranged Varangian Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程瓦兰吉步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 40,
@@ -317,6 +323,9 @@
       ],
       "displayClasses": [
         "Light Ranged Varangian Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型远程瓦兰吉步兵"
       ],
       "unique": true,
       "costs": {

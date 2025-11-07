@@ -75,6 +75,9 @@
           "displayClasses": [
             "Light Ranged Infantry"
           ],
+          "displayClassesCN": [
+            "轻型远程步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 30,
@@ -194,6 +197,9 @@
           "displayClasses": [
             "Light Ranged Infantry"
           ],
+          "displayClassesCN": [
+            "轻型远程步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 30,
@@ -312,6 +318,9 @@
           ],
           "displayClasses": [
             "Light Ranged Infantry"
+          ],
+          "displayClassesCN": [
+            "轻型远程步兵"
           ],
           "unique": false,
           "costs": {
@@ -454,6 +463,9 @@
           "displayClasses": [
             "Worker"
           ],
+          "displayClassesCN": [
+            "工人"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -548,6 +560,9 @@
           ],
           "displayClasses": [
             "Springald Ship"
+          ],
+          "displayClassesCN": [
+            "扭力弩炮船"
           ],
           "unique": false,
           "costs": {
@@ -693,6 +708,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -842,6 +860,9 @@
           ],
           "displayClasses": [
             "Light Ranged Infantry"
+          ],
+          "displayClassesCN": [
+            "轻型远程步兵"
           ],
           "unique": true,
           "costs": {
@@ -1010,6 +1031,9 @@
           "displayClasses": [
             "Light Melee Infantry"
           ],
+          "displayClassesCN": [
+            "轻型近战步兵"
+          ],
           "unique": true,
           "costs": {
             "food": 60,
@@ -1175,6 +1199,9 @@
           "displayClasses": [
             "Heavy Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "重装近战骑兵"
+          ],
           "unique": true,
           "costs": {
             "food": 130,
@@ -1320,6 +1347,9 @@
           ],
           "displayClasses": [
             "Heavy Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "重装近战骑兵"
           ],
           "unique": true,
           "costs": {
@@ -1488,6 +1518,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1644,6 +1677,9 @@
           "displayClasses": [
             "Light Ranged Infantry"
           ],
+          "displayClassesCN": [
+            "轻型远程步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 80,
@@ -1746,6 +1782,9 @@
           ],
           "displayClasses": [
             "Light Ranged Infantry"
+          ],
+          "displayClassesCN": [
+            "轻型远程步兵"
           ],
           "unique": false,
           "costs": {
@@ -1874,6 +1913,9 @@
           "displayClasses": [
             "Siege",
             "Gunpowder"
+          ],
+          "displayClassesCN": [
+            "攻城、火药"
           ],
           "unique": false,
           "costs": {
@@ -2048,6 +2090,9 @@
           "displayClasses": [
             "Religious"
           ],
+          "displayClassesCN": [
+            "宗教"
+          ],
           "unique": true,
           "costs": {
             "food": 60,
@@ -2147,6 +2192,9 @@
           ],
           "displayClasses": [
             "Light Ranged and Melee Camel"
+          ],
+          "displayClassesCN": [
+            "轻型远程与近战骆驼"
           ],
           "unique": true,
           "costs": {
@@ -2304,6 +2352,9 @@
           "displayClasses": [
             "Light Ranged and Melee Camel"
           ],
+          "displayClassesCN": [
+            "轻型远程与近战骆驼"
+          ],
           "unique": true,
           "costs": {
             "food": 80,
@@ -2459,6 +2510,9 @@
           ],
           "displayClasses": [
             "Light Ranged and Melee Camel"
+          ],
+          "displayClassesCN": [
+            "轻型远程与近战骆驼"
           ],
           "unique": true,
           "costs": {
@@ -2640,6 +2694,9 @@
           "displayClasses": [
             "Archer Ship"
           ],
+          "displayClassesCN": [
+            "步弓手船"
+          ],
           "unique": false,
           "costs": {
             "food": 80,
@@ -2778,6 +2835,9 @@
           ],
           "displayClasses": [
             "Incendiary Ship"
+          ],
+          "displayClassesCN": [
+            "燃烧船"
           ],
           "unique": false,
           "costs": {
@@ -2918,6 +2978,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3015,6 +3078,9 @@
           ],
           "displayClasses": [
             "Heavy Melee Infantry"
+          ],
+          "displayClassesCN": [
+            "重装近战步兵"
           ],
           "unique": true,
           "costs": {
@@ -3136,6 +3202,9 @@
           ],
           "displayClasses": [
             "Heavy Melee Infantry"
+          ],
+          "displayClassesCN": [
+            "重装近战步兵"
           ],
           "unique": true,
           "costs": {
@@ -3287,6 +3356,9 @@
           "displayClasses": [
             "Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 120,
@@ -3406,6 +3478,9 @@
           ],
           "displayClasses": [
             "Light Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
           ],
           "unique": false,
           "costs": {
@@ -3550,6 +3625,9 @@
           "displayClasses": [
             "Light Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -3692,6 +3770,9 @@
           ],
           "displayClasses": [
             "Light Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
           ],
           "unique": false,
           "costs": {
@@ -3859,6 +3940,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": true,
           "costs": {
@@ -4153,6 +4237,9 @@
           "displayClasses": [
             "Light Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
+          ],
           "unique": false,
           "costs": {
             "food": 65,
@@ -4304,6 +4391,9 @@
           "displayClasses": [
             "Light Melee Infantry"
           ],
+          "displayClassesCN": [
+            "轻型近战步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 60,
@@ -4443,6 +4533,9 @@
           ],
           "displayClasses": [
             "Light Melee Infantry"
+          ],
+          "displayClassesCN": [
+            "轻型近战步兵"
           ],
           "unique": false,
           "costs": {
@@ -4584,6 +4677,9 @@
           "displayClasses": [
             "Light Melee Infantry"
           ],
+          "displayClassesCN": [
+            "轻型近战步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 60,
@@ -4723,6 +4819,9 @@
           ],
           "displayClasses": [
             "Light Melee Infantry"
+          ],
+          "displayClassesCN": [
+            "轻型近战步兵"
           ],
           "unique": false,
           "costs": {
@@ -4885,6 +4984,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5035,6 +5137,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -5182,6 +5287,9 @@
             "Worker",
             "Trader"
           ],
+          "displayClassesCN": [
+            "工人、商人"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -5272,6 +5380,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5357,6 +5468,9 @@
           ],
           "displayClasses": [
             "Ship"
+          ],
+          "displayClassesCN": [
+            "船只"
           ],
           "unique": false,
           "costs": {
@@ -5453,6 +5567,9 @@
           ],
           "displayClasses": [
             "Worker"
+          ],
+          "displayClassesCN": [
+            "工人"
           ],
           "unique": false,
           "costs": {
@@ -5595,6 +5712,9 @@
           ],
           "displayClasses": [
             "Warship"
+          ],
+          "displayClassesCN": [
+            "战船"
           ],
           "unique": false,
           "costs": {

@@ -39,6 +39,9 @@
       "displayClasses": [
         "Hero Level Up Choice"
       ],
+      "displayClassesCN": [
+        "装备强大的手铳"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

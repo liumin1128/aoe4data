@@ -46,6 +46,9 @@
       "displayClasses": [
         "Lancer Technology"
       ],
+      "displayClassesCN": [
+        "长矛骑兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 300,

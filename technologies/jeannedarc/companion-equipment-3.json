@@ -21,6 +21,9 @@
   "displayClasses": [
     "Companion Upgrade"
   ],
+  "displayClassesCN": [
+    "同伴升级"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

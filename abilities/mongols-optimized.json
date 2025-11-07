@@ -40,6 +40,9 @@
           "descriptionCN": "射出一支信号箭，使附近远程单位 (包括汗) 的攻击速度提升 +50%，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -108,6 +111,9 @@
           "descriptionCN": "每次攻击后恢复生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -168,6 +174,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -238,6 +247,9 @@
           "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的护甲 +2，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -342,6 +354,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -405,6 +420,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -455,6 +473,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -520,6 +541,9 @@
           "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -599,6 +623,9 @@
           "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -649,6 +676,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -713,6 +743,9 @@
           "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -763,6 +796,9 @@
           "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "驿站"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -838,6 +874,9 @@
           "descriptionCN": "速度提升 25%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

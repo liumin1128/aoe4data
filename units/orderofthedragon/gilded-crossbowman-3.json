@@ -30,6 +30,9 @@
   "displayClasses": [
     "Light Ranged Infantry"
   ],
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "unique": true,
   "costs": {
     "food": 160,

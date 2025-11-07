@@ -46,6 +46,9 @@
       "displayClasses": [
         "Knight Technology"
       ],
+      "displayClassesCN": [
+        "骑士科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

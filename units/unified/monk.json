@@ -64,6 +64,9 @@
       "displayClasses": [
         "Religious"
       ],
+      "displayClassesCN": [
+        "宗教"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -126,6 +129,9 @@
       "displayClasses": [
         "Religious"
       ],
+      "displayClassesCN": [
+        "宗教"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -186,6 +192,9 @@
       ],
       "displayClasses": [
         "Religious"
+      ],
+      "displayClassesCN": [
+        "宗教"
       ],
       "unique": false,
       "costs": {
@@ -248,6 +257,9 @@
       "displayClasses": [
         "Religious"
       ],
+      "displayClassesCN": [
+        "宗教"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -308,6 +320,9 @@
       ],
       "displayClasses": [
         "Religious"
+      ],
+      "displayClassesCN": [
+        "宗教"
       ],
       "unique": false,
       "costs": {
@@ -370,6 +385,9 @@
       "displayClasses": [
         "Religious"
       ],
+      "displayClassesCN": [
+        "宗教"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -430,6 +448,9 @@
       ],
       "displayClasses": [
         "Religious"
+      ],
+      "displayClassesCN": [
+        "宗教"
       ],
       "unique": false,
       "costs": {
@@ -492,6 +513,9 @@
       "displayClasses": [
         "Religious"
       ],
+      "displayClassesCN": [
+        "宗教"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -553,6 +577,9 @@
       ],
       "displayClasses": [
         "Religious"
+      ],
+      "displayClassesCN": [
+        "宗教"
       ],
       "unique": false,
       "costs": {

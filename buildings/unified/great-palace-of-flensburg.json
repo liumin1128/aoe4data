@@ -49,6 +49,9 @@
       "displayClasses": [
         "Wonder"
       ],
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "unique": true,
       "costs": {
         "food": 5000,
@@ -84,6 +87,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -110,6 +116,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -146,6 +155,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     }
   ]

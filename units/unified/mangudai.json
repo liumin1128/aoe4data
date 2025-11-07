@@ -63,6 +63,9 @@
       "displayClasses": [
         "Light Ranged Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -155,6 +158,9 @@
       ],
       "displayClasses": [
         "Light Ranged Cavalry"
+      ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
       ],
       "unique": false,
       "costs": {
@@ -249,6 +255,9 @@
       "displayClasses": [
         "Light Ranged Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -341,6 +350,9 @@
       "displayClasses": [
         "Light Ranged Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 90,
@@ -429,6 +441,9 @@
       "displayClasses": [
         "Light Ranged Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 90,
@@ -516,6 +531,9 @@
       ],
       "displayClasses": [
         "Light Ranged Cavalry"
+      ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
       ],
       "unique": true,
       "costs": {

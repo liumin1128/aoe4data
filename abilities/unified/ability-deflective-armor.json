@@ -29,6 +29,9 @@
       "descriptionCN": "偏转护甲充能可以抵挡一次近战或远程攻击。脱离战斗 8 秒后可重新充能。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

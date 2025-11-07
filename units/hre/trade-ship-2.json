@@ -27,6 +27,9 @@
     "Worker",
     "Ship"
   ],
+  "displayClassesCN": [
+    "工人、船只"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

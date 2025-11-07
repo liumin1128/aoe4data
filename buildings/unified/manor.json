@@ -48,6 +48,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -120,7 +123,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

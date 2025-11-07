@@ -22,6 +22,9 @@
   "displayClasses": [
     "Man-at-Arms & Lancer Technology"
   ],
+  "displayClassesCN": [
+    "武士和长矛骑兵科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

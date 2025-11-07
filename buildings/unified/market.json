@@ -75,6 +75,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -110,6 +113,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -140,6 +146,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -175,6 +184,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -203,6 +215,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -239,6 +254,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -267,6 +285,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -303,6 +324,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ]
     },
     {
@@ -332,6 +356,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -365,7 +392,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -394,6 +422,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -427,7 +458,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -457,6 +489,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -490,7 +525,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -519,6 +555,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -552,7 +591,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -580,6 +620,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -616,6 +659,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -645,6 +691,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -678,7 +727,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -707,6 +757,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -740,7 +793,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -768,6 +822,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -803,7 +860,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -833,6 +891,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -866,7 +927,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -895,6 +957,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -928,7 +993,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -957,6 +1023,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -990,7 +1059,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -1019,6 +1089,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -1055,6 +1128,9 @@
       },
       "influences": [
         "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+      ],
+      "influencesCN": [
+        "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
       ]
     },
     {
@@ -1083,6 +1159,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -1119,6 +1198,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -1148,6 +1230,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1181,7 +1266,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -1210,6 +1296,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1243,7 +1332,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -1272,6 +1362,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1305,7 +1398,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -1334,6 +1428,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1367,7 +1464,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

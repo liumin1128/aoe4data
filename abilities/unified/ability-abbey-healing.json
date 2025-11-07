@@ -30,6 +30,9 @@
       "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -95,6 +98,9 @@
       "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

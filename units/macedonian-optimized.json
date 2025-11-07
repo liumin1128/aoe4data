@@ -82,6 +82,9 @@
       "nameCN": "阿特盖尔",
       "age": 1,
       "descriptionCN": "最适合用来对付骑兵单位的步兵。附近有瓦兰吉单位时，攻击速度更快。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付装甲步兵\n- 会受到弓兵克制",
+      "displayClassesCN": [
+        "轻型近战瓦兰吉步兵"
+      ],
       "costs": {
         "food": 70,
         "wood": 20,
@@ -515,6 +518,9 @@
           "displayClasses": [
             "Springald Ship"
           ],
+          "displayClassesCN": [
+            "扭力弩炮船"
+          ],
           "unique": false,
           "costs": {
             "food": 110,
@@ -720,6 +726,9 @@
       "nameCN": "波莫",
       "age": 2,
       "descriptionCN": "可对无护甲目标造成可观伤害的远程步兵，能够以移动速度减慢为代价，刺穿敌方的护甲。\n+ 射速高\n- 不擅长对付装甲目标\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程瓦兰吉步兵"
+      ],
       "costs": {
         "food": 40,
         "wood": 50,
@@ -1035,6 +1044,9 @@
             "Siege",
             "Gunpowder"
           ],
+          "displayClassesCN": [
+            "攻城、火药"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1223,6 +1235,9 @@
           "displayClasses": [
             "Heavy Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "重装近战骑兵"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1393,6 +1408,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1537,6 +1555,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -1733,6 +1754,9 @@
       "nameCN": "弩手",
       "age": 3,
       "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 80,
         "wood": 0,
@@ -1930,6 +1954,9 @@
           "displayClasses": [
             "Incendiary Ship"
           ],
+          "displayClassesCN": [
+            "燃烧船"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2078,6 +2105,9 @@
           "displayClasses": [
             "Springald Ship"
           ],
+          "displayClassesCN": [
+            "扭力弩炮船"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -2214,6 +2244,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2304,6 +2337,9 @@
           ],
           "displayClasses": [
             "Archer Ship"
+          ],
+          "displayClassesCN": [
+            "步弓手船"
           ],
           "unique": false,
           "costs": {
@@ -2447,6 +2483,9 @@
           "displayClasses": [
             "Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 120,
@@ -2567,6 +2606,9 @@
           ],
           "displayClasses": [
             "Light Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
           ],
           "unique": true,
           "costs": {
@@ -2761,6 +2803,9 @@
           ],
           "displayClasses": [
             "Heavy Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "重装近战骑兵"
           ],
           "unique": true,
           "costs": {
@@ -2962,6 +3007,9 @@
           ],
           "displayClasses": [
             "Light Melee Cavalry"
+          ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
           ],
           "unique": true,
           "costs": {
@@ -3177,6 +3225,9 @@
       "nameCN": "骑手",
       "age": 2,
       "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
+      "displayClassesCN": [
+        "轻型近战骑兵"
+      ],
       "costs": {
         "food": 100,
         "wood": 20,
@@ -3527,6 +3578,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3724,6 +3778,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -4011,6 +4068,9 @@
           "displayClasses": [
             "Religious"
           ],
+          "displayClassesCN": [
+            "宗教"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4104,6 +4164,9 @@
           "displayClasses": [
             "Siege",
             "Gunpowder"
+          ],
+          "displayClassesCN": [
+            "攻城、火药"
           ],
           "unique": false,
           "costs": {
@@ -4258,6 +4321,9 @@
       "nameCN": "瑞塔利",
       "age": 3,
       "descriptionCN": "拥有高伤害和近战护甲的骑兵，能远距离投掷斧头。\n+ 重型护甲\n+ 近战能力强\n- 会受到长矛兵及弩手克制",
+      "displayClassesCN": [
+        "重装近战瓦兰吉骑兵"
+      ],
       "costs": {
         "food": 130,
         "wood": 0,
@@ -4571,6 +4637,9 @@
             "Siege",
             "Gunpowder"
           ],
+          "displayClassesCN": [
+            "攻城、火药"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4755,6 +4824,9 @@
           "displayClasses": [
             "Light Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
+          ],
           "unique": false,
           "costs": {
             "food": 65,
@@ -4896,6 +4968,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5001,6 +5076,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -5209,6 +5287,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5289,6 +5370,9 @@
           ],
           "displayClasses": [
             "Worker"
+          ],
+          "displayClassesCN": [
+            "工人"
           ],
           "unique": false,
           "costs": {
@@ -5376,6 +5460,9 @@
           ],
           "displayClasses": [
             "Ship"
+          ],
+          "displayClassesCN": [
+            "船只"
           ],
           "unique": false,
           "costs": {
@@ -5488,6 +5575,9 @@
       "nameCN": "早期瓦兰吉卫队",
       "age": 2,
       "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
+      "displayClassesCN": [
+        "重装近战瓦兰吉步兵"
+      ],
       "costs": {
         "food": 90,
         "wood": 0,
@@ -5989,6 +6079,9 @@
           "displayClasses": [
             "Worker"
           ],
+          "displayClassesCN": [
+            "工人"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -6129,6 +6222,9 @@
           ],
           "displayClasses": [
             "Warship"
+          ],
+          "displayClassesCN": [
+            "战船"
           ],
           "unique": false,
           "costs": {

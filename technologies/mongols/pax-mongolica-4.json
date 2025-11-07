@@ -20,6 +20,9 @@
   "displayClasses": [
     "Defensive Technology"
   ],
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

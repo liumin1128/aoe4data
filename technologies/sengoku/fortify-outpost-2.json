@@ -36,6 +36,9 @@
   "displayClasses": [
     "Defensive Emplacement"
   ],
+  "displayClassesCN": [
+    "防御炮台"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

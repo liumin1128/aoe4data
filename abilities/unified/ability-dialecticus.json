@@ -29,6 +29,9 @@
       "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

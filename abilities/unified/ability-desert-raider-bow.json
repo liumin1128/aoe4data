@@ -29,6 +29,9 @@
       "descriptionCN": "切换为远程武器长弓。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

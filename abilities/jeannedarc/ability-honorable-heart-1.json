@@ -14,6 +14,9 @@
   "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

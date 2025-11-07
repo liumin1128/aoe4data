@@ -22,6 +22,9 @@
   "displayClasses": [
     "Technology Building"
   ],
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -57,5 +60,8 @@
   },
   "influences": [
     "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+  ],
+  "influencesCN": [
+    "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
   ]
 }

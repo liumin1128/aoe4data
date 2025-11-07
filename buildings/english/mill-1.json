@@ -26,6 +26,9 @@
   "displayClasses": [
     "Economy Building"
   ],
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -61,5 +64,8 @@
   },
   "influences": [
     "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill."
+  ],
+  "influencesCN": [
+    "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。"
   ]
 }

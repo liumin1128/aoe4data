@@ -29,6 +29,9 @@
       "descriptionCN": "每次攻击后恢复生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

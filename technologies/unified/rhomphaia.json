@@ -44,6 +44,9 @@
       "displayClasses": [
         "Varangian Technology"
       ],
+      "displayClassesCN": [
+        "瓦兰吉科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

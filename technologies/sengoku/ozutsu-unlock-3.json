@@ -22,6 +22,9 @@
   "displayClasses": [
     "Oda Clan Technology"
   ],
+  "displayClassesCN": [
+    "织田氏族科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

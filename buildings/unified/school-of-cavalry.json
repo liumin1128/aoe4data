@@ -60,6 +60,9 @@
       "displayClasses": [
         "Age II - Military Landmark"
       ],
+      "displayClassesCN": [
+        "第二时代：军事地标"
+      ],
       "unique": true,
       "costs": {
         "food": 400,
@@ -95,6 +98,9 @@
       },
       "influences": [
         "Unit production costs reduced by -20% when within the influence of a Keep."
+      ],
+      "influencesCN": [
+        "在城堡的影响范围内时，单位生产成本 -20%。"
       ]
     },
     {
@@ -127,6 +133,9 @@
       ],
       "displayClasses": [
         "Age II - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -162,7 +171,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

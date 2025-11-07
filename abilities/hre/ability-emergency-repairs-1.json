@@ -14,6 +14,9 @@
   "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

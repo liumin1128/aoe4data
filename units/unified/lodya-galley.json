@@ -62,6 +62,9 @@
       "displayClasses": [
         "Archer Ship"
       ],
+      "displayClassesCN": [
+        "步弓手船"
+      ],
       "unique": true,
       "costs": {
         "food": 80,

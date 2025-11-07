@@ -40,6 +40,9 @@
           "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +20%。不能在码头驻扎。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -109,6 +112,9 @@
           "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -173,6 +179,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -242,6 +251,9 @@
           "descriptionCN": "切换为近战武器剑。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -301,6 +313,9 @@
           "descriptionCN": "切换为远程武器长弓。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -360,6 +375,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -422,6 +440,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -497,6 +518,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -574,6 +598,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -651,6 +678,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -728,6 +758,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -804,6 +837,9 @@
           "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -867,6 +903,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -931,6 +970,9 @@
           "descriptionCN": "治疗附近所有单位。携带圣物时治疗速度要快 +50% 倍。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1010,6 +1052,9 @@
           "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1070,6 +1115,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1134,6 +1182,9 @@
           "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1214,6 +1265,9 @@
           "descriptionCN": "切换为燃烧弹药，可造成更大范围的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1274,6 +1328,9 @@
           "descriptionCN": "切换为实心弹药，可造成更高的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1334,6 +1391,9 @@
           "descriptionCN": "与其他重装骑兵相比，骆驼长矛骑兵的冲锋速度更快，发起冲锋的频率更高，距离也更长。骆驼长矛骑兵所造成的基线冲锋伤害 -25%。冲锋所用的每秒时间可提高冲锋的伤害 (最高达 +40%)。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "被动能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

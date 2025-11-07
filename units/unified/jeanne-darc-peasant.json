@@ -60,6 +60,9 @@
         "Villager",
         "Hero"
       ],
+      "displayClassesCN": [
+        "村民"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

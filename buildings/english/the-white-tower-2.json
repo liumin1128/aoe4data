@@ -32,6 +32,9 @@
   "displayClasses": [
     "Age III - Defensive Landmark"
   ],
+  "displayClassesCN": [
+    "第三时代：防御地标"
+  ],
   "unique": true,
   "costs": {
     "food": 1200,
@@ -121,5 +124,6 @@
       "cavalry"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

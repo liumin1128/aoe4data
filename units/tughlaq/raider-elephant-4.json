@@ -30,6 +30,9 @@
     "Light Cavalry",
     "Elephant"
   ],
+  "displayClassesCN": [
+    "轻装骑兵，大象"
+  ],
   "unique": true,
   "costs": {
     "food": 200,

@@ -14,6 +14,9 @@
   "descriptionCN": "少林僧侣在脱离战斗时会恢复生命值。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

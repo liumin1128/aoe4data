@@ -34,6 +34,9 @@
     "Ranged Cavalry",
     "Elephant"
   ],
+  "displayClassesCN": [
+    "远程骑兵、大象"
+  ],
   "unique": true,
   "costs": {
     "food": 400,

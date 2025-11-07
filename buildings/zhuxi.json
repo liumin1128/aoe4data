@@ -37,6 +37,9 @@
       "displayClasses": [
         "Military Building"
       ],
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -70,7 +73,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "barracks-1",
@@ -97,6 +101,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -131,7 +138,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "blacksmith-2",
@@ -156,6 +164,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -190,7 +201,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "capital-town-center-1",
@@ -226,6 +238,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -271,7 +286,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "dock-1",
@@ -301,6 +317,9 @@
       "displayClasses": [
         "Military & Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -341,7 +360,8 @@
           "fishing ship"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "enclave-of-the-emperor-4",
@@ -367,6 +387,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -401,7 +424,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "farm-1",
@@ -427,6 +451,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": false,
       "costs": {
@@ -461,7 +488,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "granary-1",
@@ -489,6 +517,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": true,
       "costs": {
@@ -523,7 +554,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -547,6 +579,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -581,7 +616,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "jiangnan-tower-2",
@@ -611,6 +647,9 @@
       ],
       "displayClasses": [
         "Age II - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -645,7 +684,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "keep-3",
@@ -673,6 +713,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -764,7 +807,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "lumber-camp-1",
@@ -790,6 +834,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -824,7 +871,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "market-2",
@@ -852,6 +900,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -886,7 +937,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "meditation-gardens-1",
@@ -916,6 +968,9 @@
       ],
       "displayClasses": [
         "Age II - Passive Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：被动地标"
       ],
       "unique": true,
       "costs": {
@@ -950,7 +1005,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mill-1",
@@ -979,6 +1035,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1013,7 +1072,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mining-camp-1",
@@ -1041,6 +1101,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1075,7 +1138,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "monastery-3",
@@ -1102,6 +1166,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -1136,7 +1203,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "mount-lu-academy-1",
@@ -1167,6 +1235,9 @@
       ],
       "displayClasses": [
         "Age III - Active Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：主动地标"
       ],
       "unique": true,
       "costs": {
@@ -1201,7 +1272,8 @@
         "line": 60,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1229,6 +1301,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1274,7 +1349,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "pagoda-1",
@@ -1299,6 +1375,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": true,
       "costs": {
@@ -1333,7 +1412,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palisade-1",
@@ -1359,6 +1439,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1393,7 +1476,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palisade-gate-1",
@@ -1419,6 +1503,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1453,7 +1540,8 @@
         "line": 20,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "shaolin-monastery-2",
@@ -1489,6 +1577,9 @@
       "displayClasses": [
         "Age III - Religious Landmark"
       ],
+      "displayClassesCN": [
+        "第三时代：宗教地标"
+      ],
       "unique": true,
       "costs": {
         "food": 1200,
@@ -1522,7 +1613,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "siege-workshop-3",
@@ -1549,6 +1641,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1583,7 +1678,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stable-2",
@@ -1610,6 +1706,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1644,7 +1743,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-2",
@@ -1670,6 +1770,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1704,7 +1807,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-gate-2",
@@ -1730,6 +1834,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1764,7 +1871,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-tower-2",
@@ -1791,6 +1899,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1864,7 +1975,8 @@
         "line": 60,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "temple-of-the-sun-3",
@@ -1893,6 +2005,9 @@
       ],
       "displayClasses": [
         "Age IV - Active Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：主动地标"
       ],
       "unique": true,
       "costs": {
@@ -1927,7 +2042,8 @@
         "line": 40,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "town-center-1",
@@ -1959,6 +2075,9 @@
       ],
       "displayClasses": [
         "Economy & Population Building"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -2004,7 +2123,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -2029,6 +2149,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -2063,7 +2186,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "village-1",
@@ -2087,6 +2211,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": true,
       "costs": {
@@ -2169,7 +2296,8 @@
           "monk"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "zhu-xis-library-3",
@@ -2198,6 +2326,9 @@
       ],
       "displayClasses": [
         "Age IV - Military & Technology Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事与科技地标"
       ],
       "unique": true,
       "costs": {
@@ -2232,7 +2363,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

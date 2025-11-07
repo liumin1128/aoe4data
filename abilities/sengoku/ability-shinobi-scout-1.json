@@ -14,6 +14,9 @@
   "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "单击鼠标左键，然后在目标位置上单击鼠标左键"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

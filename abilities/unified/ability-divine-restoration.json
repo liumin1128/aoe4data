@@ -29,6 +29,9 @@
       "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "支援能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

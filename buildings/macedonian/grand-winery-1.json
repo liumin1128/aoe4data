@@ -32,6 +32,9 @@
   "displayClasses": [
     "Age II - Economic & Religious Landmark"
   ],
+  "displayClassesCN": [
+    "第二时代 - 经济与宗教地标"
+  ],
   "unique": true,
   "costs": {
     "food": 400,
@@ -65,5 +68,6 @@
     "line": 25,
     "height": 8
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

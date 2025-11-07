@@ -29,6 +29,9 @@
       "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "单击鼠标左键，然后在目标位置上单击鼠标左键"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

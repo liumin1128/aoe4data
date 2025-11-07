@@ -29,6 +29,9 @@
       "descriptionCN": "试图招降此伊玛目范围内的单个敌方单位，使其为您所用。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

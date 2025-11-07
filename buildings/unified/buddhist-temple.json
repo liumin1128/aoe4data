@@ -51,6 +51,9 @@
       "displayClasses": [
         "Religious Building"
       ],
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -84,7 +87,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "buddhist-temple-3",
@@ -111,6 +115,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -145,7 +152,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

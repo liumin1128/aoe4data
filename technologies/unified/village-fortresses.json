@@ -38,6 +38,9 @@
       "displayClasses": [
         "Keep Technology"
       ],
+      "displayClassesCN": [
+        "城堡科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

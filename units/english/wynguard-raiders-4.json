@@ -25,6 +25,9 @@
   "displayClasses": [
     "Mixed Force Army"
   ],
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "unique": false,
   "costs": {
     "food": 650,

@@ -52,6 +52,9 @@
         "Trebuchet",
         "and Bombard Technology"
       ],
+      "displayClassesCN": [
+        "轻型投石车、巨型投石机和手推炮科技"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

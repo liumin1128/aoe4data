@@ -24,6 +24,9 @@
   "displayClasses": [
     "Military Building"
   ],
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -59,5 +62,8 @@
   },
   "influences": [
     "Unit production costs reduced by -20% when within the influence of a Keep."
+  ],
+  "influencesCN": [
+    "在城堡的影响范围内时，单位生产成本 -20%。"
   ]
 }

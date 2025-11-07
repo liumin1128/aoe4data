@@ -46,6 +46,9 @@
       "displayClasses": [
         "Military Upgrade"
       ],
+      "displayClassesCN": [
+        "军事升级"
+      ],
       "unique": true,
       "costs": {
         "food": 300,

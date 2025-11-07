@@ -22,6 +22,9 @@
   "displayClasses": [
     "Varangian Guard Technology"
   ],
+  "displayClassesCN": [
+    "瓦兰吉卫队科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

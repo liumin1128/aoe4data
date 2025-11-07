@@ -28,6 +28,9 @@
   "displayClasses": [
     "Trebuchet Ship"
   ],
+  "displayClassesCN": [
+    "巨型投石机船只"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

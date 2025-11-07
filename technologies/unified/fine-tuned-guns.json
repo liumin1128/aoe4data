@@ -48,6 +48,9 @@
       "displayClasses": [
         "Bombard Technology"
       ],
+      "displayClassesCN": [
+        "手推炮科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

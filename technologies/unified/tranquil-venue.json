@@ -46,6 +46,9 @@
       "displayClasses": [
         "Mosque Technology"
       ],
+      "displayClassesCN": [
+        "清真寺科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

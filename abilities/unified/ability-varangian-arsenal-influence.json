@@ -29,6 +29,9 @@
       "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

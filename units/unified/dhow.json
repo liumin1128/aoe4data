@@ -60,6 +60,9 @@
       "displayClasses": [
         "Archer Ship"
       ],
+      "displayClassesCN": [
+        "步弓手船"
+      ],
       "unique": false,
       "costs": {
         "food": 80,
@@ -167,6 +170,9 @@
       ],
       "displayClasses": [
         "Archer Ship"
+      ],
+      "displayClassesCN": [
+        "步弓手船"
       ],
       "unique": false,
       "costs": {
@@ -276,6 +282,9 @@
       "displayClasses": [
         "Archer Ship"
       ],
+      "displayClassesCN": [
+        "步弓手船"
+      ],
       "unique": false,
       "costs": {
         "food": 80,
@@ -384,6 +393,9 @@
       "displayClasses": [
         "Archer Ship"
       ],
+      "displayClassesCN": [
+        "步弓手船"
+      ],
       "unique": false,
       "costs": {
         "food": 80,
@@ -491,6 +503,9 @@
       ],
       "displayClasses": [
         "Archer Ship"
+      ],
+      "displayClassesCN": [
+        "步弓手船"
       ],
       "unique": false,
       "costs": {

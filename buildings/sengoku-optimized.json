@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -96,6 +99,9 @@
           },
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         }
       ],
@@ -151,6 +157,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -186,6 +195,9 @@
           },
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         }
       ],
@@ -241,6 +253,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -274,7 +289,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -345,6 +361,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -389,7 +408,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -445,6 +465,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -1443,7 +1466,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1507,6 +1531,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -2505,7 +2532,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2566,6 +2594,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2605,7 +2636,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2658,6 +2690,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2691,7 +2726,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2754,6 +2790,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2787,7 +2826,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2850,6 +2890,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2883,7 +2926,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2938,6 +2982,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2973,6 +3020,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -3034,6 +3084,9 @@
           "displayClasses": [
             "Age II - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -3067,7 +3120,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3120,6 +3174,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3153,7 +3210,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3218,6 +3276,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -3251,7 +3312,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3306,6 +3368,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -3341,6 +3406,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -3398,6 +3466,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3442,7 +3513,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3495,6 +3567,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3528,7 +3603,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3581,6 +3657,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3614,7 +3693,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3675,6 +3755,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -3708,7 +3791,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3771,6 +3855,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -3804,7 +3891,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3859,6 +3947,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3892,7 +3983,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3947,6 +4039,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3982,6 +4077,9 @@
           },
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         }
       ],
@@ -4035,6 +4133,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4068,7 +4169,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4121,6 +4223,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4154,7 +4259,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4208,6 +4314,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -4281,7 +4390,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4340,6 +4450,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -4373,7 +4486,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4428,6 +4542,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -4463,6 +4580,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -4528,6 +4648,9 @@
           "displayClasses": [
             "Age III - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -4561,7 +4684,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4614,6 +4738,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -4647,7 +4774,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4714,6 +4842,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4758,7 +4889,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -4809,6 +4941,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4842,7 +4977,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}

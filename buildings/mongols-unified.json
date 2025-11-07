@@ -63,6 +63,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -98,6 +101,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -154,6 +160,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -189,6 +198,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -241,6 +253,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -276,6 +291,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         }
       ]
@@ -350,6 +368,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -396,6 +417,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -456,6 +480,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -489,7 +516,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -551,6 +579,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -590,7 +621,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -652,6 +684,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -687,6 +722,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         }
       ]
@@ -751,6 +789,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -784,7 +825,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -844,6 +886,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -877,7 +922,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -935,6 +981,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -970,6 +1019,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -1022,6 +1074,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 6650,
@@ -1055,7 +1110,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1111,6 +1167,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1155,7 +1214,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1203,6 +1263,9 @@
           "displayClasses": [
             "Influence & Technology Building"
           ],
+          "displayClassesCN": [
+            "影响与科技建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1238,6 +1301,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect.\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ]
@@ -1294,6 +1360,9 @@
           "displayClasses": [
             "Food Production Building"
           ],
+          "displayClassesCN": [
+            "食物生产建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1329,6 +1398,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ]
@@ -1383,6 +1455,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1418,6 +1493,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。"
           ]
         }
       ]
@@ -1474,6 +1552,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1509,6 +1590,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -1565,6 +1649,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1600,6 +1687,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -1670,6 +1760,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -1705,6 +1798,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         }
       ]
@@ -1771,6 +1867,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -1806,6 +1905,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]
@@ -1872,6 +1974,9 @@
           "displayClasses": [
             "Age IV - Influence & Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代 - 影响与科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -1907,6 +2012,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect.\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ]
@@ -1973,6 +2081,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2019,6 +2130,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ]

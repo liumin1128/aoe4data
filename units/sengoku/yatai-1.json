@@ -20,6 +20,9 @@
   "displayClasses": [
     "Worker"
   ],
+  "displayClassesCN": [
+    "工人"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

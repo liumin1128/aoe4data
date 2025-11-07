@@ -59,6 +59,9 @@
       "displayClasses": [
         "Warship"
       ],
+      "displayClassesCN": [
+        "战船"
+      ],
       "unique": true,
       "costs": {
         "food": 100,
@@ -163,6 +166,9 @@
       ],
       "displayClasses": [
         "Warship"
+      ],
+      "displayClassesCN": [
+        "战船"
       ],
       "unique": true,
       "costs": {

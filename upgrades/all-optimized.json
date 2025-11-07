@@ -231,6 +231,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练步弓手升级为精锐步弓手。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -293,6 +296,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -362,6 +368,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -617,6 +626,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将弩手升级为精锐弩手。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -678,6 +690,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将古拉姆升级为精锐古拉姆。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -816,6 +831,9 @@
           ],
           "displayClasses": [
             "Unit Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 3/3"
           ]
         },
         {
@@ -882,6 +900,9 @@
           ],
           "displayClasses": [
             "Unit Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 3/3"
           ]
         },
         {
@@ -905,6 +926,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练骑手升级为精锐骑手。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -1074,6 +1098,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -1208,6 +1235,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ]
         },
         {
@@ -1355,6 +1385,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练长矛兵升级为精锐长矛兵。",
+      "displayClassesCN": [
+        "单位科技 3/3"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -1617,6 +1650,9 @@
       "nameCN": "升级为坚韧",
       "age": 2,
       "descriptionCN": "将长矛兵升级为坚韧长矛兵。",
+      "displayClassesCN": [
+        "单位科技 1/3"
+      ],
       "costs": {
         "food": 15,
         "wood": 0,
@@ -1874,6 +1910,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将步弓手升级为老练步弓手。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -1936,6 +1975,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -2079,6 +2121,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/3"
           ]
         },
         {
@@ -2145,6 +2190,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/3"
           ]
         },
         {
@@ -2168,6 +2216,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将骑手升级为老练骑手。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -2302,6 +2353,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ]
         },
         {
@@ -2449,6 +2503,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
+      "displayClassesCN": [
+        "单位科技 2/3"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -2513,6 +2570,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -2581,6 +2641,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -2648,6 +2711,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -2714,6 +2780,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -2783,6 +2852,9 @@
           "displayClasses": [
             "Unit Technology 3/3"
           ],
+          "displayClassesCN": [
+            "单位科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -2849,6 +2921,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -2917,6 +2992,9 @@
           "displayClasses": [
             "Unit Technology 1/3"
           ],
+          "displayClassesCN": [
+            "单位科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 15,
@@ -2984,6 +3062,9 @@
           "displayClasses": [
             "Unit Technology 2/3"
           ],
+          "displayClassesCN": [
+            "单位科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -3050,6 +3131,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -3119,6 +3203,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ]
         }
       ],
@@ -3126,6 +3213,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将皇宫卫兵升级为精锐皇宫卫兵。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -3194,6 +3284,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练诸葛弩手升级为精锐诸葛弩手。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -3262,6 +3355,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将诸葛弩手升级为老练诸葛弩手。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -3324,6 +3420,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -3425,6 +3524,9 @@
           ],
           "displayClasses": [
             "Unit Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 3/3"
           ]
         },
         {
@@ -3466,6 +3568,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "producedBy": [
             "barracks",
@@ -3550,6 +3655,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将武士升级为精锐武士。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -3612,6 +3720,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -3680,6 +3791,9 @@
           "displayClasses": [
             "Unit Technology 1/3"
           ],
+          "displayClassesCN": [
+            "单位科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 15,
@@ -3746,6 +3860,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -3817,6 +3934,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "producedBy": [
             "barracks",
             "burgrave-palace"
@@ -3827,6 +3947,9 @@
       "nameCN": "升级为武士",
       "age": 3,
       "descriptionCN": "将早期武士升级为武士。",
+      "displayClassesCN": [
+        "单位科技 2/3"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -3889,6 +4012,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -3956,6 +4082,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将弓弩手升级为精锐弓弩手。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -4017,6 +4146,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练皇家骑士升级为精锐皇家骑士。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -4079,6 +4211,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将皇家骑士升级为老练皇家骑士。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -4141,6 +4276,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练怯薛骑兵升级为精锐怯薛骑兵。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -4203,6 +4341,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": true,
           "costs": {
@@ -4269,6 +4410,9 @@
       "nameCN": "升级为骑手",
       "age": 2,
       "descriptionCN": "将早期骑手升级为骑手。",
+      "displayClassesCN": [
+        "单位科技 1/3"
+      ],
       "costs": {
         "food": 15,
         "wood": 0,
@@ -4330,6 +4474,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将怯薛骑兵升级为老练怯薛骑兵。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -4392,6 +4539,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -4461,6 +4611,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -4527,6 +4680,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -4595,6 +4751,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -4661,6 +4820,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -4729,6 +4891,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -4795,6 +4960,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将骑马武士升级为精锐骑马武士。",
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -4859,6 +5027,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -4929,6 +5100,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -4995,6 +5169,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练日本武士升级为精锐日本武士。",
+      "displayClassesCN": [
+        "单位科技 3/3"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -5057,6 +5234,9 @@
       "nameCN": "升级为精锐",
       "age": 4,
       "descriptionCN": "将老练弓足轻升级为精锐弓足轻。",
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -5119,6 +5299,9 @@
       "nameCN": "升级为坚韧",
       "age": 2,
       "descriptionCN": "将日本武士升级为坚韧日本武士。",
+      "displayClassesCN": [
+        "单位科技 1/3"
+      ],
       "costs": {
         "food": 15,
         "wood": 0,
@@ -5183,6 +5366,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -5250,6 +5436,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将坚韧日本武士升级为老练日本武士。",
+      "displayClassesCN": [
+        "单位科技 2/3"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -5312,6 +5501,9 @@
       "nameCN": "升级为老练",
       "age": 3,
       "descriptionCN": "将弓足轻升级为老练弓足轻。",
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -5374,6 +5566,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -5442,6 +5637,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 200,
@@ -5508,6 +5706,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -5600,6 +5801,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 200,
@@ -5666,6 +5870,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -5734,6 +5941,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 200,
@@ -5800,6 +6010,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -5868,6 +6081,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -5934,6 +6150,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -6002,6 +6221,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -6068,6 +6290,9 @@
           ],
           "displayClasses": [
             "Unit Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -6136,6 +6361,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6202,6 +6430,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -6270,6 +6501,9 @@
           "displayClasses": [
             "Unit Technology 1/3"
           ],
+          "displayClassesCN": [
+            "单位科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 15,
@@ -6336,6 +6570,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -6405,6 +6642,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -6471,6 +6711,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/3"
           ],
           "unique": false,
           "costs": {
@@ -6539,6 +6782,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -6606,6 +6852,9 @@
           "displayClasses": [
             "Unit Technology 3/3"
           ],
+          "displayClassesCN": [
+            "单位科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6672,6 +6921,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -6741,6 +6993,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6807,6 +7062,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -6875,6 +7133,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6941,6 +7202,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -7009,6 +7273,9 @@
           "displayClasses": [
             "Unit Technology 1/3"
           ],
+          "displayClassesCN": [
+            "单位科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 15,
@@ -7075,6 +7342,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -7143,6 +7413,9 @@
           "displayClasses": [
             "Unit Technology 2/3"
           ],
+          "displayClassesCN": [
+            "单位科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -7209,6 +7482,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -7277,6 +7553,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -7343,6 +7622,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -7411,6 +7693,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -7477,6 +7762,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -7545,6 +7833,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -7611,6 +7902,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -7679,6 +7973,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -7745,6 +8042,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -7813,6 +8113,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -7879,6 +8182,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -7948,6 +8254,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -8015,6 +8324,9 @@
           ],
           "displayClasses": [
             "Unit Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -8084,6 +8396,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -8151,6 +8466,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/3"
           ],
           "unique": false,
           "costs": {
@@ -8220,6 +8538,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -8287,6 +8608,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -8353,6 +8677,9 @@
           ],
           "displayClasses": [
             "Unit Technology 2/3"
+          ],
+          "displayClassesCN": [
+            "单位科技 2/3"
           ],
           "unique": false,
           "costs": {
@@ -8422,6 +8749,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 150,
@@ -8488,6 +8818,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -8556,6 +8889,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -8622,6 +8958,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -8690,6 +9029,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -8756,6 +9098,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": false,
           "costs": {
@@ -8824,6 +9169,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -8890,6 +9238,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -8958,6 +9309,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": true,
           "costs": {
             "food": 300,
@@ -9024,6 +9378,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/1"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/1"
           ],
           "unique": true,
           "costs": {
@@ -9092,6 +9449,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": true,
           "costs": {
             "food": 300,
@@ -9158,6 +9518,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": true,
           "costs": {
@@ -9226,6 +9589,9 @@
           "displayClasses": [
             "Unit Technology 1/2"
           ],
+          "displayClassesCN": [
+            "单位科技 1/2"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -9293,6 +9659,9 @@
           "displayClasses": [
             "Unit Technology 2/2"
           ],
+          "displayClassesCN": [
+            "单位科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 360,
@@ -9357,6 +9726,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -9425,6 +9797,9 @@
           "displayClasses": [
             "Unit Technology 1/1"
           ],
+          "displayClassesCN": [
+            "单位科技 1/1"
+          ],
           "unique": false,
           "costs": {
             "food": 150,
@@ -9491,6 +9866,9 @@
           ],
           "displayClasses": [
             "Unit Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "单位科技 1/2"
           ],
           "unique": false,
           "costs": {

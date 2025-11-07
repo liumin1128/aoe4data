@@ -46,6 +46,9 @@
       "displayClasses": [
         "Elephant Technology"
       ],
+      "displayClassesCN": [
+        "大象科技"
+      ],
       "unique": true,
       "costs": {
         "food": 240,

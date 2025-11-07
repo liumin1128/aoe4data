@@ -65,6 +65,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -100,6 +103,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -158,6 +164,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -193,6 +202,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -245,6 +257,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -280,6 +295,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -356,6 +374,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -402,6 +423,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -466,6 +490,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -507,6 +534,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -559,6 +589,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -592,7 +625,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -640,6 +674,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -675,6 +712,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -741,6 +781,9 @@
             "Technology Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "科技建筑、地标"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -780,6 +823,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -837,6 +883,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -930,6 +979,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -984,6 +1036,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1019,6 +1074,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1071,6 +1129,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1106,6 +1167,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1164,6 +1228,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1199,6 +1266,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1259,6 +1329,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1294,6 +1367,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1352,6 +1428,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1387,6 +1466,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1445,6 +1527,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1480,6 +1565,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1538,6 +1626,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1584,6 +1675,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1636,6 +1730,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1669,7 +1766,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1721,6 +1819,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1754,7 +1855,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1806,6 +1908,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -1841,6 +1946,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1899,6 +2007,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1934,6 +2045,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -1992,6 +2106,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2027,6 +2144,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]
@@ -2079,6 +2199,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2112,7 +2235,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2164,6 +2288,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2197,7 +2324,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2252,6 +2380,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2325,7 +2456,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2395,6 +2527,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2441,6 +2576,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         }
       ]

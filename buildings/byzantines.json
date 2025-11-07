@@ -35,6 +35,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -68,7 +71,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "archery-range-2",
@@ -95,6 +99,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -131,6 +138,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -158,6 +168,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -194,6 +207,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -219,6 +235,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -255,6 +274,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -291,6 +313,9 @@
       "displayClasses": [
         "Economy & Population Building",
         "Landmark"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
       ],
       "unique": false,
       "costs": {
@@ -338,6 +363,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -364,6 +392,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -398,7 +429,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "cistern-1",
@@ -421,6 +453,9 @@
       ],
       "displayClasses": [
         "Influence Building"
+      ],
+      "displayClassesCN": [
+        "影响建筑"
       ],
       "unique": true,
       "costs": {
@@ -455,7 +490,8 @@
         "line": 28,
         "height": 4
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "cistern-of-the-first-hill-2",
@@ -485,6 +521,9 @@
       ],
       "displayClasses": [
         "Age III - Influence Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代 - 影响地标"
       ],
       "unique": true,
       "costs": {
@@ -519,7 +558,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "dock-1",
@@ -549,6 +589,9 @@
       "displayClasses": [
         "Military & Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -591,6 +634,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -621,6 +667,9 @@
       ],
       "displayClasses": [
         "Age IV - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -657,6 +706,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -688,6 +740,9 @@
       ],
       "displayClasses": [
         "Age III - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -722,7 +777,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "grand-winery-1",
@@ -757,6 +813,9 @@
       ],
       "displayClasses": [
         "Age II - Economic & Religious Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代 - 经济与宗教地标"
       ],
       "unique": true,
       "costs": {
@@ -793,6 +852,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -817,6 +879,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -853,6 +918,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -885,6 +953,9 @@
       ],
       "displayClasses": [
         "Age II - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第二时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -921,6 +992,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -950,6 +1024,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1043,6 +1120,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1069,6 +1149,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1105,6 +1188,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1133,6 +1219,9 @@
       "displayClasses": [
         "Economy Building",
         "Trade Site"
+      ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
       ],
       "unique": false,
       "costs": {
@@ -1169,6 +1258,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1195,6 +1287,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": true,
       "costs": {
@@ -1231,6 +1326,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1260,6 +1358,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1296,6 +1397,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1324,6 +1428,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": false,
       "costs": {
@@ -1360,6 +1467,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1387,6 +1497,9 @@
       ],
       "displayClasses": [
         "Religious Building"
+      ],
+      "displayClassesCN": [
+        "宗教建筑"
       ],
       "unique": false,
       "costs": {
@@ -1423,6 +1536,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1449,6 +1565,9 @@
       "displayClasses": [
         "Food Source",
         "Building"
+      ],
+      "displayClassesCN": [
+        "食物来源、建筑"
       ],
       "unique": true,
       "costs": {
@@ -1483,7 +1602,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "outpost-1",
@@ -1513,6 +1633,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1560,6 +1683,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1589,6 +1715,9 @@
       ],
       "displayClasses": [
         "Age IV - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -1625,6 +1754,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1651,6 +1783,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1685,7 +1820,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palisade-gate-1",
@@ -1711,6 +1847,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1745,7 +1884,8 @@
         "line": 20,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "siege-workshop-3",
@@ -1772,6 +1912,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1808,6 +1951,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1835,6 +1981,9 @@
       ],
       "displayClasses": [
         "Military Building"
+      ],
+      "displayClassesCN": [
+        "军事建筑"
       ],
       "unique": false,
       "costs": {
@@ -1871,6 +2020,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -1897,6 +2049,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1931,7 +2086,8 @@
         "line": 6,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-gate-2",
@@ -1957,6 +2113,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -1991,7 +2150,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "stone-wall-tower-2",
@@ -2021,6 +2181,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": false,
       "costs": {
@@ -2057,7 +2220,8 @@
         "line": 60,
         "height": 501
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "town-center-1",
@@ -2090,6 +2254,9 @@
       ],
       "displayClasses": [
         "Economy & Population Building"
+      ],
+      "displayClassesCN": [
+        "经济和人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -2137,6 +2304,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -2162,6 +2332,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -2198,6 +2371,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     }
   ]

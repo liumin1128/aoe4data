@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -94,7 +97,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -149,6 +153,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -182,7 +189,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -233,6 +241,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -266,7 +277,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -340,6 +352,9 @@
           "displayClasses": [
             "Economy & Population Building",
             "Landmark"
+          ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
           ],
           "unique": true,
           "costs": {
@@ -1036,7 +1051,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1089,6 +1105,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1122,7 +1141,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1190,6 +1210,9 @@
           ],
           "displayClasses": [
             "Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "防御地标"
           ],
           "unique": true,
           "costs": {
@@ -2266,6 +2289,9 @@
           },
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         }
       ],
@@ -2326,6 +2352,9 @@
           "displayClasses": [
             "Military & Economy Building",
             "Trade Site"
+          ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
           ],
           "unique": true,
           "costs": {
@@ -2394,7 +2423,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2443,6 +2473,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2476,7 +2509,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2535,6 +2569,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2568,7 +2605,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2627,6 +2665,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2660,7 +2701,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2717,6 +2759,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2750,7 +2795,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2805,6 +2851,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2838,7 +2887,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2891,6 +2941,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -2924,7 +2977,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2981,6 +3035,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3025,7 +3082,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3078,6 +3136,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3111,7 +3172,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3164,6 +3226,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3197,7 +3262,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3252,6 +3318,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3285,7 +3354,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3340,6 +3410,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3373,7 +3446,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3429,6 +3503,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -3504,6 +3581,9 @@
           },
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         }
       ],
@@ -3556,6 +3636,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -3631,6 +3714,9 @@
           },
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         }
       ],
@@ -3685,6 +3771,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -3758,7 +3847,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3825,6 +3915,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3869,7 +3962,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3920,6 +4014,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3953,7 +4050,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}

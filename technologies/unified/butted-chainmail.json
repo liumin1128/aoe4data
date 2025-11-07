@@ -44,6 +44,9 @@
       "displayClasses": [
         "(translation not found) (undefined)"
       ],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -85,6 +88,9 @@
       "displayClasses": [
         "(translation not found) (undefined)"
       ],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -124,6 +130,9 @@
         "scar_unit_upgrade"
       ],
       "displayClasses": [
+        "(translation not found) (undefined)"
+      ],
+      "displayClassesCN": [
         "(translation not found) (undefined)"
       ],
       "unique": true,

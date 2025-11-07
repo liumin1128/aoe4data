@@ -44,6 +44,9 @@
       "displayClasses": [
         "Advance to Age IV"
       ],
+      "displayClassesCN": [
+        "发展到第四时代"
+      ],
       "unique": false,
       "costs": {
         "food": 2400,

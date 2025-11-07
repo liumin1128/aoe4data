@@ -14,6 +14,9 @@
   "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 2500,
     "wood": 0,

@@ -22,6 +22,9 @@
   "displayClasses": [
     "Hunting Technology"
   ],
+  "displayClassesCN": [
+    "狩猎科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

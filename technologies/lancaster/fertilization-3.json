@@ -37,6 +37,9 @@
   "displayClasses": [
     "Food Gathering Technology 2/3"
   ],
+  "displayClassesCN": [
+    "食物采集科技 2/3"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

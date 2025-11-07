@@ -58,6 +58,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -91,7 +94,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "ger-1",
@@ -122,6 +126,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": true,
       "costs": {
@@ -158,6 +165,9 @@
       },
       "influences": [
         "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+      ],
+      "influencesCN": [
+        "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
       ]
     }
   ]

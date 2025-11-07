@@ -14,6 +14,9 @@
   "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

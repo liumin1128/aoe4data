@@ -39,6 +39,9 @@
       "displayClasses": [
         "Building Technology"
       ],
+      "displayClassesCN": [
+        "建筑科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -88,6 +91,9 @@
       ],
       "displayClasses": [
         "Building Technology"
+      ],
+      "displayClassesCN": [
+        "建筑科技"
       ],
       "unique": true,
       "costs": {

@@ -40,6 +40,7 @@ export interface Item {
   civs: CivAbbr[];
   classes: ItemClass[];
   displayClasses: string[];
+  displayClassesCN: string[];
 
   name: string;
   nameCN: string;

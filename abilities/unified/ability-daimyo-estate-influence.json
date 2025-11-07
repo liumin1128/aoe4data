@@ -29,6 +29,9 @@
       "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

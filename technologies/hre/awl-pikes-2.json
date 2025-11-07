@@ -23,6 +23,9 @@
   "displayClasses": [
     "Spearman and Horseman Technology"
   ],
+  "displayClassesCN": [
+    "长矛兵和骑手科技"
+  ],
   "unique": true,
   "costs": {
     "food": 75,

@@ -47,6 +47,9 @@
       "displayClasses": [
         "Arbalétrier Technology"
       ],
+      "displayClassesCN": [
+        "弓弩手科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -100,6 +103,9 @@
       ],
       "displayClasses": [
         "Arbalétrier Technology"
+      ],
+      "displayClassesCN": [
+        "弓弩手科技"
       ],
       "unique": true,
       "costs": {

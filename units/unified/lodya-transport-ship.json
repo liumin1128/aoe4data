@@ -54,6 +54,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

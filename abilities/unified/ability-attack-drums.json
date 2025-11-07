@@ -29,6 +29,9 @@
       "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的攻击速度 +15%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

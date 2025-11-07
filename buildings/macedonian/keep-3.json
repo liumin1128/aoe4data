@@ -26,6 +26,9 @@
   "displayClasses": [
     "Defensive Building"
   ],
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -116,5 +119,6 @@
       "khan"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

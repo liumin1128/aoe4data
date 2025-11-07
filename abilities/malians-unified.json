@@ -40,6 +40,9 @@
           "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -102,6 +105,9 @@
           "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "沿海航行"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -169,6 +175,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -238,6 +247,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -300,6 +312,9 @@
           "descriptionCN": "可提升下一次攻击造成的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -377,6 +392,9 @@
           "descriptionCN": "村民的采集速率和移动速度提升 +50%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -443,6 +461,9 @@
           "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -510,6 +531,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -574,6 +598,9 @@
           "descriptionCN": "所有单位生产速度 +100%，持续 90 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -648,6 +675,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -712,6 +742,9 @@
           "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

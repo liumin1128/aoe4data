@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -100,7 +103,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -154,6 +158,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -193,7 +200,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -243,6 +251,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -276,7 +287,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -348,6 +360,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -392,7 +407,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -450,6 +466,9 @@
           "displayClasses": [
             "Age III - Defensive Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：防御地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -483,7 +502,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -543,6 +563,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -583,7 +606,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -651,6 +675,9 @@
           "displayClasses": [
             "Age II - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -684,7 +711,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -736,6 +764,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -769,7 +800,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -821,6 +853,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -854,7 +889,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -916,6 +952,9 @@
           "displayClasses": [
             "Age IV - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -949,7 +988,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -998,6 +1038,9 @@
           ],
           "displayClasses": [
             "Population Building"
+          ],
+          "displayClassesCN": [
+            "人口建筑"
           ],
           "unique": false,
           "costs": {
@@ -1232,7 +1275,8 @@
               "infantry ranged"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1290,6 +1334,9 @@
           "displayClasses": [
             "Age III - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -1323,7 +1370,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1375,6 +1423,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1414,7 +1465,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1470,6 +1522,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1503,7 +1558,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1559,6 +1615,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1592,7 +1651,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1648,6 +1708,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1692,7 +1755,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1752,6 +1816,9 @@
           "displayClasses": [
             "Age IV - Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代 - 地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -1785,7 +1852,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1837,6 +1905,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1876,7 +1947,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1928,6 +2000,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1967,7 +2042,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2021,6 +2097,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2060,7 +2139,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2114,6 +2194,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2153,7 +2236,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2205,6 +2289,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2238,7 +2325,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2290,6 +2378,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2323,7 +2414,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2376,6 +2468,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2449,7 +2544,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2507,6 +2603,9 @@
           "displayClasses": [
             "Age II - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -2540,7 +2639,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2604,6 +2704,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2648,7 +2751,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2709,6 +2813,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -3766,7 +3873,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -3812,6 +3920,9 @@
           "displayClasses": [
             "Economy Elephant"
           ],
+          "displayClassesCN": [
+            "经济大象"
+          ],
           "unique": true,
           "costs": {
             "food": 25,
@@ -3844,7 +3955,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     }

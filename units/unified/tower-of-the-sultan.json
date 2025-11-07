@@ -52,6 +52,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

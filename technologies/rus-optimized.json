@@ -59,6 +59,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -169,6 +172,9 @@
           "displayClasses": [
             "Mangonel Technology"
           ],
+          "displayClassesCN": [
+            "轻型投石车科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -277,6 +283,9 @@
           ],
           "displayClasses": [
             "Ranged Armor Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "远程护甲科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -403,6 +412,9 @@
           "displayClasses": [
             "Naval Technology 1/2"
           ],
+          "displayClassesCN": [
+            "海军科技 1/2"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -492,6 +504,9 @@
           ],
           "displayClasses": [
             "Weapon Emplacement"
+          ],
+          "displayClassesCN": [
+            "武器炮台"
           ],
           "unique": false,
           "costs": {
@@ -605,6 +620,9 @@
           "displayClasses": [
             "Ranged Damage Technology 2/3"
           ],
+          "displayClassesCN": [
+            "远程伤害科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -709,6 +727,9 @@
           "displayClasses": [
             "Springald Technology"
           ],
+          "displayClassesCN": [
+            "扭力弩炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -809,6 +830,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": false,
           "costs": {
@@ -919,6 +943,9 @@
           "displayClasses": [
             "Melee Damage Technology 1/3"
           ],
+          "displayClassesCN": [
+            "近战伤害科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -1028,6 +1055,9 @@
           "displayClasses": [
             "Defensive Technology"
           ],
+          "displayClassesCN": [
+            "防御科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1114,6 +1144,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -1226,6 +1259,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1308,6 +1344,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1382,6 +1421,9 @@
           ],
           "displayClasses": [
             "Vision Emplacement"
+          ],
+          "displayClassesCN": [
+            "视野炮台"
           ],
           "unique": true,
           "costs": {
@@ -1491,6 +1533,9 @@
           ],
           "displayClasses": [
             "Gunpowder Technology"
+          ],
+          "displayClassesCN": [
+            "火药科技"
           ],
           "unique": false,
           "costs": {
@@ -1622,6 +1667,9 @@
           "displayClasses": [
             "Building Technology"
           ],
+          "displayClassesCN": [
+            "建筑科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1737,6 +1785,9 @@
           "displayClasses": [
             "Wood Gathering Technology 3/3"
           ],
+          "displayClassesCN": [
+            "木材采集科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 250,
@@ -1843,6 +1894,9 @@
           ],
           "displayClasses": [
             "Mining Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "采矿科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -1960,6 +2014,9 @@
           "displayClasses": [
             "Melee Damage Technology 3/3"
           ],
+          "displayClassesCN": [
+            "近战伤害科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 150,
@@ -2069,6 +2126,9 @@
           "displayClasses": [
             "Melee Damage Technology 2/3"
           ],
+          "displayClassesCN": [
+            "近战伤害科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -2149,6 +2209,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -2260,6 +2323,9 @@
           "displayClasses": [
             "Wood Gathering Technology 1/3"
           ],
+          "displayClassesCN": [
+            "木材采集科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -2368,6 +2434,9 @@
           ],
           "displayClasses": [
             "Fishing Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "捕鱼科技 2/2"
           ],
           "unique": false,
           "costs": {
@@ -2499,6 +2568,9 @@
           "displayClasses": [
             "Melee Infantry Technology"
           ],
+          "displayClassesCN": [
+            "近战步兵科技"
+          ],
           "unique": false,
           "costs": {
             "food": 500,
@@ -2627,6 +2699,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 150,
@@ -2738,6 +2813,9 @@
           ],
           "displayClasses": [
             "Fishing Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "捕鱼科技 1/2"
           ],
           "unique": false,
           "costs": {
@@ -2863,6 +2941,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2975,6 +3056,9 @@
           "displayClasses": [
             "Food Gathering Technology 2/3"
           ],
+          "displayClassesCN": [
+            "食物采集科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3055,6 +3139,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -3168,6 +3255,9 @@
           ],
           "displayClasses": [
             "Bombard Technology"
+          ],
+          "displayClassesCN": [
+            "手推炮科技"
           ],
           "unique": true,
           "costs": {
@@ -3298,6 +3388,9 @@
           "displayClasses": [
             "Melee Armor Technology 1/3"
           ],
+          "displayClassesCN": [
+            "近战护甲科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -3419,6 +3512,9 @@
           "displayClasses": [
             "Woodcutting Technology"
           ],
+          "displayClassesCN": [
+            "伐木科技"
+          ],
           "unique": false,
           "costs": {
             "food": 25,
@@ -3527,6 +3623,9 @@
           ],
           "displayClasses": [
             "Trebuchet Technology"
+          ],
+          "displayClassesCN": [
+            "巨型投石机科技"
           ],
           "unique": false,
           "costs": {
@@ -3638,6 +3737,9 @@
           ],
           "displayClasses": [
             "Siege Technology"
+          ],
+          "displayClassesCN": [
+            "攻城科技"
           ],
           "unique": false,
           "costs": {
@@ -3752,6 +3854,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3859,6 +3964,9 @@
           ],
           "displayClasses": [
             "Healing Technology"
+          ],
+          "displayClassesCN": [
+            "治疗科技"
           ],
           "unique": false,
           "costs": {
@@ -3979,6 +4087,9 @@
           "displayClasses": [
             "Food Gathering Technology 1/3"
           ],
+          "displayClassesCN": [
+            "食物采集科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4090,6 +4201,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 75,
@@ -4199,6 +4313,9 @@
           ],
           "displayClasses": [
             "Ranged Technology"
+          ],
+          "displayClassesCN": [
+            "远程科技"
           ],
           "unique": false,
           "costs": {
@@ -4348,6 +4465,9 @@
           "displayClasses": [
             "Melee Armor Technology 2/3"
           ],
+          "displayClassesCN": [
+            "近战护甲科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -4473,6 +4593,9 @@
           "displayClasses": [
             "Ranged Armor Technology 1/3"
           ],
+          "displayClassesCN": [
+            "远程护甲科技 1/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4565,6 +4688,9 @@
           ],
           "displayClasses": [
             "Knight Technology"
+          ],
+          "displayClassesCN": [
+            "骑士科技"
           ],
           "unique": true,
           "costs": {
@@ -4674,6 +4800,9 @@
           ],
           "displayClasses": [
             "Battering Ram Technology"
+          ],
+          "displayClassesCN": [
+            "攻城锤科技"
           ],
           "unique": false,
           "costs": {
@@ -4799,6 +4928,9 @@
           "displayClasses": [
             "Wood Gathering Technology 2/3"
           ],
+          "displayClassesCN": [
+            "木材采集科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 100,
@@ -4907,6 +5039,9 @@
           ],
           "displayClasses": [
             "Melee Armor Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "近战护甲科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -5031,6 +5166,9 @@
           "displayClasses": [
             "Production Technology"
           ],
+          "displayClassesCN": [
+            "生产科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5130,6 +5268,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5196,6 +5337,9 @@
           ],
           "displayClasses": [
             "Horse Archer Technology"
+          ],
+          "displayClassesCN": [
+            "骑射手科技"
           ],
           "unique": true,
           "costs": {
@@ -5304,6 +5448,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5392,6 +5539,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": false,
           "costs": {
@@ -5511,6 +5661,9 @@
           ],
           "displayClasses": [
             "Ranged Damage Technology 3/3"
+          ],
+          "displayClassesCN": [
+            "远程伤害科技 3/3"
           ],
           "unique": false,
           "costs": {
@@ -5642,6 +5795,9 @@
           "displayClasses": [
             "Food Gathering Technology 3/3"
           ],
+          "displayClassesCN": [
+            "食物采集科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5750,6 +5906,9 @@
           ],
           "displayClasses": [
             "Hunting Technology"
+          ],
+          "displayClassesCN": [
+            "狩猎科技"
           ],
           "unique": false,
           "costs": {
@@ -5878,6 +6037,9 @@
           "displayClasses": [
             "Springald Technology"
           ],
+          "displayClassesCN": [
+            "扭力弩炮科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -5969,6 +6131,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -6071,6 +6236,9 @@
           "displayClasses": [
             "Gunpowder Technology"
           ],
+          "displayClassesCN": [
+            "火药科技"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6165,6 +6333,9 @@
           ],
           "displayClasses": [
             "Mining Technology 2/3"
+          ],
+          "displayClassesCN": [
+            "采矿科技 2/3"
           ],
           "unique": false,
           "costs": {
@@ -6265,6 +6436,9 @@
           "displayClasses": [
             "Naval Technology 2/2"
           ],
+          "displayClassesCN": [
+            "海军科技 2/2"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -6364,6 +6538,9 @@
             "Mangonel",
             "Trebuchet",
             "and Bombard Technology"
+          ],
+          "displayClassesCN": [
+            "轻型投石车、巨型投石机和手推炮科技"
           ],
           "unique": true,
           "costs": {
@@ -6473,6 +6650,9 @@
           ],
           "displayClasses": [
             "Siege Unit Unlock"
+          ],
+          "displayClassesCN": [
+            "攻城单位解锁"
           ],
           "unique": false,
           "costs": {
@@ -6585,6 +6765,9 @@
           "displayClasses": [
             "Siege Technology"
           ],
+          "displayClassesCN": [
+            "攻城科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -6688,6 +6871,9 @@
           "displayClasses": [
             "Archer Technology"
           ],
+          "displayClassesCN": [
+            "步弓手科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -6782,6 +6968,9 @@
           ],
           "displayClasses": [
             "Mining Technology 1/3"
+          ],
+          "displayClassesCN": [
+            "采矿科技 1/3"
           ],
           "unique": false,
           "costs": {
@@ -6904,6 +7093,9 @@
           ],
           "displayClasses": [
             "Naval Technology"
+          ],
+          "displayClassesCN": [
+            "海军科技"
           ],
           "unique": false,
           "costs": {
@@ -7031,6 +7223,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -7139,6 +7334,9 @@
           ],
           "displayClasses": [
             "Scout Technology"
+          ],
+          "displayClassesCN": [
+            "侦察兵科技"
           ],
           "unique": false,
           "costs": {
@@ -7251,6 +7449,9 @@
           ],
           "displayClasses": [
             "Ranged Damage Technology 1/3"
+          ],
+          "displayClassesCN": [
+            "远程伤害科技 1/3"
           ],
           "unique": false,
           "costs": {
@@ -7382,6 +7583,9 @@
           "displayClasses": [
             "Hunting Technology"
           ],
+          "displayClassesCN": [
+            "狩猎科技"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -7492,6 +7696,9 @@
           ],
           "displayClasses": [
             "Naval Technology"
+          ],
+          "displayClassesCN": [
+            "海军科技"
           ],
           "unique": false,
           "costs": {
@@ -7609,6 +7816,9 @@
           "displayClasses": [
             "Villager Technology"
           ],
+          "displayClassesCN": [
+            "村民科技"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -7706,6 +7916,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": false,
           "costs": {
@@ -7814,6 +8027,9 @@
           "displayClasses": [
             "Militia Scaling Technology"
           ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -7908,6 +8124,9 @@
           ],
           "displayClasses": [
             "Militia Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -8009,6 +8228,9 @@
           ],
           "displayClasses": [
             "Ram Technology"
+          ],
+          "displayClassesCN": [
+            "冲车科技"
           ],
           "unique": true,
           "costs": {
@@ -8132,6 +8354,9 @@
           "displayClasses": [
             "Ranged Armor Technology 2/3"
           ],
+          "displayClassesCN": [
+            "远程护甲科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -8250,6 +8475,9 @@
           ],
           "displayClasses": [
             "Villager Technology"
+          ],
+          "displayClassesCN": [
+            "村民科技"
           ],
           "unique": false,
           "costs": {

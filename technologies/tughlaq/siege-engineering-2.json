@@ -22,6 +22,9 @@
   "displayClasses": [
     "Siege Unit Unlock"
   ],
+  "displayClassesCN": [
+    "攻城单位解锁"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

@@ -22,6 +22,9 @@
   "displayClasses": [
     "Population Building"
   ],
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -255,5 +258,6 @@
       "infantry ranged"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

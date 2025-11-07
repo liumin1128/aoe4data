@@ -47,6 +47,9 @@
       "displayClasses": [
         "Trade Technology"
       ],
+      "displayClassesCN": [
+        "贸易科技"
+      ],
       "unique": true,
       "costs": {
         "food": 200,
@@ -101,6 +104,9 @@
       ],
       "displayClasses": [
         "Trade Technology"
+      ],
+      "displayClassesCN": [
+        "贸易科技"
       ],
       "unique": true,
       "costs": {

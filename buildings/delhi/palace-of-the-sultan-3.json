@@ -26,6 +26,9 @@
   "displayClasses": [
     "Age IV - Military Landmark"
   ],
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "unique": true,
   "costs": {
     "food": 2400,
@@ -65,5 +68,6 @@
       "monk"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

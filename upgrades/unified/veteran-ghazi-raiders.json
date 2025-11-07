@@ -46,6 +46,9 @@
       "displayClasses": [
         "Unit Technology 1/2"
       ],
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "unique": false,
       "costs": {
         "food": 0,

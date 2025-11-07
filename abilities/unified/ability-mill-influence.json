@@ -29,6 +29,9 @@
       "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

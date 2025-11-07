@@ -30,6 +30,9 @@
       "descriptionCN": "军事船只的攻击速度 +5%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -78,6 +81,9 @@
       "descriptionCN": "军事船只的攻击速度 +5%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

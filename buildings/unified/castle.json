@@ -53,6 +53,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -153,7 +156,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "castle-4",
@@ -181,6 +185,9 @@
       ],
       "displayClasses": [
         "Defensive Building"
+      ],
+      "displayClassesCN": [
+        "防御建筑"
       ],
       "unique": true,
       "costs": {
@@ -1179,7 +1186,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

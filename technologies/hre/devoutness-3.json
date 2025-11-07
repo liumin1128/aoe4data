@@ -22,6 +22,9 @@
   "displayClasses": [
     "Prelate Technology"
   ],
+  "displayClassesCN": [
+    "高级教士科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

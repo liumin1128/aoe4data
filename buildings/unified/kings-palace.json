@@ -70,6 +70,9 @@
       "displayClasses": [
         "Age III - Landmark"
       ],
+      "displayClassesCN": [
+        "第三时代：地标"
+      ],
       "unique": true,
       "costs": {
         "food": 1200,
@@ -114,7 +117,8 @@
           "khan"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

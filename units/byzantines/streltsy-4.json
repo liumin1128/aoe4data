@@ -29,6 +29,9 @@
   "displayClasses": [
     "Ranged Gunpowder Infantry"
   ],
+  "displayClassesCN": [
+    "远程火药步兵"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

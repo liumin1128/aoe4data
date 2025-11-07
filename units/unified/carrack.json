@@ -66,6 +66,9 @@
       "displayClasses": [
         "Warship"
       ],
+      "displayClassesCN": [
+        "战船"
+      ],
       "unique": false,
       "costs": {
         "food": 200,
@@ -174,6 +177,9 @@
       ],
       "displayClasses": [
         "Warship"
+      ],
+      "displayClassesCN": [
+        "战船"
       ],
       "unique": false,
       "costs": {
@@ -284,6 +290,9 @@
       "displayClasses": [
         "Warship"
       ],
+      "displayClassesCN": [
+        "战船"
+      ],
       "unique": false,
       "costs": {
         "food": 200,
@@ -392,6 +401,9 @@
       ],
       "displayClasses": [
         "Warship"
+      ],
+      "displayClassesCN": [
+        "战船"
       ],
       "unique": false,
       "costs": {
@@ -502,6 +514,9 @@
       "displayClasses": [
         "Warship"
       ],
+      "displayClassesCN": [
+        "战船"
+      ],
       "unique": false,
       "costs": {
         "food": 200,
@@ -610,6 +625,9 @@
       ],
       "displayClasses": [
         "Warship"
+      ],
+      "displayClassesCN": [
+        "战船"
       ],
       "unique": false,
       "costs": {
@@ -720,6 +738,9 @@
       "displayClasses": [
         "Warship"
       ],
+      "displayClassesCN": [
+        "战船"
+      ],
       "unique": false,
       "costs": {
         "food": 200,
@@ -828,6 +849,9 @@
       ],
       "displayClasses": [
         "Warship"
+      ],
+      "displayClassesCN": [
+        "战船"
       ],
       "unique": false,
       "costs": {

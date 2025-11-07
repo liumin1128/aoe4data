@@ -45,6 +45,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -87,7 +90,8 @@
           "monk"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "village-1",
@@ -111,6 +115,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": true,
       "costs": {
@@ -193,7 +200,8 @@
           "monk"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

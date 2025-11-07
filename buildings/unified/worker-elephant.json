@@ -42,6 +42,9 @@
       "displayClasses": [
         "Economy Elephant"
       ],
+      "displayClassesCN": [
+        "经济大象"
+      ],
       "unique": true,
       "costs": {
         "food": 25,
@@ -74,7 +77,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

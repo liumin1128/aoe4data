@@ -57,6 +57,9 @@
       "displayClasses": [
         "Age IV - Military Landmark"
       ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "unique": true,
       "costs": {
         "food": 2400,
@@ -92,6 +95,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -121,6 +127,9 @@
       ],
       "displayClasses": [
         "Age IV - Military Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
       ],
       "unique": true,
       "costs": {
@@ -155,7 +164,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

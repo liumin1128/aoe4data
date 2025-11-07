@@ -73,6 +73,9 @@
           "displayClasses": [
             "Heavy Melee Infantry"
           ],
+          "displayClassesCN": [
+            "重装近战步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -247,6 +250,9 @@
       "nameCN": "步弓手",
       "age": 2,
       "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 30,
         "wood": 50,
@@ -560,6 +566,9 @@
           "displayClasses": [
             "Springald Ship"
           ],
+          "displayClassesCN": [
+            "扭力弩炮船"
+          ],
           "unique": false,
           "costs": {
             "food": 110,
@@ -707,6 +716,9 @@
       "nameCN": "弩炮大象",
       "age": 3,
       "descriptionCN": "安装在象背上的弩炮能够有效对付近战步兵和打击多个目标。\n+ 高生命值和高护甲\n+ 对近战单位造成额外伤害\n- 移动速度慢",
+      "displayClassesCN": [
+        "重装骑兵，大象"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -931,6 +943,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1074,6 +1089,9 @@
           "displayClasses": [
             "Siege",
             "Gunpowder"
+          ],
+          "displayClassesCN": [
+            "攻城、火药"
           ],
           "unique": false,
           "costs": {
@@ -1249,6 +1267,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1393,6 +1414,9 @@
       "nameCN": "弩手",
       "age": 3,
       "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 80,
         "wood": 0,
@@ -1587,6 +1611,9 @@
           "displayClasses": [
             "Archer Ship"
           ],
+          "displayClassesCN": [
+            "步弓手船"
+          ],
           "unique": false,
           "costs": {
             "food": 80,
@@ -1726,6 +1753,9 @@
           ],
           "displayClasses": [
             "Incendiary Ship"
+          ],
+          "displayClassesCN": [
+            "燃烧船"
           ],
           "unique": false,
           "costs": {
@@ -1871,6 +1901,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2004,6 +2037,9 @@
           "displayClasses": [
             "Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 120,
@@ -2118,6 +2154,9 @@
       "nameCN": "医疗大象",
       "age": 2,
       "descriptionCN": "后勤大象驮着两名伊玛目，每名伊玛目都可以单独治疗盟友单位。周围有近战步兵时，会获得额外伤害，并能占领圣地。\n+ 高生命值和护甲\n- 移动速度慢\n- 会受到长矛兵和弩手克制",
+      "displayClassesCN": [
+        "重装近战骑兵、大象"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -2314,6 +2353,9 @@
           "displayClasses": [
             "Religious"
           ],
+          "displayClassesCN": [
+            "宗教"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2404,6 +2446,9 @@
       "nameCN": "长矛骑兵",
       "age": 3,
       "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "costs": {
         "food": 140,
         "wood": 0,
@@ -2660,6 +2705,9 @@
       "nameCN": "武士",
       "age": 3,
       "descriptionCN": "强悍的步兵，具有良好的杀伤力。\n+ 高护甲\n- 移动速度较慢\n- 会受到骑士、火枪骑兵和弩手克制",
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -2871,6 +2919,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -3161,6 +3212,9 @@
       "nameCN": "突袭大象",
       "age": 2,
       "descriptionCN": "迅捷大象，擅长突袭、侧翼攻击和克制远程单位。可以使用践踏能力绕过任何单位，在一片区域内造成伤害。\n+ 高生命值\n+ 移动速度快\n+ 冲锋距离更远\n- 会受到长矛兵克制",
+      "displayClassesCN": [
+        "轻装骑兵，大象"
+      ],
       "costs": {
         "food": 200,
         "wood": 40,
@@ -3457,6 +3511,9 @@
           "displayClasses": [
             "Light Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
+          ],
           "unique": false,
           "costs": {
             "food": 65,
@@ -3597,6 +3654,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3720,6 +3780,9 @@
       "nameCN": "长矛兵",
       "age": 1,
       "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "costs": {
         "food": 60,
         "wood": 20,
@@ -4142,6 +4205,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4222,6 +4288,9 @@
           ],
           "displayClasses": [
             "Worker"
+          ],
+          "displayClassesCN": [
+            "工人"
           ],
           "unique": false,
           "costs": {
@@ -4309,6 +4378,9 @@
           ],
           "displayClasses": [
             "Ship"
+          ],
+          "displayClassesCN": [
+            "船只"
           ],
           "unique": false,
           "costs": {
@@ -4404,6 +4476,9 @@
           ],
           "displayClasses": [
             "Worker"
+          ],
+          "displayClassesCN": [
+            "工人"
           ],
           "unique": false,
           "costs": {
@@ -4555,6 +4630,9 @@
           "displayClasses": [
             "Heavy Melee Cavalry",
             "Elephant"
+          ],
+          "displayClassesCN": [
+            "重装近战骑兵、大象"
           ],
           "unique": true,
           "costs": {
@@ -4749,6 +4827,9 @@
             "Economic Unit",
             "Elephant"
           ],
+          "displayClassesCN": [
+            "经济单位，大象"
+          ],
           "unique": true,
           "costs": {
             "food": 25,
@@ -4868,6 +4949,9 @@
           ],
           "displayClasses": [
             "Warship"
+          ],
+          "displayClassesCN": [
+            "战船"
           ],
           "unique": false,
           "costs": {

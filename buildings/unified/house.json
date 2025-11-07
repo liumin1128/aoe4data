@@ -62,6 +62,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -97,6 +100,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -122,6 +128,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -157,6 +166,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ]
     },
     {
@@ -181,6 +193,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -217,6 +232,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -241,6 +259,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -275,7 +296,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -300,6 +322,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -534,7 +559,8 @@
           "infantry ranged"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -559,6 +585,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -592,7 +621,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -617,6 +647,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -650,7 +683,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -674,6 +708,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -710,6 +747,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -734,6 +774,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -768,7 +811,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -792,6 +836,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -827,7 +874,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -852,6 +900,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -885,7 +936,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -910,6 +962,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -943,7 +998,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -967,6 +1023,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1003,6 +1062,9 @@
       },
       "influences": [
         "The Gold extraction rate of Open Pit Mines is increased by +25% for each House or Mining Camp built within the influence."
+      ],
+      "influencesCN": [
+        "在露天矿区的影响范围内每建造一座房屋或一座采矿场，露天矿区的开采速率 +25%。"
       ]
     },
     {
@@ -1027,6 +1089,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1063,6 +1128,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -1088,6 +1156,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1121,7 +1192,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -1146,6 +1218,9 @@
       "displayClasses": [
         "Population Building"
       ],
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1179,7 +1254,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -1204,6 +1280,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1438,7 +1517,8 @@
           "infantry ranged"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "house-1",
@@ -1462,6 +1542,9 @@
       ],
       "displayClasses": [
         "Population Building"
+      ],
+      "displayClassesCN": [
+        "人口建筑"
       ],
       "unique": false,
       "costs": {
@@ -1496,7 +1579,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

@@ -33,6 +33,9 @@
   "displayClasses": [
     "Religious Technology"
   ],
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

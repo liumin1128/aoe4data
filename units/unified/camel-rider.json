@@ -68,6 +68,9 @@
         "Light Melee Cavalry",
         "Camel"
       ],
+      "displayClassesCN": [
+        "轻型近战骑兵、骆驼"
+      ],
       "unique": true,
       "costs": {
         "food": 130,
@@ -207,6 +210,9 @@
       "displayClasses": [
         "Light Melee Cavalry",
         "Camel"
+      ],
+      "displayClassesCN": [
+        "轻型近战骑兵、骆驼"
       ],
       "unique": true,
       "costs": {
@@ -348,6 +354,9 @@
       "displayClasses": [
         "Light Melee Cavalry",
         "Camel"
+      ],
+      "displayClassesCN": [
+        "轻型近战骑兵、骆驼"
       ],
       "unique": false,
       "costs": {
@@ -492,6 +501,9 @@
       "displayClasses": [
         "Light Melee Cavalry",
         "Camel"
+      ],
+      "displayClassesCN": [
+        "轻型近战骑兵、骆驼"
       ],
       "unique": false,
       "costs": {

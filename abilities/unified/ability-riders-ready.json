@@ -29,6 +29,9 @@
       "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "号召能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

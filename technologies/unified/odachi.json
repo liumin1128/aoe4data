@@ -48,6 +48,9 @@
       "displayClasses": [
         "Samurai Technology"
       ],
+      "displayClassesCN": [
+        "日本武士科技"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

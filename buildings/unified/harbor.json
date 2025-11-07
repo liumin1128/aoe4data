@@ -56,6 +56,9 @@
         "Military & Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -123,7 +126,8 @@
           "fishing ship"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

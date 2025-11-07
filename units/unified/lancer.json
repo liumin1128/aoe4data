@@ -73,6 +73,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -195,6 +198,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Cavalry"
+      ],
+      "displayClassesCN": [
+        "重装近战骑兵"
       ],
       "unique": false,
       "costs": {
@@ -319,6 +325,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -442,6 +451,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -564,6 +576,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Cavalry"
+      ],
+      "displayClassesCN": [
+        "重装近战骑兵"
       ],
       "unique": false,
       "costs": {
@@ -711,6 +726,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -857,6 +875,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -981,6 +1002,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -1104,6 +1128,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Cavalry"
+      ],
+      "displayClassesCN": [
+        "重装近战骑兵"
       ],
       "unique": false,
       "costs": {
@@ -1251,6 +1278,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -1397,6 +1427,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 140,
@@ -1519,6 +1552,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Cavalry"
+      ],
+      "displayClassesCN": [
+        "重装近战骑兵"
       ],
       "unique": false,
       "costs": {

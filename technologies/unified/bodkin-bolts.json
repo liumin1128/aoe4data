@@ -38,6 +38,9 @@
       "displayClasses": [
         "Crossbow Technology"
       ],
+      "displayClassesCN": [
+        "弩箭科技"
+      ],
       "unique": true,
       "costs": {
         "food": 300,

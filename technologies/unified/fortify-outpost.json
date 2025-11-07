@@ -92,6 +92,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -170,6 +173,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -250,6 +256,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -328,6 +337,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -408,6 +420,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -486,6 +501,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -566,6 +584,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -644,6 +665,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -724,6 +748,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -802,6 +829,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -882,6 +912,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -960,6 +993,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -1040,6 +1076,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1118,6 +1157,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -1198,6 +1240,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1276,6 +1321,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {
@@ -1356,6 +1404,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1435,6 +1486,9 @@
       "displayClasses": [
         "Defensive Emplacement"
       ],
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1513,6 +1567,9 @@
       ],
       "displayClasses": [
         "Defensive Emplacement"
+      ],
+      "displayClassesCN": [
+        "防御炮台"
       ],
       "unique": false,
       "costs": {

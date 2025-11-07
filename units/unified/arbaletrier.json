@@ -70,6 +70,9 @@
       "displayClasses": [
         "Light Ranged Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -185,6 +188,9 @@
       "displayClasses": [
         "Light Ranged Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -297,6 +303,9 @@
       "displayClasses": [
         "Light Ranged Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 80,
@@ -405,6 +414,9 @@
       "displayClasses": [
         "Light Ranged Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 80,
@@ -511,6 +523,9 @@
       ],
       "displayClasses": [
         "Light Ranged Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型远程步兵"
       ],
       "unique": true,
       "costs": {
@@ -619,6 +634,9 @@
       ],
       "displayClasses": [
         "Light Ranged Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型远程步兵"
       ],
       "unique": true,
       "costs": {

@@ -73,6 +73,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -159,6 +162,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {
@@ -247,6 +253,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -333,6 +342,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {
@@ -421,6 +433,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -507,6 +522,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {
@@ -599,6 +617,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -685,6 +706,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {
@@ -773,6 +797,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -859,6 +886,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": true,
       "costs": {
@@ -947,6 +977,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -1033,6 +1066,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {
@@ -1121,6 +1157,9 @@
       "displayClasses": [
         "Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "远程火药步兵"
+      ],
       "unique": false,
       "costs": {
         "food": 120,
@@ -1207,6 +1246,9 @@
       ],
       "displayClasses": [
         "Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "远程火药步兵"
       ],
       "unique": false,
       "costs": {

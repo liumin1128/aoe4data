@@ -29,6 +29,9 @@
       "descriptionCN": "村民的采集速率和移动速度提升 +50%",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

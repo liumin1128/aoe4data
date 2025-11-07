@@ -29,6 +29,9 @@
       "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

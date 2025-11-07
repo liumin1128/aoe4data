@@ -29,6 +29,9 @@
       "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -62,6 +65,9 @@
       "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

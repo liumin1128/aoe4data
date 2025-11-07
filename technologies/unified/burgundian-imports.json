@@ -46,6 +46,9 @@
       "displayClasses": [
         "Handcannon Technology"
       ],
+      "displayClassesCN": [
+        "手铳科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

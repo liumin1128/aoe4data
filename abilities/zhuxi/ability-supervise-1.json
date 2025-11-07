@@ -14,6 +14,9 @@
   "descriptionCN": "使用朝廷命官监督研究、生产或存放建筑，使其工作速度提升 150%。存放资源的建筑可多接收 20% 资源。无法用于地标、城镇中心或码头。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

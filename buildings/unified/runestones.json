@@ -40,6 +40,9 @@
       "displayClasses": [
         "Varangian Enhancement"
       ],
+      "displayClassesCN": [
+        "瓦兰吉强化"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -69,7 +72,8 @@
         "line": 0,
         "height": 0
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

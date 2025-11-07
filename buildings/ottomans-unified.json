@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -96,6 +99,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -148,6 +154,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -181,7 +190,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -235,6 +245,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -270,6 +283,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -320,6 +336,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -355,6 +374,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -427,6 +449,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -472,7 +497,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -532,6 +558,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -573,6 +602,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -625,6 +657,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -658,7 +693,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -706,6 +742,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -739,7 +778,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -797,6 +837,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -830,7 +873,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -890,6 +934,9 @@
           "displayClasses": [
             "Age IV - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -925,6 +972,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -980,6 +1030,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -1072,7 +1125,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1124,6 +1178,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1157,7 +1214,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1213,6 +1271,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1246,7 +1307,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1312,6 +1374,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -1347,6 +1412,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -1401,6 +1469,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1436,6 +1507,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -1494,6 +1568,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1527,7 +1604,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1583,6 +1661,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1616,7 +1697,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1670,6 +1752,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1703,7 +1788,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1759,6 +1845,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1804,7 +1893,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1856,6 +1946,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1889,7 +1982,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -1941,6 +2035,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1974,7 +2071,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2041,6 +2139,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -2133,7 +2234,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2187,6 +2289,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2222,6 +2327,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -2276,6 +2384,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2311,6 +2422,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]
@@ -2363,6 +2477,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2396,7 +2513,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2448,6 +2566,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2481,7 +2602,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2534,6 +2656,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2607,7 +2732,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2669,6 +2795,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -2708,7 +2837,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2776,6 +2906,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2821,7 +2954,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2885,6 +3019,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -2918,7 +3055,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2968,6 +3106,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3003,6 +3144,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ]

@@ -22,6 +22,9 @@
   "displayClasses": [
     "Society Technology"
   ],
+  "displayClassesCN": [
+    "社会科技"
+  ],
   "unique": true,
   "costs": {
     "food": 200,

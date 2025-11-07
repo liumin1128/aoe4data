@@ -29,6 +29,9 @@
       "descriptionCN": "攻击敌人后，僧侣战士会在一段时间内提升邻近友方罗斯军事单位的护甲和伤害。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

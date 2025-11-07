@@ -29,6 +29,9 @@
       "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

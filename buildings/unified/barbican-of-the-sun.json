@@ -60,6 +60,9 @@
       "displayClasses": [
         "Age II - Defensive Landmark"
       ],
+      "displayClassesCN": [
+        "第二时代：防御地标"
+      ],
       "unique": true,
       "costs": {
         "food": 400,
@@ -598,7 +601,8 @@
           "cavalry"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

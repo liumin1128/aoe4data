@@ -14,6 +14,9 @@
   "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

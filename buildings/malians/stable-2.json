@@ -24,6 +24,9 @@
   "displayClasses": [
     "Military Building"
   ],
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -63,5 +66,6 @@
       "monk"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

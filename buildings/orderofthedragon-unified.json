@@ -69,6 +69,9 @@
           "displayClasses": [
             "Age II - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -104,6 +107,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -158,6 +164,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -193,6 +202,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -247,6 +259,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -282,6 +297,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -332,6 +350,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -367,6 +388,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -427,6 +451,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -462,6 +489,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -534,6 +564,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -580,6 +613,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -644,6 +680,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -685,6 +724,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -752,6 +794,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -844,6 +889,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -896,6 +944,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -929,7 +980,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -981,6 +1033,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -1016,6 +1071,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1064,6 +1122,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1099,6 +1160,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1156,6 +1220,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -1249,6 +1316,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1301,6 +1371,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1336,6 +1409,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1392,6 +1468,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1427,6 +1506,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1485,6 +1567,9 @@
           "displayClasses": [
             "Age II - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -1520,6 +1605,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1578,6 +1666,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1613,6 +1704,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1669,6 +1763,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1704,6 +1801,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1758,6 +1858,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1793,6 +1896,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1853,6 +1959,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1899,6 +2008,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -1973,6 +2085,9 @@
           "displayClasses": [
             "Age IV - Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代 - 地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2160,
@@ -2019,6 +2134,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -2071,6 +2189,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2104,7 +2225,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2156,6 +2278,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2189,7 +2314,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2255,6 +2381,9 @@
           "displayClasses": [
             "Age III - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -2290,6 +2419,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -2344,6 +2476,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2379,6 +2514,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -2433,6 +2571,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2468,6 +2609,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -2520,6 +2664,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2553,7 +2700,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2605,6 +2753,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2638,7 +2789,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2697,6 +2849,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2770,7 +2925,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ]
     },
@@ -2834,6 +2990,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2880,6 +3039,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]
@@ -2930,6 +3092,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2965,6 +3130,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         }
       ]

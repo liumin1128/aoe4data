@@ -60,6 +60,9 @@
         "Economic Unit",
         "Elephant"
       ],
+      "displayClassesCN": [
+        "经济单位，大象"
+      ],
       "unique": true,
       "costs": {
         "food": 25,

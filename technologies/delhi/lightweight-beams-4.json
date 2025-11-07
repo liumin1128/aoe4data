@@ -20,6 +20,9 @@
   "displayClasses": [
     "Battering Ram Technology"
   ],
+  "displayClassesCN": [
+    "攻城锤科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

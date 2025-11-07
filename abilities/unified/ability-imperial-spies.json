@@ -29,6 +29,9 @@
       "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

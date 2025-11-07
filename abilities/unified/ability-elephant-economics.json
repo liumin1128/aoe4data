@@ -29,6 +29,9 @@
       "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -49,6 +49,9 @@
       "displayClasses": [
         "Melee Infantry Technology"
       ],
+      "displayClassesCN": [
+        "近战步兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 500,
@@ -134,6 +137,9 @@
       ],
       "displayClasses": [
         "Melee Infantry Technology"
+      ],
+      "displayClassesCN": [
+        "近战步兵科技"
       ],
       "unique": true,
       "costs": {

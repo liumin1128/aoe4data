@@ -68,6 +68,9 @@
         "Light Ranged Cavalry",
         "Khaganate Unit"
       ],
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "unique": false,
       "costs": {
         "food": 0,

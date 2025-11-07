@@ -265,6 +265,9 @@
       "nameCN": "可调式横杆",
       "age": 4,
       "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
+      "displayClassesCN": [
+        "轻型投石车科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 1000,
@@ -339,6 +342,9 @@
           ],
           "displayClasses": [
             "Farm Technology"
+          ],
+          "displayClassesCN": [
+            "农田科技"
           ],
           "unique": true,
           "costs": {
@@ -661,6 +667,9 @@
       "nameCN": "斜面",
       "age": 4,
       "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+      "displayClassesCN": [
+        "远程护甲科技 3/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -749,6 +758,9 @@
           ],
           "displayClasses": [
             "Trade Technology"
+          ],
+          "displayClassesCN": [
+            "贸易科技"
           ],
           "unique": true,
           "costs": {
@@ -1075,6 +1087,9 @@
       "nameCN": "装甲船身",
       "age": 3,
       "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
+      "displayClassesCN": [
+        "海军科技 1/2"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -1373,6 +1388,9 @@
       "nameCN": "射箭槽",
       "age": 2,
       "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1684,6 +1702,9 @@
       "nameCN": "平衡炮弹",
       "age": 3,
       "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
+      "displayClassesCN": [
+        "远程伤害科技 2/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -1873,6 +1894,9 @@
           "displayClasses": [
             "Lancer Technology"
           ],
+          "displayClassesCN": [
+            "长矛骑兵科技"
+          ],
           "producedBy": [
             "blacksmith"
           ]
@@ -2017,6 +2041,9 @@
       "nameCN": "生物学",
       "age": 4,
       "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "costs": {
         "food": 500,
         "wood": 0,
@@ -2314,6 +2341,9 @@
       "nameCN": "熟铁块吹炼法",
       "age": 2,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 1/3"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -2627,6 +2657,9 @@
       "nameCN": "沸油",
       "age": 3,
       "descriptionCN": "箭塔和城堡能对附近敌方单位倾倒沸油，对其造成 30 伤害。",
+      "displayClassesCN": [
+        "防御科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2711,6 +2744,9 @@
           "displayClasses": [
             "Infantry Technology"
           ],
+          "displayClassesCN": [
+            "步兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 25,
@@ -2792,6 +2828,9 @@
           "displayClasses": [
             "Camel Technology"
           ],
+          "displayClassesCN": [
+            "骆驼科技"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -2871,6 +2910,9 @@
           ],
           "displayClasses": [
             "Camel Rider Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "骆驼骑兵科技 2/2"
           ],
           "unique": true,
           "costs": {
@@ -2964,6 +3006,9 @@
           "displayClasses": [
             "Camel Rider Technology 1/2"
           ],
+          "displayClassesCN": [
+            "骆驼骑兵科技 1/2"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -3044,6 +3089,9 @@
           ],
           "displayClasses": [
             "Camel Technology"
+          ],
+          "displayClassesCN": [
+            "骆驼科技"
           ],
           "unique": true,
           "costs": {
@@ -3398,6 +3446,9 @@
       "nameCN": "加农炮炮台",
       "age": 4,
       "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -3764,6 +3815,9 @@
       "nameCN": "化学",
       "age": 4,
       "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
+      "displayClassesCN": [
+        "火药科技"
+      ],
       "costs": {
         "food": 200,
         "wood": 0,
@@ -3861,6 +3915,9 @@
           ],
           "displayClasses": [
             "Archer Technology"
+          ],
+          "displayClassesCN": [
+            "步弓手科技"
           ],
           "unique": true,
           "costs": {
@@ -4179,6 +4236,9 @@
       "nameCN": "宫廷建筑师",
       "age": 3,
       "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
+      "displayClassesCN": [
+        "建筑科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4535,6 +4595,9 @@
       "nameCN": "横切锯",
       "age": 4,
       "descriptionCN": "村民的木材采集速率 +15%，木材采集者运载量 +5。",
+      "displayClassesCN": [
+        "木材采集科技 3/3"
+      ],
       "costs": {
         "food": 250,
         "wood": 0,
@@ -4611,6 +4674,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -4946,6 +5012,9 @@
       "nameCN": "灰吹法",
       "age": 4,
       "descriptionCN": "黄金采集者存放资源量额外 +15%。",
+      "displayClassesCN": [
+        "采矿科技 3/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 250,
@@ -5258,6 +5327,9 @@
       "nameCN": "大马士革钢",
       "age": 4,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 3/3"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -5555,6 +5627,9 @@
       "nameCN": "脱碳",
       "age": 3,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 2/3"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -5863,6 +5938,9 @@
       "nameCN": "双阔斧",
       "age": 2,
       "descriptionCN": "村民的木材采集速率 +15%。",
+      "displayClassesCN": [
+        "木材采集科技 1/3"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -6181,6 +6259,9 @@
       "nameCN": "流刺网",
       "age": 3,
       "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
+      "displayClassesCN": [
+        "捕鱼科技 2/2"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -6282,6 +6363,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -6596,6 +6680,9 @@
       "nameCN": "精锐军队战术",
       "age": 4,
       "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
+      "displayClassesCN": [
+        "近战步兵科技"
+      ],
       "costs": {
         "food": 500,
         "wood": 0,
@@ -6921,6 +7008,9 @@
       "nameCN": "炸药",
       "age": 4,
       "descriptionCN": "燃烧船伤害 +40%。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -7242,6 +7332,9 @@
       "nameCN": "延绳钓",
       "age": 2,
       "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
+      "displayClassesCN": [
+        "捕鱼科技 1/2"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -7563,6 +7656,9 @@
       "nameCN": "额外吊床",
       "age": 3,
       "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -7640,6 +7736,9 @@
           ],
           "displayClasses": [
             "Economic Technology"
+          ],
+          "displayClassesCN": [
+            "经济科技"
           ],
           "unique": true,
           "costs": {
@@ -7949,6 +8048,9 @@
       "nameCN": "施肥",
       "age": 3,
       "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
+      "displayClassesCN": [
+        "食物采集科技 2/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -8259,6 +8361,9 @@
       "nameCN": "合身皮具",
       "age": 2,
       "descriptionCN": "所有非攻城单位的近战护甲 +1。",
+      "displayClassesCN": [
+        "近战护甲科技 1/3"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -8592,6 +8697,9 @@
       "nameCN": "林业",
       "age": 1,
       "descriptionCN": "村民伐木速率加倍。",
+      "displayClassesCN": [
+        "伐木科技"
+      ],
       "costs": {
         "food": 25,
         "wood": 0,
@@ -8835,6 +8943,9 @@
       "nameCN": "强化哨站",
       "age": 2,
       "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
+      "displayClassesCN": [
+        "防御炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8920,6 +9031,9 @@
           ],
           "displayClasses": [
             "Villager Technology"
+          ],
+          "displayClassesCN": [
+            "村民科技"
           ],
           "unique": true,
           "costs": {
@@ -9152,6 +9266,9 @@
           ],
           "displayClasses": [
             "Siege Technology"
+          ],
+          "displayClassesCN": [
+            "攻城科技"
           ]
         },
         {
@@ -9225,6 +9342,9 @@
       "nameCN": "几何学",
       "age": 4,
       "descriptionCN": "巨型投石机的伤害 +20%。",
+      "displayClassesCN": [
+        "巨型投石机科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -9301,6 +9421,9 @@
           ],
           "displayClasses": [
             "Trade Technology"
+          ],
+          "displayClassesCN": [
+            "贸易科技"
           ],
           "unique": true,
           "costs": {
@@ -9621,6 +9744,9 @@
       "nameCN": "润滑轮轴",
       "age": 3,
       "descriptionCN": "攻城器械的移动速度 +15%。",
+      "displayClassesCN": [
+        "攻城科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -9931,6 +10057,9 @@
       "nameCN": "加热射击",
       "age": 4,
       "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -10280,6 +10409,9 @@
       "nameCN": "草药",
       "age": 3,
       "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
+      "displayClassesCN": [
+        "治疗科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -10589,6 +10721,9 @@
       "nameCN": "园艺学",
       "age": 2,
       "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
+      "displayClassesCN": [
+        "食物采集科技 1/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -10663,6 +10798,9 @@
           ],
           "displayClasses": [
             "Economic Technology"
+          ],
+          "displayClassesCN": [
+            "经济科技"
           ],
           "unique": true,
           "costs": {
@@ -10958,6 +11096,9 @@
       "nameCN": "燃烧弹",
       "age": 3,
       "descriptionCN": "燃烧船的爆炸范围 +20%。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 75,
         "wood": 0,
@@ -11304,6 +11445,9 @@
       "nameCN": "燃烧箭",
       "age": 4,
       "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
+      "displayClassesCN": [
+        "远程科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 500,
@@ -11651,6 +11795,9 @@
       "nameCN": "绝缘头盔",
       "age": 3,
       "descriptionCN": "所有非攻城单位的近战护甲 +1。",
+      "displayClassesCN": [
+        "近战护甲科技 2/3"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -11975,6 +12122,9 @@
       "nameCN": "铁制底网",
       "age": 2,
       "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+      "displayClassesCN": [
+        "远程护甲科技 1/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -12300,6 +12450,9 @@
       "nameCN": "轻质横梁",
       "age": 4,
       "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
+      "displayClassesCN": [
+        "攻城锤科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 300,
@@ -12621,6 +12774,9 @@
       "nameCN": "木材保存",
       "age": 3,
       "descriptionCN": "村民的木材采集速率 +15%。",
+      "displayClassesCN": [
+        "木材采集科技 2/3"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -12937,6 +13093,9 @@
       "nameCN": "铁匠大师",
       "age": 4,
       "descriptionCN": "所有非攻城单位的近战护甲 +1。",
+      "displayClassesCN": [
+        "近战护甲科技 3/3"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -13025,6 +13184,9 @@
           ],
           "displayClasses": [
             "Defensive Technology"
+          ],
+          "displayClassesCN": [
+            "防御科技"
           ],
           "unique": true,
           "costs": {
@@ -13333,6 +13495,9 @@
       "nameCN": "军事学院",
       "age": 3,
       "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
+      "displayClassesCN": [
+        "生产科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -13425,6 +13590,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -13688,6 +13856,9 @@
       "nameCN": "海军射箭槽",
       "age": 2,
       "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -13749,6 +13920,9 @@
       "nameCN": "方阵",
       "age": 2,
       "descriptionCN": "长矛兵的攻击范围 +100%。",
+      "displayClassesCN": [
+        "长矛兵科技"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -14078,6 +14252,9 @@
       "nameCN": "虔诚",
       "age": 2,
       "descriptionCN": "宗教单位和治疗者的生命值 +40。",
+      "displayClassesCN": [
+        "宗教科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -14443,6 +14620,9 @@
       "nameCN": "箭头穿孔板甲",
       "age": 4,
       "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
+      "displayClassesCN": [
+        "远程伤害科技 3/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -14765,6 +14945,9 @@
       "nameCN": "精准杂交育种",
       "age": 4,
       "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
+      "displayClassesCN": [
+        "食物采集科技 3/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 250,
@@ -14837,6 +15020,9 @@
           ],
           "displayClasses": [
             "Research Technology"
+          ],
+          "displayClassesCN": [
+            "研究科技"
           ],
           "unique": true,
           "costs": {
@@ -15200,6 +15386,9 @@
       "nameCN": "专业侦察兵",
       "age": 2,
       "descriptionCN": "侦察兵获得携带动物尸骸的能力，且对野生动物造成的伤害 +100%。\n侦察兵在携带动物尸骸时移动速度 -55%，且无法拾取野猪尸骸。若携带的是鹿尸骸，则会缓慢腐烂。",
+      "displayClassesCN": [
+        "狩猎科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -15293,6 +15482,9 @@
           "displayClasses": [
             "Religious Technology"
           ],
+          "displayClassesCN": [
+            "宗教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -15359,6 +15551,9 @@
           ],
           "displayClasses": [
             "Society Technology"
+          ],
+          "displayClassesCN": [
+            "社会科技"
           ],
           "unique": true,
           "costs": {
@@ -15647,6 +15842,9 @@
       "nameCN": "卷帘式触发器",
       "age": 4,
       "descriptionCN": "扭力弩炮攻击速度 +25%，并且获得 +10% 远程抗性。",
+      "displayClassesCN": [
+        "扭力弩炮科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -15963,6 +16161,9 @@
       "nameCN": "蛇纹石粉末",
       "age": 4,
       "descriptionCN": "使用新型火药，火枪兵对近战步兵的伤害 +5，并在武器开火后短暂提高移动速度。",
+      "displayClassesCN": [
+        "火药科技"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -16285,6 +16486,9 @@
       "nameCN": "竖井开采",
       "age": 3,
       "descriptionCN": "村民的黄金和石料采集速率 +15%。",
+      "displayClassesCN": [
+        "采矿科技 2/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -16581,6 +16785,9 @@
       "nameCN": "造船工",
       "age": 4,
       "descriptionCN": "所有军事船只的生命值 +20%，远程护甲 +1。",
+      "displayClassesCN": [
+        "海军科技 2/2"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -16946,6 +17153,9 @@
       "nameCN": "攻城武器",
       "age": 4,
       "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
+      "displayClassesCN": [
+        "攻城科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 300,
@@ -17282,6 +17492,9 @@
       "nameCN": "蚕丝弓弦",
       "age": 4,
       "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1.5，使骑射手的射程 +0.75。",
+      "displayClassesCN": [
+        "步弓手科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 300,
@@ -17604,6 +17817,9 @@
       "nameCN": "特制矿锄",
       "age": 2,
       "descriptionCN": "村民的黄金和石料采集速率 +15%。",
+      "displayClassesCN": [
+        "采矿科技 1/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -17689,6 +17905,9 @@
           ],
           "displayClasses": [
             "Trade Technology"
+          ],
+          "displayClassesCN": [
+            "贸易科技"
           ],
           "unique": true,
           "costs": {
@@ -17984,6 +18203,9 @@
       "nameCN": "扭力弩炮队",
       "age": 3,
       "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -18351,6 +18573,9 @@
       "nameCN": "扭力弩炮炮台",
       "age": 3,
       "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -18714,6 +18939,9 @@
       "nameCN": "小型望远镜",
       "age": 4,
       "descriptionCN": "侦察兵的视线半径增加 30%。",
+      "displayClassesCN": [
+        "侦察兵科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -19025,6 +19253,9 @@
       "nameCN": "钢制箭头",
       "age": 2,
       "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
+      "displayClassesCN": [
+        "远程伤害科技 1/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -19398,6 +19629,9 @@
       "nameCN": "生存技术",
       "age": 1,
       "descriptionCN": "村民狩猎肉类采集速率 +15%。",
+      "displayClassesCN": [
+        "狩猎科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 25,
@@ -19676,6 +19910,9 @@
       "nameCN": "旋转加农炮",
       "age": 4,
       "descriptionCN": "扭力弩炮船获得了一门额外的加农炮，可以 360 度射击。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -19754,6 +19991,9 @@
       "nameCN": "柚木桅杆",
       "age": 2,
       "descriptionCN": "军事船只的生命值增加 +10%。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -20083,6 +20323,9 @@
       "nameCN": "纺织品",
       "age": 2,
       "descriptionCN": "村民生命值 +50%。",
+      "displayClassesCN": [
+        "村民科技"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -20464,6 +20707,9 @@
       "nameCN": "什一税仓库",
       "age": 4,
       "descriptionCN": "放置在修道院的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
+      "displayClassesCN": [
+        "宗教科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -20571,6 +20817,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -20886,6 +21135,9 @@
       "nameCN": "楔形铆钉",
       "age": 3,
       "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+      "displayClassesCN": [
+        "远程护甲科技 2/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -21211,6 +21463,9 @@
       "nameCN": "独轮推车",
       "age": 1,
       "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
+      "displayClassesCN": [
+        "村民科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -21299,6 +21554,9 @@
           "displayClasses": [
             "Unlock Bonuses"
           ],
+          "displayClassesCN": [
+            "解锁加成"
+          ],
           "unique": false,
           "costs": {
             "food": 1550,
@@ -21367,6 +21625,9 @@
           ],
           "displayClasses": [
             "Unlock Bonuses"
+          ],
+          "displayClassesCN": [
+            "解锁加成"
           ],
           "unique": false,
           "costs": {
@@ -21437,6 +21698,9 @@
           "displayClasses": [
             "Unlock Bonuses"
           ],
+          "displayClassesCN": [
+            "解锁加成"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -21505,6 +21769,9 @@
           ],
           "displayClasses": [
             "Unlock Bonuses"
+          ],
+          "displayClassesCN": [
+            "解锁加成"
           ],
           "unique": false,
           "costs": {
@@ -21575,6 +21842,9 @@
           "displayClasses": [
             "Unlock Bonuses"
           ],
+          "displayClassesCN": [
+            "解锁加成"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -21643,6 +21913,9 @@
           ],
           "displayClasses": [
             "Unlock Bonuses"
+          ],
+          "displayClassesCN": [
+            "解锁加成"
           ],
           "unique": false,
           "costs": {
@@ -21713,6 +21986,9 @@
           "displayClasses": [
             "Unlock Bonuses"
           ],
+          "displayClassesCN": [
+            "解锁加成"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -21781,6 +22057,9 @@
           ],
           "displayClasses": [
             "Unlock Bonuses"
+          ],
+          "displayClassesCN": [
+            "解锁加成"
           ],
           "unique": false,
           "costs": {
@@ -21851,6 +22130,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 900,
@@ -21919,6 +22201,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -21989,6 +22274,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -22057,6 +22345,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -22127,6 +22418,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -22195,6 +22489,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -22265,6 +22562,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -22333,6 +22633,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -22403,6 +22706,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 225,
@@ -22471,6 +22777,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -22541,6 +22850,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -22610,6 +22922,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -22677,6 +22992,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -22743,6 +23061,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -22813,6 +23134,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -22881,6 +23205,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -22951,6 +23278,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1500,
@@ -23019,6 +23349,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -23089,6 +23422,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -23157,6 +23493,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -23227,6 +23566,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -23295,6 +23637,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -23365,6 +23710,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -23434,6 +23782,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -23498,6 +23849,9 @@
           ],
           "displayClasses": [
             "Infantry Technology"
+          ],
+          "displayClassesCN": [
+            "步兵科技"
           ],
           "unique": true,
           "costs": {
@@ -23564,6 +23918,9 @@
           "displayClasses": [
             "Siege Technology"
           ],
+          "displayClassesCN": [
+            "攻城科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -23628,6 +23985,9 @@
           ],
           "displayClasses": [
             "Infantry Technology"
+          ],
+          "displayClassesCN": [
+            "步兵科技"
           ],
           "unique": true,
           "costs": {
@@ -23715,6 +24075,9 @@
       "nameCN": "边境聚落",
       "age": 2,
       "descriptionCN": "房屋的视野提升 7 格，并提升其建造速度 500%。",
+      "displayClassesCN": [
+        "建筑科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 40,
@@ -23781,6 +24144,9 @@
           ],
           "displayClasses": [
             "Mercenary Contract"
+          ],
+          "displayClassesCN": [
+            "雇佣兵合同"
           ],
           "unique": true,
           "costs": {
@@ -23852,6 +24218,9 @@
           "displayClasses": [
             "Unit Technology 3/3"
           ],
+          "displayClassesCN": [
+            "单位科技 3/3"
+          ],
           "unique": false,
           "costs": {
             "food": 300,
@@ -23919,6 +24288,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -24007,6 +24379,9 @@
           "displayClasses": [
             "Varangian Guard Technology"
           ],
+          "displayClassesCN": [
+            "瓦兰吉卫队科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -24084,6 +24459,9 @@
       "nameCN": "希腊之火炮弹",
       "age": 4,
       "descriptionCN": "配重式巨型投石机造成的伤害 +30%，可以向目标倾泻希腊之火，造成范围伤害。希腊之火不与其他效果叠加。",
+      "displayClassesCN": [
+        "攻城科技"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -24158,6 +24536,9 @@
       "nameCN": "重型德罗蒙战舰",
       "age": 3,
       "descriptionCN": "升级所有的德罗蒙战舰，使其可以在攻击目标的表面或地面上留下希腊之火。掌舵人的冷却时间还会缩短至 20 秒。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -24232,6 +24613,9 @@
       "nameCN": "液体炸药",
       "age": 3,
       "descriptionCN": "燃烧船可对爆炸范围内的所有敌人造成全值伤害。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -24303,6 +24687,9 @@
       "nameCN": "轻型投石车炮台",
       "age": 3,
       "descriptionCN": "为该建筑增加一座用于防御的轻型投石车炮台。",
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -24377,6 +24764,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -24685,6 +25075,9 @@
       "nameCN": "攻城工程学",
       "age": 2,
       "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
+      "displayClassesCN": [
+        "攻城单位解锁"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -24754,6 +25147,9 @@
           "displayClasses": [
             "Mercenary Contract"
           ],
+          "displayClassesCN": [
+            "雇佣兵合同"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -24821,6 +25217,9 @@
           ],
           "displayClasses": [
             "Heavy Armor Technology"
+          ],
+          "displayClassesCN": [
+            "重型护甲科技"
           ],
           "unique": true,
           "costs": {
@@ -24923,6 +25322,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -24993,6 +25395,9 @@
           "displayClasses": [
             "Unit Technology 2/3"
           ],
+          "displayClassesCN": [
+            "单位科技 2/3"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -25052,6 +25457,9 @@
           ],
           "displayClasses": [
             "Mercenary Contract"
+          ],
+          "displayClassesCN": [
+            "雇佣兵合同"
           ],
           "unique": true,
           "costs": {
@@ -25121,6 +25529,9 @@
       "nameCN": "加装炮管",
       "age": 4,
       "descriptionCN": "一窝蜂获得 3 额外的火箭。",
+      "displayClassesCN": [
+        "一窝蜂科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 400,
@@ -25197,6 +25608,9 @@
           ],
           "displayClasses": [
             "Gathering Technology"
+          ],
+          "displayClassesCN": [
+            "采集科技"
           ],
           "unique": true,
           "costs": {
@@ -25322,6 +25736,9 @@
           "displayClasses": [
             "Palace Guard Technology"
           ],
+          "displayClassesCN": [
+            "皇宫卫兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -25398,6 +25815,9 @@
           ],
           "displayClasses": [
             "Tower & Outpost Technology"
+          ],
+          "displayClassesCN": [
+            "箭塔和哨站科技"
           ],
           "unique": true,
           "costs": {
@@ -25478,6 +25898,9 @@
       "nameCN": "手铳射击槽",
       "age": 2,
       "descriptionCN": "为此建筑添加防御型手铳射击槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -25552,6 +25975,9 @@
           ],
           "displayClasses": [
             "Imperial Official Technology"
+          ],
+          "displayClassesCN": [
+            "朝廷命官科技"
           ],
           "unique": true,
           "costs": {
@@ -25629,6 +26055,9 @@
           ],
           "displayClasses": [
             "Gunpowder Technology"
+          ],
+          "displayClassesCN": [
+            "火药科技"
           ],
           "unique": true,
           "costs": {
@@ -25709,6 +26138,9 @@
           "displayClasses": [
             "Bombard Technology"
           ],
+          "displayClassesCN": [
+            "手推炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -25788,6 +26220,9 @@
       "nameCN": "霹雳弹",
       "age": 4,
       "descriptionCN": "战船发动一窝蜂攻击。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -25864,6 +26299,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -25950,6 +26388,9 @@
       "nameCN": "装甲野兽",
       "age": 4,
       "descriptionCN": "赋予战象 +20% 生命值和 +4 远程护甲。",
+      "displayClassesCN": [
+        "大象科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -26027,6 +26468,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -26108,6 +26552,9 @@
           "displayClasses": [
             "Infantry Ability Unlock"
           ],
+          "displayClassesCN": [
+            "步兵能力解锁"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26182,6 +26629,9 @@
           ],
           "displayClasses": [
             "Villager Technology"
+          ],
+          "displayClassesCN": [
+            "村民科技"
           ],
           "unique": true,
           "costs": {
@@ -26261,6 +26711,9 @@
           ],
           "displayClasses": [
             "Man-at-Arms & Lancer Technology"
+          ],
+          "displayClassesCN": [
+            "武士和长矛骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -26342,6 +26795,9 @@
           ],
           "displayClasses": [
             "Elephant Technology"
+          ],
+          "displayClassesCN": [
+            "大象科技"
           ],
           "unique": true,
           "costs": {
@@ -26462,6 +26918,9 @@
       "nameCN": "象夫",
       "age": 3,
       "descriptionCN": "大象移动速度 +10%。",
+      "displayClassesCN": [
+        "大象科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -26525,6 +26984,9 @@
           "displayClasses": [
             "Ranged Technology"
           ],
+          "displayClassesCN": [
+            "远程科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26583,6 +27045,9 @@
           ],
           "displayClasses": [
             "Population Technology"
+          ],
+          "displayClassesCN": [
+            "人口科技"
           ],
           "unique": true,
           "costs": {
@@ -26663,6 +27128,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26729,6 +27197,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -26812,6 +27283,9 @@
       "nameCN": "缓燃防御",
       "age": 3,
       "descriptionCN": "石墙塔、城堡和哨站的火焰护甲 +10。",
+      "displayClassesCN": [
+        "防御科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -26906,6 +27380,9 @@
           "displayClasses": [
             "Religious Technology"
           ],
+          "displayClassesCN": [
+            "宗教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26986,6 +27463,9 @@
           "displayClasses": [
             "Mosque Technology"
           ],
+          "displayClassesCN": [
+            "清真寺科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -27056,6 +27536,9 @@
           ],
           "displayClasses": [
             "Keep Technology"
+          ],
+          "displayClassesCN": [
+            "城堡科技"
           ],
           "unique": true,
           "costs": {
@@ -27136,6 +27619,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -27223,6 +27709,9 @@
       "nameCN": "海军部",
       "age": 2,
       "descriptionCN": "战斗船的攻击范围 +1。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -27285,6 +27774,9 @@
           ],
           "displayClasses": [
             "Man-at-Arms Technology"
+          ],
+          "displayClassesCN": [
+            "武士科技"
           ],
           "unique": true,
           "costs": {
@@ -27376,6 +27868,9 @@
           "displayClasses": [
             "Longbowman Ability Unlock"
           ],
+          "displayClassesCN": [
+            "长弓兵能力解锁"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -27456,6 +27951,9 @@
           "displayClasses": [
             "Farm Technology"
           ],
+          "displayClassesCN": [
+            "农田科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -27535,6 +28033,9 @@
           ],
           "displayClasses": [
             "Defensive Technology"
+          ],
+          "displayClassesCN": [
+            "防御科技"
           ],
           "unique": true,
           "costs": {
@@ -27619,6 +28120,9 @@
           "displayClasses": [
             "Trebuchet Technology"
           ],
+          "displayClassesCN": [
+            "巨型投石机科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -27693,6 +28197,9 @@
           ],
           "displayClasses": [
             "King Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -27815,6 +28322,9 @@
           ],
           "displayClasses": [
             "King Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -27940,6 +28450,9 @@
       "nameCN": "高鞍尾马鞍",
       "age": 3,
       "descriptionCN": "皇家骑士在冲锋后的伤害加成从 +3 提升为 +10。",
+      "displayClassesCN": [
+        "皇家骑士科技"
+      ],
       "costs": {
         "food": 75,
         "wood": 0,
@@ -28040,6 +28553,9 @@
       "nameCN": "骑士精神",
       "age": 2,
       "descriptionCN": "皇家骑士在脱离战斗后每 1 秒可恢复 1 生命值。",
+      "displayClassesCN": [
+        "皇家骑士科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -28147,6 +28663,9 @@
       "nameCN": "弩手脚镫",
       "age": 3,
       "descriptionCN": "弓弩手的攻击速度 +25%。",
+      "displayClassesCN": [
+        "弓弩手科技"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -28236,6 +28755,9 @@
       "nameCN": "募兵奖励",
       "age": 3,
       "descriptionCN": "提高法兰西人的影响力，使单位的成本额外 -5%。",
+      "displayClassesCN": [
+        "影响力科技"
+      ],
       "costs": {
         "food": 150,
         "wood": 0,
@@ -28332,6 +28854,9 @@
       "nameCN": "软甲",
       "age": 3,
       "descriptionCN": "弓弩手的近战护甲 +5。",
+      "displayClassesCN": [
+        "弓弩手科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -28405,6 +28930,9 @@
       "nameCN": "长管大炮",
       "age": 4,
       "descriptionCN": "海军加农炮伤害 +15%。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -28483,6 +29011,9 @@
       "nameCN": "商人公会",
       "age": 4,
       "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
+      "displayClassesCN": [
+        "贸易科技"
+      ],
       "costs": {
         "food": 200,
         "wood": 0,
@@ -28572,6 +29103,9 @@
       "nameCN": "皇室血统",
       "age": 3,
       "descriptionCN": "用最优秀的种马填满马厩，并使所有骑兵生命值 +35%。",
+      "displayClassesCN": [
+        "骑兵科技"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -28653,6 +29187,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -28708,6 +29245,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -28762,6 +29302,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -28837,6 +29380,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -28902,6 +29448,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -28956,6 +29505,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -29025,6 +29577,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29086,6 +29641,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -29152,6 +29710,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -29213,6 +29774,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -29304,6 +29868,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -29370,6 +29937,9 @@
           ],
           "displayClasses": [
             "Food Gathering Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "食物采集科技 2/2"
           ],
           "unique": true,
           "costs": {
@@ -29438,6 +30008,9 @@
           "displayClasses": [
             "Stone Gathering Technology 2/2"
           ],
+          "displayClassesCN": [
+            "石料采集科技 2/2"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29505,6 +30078,9 @@
           "displayClasses": [
             "Stone Gathering Technology 1/2"
           ],
+          "displayClassesCN": [
+            "石料采集科技 1/2"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29560,6 +30136,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29614,6 +30193,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -29688,6 +30270,9 @@
       "nameCN": "海盗行为",
       "age": 2,
       "descriptionCN": "击沉一艘敌方船只时可获得 +25 木材和 +25 黄金。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 50,
         "wood": 0,
@@ -29764,6 +30349,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -29831,6 +30419,9 @@
           "displayClasses": [
             "Food Gathering Technology 1/2"
           ],
+          "displayClassesCN": [
+            "食物采集科技 1/2"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29896,6 +30487,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -29950,6 +30544,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -30015,6 +30612,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -30084,6 +30684,9 @@
       "nameCN": "石料商业",
       "age": 4,
       "descriptionCN": "商人交易时供应的石料 +10%。",
+      "displayClassesCN": [
+        "贸易科技"
+      ],
       "costs": {
         "food": 300,
         "wood": 0,
@@ -30147,6 +30750,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -30228,6 +30834,9 @@
           "displayClasses": [
             "Stone Technology"
           ],
+          "displayClassesCN": [
+            "石料科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -30282,6 +30891,9 @@
           "classes": [],
           "displayClasses": [
             "Stone Technology"
+          ],
+          "displayClassesCN": [
+            "石料科技"
           ],
           "unique": true,
           "costs": {
@@ -30347,6 +30959,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -30416,6 +31031,9 @@
           ],
           "displayClasses": [
             "Spearman and Horseman Technology"
+          ],
+          "displayClassesCN": [
+            "长矛兵和骑手科技"
           ],
           "unique": true,
           "costs": {
@@ -30509,6 +31127,9 @@
           "displayClasses": [
             "Religious Technology"
           ],
+          "displayClassesCN": [
+            "宗教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -30576,6 +31197,9 @@
           ],
           "displayClasses": [
             "Prelate Technology"
+          ],
+          "displayClassesCN": [
+            "高级教士科技"
           ],
           "unique": true,
           "costs": {
@@ -30702,6 +31326,9 @@
       "nameCN": "消防站",
       "age": 2,
       "descriptionCN": "军事船只在脱离战斗后每 2 秒可恢复 1 生命值。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -30778,6 +31405,9 @@
           ],
           "displayClasses": [
             "Man-at-Arms Technology"
+          ],
+          "displayClassesCN": [
+            "武士科技"
           ],
           "unique": true,
           "costs": {
@@ -30864,6 +31494,9 @@
       "nameCN": "战意激昂",
       "age": 3,
       "descriptionCN": "高级教士的移动速度提高 10%，可鼓舞军事单位，使他们的护甲 +1 和伤害 +15%。",
+      "displayClassesCN": [
+        "宗教科技"
+      ],
       "costs": {
         "food": 100,
         "wood": 0,
@@ -31007,6 +31640,9 @@
       "nameCN": "加强防御",
       "age": 4,
       "descriptionCN": "城墙、箭塔和城门的生命值 +25%。",
+      "displayClassesCN": [
+        "防御科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -31090,6 +31726,9 @@
       "nameCN": "石板和石造建筑",
       "age": 3,
       "descriptionCN": "所有建筑的火焰护甲 +5。",
+      "displayClassesCN": [
+        "建筑科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -31169,6 +31808,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -31260,6 +31902,9 @@
           "displayClasses": [
             "Man-at-Arms Technology"
           ],
+          "displayClassesCN": [
+            "武士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -31339,6 +31984,9 @@
           ],
           "displayClasses": [
             "Spearman Technology"
+          ],
+          "displayClassesCN": [
+            "长矛兵科技"
           ],
           "unique": true,
           "costs": {
@@ -31420,6 +32068,9 @@
           "displayClasses": [
             "Handcannon Technology"
           ],
+          "displayClassesCN": [
+            "手铳科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -31487,6 +32138,9 @@
           "displayClasses": [
             "Knight Technology"
           ],
+          "displayClassesCN": [
+            "骑士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -31553,6 +32207,9 @@
           ],
           "displayClasses": [
             "Manor Technology 1/2"
+          ],
+          "displayClassesCN": [
+            "庄园科技 1/2"
           ],
           "unique": true,
           "costs": {
@@ -31628,6 +32285,9 @@
           "displayClasses": [
             "Defensive Ability"
           ],
+          "displayClassesCN": [
+            "防御能力"
+          ],
           "unique": true,
           "costs": {
             "food": 1250,
@@ -31694,6 +32354,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -31762,6 +32425,9 @@
           "displayClasses": [
             "Military Technology"
           ],
+          "displayClassesCN": [
+            "军事科技"
+          ],
           "unique": true,
           "costs": {
             "food": 250,
@@ -31829,6 +32495,9 @@
           "displayClasses": [
             "Defensive Ability"
           ],
+          "displayClassesCN": [
+            "防御能力"
+          ],
           "unique": true,
           "costs": {
             "food": 200,
@@ -31895,6 +32564,9 @@
           ],
           "displayClasses": [
             "Manor Technology 2/2"
+          ],
+          "displayClassesCN": [
+            "庄园科技 2/2"
           ],
           "unique": true,
           "costs": {
@@ -31970,6 +32642,9 @@
           "displayClasses": [
             "Yeomen and Spearmen Technology"
           ],
+          "displayClassesCN": [
+            "义勇兵和长矛兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 200,
@@ -32044,6 +32719,9 @@
           "displayClasses": [
             "Manor Technology"
           ],
+          "displayClassesCN": [
+            "庄园科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -32110,6 +32788,9 @@
           ],
           "displayClasses": [
             "Carrack Technology"
+          ],
+          "displayClassesCN": [
+            "大帆船科技"
           ],
           "unique": true,
           "costs": {
@@ -32209,6 +32890,9 @@
           "displayClasses": [
             "Defensive Ability"
           ],
+          "displayClassesCN": [
+            "防御能力"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -32275,6 +32959,9 @@
           ],
           "displayClasses": [
             "Yeoman Technology"
+          ],
+          "displayClassesCN": [
+            "英皇侍卫科技"
           ],
           "unique": true,
           "costs": {
@@ -32343,6 +33030,9 @@
           "displayClasses": [
             "Earl's Guard Technology"
           ],
+          "displayClassesCN": [
+            "伯爵护卫科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -32409,6 +33099,9 @@
           ],
           "displayClasses": [
             "Trebuchet Technology"
+          ],
+          "displayClassesCN": [
+            "巨型投石机科技"
           ],
           "unique": true,
           "costs": {
@@ -32485,6 +33178,9 @@
           ],
           "displayClasses": [
             "Shinto Technology"
+          ],
+          "displayClassesCN": [
+            "神道教科技"
           ],
           "unique": true,
           "costs": {
@@ -32565,6 +33261,9 @@
       "nameCN": "镀铜",
       "age": 3,
       "descriptionCN": "将船只的火力和远程护甲 +2。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -32655,6 +33354,9 @@
           "displayClasses": [
             "Town Center Improvement 1/3"
           ],
+          "displayClassesCN": [
+            "城镇中心强化 1/3"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -32740,6 +33442,9 @@
           ],
           "displayClasses": [
             "Town Center Improvement 2/3"
+          ],
+          "displayClassesCN": [
+            "城镇中心升级 2/3"
           ],
           "unique": true,
           "costs": {
@@ -32847,6 +33552,9 @@
           "displayClasses": [
             "Mounted Samurai Technology"
           ],
+          "displayClassesCN": [
+            "骑马武士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -32929,6 +33637,9 @@
           ],
           "displayClasses": [
             "Buddhist Technology"
+          ],
+          "displayClassesCN": [
+            "佛教科技"
           ],
           "unique": true,
           "costs": {
@@ -33013,6 +33724,9 @@
       "nameCN": "札差",
       "age": 3,
       "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
+      "displayClassesCN": [
+        "村民科技 3/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -33115,6 +33829,9 @@
           "displayClasses": [
             "Shinto Technology"
           ],
+          "displayClassesCN": [
+            "神道教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -33195,6 +33912,9 @@
       "nameCN": "火造",
       "age": 2,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 2/4"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -33274,6 +33994,9 @@
           "displayClasses": [
             "Onna-Musha Technology"
           ],
+          "displayClassesCN": [
+            "女武者科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -33352,6 +34075,9 @@
       "nameCN": "甲伏锻",
       "age": 3,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 3/4"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -33430,6 +34156,9 @@
           ],
           "displayClasses": [
             "Spearman Technology"
+          ],
+          "displayClassesCN": [
+            "长矛兵科技"
           ],
           "unique": true,
           "costs": {
@@ -33532,6 +34261,9 @@
           "displayClasses": [
             "Buddhist Technology"
           ],
+          "displayClassesCN": [
+            "佛教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -33611,6 +34343,9 @@
       "nameCN": "织田战术",
       "age": 4,
       "descriptionCN": "由强大的“大名”领主所教授的战术可提升近战步兵的能力，使其伤害 +15%，火炬伤害 +15%，生命值 +15%。",
+      "displayClassesCN": [
+        "近战步兵科技"
+      ],
       "costs": {
         "food": 500,
         "wood": 0,
@@ -33719,6 +34454,9 @@
           "displayClasses": [
             "Samurai Technology"
           ],
+          "displayClassesCN": [
+            "日本武士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -33807,6 +34545,9 @@
           ],
           "displayClasses": [
             "Shinto Technology"
+          ],
+          "displayClassesCN": [
+            "神道教科技"
           ],
           "unique": true,
           "costs": {
@@ -33902,6 +34643,9 @@
           ],
           "displayClasses": [
             "Town Center Improvement 3/3"
+          ],
+          "displayClassesCN": [
+            "城镇中心升级 3 /3"
           ],
           "unique": true,
           "costs": {
@@ -34010,6 +34754,9 @@
       "nameCN": "竹细工",
       "age": 2,
       "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
+      "displayClassesCN": [
+        "村民科技 2/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -34107,6 +34854,9 @@
       "nameCN": "吹踏鞴制钢法",
       "age": 1,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 1/4"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -34186,6 +34936,9 @@
       "nameCN": "编织袋",
       "age": 1,
       "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
+      "displayClassesCN": [
+        "村民科技 1/3"
+      ],
       "costs": {
         "food": 0,
         "wood": 25,
@@ -34245,6 +34998,9 @@
           ],
           "displayClasses": [
             "Shinobi Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -34340,6 +35096,9 @@
           ],
           "displayClasses": [
             "Shinobi Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -34439,6 +35198,9 @@
       "nameCN": "淬火",
       "age": 4,
       "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+      "displayClassesCN": [
+        "近战伤害科技 4/4"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -34518,6 +35280,9 @@
           "displayClasses": [
             "Buddhist Technology"
           ],
+          "displayClassesCN": [
+            "佛教科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -34594,6 +35359,9 @@
       "nameCN": "同伴装备",
       "age": 1,
       "descriptionCN": "圣女贞德的生命值和伤害提升 25，并且护甲 +1。圣女贞德同伴的生命值和伤害提升 20%。",
+      "displayClassesCN": [
+        "同伴升级"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -34816,6 +35584,9 @@
           "displayClasses": [
             "Hero Level Up Choice"
           ],
+          "displayClassesCN": [
+            "获得圣化与神圣恢复"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -34873,6 +35644,9 @@
           ],
           "displayClasses": [
             "Hero Level Up Choice"
+          ],
+          "displayClassesCN": [
+            "获得圣化与神圣恢复"
           ],
           "costs": {
             "food": 0,
@@ -34932,6 +35706,9 @@
           "displayClasses": [
             "Hero Level Up Choice"
           ],
+          "displayClassesCN": [
+            "获得鼓舞士气，并获得马匹。"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -34989,6 +35766,9 @@
           ],
           "displayClasses": [
             "Hero Level Up Choice"
+          ],
+          "displayClassesCN": [
+            "获得鼓舞士气，并获得马匹。"
           ],
           "costs": {
             "food": 0,
@@ -35048,6 +35828,9 @@
           "displayClasses": [
             "Hero Level Up Choice"
           ],
+          "displayClassesCN": [
+            "装备强大的手铳"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -35105,6 +35888,9 @@
           ],
           "displayClasses": [
             "Hero Level Up Choice"
+          ],
+          "displayClassesCN": [
+            "装备强大的手铳"
           ],
           "costs": {
             "food": 0,
@@ -35170,6 +35956,9 @@
           ],
           "displayClasses": [
             "Influence Technology"
+          ],
+          "displayClassesCN": [
+            "影响力科技"
           ],
           "unique": true,
           "costs": {
@@ -35239,6 +36028,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -35315,6 +36107,9 @@
           "displayClasses": [
             "Armor Technology"
           ],
+          "displayClassesCN": [
+            "护甲科技"
+          ],
           "unique": true,
           "costs": {
             "food": 300,
@@ -35382,6 +36177,9 @@
           "displayClasses": [
             "Trebuchet Technology"
           ],
+          "displayClassesCN": [
+            "巨型投石机科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -35448,6 +36246,9 @@
           ],
           "displayClasses": [
             "Crossbow Technology"
+          ],
+          "displayClassesCN": [
+            "弩箭科技"
           ],
           "unique": true,
           "costs": {
@@ -35541,6 +36342,9 @@
           "displayClasses": [
             "Military Upgrade"
           ],
+          "displayClassesCN": [
+            "军事升级"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -35607,6 +36411,9 @@
           ],
           "displayClasses": [
             "Military Upgrade"
+          ],
+          "displayClassesCN": [
+            "军事升级"
           ],
           "unique": true,
           "costs": {
@@ -35698,6 +36505,9 @@
           "displayClasses": [
             "Defensive Upgrade"
           ],
+          "displayClassesCN": [
+            "防御升级"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -35766,6 +36576,9 @@
           ],
           "displayClasses": [
             "Advance to Age III"
+          ],
+          "displayClassesCN": [
+            "发展到第三时代"
           ],
           "unique": false,
           "costs": {
@@ -35862,6 +36675,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -35931,6 +36747,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -36033,6 +36852,9 @@
           "displayClasses": [
             "Advance to Age II"
           ],
+          "displayClassesCN": [
+            "发展到第二时代"
+          ],
           "unique": false,
           "costs": {
             "food": 400,
@@ -36103,6 +36925,9 @@
           ],
           "displayClasses": [
             "Economic Technology"
+          ],
+          "displayClassesCN": [
+            "经济科技"
           ],
           "unique": true,
           "costs": {
@@ -36199,6 +37024,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -36267,6 +37095,9 @@
           ],
           "displayClasses": [
             "Advance to Age II"
+          ],
+          "displayClassesCN": [
+            "发展到第二时代"
           ],
           "unique": false,
           "costs": {
@@ -36363,6 +37194,9 @@
           "displayClasses": [
             "Advance to Age III"
           ],
+          "displayClassesCN": [
+            "发展到第三时代"
+          ],
           "unique": false,
           "costs": {
             "food": 1200,
@@ -36433,6 +37267,9 @@
           "displayClasses": [
             "Advance to Age IV"
           ],
+          "displayClassesCN": [
+            "发展到第四时代"
+          ],
           "unique": false,
           "costs": {
             "food": 2400,
@@ -36500,6 +37337,9 @@
           ],
           "displayClasses": [
             "Knight Technology"
+          ],
+          "displayClassesCN": [
+            "骑士科技"
           ],
           "unique": true,
           "costs": {
@@ -36593,6 +37433,9 @@
           "displayClasses": [
             "Economic Technology"
           ],
+          "displayClassesCN": [
+            "经济科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -36659,6 +37502,9 @@
           ],
           "displayClasses": [
             "Economic Technology"
+          ],
+          "displayClassesCN": [
+            "经济科技"
           ],
           "unique": true,
           "costs": {
@@ -36728,6 +37574,9 @@
           ],
           "displayClasses": [
             "Advance to Age IV"
+          ],
+          "displayClassesCN": [
+            "发展到第四时代"
           ],
           "unique": false,
           "costs": {
@@ -36799,6 +37648,9 @@
           ],
           "displayClasses": [
             "Economic Upgrade"
+          ],
+          "displayClassesCN": [
+            "经济升级"
           ],
           "unique": true,
           "costs": {
@@ -36893,6 +37745,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -36964,6 +37819,9 @@
       "nameCN": "刀片嵌饰",
       "age": 2,
       "descriptionCN": "所有骑兵的伤害提升 1。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37066,6 +37924,9 @@
       "nameCN": "对接锁子甲",
       "age": 2,
       "descriptionCN": "所有近战步兵的护甲提升 1，生命值提升 5%。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37168,6 +38029,9 @@
       "nameCN": "防御工事",
       "age": 2,
       "descriptionCN": "所有建筑的生命值提升 10%。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37270,6 +38134,9 @@
       "nameCN": "铁制配件",
       "age": 2,
       "descriptionCN": "所有攻城单位的生命值提升 5%。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37372,6 +38239,9 @@
       "nameCN": "札甲",
       "age": 2,
       "descriptionCN": "所有远程单位的护甲提升 1，生命值提升 5%。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37474,6 +38344,9 @@
       "nameCN": "图案焊接",
       "age": 2,
       "descriptionCN": "所有近战步兵的伤害提升 1。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -37570,6 +38443,9 @@
           "displayClasses": [
             "Unit Technology"
           ],
+          "displayClassesCN": [
+            "单位科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -37634,6 +38510,9 @@
           ],
           "displayClasses": [
             "Siege Technology"
+          ],
+          "displayClassesCN": [
+            "攻城科技"
           ],
           "unique": true,
           "costs": {
@@ -37700,6 +38579,9 @@
           "displayClasses": [
             "Varangian Technology"
           ],
+          "displayClassesCN": [
+            "瓦兰吉科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -37765,6 +38647,9 @@
           "displayClasses": [
             "Springald Technology"
           ],
+          "displayClassesCN": [
+            "扭力弩炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -37829,6 +38714,9 @@
           ],
           "displayClasses": [
             "Varangian Bowman Technology"
+          ],
+          "displayClassesCN": [
+            "瓦兰吉弓兵科技"
           ],
           "unique": true,
           "costs": {
@@ -37901,6 +38789,9 @@
       "nameCN": "鳞纹马铠",
       "age": 2,
       "descriptionCN": "所有骑兵的护甲提升 1，生命值提升 5%。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -38003,6 +38894,9 @@
       "nameCN": "磨刀石",
       "age": 2,
       "descriptionCN": "所有弓箭和弩箭的远程伤害 +1。",
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -38101,6 +38995,9 @@
           "displayClasses": [
             "Defensive Technology"
           ],
+          "displayClassesCN": [
+            "防御科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -38167,6 +39064,9 @@
           ],
           "displayClasses": [
             "Building Technology"
+          ],
+          "displayClassesCN": [
+            "建筑科技"
           ],
           "unique": true,
           "costs": {
@@ -38235,6 +39135,9 @@
           ],
           "displayClasses": [
             "Naval Technology"
+          ],
+          "displayClassesCN": [
+            "海军科技"
           ],
           "unique": true,
           "costs": {
@@ -38340,6 +39243,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 250,
@@ -38425,6 +39331,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -38538,6 +39447,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -38604,6 +39516,9 @@
           ],
           "displayClasses": [
             "Healing Technology"
+          ],
+          "displayClassesCN": [
+            "治疗科技"
           ],
           "unique": true,
           "costs": {
@@ -38685,6 +39600,9 @@
       "nameCN": "舰载炮",
       "age": 4,
       "descriptionCN": "用加农炮取代扭力弩炮，可实现更远的射程和更大的伤害。",
+      "displayClassesCN": [
+        "海军科技"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -38747,6 +39665,9 @@
           ],
           "displayClasses": [
             "Archer Technology"
+          ],
+          "displayClassesCN": [
+            "步弓手科技"
           ],
           "unique": true,
           "costs": {
@@ -38826,6 +39747,9 @@
           ],
           "displayClasses": [
             "Ranged Technology"
+          ],
+          "displayClassesCN": [
+            "远程科技"
           ],
           "unique": true,
           "costs": {
@@ -38926,6 +39850,9 @@
           "displayClasses": [
             "Raiding Technology"
           ],
+          "displayClassesCN": [
+            "突袭科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -39011,6 +39938,9 @@
           ],
           "displayClasses": [
             "Raiding Technology"
+          ],
+          "displayClassesCN": [
+            "突袭科技"
           ],
           "unique": true,
           "costs": {
@@ -39100,6 +40030,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 500,
@@ -39183,6 +40116,9 @@
           "displayClasses": [
             "Wood Gathering Technology 1/3"
           ],
+          "displayClassesCN": [
+            "木材采集科技 1/3"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -39264,6 +40200,9 @@
           ],
           "displayClasses": [
             "Melee Infantry Technology"
+          ],
+          "displayClassesCN": [
+            "近战步兵科技"
           ],
           "unique": true,
           "costs": {
@@ -39363,6 +40302,9 @@
           "displayClasses": [
             "Woodcutting Technology"
           ],
+          "displayClassesCN": [
+            "伐木科技"
+          ],
           "unique": true,
           "costs": {
             "food": 25,
@@ -39444,6 +40386,9 @@
           ],
           "displayClasses": [
             "Siege Technology"
+          ],
+          "displayClassesCN": [
+            "攻城科技"
           ],
           "unique": true,
           "costs": {
@@ -39527,6 +40472,9 @@
           "displayClasses": [
             "Siege Technology"
           ],
+          "displayClassesCN": [
+            "攻城科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -39609,6 +40557,9 @@
           ],
           "displayClasses": [
             "Healing Technology"
+          ],
+          "displayClassesCN": [
+            "治疗科技"
           ],
           "unique": true,
           "costs": {
@@ -39700,6 +40651,9 @@
           "displayClasses": [
             "Food Gathering Technology 1/3"
           ],
+          "displayClassesCN": [
+            "食物采集科技 1/3"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -39781,6 +40735,9 @@
           ],
           "displayClasses": [
             "Battering Ram Technology"
+          ],
+          "displayClassesCN": [
+            "攻城锤科技"
           ],
           "unique": true,
           "costs": {
@@ -39873,6 +40830,9 @@
           ],
           "displayClasses": [
             "Production Technology"
+          ],
+          "displayClassesCN": [
+            "生产科技"
           ],
           "unique": true,
           "costs": {
@@ -39969,6 +40929,9 @@
           "displayClasses": [
             "Production Technology"
           ],
+          "displayClassesCN": [
+            "生产科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -40043,6 +41006,9 @@
           ],
           "displayClasses": [
             "Defensive Technology"
+          ],
+          "displayClassesCN": [
+            "防御科技"
           ],
           "unique": true,
           "costs": {
@@ -40126,6 +41092,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -40213,6 +41182,9 @@
           "displayClasses": [
             "Raiding Technology"
           ],
+          "displayClassesCN": [
+            "突袭科技"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -40297,6 +41269,9 @@
           ],
           "displayClasses": [
             "Raiding Technology"
+          ],
+          "displayClassesCN": [
+            "突袭科技"
           ],
           "unique": true,
           "costs": {
@@ -40384,6 +41359,9 @@
           ],
           "displayClasses": [
             "Springald Technology"
+          ],
+          "displayClassesCN": [
+            "扭力弩炮科技"
           ],
           "unique": true,
           "costs": {
@@ -40477,6 +41455,9 @@
           "displayClasses": [
             "Siege Unit Unlock"
           ],
+          "displayClassesCN": [
+            "攻城单位解锁"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -40560,6 +41541,9 @@
           "displayClasses": [
             "Siege Technology"
           ],
+          "displayClassesCN": [
+            "攻城科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -40638,6 +41622,9 @@
           ],
           "displayClasses": [
             "Ranged Damage Technology"
+          ],
+          "displayClassesCN": [
+            "远程伤害科技"
           ],
           "unique": true,
           "costs": {
@@ -40719,6 +41706,9 @@
           ],
           "displayClasses": [
             "Ranged Damage Technology"
+          ],
+          "displayClassesCN": [
+            "远程伤害科技"
           ],
           "unique": true,
           "costs": {
@@ -40802,6 +41792,9 @@
           ],
           "displayClasses": [
             "Mining Technology 1/3"
+          ],
+          "displayClassesCN": [
+            "采矿科技 1/3"
           ],
           "unique": true,
           "costs": {
@@ -40891,6 +41884,9 @@
           ],
           "displayClasses": [
             "Keshik Technology"
+          ],
+          "displayClassesCN": [
+            "怯薛骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -40982,6 +41978,9 @@
           "displayClasses": [
             "Keshik Technology"
           ],
+          "displayClassesCN": [
+            "怯薛骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -41070,6 +42069,9 @@
           "displayClasses": [
             "Raiding Technology"
           ],
+          "displayClassesCN": [
+            "突袭科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -41154,6 +42156,9 @@
           ],
           "displayClasses": [
             "Raiding Technology"
+          ],
+          "displayClassesCN": [
+            "突袭科技"
           ],
           "unique": true,
           "costs": {
@@ -41240,6 +42245,9 @@
           "displayClasses": [
             "Trade Technology"
           ],
+          "displayClassesCN": [
+            "贸易科技"
+          ],
           "unique": true,
           "costs": {
             "food": 300,
@@ -41319,6 +42327,9 @@
           "displayClasses": [
             "Packing Technology"
           ],
+          "displayClassesCN": [
+            "拆装科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -41386,6 +42397,9 @@
           ],
           "displayClasses": [
             "Packing Technology"
+          ],
+          "displayClassesCN": [
+            "拆装科技"
           ],
           "unique": true,
           "costs": {
@@ -41456,6 +42470,9 @@
           ],
           "displayClasses": [
             "Hunting Technology"
+          ],
+          "displayClassesCN": [
+            "狩猎科技"
           ],
           "unique": true,
           "costs": {
@@ -41539,6 +42556,9 @@
           "displayClasses": [
             "Villager Technology"
           ],
+          "displayClassesCN": [
+            "村民科技"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -41620,6 +42640,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -41732,6 +42755,9 @@
           "displayClasses": [
             "Villager Technology"
           ],
+          "displayClassesCN": [
+            "村民科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -41809,6 +42835,9 @@
           ],
           "displayClasses": [
             "Khan Technology"
+          ],
+          "displayClassesCN": [
+            "汗科技"
           ],
           "unique": true,
           "costs": {
@@ -41890,6 +42919,9 @@
           "displayClasses": [
             "Khan Technology"
           ],
+          "displayClassesCN": [
+            "汗科技"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -41967,6 +42999,9 @@
           ],
           "displayClasses": [
             "Movement Technology"
+          ],
+          "displayClassesCN": [
+            "移动科技"
           ],
           "unique": true,
           "costs": {
@@ -42050,6 +43085,9 @@
           "displayClasses": [
             "Movement Technology"
           ],
+          "displayClassesCN": [
+            "移动科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -42126,6 +43164,9 @@
           ],
           "displayClasses": [
             "Crossbow Technology"
+          ],
+          "displayClassesCN": [
+            "弩箭科技"
           ],
           "unique": true,
           "costs": {
@@ -42205,6 +43246,9 @@
           "displayClasses": [
             "Man-at-Arms Technology"
           ],
+          "displayClassesCN": [
+            "武士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -42276,6 +43320,9 @@
           "displayClasses": [
             "Spearman Technology"
           ],
+          "displayClassesCN": [
+            "长矛兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -42336,6 +43383,9 @@
           "displayClasses": [
             "Archer Technology"
           ],
+          "displayClassesCN": [
+            "步弓手科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -42394,6 +43444,9 @@
           ],
           "displayClasses": [
             "Cavalry Technology"
+          ],
+          "displayClassesCN": [
+            "骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -42465,6 +43518,9 @@
           ],
           "displayClasses": [
             "Landsknecht Technology"
+          ],
+          "displayClassesCN": [
+            "国土佣仆科技"
           ],
           "unique": true,
           "costs": {
@@ -42543,6 +43599,9 @@
           "displayClasses": [
             "Imperial Council"
           ],
+          "displayClassesCN": [
+            "帝国议会"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -42605,6 +43664,9 @@
           ],
           "displayClasses": [
             "Imperial Council"
+          ],
+          "displayClassesCN": [
+            "帝国议会"
           ],
           "unique": true,
           "costs": {
@@ -42692,6 +43754,9 @@
           "displayClasses": [
             "Imperial Council"
           ],
+          "displayClassesCN": [
+            "帝国议会"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -42776,6 +43841,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -42843,6 +43911,9 @@
           ],
           "displayClasses": [
             "Naval Technology"
+          ],
+          "displayClassesCN": [
+            "海军科技"
           ],
           "unique": true,
           "costs": {
@@ -42934,6 +44005,9 @@
           "displayClasses": [
             "Imperial Council"
           ],
+          "displayClassesCN": [
+            "帝国议会"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -42998,6 +44072,9 @@
           ],
           "displayClasses": [
             "Janissary Technology"
+          ],
+          "displayClassesCN": [
+            "苏丹亲兵科技"
           ],
           "unique": true,
           "costs": {
@@ -43075,6 +44152,9 @@
           ],
           "displayClasses": [
             "Imperial Council"
+          ],
+          "displayClassesCN": [
+            "帝国议会"
           ],
           "unique": true,
           "costs": {
@@ -43156,6 +44236,9 @@
           "displayClasses": [
             "Imperial Council"
           ],
+          "displayClassesCN": [
+            "帝国议会"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -43219,6 +44302,9 @@
           "displayClasses": [
             "Imperial Council"
           ],
+          "displayClassesCN": [
+            "帝国议会"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -43281,6 +44367,9 @@
           ],
           "displayClasses": [
             "Imperial Council"
+          ],
+          "displayClassesCN": [
+            "帝国议会"
           ],
           "unique": true,
           "costs": {
@@ -43348,6 +44437,9 @@
           ],
           "displayClasses": [
             "Naval Technology"
+          ],
+          "displayClassesCN": [
+            "海军科技"
           ],
           "unique": true,
           "costs": {
@@ -43433,6 +44525,9 @@
           "displayClasses": [
             "Springald Technology"
           ],
+          "displayClassesCN": [
+            "扭力弩炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -43512,6 +44607,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -43589,6 +44687,9 @@
           "displayClasses": [
             "Weapon Emplacement"
           ],
+          "displayClassesCN": [
+            "武器炮台"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -43663,6 +44764,9 @@
           ],
           "displayClasses": [
             "Vision Emplacement"
+          ],
+          "displayClassesCN": [
+            "视野炮台"
           ],
           "unique": true,
           "costs": {
@@ -43742,6 +44846,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -43824,6 +44931,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -43938,6 +45048,9 @@
           "displayClasses": [
             "Bombard Technology"
           ],
+          "displayClassesCN": [
+            "手推炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -44035,6 +45148,9 @@
           "displayClasses": [
             "Knight Technology"
           ],
+          "displayClassesCN": [
+            "骑士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -44113,6 +45229,9 @@
           ],
           "displayClasses": [
             "Horse Archer Technology"
+          ],
+          "displayClassesCN": [
+            "骑射手科技"
           ],
           "unique": true,
           "costs": {
@@ -44194,6 +45313,9 @@
           ],
           "displayClasses": [
             "Religious Technology"
+          ],
+          "displayClassesCN": [
+            "宗教科技"
           ],
           "unique": true,
           "costs": {
@@ -44280,6 +45402,9 @@
             "Trebuchet",
             "and Bombard Technology"
           ],
+          "displayClassesCN": [
+            "轻型投石车、巨型投石机和手推炮科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -44356,6 +45481,9 @@
           ],
           "displayClasses": [
             "Militia Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -44451,6 +45579,9 @@
           ],
           "displayClasses": [
             "Militia Scaling Technology"
+          ],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
           ],
           "unique": false,
           "costs": {
@@ -44553,6 +45684,9 @@
           "displayClasses": [
             "Ram Technology"
           ],
+          "displayClassesCN": [
+            "冲车科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -44643,6 +45777,9 @@
           "displayClasses": [
             "Hojo Clan Technology"
           ],
+          "displayClassesCN": [
+            "北条氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 200,
@@ -44717,6 +45854,9 @@
           "displayClasses": [
             "Oda Clan Technology"
           ],
+          "displayClassesCN": [
+            "织田氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -44783,6 +45923,9 @@
           ],
           "displayClasses": [
             "Takeda Clan Technology"
+          ],
+          "displayClassesCN": [
+            "武田氏族科技"
           ],
           "unique": true,
           "costs": {
@@ -44858,6 +46001,9 @@
           "displayClasses": [
             "Takeda Clan Technology"
           ],
+          "displayClassesCN": [
+            "武田氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -44924,6 +46070,9 @@
           ],
           "displayClasses": [
             "Buddhist Technology"
+          ],
+          "displayClassesCN": [
+            "佛教科技"
           ],
           "unique": true,
           "costs": {
@@ -45017,6 +46166,9 @@
           "displayClasses": [
             "Hojo Clan Technology"
           ],
+          "displayClassesCN": [
+            "北条氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -45083,6 +46235,9 @@
           ],
           "displayClasses": [
             "Buddhist Technology"
+          ],
+          "displayClassesCN": [
+            "佛教科技"
           ],
           "unique": true,
           "costs": {
@@ -45152,6 +46307,9 @@
           "displayClasses": [
             "Takeda Clan Technology"
           ],
+          "displayClassesCN": [
+            "武田氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -45218,6 +46376,9 @@
           ],
           "displayClasses": [
             "Buddhist Technology"
+          ],
+          "displayClassesCN": [
+            "佛教科技"
           ],
           "unique": true,
           "costs": {
@@ -45299,6 +46460,9 @@
           "displayClasses": [
             "Oda Clan Technology"
           ],
+          "displayClassesCN": [
+            "织田氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -45365,6 +46529,9 @@
           ],
           "displayClasses": [
             "Hojo Clan Technology"
+          ],
+          "displayClassesCN": [
+            "北条氏族科技"
           ],
           "unique": true,
           "costs": {
@@ -45433,6 +46600,9 @@
           "displayClasses": [
             "Oda Clan Technology"
           ],
+          "displayClassesCN": [
+            "织田氏族科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -45499,6 +46669,9 @@
           ],
           "displayClasses": [
             "Yatai Technology"
+          ],
+          "displayClassesCN": [
+            "屋台科技"
           ],
           "unique": true,
           "costs": {
@@ -45580,6 +46753,9 @@
           "displayClasses": [
             "Elephant Technology"
           ],
+          "displayClassesCN": [
+            "大象科技"
+          ],
           "unique": true,
           "costs": {
             "food": 90,
@@ -45640,6 +46816,9 @@
           ],
           "displayClasses": [
             "Defensive Upgrade"
+          ],
+          "displayClassesCN": [
+            "防御升级"
           ],
           "unique": true,
           "costs": {
@@ -45705,6 +46884,9 @@
           ],
           "displayClasses": [
             "Elephant Technology"
+          ],
+          "displayClassesCN": [
+            "大象科技"
           ],
           "unique": true,
           "costs": {
@@ -45773,6 +46955,9 @@
           "displayClasses": [
             "Man-at-Arms Technology"
           ],
+          "displayClassesCN": [
+            "武士科技"
+          ],
           "unique": true,
           "costs": {
             "food": 50,
@@ -45839,6 +47024,9 @@
           ],
           "displayClasses": [
             "Spearman Technology"
+          ],
+          "displayClassesCN": [
+            "长矛兵科技"
           ],
           "unique": true,
           "costs": {
@@ -45924,6 +47112,9 @@
           "displayClasses": [
             "Elephant Technology"
           ],
+          "displayClassesCN": [
+            "大象科技"
+          ],
           "unique": true,
           "costs": {
             "food": 240,
@@ -46004,6 +47195,9 @@
           "displayClasses": [
             "Naval Technology"
           ],
+          "displayClassesCN": [
+            "海军科技"
+          ],
           "unique": true,
           "costs": {
             "food": 90,
@@ -46070,6 +47264,9 @@
           ],
           "displayClasses": [
             "Elephant Technology"
+          ],
+          "displayClassesCN": [
+            "大象科技"
           ],
           "unique": true,
           "costs": {
@@ -46157,6 +47354,9 @@
           ],
           "displayClasses": [
             "Crossbow Technology"
+          ],
+          "displayClassesCN": [
+            "弩箭科技"
           ],
           "unique": true,
           "costs": {
@@ -46274,6 +47474,9 @@
           "displayClasses": [
             "Imperial Official Technology"
           ],
+          "displayClassesCN": [
+            "朝廷命官科技"
+          ],
           "unique": true,
           "costs": {
             "food": 150,
@@ -46364,6 +47567,9 @@
           "displayClasses": [
             "Zhuge Nu Technology"
           ],
+          "displayClassesCN": [
+            "诸葛弩手科技"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -46430,6 +47636,9 @@
           ],
           "displayClasses": [
             "Siege Technology"
+          ],
+          "displayClassesCN": [
+            "攻城科技"
           ],
           "unique": true,
           "costs": {
@@ -46510,6 +47719,9 @@
           "displayClasses": [
             "Cavalry Technology"
           ],
+          "displayClassesCN": [
+            "骑兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 75,
@@ -46576,6 +47788,9 @@
           ],
           "displayClasses": [
             "Lancer Technology"
+          ],
+          "displayClassesCN": [
+            "长矛骑兵科技"
           ],
           "unique": true,
           "costs": {
@@ -46656,6 +47871,9 @@
           "displayClasses": [
             "Grenadier Technology"
           ],
+          "displayClassesCN": [
+            "掷弹兵科技"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -46716,6 +47934,9 @@
           ],
           "displayClasses": [
             "Economic Upgrade"
+          ],
+          "displayClassesCN": [
+            "经济升级"
           ],
           "unique": true,
           "costs": {
@@ -46778,6 +47999,9 @@
           "displayClasses": [
             "Military Upgrade"
           ],
+          "displayClassesCN": [
+            "军事升级"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -46838,6 +48062,9 @@
           ],
           "displayClasses": [
             "Economic Upgrade"
+          ],
+          "displayClassesCN": [
+            "经济升级"
           ],
           "unique": true,
           "costs": {
@@ -46905,6 +48132,9 @@
           ],
           "displayClasses": [
             "Melee Infantry Technology"
+          ],
+          "displayClassesCN": [
+            "近战步兵科技"
           ],
           "unique": true,
           "costs": {
@@ -46979,6 +48209,9 @@
           ],
           "displayClasses": [
             "Economic Upgrade"
+          ],
+          "displayClassesCN": [
+            "经济升级"
           ],
           "unique": true,
           "costs": {

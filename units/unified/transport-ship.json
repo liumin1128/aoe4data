@@ -72,6 +72,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -142,6 +145,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -214,6 +220,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -284,6 +293,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -356,6 +368,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -426,6 +441,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -498,6 +516,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -568,6 +589,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -640,6 +664,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -710,6 +737,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -782,6 +812,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -852,6 +885,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -924,6 +960,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -995,6 +1034,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1065,6 +1107,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -1161,6 +1206,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1232,6 +1280,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1302,6 +1353,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {
@@ -1375,6 +1429,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1446,6 +1503,9 @@
       "displayClasses": [
         "Ship"
       ],
+      "displayClassesCN": [
+        "船只"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1516,6 +1576,9 @@
       ],
       "displayClasses": [
         "Ship"
+      ],
+      "displayClassesCN": [
+        "船只"
       ],
       "unique": false,
       "costs": {

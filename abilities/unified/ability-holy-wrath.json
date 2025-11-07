@@ -29,6 +29,9 @@
       "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "伤害能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

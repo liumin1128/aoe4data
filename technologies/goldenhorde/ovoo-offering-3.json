@@ -22,6 +22,9 @@
   "displayClasses": [
     "Stone Gathering Technology 1/2"
   ],
+  "displayClassesCN": [
+    "石料采集科技 1/2"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

@@ -29,6 +29,9 @@
       "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -14,6 +14,9 @@
   "descriptionCN": "开启以派遣瓦兰吉卫队增援",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

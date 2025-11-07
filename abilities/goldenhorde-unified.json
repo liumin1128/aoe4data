@@ -40,6 +40,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -90,6 +93,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -140,6 +146,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -190,6 +199,9 @@
           "descriptionCN": "升级以发展到第二时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -239,6 +251,9 @@
           "descriptionCN": "升级以发展到第三时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -288,6 +303,9 @@
           "descriptionCN": "升级以发展到第四时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -337,6 +355,9 @@
           "descriptionCN": "从黄金帐篷送出 4 罗斯贡品，并使征收罗斯贡品的成本增加 300 石料。\n征收罗斯贡品的成本每 30 秒将减少 10 石料。每座军事建筑会将该成本额外减少 5 石料，最多可减少 70 石料。当成本为零时，则会自动部署罗斯贡品。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -387,6 +408,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -456,6 +480,9 @@
           "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "驿站"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -490,6 +517,9 @@
           "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -540,6 +570,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -602,6 +635,9 @@
           "descriptionCN": "启用“荣光冲锋”能力将产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有军事单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -652,6 +688,9 @@
           "descriptionCN": "启用后，每当招募任何单位时，强化哨站影响范围内的黄金帐篷和军事建筑都会额外生产一个肉盾。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -702,6 +741,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -766,6 +808,9 @@
           "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -816,6 +861,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -879,6 +927,9 @@
           "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -927,6 +978,9 @@
           "descriptionCN": "启用后，强化哨站影响范围内的牲畜围栏在工作状态下都会生产黄金。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -977,6 +1031,9 @@
           "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

@@ -72,6 +72,9 @@
         "Heavy Melee Infantry",
         "Healer"
       ],
+      "displayClassesCN": [
+        "重装近战步兵、治疗者"
+      ],
       "unique": true,
       "costs": {
         "food": 50,
@@ -197,6 +200,9 @@
         "Heavy Melee Infantry",
         "Healer"
       ],
+      "displayClassesCN": [
+        "重装近战步兵、治疗者"
+      ],
       "unique": true,
       "costs": {
         "food": 50,
@@ -321,6 +327,9 @@
       "displayClasses": [
         "Heavy Melee Infantry",
         "Healer"
+      ],
+      "displayClassesCN": [
+        "重装近战步兵、治疗者"
       ],
       "unique": true,
       "costs": {

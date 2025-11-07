@@ -39,6 +39,9 @@
       "displayClasses": [
         "Hero Level Up Choice"
       ],
+      "displayClassesCN": [
+        "获得鼓舞士气，并获得马匹。"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -21,6 +21,9 @@
   "displayClasses": [
     "Movement Technology"
   ],
+  "displayClassesCN": [
+    "移动科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

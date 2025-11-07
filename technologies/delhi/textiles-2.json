@@ -22,6 +22,9 @@
   "displayClasses": [
     "Villager Technology"
   ],
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

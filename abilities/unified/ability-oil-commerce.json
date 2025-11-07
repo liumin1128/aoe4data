@@ -29,6 +29,9 @@
       "descriptionCN": "村民产生的橄榄油相当于捕鱼时采集的 10% 食物。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {},
       "producedBy": [],
       "icon": "https://data.aoe4world.com/images/abilities/ability-oil-commerce-1.png",

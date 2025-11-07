@@ -29,6 +29,9 @@
       "descriptionCN": "根据附近的资源类型产生资源。8 格内的敌方单位将降低资源的生成速率。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

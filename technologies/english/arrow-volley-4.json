@@ -22,6 +22,9 @@
   "displayClasses": [
     "Longbowman Ability Unlock"
   ],
+  "displayClassesCN": [
+    "长弓兵能力解锁"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

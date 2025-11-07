@@ -68,6 +68,9 @@
       "displayClasses": [
         "Light Ranged and Melee Camel"
       ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
+      ],
       "unique": true,
       "costs": {
         "food": 80,
@@ -223,6 +226,9 @@
       ],
       "displayClasses": [
         "Light Ranged and Melee Camel"
+      ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
       ],
       "unique": true,
       "costs": {
@@ -380,6 +386,9 @@
       "displayClasses": [
         "Light Ranged and Melee Camel"
       ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
+      ],
       "unique": true,
       "costs": {
         "food": 80,
@@ -536,6 +545,9 @@
       ],
       "displayClasses": [
         "Light Ranged and Melee Camel"
+      ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
       ],
       "unique": false,
       "costs": {
@@ -697,6 +709,9 @@
       "displayClasses": [
         "Light Ranged and Melee Camel"
       ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -856,6 +871,9 @@
       ],
       "displayClasses": [
         "Light Ranged and Melee Camel"
+      ],
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
       ],
       "unique": false,
       "costs": {

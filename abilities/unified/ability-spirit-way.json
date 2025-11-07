@@ -29,6 +29,9 @@
       "descriptionCN": "(translation not found) (undefined)",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

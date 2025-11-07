@@ -23,6 +23,9 @@
   "displayClasses": [
     "Buddhist Technology"
   ],
+  "displayClassesCN": [
+    "佛教科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

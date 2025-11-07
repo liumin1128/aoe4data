@@ -46,6 +46,9 @@
       "displayClasses": [
         "Heavy Armor Technology"
       ],
+      "displayClassesCN": [
+        "重型护甲科技"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

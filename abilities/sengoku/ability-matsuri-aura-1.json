@@ -14,6 +14,9 @@
   "descriptionCN": "当前没有采集速率加成。每个抵达此祭典的屋台商人都会为附近村民提供 +5% 的采集速率加成。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

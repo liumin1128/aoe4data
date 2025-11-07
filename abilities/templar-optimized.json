@@ -40,6 +40,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -110,6 +113,9 @@
           "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -160,6 +166,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -223,6 +232,9 @@
           "descriptionCN": "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -287,6 +299,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -352,6 +367,9 @@
           "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -403,6 +421,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 900 黄金的利率偿还，持续 4 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 4000,
             "wood": 0,
@@ -453,6 +474,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 2500,
             "wood": 0,
@@ -503,6 +527,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 300 黄金的利率偿还，持续 2 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 1000,
             "wood": 0,
@@ -553,6 +580,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -618,6 +648,9 @@
           "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

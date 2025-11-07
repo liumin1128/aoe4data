@@ -68,6 +68,9 @@
       "displayClasses": [
         "Religious Melee Infantry"
       ],
+      "displayClassesCN": [
+        "宗教近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

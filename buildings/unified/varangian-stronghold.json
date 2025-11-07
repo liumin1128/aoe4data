@@ -50,6 +50,9 @@
       "displayClasses": [
         "Military Building"
       ],
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -122,7 +125,8 @@
         "line": 30,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

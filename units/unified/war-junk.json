@@ -67,6 +67,9 @@
       "displayClasses": [
         "Springald Ship"
       ],
+      "displayClassesCN": [
+        "扭力弩炮船"
+      ],
       "unique": false,
       "costs": {
         "food": 110,
@@ -187,6 +190,9 @@
       ],
       "displayClasses": [
         "Springald Ship"
+      ],
+      "displayClassesCN": [
+        "扭力弩炮船"
       ],
       "unique": false,
       "costs": {
@@ -309,6 +315,9 @@
       "displayClasses": [
         "Springald Ship"
       ],
+      "displayClassesCN": [
+        "扭力弩炮船"
+      ],
       "unique": false,
       "costs": {
         "food": 110,
@@ -429,6 +438,9 @@
       ],
       "displayClasses": [
         "Springald Ship"
+      ],
+      "displayClassesCN": [
+        "扭力弩炮船"
       ],
       "unique": false,
       "costs": {
@@ -551,6 +563,9 @@
       "displayClasses": [
         "Springald Ship"
       ],
+      "displayClassesCN": [
+        "扭力弩炮船"
+      ],
       "unique": false,
       "costs": {
         "food": 110,
@@ -671,6 +686,9 @@
       ],
       "displayClasses": [
         "Springald Ship"
+      ],
+      "displayClassesCN": [
+        "扭力弩炮船"
       ],
       "unique": false,
       "costs": {

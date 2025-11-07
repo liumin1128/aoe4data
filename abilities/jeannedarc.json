@@ -27,6 +27,9 @@
       "descriptionCN": "贞德在其身边召唤一门加农炮。若使用地点为中立聚落，则会额外召唤一门加农炮。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -60,6 +63,9 @@
       "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "经济能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -110,6 +116,9 @@
       "descriptionCN": "附近村民建造建筑的速度加快 33%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -154,6 +163,9 @@
       "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -208,6 +220,9 @@
       "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -255,6 +270,9 @@
       "descriptionCN": "贞德瞄准一个敌人并发射一支神圣之箭，造成 40 伤害。\n冷却时间：8 秒。\n充能时间：60 秒。\n最大充能数：4",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "伤害能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -302,6 +320,9 @@
       "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "支援能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -352,6 +373,9 @@
       "descriptionCN": "贞德在其身边召唤 3/6 名骑士。若使用地点为中立聚落，则可额外召唤 2 名骑士。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -385,6 +409,9 @@
       "descriptionCN": "贞德附近的同伴获得 +1/1 护甲和 +10% 伤害。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -432,6 +459,9 @@
       "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "伤害能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -479,6 +509,9 @@
       "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -529,6 +562,9 @@
       "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "同伴"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -578,6 +614,9 @@
       "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -622,6 +661,9 @@
       "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -671,6 +713,9 @@
       "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -705,6 +750,9 @@
       "descriptionCN": "贞德召唤 2/4/6 名步弓手到她身边。在中立聚落使用时，可额外多召唤 2 名步弓兵。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -738,6 +786,9 @@
       "descriptionCN": "进贡并立即让贞德返回战场。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -785,6 +836,9 @@
       "descriptionCN": "进贡并立即让贞德返回战场。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -832,6 +886,9 @@
       "descriptionCN": "进贡并立即让贞德返回战场。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -879,6 +936,9 @@
       "descriptionCN": "进贡并立即让贞德返回战场。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -926,6 +986,9 @@
       "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "号召能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -977,6 +1040,9 @@
       "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1026,6 +1092,9 @@
       "descriptionCN": "伤害提升 5 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1071,6 +1140,9 @@
       "descriptionCN": "贞德在其身边召唤 2 名长矛兵。若激活位置为中立聚落、友军城堡或地标，则奖励 50 点经验值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1104,6 +1176,9 @@
       "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "大招"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1153,6 +1228,9 @@
       "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1197,6 +1275,9 @@
       "descriptionCN": "贞德召唤 3 名冠军剑士到她身边。\n冷却时间：240 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "号召能力"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1248,6 +1329,9 @@
       "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1295,6 +1379,9 @@
       "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1342,6 +1429,9 @@
       "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1389,6 +1479,9 @@
       "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "大招"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

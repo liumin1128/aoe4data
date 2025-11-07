@@ -63,6 +63,9 @@
       "displayClasses": [
         "Age IV - Defensive Landmark"
       ],
+      "displayClassesCN": [
+        "第四时代：防御地标"
+      ],
       "unique": true,
       "costs": {
         "food": 2400,
@@ -154,6 +157,9 @@
       },
       "influences": [
         "Archery Range and Stable unit costs reduced by -20%."
+      ],
+      "influencesCN": [
+        "靶场和马厩单位的成本降低  -20%。"
       ]
     },
     {
@@ -187,6 +193,9 @@
       ],
       "displayClasses": [
         "Age IV - Defensive Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代：防御地标"
       ],
       "unique": true,
       "costs": {
@@ -278,7 +287,8 @@
           "cavalry"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

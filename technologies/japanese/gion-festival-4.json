@@ -24,6 +24,9 @@
   "displayClasses": [
     "Shinto Technology"
   ],
+  "displayClassesCN": [
+    "神道教科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

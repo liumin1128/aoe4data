@@ -29,6 +29,9 @@
       "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

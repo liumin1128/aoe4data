@@ -44,6 +44,9 @@
       "displayClasses": [
         "Varangian Bowman Technology"
       ],
+      "displayClassesCN": [
+        "瓦兰吉弓兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

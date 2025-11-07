@@ -29,6 +29,9 @@
       "descriptionCN": "附近的侦察兵强化了火炬伤害。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {},
       "producedBy": [],
       "icon": "https://data.aoe4world.com/images/abilities/ability-improved-torch-1.png",

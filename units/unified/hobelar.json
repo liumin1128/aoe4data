@@ -64,6 +64,9 @@
       "displayClasses": [
         "Light Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型近战骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 70,
@@ -258,6 +261,9 @@
       "displayClasses": [
         "Light Melee Cavalry"
       ],
+      "displayClassesCN": [
+        "轻型近战骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 70,
@@ -451,6 +457,9 @@
       ],
       "displayClasses": [
         "Light Melee Cavalry"
+      ],
+      "displayClassesCN": [
+        "轻型近战骑兵"
       ],
       "unique": true,
       "costs": {

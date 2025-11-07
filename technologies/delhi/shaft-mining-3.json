@@ -22,6 +22,9 @@
   "displayClasses": [
     "Mining Technology 2/3"
   ],
+  "displayClassesCN": [
+    "采矿科技 2/3"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

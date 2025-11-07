@@ -63,6 +63,9 @@
       "displayClasses": [
         "Springald Ship"
       ],
+      "displayClassesCN": [
+        "扭力弩炮船"
+      ],
       "unique": true,
       "costs": {
         "food": 75,
@@ -234,6 +237,9 @@
       ],
       "displayClasses": [
         "Springald Ship"
+      ],
+      "displayClassesCN": [
+        "扭力弩炮船"
       ],
       "unique": true,
       "costs": {

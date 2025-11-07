@@ -56,6 +56,9 @@
       "displayClasses": [
         "Defensive Building"
       ],
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -102,6 +105,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     }
   ]

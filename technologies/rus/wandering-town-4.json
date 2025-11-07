@@ -23,6 +23,9 @@
   "displayClasses": [
     "Ram Technology"
   ],
+  "displayClassesCN": [
+    "冲车科技"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

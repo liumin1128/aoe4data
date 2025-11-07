@@ -29,6 +29,9 @@
       "descriptionCN": "脱离战斗的单位每秒恢复 2 生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

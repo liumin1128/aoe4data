@@ -22,6 +22,9 @@
   "displayClasses": [
     "Cavalry Technology"
   ],
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "unique": true,
   "costs": {
     "food": 250,

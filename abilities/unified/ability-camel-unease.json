@@ -30,6 +30,9 @@
       "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -79,6 +82,9 @@
       "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

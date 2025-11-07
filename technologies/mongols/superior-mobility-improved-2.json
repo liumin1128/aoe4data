@@ -22,6 +22,9 @@
   "displayClasses": [
     "Packing Technology"
   ],
+  "displayClassesCN": [
+    "拆装科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

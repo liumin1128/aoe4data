@@ -48,6 +48,9 @@
       "displayClasses": [
         "Woodcutting Technology"
       ],
+      "displayClassesCN": [
+        "伐木科技"
+      ],
       "unique": true,
       "costs": {
         "food": 25,

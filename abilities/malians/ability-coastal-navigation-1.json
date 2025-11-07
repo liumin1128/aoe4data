@@ -14,6 +14,9 @@
   "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "沿海航行"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

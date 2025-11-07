@@ -31,6 +31,9 @@
           "descriptionCN": "步兵在骆驼单位附近时可获得护甲。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -113,6 +116,9 @@
           "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -162,6 +168,9 @@
           "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -247,6 +256,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -301,6 +313,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -355,6 +370,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -409,6 +427,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -463,6 +484,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -517,6 +541,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -571,6 +598,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -625,6 +655,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -679,6 +712,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -733,6 +769,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -787,6 +826,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -841,6 +883,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -895,6 +940,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -949,6 +997,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1003,6 +1054,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1057,6 +1111,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1111,6 +1168,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1165,6 +1225,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1219,6 +1282,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1273,6 +1339,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1327,6 +1396,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1381,6 +1453,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1471,6 +1546,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1518,6 +1596,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1565,6 +1646,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1612,6 +1696,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1659,6 +1746,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1706,6 +1796,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1753,6 +1846,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1800,6 +1896,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1847,6 +1946,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1894,6 +1996,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1941,6 +2046,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1988,6 +2096,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2035,6 +2146,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2082,6 +2196,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2129,6 +2246,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2176,6 +2296,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2223,6 +2346,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2270,6 +2396,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2317,6 +2446,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2364,6 +2496,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2411,6 +2546,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2458,6 +2596,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2521,6 +2662,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2555,6 +2699,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2631,6 +2778,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2665,6 +2815,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2743,6 +2896,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2777,6 +2933,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2855,6 +3014,9 @@
           "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2903,6 +3065,9 @@
           "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -2987,6 +3152,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3036,6 +3204,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3085,6 +3256,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3134,6 +3308,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3183,6 +3360,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3232,6 +3412,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3281,6 +3464,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3330,6 +3516,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3379,6 +3568,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3428,6 +3620,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3477,6 +3672,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3526,6 +3724,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3575,6 +3776,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3624,6 +3828,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3673,6 +3880,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3722,6 +3932,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3771,6 +3984,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3820,6 +4036,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3869,6 +4088,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3918,6 +4140,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -3967,6 +4192,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4016,6 +4244,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4080,6 +4311,9 @@
           "descriptionCN": "治疗附近单位。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4148,6 +4382,9 @@
           "descriptionCN": "试图招降此伊玛目范围内的单个敌方单位，使其为您所用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4212,6 +4449,9 @@
           "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4257,6 +4497,9 @@
           "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4338,6 +4581,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4387,6 +4633,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4436,6 +4685,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4485,6 +4737,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4534,6 +4789,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4584,6 +4842,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4634,6 +4895,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4683,6 +4947,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4732,6 +4999,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4782,6 +5052,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4831,6 +5104,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4880,6 +5156,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4929,6 +5208,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -4978,6 +5260,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5027,6 +5312,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5076,6 +5364,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5125,6 +5416,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5175,6 +5469,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5224,6 +5521,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5273,6 +5573,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5322,6 +5625,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5371,6 +5677,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5435,6 +5744,9 @@
           "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +20%。不能在码头驻扎。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5504,6 +5816,9 @@
           "descriptionCN": "切换为近战武器剑。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5563,6 +5878,9 @@
           "descriptionCN": "切换为远程武器长弓。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5622,6 +5940,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5699,6 +6020,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5775,6 +6099,9 @@
           "descriptionCN": "治疗附近所有单位。携带圣物时治疗速度要快 +50% 倍。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5854,6 +6181,9 @@
           "descriptionCN": "攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。\n一次只能作用于一个单位。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5934,6 +6264,9 @@
           "descriptionCN": "切换为燃烧弹药，可造成更大范围的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -5994,6 +6327,9 @@
           "descriptionCN": "切换为实心弹药，可造成更高的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6054,6 +6390,9 @@
           "descriptionCN": "与其他重装骑兵相比，骆驼长矛骑兵的冲锋速度更快，发起冲锋的频率更高，距离也更长。骆驼长矛骑兵所造成的基线冲锋伤害 -25%。冲锋所用的每秒时间可提高冲锋的伤害 (最高达 +40%)。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "被动能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6113,6 +6452,9 @@
           "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6194,6 +6536,9 @@
           "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6243,6 +6588,9 @@
           "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6307,6 +6655,9 @@
           "descriptionCN": "切换为开启以激活低生命值时自动饮水功能，每秒恢复的生命值快速增加 25，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6385,6 +6736,9 @@
           "descriptionCN": "瓦兰吉卫队换用他们的双手武器，可造成 +6 伤害，持续 30 秒。护甲防护 -4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6459,6 +6813,9 @@
           "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6508,6 +6865,9 @@
           "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6572,6 +6932,9 @@
           "descriptionCN": "在蓄水池影响范围之内，军事单位生产速率将按水位 +20%/+40%/+60%/+80%/+100%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6641,6 +7004,9 @@
           "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6709,6 +7075,9 @@
           "descriptionCN": "盟军奇观附近护甲 +3。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-emperors-guard-1.png",
@@ -6745,6 +7114,9 @@
           "descriptionCN": "从建造的每种建筑获得各种石料量。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -6804,6 +7176,9 @@
           "descriptionCN": "附近的侦察兵强化了火炬伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-improved-torch-1.png",
@@ -6869,6 +7244,9 @@
           "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-irrigated-1.png",
@@ -6922,6 +7300,9 @@
           "descriptionCN": "运输船在卸载后的移动速度加快。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-naval-deployment-1.png",
@@ -6983,6 +7364,9 @@
           "descriptionCN": "村民产生的橄榄油相当于捕鱼时采集的 10% 食物。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-oil-commerce-1.png",
@@ -7032,6 +7416,9 @@
           "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 20% 食物。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-olive-harvest-1.png",
@@ -7068,6 +7455,9 @@
           "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7146,6 +7536,9 @@
           "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7199,6 +7592,9 @@
           "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7267,6 +7663,9 @@
           "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7337,6 +7736,9 @@
           "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7382,6 +7784,9 @@
           "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7427,6 +7832,9 @@
           "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7487,6 +7895,9 @@
           "descriptionCN": "进入防御姿态，移动速度 -25%，攻击速度 -25%，以及受到的远程伤害 -30%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7572,6 +7983,9 @@
           "descriptionCN": "在大酒庄附近，农夫和浆果采集者产生的橄榄油 +60%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-synergistic-crops-1.png",
@@ -7623,6 +8037,9 @@
           "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7683,6 +8100,9 @@
           "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7776,6 +8196,9 @@
           "descriptionCN": "伤害增加 +6，护甲削弱 -4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-varangian-berserking-1.png",
@@ -7812,6 +8235,9 @@
           "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7874,6 +8300,9 @@
           "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7937,6 +8366,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -7987,6 +8419,9 @@
           "descriptionCN": "所有站在城墙上的单位的远程伤害 +25%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8056,6 +8491,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 100%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8119,6 +8557,9 @@
           "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8181,6 +8622,9 @@
           "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8246,6 +8690,9 @@
           "descriptionCN": "治疗附近脱离战斗的单位，每 1 秒恢复其 6 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8326,6 +8773,9 @@
           "descriptionCN": "将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8387,6 +8837,9 @@
           "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8452,6 +8905,9 @@
           "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8541,6 +8997,9 @@
           "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8620,6 +9079,9 @@
           "descriptionCN": "放置篝火，使附近单位的视野范围 +30%，村民采集可狩猎动物的速率 +10%。\n任何时候最多可以点燃 5 堆篝火。额外放置一堆篝火会熄灭一堆旧篝火。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 25,
@@ -8680,6 +9142,9 @@
           "descriptionCN": "激活可增加 +1 格武器攻击范围，并获得 +5 远程护甲。\n效果持续 30 秒或直到弓弩手移动为止。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8753,6 +9218,9 @@
           "descriptionCN": "影响范围内的靶场和马厩生产单位的成本降低 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8803,6 +9271,9 @@
           "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8851,6 +9322,9 @@
           "descriptionCN": "城镇中心的生产和研究速度提升 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8914,6 +9388,9 @@
           "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -8962,6 +9439,9 @@
           "descriptionCN": "城镇中心的生产和研究速度 +10%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9025,6 +9505,9 @@
           "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9073,6 +9556,9 @@
           "descriptionCN": "城镇中心的生产和研究速度 +15%。\n额外提升幅度会随时代进展增加。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9135,6 +9621,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9185,6 +9674,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9235,6 +9727,9 @@
           "descriptionCN": "升级黄金帐篷可以进入下一个时代。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9285,6 +9780,9 @@
           "descriptionCN": "升级以发展到第二时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9334,6 +9832,9 @@
           "descriptionCN": "升级以发展到第三时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9383,6 +9884,9 @@
           "descriptionCN": "升级以发展到第四时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9432,6 +9936,9 @@
           "descriptionCN": "从黄金帐篷送出 4 罗斯贡品，并使征收罗斯贡品的成本增加 300 石料。\n征收罗斯贡品的成本每 30 秒将减少 10 石料。每座军事建筑会将该成本额外减少 5 石料，最多可减少 70 石料。当成本为零时，则会自动部署罗斯贡品。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9482,6 +9989,9 @@
           "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "驿站"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9516,6 +10026,9 @@
           "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9566,6 +10079,9 @@
           "descriptionCN": "启用“荣光冲锋”能力将产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有军事单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9616,6 +10132,9 @@
           "descriptionCN": "启用后，每当招募任何单位时，强化哨站影响范围内的黄金帐篷和军事建筑都会额外生产一个肉盾。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9666,6 +10185,9 @@
           "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9716,6 +10238,9 @@
           "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9749,6 +10274,9 @@
           "descriptionCN": "你的活跃商人总数越多，可通过每位商人取得的资源类别也会相应增加。\n5 名以上商人：食物 +10%。\n10 名以上商人：食物 +10%、木材 +10%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9798,6 +10326,9 @@
           "descriptionCN": "启用后，强化哨站影响范围内的牲畜围栏在工作状态下都会生产黄金。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9848,6 +10379,9 @@
           "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9897,6 +10431,9 @@
           "descriptionCN": "村民可以将资源存放在修道院。\n在该修道院中驻扎高级教士可以鼓舞附近的所有村民，提升他们的采集速度。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -9948,6 +10485,9 @@
           "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10021,6 +10561,9 @@
           "descriptionCN": "建筑能以每 1 秒恢复其 150 生命值的速度进行自我修理，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10109,6 +10652,9 @@
           "descriptionCN": "军事单位造成的伤害 +15% ，护甲 +1。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "强化"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10270,6 +10816,9 @@
           "descriptionCN": "军事船只的攻击速度 +5%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10318,6 +10867,9 @@
           "descriptionCN": "军事船只的攻击速度 +5%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10382,6 +10934,9 @@
           "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10490,6 +11045,9 @@
           "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10613,6 +11171,9 @@
           "descriptionCN": "国王学院提供了 +15% 更便宜的研究成本。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10679,6 +11240,9 @@
           "descriptionCN": "偏转护甲充能可以抵挡一次近战或远程攻击。脱离战斗 8 秒后可重新充能。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10742,6 +11306,9 @@
           "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10791,6 +11358,9 @@
           "descriptionCN": "女武者会在看到敌人时发射镝矢以加快移动速度，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10854,6 +11424,9 @@
           "descriptionCN": "光环可使近战步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10919,6 +11492,9 @@
           "descriptionCN": "将一个依代放置在以下建筑中，获得加成并增加视野。\n军事和码头：+125% 工作效率\n城镇中心：+30% 生产速度\n农舍：每分钟 +70 食物\n伐木场：每分钟 +70 木材\n锻造厂：每分钟 +50 黄金\n世界奇观：+4000 生命值",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -10990,6 +11566,9 @@
           "descriptionCN": "瞄准一座视野内的敌方建筑，对其造成 200 伤害，使其无法生产并将其点燃，持续 30 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11050,6 +11629,9 @@
           "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "单击鼠标左键，然后在目标位置上单击鼠标左键"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11110,6 +11692,9 @@
           "descriptionCN": "敌方伤害降低 50%，持续 60 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11171,6 +11756,9 @@
           "descriptionCN": "瞄准敌方的可见单位或建筑，将忍者伪装成该玩家的村民。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11231,6 +11819,9 @@
           "descriptionCN": "选择一个中立贸易站，从该位置定期生成宝藏商队。当获得命令到达水上贸易站时，商队可以转变成贸易船。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11292,6 +11883,9 @@
           "descriptionCN": "光环可使骑兵单位的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11356,6 +11950,9 @@
           "descriptionCN": "光环可使远程步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11421,6 +12018,9 @@
           "descriptionCN": "贞德在其身边召唤一门加农炮。若使用地点为中立聚落，则会额外召唤一门加农炮。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11469,6 +12069,9 @@
           "descriptionCN": "贞德可以圣化生产建筑，使单位的食物成本降低 -25%。\n无冷却时间\n充能时间：120 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "经济能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11534,6 +12137,9 @@
           "descriptionCN": "附近村民建造建筑的速度加快 33%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11593,6 +12199,9 @@
           "descriptionCN": "贞德瞄准一个敌人并发射一支神圣之箭，造成 40 伤害。\n冷却时间：8 秒。\n充能时间：60 秒。\n最大充能数：4",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "伤害能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11655,6 +12264,9 @@
           "descriptionCN": "贞德和附近的盟友受到祝福，可立即治疗相当于其损失生命值 30% 的生命值。\n冷却时间：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "支援能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11720,6 +12332,9 @@
           "descriptionCN": "贞德在其身边召唤 3/6 名骑士。若使用地点为中立聚落，则可额外召唤 2 名骑士。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11768,6 +12383,9 @@
           "descriptionCN": "贞德附近的同伴获得 +1/1 护甲和 +10% 伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11830,6 +12448,9 @@
           "descriptionCN": "贞德施放一次强大的有效范围攻击，对 1.25 格内的所有敌人造成 20 伤害。\n冷却：8 秒。\n充能时间：60 秒。\n最大充能数：4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "伤害能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11892,6 +12513,9 @@
           "descriptionCN": "贞德在脱离战斗状态时，根据其当前等级，每秒可恢复 1/1.5/2/2.5 生命值。\n贞德在等级 3 时受到的远程攻击伤害减少 45%；该数值在等级 4 时提升至 60%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -11957,6 +12581,9 @@
           "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "同伴"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12021,6 +12648,9 @@
           "descriptionCN": "贞德可以通过完成任务来获得经验值，比如采集资源、建造建筑、狩猎野猪、占领圣地以及参与战斗。贞德还会随着时间流逝而获得少量经验值。\n贞德在获得足够的经验值后就可以升级，将会变得更加强大，还能获得独特能力。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12080,6 +12710,9 @@
           "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12129,6 +12762,9 @@
           "descriptionCN": "贞德召唤 2/4/6 名步弓手到她身边。在中立聚落使用时，可额外多召唤 2 名步弓兵。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12177,6 +12813,9 @@
           "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12224,6 +12863,9 @@
           "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12271,6 +12913,9 @@
           "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12318,6 +12963,9 @@
           "descriptionCN": "进贡并立即让贞德返回战场。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12380,6 +13028,9 @@
           "descriptionCN": "贞德召唤 3 名骑兵到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "号召能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12446,6 +13097,9 @@
           "descriptionCN": "贞德在其身边召唤 2 名长矛兵。若激活位置为中立聚落、友军城堡或地标，则奖励 50 点经验值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12494,6 +13148,9 @@
           "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "大招"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12558,6 +13215,9 @@
           "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12617,6 +13277,9 @@
           "descriptionCN": "贞德召唤 3 名冠军剑士到她身边。\n冷却时间：240 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "号召能力"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12683,6 +13346,9 @@
           "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "大招"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12747,6 +13413,9 @@
           "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12796,6 +13465,9 @@
           "descriptionCN": "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12859,6 +13531,9 @@
           "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -12909,6 +13584,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 900 黄金的利率偿还，持续 4 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 4000,
             "wood": 0,
@@ -12958,6 +13636,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 600 黄金的利率偿还，持续 3 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 2500,
             "wood": 0,
@@ -13007,6 +13688,9 @@
           "descriptionCN": "向朝圣者提供一份贷款，朝圣者将以每分钟 300 黄金的利率偿还，持续 2 分钟",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 1000,
             "wood": 0,
@@ -13056,6 +13740,9 @@
           "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13105,6 +13792,9 @@
           "descriptionCN": "开启以派遣阿特盖尔增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13155,6 +13845,9 @@
           "descriptionCN": "开启以派遣攻击船增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13205,6 +13898,9 @@
           "descriptionCN": "开启以派遣波莫增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13255,6 +13951,9 @@
           "descriptionCN": "能力可对军事生产或科技建筑使用，使其工作速率 +150%。如果是对采矿场、伐木场或农田使用，则开始产生 160 黄金、木材或食物，持续 60 秒。\n每隔 90 秒补充一次。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13305,6 +14004,9 @@
           "descriptionCN": "开启以派遣箭船增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13355,6 +14057,9 @@
           "descriptionCN": "开启以派遣瑞塔利增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13405,6 +14110,9 @@
           "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13454,6 +14162,9 @@
           "descriptionCN": "开启以派遣瓦兰吉卫队增援",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13504,6 +14215,9 @@
           "descriptionCN": "在战斗中足够多的单位阵亡后，用瓦兰吉人、箭船或攻击船进行增援。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13554,6 +14268,9 @@
           "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13616,6 +14333,9 @@
           "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "沿海航行"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13683,6 +14403,9 @@
           "descriptionCN": "可提升下一次攻击造成的伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13760,6 +14483,9 @@
           "descriptionCN": "村民的采集速率和移动速度提升 +50%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13826,6 +14552,9 @@
           "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13893,6 +14622,9 @@
           "descriptionCN": "所有单位生产速度 +100%，持续 90 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -13967,6 +14699,9 @@
           "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14055,6 +14790,9 @@
           "descriptionCN": "射出一支信号箭，使附近远程单位 (包括汗) 的攻击速度提升 +50%，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14122,6 +14860,9 @@
           "descriptionCN": "每次攻击后恢复生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14181,6 +14922,9 @@
           "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的护甲 +2，持续 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14284,6 +15028,9 @@
           "descriptionCN": "(translation not found) (undefined)",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14333,6 +15080,9 @@
           "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14411,6 +15161,9 @@
           "descriptionCN": "影响范围内的建筑可获得双倍生产和强化科技。影响范围内的牧场生产绵羊的速度加快。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14460,6 +15213,9 @@
           "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "驿站"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14534,6 +15290,9 @@
           "descriptionCN": "速度提升 25%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14605,6 +15364,9 @@
           "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的攻击速度 +15%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14682,6 +15444,9 @@
           "descriptionCN": "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14829,6 +15594,9 @@
           "descriptionCN": "获得 +50% 攻击速度，并从近战武器中受得 +50% 伤害，持续 10 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14902,6 +15670,9 @@
           "descriptionCN": "移动速度加成 +15%",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -14981,6 +15752,9 @@
           "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的近战护甲增加 +2。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15058,6 +15832,9 @@
           "descriptionCN": "奥斯曼军乐队的战鼓可使附近单位的远程护甲增加 +1。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15135,6 +15912,9 @@
           "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15232,6 +16012,9 @@
           "descriptionCN": "激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15308,6 +16091,9 @@
           "descriptionCN": "邻近攻城武器厂的攻城器械成本降低 20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15391,6 +16177,9 @@
           "descriptionCN": "攻击敌人后，僧侣战士会在一段时间内提升邻近友方罗斯军事单位的护甲和伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15580,6 +16369,9 @@
           "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "固定作战"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15639,6 +16431,9 @@
           "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15688,6 +16483,9 @@
           "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15738,6 +16536,9 @@
           "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15789,6 +16590,9 @@
           "descriptionCN": "当前没有采集速率加成。每个抵达此祭典的屋台商人都会为附近村民提供 +5% 的采集速率加成。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15838,6 +16642,9 @@
           "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15888,6 +16695,9 @@
           "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15937,6 +16747,9 @@
           "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +50%，并让敌方的速度 -30%，持续 3 秒。\n忍者在 90 秒后或用完 3 枚烟雾弹后就会逃走。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "单击鼠标左键，然后在目标位置上单击鼠标左键"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -15987,6 +16800,9 @@
           "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "单击鼠标左键，然后在目标位置上单击鼠标左键"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16037,6 +16853,9 @@
           "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16088,6 +16907,9 @@
           "descriptionCN": "附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16137,6 +16959,9 @@
           "descriptionCN": "少林僧侣在脱离战斗时会恢复生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16196,6 +17021,9 @@
           "descriptionCN": "少林僧侣能让身体硬化，并将来袭远程伤害减少 50%，持续 15 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16256,6 +17084,9 @@
           "descriptionCN": "根据附近的资源类型产生资源。8 格内的敌方单位将降低资源的生成速率。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16317,6 +17148,9 @@
           "descriptionCN": "骑兵单位造成伤害 +20%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16385,6 +17219,9 @@
           "descriptionCN": "火药单位和防御性建筑攻击范围 +1。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16469,6 +17306,9 @@
           "descriptionCN": "步兵单位移动速度加快 15%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16547,6 +17387,9 @@
           "descriptionCN": "脱离战斗的单位每秒恢复 2 生命值。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -16639,6 +17482,9 @@
           "descriptionCN": "使用朝廷命官监督研究、生产或存放建筑，使其工作速度提升 150%。存放资源的建筑可多接收 20% 资源。无法用于地标、城镇中心或码头。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,

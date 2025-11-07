@@ -71,6 +71,9 @@
       "displayClasses": [
         "Heavy Melee Infantry"
       ],
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 90,
@@ -216,6 +219,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Infantry"
+      ],
+      "displayClassesCN": [
+        "重装近战步兵"
       ],
       "unique": true,
       "costs": {
@@ -365,6 +371,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Varangian Infantry"
+      ],
+      "displayClassesCN": [
+        "重装近战瓦兰吉步兵"
       ],
       "unique": true,
       "costs": {
@@ -568,6 +577,9 @@
       "displayClasses": [
         "Heavy Melee Varangian Infantry"
       ],
+      "displayClassesCN": [
+        "重装近战瓦兰吉步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 90,
@@ -769,6 +781,9 @@
       ],
       "displayClasses": [
         "Heavy Melee Varangian Infantry"
+      ],
+      "displayClassesCN": [
+        "重装近战瓦兰吉步兵"
       ],
       "unique": true,
       "costs": {

@@ -66,6 +66,9 @@
       "displayClasses": [
         "Religious Cavalry"
       ],
+      "displayClassesCN": [
+        "宗教骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 40,

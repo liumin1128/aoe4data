@@ -33,6 +33,9 @@
     "Light Melee Cavalry",
     "Camel"
   ],
+  "displayClassesCN": [
+    "轻型近战骑兵、骆驼"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

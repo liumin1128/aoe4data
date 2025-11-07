@@ -47,6 +47,9 @@
       "displayClasses": [
         "Royal Knight Technology"
       ],
+      "displayClassesCN": [
+        "皇家骑士科技"
+      ],
       "unique": true,
       "costs": {
         "food": 75,
@@ -111,6 +114,9 @@
       ],
       "displayClasses": [
         "Royal Knight Technology"
+      ],
+      "displayClassesCN": [
+        "皇家骑士科技"
       ],
       "unique": true,
       "costs": {

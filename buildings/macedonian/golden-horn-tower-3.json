@@ -31,6 +31,9 @@
   "displayClasses": [
     "Age III - Military Landmark"
   ],
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "unique": true,
   "costs": {
     "food": 1200,
@@ -722,5 +725,6 @@
       "khan"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

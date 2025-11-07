@@ -33,6 +33,9 @@
   "displayClasses": [
     "Heavy Melee Infantry"
   ],
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

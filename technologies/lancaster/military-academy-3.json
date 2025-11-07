@@ -37,6 +37,9 @@
   "displayClasses": [
     "Production Technology"
   ],
+  "displayClassesCN": [
+    "生产科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

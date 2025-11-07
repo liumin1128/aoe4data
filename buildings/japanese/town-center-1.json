@@ -30,6 +30,9 @@
   "displayClasses": [
     "Economy & Population Building"
   ],
+  "displayClassesCN": [
+    "经济和人口建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -74,5 +77,6 @@
       "khan"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

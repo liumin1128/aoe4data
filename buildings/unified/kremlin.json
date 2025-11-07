@@ -64,6 +64,9 @@
       "displayClasses": [
         "Age II - Defensive Landmark"
       ],
+      "displayClassesCN": [
+        "第二时代：防御地标"
+      ],
       "unique": true,
       "costs": {
         "food": 400,
@@ -148,6 +151,9 @@
       },
       "influences": [
         "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+      ],
+      "influencesCN": [
+        "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
       ]
     }
   ]

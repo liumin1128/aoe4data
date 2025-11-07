@@ -61,6 +61,9 @@
       "displayClasses": [
         "Incendiary Ship"
       ],
+      "displayClassesCN": [
+        "燃烧船"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -173,6 +176,9 @@
       ],
       "displayClasses": [
         "Incendiary Ship"
+      ],
+      "displayClassesCN": [
+        "燃烧船"
       ],
       "unique": false,
       "costs": {
@@ -287,6 +293,9 @@
       "displayClasses": [
         "Incendiary Ship"
       ],
+      "displayClassesCN": [
+        "燃烧船"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -399,6 +408,9 @@
       ],
       "displayClasses": [
         "Incendiary Ship"
+      ],
+      "displayClassesCN": [
+        "燃烧船"
       ],
       "unique": false,
       "costs": {

@@ -22,6 +22,9 @@
   "displayClasses": [
     "Keshik Technology"
   ],
+  "displayClassesCN": [
+    "怯薛骑兵科技"
+  ],
   "unique": true,
   "costs": {
     "food": 150,

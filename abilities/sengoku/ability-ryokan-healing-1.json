@@ -14,6 +14,9 @@
   "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

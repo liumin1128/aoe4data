@@ -33,6 +33,9 @@
   "displayClasses": [
     "Archer Technology"
   ],
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

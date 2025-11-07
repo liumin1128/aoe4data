@@ -27,6 +27,9 @@
   "displayClasses": [
     "Light Cavalry"
   ],
+  "displayClassesCN": [
+    "轻型骑兵"
+  ],
   "unique": true,
   "costs": {
     "food": 100,

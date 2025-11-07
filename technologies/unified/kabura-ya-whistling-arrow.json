@@ -48,6 +48,9 @@
       "displayClasses": [
         "Onna-Musha Technology"
       ],
+      "displayClassesCN": [
+        "女武者科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

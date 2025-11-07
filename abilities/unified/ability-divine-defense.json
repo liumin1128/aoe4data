@@ -29,6 +29,9 @@
       "descriptionCN": "火药单位和防御性建筑攻击范围 +1。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

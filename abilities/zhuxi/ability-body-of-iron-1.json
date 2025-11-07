@@ -14,6 +14,9 @@
   "descriptionCN": "少林僧侣能让身体硬化，并将来袭远程伤害减少 50%，持续 15 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

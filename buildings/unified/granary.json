@@ -53,6 +53,9 @@
       "displayClasses": [
         "Economy Building"
       ],
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -88,6 +91,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ]
     },
     {
@@ -116,6 +122,9 @@
       ],
       "displayClasses": [
         "Economy Building"
+      ],
+      "displayClassesCN": [
+        "经济建筑"
       ],
       "unique": true,
       "costs": {
@@ -150,7 +159,8 @@
         "line": 15,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

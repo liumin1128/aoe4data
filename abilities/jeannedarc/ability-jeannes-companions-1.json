@@ -14,6 +14,9 @@
   "descriptionCN": "使用圣女贞德达到第 3 级，以选择要在城堡训练的冠军剑士/骑兵。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "同伴"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

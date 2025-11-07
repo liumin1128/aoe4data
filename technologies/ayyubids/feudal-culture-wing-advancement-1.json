@@ -23,6 +23,9 @@
   "displayClasses": [
     "Advance to Age II"
   ],
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "unique": false,
   "costs": {
     "food": 225,

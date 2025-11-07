@@ -22,6 +22,9 @@
   "displayClasses": [
     "Imperial Official Technology"
   ],
+  "displayClassesCN": [
+    "朝廷命官科技"
+  ],
   "unique": true,
   "costs": {
     "food": 150,

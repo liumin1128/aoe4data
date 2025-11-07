@@ -40,6 +40,9 @@
           "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -120,6 +123,9 @@
           "descriptionCN": "装载这门加农炮进行火炮射击，射程增加 5 格，伤害增加 30%。\n只能以建筑为目标。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -184,6 +190,9 @@
           "descriptionCN": "切换为开启以激活低生命值时自动饮水功能，每秒恢复的生命值快速增加 25，持续 6 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -262,6 +271,9 @@
           "descriptionCN": "瓦兰吉卫队换用他们的双手武器，可造成 +6 伤害，持续 30 秒。护甲防护 -4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -335,6 +347,9 @@
           "descriptionCN": "视野范围增加 7 格。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -399,6 +414,9 @@
           "descriptionCN": "在蓄水池影响范围之内，军事单位生产速率将按水位 +20%/+40%/+60%/+80%/+100%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -468,6 +486,9 @@
           "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -537,6 +558,9 @@
           "descriptionCN": "引爆这艘船只。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -599,6 +623,9 @@
           "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -667,6 +694,9 @@
           "descriptionCN": "盟军奇观附近护甲 +3。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-emperors-guard-1.png",
@@ -703,6 +733,9 @@
           "descriptionCN": "从建造的每种建筑获得各种石料量。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -762,6 +795,9 @@
           "descriptionCN": "附近的侦察兵强化了火炬伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-improved-torch-1.png",
@@ -827,6 +863,9 @@
           "descriptionCN": "附近的蓄水池使村民采集速率 +10%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-irrigated-1.png",
@@ -880,6 +919,9 @@
           "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -944,6 +986,9 @@
           "descriptionCN": "运输船在卸载后的移动速度加快。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-naval-deployment-1.png",
@@ -1005,6 +1050,9 @@
           "descriptionCN": "村民产生的橄榄油相当于捕鱼时采集的 10% 食物。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-oil-commerce-1.png",
@@ -1054,6 +1102,9 @@
           "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 20% 食物。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-olive-harvest-1.png",
@@ -1090,6 +1141,9 @@
           "descriptionCN": "激活可用来饮水，每秒恢复的生命值快速增加 25，持续 6 秒。\n瓶子可用数：0",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1167,6 +1221,9 @@
           "descriptionCN": "敌方骑兵会眩晕 2.5 秒，并会受到 25 伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1235,6 +1292,9 @@
           "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1303,6 +1363,9 @@
           "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1367,6 +1430,9 @@
           "descriptionCN": "伤害提升 5 秒。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1427,6 +1493,9 @@
           "descriptionCN": "进入防御姿态，移动速度 -25%，攻击速度 -25%，以及受到的远程伤害 -30%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1512,6 +1581,9 @@
           "descriptionCN": "在大酒庄附近，农夫和浆果采集者产生的橄榄油 +60%。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-synergistic-crops-1.png",
@@ -1563,6 +1635,9 @@
           "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1623,6 +1698,9 @@
           "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {
             "food": 0,
             "wood": 0,
@@ -1716,6 +1794,9 @@
           "descriptionCN": "伤害增加 +6，护甲削弱 -4。",
           "classes": [],
           "displayClasses": [],
+          "displayClassesCN": [
+            "(translation not found) (undefined)"
+          ],
           "costs": {},
           "producedBy": [],
           "icon": "https://data.aoe4world.com/images/abilities/ability-varangian-berserking-1.png",

@@ -49,6 +49,9 @@
       "displayClasses": [
         "Unit Technology 3/3"
       ],
+      "displayClassesCN": [
+        "单位科技 3/3"
+      ],
       "unique": false,
       "costs": {
         "food": 300,
@@ -91,6 +94,9 @@
       ],
       "displayClasses": [
         "Unit Technology 3/3"
+      ],
+      "displayClassesCN": [
+        "单位科技 3/3"
       ],
       "unique": false,
       "costs": {

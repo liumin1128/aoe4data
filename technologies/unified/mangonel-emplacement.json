@@ -43,6 +43,9 @@
       "displayClasses": [
         "Weapon Emplacement"
       ],
+      "displayClassesCN": [
+        "武器炮台"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -94,6 +97,9 @@
       ],
       "displayClasses": [
         "Weapon Emplacement"
+      ],
+      "displayClassesCN": [
+        "武器炮台"
       ],
       "unique": true,
       "costs": {

@@ -30,6 +30,9 @@
   "displayClasses": [
     "Light Ranged Cavalry"
   ],
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "unique": true,
   "costs": {
     "food": 80,

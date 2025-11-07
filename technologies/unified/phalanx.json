@@ -47,6 +47,9 @@
       "displayClasses": [
         "Spearman Technology"
       ],
+      "displayClassesCN": [
+        "长矛兵科技"
+      ],
       "unique": true,
       "costs": {
         "food": 50,
@@ -100,6 +103,9 @@
       ],
       "displayClasses": [
         "Spearman Technology"
+      ],
+      "displayClassesCN": [
+        "长矛兵科技"
       ],
       "unique": true,
       "costs": {

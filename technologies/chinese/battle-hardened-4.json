@@ -22,6 +22,9 @@
   "displayClasses": [
     "Palace Guard Technology"
   ],
+  "displayClassesCN": [
+    "皇宫卫兵科技"
+  ],
   "unique": true,
   "costs": {
     "food": 150,

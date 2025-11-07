@@ -29,6 +29,9 @@
       "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

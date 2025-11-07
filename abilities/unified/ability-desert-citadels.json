@@ -29,6 +29,9 @@
       "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -60,6 +60,9 @@
         "Economy Building",
         "Trade Site"
       ],
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -93,7 +96,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

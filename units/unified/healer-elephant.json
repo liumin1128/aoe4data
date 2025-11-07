@@ -70,6 +70,9 @@
         "Heavy Melee Cavalry",
         "Elephant"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵、大象"
+      ],
       "unique": true,
       "costs": {
         "food": 150,
@@ -185,6 +188,9 @@
       "displayClasses": [
         "Heavy Melee Cavalry",
         "Elephant"
+      ],
+      "displayClassesCN": [
+        "重装近战骑兵、大象"
       ],
       "unique": true,
       "costs": {

@@ -14,6 +14,9 @@
   "descriptionCN": "瞄准敌方的可见单位或建筑，将忍者伪装成该玩家的村民。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

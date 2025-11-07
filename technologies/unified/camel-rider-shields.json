@@ -48,6 +48,9 @@
       "displayClasses": [
         "Camel Rider Technology 1/2"
       ],
+      "displayClassesCN": [
+        "骆驼骑兵科技 1/2"
+      ],
       "unique": true,
       "costs": {
         "food": 75,

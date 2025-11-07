@@ -29,6 +29,9 @@
       "descriptionCN": "攻击范围内的马里步兵进入潜行状态。在潜行中，单位会隐身，直到他们遭遇敌人的侦察兵、前哨或参与战斗时发现。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

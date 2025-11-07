@@ -14,6 +14,9 @@
   "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "固定作战"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

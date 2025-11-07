@@ -22,6 +22,9 @@
   "displayClasses": [
     "Religious Technology"
   ],
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "unique": true,
   "costs": {
     "food": 75,

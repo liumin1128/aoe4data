@@ -35,6 +35,9 @@
   "displayClasses": [
     "Unit Technology 2/2"
   ],
+  "displayClassesCN": [
+    "单位科技 2/2"
+  ],
   "unique": false,
   "costs": {
     "food": 300,

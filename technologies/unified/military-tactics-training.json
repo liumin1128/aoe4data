@@ -46,6 +46,9 @@
       "displayClasses": [
         "Military Technology"
       ],
+      "displayClassesCN": [
+        "军事科技"
+      ],
       "unique": true,
       "costs": {
         "food": 250,

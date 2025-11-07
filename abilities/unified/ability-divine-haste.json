@@ -29,6 +29,9 @@
       "descriptionCN": "步兵单位移动速度加快 15%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

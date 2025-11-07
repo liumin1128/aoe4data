@@ -61,6 +61,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -96,6 +99,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -159,6 +165,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -194,6 +203,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -258,6 +270,9 @@
           ],
           "displayClasses": [
             "Age II - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第二时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -797,7 +812,8 @@
               "cavalry"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -852,6 +868,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -887,6 +906,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -938,6 +960,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -973,6 +998,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -1046,6 +1074,9 @@
             "Economy & Population Building",
             "Landmark"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑、地标"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1090,7 +1121,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1151,6 +1183,9 @@
             "Military & Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1192,6 +1227,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -1245,6 +1283,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -1278,7 +1319,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1331,6 +1373,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1364,7 +1409,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1421,6 +1467,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1456,6 +1505,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -1514,6 +1566,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -1603,7 +1658,8 @@
             "line": 40,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1652,6 +1708,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -1685,7 +1744,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1746,6 +1806,9 @@
           "displayClasses": [
             "Age II - Influence Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代 - 影响地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -1779,7 +1842,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1840,6 +1904,9 @@
           "displayClasses": [
             "Age III - Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -1873,7 +1940,8 @@
             "line": 110,
             "height": 5000
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -1929,6 +1997,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -2022,6 +2093,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2075,6 +2149,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2110,6 +2187,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2167,6 +2247,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2202,6 +2285,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2261,6 +2347,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2296,6 +2385,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2353,6 +2445,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2388,6 +2483,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2443,6 +2541,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2478,6 +2579,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2535,6 +2639,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2579,7 +2686,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2628,6 +2736,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -2661,7 +2772,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2714,6 +2826,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2747,7 +2862,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2800,6 +2916,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2833,7 +2952,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -2888,6 +3008,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2923,6 +3046,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -2984,6 +3110,9 @@
           "displayClasses": [
             "Age IV - Military & Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事与科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -3017,7 +3146,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3072,6 +3202,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3107,6 +3240,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -3160,6 +3296,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3193,7 +3332,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3246,6 +3386,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3279,7 +3422,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3333,6 +3477,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": false,
           "costs": {
@@ -3406,7 +3553,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3473,6 +3621,9 @@
           "displayClasses": [
             "Economy & Population Building"
           ],
+          "displayClassesCN": [
+            "经济和人口建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3517,7 +3668,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -3568,6 +3720,9 @@
           "displayClasses": [
             "Technology Building"
           ],
+          "displayClassesCN": [
+            "科技建筑"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3603,6 +3758,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -3652,6 +3810,9 @@
           "displayClasses": [
             "Population Building"
           ],
+          "displayClassesCN": [
+            "人口建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -3694,7 +3855,8 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}

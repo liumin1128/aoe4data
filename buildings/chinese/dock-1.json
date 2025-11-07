@@ -27,6 +27,9 @@
     "Military & Economy Building",
     "Trade Site"
   ],
+  "displayClassesCN": [
+    "军事和经济建筑、交易站"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -68,5 +71,8 @@
   },
   "influences": [
     "Buildings generate +100% tax while within the influence of the Imperial Academy."
+  ],
+  "influencesCN": [
+    "建筑在受到翰林院的影响时产生的税 +100%。"
   ]
 }

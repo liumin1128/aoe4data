@@ -14,6 +14,9 @@
   "descriptionCN": "国王学院提供了 +15% 更便宜的研究成本。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

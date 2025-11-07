@@ -39,6 +39,9 @@
     "Siege Cavalry",
     "Hero"
   ],
+  "displayClassesCN": [
+    "攻城骑兵"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

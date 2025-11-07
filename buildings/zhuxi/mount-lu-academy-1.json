@@ -28,6 +28,9 @@
   "displayClasses": [
     "Age III - Active Landmark"
   ],
+  "displayClassesCN": [
+    "第三时代：主动地标"
+  ],
   "unique": true,
   "costs": {
     "food": 1200,
@@ -61,5 +64,6 @@
     "line": 60,
     "height": 501
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

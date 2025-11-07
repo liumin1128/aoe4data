@@ -49,6 +49,9 @@
       "displayClasses": [
         "Wonder"
       ],
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "unique": true,
       "costs": {
         "food": 5000,
@@ -82,7 +85,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "enclave-of-the-emperor-4",
@@ -108,6 +112,9 @@
       ],
       "displayClasses": [
         "Wonder"
+      ],
+      "displayClassesCN": [
+        "世界奇观"
       ],
       "unique": true,
       "costs": {
@@ -142,7 +149,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

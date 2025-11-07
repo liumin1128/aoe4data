@@ -64,6 +64,9 @@
       "nameCN": "弓弩手",
       "age": 3,
       "descriptionCN": "配备了防御型大盾的高伤害远程单位。最适合在有友军协助时使用。\n+ 反重型专家\n+ 自带近战护甲\n- 生命值低\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -278,6 +281,9 @@
       "nameCN": "步弓手",
       "age": 2,
       "descriptionCN": "成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 射速高\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 30,
         "wood": 50,
@@ -585,6 +591,9 @@
             "Siege",
             "Gunpowder"
           ],
+          "displayClassesCN": [
+            "攻城、火药"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -766,6 +775,9 @@
       "nameCN": "骆驼射手",
       "age": 2,
       "descriptionCN": "高机动性且耐久的远程单位。\n+对长矛兵有伤害加成\n-高成本",
+      "displayClassesCN": [
+        "轻型远程骑兵、骆驼"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1045,6 +1057,9 @@
       "nameCN": "骆驼骑兵",
       "age": 3,
       "descriptionCN": "高机动性且耐久的近战单位，擅长对付各类骑兵。\n+ 对骑兵有伤害加成\n+ 可使敌方骑兵造成的伤害降低\n- 高成本",
+      "displayClassesCN": [
+        "轻型近战骑兵、骆驼"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -1317,6 +1332,9 @@
           "displayClasses": [
             "Warship"
           ],
+          "displayClassesCN": [
+            "战船"
+          ],
           "unique": false,
           "costs": {
             "food": 200,
@@ -1452,6 +1470,9 @@
       "nameCN": "甲胄骑兵",
       "age": 3,
       "descriptionCN": "成本高昂的骑兵，伤害较高，还具备强大的践踏能力，可以冲锋穿过敌人。\n+ 重型护甲\n+ 践踏可造成范围伤害\n- 不具备基础冲锋攻击能力\n- 移动速度较慢\n- 会受到长矛兵及弩手克制",
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "costs": {
         "food": 180,
         "wood": 0,
@@ -1714,6 +1735,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -1859,6 +1883,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -2055,6 +2082,9 @@
       "nameCN": "弩手",
       "age": 3,
       "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 80,
         "wood": 0,
@@ -2251,6 +2281,9 @@
           "displayClasses": [
             "Incendiary Ship"
           ],
+          "displayClassesCN": [
+            "燃烧船"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -2399,6 +2432,9 @@
       "nameCN": "沙漠掠夺者",
       "age": 2,
       "descriptionCN": "可切换远程和近战攻击的全面型骑兵单位。\n+ 远程模式擅长对付轻型步兵\n+ 近战模式擅长对付骑兵\n- 高成本\n- 不擅长对付远程单位",
+      "displayClassesCN": [
+        "轻型远程与近战骆驼"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2788,6 +2824,9 @@
           "displayClasses": [
             "Springald Ship"
           ],
+          "displayClassesCN": [
+            "扭力弩炮船"
+          ],
           "unique": true,
           "costs": {
             "food": 100,
@@ -2924,6 +2963,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3014,6 +3056,9 @@
           ],
           "displayClasses": [
             "Archer Ship"
+          ],
+          "displayClassesCN": [
+            "步弓手船"
           ],
           "unique": false,
           "costs": {
@@ -3151,6 +3196,9 @@
       "nameCN": "古拉姆",
       "age": 3,
       "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -3378,6 +3426,9 @@
           "displayClasses": [
             "Light Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "轻型远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -3516,6 +3567,9 @@
           "displayClasses": [
             "Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 120,
@@ -3625,6 +3679,9 @@
       "nameCN": "骑射手",
       "age": 3,
       "descriptionCN": "机动性高的远程骑兵单位，擅长对付速度较慢的近战单位。\n+ 高机动性\n- 不擅长对抗远程单位",
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -3800,6 +3857,9 @@
       "nameCN": "骑手",
       "age": 2,
       "descriptionCN": "快速骑兵有效突袭、侧翼攻击和克制远程单位.\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
+      "displayClassesCN": [
+        "轻型近战骑兵"
+      ],
       "costs": {
         "food": 100,
         "wood": 20,
@@ -4150,6 +4210,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -4356,6 +4419,9 @@
       "nameCN": "掷枪兵",
       "age": 2,
       "descriptionCN": "远程步兵擅长对抗其他远程单位。\n+ 反远程专家\n+武器射程增加\n+ 自带远程护甲\n- 低生命值\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4675,6 +4741,9 @@
       "nameCN": "怯薛骑兵",
       "age": 2,
       "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n+ 每次攻击后恢复生命值\n- 生命值低于长矛骑兵\n- 会受到长矛兵及弩手克制",
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -5024,6 +5093,9 @@
       "nameCN": "国土佣仆",
       "age": 3,
       "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -5237,6 +5309,9 @@
       "nameCN": "边防军",
       "age": 1,
       "descriptionCN": "最适合用来对付骑兵的步兵。可进入盾墙以减少远程伤害。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n+ 生命值增加\n- 盾墙会降低移动速度\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "costs": {
         "food": 80,
         "wood": 10,
@@ -5661,6 +5736,9 @@
       "nameCN": "长弓兵",
       "age": 2,
       "descriptionCN": "便宜的远程步兵，能对没有护甲的目标造成可观伤害。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -5939,6 +6017,9 @@
           ],
           "displayClasses": [
             "Siege"
+          ],
+          "displayClassesCN": [
+            "攻城"
           ],
           "unique": false,
           "costs": {
@@ -6230,6 +6311,9 @@
       "nameCN": "蒙古突骑",
       "age": 2,
       "descriptionCN": "机动性惊人的远程骑兵，移动时也可进行射击。\n+ 射速高\n- 武器攻击范围较近",
+      "displayClassesCN": [
+        "轻型远程骑兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -6432,6 +6516,9 @@
           "displayClasses": [
             "Religious"
           ],
+          "displayClassesCN": [
+            "宗教"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -6530,6 +6617,9 @@
       "nameCN": "穆索法迪战士",
       "age": 2,
       "descriptionCN": "擅长伏击和克制重型目标的步兵。\n+ 可以进入匿踪状态\n+ 反重型专家\n- 生命值低\n- 会受到弓兵克制\n- 首都城镇中心、哨站和侦察兵可以识破匿踪",
+      "displayClassesCN": [
+        "轻型近战步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -6846,6 +6936,9 @@
             "Siege",
             "Gunpowder"
           ],
+          "displayClassesCN": [
+            "攻城、火药"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -7004,6 +7097,9 @@
           "displayClasses": [
             "Siege",
             "Gunpowder"
+          ],
+          "displayClassesCN": [
+            "攻城、火药"
           ],
           "unique": false,
           "costs": {
@@ -7192,6 +7288,9 @@
       "nameCN": "皇家骑士",
       "age": 2,
       "descriptionCN": "在冲锋后的 5 秒内获得伤害加成。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -7484,6 +7583,9 @@
           "displayClasses": [
             "Light Melee Cavalry"
           ],
+          "displayClassesCN": [
+            "轻型近战骑兵"
+          ],
           "unique": false,
           "costs": {
             "food": 65,
@@ -7625,6 +7727,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -7746,6 +7851,9 @@
       "nameCN": "西帕希骑兵",
       "age": 2,
       "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
+      "displayClassesCN": [
+        "轻型近战骑兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8095,6 +8203,9 @@
           "displayClasses": [
             "Siege"
           ],
+          "displayClassesCN": [
+            "攻城"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -8254,6 +8365,9 @@
           "displayClasses": [
             "Ranged Gunpowder Infantry"
           ],
+          "displayClassesCN": [
+            "远程火药步兵"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -8381,6 +8495,9 @@
           "displayClasses": [
             "Ranged Cavalry",
             "Elephant"
+          ],
+          "displayClassesCN": [
+            "远程骑兵、大象"
           ],
           "unique": false,
           "costs": {
@@ -8581,6 +8698,9 @@
             "Worker",
             "Ship"
           ],
+          "displayClassesCN": [
+            "工人、船只"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -8661,6 +8781,9 @@
           ],
           "displayClasses": [
             "Worker"
+          ],
+          "displayClassesCN": [
+            "工人"
           ],
           "unique": false,
           "costs": {
@@ -8748,6 +8871,9 @@
           ],
           "displayClasses": [
             "Ship"
+          ],
+          "displayClassesCN": [
+            "船只"
           ],
           "unique": false,
           "costs": {
@@ -8849,6 +8975,9 @@
       "nameCN": "瓦兰吉卫队",
       "age": 3,
       "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
+      "displayClassesCN": [
+        "重装近战步兵"
+      ],
       "costs": {
         "food": 90,
         "wood": 0,
@@ -9102,6 +9231,9 @@
           "displayClasses": [
             "Worker"
           ],
+          "displayClassesCN": [
+            "工人"
+          ],
           "unique": false,
           "costs": {
             "food": 50,
@@ -9252,6 +9384,9 @@
           "displayClasses": [
             "Heavy Melee Cavalry",
             "Elephant"
+          ],
+          "displayClassesCN": [
+            "重装近战骑兵、大象"
           ],
           "unique": false,
           "costs": {
@@ -9471,6 +9606,9 @@
       "nameCN": "诸葛弩手",
       "age": 2,
       "descriptionCN": "向敌方单位发射具有巨大伤害潜力的箭矢。\n+ 射速高\n- 对高远程护甲单位无效\n- 会受到骑手克制",
+      "displayClassesCN": [
+        "轻型远程步兵"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

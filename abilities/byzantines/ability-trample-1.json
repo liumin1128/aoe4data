@@ -14,6 +14,9 @@
   "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 12 点伤害。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

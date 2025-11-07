@@ -57,6 +57,9 @@
       "displayClasses": [
         "Age IV - Military Landmark"
       ],
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "unique": true,
       "costs": {
         "food": 2400,
@@ -96,7 +99,8 @@
           "monk"
         ]
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "palace-of-the-sultan-3",
@@ -126,6 +130,9 @@
       ],
       "displayClasses": [
         "Age IV - Landmark"
+      ],
+      "displayClassesCN": [
+        "第四时代 - 地标"
       ],
       "unique": true,
       "costs": {
@@ -160,7 +167,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

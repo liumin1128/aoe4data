@@ -14,6 +14,9 @@
   "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

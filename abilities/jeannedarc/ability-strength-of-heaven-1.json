@@ -14,6 +14,9 @@
   "descriptionCN": "贞德选择一个单位进行祝福，赋予其无匹的力量和耐力。选中的战士可获得 300 生命值、4 近战和远程护甲，以及 +300% 伤害。\n贞德一次只能祝福一个单位。\n冷却时间：30 秒。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "大招"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

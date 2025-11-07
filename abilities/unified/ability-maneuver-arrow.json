@@ -29,6 +29,9 @@
       "descriptionCN": "射出一支信号箭，使附近单位 (包括汗) 的移动速度 +33 ，持续 5 秒。村民不受影响。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

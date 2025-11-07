@@ -80,6 +80,9 @@
         "Heavy Melee Cavalry",
         "Hero"
       ],
+      "displayClassesCN": [
+        "重装近战骑兵"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

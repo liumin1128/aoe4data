@@ -23,6 +23,9 @@
   "displayClasses": [
     "Healing Technology"
   ],
+  "displayClassesCN": [
+    "治疗科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

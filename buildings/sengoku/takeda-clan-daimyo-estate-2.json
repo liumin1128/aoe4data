@@ -24,6 +24,9 @@
   "displayClasses": [
     "Military Building"
   ],
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -59,5 +62,8 @@
   },
   "influences": [
     "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+  ],
+  "influencesCN": [
+    "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
   ]
 }

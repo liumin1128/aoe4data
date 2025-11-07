@@ -14,6 +14,9 @@
   "descriptionCN": "影响范围内的靶场和马厩生产单位的成本降低 20%。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

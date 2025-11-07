@@ -26,6 +26,9 @@
   "displayClasses": [
     "Defensive Building"
   ],
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -118,5 +121,8 @@
   },
   "influences": [
     "Building output is improved while within the influence of a Cistern."
+  ],
+  "influencesCN": [
+    "蓄水池影响范围内，建筑产出增加。"
   ]
 }

@@ -27,6 +27,9 @@
   "displayClasses": [
     "Religious"
   ],
+  "displayClassesCN": [
+    "宗教"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

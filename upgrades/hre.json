@@ -46,6 +46,9 @@
       "displayClasses": [
         "Unit Technology 2/2"
       ],
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "unique": false,
       "costs": {
         "food": 300,
@@ -96,6 +99,9 @@
       ],
       "displayClasses": [
         "Unit Technology 1/1"
+      ],
+      "displayClassesCN": [
+        "单位科技 1/1"
       ],
       "unique": false,
       "costs": {
@@ -152,6 +158,9 @@
       "displayClasses": [
         "Unit Technology 2/2"
       ],
+      "displayClassesCN": [
+        "单位科技 2/2"
+      ],
       "unique": false,
       "costs": {
         "food": 300,
@@ -203,6 +212,9 @@
       "displayClasses": [
         "Unit Technology 1/1"
       ],
+      "displayClassesCN": [
+        "单位科技 1/1"
+      ],
       "unique": false,
       "costs": {
         "food": 300,
@@ -244,6 +256,9 @@
       ],
       "displayClasses": [
         "Unit Technology 1/1"
+      ],
+      "displayClassesCN": [
+        "单位科技 1/1"
       ],
       "unique": false,
       "costs": {
@@ -287,6 +302,9 @@
       ],
       "displayClasses": [
         "Unit Technology 2/2"
+      ],
+      "displayClassesCN": [
+        "单位科技 2/2"
       ],
       "unique": false,
       "costs": {
@@ -343,6 +361,9 @@
       "displayClasses": [
         "Unit Technology 3/3"
       ],
+      "displayClassesCN": [
+        "单位科技 3/3"
+      ],
       "unique": false,
       "costs": {
         "food": 300,
@@ -398,6 +419,9 @@
       "displayClasses": [
         "Unit Technology 1/3"
       ],
+      "displayClassesCN": [
+        "单位科技 1/3"
+      ],
       "unique": false,
       "costs": {
         "food": 15,
@@ -440,6 +464,9 @@
       ],
       "displayClasses": [
         "Unit Technology 1/2"
+      ],
+      "displayClassesCN": [
+        "单位科技 1/2"
       ],
       "unique": false,
       "costs": {
@@ -494,6 +521,9 @@
       ],
       "displayClasses": [
         "Unit Technology 1/2"
+      ],
+      "displayClassesCN": [
+        "单位科技 1/2"
       ],
       "unique": false,
       "costs": {
@@ -550,6 +580,9 @@
       "displayClasses": [
         "Unit Technology 1/2"
       ],
+      "displayClassesCN": [
+        "单位科技 1/2"
+      ],
       "unique": false,
       "costs": {
         "food": 100,
@@ -603,6 +636,9 @@
       ],
       "displayClasses": [
         "Unit Technology 2/3"
+      ],
+      "displayClassesCN": [
+        "单位科技 2/3"
       ],
       "unique": false,
       "costs": {

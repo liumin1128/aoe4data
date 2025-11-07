@@ -23,6 +23,9 @@
   "displayClasses": [
     "Wood Gathering Technology 2/3"
   ],
+  "displayClassesCN": [
+    "木材采集科技 2/3"
+  ],
   "unique": false,
   "costs": {
     "food": 100,

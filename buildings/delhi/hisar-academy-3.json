@@ -28,6 +28,9 @@
   "displayClasses": [
     "Age IV - Technology Landmark"
   ],
+  "displayClassesCN": [
+    "第四时代：科技地标"
+  ],
   "unique": true,
   "costs": {
     "food": 2400,
@@ -67,5 +70,6 @@
       "monk"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

@@ -30,6 +30,9 @@
       "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -75,6 +78,9 @@
       "descriptionCN": "在第一次攻击结束后快速发动第二次攻击。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -29,6 +29,9 @@
       "descriptionCN": "4 格内所有单位的攻击速度提高 35%，持续 20 秒。\n冷却时间：60 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "大招"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

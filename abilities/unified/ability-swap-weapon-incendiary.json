@@ -29,6 +29,9 @@
       "descriptionCN": "切换为燃烧弹药，可造成更大范围的伤害。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

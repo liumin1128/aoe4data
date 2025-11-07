@@ -38,6 +38,9 @@
   "displayClasses": [
     "Melee Armor Technology 1/3"
   ],
+  "displayClassesCN": [
+    "近战护甲科技 1/3"
+  ],
   "unique": false,
   "costs": {
     "food": 50,

@@ -29,6 +29,9 @@
       "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -29,6 +29,9 @@
       "descriptionCN": "光环可使远程步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

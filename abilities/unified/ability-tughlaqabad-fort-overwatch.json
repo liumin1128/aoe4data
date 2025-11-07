@@ -29,6 +29,9 @@
       "descriptionCN": "附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

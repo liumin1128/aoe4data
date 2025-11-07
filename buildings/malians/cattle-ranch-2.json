@@ -21,6 +21,9 @@
     "Food Source",
     "Building"
   ],
+  "displayClassesCN": [
+    "食物来源、建筑"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -60,5 +63,6 @@
       "cattle"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

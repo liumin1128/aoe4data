@@ -21,6 +21,9 @@
   "displayClasses": [
     "Springald Technology"
   ],
+  "displayClassesCN": [
+    "扭力弩炮科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

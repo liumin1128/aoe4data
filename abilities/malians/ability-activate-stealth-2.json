@@ -14,6 +14,9 @@
   "descriptionCN": "进入潜行状态 30 秒。\n在潜行时，单位会隐身，直到他们被敌人的侦察兵、前哨和地标城镇中心发现或参与战斗。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

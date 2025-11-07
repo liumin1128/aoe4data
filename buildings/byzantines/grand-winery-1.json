@@ -32,6 +32,9 @@
   "displayClasses": [
     "Age II - Economic & Religious Landmark"
   ],
+  "displayClassesCN": [
+    "第二时代 - 经济与宗教地标"
+  ],
   "unique": true,
   "costs": {
     "food": 400,
@@ -67,5 +70,8 @@
   },
   "influences": [
     "Building output is improved while within the influence of a Cistern."
+  ],
+  "influencesCN": [
+    "蓄水池影响范围内，建筑产出增加。"
   ]
 }

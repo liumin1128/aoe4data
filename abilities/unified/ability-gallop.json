@@ -29,6 +29,9 @@
       "descriptionCN": "激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

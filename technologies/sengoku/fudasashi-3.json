@@ -23,6 +23,9 @@
   "displayClasses": [
     "Villager Technology 3/3"
   ],
+  "displayClassesCN": [
+    "村民科技 3/3"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

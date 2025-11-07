@@ -67,6 +67,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -89,6 +92,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -100,6 +106,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -124,6 +133,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -141,6 +153,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -160,6 +175,9 @@
           ],
           "influences": [
             "Unit production costs reduced by -20% when within the influence of a Keep."
+          ],
+          "influencesCN": [
+            "在城堡的影响范围内时，单位生产成本 -20%。"
           ]
         },
         {
@@ -189,6 +207,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -268,6 +289,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -293,6 +317,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -315,6 +342,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -334,6 +364,9 @@
           ],
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         },
         {
@@ -365,6 +398,9 @@
       "nameCN": "靶场",
       "age": 2,
       "descriptionCN": "生产远程步兵单位。",
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -397,6 +433,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -463,6 +500,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -485,6 +525,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -496,6 +539,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -520,6 +566,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -537,6 +586,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -582,6 +634,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -664,6 +719,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -689,6 +747,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -711,6 +772,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -730,6 +794,9 @@
           ],
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         },
         {
@@ -761,6 +828,9 @@
       "nameCN": "兵营",
       "age": 1,
       "descriptionCN": "生产近战步兵单位。",
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -793,6 +863,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -852,6 +923,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -871,6 +945,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -882,6 +959,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -906,6 +986,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -917,6 +1000,9 @@
           ],
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -960,6 +1046,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -1015,6 +1104,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         },
         {
@@ -1040,6 +1132,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -1062,6 +1157,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -1095,6 +1193,9 @@
       "nameCN": "铁匠铺",
       "age": 2,
       "descriptionCN": "可研究强化步兵和骑兵的科技。",
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -1127,6 +1228,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -1211,6 +1313,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -1241,6 +1346,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -1252,6 +1360,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -1311,6 +1422,9 @@
           "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和高级教士，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -2091,6 +2205,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -2105,6 +2222,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -2136,6 +2256,9 @@
           ],
           "influences": [
             "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+          ],
+          "influencesCN": [
+            "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
           ]
         },
         {
@@ -2187,6 +2310,9 @@
       "nameCN": "城镇中心",
       "age": 1,
       "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
+      "displayClassesCN": [
+        "经济和人口建筑、地标"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -2230,6 +2356,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -2312,6 +2439,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -2347,6 +2477,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -2358,6 +2491,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -2382,6 +2518,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -2400,6 +2539,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -2462,6 +2604,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -2566,6 +2711,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -2588,6 +2736,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -2640,6 +2791,9 @@
       "nameCN": "码头",
       "age": 1,
       "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
+      "displayClassesCN": [
+        "军事和经济建筑、交易站"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -2678,6 +2832,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -2784,6 +2939,9 @@
           },
           "influences": [
             "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill."
+          ],
+          "influencesCN": [
+            "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。"
           ]
         },
         {
@@ -2921,6 +3079,9 @@
       "nameCN": "农田",
       "age": 1,
       "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
+      "displayClassesCN": [
+        "食物来源、建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -2953,6 +3114,7 @@
         "height": 0
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -3002,6 +3164,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -3013,6 +3178,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -3026,6 +3194,9 @@
           "descriptionCN": "提升人口上限。包含独特的边境聚落科技。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -3288,6 +3459,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -3349,6 +3523,9 @@
           "hitpoints": 550,
           "influences": [
             "The Gold extraction rate of Open Pit Mines is increased by +25% for each House or Mining Camp built within the influence."
+          ],
+          "influencesCN": [
+            "在露天矿区的影响范围内每建造一座房屋或一座采矿场，露天矿区的开采速率 +25%。"
           ]
         },
         {
@@ -3374,6 +3551,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -3621,6 +3801,9 @@
       "nameCN": "房屋",
       "age": 1,
       "descriptionCN": "提升您的人口上限。",
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -3653,6 +3836,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -3707,6 +3891,9 @@
       "nameCN": "智慧宫",
       "age": 1,
       "descriptionCN": "包含阿尤布王朝的文明科技。\n阿尤布通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。\n偏殿奖励基于其建造的时代而提高。",
+      "displayClassesCN": [
+        "科技建筑、地标"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -3733,6 +3920,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ],
       "shared": {
         "house-of-wisdom-1": {
@@ -3831,6 +4021,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -3853,6 +4046,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -3875,6 +4071,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -3929,6 +4128,9 @@
           ],
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -3940,6 +4142,9 @@
           ],
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -3984,6 +4189,9 @@
           },
           "influences": [
             "Archery Range and Stable unit costs reduced by -20%."
+          ],
+          "influencesCN": [
+            "靶场和马厩单位的成本降低  -20%。"
           ]
         },
         {
@@ -4008,6 +4216,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -4095,6 +4306,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -4181,6 +4395,9 @@
       "nameCN": "城堡",
       "age": 3,
       "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -4270,6 +4487,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -4330,6 +4548,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -4350,6 +4571,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -4361,6 +4585,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -4385,6 +4612,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -4396,6 +4626,9 @@
           ],
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -4434,6 +4667,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -4503,6 +4739,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -4522,6 +4761,9 @@
           ],
           "influences": [
             "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+          ],
+          "influencesCN": [
+            "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
           ]
         },
         {
@@ -4547,6 +4789,9 @@
       "nameCN": "伐木场",
       "age": 1,
       "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -4579,6 +4824,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -4647,6 +4893,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -4663,7 +4912,8 @@
             "siegeable",
             "university"
           ],
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         },
         {
           "id": "madrasa-4",
@@ -4686,13 +4936,17 @@
               "monk"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "madrasa",
       "nameCN": "穆斯林学塾",
       "age": 4,
       "descriptionCN": "可研究对整个文明有益的先进科技。",
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 450,
@@ -4726,6 +4980,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ],
       "shared": {}
     },
@@ -4783,6 +5040,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -4804,6 +5064,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -4817,6 +5080,9 @@
           "descriptionCN": "可买卖资源及生产商人。拜占庭商人在成功交易时产生的橄榄油 +20%。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -4841,6 +5107,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -4894,6 +5163,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -4981,6 +5253,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -5006,6 +5281,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -5047,6 +5325,9 @@
       "nameCN": "市场",
       "age": 2,
       "descriptionCN": "可生产商人及买卖资源。",
+      "displayClassesCN": [
+        "经济建筑、交易站"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -5079,6 +5360,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -5145,6 +5427,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5170,6 +5455,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5183,6 +5471,9 @@
           "descriptionCN": "村民可将食物存放于这座建筑内。可研究提升食物采集效率的科技。拜占庭村民产生的橄榄油相当于从浆果丛采集的 50% 食物，捕鱼时采集的 10% 食物，以及从橄榄树林采集的 20% 食物。",
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -5207,6 +5498,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -5220,6 +5514,9 @@
           "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -5231,6 +5528,9 @@
           ],
           "influences": [
             "Farm harvest rate increased +20%/+25%/+30%/+30% by Age while within the influence of a Mill."
+          ],
+          "influencesCN": [
+            "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。"
           ]
         },
         {
@@ -5261,6 +5561,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -5334,6 +5637,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -5359,6 +5665,9 @@
       "nameCN": "磨坊",
       "age": 1,
       "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -5391,6 +5700,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -5454,6 +5764,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5476,6 +5789,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5487,6 +5803,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -5511,6 +5830,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -5522,6 +5844,9 @@
           ],
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -5560,6 +5885,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -5601,6 +5929,9 @@
           "descriptionCN": "村民可将石料和黄金存放于这个建筑。可研究提升采矿效率的科技。除了在采矿营地存放石料和黄金外，村民还存放白银。",
           "influences": [
             "While in the influence of a Varangian Arsenal, an additional 12% of Silver is generated every minute based off the total Silver deposited at this mine."
+          ],
+          "influencesCN": [
+            "在瓦兰吉兵工厂的影响范围内时，每分钟会根据该矿场的白银矿总量额外产生 12% 的白银。"
           ]
         },
         {
@@ -5612,6 +5943,9 @@
           ],
           "influences": [
             "The Gold extraction rate of Open Pit Mines is increased by +25% for each House or Mining Camp built within the influence."
+          ],
+          "influencesCN": [
+            "在露天矿区的影响范围内每建造一座房屋或一座采矿场，露天矿区的开采速率 +25%。"
           ]
         },
         {
@@ -5637,6 +5971,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -5670,6 +6007,9 @@
       "nameCN": "采矿场",
       "age": 1,
       "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -5702,6 +6042,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -5751,6 +6092,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5762,6 +6106,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -5833,6 +6180,9 @@
       "nameCN": "清真寺",
       "age": 1,
       "descriptionCN": "生产学者。您建造的第一间清真寺附带一位学者。从城堡时代 (第三时代) 开始，学者可将圣物存放在这座建筑来产生黄金。",
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -5865,6 +6215,9 @@
       },
       "influences": [
         "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+      ],
+      "influencesCN": [
+        "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
       ],
       "shared": {
         "mosque-1": {
@@ -5915,6 +6268,7 @@
             }
           ],
           "influences": [],
+          "influencesCN": [],
           "id": "mosque-3"
         }
       }
@@ -5982,6 +6336,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -6004,6 +6361,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -6027,6 +6387,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -6086,6 +6449,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -6191,6 +6557,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -6242,6 +6611,9 @@
       "nameCN": "哨站",
       "age": 1,
       "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -6285,6 +6657,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -6540,6 +6913,9 @@
       "nameCN": "木栅栏",
       "age": 1,
       "descriptionCN": "轻型的防御城墙，可快速为区域设防。\n最初花费 21 木材，每增加一段则花费 7 木材。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 7,
@@ -6572,6 +6948,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -6827,6 +7204,9 @@
       "nameCN": "木城门",
       "age": 1,
       "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 25,
@@ -6859,6 +7239,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -6906,6 +7287,9 @@
       "nameCN": "奥卡巴礼拜大殿",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -6939,6 +7323,9 @@
       },
       "influences": [
         "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+      ],
+      "influencesCN": [
+        "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
       ],
       "shared": {}
     },
@@ -7007,6 +7394,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -7029,6 +7419,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -7040,6 +7433,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -7064,6 +7460,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -7123,6 +7522,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -7202,6 +7604,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -7227,6 +7632,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -7249,6 +7657,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -7296,6 +7707,9 @@
       "nameCN": "攻城武器厂",
       "age": 3,
       "descriptionCN": "生产攻城器械和强大的火药单位。",
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 250,
@@ -7328,6 +7742,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -7393,6 +7808,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -7415,6 +7833,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -7437,6 +7858,9 @@
           ],
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -7448,6 +7872,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -7472,6 +7899,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -7489,6 +7919,9 @@
           },
           "influences": [
             "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+          ],
+          "influencesCN": [
+            "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
           ]
         },
         {
@@ -7508,6 +7941,9 @@
           ],
           "influences": [
             "Unit production costs reduced by -20% when within the influence of a Keep."
+          ],
+          "influencesCN": [
+            "在城堡的影响范围内时，单位生产成本 -20%。"
           ]
         },
         {
@@ -7519,6 +7955,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -7602,6 +8041,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -7624,6 +8066,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -7643,6 +8088,9 @@
           ],
           "influences": [
             "Production speed increased +20% while within the influence of a Daimyo Estate."
+          ],
+          "influencesCN": [
+            "大名府邸影响下的生产速度 +20%。"
           ]
         },
         {
@@ -7674,6 +8122,9 @@
       "nameCN": "马厩",
       "age": 1,
       "descriptionCN": "生产骑兵军事单位。",
+      "displayClassesCN": [
+        "军事建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -7699,6 +8150,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "stable-1": {
           "name": "Stable",
@@ -7936,6 +8388,9 @@
           ],
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         },
         {
@@ -8021,6 +8476,9 @@
       "nameCN": "石墙",
       "age": 2,
       "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8046,6 +8504,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "stone-wall-2": {
           "name": "Stone Wall",
@@ -8275,6 +8734,9 @@
           ],
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         },
         {
@@ -8360,6 +8822,9 @@
       "nameCN": "石墙城门",
       "age": 2,
       "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8385,6 +8850,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "stone-wall-gate-2": {
           "name": "Stone Wall Gate",
@@ -8741,6 +9207,9 @@
       "nameCN": "石墙塔",
       "age": 2,
       "descriptionCN": "防御坚实的箭塔，可发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往城墙顶端。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -8766,6 +9235,7 @@
         "height": 501
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "stone-wall-tower-2": {
           "name": "Stone Wall Tower",
@@ -8960,6 +9430,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -8999,6 +9472,9 @@
           },
           "influences": [
             "Buildings within influence gain +5 Fire Armor.\nStructures built within House of Wisdom influence area help progress to the Golden Age and unlock additional bonuses."
+          ],
+          "influencesCN": [
+            "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。"
           ]
         },
         {
@@ -9016,6 +9492,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -9142,6 +9621,9 @@
           "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵和高级教士，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -9330,6 +9812,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         },
         {
@@ -9369,6 +9854,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -9432,6 +9920,9 @@
           ],
           "influences": [
             "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+          ],
+          "influencesCN": [
+            "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
           ]
         },
         {
@@ -9495,6 +9986,9 @@
       "nameCN": "城镇中心",
       "age": 1,
       "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。单位驻扎时可增加额外的攻击次数。\n非首都城镇中心无法侦测匿踪或伪装。",
+      "displayClassesCN": [
+        "经济和人口建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 400,
@@ -9538,6 +10032,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -9586,6 +10081,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -9619,7 +10117,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -9669,6 +10168,9 @@
       "nameCN": "圣慧大教堂",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -9701,6 +10203,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -9745,6 +10248,9 @@
           "displayClasses": [
             "Influence Building"
           ],
+          "displayClassesCN": [
+            "影响建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -9778,7 +10284,8 @@
             "line": 28,
             "height": 4
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -9830,6 +10337,9 @@
           "descriptionCN": "充能一项用于提升军事和研究建筑工作速率的能力。如果是对采矿场、伐木场或农田使用，则开始赚取 160 黄金、木材或食物，持续 60 秒。\n保持 9 充能。",
           "displayClasses": [
             "Age III - Support & Economy Landmark"
+          ],
+          "displayClassesCN": [
+            "第三时代：支持与经济地标"
           ]
         }
       ],
@@ -9837,6 +10347,9 @@
       "nameCN": "地下水宫",
       "age": 2,
       "descriptionCN": "可作为蓄水池使用。解锁朝圣者之瓶能力，用于非攻城类军事单位，激活后每秒恢复的生命值增加 25，持续 6 秒。\n瓶子每 30 秒充能一次，最多充能至 20 次。",
+      "displayClassesCN": [
+        "第三时代 - 影响地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -9869,6 +10382,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -9927,13 +10441,17 @@
             "wonder",
             "wonder_castle_age"
           ],
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "foreign-engineering-company",
       "nameCN": "外国工程公司",
       "age": 3,
       "descriptionCN": "允许用橄榄油生产一窝蜂、回回炮和皇家加农炮。雇佣兵会从其原来的文明中获得各种独特的科技。",
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -9967,6 +10485,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ],
       "shared": {}
     },
@@ -10020,6 +10541,9 @@
       "nameCN": "金角湾塔",
       "age": 2,
       "descriptionCN": "定期免费生产已解锁的雇佣兵单位。",
+      "displayClassesCN": [
+        "第三时代：军事地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -10045,6 +10569,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "golden-horn-tower-2": {
           "name": "Golden Horn Tower",
@@ -10807,13 +11332,17 @@
           ],
           "description": "Acts as a Mill and Monastery. Villagers gather Food 30% faster when affected by its aura. Relics garrisoned generate Silver instead of Gold.",
           "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "grand-winery",
       "nameCN": "大酒庄",
       "age": 1,
       "descriptionCN": "可作为磨坊和修道院使用。附近的村民从浆果丛和橄榄树林中采集的橄榄油 +60%。保管的圣物产生橄榄油而不是黄金。",
+      "displayClassesCN": [
+        "第二时代 - 经济与宗教地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -10847,6 +11376,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ],
       "shared": {}
     },
@@ -10897,13 +11429,17 @@
           ],
           "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
           "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "imperial-hippodrome",
       "nameCN": "帝国竞技场",
       "age": 1,
       "descriptionCN": "可作为马厩使用。具备凯旋能力，可使用补给点激活，以增加骑兵近战伤害、移动速度和生命值恢复效果。\n自带 10 个补给点，并且每 25 秒产生一个。击败敌方单位可获取更多点数。",
+      "displayClassesCN": [
+        "第二时代：军事地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -10937,6 +11473,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ],
       "shared": {}
     },
@@ -10988,6 +11527,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -11023,6 +11565,9 @@
           },
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         }
       ],
@@ -11072,6 +11617,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -11096,6 +11644,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -11139,6 +11690,9 @@
           },
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -11200,6 +11754,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -11225,6 +11782,9 @@
       "nameCN": "修道院",
       "age": 3,
       "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -11257,6 +11817,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -11307,6 +11868,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -11340,7 +11904,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -11389,13 +11954,17 @@
           ],
           "description": "Elite Cataphracts can be rapidly produced in batches at this Landmark for Silver.",
           "descriptionCN": "可在此地标花费白银快速批量生产精锐甲胄骑兵。",
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "palatine-school",
       "nameCN": "贵族学校",
       "age": 3,
       "descriptionCN": "在训练边防军、瓦兰吉卫队、甲胄骑兵或基耶罗喷火筒时，有 30% 的几率在此地标也生成一个相同单位。",
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -11429,6 +11998,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ],
       "shared": {}
     },
@@ -11476,6 +12048,9 @@
           ],
           "influences": [
             "Building output is improved while within the influence of a Cistern."
+          ],
+          "influencesCN": [
+            "蓄水池影响范围内，建筑产出增加。"
           ]
         },
         {
@@ -11500,6 +12075,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         },
         {
@@ -11527,6 +12105,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -11588,6 +12169,9 @@
           ],
           "influences": [
             "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+          ],
+          "influencesCN": [
+            "城镇中心影响范围内的建筑将获得紧急修理能力。"
           ]
         },
         {
@@ -11610,6 +12194,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         },
         {
@@ -11643,6 +12230,9 @@
       "nameCN": "大学",
       "age": 4,
       "descriptionCN": "可研究对整个文明有益的先进科技。",
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 450,
@@ -11675,6 +12265,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -11735,6 +12326,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -11770,6 +12364,9 @@
           },
           "influences": [
             "Buildings generate +100% tax while within the influence of the Imperial Academy."
+          ],
+          "influencesCN": [
+            "建筑在受到翰林院的影响时产生的税 +100%。"
           ]
         }
       ],
@@ -11834,6 +12431,9 @@
           ],
           "displayClasses": [
             "Age II - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第二时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -12373,7 +12973,8 @@
               "cavalry"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -12434,6 +13035,9 @@
       "nameCN": "帝王飞地",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -12466,6 +13070,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -12520,13 +13125,17 @@
             "popcap": 0,
             "time": 35
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "granary",
       "nameCN": "谷仓",
       "age": 1,
       "descriptionCN": "村民可将食物存放于这个建筑。使附近村民的农田采集速率 +10% (可与其他谷仓叠加)。每次存放资源都会产生税。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -12560,6 +13169,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ],
       "shared": {}
     },
@@ -12616,6 +13228,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -12705,7 +13320,8 @@
             "line": 40,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -12766,6 +13382,9 @@
           "displayClasses": [
             "Age II - Influence Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代 - 影响地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -12799,7 +13418,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -12860,6 +13480,9 @@
           "displayClasses": [
             "Age III - Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -12893,7 +13516,8 @@
             "line": 110,
             "height": 5000
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -12959,6 +13583,9 @@
       "nameCN": "宝塔",
       "age": 1,
       "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，可以每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。",
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -12991,6 +13618,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13049,6 +13677,9 @@
           "displayClasses": [
             "Age IV - Military & Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事与科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -13082,7 +13713,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -13181,6 +13813,9 @@
       "nameCN": "村庄",
       "age": 1,
       "descriptionCN": "人口上限提升 40。",
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 100,
@@ -13222,6 +13857,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13286,6 +13922,9 @@
       "nameCN": "守护者大院",
       "age": 2,
       "descriptionCN": "步兵单位可以建造石墙、城门与箭塔。这些建筑及其炮台的石料成本减少 20%。\n 包括无视建筑及帝王时代 (第四时代) 要求的防御技术。",
+      "displayClassesCN": [
+        "第三时代：防御地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -13318,6 +13957,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13375,6 +14015,9 @@
       "nameCN": "信仰穹顶建筑",
       "age": 1,
       "descriptionCN": "可作为清真寺使用。以 55 黄金折扣生产学者。",
+      "displayClassesCN": [
+        "第二时代：宗教地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13413,6 +14056,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13460,6 +14104,9 @@
       "nameCN": "阿格拉大宫殿",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -13492,6 +14139,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13542,6 +14190,9 @@
           "descriptionCN": "可作为穆斯林学塾使用。每个在任总督每分钟生成 50 食物和 50 黄金。",
           "displayClasses": [
             "Age IV - Economic Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：经济地标"
           ]
         }
       ],
@@ -13549,6 +14200,9 @@
       "nameCN": "希萨尔学院",
       "age": 3,
       "descriptionCN": "可作为穆斯林学塾使用。根据研究科技数量，每分钟产生 +12 份食物。不适用于炮台。",
+      "displayClassesCN": [
+        "第四时代：科技地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -13587,6 +14241,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13631,13 +14286,17 @@
           "civs": [
             "tug"
           ],
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "house-of-learning",
       "nameCN": "学苑",
       "age": 2,
       "descriptionCN": "除了发展到下一个时代外不会获得任何立即性加成，但包含许多独特的科技。",
+      "displayClassesCN": [
+        "第三时代：科技地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -13671,6 +14330,9 @@
       },
       "influences": [
         "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+      ],
+      "influencesCN": [
+        "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
       ],
       "shared": {}
     },
@@ -13732,6 +14394,9 @@
           ],
           "displayClasses": [
             "Age IV - Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代 - 地标"
           ]
         }
       ],
@@ -13739,6 +14404,9 @@
       "nameCN": "苏丹宫殿",
       "age": 3,
       "descriptionCN": "自动生产苏丹的精锐箭塔象。派遣学者 (最多 4 名) 驻扎于地标可提升生产速度。",
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -13777,6 +14445,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13829,6 +14498,9 @@
       "nameCN": "胜利之塔",
       "age": 1,
       "descriptionCN": "在胜利之塔、清真寺和穆斯林学塾的影响范围内生产步兵，可将步兵攻击速度提高 20%。",
+      "displayClassesCN": [
+        "第二时代：军事地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13861,6 +14533,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -13914,6 +14587,9 @@
       "nameCN": "列王修道院",
       "age": 1,
       "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒恢复其 +6 生命值。也可以加冕一位国王，一位带有治疗光环的强大骑兵领袖。完成后自动生产一个免费国王。",
+      "displayClassesCN": [
+        "第二时代：宗教地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -13946,6 +14622,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -14002,6 +14679,9 @@
       "nameCN": "伯克郡宫殿",
       "age": 3,
       "descriptionCN": "作为一个城堡使用，拥有增加的生命值和强大的燃烧箭。所有武器都有 14.5 格的射程。",
+      "displayClassesCN": [
+        "第四时代：防御地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -14037,6 +14717,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "berkshire-palace-3": {
           "name": "Berkshire Palace",
@@ -14217,6 +14898,9 @@
       "nameCN": "圣汤马斯大教堂",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -14249,6 +14933,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -14307,6 +14992,9 @@
           "displayClasses": [
             "Age II - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -14340,7 +15028,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -14415,6 +15104,9 @@
           "displayClasses": [
             "Age III - Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -14459,7 +15151,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -14518,6 +15211,9 @@
       "nameCN": "白塔",
       "age": 2,
       "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。工作速度提高 75%。",
+      "displayClassesCN": [
+        "第三时代：防御地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -14553,6 +15249,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "the-white-tower-2": {
           "name": "The White Tower",
@@ -14752,6 +15449,9 @@
       "nameCN": "温嘉德宫殿",
       "age": 3,
       "descriptionCN": "可以生产 4 个营队：温嘉德军队、温嘉德长弓兵、温嘉德掠夺者和温嘉德步兵。",
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -14784,6 +15484,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -14837,6 +15538,9 @@
       "nameCN": "商会",
       "age": 1,
       "descriptionCN": "作为市场使用。为研究的每项经济技术培训一名自由商人。",
+      "displayClassesCN": [
+        "第二时代：经济地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -14862,6 +15566,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "chamber-of-commerce-1": {
           "name": "Chamber of Commerce",
@@ -14957,6 +15662,9 @@
       "nameCN": "炮兵学院",
       "age": 3,
       "descriptionCN": "生产皇家炮兵版加农炮、机关炮和长管炮，它们造成的伤害额外 +30%。\n解锁所有加农炮的火炮术能力。\n包括攻城和火药科技，训练单位和研究科技的速度 +50%。",
+      "displayClassesCN": [
+        "第四时代：军事地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -14982,6 +15690,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "college-of-artillery-3": {
           "name": "College of Artillery",
@@ -15074,6 +15783,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "producedBy": [
             "jeanne-darc-peasant",
             "villager"
@@ -15084,6 +15796,9 @@
       "nameCN": "公会大厅",
       "age": 2,
       "descriptionCN": "可以随时间产生并存放资源；存放的资源越多，产生资源的速度就越快。可选择食物、木材、石料或黄金。产生石料的速度减半。",
+      "displayClassesCN": [
+        "第三时代：地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -15116,6 +15831,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -15176,6 +15892,9 @@
       "nameCN": "圣母院",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -15208,6 +15927,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -15260,13 +15980,17 @@
             "jeanne-darc-peasant",
             "villager"
           ],
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "red-palace",
       "nameCN": "红宫",
       "age": 3,
       "descriptionCN": "可作为城堡使用，配备高伤害劲弩炮台。每个驻扎单位可额外添加一个劲弩。\n激活所有城堡和城镇中心的劲弩炮台。",
+      "displayClassesCN": [
+        "第四时代：防御地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -15357,6 +16081,9 @@
       "influences": [
         "Archery Range and Stable unit costs reduced by -20%."
       ],
+      "influencesCN": [
+        "靶场和马厩单位的成本降低  -20%。"
+      ],
       "shared": {}
     },
     {
@@ -15407,6 +16134,9 @@
       "nameCN": "皇家学院",
       "age": 2,
       "descriptionCN": "可研究法兰西人的所有独特科技。此建筑的研究成本 -30%，并可无视时代需求。",
+      "displayClassesCN": [
+        "第三时代：科技地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -15432,6 +16162,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {
         "royal-institute-2": {
           "name": "Royal Institute",
@@ -15527,13 +16258,17 @@
             "jeanne-darc-peasant",
             "villager"
           ],
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "baseId": "school-of-cavalry",
       "nameCN": "骑兵学校",
       "age": 1,
       "descriptionCN": "可作为马厩使用。你所有马厩的单位生产速度 +20%。",
+      "displayClassesCN": [
+        "第二时代：军事地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -15567,6 +16302,9 @@
       },
       "influences": [
         "Unit production costs reduced by -20% when within the influence of a Keep."
+      ],
+      "influencesCN": [
+        "在城堡的影响范围内时，单位生产成本 -20%。"
       ],
       "shared": {}
     },
@@ -15621,6 +16359,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -15994,7 +16735,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -16068,6 +16810,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         }
       ],
@@ -16075,6 +16820,9 @@
       "nameCN": "蒙古包",
       "age": 1,
       "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 75,
@@ -16107,6 +16855,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -16167,6 +16916,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -16204,7 +16956,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -16254,6 +17007,9 @@
       "nameCN": "大汗纪念碑",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 6650,
         "wood": 6650,
@@ -16286,6 +17042,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -16337,8 +17094,14 @@
           "displayClasses": [
             "Influence & Technology Building"
           ],
+          "displayClassesCN": [
+            "影响与科技建筑"
+          ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect.\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ],
@@ -16346,6 +17109,9 @@
       "nameCN": "敖包",
       "age": 1,
       "descriptionCN": "必须建造在石料露头上。\n每分钟甚至从枯竭的石料存放点收获 60 石料。每次进入新时代后，建造上限 +1。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 150,
@@ -16378,6 +17144,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -16422,6 +17189,9 @@
           ],
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。"
           ]
         }
       ],
@@ -16429,6 +17199,9 @@
       "nameCN": "祈祷帐篷",
       "age": 3,
       "descriptionCN": "生产宗教单位并可研究宗教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -16461,6 +17234,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -16513,6 +17287,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -16546,7 +17323,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -16601,6 +17379,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -16634,7 +17415,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -16705,6 +17487,9 @@
       "nameCN": "亚琛教堂",
       "age": 1,
       "descriptionCN": "高级教士驻扎后可激励大范围内的单位。\n可作为所有类型资源的存放点使用。",
+      "displayClassesCN": [
+        "第二时代：宗教地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -16744,6 +17529,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -16812,6 +17600,9 @@
       "nameCN": "城主宫殿",
       "age": 2,
       "descriptionCN": "可作为兵营使用，生产速度提升 400%。\n步兵的冲锋伤害 +50%。",
+      "displayClassesCN": [
+        "第三时代：军事地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -16845,6 +17636,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -16917,6 +17711,9 @@
       "nameCN": "埃尔茨巴赫宫殿",
       "age": 3,
       "descriptionCN": "可作为城堡使用，其生命值 +50%。影响范围内的所有建筑受到的伤害 -25%。\n每个城堡可以训练 8 黑骑兵，而不是 5。",
+      "displayClassesCN": [
+        "第四时代：防御地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -17007,6 +17804,9 @@
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
       ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
+      ],
       "shared": {}
     },
     {
@@ -17068,6 +17868,9 @@
       "nameCN": "弗伦斯堡大宫殿",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -17101,6 +17904,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -17166,6 +17972,9 @@
       "nameCN": "迈因维克宫殿",
       "age": 1,
       "descriptionCN": "可作为铁匠铺使用，在这里，科技研究成本 -50%，研究速度增加 50%。包括这个地标独有的技术",
+      "displayClassesCN": [
+        "第二时代：科技地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -17199,6 +18008,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -17272,6 +18084,9 @@
       "nameCN": "施瓦本宫殿",
       "age": 3,
       "descriptionCN": "可作为城镇中心使用。村民的生产速度 +200% 且成本 -66%。\n建造此地标的成本 -10%。",
+      "displayClassesCN": [
+        "第四时代 - 地标"
+      ],
       "costs": {
         "food": 2160,
         "wood": 0,
@@ -17316,6 +18131,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -17401,6 +18219,9 @@
       "nameCN": "雷格尼茨大教堂",
       "age": 2,
       "descriptionCN": "可作为修道院使用。所有放置在其中的圣物产生的黄金 +100%。",
+      "displayClassesCN": [
+        "第三时代：宗教地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -17440,6 +18261,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ],
       "shared": {}
     },
@@ -17499,6 +18323,9 @@
           "displayClasses": [
             "Age III - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -17532,7 +18359,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -17592,6 +18420,9 @@
           ],
           "displayClasses": [
             "Age II - Military Landmark"
+          ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
           ],
           "unique": true,
           "costs": {
@@ -17665,7 +18496,8 @@
             "line": 41,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -17717,6 +18549,9 @@
           ],
           "displayClasses": [
             "Population Building"
+          ],
+          "displayClassesCN": [
+            "人口建筑"
           ],
           "unique": true,
           "costs": {
@@ -17790,7 +18625,8 @@
             "line": 15,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -17844,6 +18680,9 @@
       "nameCN": "佛寺",
       "age": 3,
       "descriptionCN": "生产佛教僧侣并研究独特的佛教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
+      "displayClassesCN": [
+        "宗教建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 200,
@@ -17876,6 +18715,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -18886,6 +19726,9 @@
       "nameCN": "城堡",
       "age": 4,
       "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
+      "displayClassesCN": [
+        "防御建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 300,
@@ -18985,6 +19828,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -19059,6 +19903,9 @@
       "nameCN": "乌城",
       "age": 3,
       "descriptionCN": "充当一座城堡。可从所选的中立贸易站定期生成宝藏商队。宝藏商队在抵达乌城时提供大量食物、木材、黄金以及部分石料。",
+      "displayClassesCN": [
+        "第四时代：防御地标"
+      ],
       "costs": {
         "food": 2400,
         "wood": 0,
@@ -20055,6 +20902,7 @@
         ]
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20107,6 +20955,9 @@
       "nameCN": "农舍",
       "age": 1,
       "descriptionCN": "提高人口上限而且村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
+      "displayClassesCN": [
+        "人口建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -20139,6 +20990,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20197,6 +21049,9 @@
           "displayClasses": [
             "Age III - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -20230,7 +21085,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -20285,6 +21141,9 @@
       "nameCN": "锻造厂",
       "age": 1,
       "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿和军事单位的科技。",
+      "displayClassesCN": [
+        "经济建筑"
+      ],
       "costs": {
         "food": 0,
         "wood": 50,
@@ -20317,6 +21176,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20370,6 +21230,9 @@
       "nameCN": "甲贺城镇",
       "age": 1,
       "descriptionCN": "可生产忍者间谍单位，擅长侦察、破坏和暗杀。完成后自动生产一个免费的忍者。",
+      "displayClassesCN": [
+        "第二时代：军事地标"
+      ],
       "costs": {
         "food": 400,
         "wood": 0,
@@ -20402,6 +21265,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20476,6 +21340,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -20520,7 +21387,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -20573,6 +21441,9 @@
           "displayClasses": [
             "Religious Building"
           ],
+          "displayClassesCN": [
+            "宗教建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -20606,7 +21477,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -20673,6 +21545,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -20706,7 +21581,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -20764,6 +21640,9 @@
       "nameCN": "平等院",
       "age": 2,
       "descriptionCN": "生产佛教僧侣，并包含独特的佛教科技。佛教僧侣可以在战斗中提供支持，可施放僧兵经文降低敌人带来的伤害，并用佛教皈依来增强盟友带来的伤害。\n \n另外可以建造 4 座额外的佛教寺庙。",
+      "displayClassesCN": [
+        "第三时代：宗教地标"
+      ],
       "costs": {
         "food": 1200,
         "wood": 0,
@@ -20796,6 +21675,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20843,6 +21723,9 @@
       "nameCN": "德川神社",
       "age": 4,
       "descriptionCN": "建造并守护世界奇观可以获得胜利。敌方文明会察觉并设法摧毁你的世界奇观。",
+      "displayClassesCN": [
+        "世界奇观"
+      ],
       "costs": {
         "food": 5000,
         "wood": 5000,
@@ -20875,6 +21758,7 @@
         "height": 8
       },
       "influences": [],
+      "influencesCN": [],
       "shared": {}
     },
     {
@@ -20940,6 +21824,9 @@
           ],
           "displayClasses": [
             "Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "防御地标"
           ],
           "unique": true,
           "costs": {
@@ -22016,6 +22903,9 @@
           },
           "influences": [
             "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+          ],
+          "influencesCN": [
+            "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
           ]
         }
       ],
@@ -22076,6 +22966,9 @@
           "displayClasses": [
             "Military & Economy Building",
             "Trade Site"
+          ],
+          "displayClassesCN": [
+            "军事和经济建筑、交易站"
           ],
           "unique": true,
           "costs": {
@@ -22144,7 +23037,8 @@
               "fishing ship"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22189,6 +23083,9 @@
           "displayClasses": [
             "Varangian Enhancement"
           ],
+          "displayClassesCN": [
+            "瓦兰吉强化"
+          ],
           "unique": false,
           "costs": {
             "food": 0,
@@ -22218,7 +23115,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22269,6 +23167,9 @@
           "displayClasses": [
             "Varangian Technology Building"
           ],
+          "displayClassesCN": [
+            "瓦兰吉科技建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -22304,6 +23205,9 @@
           },
           "influences": [
             "Mining Camps and Town Centers within the influence of a Varangian Arsenal begin generating an additional 12% of Silver every minute based off the total Silver deposited at the influenced mine."
+          ],
+          "influencesCN": [
+            "对于在瓦兰吉兵工厂影响范围内的采矿场和城镇中心，每分钟开始根据受影响矿场的白银总储量额外产生 12% 的白银。"
           ]
         }
       ],
@@ -22358,6 +23262,9 @@
           ],
           "displayClasses": [
             "Military Building"
+          ],
+          "displayClassesCN": [
+            "军事建筑"
           ],
           "unique": true,
           "costs": {
@@ -22431,7 +23338,8 @@
             "line": 30,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22486,6 +23394,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -22519,7 +23430,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22568,6 +23480,9 @@
             "Food Source",
             "Building"
           ],
+          "displayClassesCN": [
+            "食物来源、建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -22607,7 +23522,8 @@
               "cattle"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22672,6 +23588,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -22705,7 +23624,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22769,6 +23689,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -22860,7 +23783,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -22919,6 +23843,9 @@
           "displayClasses": [
             "Age III - Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -22952,7 +23879,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23005,6 +23933,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -23038,7 +23969,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23097,6 +24029,9 @@
           "displayClasses": [
             "Age IV - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -23130,7 +24065,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23189,6 +24125,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -23222,7 +24161,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23269,6 +24209,9 @@
           "displayClasses": [
             "Influence Building"
           ],
+          "displayClassesCN": [
+            "影响建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -23304,6 +24247,9 @@
           },
           "influences": [
             "The Gold extraction rate of Open Pit Mines is increased by +25% for each House or Mining Camp built within the influence."
+          ],
+          "influencesCN": [
+            "在露天矿区的影响范围内每建造一座房屋或一座采矿场，露天矿区的开采速率 +25%。"
           ]
         }
       ],
@@ -23368,6 +24314,9 @@
           ],
           "displayClasses": [
             "Age II - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第二时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -23454,7 +24403,8 @@
               "cavalry"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23512,6 +24462,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -23936,7 +24889,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -23997,6 +24951,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -24030,7 +24987,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -24095,6 +25053,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -24128,7 +25089,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -24189,6 +25151,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -24222,7 +25187,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -24279,6 +25245,9 @@
           "displayClasses": [
             "Food Production Building"
           ],
+          "displayClassesCN": [
+            "食物生产建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -24314,6 +25283,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ],
@@ -24385,6 +25357,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -24420,6 +25395,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Researches have improved effect."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 研究效果加强。"
           ]
         }
       ],
@@ -24487,6 +25465,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -24522,6 +25503,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。"
           ]
         }
       ],
@@ -24589,6 +25573,9 @@
           "displayClasses": [
             "Age IV - Influence & Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代 - 影响与科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -24624,6 +25611,9 @@
           },
           "influences": [
             "Buildings within the influence of the Ovoo can spend Stone on improved production items:\n- Unit production produces two units instead of one.\n- Researches have improved effect.\n- Pastures produce sheep faster."
+          ],
+          "influencesCN": [
+            "在敖包影响范围内的建筑可花费石料来换取强化生产项目：\n- 生产单位时从生产一个单位变为两个单位。\n- 研究效果加强。\n- 牧场生产绵羊的速度加快。"
           ]
         }
       ],
@@ -24677,6 +25667,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -24710,7 +25703,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -24769,6 +25763,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -24802,7 +25799,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -24863,6 +25861,9 @@
           "displayClasses": [
             "Age IV - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -24898,6 +25899,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ],
@@ -24965,6 +25969,9 @@
           "displayClasses": [
             "Age III - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -25000,6 +26007,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ],
@@ -25055,6 +26065,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -25090,6 +26103,9 @@
           },
           "influences": [
             "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+          ],
+          "influencesCN": [
+            "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
           ]
         }
       ],
@@ -25158,6 +26174,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -25250,7 +26269,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25313,6 +26333,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -25352,7 +26375,8 @@
               "trader"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25417,6 +26441,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -25450,7 +26477,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25517,6 +26545,9 @@
           "displayClasses": [
             "Age III - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -25550,7 +26581,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25603,6 +26635,9 @@
           "displayClasses": [
             "Wonder"
           ],
+          "displayClassesCN": [
+            "世界奇观"
+          ],
           "unique": true,
           "costs": {
             "food": 5000,
@@ -25636,7 +26671,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25689,6 +26725,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -25722,7 +26761,8 @@
             "line": 20,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25775,6 +26815,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -25808,7 +26851,8 @@
             "line": 6,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25869,6 +26913,9 @@
           "displayClasses": [
             "Age IV - Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -25902,7 +26949,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -25965,6 +27013,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -25998,7 +27049,8 @@
             "line": 37,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -26059,6 +27111,9 @@
           "displayClasses": [
             "Economy Building"
           ],
+          "displayClassesCN": [
+            "经济建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26092,7 +27147,8 @@
             "line": 25,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -26160,6 +27216,9 @@
           ],
           "displayClasses": [
             "Age II - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第二时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -26245,6 +27304,9 @@
           },
           "influences": [
             "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+          ],
+          "influencesCN": [
+            "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
           ]
         }
       ],
@@ -26313,6 +27375,9 @@
           ],
           "displayClasses": [
             "Age IV - Defensive Landmark"
+          ],
+          "displayClassesCN": [
+            "第四时代：防御地标"
           ],
           "unique": true,
           "costs": {
@@ -26400,7 +27465,8 @@
               "cavalry"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -26459,6 +27525,9 @@
           "displayClasses": [
             "Age II - Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -26492,7 +27561,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -26553,6 +27623,9 @@
           "displayClasses": [
             "Defensive Building"
           ],
+          "displayClassesCN": [
+            "防御建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26599,6 +27672,9 @@
           },
           "influences": [
             "Lumber Camps and Town Centers within the influence of a Wooden Fortress return 20% more Wood."
+          ],
+          "influencesCN": [
+            "木制要塞影响范围内的伐木场和城镇中心可以带回 20% 额外木材。"
           ]
         }
       ],
@@ -26654,6 +27730,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26689,6 +27768,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -26754,6 +27836,9 @@
             "Economy Building",
             "Trade Site"
           ],
+          "displayClassesCN": [
+            "经济建筑、交易站"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26787,7 +27872,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -26842,6 +27928,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -26877,6 +27966,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -26938,6 +28030,9 @@
           "displayClasses": [
             "Age II - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -26971,7 +28066,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -27034,6 +28130,9 @@
           "displayClasses": [
             "Age III - Economic Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：经济地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -27067,7 +28166,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -27126,6 +28226,9 @@
           "displayClasses": [
             "Age IV - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -27159,7 +28262,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -27214,6 +28318,9 @@
           "displayClasses": [
             "Military Building"
           ],
+          "displayClassesCN": [
+            "军事建筑"
+          ],
           "unique": true,
           "costs": {
             "food": 0,
@@ -27249,6 +28356,9 @@
           },
           "influences": [
             "Barracks, Archery Ranges and Stables production speed increased +20% while within the influence of any Daimyo Estate."
+          ],
+          "influencesCN": [
+            "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。"
           ]
         }
       ],
@@ -27311,6 +28421,9 @@
           ],
           "displayClasses": [
             "Defensive Building"
+          ],
+          "displayClassesCN": [
+            "防御建筑"
           ],
           "unique": true,
           "costs": {
@@ -28368,7 +29481,8 @@
               "khan"
             ]
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28415,6 +29529,9 @@
           "displayClasses": [
             "Economy Elephant"
           ],
+          "displayClassesCN": [
+            "经济大象"
+          ],
           "unique": true,
           "costs": {
             "food": 25,
@@ -28447,7 +29564,8 @@
             "line": 0,
             "height": 0
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28508,6 +29626,9 @@
           "displayClasses": [
             "Age II - Military Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：军事地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -28541,7 +29662,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28602,6 +29724,9 @@
           "displayClasses": [
             "Age II - Passive Landmark"
           ],
+          "displayClassesCN": [
+            "第二时代：被动地标"
+          ],
           "unique": true,
           "costs": {
             "food": 400,
@@ -28635,7 +29760,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28698,6 +29824,9 @@
           "displayClasses": [
             "Age III - Active Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：主动地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -28731,7 +29860,8 @@
             "line": 60,
             "height": 501
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28802,6 +29932,9 @@
           "displayClasses": [
             "Age III - Religious Landmark"
           ],
+          "displayClassesCN": [
+            "第三时代：宗教地标"
+          ],
           "unique": true,
           "costs": {
             "food": 1200,
@@ -28835,7 +29968,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28894,6 +30028,9 @@
           "displayClasses": [
             "Age IV - Active Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：主动地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -28927,7 +30064,8 @@
             "line": 40,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}
@@ -28986,6 +30124,9 @@
           "displayClasses": [
             "Age IV - Military & Technology Landmark"
           ],
+          "displayClassesCN": [
+            "第四时代：军事与科技地标"
+          ],
           "unique": true,
           "costs": {
             "food": 2400,
@@ -29019,7 +30160,8 @@
             "line": 25,
             "height": 8
           },
-          "influences": []
+          "influences": [],
+          "influencesCN": []
         }
       ],
       "shared": {}

@@ -32,6 +32,9 @@
     "Light Ranged Cavalry",
     "Camel"
   ],
+  "displayClassesCN": [
+    "轻型远程骑兵、骆驼"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

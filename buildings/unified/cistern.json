@@ -42,6 +42,9 @@
       "displayClasses": [
         "Influence Building"
       ],
+      "displayClassesCN": [
+        "影响建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -75,7 +78,8 @@
         "line": 28,
         "height": 4
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

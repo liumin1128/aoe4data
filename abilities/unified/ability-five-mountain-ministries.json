@@ -29,6 +29,9 @@
       "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

@@ -29,6 +29,9 @@
       "descriptionCN": "敌方伤害降低 50%，持续 60 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

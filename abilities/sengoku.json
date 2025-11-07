@@ -27,6 +27,9 @@
       "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -61,6 +64,9 @@
       "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -96,6 +102,9 @@
       "descriptionCN": "试图招降此僧侣范围内的敌方单位，使其为你所用。\n冷却：120 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -150,6 +159,9 @@
       "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -186,6 +198,9 @@
       "descriptionCN": "引爆这艘船只。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -233,6 +248,9 @@
       "descriptionCN": "激活后，移动速度在 10 秒里提高 40%，造成伤害时会提前停用。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -282,6 +300,9 @@
       "descriptionCN": "当前没有采集速率加成。每个抵达此祭典的屋台商人都会为附近村民提供 +5% 的采集速率加成。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -316,6 +337,9 @@
       "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -351,6 +375,9 @@
       "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -400,6 +427,9 @@
       "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 5 秒可使单位恢复 3 生命值。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -434,6 +464,9 @@
       "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +50%，并让敌方的速度 -30%，持续 3 秒。\n忍者在 90 秒后或用完 3 枚烟雾弹后就会逃走。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "单击鼠标左键，然后在目标位置上单击鼠标左键"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,
@@ -469,6 +502,9 @@
       "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "单击鼠标左键，然后在目标位置上单击鼠标左键"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

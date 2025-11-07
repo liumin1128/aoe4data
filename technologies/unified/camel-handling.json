@@ -46,6 +46,9 @@
       "displayClasses": [
         "Camel Technology"
       ],
+      "displayClassesCN": [
+        "骆驼科技"
+      ],
       "unique": true,
       "costs": {
         "food": 75,

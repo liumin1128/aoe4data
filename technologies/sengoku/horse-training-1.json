@@ -22,6 +22,9 @@
   "displayClasses": [
     "Takeda Clan Technology"
   ],
+  "displayClassesCN": [
+    "武田氏族科技"
+  ],
   "unique": true,
   "costs": {
     "food": 50,

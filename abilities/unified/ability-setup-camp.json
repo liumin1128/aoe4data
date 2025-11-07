@@ -29,6 +29,9 @@
       "descriptionCN": "放置篝火，使附近单位的视野范围 +30%，村民采集可狩猎动物的速率 +10%。\n任何时候最多可以点燃 5 堆篝火。额外放置一堆篝火会熄灭一堆旧篝火。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 25,

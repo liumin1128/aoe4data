@@ -29,6 +29,9 @@
       "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

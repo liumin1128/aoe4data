@@ -59,6 +59,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -94,6 +97,9 @@
       },
       "influences": [
         "Building output is improved while within the influence of a Cistern."
+      ],
+      "influencesCN": [
+        "蓄水池影响范围内，建筑产出增加。"
       ]
     },
     {
@@ -119,6 +125,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -155,6 +164,9 @@
       },
       "influences": [
         "Buildings generate +100% tax while within the influence of the Imperial Academy."
+      ],
+      "influencesCN": [
+        "建筑在受到翰林院的影响时产生的税 +100%。"
       ]
     },
     {
@@ -181,6 +193,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -214,7 +229,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -240,6 +256,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -273,7 +292,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -298,6 +318,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -334,6 +357,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -360,6 +386,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -393,7 +422,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -419,6 +449,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -452,7 +485,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -477,6 +511,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -512,7 +549,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -537,6 +575,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -571,7 +612,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -596,6 +638,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -632,6 +677,9 @@
       },
       "influences": [
         "Buildings gain the Emergency Repairs ability while within the influence of a Town Center."
+      ],
+      "influencesCN": [
+        "城镇中心影响范围内的建筑将获得紧急修理能力。"
       ]
     },
     {
@@ -657,6 +705,9 @@
       ],
       "displayClasses": [
         "Technology Building"
+      ],
+      "displayClassesCN": [
+        "科技建筑"
       ],
       "unique": false,
       "costs": {
@@ -693,6 +744,9 @@
       },
       "influences": [
         "Military unit production rate increased +20%/+30%/+40% by Age while within the influence of a Blacksmith or University. The Istanbul Observatory increases the bonus to +100%."
+      ],
+      "influencesCN": [
+        "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +100%。"
       ]
     },
     {
@@ -719,6 +773,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -752,7 +809,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -778,6 +836,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -811,7 +872,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     },
     {
       "id": "university-4",
@@ -837,6 +899,9 @@
       "displayClasses": [
         "Technology Building"
       ],
+      "displayClassesCN": [
+        "科技建筑"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -870,7 +935,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

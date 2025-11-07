@@ -46,6 +46,9 @@
       "displayClasses": [
         "Horse Archer Technology"
       ],
+      "displayClassesCN": [
+        "骑射手科技"
+      ],
       "unique": true,
       "costs": {
         "food": 100,

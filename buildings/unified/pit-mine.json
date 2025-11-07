@@ -42,6 +42,9 @@
       "displayClasses": [
         "Influence Building"
       ],
+      "displayClassesCN": [
+        "影响建筑"
+      ],
       "unique": true,
       "costs": {
         "food": 0,
@@ -77,6 +80,9 @@
       },
       "influences": [
         "The Gold extraction rate of Open Pit Mines is increased by +25% for each House or Mining Camp built within the influence."
+      ],
+      "influencesCN": [
+        "在露天矿区的影响范围内每建造一座房屋或一座采矿场，露天矿区的开采速率 +25%。"
       ]
     }
   ]

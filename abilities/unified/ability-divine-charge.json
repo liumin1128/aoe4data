@@ -29,6 +29,9 @@
       "descriptionCN": "骑兵单位造成伤害 +20%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

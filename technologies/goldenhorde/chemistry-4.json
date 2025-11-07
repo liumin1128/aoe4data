@@ -36,6 +36,9 @@
   "displayClasses": [
     "Gunpowder Technology"
   ],
+  "displayClassesCN": [
+    "火药科技"
+  ],
   "unique": false,
   "costs": {
     "food": 200,

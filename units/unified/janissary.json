@@ -64,6 +64,9 @@
       "displayClasses": [
         "Light Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "轻型远程火药步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 60,
@@ -167,6 +170,9 @@
       ],
       "displayClasses": [
         "Light Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "轻型远程火药步兵"
       ],
       "unique": true,
       "costs": {

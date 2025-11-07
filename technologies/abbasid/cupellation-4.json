@@ -36,6 +36,9 @@
   "displayClasses": [
     "Mining Technology 3/3"
   ],
+  "displayClassesCN": [
+    "采矿科技 3/3"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

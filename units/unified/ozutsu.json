@@ -63,6 +63,9 @@
       "displayClasses": [
         "Heavy Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "重装远程火药步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 85,
@@ -170,6 +173,9 @@
       "displayClasses": [
         "Heavy Ranged Gunpowder Infantry"
       ],
+      "displayClassesCN": [
+        "重装远程火药步兵"
+      ],
       "unique": true,
       "costs": {
         "food": 85,
@@ -276,6 +282,9 @@
       ],
       "displayClasses": [
         "Heavy Ranged Gunpowder Infantry"
+      ],
+      "displayClassesCN": [
+        "重装远程火药步兵"
       ],
       "unique": true,
       "costs": {

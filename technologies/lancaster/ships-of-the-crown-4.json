@@ -22,6 +22,9 @@
   "displayClasses": [
     "Carrack Technology"
   ],
+  "displayClassesCN": [
+    "大帆船科技"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

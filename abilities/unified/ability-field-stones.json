@@ -29,6 +29,9 @@
       "descriptionCN": "从建造的每种建筑获得各种石料量。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

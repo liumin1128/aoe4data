@@ -73,6 +73,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -327,6 +330,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -583,6 +589,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -837,6 +846,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -1096,6 +1108,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1350,6 +1365,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -1606,6 +1624,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -1860,6 +1881,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -2116,6 +2140,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -2370,6 +2397,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -2626,6 +2656,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -2880,6 +2913,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -3136,6 +3172,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -3390,6 +3429,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -3646,6 +3688,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -3901,6 +3946,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {
@@ -4167,6 +4215,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -4422,6 +4473,9 @@
       "displayClasses": [
         "Siege"
       ],
+      "displayClassesCN": [
+        "攻城"
+      ],
       "unique": false,
       "costs": {
         "food": 0,
@@ -4676,6 +4730,9 @@
       ],
       "displayClasses": [
         "Siege"
+      ],
+      "displayClassesCN": [
+        "攻城"
       ],
       "unique": false,
       "costs": {

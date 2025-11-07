@@ -34,6 +34,9 @@
     "Economy & Population Building",
     "Landmark"
   ],
+  "displayClassesCN": [
+    "经济和人口建筑、地标"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -729,5 +732,6 @@
       "khan"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

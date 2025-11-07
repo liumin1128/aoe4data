@@ -14,6 +14,9 @@
   "descriptionCN": "所有站在城墙上的单位的远程伤害 +25%。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

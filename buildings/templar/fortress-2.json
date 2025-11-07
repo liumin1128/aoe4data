@@ -31,6 +31,9 @@
   "displayClasses": [
     "Defensive Landmark"
   ],
+  "displayClassesCN": [
+    "防御地标"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -1106,5 +1109,8 @@
   },
   "influences": [
     "The Templar Headquarters and Fortresses grant Stone Walls in influence +25% health and an arrowslit emplacement."
+  ],
+  "influencesCN": [
+    "圣殿骑士团司令部和要塞可以令影响范围内石墙的生命值 +25% 和一个射箭槽炮台。"
   ]
 }

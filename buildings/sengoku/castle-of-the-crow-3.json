@@ -29,6 +29,9 @@
   "displayClasses": [
     "Age IV - Defensive Landmark"
   ],
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "unique": true,
   "costs": {
     "food": 2400,
@@ -1026,5 +1029,6 @@
       "khan"
     ]
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

@@ -23,6 +23,9 @@
   "displayClasses": [
     "Melee Damage Technology 4/4"
   ],
+  "displayClassesCN": [
+    "近战伤害科技 4/4"
+  ],
   "unique": true,
   "costs": {
     "food": 0,

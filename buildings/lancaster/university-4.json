@@ -22,6 +22,9 @@
   "displayClasses": [
     "Technology Building"
   ],
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "unique": false,
   "costs": {
     "food": 0,
@@ -55,5 +58,6 @@
     "line": 25,
     "height": 8
   },
-  "influences": []
+  "influences": [],
+  "influencesCN": []
 }

@@ -48,6 +48,9 @@
       "displayClasses": [
         "Villager Technology"
       ],
+      "displayClassesCN": [
+        "村民科技"
+      ],
       "unique": true,
       "costs": {
         "food": 50,

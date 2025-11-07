@@ -28,6 +28,9 @@
   "displayClasses": [
     "Incendiary Ship"
   ],
+  "displayClassesCN": [
+    "燃烧船"
+  ],
   "unique": false,
   "costs": {
     "food": 0,

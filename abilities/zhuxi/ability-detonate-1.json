@@ -14,6 +14,9 @@
   "descriptionCN": "引爆这艘船只。",
   "classes": [],
   "displayClasses": [],
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "costs": {
     "food": 0,
     "wood": 0,

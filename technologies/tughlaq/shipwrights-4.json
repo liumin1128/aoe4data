@@ -22,6 +22,9 @@
   "displayClasses": [
     "Naval Technology 2/2"
   ],
+  "displayClassesCN": [
+    "海军科技 2/2"
+  ],
   "unique": false,
   "costs": {
     "food": 360,

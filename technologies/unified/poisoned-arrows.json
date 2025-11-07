@@ -46,6 +46,9 @@
       "displayClasses": [
         "Archer Technology"
       ],
+      "displayClassesCN": [
+        "步弓手科技"
+      ],
       "unique": true,
       "costs": {
         "food": 175,

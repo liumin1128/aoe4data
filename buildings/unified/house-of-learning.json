@@ -55,6 +55,9 @@
       "displayClasses": [
         "Age III - Technology Landmark"
       ],
+      "displayClassesCN": [
+        "第三时代：科技地标"
+      ],
       "unique": true,
       "costs": {
         "food": 1200,
@@ -90,6 +93,9 @@
       },
       "influences": [
         "The research rate of buildings within influence of a Mosque, Madrasa, or Dock is increased for each garrisoned Scholar. Research speeds are boosted globally for each Scholar garrisoned in these buildings."
+      ],
+      "influencesCN": [
+        "每多驻扎一名学者，清真寺、穆斯林学塾或码头影响范围内建筑的研究速度就会提高。在这些建筑中驻扎的每个学者的研究速度都会得到全面提升。"
       ]
     },
     {
@@ -119,6 +125,9 @@
       ],
       "displayClasses": [
         "Age III - Technology Landmark"
+      ],
+      "displayClassesCN": [
+        "第三时代：科技地标"
       ],
       "unique": true,
       "costs": {
@@ -153,7 +162,8 @@
         "line": 25,
         "height": 8
       },
-      "influences": []
+      "influences": [],
+      "influencesCN": []
     }
   ]
 }

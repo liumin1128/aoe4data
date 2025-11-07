@@ -29,6 +29,9 @@
       "descriptionCN": "附近村民建造建筑的速度加快 33%。",
       "classes": [],
       "displayClasses": [],
+      "displayClassesCN": [
+        "(translation not found) (undefined)"
+      ],
       "costs": {
         "food": 0,
         "wood": 0,

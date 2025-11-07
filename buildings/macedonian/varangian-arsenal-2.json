@@ -22,6 +22,9 @@
   "displayClasses": [
     "Varangian Technology Building"
   ],
+  "displayClassesCN": [
+    "瓦兰吉科技建筑"
+  ],
   "unique": true,
   "costs": {
     "food": 0,
@@ -57,5 +60,8 @@
   },
   "influences": [
     "Mining Camps and Town Centers within the influence of a Varangian Arsenal begin generating an additional 12% of Silver every minute based off the total Silver deposited at the influenced mine."
+  ],
+  "influencesCN": [
+    "对于在瓦兰吉兵工厂影响范围内的采矿场和城镇中心，每分钟开始根据受影响矿场的白银总储量额外产生 12% 的白银。"
   ]
 }

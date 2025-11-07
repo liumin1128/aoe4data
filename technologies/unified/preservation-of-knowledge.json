@@ -44,6 +44,9 @@
       "displayClasses": [
         "Research Technology"
       ],
+      "displayClassesCN": [
+        "研究科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

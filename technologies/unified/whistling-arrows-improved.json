@@ -46,6 +46,9 @@
       "displayClasses": [
         "Khan Technology"
       ],
+      "displayClassesCN": [
+        "汗科技"
+      ],
       "unique": true,
       "costs": {
         "food": 50,

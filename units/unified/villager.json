@@ -70,6 +70,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -176,6 +179,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -280,6 +286,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -386,6 +395,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -490,6 +502,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -597,6 +612,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -703,6 +721,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -808,6 +829,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -912,6 +936,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -1019,6 +1046,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -1123,6 +1153,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -1229,6 +1262,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -1333,6 +1369,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -1439,6 +1478,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -1543,6 +1585,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -1649,6 +1694,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -1753,6 +1801,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -1859,6 +1910,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -1963,6 +2017,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {
@@ -2069,6 +2126,9 @@
       "displayClasses": [
         "Worker"
       ],
+      "displayClassesCN": [
+        "工人"
+      ],
       "unique": false,
       "costs": {
         "food": 50,
@@ -2173,6 +2233,9 @@
       ],
       "displayClasses": [
         "Worker"
+      ],
+      "displayClassesCN": [
+        "工人"
       ],
       "unique": false,
       "costs": {

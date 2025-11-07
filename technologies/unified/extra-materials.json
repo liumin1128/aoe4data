@@ -44,6 +44,9 @@
       "displayClasses": [
         "Tower & Outpost Technology"
       ],
+      "displayClassesCN": [
+        "箭塔和哨站科技"
+      ],
       "unique": true,
       "costs": {
         "food": 0,

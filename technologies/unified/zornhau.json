@@ -38,6 +38,9 @@
       "displayClasses": [
         "Landsknecht Technology"
       ],
+      "displayClassesCN": [
+        "国土佣仆科技"
+      ],
       "unique": true,
       "costs": {
         "food": 150,
