@@ -1,6 +1,8 @@
 {
   "name": "Holy Roman Empire",
+  "nameCN": "神圣罗马帝国",
   "description": "Prelates enhance the economy of the Holy Roman Empire, while powerful infantry units form the core of its military. Enemies must face an opponent able to rapidly recover from attacks and field strong counterattacks.",
+  "descriptionCN": "高级教士可提升神圣罗马帝国的经济，其军队的核心由强大的步兵单位构成。他们在受到袭击后能够迅速恢复并发动强力反击，令敌人难以招架。",
   "classes": "Infantry, Religion, Defense",
   "overview": [
     {
@@ -39,6 +41,45 @@
     {
       "title": "Unique Units",
       "description": "Prelate: Use the Holy Inspiration ability on Villagers increasing their gather rate by +35% for 30 seconds.\nLandsknecht: Light melee infantry with a large two-handed sword capable of doing significant area damage.\nBlack Rider: Powerful armored mounted gunner. Production is limited by the number of constructed Keeps."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "将圣物放置在哨站、石塔和城堡中可以获得防御和经济加成。",
+        "在码头中每放置一个圣物可以使船只的攻击速度 +5% (最大 +25%)。",
+        "可以在封建时代 (第二时代) 中生产早期武士。",
+        "步兵移动速度在黑暗时代 (第一时代) 快 5%，在封建时代 (第二时代) 快 10%。",
+        "炮台科技研究成本 -25%。哨站的视野范围 +25%。",
+        "村民的资源运载量额外 +40%。",
+        "高级教士可以从黑暗时代 (第一时代) 起进行治疗，并可以使用圣灵鼓舞使村民的采集速率 +40%，持续 30 秒。",
+        "城镇中心影响范围内的建筑将获得紧急修理能力，启动此能力可以修理建筑。"
+      ]
+    },
+    {
+      "title": "宗教狂热",
+      "description": "可以通过在哨站、石塔和城堡中防止圣物来彰显帝国的实力，并使他们的护甲 +25%，伤害 +25%，攻击范围 +25%，视野+20%。\n在码头每放置一个圣物，可以使船只攻击速度 +5% (最大 +25%)。\n在建筑中放置圣物，每分钟产生的黄金 +80。"
+    },
+    {
+      "title": "帝国军队",
+      "description": "步兵移动速度在黑暗时代 (第一时代) 快 5%，在封建时代 (第二时代) 快 10%。用有效的科技升级步兵单位，并可以在封建时代 (第二时代) 训练早期武士。"
+    },
+    {
+      "title": "炮台建筑学",
+      "description": "所有炮台科技研究成本 -20%。哨站视野范围 +20%。"
+    },
+    {
+      "title": "手推车",
+      "description": "村民的资源运载量比其他文明多 40%。"
+    },
+    {
+      "title": "影响力",
+      "description": "城镇中心影响范围内的建筑将获得紧急修理能力，启动此能力可以修理建筑，每秒恢复 150 生命值，持续 20 秒。"
+    },
+    {
+      "title": "独特单位",
+      "description": "高级教士：可以对村民使用圣灵鼓舞能力，使他们的采集速率 +35%，持续 30 秒。\n国土佣仆：使用双手巨剑的轻型近战步兵单位，可以造成大量的范围伤害。\n黑骑士：强大的装甲骑乘炮手。产量受到已建城堡数量的限制。"
     }
   ],
   "techtree": {

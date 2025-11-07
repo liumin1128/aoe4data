@@ -1,6 +1,8 @@
 {
   "name": "Delhi Sultanate",
+  "nameCN": "德里苏丹国",
   "description": "The Delhi Sultanate stays many steps ahead of their enemies with great networks of scholars. Fully realized, they field the intimidating War Elephant and trample those in their path.",
+  "descriptionCN": "德里苏丹国凭借其庞大的学者人脉网将敌人远远甩在身后。他们充分认识到，可以利用令人生畏的战象将挡路的敌人统统踩在脚下。",
   "classes": "Elephants, Research, Religion",
   "overview": [
     {
@@ -43,6 +45,49 @@
     {
       "title": "Unique Units",
       "description": "Scholar: Religious unit capable of healing in the Dark Age (I).\nWar Elephant: Heavy melee cavalry mounted with a Spearman that has high health and damage with a strong siege attack.\nTower Elephant: Ranged cavalry mounted with two Archers that can fire while moving.\nGhazi Raider: Fast Horseman wielding a heavy mace."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "可以在黑暗时代 (第一时代) 使用的清真寺、学者和宗教科技。",
+        "步兵单位可以建造木栅栏。",
+        "所有科技免费，但研究速率大幅减慢。在清真寺、穆斯林学塾或码头中驻扎学者以提升研究速度。",
+        "正在研究的科技可以暂停和恢复。",
+        "在浆果丛附近建造磨坊可以将其转换为果园，并使果园食物产量 +100。",
+        "从浆果丛采集食物的速度 +25%，但无法从野猪身上采集食物。",
+        "浆果运载量 +3。",
+        "捕鱼船可以通过远程攻击来自卫。"
+      ]
+    },
+    {
+      "title": "学者文化",
+      "description": "从黑暗时代 (第一时代) 开始就可在清真寺中训练学者。可以比其他文明更早地研究并解锁宗教科技。"
+    },
+    {
+      "title": "学术成就",
+      "description": "节省研发科技的成本，并能免费研究所有科技，但代价是研究速度大幅减慢。另外，科技研究的进度还可以暂停和恢复。"
+    },
+    {
+      "title": "边界防御工事",
+      "description": "使用可建造木栅栏的步兵单位为聚落建立防御工事。建造守护者大院地标可以将此能力升级为建造石墙。"
+    },
+    {
+      "title": "防御水手",
+      "description": "渔船可以通过远程攻击来自卫，并拥有 50% 的额外生命值。"
+    },
+    {
+      "title": "花园赏金",
+      "description": "在浆果丛附近建造磨坊，便可将其转换为果园，并使果园食物产量 +100。\n村民从浆果丛采集食物的速率加快 25%，但无法从野猪身上采集食物。\n村民采集浆果丛的食物运载量 +3。"
+    },
+    {
+      "title": "影响力",
+      "description": "在清真寺、穆斯林学塾或码头中驻扎学者就可以提高位于它们影响范围内的建筑的研究速度，此加成效果取决于驻扎的学者总数。有学者驻扎时， 码头的运行速度会更快。"
+    },
+    {
+      "title": "独特单位",
+      "description": "学者：可以在黑暗时代 (第一时代) 训练，拥有治疗能力的宗教单位。\n战象：搭乘一名长矛兵的重型近战骑兵单位，生命值和伤害较高，攻城攻击能力强。\n箭塔战象：搭乘两名步弓手的远程骑兵单位，可以一边移动一边射击。\n加齐掠夺者：使用重锤但移动快速的骑手。"
     }
   ],
   "techtree": {

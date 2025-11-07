@@ -1,6 +1,8 @@
 {
   "name": "Japanese",
+  "nameCN": "日本人",
   "description": "Ruling over the Japanese land, the Daimyo enhances agriculture and employs Samurai to defend their territory. The unique Forge works tirelessly to sharpen their blades to give an edge in battle. Fierce Samurai Bannermen lead their diverse army of infantry and cavalry to victory.",
+  "descriptionCN": "大名统治着日本的土地，加强农业生产并雇佣武士来保卫他们的领土。独特的锻造厂持续不断地磨砺他们的兵刃，让他们在战斗中更有优势。勇猛的旗本日本武士带领他们由步兵和骑兵组成的多样化部队走向胜利。",
   "classes": "Agriculture, Bannermen, Infantry",
   "overview": [
     {
@@ -65,6 +67,72 @@
         "Onna-Musha: Crossbowman replacement. Cavalry Archer that can use increased mobility to harass heavy targets.",
         "Shinobi: Espionage unit that can act as a spy, sabotage buildings, or assassinate targets. Produced from the Koka Township Landmark.",
         "Ozutsu: Heavy ranged gunpowder infantry that has a huge handheld cannon with high siege and splash damage. Produced from the Tanegashima Gunsmith Landmark."
+      ]
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "城镇中心升级后可增强防御、提高附近农田的收获速度并提高旗本日本武士的生产上限。",
+        "旗本日本武士可以为附近的步兵和骑兵提供加成。",
+        "日本武士拥有能够阻挡远程或近战攻击的偏转护甲。",
+        "兵营的建造费用更低。",
+        "农舍除了提供人口外，还可以存放食物。",
+        "锻造厂除了军事升级外，还可以存放黄金和石料。",
+        "村民存放的黄金会生成额外的石料，反之亦然。",
+        "在黑暗时代 (第一时代) 可以获得额外的近战伤害升级。",
+        "选择城堡时代 (第三时代) 的地标时，可在佛教僧侣或神道教神主之间选择。",
+        "在帝王时代 (第四时代)，城堡装配火箭炮台并增加了生命值。",
+        "渔船的生产成本更低。"
+      ]
+    },
+    {
+      "title": "大名",
+      "description": "城镇中心可以升级为特殊建筑，包括大名府邸、大名官邸和幕府城。这些建筑可为附近农田工作的村民提供 20%、40%、60% 的加成，增加旗本日本武士的容量 +1、+2、+3，并提高防御。"
+    },
+    {
+      "title": "旗本武士",
+      "description": "精锐旗本日本武士为附近的步兵和骑兵提供 +15% 的伤害加成。当旗本日本武士被击杀时，他们会丢下旗帜，在一段时间内产生相同效果。"
+    },
+    {
+      "title": "心平气和",
+      "description": "在黑暗时代 (第一时代) 生产日本武士。日本武士拥有偏转护甲能力，可以定期抵挡近战或远程攻击。"
+    },
+    {
+      "title": "农舍和锻造厂",
+      "description": "锻造厂是黄金和石料的存放点，可取代采矿场和铁匠铺。此外，它在黑暗时代 (第一时代) 可提供额外的近战伤害科技。农舍既能增加人口空间，又能取代磨坊作为食物存放点。"
+    },
+    {
+      "title": "织田家要塞",
+      "description": "进入帝国时代 (第四时代) 获得更强大的城堡，它拥有更高的生命值和更强大的火箭炮台，但也需要更高的成本。火箭炮台的攻击速度更快，可对单个目标造成巨大伤害。"
+    },
+    {
+      "title": "银矿开采",
+      "description": "在村民储存黄金时，还会产出额外 20% 的石料，反之亦然。"
+    },
+    {
+      "title": "宗教选择",
+      "description": "选择第三时代的地标，可在神道教和佛教之间进行选择。如果选择神道教，你就能解锁神道教神主。如果选择佛教，你就能解锁佛教僧侣。这些宗教单位可以提供独特的加成。"
+    },
+    {
+      "title": "日本武士区域",
+      "description": "兵营的建造成本降低 50%。"
+    },
+    {
+      "title": "渔村",
+      "description": "生产捕鱼艇的成本降低 25%。"
+    },
+    {
+      "title": "独特单位",
+      "list": [
+        "日本武士：可替代武士。重型近战步兵，拥有偏转护甲，可以抵挡多种近战和远程攻击。",
+        "骑马武士：可替代长矛骑兵。重型近战骑兵，拥有偏转护甲。",
+        "轻足弓：移动速度提高，成本和生命值降低的步弓手。",
+        "女武艺者：轻型近战步兵，可以利用自身的攻击范围和速度优势骚扰敌人。",
+        "女武者：可以替代弩手。骑马弓兵，可以利用其增强的机动性来骚扰重型目标。",
+        "忍者：能够从事间谍活动、破坏建筑物或暗杀目标的破坏单位。只能由甲贺城镇地标生产。",
+        "大筒兵：只能由种子岛枪匠地标生产的重型远程火药步兵，携带一门巨大的手持加农炮，拥有较高的攻城和溅射伤害。"
       ]
     }
   ],

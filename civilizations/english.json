@@ -1,6 +1,8 @@
 {
   "name": "English",
+  "nameCN": "英格兰人",
   "description": "Exceptional early infantry provide the English with a powerful punch backed up by reliable Food production from the fields.",
+  "descriptionCN": "优秀的早期步兵为英格兰提供了强大的作战力量，农田的食物生产为其提供可靠的后盾。",
   "classes": "Defense, Longbows, Farming",
   "overview": [
     {
@@ -51,6 +53,57 @@
     {
       "title": "Unique Units",
       "description": "Longbowman: Archer with +2 range and +1 damage that comes with the Defensive Paling ability to stun and damage enemy cavalry."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "当敌人进入射程时，城镇中心、哨站、塔和城堡可以使附近单位的攻击速度 +20%。",
+        "农田建造成本 -50%，而且随着时代提升，磨坊附近的农田采集速率 +20/25/30/30%。",
+        "可以在黑暗时代 (第一时代) 中生产先锋武士。",
+        "武士的生产速度比其他文明 +50%。",
+        "村民可以使用短弓攻击敌方单位。",
+        "城堡可以生产所有军事单位。",
+        "船只生产成本 -10%。",
+        "侦察兵和武士可以放置篝火以增加视野范围，并使附近狩猎效果 +10%。"
+      ]
+    },
+    {
+      "title": "城堡网络",
+      "description": "用城镇中心、哨站、石墙塔和大型箭塔来保护边界；当敌人进入射程内时，附近单位的攻击速度可提升 +20%。\n研究大型箭塔城堡网络科技，进一步提升攻击速度 +30%。"
+    },
+    {
+      "title": "城堡生产",
+      "description": "城堡具备独特能力，可生产所有军事单位。"
+    },
+    {
+      "title": "战争召唤",
+      "description": "可以在黑暗时代 (第一时代) 中生产先锋武士，另外英格兰武士的生产速度 +50%。"
+    },
+    {
+      "title": "防御城镇",
+      "description": "首都城镇中心射出的箭矢数 +1，而且村民可以使用短弓攻击敌方单位。"
+    },
+    {
+      "title": "农业岛屿",
+      "description": "农田的建造成本 -50%。\n在帝王时代 (第四时代) 中研究圈地科技可以让村民在农田工作时每 6 秒产生 +1 单位黄金。"
+    },
+    {
+      "title": "造船工",
+      "description": "海军训练可以提高码头的工作效率，使船只建造成本 -10%。"
+    },
+    {
+      "title": "影响力",
+      "description": "每次进入新时代时磨坊影响范围之内的农田采集速率 +20/25/30/30%。"
+    },
+    {
+      "title": "金斯伍德",
+      "description": "侦察兵和武士可以生产篝火，使附近单位的视野范围 +30%，附近猎人的采集速率 +10%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "长弓兵：这种弓兵单位攻击范围 +2，伤害 +1，并自带防御性拒马能力，可对敌方骑兵造成眩晕和伤害。"
     }
   ],
   "techtree": {

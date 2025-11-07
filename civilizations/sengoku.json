@@ -1,6 +1,8 @@
 {
   "name": "Sengoku Daimyo",
+  "nameCN": "战国大名",
   "description": "The Sengoku Jidai was an era of shifting alliances and ceaseless warfare. Three rival clans can be supported to gain powerful advantages to your ranged infantry, melee infantry or cavalry. Even in the midst of war there was time for celebration; the Matsuri festival is the heart of commerce and trade providing powerful bonuses to their economy.",
+  "descriptionCN": "战国时代烽火连天，各氏族之间的结盟不断变化。你可以支持三个敌对氏族，让你的远程步兵、近战步兵或骑兵获得强大的优势。即使在战争中，也仍有时间进行庆祝，祭典庆祝活动是商业和贸易的核心，能为氏族的经济带来强大的加成。",
   "classes": "Agriculture, Daimyo, City Planning",
   "overview": [
     {
@@ -57,6 +59,64 @@
         "Ikko-ikki Monk: Warrior Monk with strong combat capabilities that heals nearby units when attacking. Does not have a targeted heal ability.",
         "Kanabo Samurai: Tough infantry with good damage. Deals bonus damage based on the max health of the enemy.",
         "Early Ozutsu: Heavy ranged gunpowder infantry that has a huge handheld cannon with high siege and splash damage."
+      ]
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "大名府邸可以被分给一个氏族，从而为近战步兵、骑兵或远程步兵提供加成。",
+        "农舍不但能增加人口空间，还可作为食物存放点。",
+        "祭典是一种独特的早期市场，玩家可以用它招募屋台，而屋台可以被动地从附近的食物来源采集食物。",
+        "默认已研究“生存技术”。",
+        "锻造厂是黄金和石料的存放点，还能进行军事升级。",
+        "村民存放的黄金可生成额外的石料，反之亦然。",
+        "在黑暗时代 (第一时代)，可研究额外的近战伤害升级。",
+        "一向宗僧兵是一种战斗僧侣，可以从佛寺招募。他们会在攻击的同时进行治疗。",
+        "城堡配有火箭炮台，并会在帝国时代 (第四时代) 提升生命值。",
+        "渔船的生产成本降低。",
+        "所有鹿和野猪的所在地点都显示在地图上。"
+      ]
+    },
+    {
+      "title": "大名府邸",
+      "description": "大名府邸是一种独特的建筑，可以被分给三支氏族中的一支。北条氏可增强近战步兵，织田氏可增强远程步兵，而武田氏可增强骑兵。另外，处于大名府邸影响下的军事建筑还将获得生产速度提升。"
+    },
+    {
+      "title": "屋台和祭典",
+      "description": "祭典是一种独特的早期市场，可以生产屋台。屋台是独特的工人单位，它们会缓慢地从 2 格内的食物来源生产食物，但不会杀死或消耗它们。如果屋台收集到足够的食物，便会派出一名食物商人返回祭典，这将使祭典的光环得到增强，从而进一步提升附近村民的采集速度。"
+    },
+    {
+      "title": "农舍和锻造厂",
+      "description": "锻造厂是黄金和石料的存放点，可取代采矿场和铁匠铺。此外，它在黑暗时代 (第一时代) 可提供额外的近战伤害科技。农舍既能增加人口空间，又能取代磨坊作为食物存放点。"
+    },
+    {
+      "title": "织田家要塞",
+      "description": "进入帝国时代 (第四时代) 获得更强大的城堡，它拥有更高的生命值和更强大的火箭炮台，但也需要更高的成本。火箭炮台的攻击速度更快，可对单个目标造成巨大伤害。"
+    },
+    {
+      "title": "银矿开采",
+      "description": "在村民储存黄金时，还会产出额外 20% 的石料，反之亦然。"
+    },
+    {
+      "title": "渔村",
+      "description": "生产捕鱼艇的成本降低 25%。"
+    },
+    {
+      "title": "鹿和野猪显示",
+      "description": "所有鹿和野猪的所在地点都会显示在地图上。"
+    },
+    {
+      "title": "独特单位",
+      "list": [
+        "屋台：工人单位，会被动地从附近的食物来源收集食物，但不会杀死或消耗食物来源。",
+        "日本长枪骑兵：快速骑兵，擅长突袭、包抄和克制远程单位。可对骑兵造成额外伤害。",
+        "大名：高生命值、高伤害的近战骑兵，提供的光环可提高附近军事单位的攻击速度。擅长对付近战单位。每个已建造的大名府邸限造一个。",
+        "日本长弓足轻：移动速度更快的步弓手，降低了成本和生命值。",
+        "一向宗僧兵：具有强大战斗力的武僧，攻击时可以治疗附近的单位，没有定向治疗能力。",
+        "金碎棒日本武士：强悍的步兵，伤害力强。会根据敌人的最大生命值造成额外伤害。",
+        "早期大筒兵：重型远程火药步兵，拥有一门巨大的手持火炮，具有很高的攻城和溅射伤害。"
       ]
     }
   ],

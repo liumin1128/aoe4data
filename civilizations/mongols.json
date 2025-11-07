@@ -1,6 +1,8 @@
 {
   "name": "Mongols",
+  "nameCN": "蒙古人",
   "description": "Masters of mobility and mounted warfare, the Mongols can easily relocate their camps. They gain economic benefits from setting up near Stone Outcroppings and from raiding enemy buildings. Enemies must deal with cavalry attacks from the opening moments of play.",
+  "descriptionCN": "蒙古人拥有高机动性，擅用骑兵作战，他们可以快速迁移营地，在石料露头附近建立据点，对敌方建筑发动突袭，从而获得经济利益。在战斗开始时，敌人就将面对他们的骑兵突击。",
   "classes": "Aggression, Cavalry, Nomadic",
   "overview": [
     {
@@ -47,6 +49,53 @@
     {
       "title": "Unique Units",
       "description": "Khan: Horse archer that scales in strength and unlocks the Signal Arrow abilities after each age up.\n• Maneuver Arrow: Move speed increased +33%.\n• Attack Speed Arrow: Attack speed increased +50%.\n• Armor Arrow: Armor increased +2.\nMangudai: Horse archer that can fire while moving in all directions.\nTraction Trebuchet: Faster move speed, setup time and attack speed.\nKeshik: Heavy Cavalry available in Feudal Age, regenerates Health after every attack."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "开局时便拥有最大人口容量的蒙古包，无需建造房屋。",
+        "所有建筑可以拆装并重新部署至新的位置。",
+        "可以通过点燃或摧毁敌方建筑来掠夺 25 份食物和黄金。",
+        "黑暗时代 (第一时代) 便可以建造马厩。",
+        "哨站可以使附近的骑兵和商人移动速度 +15%。",
+        "可以使用石料使生产单位的数量加倍或研究强化版的科技。",
+        "丝绸之路：商人产生的食物、木材和黄金额外 +10% (加成项目根据 5/10/15 位活跃商人而定)。",
+        "运输船生命值 +50%，移动速度 +15%。"
+      ]
+    },
+    {
+      "title": "伟大统治",
+      "description": "所有建筑可以拆装并重新部署至新的位置。\n无需建造房屋，在游戏开始时就拥有最大人口容量。\n可以使用哨站网络对敌方行动做出快速反应，哨站可以使附近的骑兵和商人移动速度 +15%。"
+    },
+    {
+      "title": "汗国",
+      "description": "可以在黑暗时代 (第一时代) 派出强大的汗，并用信号箭为附近所有军事单位提供强力加成。\n汗和侦察兵可以使用猎隼侦察术能力来关注附近的区域。"
+    },
+    {
+      "title": "游牧收割者",
+      "description": "建造牧场以替代农田，以此饲养绵羊来获得食物。牧场位于敖包影响范围内时生产绵羊的速度会加快。"
+    },
+    {
+      "title": "突袭赏金",
+      "description": "当敌方建筑在修建时被点燃或被摧毁，掠夺敌方建筑可以获得 +25 食物和黄金。"
+    },
+    {
+      "title": "强化运输",
+      "description": "运输船登陆速度加快，更耐久，生命值 +50%，移动速度 +15%。"
+    },
+    {
+      "title": "丝绸之路",
+      "description": "派出商人探索丝绸之路，可以根据你的活跃商人总数从贸易中获得更多资源。\n• 5 位以上的商人：+10% 食物\n• 10 位以上的商人：+10% 食物和木材\n• 15 位以上的商人：+10% 食物、木材和黄金"
+    },
+    {
+      "title": "影响力",
+      "description": "在石料露头上建造敖包可以产生影响力，并可以无需村民而采集石料。敖包在各个时代中每分钟分别采集 +80、100、120、150 石料。\n位于敖包影响范围内的建筑可以使用石料生产双倍数量的单位或研究强化版的科技。"
+    },
+    {
+      "title": "独特单位",
+      "description": "汗：可以随时代提升实力并解锁信号箭能力的骑射手。\n• 机动箭：移动速度 +33%。\n• 攻速箭：攻击速度 +50%。\n• 护甲箭：护甲 +2。\n蒙古突骑：可以一边移动一边向所有方向攻击的骑射手。\n牵引式巨型投石机：移动速度、架设时间和攻击速度较快。\n怯薛骑兵：可在封建时代训练的重装骑兵，其生命值会在每次发动攻击后恢复。"
     }
   ],
   "techtree": {

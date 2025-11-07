@@ -1,6 +1,8 @@
 {
   "name": "Jeanne d'Arc",
+  "nameCN": "圣女贞德",
   "description": "A spark of hope for the French people, Jeanne d'Arc takes to the battlefield and inspires courage to her followers. Starting as a humble villager, Jeanne begins the Journey of a Hero in the Dark Age. Experience forges Jeanne into a powerful leader, gaining access to trusted companions and powerful abilities which shape the empire she was destined to create.",
+  "descriptionCN": "贞德是法兰西人的希望之火，她走上战场，鼓舞了追随者们的勇气。贞德从一个卑微的村民开始了黑暗时代的英雄之旅。经验将贞德锻造成一位强大的领袖，她获得了值得信赖的同伴和强大的能力，这一切塑造了她注定要创建的帝国。",
   "classes": "Trade, Cavalry, Hero",
   "overview": [
     {
@@ -33,6 +35,39 @@
     {
       "title": "Unique Units",
       "description": "Jeanne d'Arc: A hero unit that starts as a villager, Jeanne begins the Journey of a Hero to gain powerful abilities.\nJeanne's Rider: Fast Cavalry effective at raiding, flanking, and countering Crossbows, becomes available once Jeanne achieves level 3.\nJeanne's Champion: Tough infantry that excels at countering Spearmen, becomes available once Jeanne achieves level 3.\nRoyal Knight: Heavy Cavalry that gains +3 bonus damage for 5 seconds after completing a charge.\nArbalétrier: Crossbowman with +1 melee armor that can deploy a defensive Pavise to provide +5 ranged armor and +1 weapon range for 30 seconds.\nCannon: Bombard replacement with more damage, mobility and no setup time.\nGalleass: Large war galley that has a long range forward mounted bombard.\nWar Cog: Unique Springald Ship with reduced cost and increased pierce armor."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "圣女贞德开始英雄之旅。",
+        "封建时代 (第二时代) 的皇家骑士。",
+        "经济科技成本 -35%。",
+        "贸易站显示在小地图上。",
+        "商人可以将食物、木材、黄金送回市场。",
+        "商船资源运回量 +20%。"
+      ]
+    },
+    {
+      "title": "英雄之旅",
+      "description": "圣女贞德出现在战场。这是一种可以通过完成任务来获得经验值的英雄单位，例如收集资源、建造建筑和参加战斗等任务。\n获得足够的经验值后，贞德可以升级以获得强大的经济和战斗能力。"
+    },
+    {
+      "title": "皇家战马",
+      "description": "在封建时代 (第二时代) 中可部署皇家骑士，并可研究强大的独特骑兵科技。"
+    },
+    {
+      "title": "激励经济",
+      "description": "人民在圣女贞德的领导下更努力地工作。经济升级成本降低 35%。"
+    },
+    {
+      "title": "贸易经济",
+      "description": "选择使用商人和商船将食物、木材、黄金带回市场。\n商船带回的资源量额外 +20%。\n在游戏开始时于小地图上显示贸易站。\n码头提供人口空间。"
+    },
+    {
+      "title": "独特单位",
+      "description": "圣女贞德：初始状态为村民的英雄单位，贞德开始通过英雄之旅获得强大能力。\n贞德的骑兵：在突袭、侧翼攻击和克制弩手时非常有效的快速骑兵，当贞德达到第 3 级时可用。\n贞德的冠军剑士：擅长应对长矛兵的强壮步兵，当贞德达到第 3 级时可用。\n皇家骑士：这种重装骑兵单位在完成冲锋后的 5 秒内获得 +3 的伤害加成。\n弓弩手：这种弩手单位拥有 +1 的近战护甲，并可以部署一面防御用的大盾，提供 +5 远程护甲和 +1 武器攻击范围，持续 30 秒。\n加农炮：这种替代手推炮的单位可以造成更多伤害，机动性更高，而且无需架设时间。\n三桅战船：拥有前置远程手推炮的大型战舰。\n柯克战船：独特的扭力弩炮船，成本更低，护甲穿透能力更强。"
     }
   ],
   "techtree": {

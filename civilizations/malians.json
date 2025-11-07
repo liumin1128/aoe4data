@@ -1,6 +1,8 @@
 {
   "name": "Malians",
+  "nameCN": "马里人",
   "description": "The Malian economy booms with options for gold and food production. Claiming gold deposits for their Pit Mines, they leverage that growth to produce unique infantry units that strike from stealth and hurl javelins at enemies.",
+  "descriptionCN": "马里人可以依托强大的黄金和食物生产能力发展经济。他们可以占领金矿以建造露天矿区，并利用这种发展上的优势生产独特的步兵单位。这些步兵单位可以从潜行状态下发起攻击，并向敌人投掷标枪。",
   "classes": "Gold Economy, Infantry, Cattle",
   "overview": [
     {
@@ -65,6 +67,72 @@
         "Javelin Thrower: Anti-ranged infantry that throws a javelin from extended range.",
         "Sofa: Faster heavy cavalry with reduced cost, health, and armor.",
         "Musofadi Gunner: Faster moving handcannoneer that can use the Activate Stealth ability."
+      ]
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "在黄金矿脉上建造露天矿区，在不消耗矿藏的情况下产生黄金。",
+        "在黑暗时代 (第一时代) 从磨坊生产牛。马里村民从牛身上收获食物的速度比其他文明更快，或者他们可以在牧场中驻扎一段时间以获得食物。",
+        "穆索法迪单位可以使用主动潜行能力设下伏击。",
+        "五个独特的单位，各自都有不同的克制关系。",
+        "研究老练单位科技所需的耗时和成本减半。",
+        "从商人路线上收集的黄金可减少研究未来科技的时间。",
+        "经过收费哨站的商人和商船会立即提供基于自身所携带黄金数额而定的额外黄金。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。",
+        "渔船可放下 10% 的食物作为黄金。",
+        "所有船只在靠近码头时，移动速度都会加快。",
+        "每驻扎一个单位，运输船就用标枪进行攻击。",
+        "房屋建造速度是原来的两倍，但成本却是原来的一半，而且人口数量也只有原来的一半。",
+        "无法收获野猪"
+      ]
+    },
+    {
+      "title": "露天矿区",
+      "description": "坐享优越的黄金经济，在黑暗时代 (第一时代) 于黄金矿脉上建造露天矿区，在不耗尽金矿的情况下开采黄金。村民可以在露天矿区激活时开采黄金，\n如果黄金矿脉已完全枯竭，露天矿区将继续从矿床中提取黄金。"
+    },
+    {
+      "title": "影响力 - 矿业社区",
+      "description": "露天矿区影响范围内建造的每座房屋和采矿场会增加黄金产量。\n建造城镇中心需要花费黄金而不是石料。"
+    },
+    {
+      "title": "牛和牧场",
+      "description": "在黑暗时代 (第一时代) 从磨坊生产牛。马里村民从牛身上收获食物的速度比其他文明更快，或者他们可以驻扎在养牛场中，以便随着时间的推移来获取食物。"
+    },
+    {
+      "title": "穆索法迪探路者",
+      "description": "穆索法迪战士和穆索法迪炮手的独特单位可以激活潜行能力悄悄行动，并创造伏击机会。"
+    },
+    {
+      "title": "法拉里的知识",
+      "description": "在城堡时代 (第三时代) 解锁的老兵单位科技，研究所需的耗时和成本减半。"
+    },
+    {
+      "title": "收费哨站",
+      "description": "经过收费哨站的商人和商船会立即提供基于当前贸易目标而定的额外资源。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。"
+    },
+    {
+      "title": "手稿贸易",
+      "description": "完成贸易路线收集黄金时也会降低未来科技的研究时间。"
+    },
+    {
+      "title": "鱼类加工",
+      "description": "渔船可放下 10% 的食物作为黄金。"
+    },
+    {
+      "title": "登陆部队",
+      "description": "所有船只在靠近码头时，移动速度都会增加。\n每驻扎一个单位，运输船就用标枪攻击一次。"
+    },
+    {
+      "title": "独特单位",
+      "list": [
+        "当佐兵：可替代长矛兵。轻型近战步兵，生命值和近战护甲更多，可以定期投掷标枪。",
+        "战士侦察兵：可以提高伤害、移动速度、生命值和生命恢复效果的轻型骑兵。",
+        "穆索法迪战士：快速的轻型反护甲步兵，可以使用潜行能力。",
+        "掷枪兵：反远程步兵，可以从远距离投掷标枪。",
+        "索法骑手：速度更快的重装骑兵，成本、生命值和护甲都有所降低。",
+        "穆索法迪火枪兵：快速移动的火枪兵，可使用潜行能力。"
       ]
     }
   ],

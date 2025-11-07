@@ -1,6 +1,8 @@
 {
   "name": "Rus",
+  "nameCN": "罗斯人",
   "description": "The Rus derive great benefit from the countryside. They are able to gather resources more readily from hunting and forestry and can field strong combat units. Enemies face strong early game fortifications and a diverse economy that cannot easily be disrupted.",
+  "descriptionCN": "罗斯可从乡村获得巨大利益，更容易从狩猎和林业活动中采集资源，并能集结强大的作战单位。他们在游戏早期阶段可发展出强大的防御工事和多样化的经济体系，敌人很难将其击垮。",
   "classes": "Expansion, Cavalry, Hunting",
   "overview": [
     {
@@ -42,6 +44,48 @@
     {
       "title": "Unique Units",
       "description": "Warrior Monk: Religious light cavalry unit that inspires nearby units when in combat, providing +1 armor and +2 damage.\nHorse Archer: Light ranged cavalry with high mobility and damage.\nStreltsy: Handcannoneer which gets stronger when stationary and has a high damage melee attack.\nLodya ships: Can be converted into any type of ship."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "可以建造生命值 +100% 的硬木栅栏。",
+        "可以建造木制要塞，这种强化版的哨站生命值 +100%，驻扎栏位 +3。",
+        "可以建造狩猎小屋，这种强化版的磨坊可以生产侦察兵，通过附近的森林产生黄金。",
+        "丛野生动物身上采集食物可以获得黄金赏金，提升赏金可以为村民和狩猎小屋提供经济加成。",
+        "在封建时代 (第二时代) 便可生产早期骑士。",
+        "罗德亚船只可以消耗一定资源转换为任何类型的船只。",
+        "渔船不需返回码头便可放下食物。"
+      ]
+    },
+    {
+      "title": "林地联邦",
+      "description": "可以使用木制要塞替代哨站，守卫您的领地。木制要塞自带生命值 +100%，驻扎栏位 +3。\n可以建造硬木栅栏，生命值 +100%，建造时间更少。"
+    },
+    {
+      "title": "猎人王子",
+      "description": "与狩猎小屋训练的侦察兵一起生存下去。狩猎小屋可以提供标准磨坊的所有优势，同时还能够通过附近的森林数量产生黄金。"
+    },
+    {
+      "title": "皇家卫队侍从",
+      "description": "在封建时代 (第二时代) 就可以生产早期骑士。"
+    },
+    {
+      "title": "罗德亚重构术",
+      "description": "罗德亚船只可以消耗一定资源转换为任何类型的船只。\n罗德亚渔船可以直接在船上处理食物，无需返回码头存放食物。"
+    },
+    {
+      "title": "赏金奖励",
+      "description": "从野生动物身上采集食物可以获得黄金赏金，而且总赏金达到特定数额时可以为村民和狩猎小屋提供经济加成。\n100 赏金\n• 食物采集速率 +5%\n• 狩猎小屋产生 10% 额外黄金\n400 赏金\n• 食物采集速率 +10%\n• 狩猎小屋产生 25% 额外黄金\n1000 赏金\n• 食物采集速率 +15%\n• 狩猎小屋产生 40% 额外黄金"
+    },
+    {
+      "title": "影响力",
+      "description": "监督皆伐措施，当伐木场和城镇中心在木制要塞影响范围内时，村民存放木材量额外 +20%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "僧侣战士：宗教轻型骑兵，可以在战斗中鼓舞附近的单位，为他们提供 +1 护甲和 +2 伤害。\n骑射手：轻型远程骑兵单位，拥有较高机动力和伤害。\n射击军：这种火枪兵在静止不动时能力会增强，并拥有极高的近战攻击力。\n罗德亚船只：可以转换为任何类型的船只。"
     }
   ],
   "techtree": {

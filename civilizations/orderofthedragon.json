@@ -1,6 +1,8 @@
 {
   "name": "Order of the Dragon",
+  "nameCN": "龙之骑士团",
   "description": "The Order of the Dragon is established by handpicked wealthy elites to crush hostile empires. Investing large amounts of resources into training only a few exceptional warriors, the Order succeeds in raising an elite army unlike any other.",
+  "descriptionCN": "龙之骑士团由精选的富有精锐力量所建立，来摧毁敌对的帝国。骑士团投入大量资源来训练仅一小部分表现优异的战士，成功组建了一支与众不同的精锐军队。",
   "classes": "Quality, Infantry, Defense",
   "overview": [
     {
@@ -37,6 +39,43 @@
     {
       "title": "Unique Units",
       "description": "The elite infantry and cavalry units of the Order - such as the Gilded Man-at-Arms, the Gilded Knight and others - have nearly twice the health of regular units and deal significantly more damage. However, they are much more costly to train and take up double the population space."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "村民携带资源 +40%，采集速度 +28%，建造和修理建筑的速度 +20%。",
+        "步兵和骑兵单位更强大，但生产成本更高，人口需求翻倍。",
+        "在哨站、石塔和城堡中放置圣物可获得防御和经济加成。",
+        "在码头放置圣物可使船舰攻击速度 +5% (最高 +20%)。",
+        "炮台建造成本 -20%。哨站的视野范围 +20%。",
+        "位于城镇中心影响范围内的建筑获得紧急修理能力，可激活该能力来修理建筑。"
+      ]
+    },
+    {
+      "title": "高效村民",
+      "description": "村民采集速率加快 28%，建造建筑的速度加快 20%，但要多花费 20% 的食物来生产。"
+    },
+    {
+      "title": "精锐装备",
+      "description": "研究重型火炬、鳞甲和战马之类的科技，可进一步强化骑士团的力量。"
+    },
+    {
+      "title": "炮台建筑学",
+      "description": "所有炮台科技研究成本 -20%。哨站视野范围 +20%。"
+    },
+    {
+      "title": "手推车",
+      "description": "村民的资源运载量比其他文明多 40%。"
+    },
+    {
+      "title": "影响力",
+      "description": "城镇中心影响范围内的建筑将获得紧急修理能力，启动此能力可以修理建筑，每秒恢复 150 生命值，持续 20 秒。"
+    },
+    {
+      "title": "独特单位",
+      "description": "骑士团的精锐步兵和骑兵单位（例如镀金武士、镀金骑士等等）拥有正规单位近乎两倍的生命值，并且造成大幅增多的伤害。但是，他们的训练成本会高很多，并占用双倍的人口空间。"
     }
   ],
   "techtree": null

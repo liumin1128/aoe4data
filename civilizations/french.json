@@ -1,6 +1,8 @@
 {
   "name": "French",
+  "nameCN": "法兰西人",
   "description": "The French deploy powerful cavalry units and can boost production in fortified positions. Enemies must be prepared to withstand the charges of powerful Royal Knights and other armored units.",
+  "descriptionCN": "法兰西人可部署强大的骑兵单位，在坚固的阵地上可提高生产量。敌人必须做好抵御强大的皇家骑士和其他装甲单位冲锋的准备。",
   "classes": "Trade, Cavalry, Keeps",
   "overview": [
     {
@@ -39,6 +41,49 @@
     {
       "title": "Unique Units",
       "description": "Royal Knight: Heavy Cavalry that gains +3 bonus damage for 5 seconds after completing a charge.\nArbalétrier: Crossbowman with +1 melee armor that can deploy a defensive Pavise to provide +5 ranged armor and +1 weapon range for 30 seconds.\nCannon: Bombard replacement with more damage, mobility and no setup time.\nGalleass: Large war galley that has a long range forward mounted bombard.\nWar Cog: Unique Springald Ship with reduced cost and increased ranged armor."
+    },
+    {
+      "title": "(translation not found) (undefined)",
+      "description": "(translation not found) (undefined)"
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "在封建时代 (第二时代) 可以生产皇家骑士。",
+        "城镇中心工作速率在各个时代分别 +15%、+15%、+20%、+25%。",
+        "资源存放建筑的成本 -50%。",
+        "经济科技研究成本 -35%。",
+        "在小地图上显示所有贸易站。",
+        "商人可以将食物、木材、黄金送回市场。",
+        "商船资源运回量 +20%。",
+        "铁匠铺在每次进入新时代时可以免费提供近战伤害科技。"
+      ]
+    },
+    {
+      "title": "皇家战马",
+      "description": "在封建时代 (第二时代) 中可部署皇家骑士，并可研究强大的独特骑兵科技。"
+    },
+    {
+      "title": "大陆经济",
+      "description": "凭借资源消耗 -50% 和经济科技成本 -35%，实现卓越的经济效益。\n城镇中心的生产速度逐个时代 +15%、+15%、+20%、+25%。"
+    },
+    {
+      "title": "贸易经济",
+      "description": "选择使用商人和商船将食物、木材、黄金带回市场。\n商船带回的资源量额外 +20%。\n在游戏开始时于小地图上显示贸易站。\n码头提供人口空间。"
+    },
+    {
+      "title": "铁匠的恩赐",
+      "description": "进入新时代时，铁匠铺会免费提供近战伤害科技。"
+    },
+    {
+      "title": "影响力",
+      "description": "用成本 -10% 的城堡维持攻势，其影响范围内的靶场和马厩生产单位成本 -20%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "皇家骑士：这种重装骑兵单位在完成冲锋后的 5 秒内获得 +3 的伤害加成。\n弓弩手：这种弩手单位拥有 +1 的近战护甲，并可以部署一面防御用的大盾，提供 +5 远程护甲和 +1 武器攻击范围，持续 30 秒。\n加农炮：这种替代手推炮的单位可以造成更多伤害，机动性更高，而且无需架设时间。\n三桅战船：拥有前置远程手推炮的大型战舰。\n柯克战船：独特的扭力弩炮船，成本更低，远程护甲更高。"
     },
     {
       "title": "(translation not found) (undefined)",

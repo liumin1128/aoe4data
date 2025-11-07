@@ -1,6 +1,8 @@
 {
   "name": "Ayyubids",
+  "nameCN": "阿尤布人",
   "description": "At the confluence of continents, where trade and science meet, and where empires clash, the Ayyubids use their pursuit of knowledge to gain the upper hand. The House of Wisdom is the focal point of this combination of urbanization and science, unlocking powerful Golden Age bonuses and advancing through the ages. The Ayyubids focus on versatile units to gain a tactical advantage on the battlefield.",
+  "descriptionCN": "在大陆的交汇处，贸易和科学相遇，帝国与帝国发生冲突之时，阿尤布人利用对知识的孜孜追求赢得了先机。智慧宫是这种城市化和科学结合的重要点，它可以解锁强大的黄金时代加成，并随着时代更迭更进一步。阿尤布人专注于多功能单位，可在战场上获得战术优势。",
   "classes": "Adaptable, Camels, City Planning",
   "overview": [
     {
@@ -49,6 +51,55 @@
     {
       "title": "Unique Units",
       "description": "Desert Raider: Versatile camel rider who can switch between ranged and melee modes.\nCamel Lancer: Heavy camel with a powerful charge attack.\nDervish: Mounted religious unit with a powerful heal ability.\nManjaniq: Unique Mangonel which can use an Incendiary mode to deal damage in a greatly increased area.\nTower of the Sultan: Behemoth siege weapon crewed by archers and equipped with a battering ram for devastating damage against buildings."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "骆驼单位可以使附近敌方骑马单位造成的伤害 -20%。",
+        "在浆果丛附近建造磨坊可以将其转换为果园，并使果园食物运载量 +100。",
+        "从浆果丛采集食物的速度 +25%，但无法从野猪身上采集食物。",
+        "浆果运载量 +3。",
+        "陆地商人的生产成本 -33%。",
+        "码头的建造成本 -50%。",
+        "无需村民，而是通过升级智慧宫的偏殿来推进时代。",
+        "从 8 个不同的偏殿中进行选择，每一个偏殿都可以解锁强大的加成，无需进行任何额外的升级。",
+        "在后面时代的研究中，偏殿提供的加成会越来越多。",
+        "在智慧宫的影响范围内建造建筑以进入黄金时代后，可获得特殊加成。"
+      ]
+    },
+    {
+      "title": "因地制宜的指挥官",
+      "description": "通过从智慧宫的 8 个独特偏殿进行选择，进入新时代。\n可在不需要任何升级的情况下，立即获得经济、科技和军事的加成，以便调整文明以满足战斗的需求。\n在后期的时代中建造时，每座偏殿都会提供更强大的加成效果。"
+    },
+    {
+      "title": "骆驼战士",
+      "description": "骆驼的出现可以惊吓敌方骑兵的战马，使对方的伤害 -20%。"
+    },
+    {
+      "title": "攻城术大师",
+      "description": "步兵可在战场上建造攻城器械，不需要攻城工程学科技。\n可使用两种独特的攻城武器和一种独特的攻城升级。"
+    },
+    {
+      "title": "大型果园",
+      "description": "在浆果丛附近建造磨坊，便可将其转换为果园，并使果园食物产量 +100。\n村民从浆果丛采集食物的速率加快 25%，但无法从野猪身上采集食物。\n村民采集浆果丛的食物运载量 +3。"
+    },
+    {
+      "title": "贸易经济",
+      "description": "陆上商人成本减少 33%。"
+    },
+    {
+      "title": "造船厂",
+      "description": "建造码头的木材成本 -50%。"
+    },
+    {
+      "title": "黄金时代",
+      "description": "通过建造来开启你的黄金时代，以强化经济、科技与部队。\n位于智慧宫影响范围内的建筑火焰护甲 +5，并增加一点黄金时代点数。黄金时代的解锁点数为 10、20、30、50 和 75 座建筑。\n• 阶层 1：村民采集速度 +10%\n• 阶层 2：研究速度 +25%\n• 阶层 3：生产速度 +20%\n• 阶层 4：攻城单位的生产资源成本降低 20%\n• 阶层 5：骆驼单位的攻击速度提高 20%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "沙漠掠夺者：可以在远程和近战模式之间切换的全面型骆驼骑兵。\n骆驼长矛骑兵：拥有强力冲锋攻击的重型骆驼骑兵。\n德尔维希：拥有强大治疗能力的骑马宗教单位。\n投石机：可以使用燃烧模式来造成更大范围伤害的独特轻型投石车。\n苏丹之塔：搭载步弓手，并配备攻城锤，可对建筑造成毁灭性伤害的巨型攻城武器。"
     }
   ],
   "techtree": {

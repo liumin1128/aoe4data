@@ -1,6 +1,8 @@
 {
   "name": "Abbasid Dynasty",
+  "nameCN": "黑衣大食王朝",
   "description": "The Abbasid Dynasty pursues a flourishing Golden Age by concentrating structures around their House of Wisdom, allowing them to unlock significant economic advantages. The House of Wisdom also drives progress through the Ages and grants access to advanced technology. Abbasid camel units are expert at countering enemy cavalry.",
+  "descriptionCN": "黑衣大食王朝追求的是一个繁荣鼎盛的黄金时代，故将其建筑的重点围绕在智慧宫上，因而可解除重大经济优势。智慧宫亦推动着进入下一个时代的发展，让玩家可取得先进科技。阿拔斯骆驼单位是对抗敌方骑兵的专家。",
   "classes": "Technology, Camels, City Planning",
   "overview": [
     {
@@ -48,6 +50,54 @@
     {
       "title": "Unique Units",
       "description": "Camel Archers: Light ranged cavalry that deals bonus damage to light melee infantry.\nCamel Riders: Light melee cavalry that deals bonus damage to cavalry.\nGhulam: Tough infantry with a double strike attack."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "研究独特科技可以强化骆驼单位、军事、宗教、经济和贸易。",
+        "骆驼单位可以使附近的敌方骑马单位造成的伤害 -20%。",
+        "在浆果丛附近建造磨坊可以将其转换为果园，并使果园食物产量 +100。",
+        "从浆果丛采集食物的速度 +25%，但无法从野猪身上采集食物。",
+        "浆果运载量 +3。",
+        "陆地商人的生产成本 -33%。",
+        "码头的建造成本 -50%。",
+        "无需村民，而是通过升级智慧宫的偏殿来推进时代。",
+        "在智慧宫的影响范围内建造建筑，提高资源采集速度、缩短研究时间、提高生产速度，从而进入黄金时代。"
+      ]
+    },
+    {
+      "title": "追寻知识",
+      "description": "通过研究独特的科技，满足黑衣大食人对于知识的追求，这些科技能强化骆驼单位、军事、宗教、经济和贸易。\n通过升级智慧宫的多达 4 个偏殿来推进时代。"
+    },
+    {
+      "title": "骆驼战士",
+      "description": "骆驼的出现可以惊吓敌方骑兵的战马，使对方的伤害 -20%。"
+    },
+    {
+      "title": "攻城专家",
+      "description": "步兵不需要攻城工程学科技就可以建造冲车、攻城塔、扭力弩炮和轻型投石车。"
+    },
+    {
+      "title": "大型果园",
+      "description": "在浆果丛附近建造磨坊，便可将其转换为果园，并使果园食物产量 +100。\n村民从浆果丛采集食物的速率加快 25%，但无法从野猪身上采集食物。\n村民采集浆果丛的食物运载量 +3。"
+    },
+    {
+      "title": "贸易经济",
+      "description": "陆上商人成本减少 33%。"
+    },
+    {
+      "title": "造船厂",
+      "description": "建造码头的木材成本 -50%。"
+    },
+    {
+      "title": "黄金时代",
+      "description": "通过建造来开启你的黄金时代，提高经济和科技水平。\n位于智慧宫的影响范围之内的建筑火焰护甲 +5，并增加一点黄金时代点数。黄金时代的解锁点数为 10、30 和 60 座建筑。\n• 阶层 1：村民采集速度 +15%\n• 阶层 2：研究速度 +20%\n• 阶层 3：村民所有资源的采集速度 +20%。研究速度 +20%。生产速度 +20%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "骆驼射手：这种轻型远程骑兵可以对轻型近战步兵造成额外伤害。\n骆驼骑兵：这种轻型近战骑兵可以对其他骑兵单位造成额外伤害。\n古拉姆：可同时攻击两个目标的强悍步兵。"
     }
   ],
   "techtree": {

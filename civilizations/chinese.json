@@ -1,6 +1,8 @@
 {
   "name": "Chinese",
+  "nameCN": "中国人",
   "description": "The Chinese can shift their focus across the ages, deploying many unique units and building rapidly. Enemies must continually adapt if they want to keep up.",
+  "descriptionCN": "中国人可以在多个时代间转移重心，部署各种独特的单位并迅速进行建设。敌人如果想要跟上其发展的速度，就必须要不断适应。",
   "classes": "Dynasties, Gunpowder, Taxes",
   "overview": [
     {
@@ -37,6 +39,36 @@
     {
       "title": "Unique Units",
       "description": "Imperial Official: Use the Supervise ability to boost production speed of research and military buildings by +150% — supervising economic buildings increases the amount of resources dropped off by Villagers by +20%.\nZhuge Nu: Light ranged infantry with a rapid burst attack effective vs. light units.\nPalace Guard: Man-at-Arms replacement. Heavy melee infantry that exchanges armor for move speed.\nNest of Bees: Mangonel replacement. Siege engine that fires a barrage of rockets, doing area of effect damage.\nFire Lancer: Light cavalry effective vs. siege engines and buildings. Comes with extensive sight range and an explosive charge attack.\nGrenadier: Light ranged gunpowder infantry that throws grenades dealing area of effect damage."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "description": "从唐朝开始 - 侦察兵的视野 +30%，并可以使用村庄。\n• 朝廷命官可收集训练单位、研究科技和存放资源所产生的税 (黄金)。\n• 建造一个时代的两座地标，即可进入新时代，并解锁特殊加成、独特单位和建筑。\n• 村民建造防御工事的速度 +50%，建造所有其他建筑的速度 +100%。\n• 在黑暗时代 (第一时代) 可免费获得化学技术——城镇中心、城堡和哨站使用手铳射击槽代替防御射箭槽。\n• 码头工作速度 +10%。"
+    },
+    {
+      "title": "盛世王朝",
+      "description": "以唐朝开始游戏，侦察兵的视野范围 +30%，并可以获得村庄。\n通过在一个时代中建造两个地标来进入新朝代，并获得特殊加成、独特建筑和单位。\n• 宋朝：生产村民的速度提高 +33%，并解锁谷仓和诸葛弩手\n• 元朝：村民、命官和军事单位移动速度 +15%，并解锁宝塔和火长矛骑兵。\n• 明朝：军事单位生命值 +15%，并解锁掷弹兵。"
+    },
+    {
+      "title": "快速建造",
+      "description": "村民建造防御设施的速度 +50%，建造其他建筑的速度 +100%。船坞工作速度 +10%。"
+    },
+    {
+      "title": "火药大师",
+      "description": "在游戏开始时免费解锁化学科技，防御建筑改为使用手铳射击槽，而不是射箭槽。"
+    },
+    {
+      "title": "赋税",
+      "description": "训练单位、研究科技以及存放资源可以产生税金，并由朝廷命官收集。"
+    },
+    {
+      "title": "影响力",
+      "description": "在翰林院地标的影响范围内建造军事和经济建筑可以使产生的税金 +100%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "朝廷命官：可以使用监督能力使研究和军事建筑的工作速度 +150%，还可以监督经济建筑以使村民存放的资源量 +20%。\n诸葛弩手：轻型远程步兵单位，可以快速地发动爆发攻击，擅长对付轻型单位。\n皇宫卫兵：武士的替代单位。通过牺牲护甲来提高移动速度的重型近战步兵。\n一窝蜂：轻型投石车的替代单位。这种攻城器械可以发射大片火箭，造成范围伤害。\n火长矛骑兵：擅长对付攻城器械和建筑的轻型骑兵。自带极大的视野范围，并可以进行攻击力巨大的冲锋攻击。\n掷弹兵：轻型远程火药步兵，可以投掷震天雷，造成范围伤害。"
     }
   ],
   "techtree": {

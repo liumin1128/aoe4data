@@ -1,6 +1,8 @@
 {
   "name": "Ottomans",
+  "nameCN": "奥斯曼人",
   "description": "The Ottoman Army can expand to dominate the battlefield, supported by Military Schools that are able to continuously produce units to swell the ranks of their formations. Supporting those formations, the Mehter war drums signal the highly trained troops to take situational advantage.",
+  "descriptionCN": "奥斯曼军队能够快速扩张并称霸战场，而且得益于军事学校的支持，能够不断生产单位，壮大军阵的兵力。奥斯曼军乐队的战鼓还可以为这些军阵提供支援，他们可以用鼓声向这些训练有素的部队发出信号，帮助他们取得战局的优势。",
   "classes": "Imperial Council, Military Schools, Siege",
   "overview": [
     {
@@ -41,6 +43,47 @@
     {
       "title": "Unique Units",
       "description": "Sipahi: Horseman replacement. Activate the Fortitude ability to deal extra damage to ranged units but receive more damage from melee weapons.\nMehter: Mounted war drummer that provides military enhancements to nearby units when toggling the War Drums ability.\n• Attack Drums: Increased attack speed.\n• Melee Defense Drums: Increased melee armor.\n• Ranged Defense Drums: Increased ranged armor.\nJanissary: Powerful handcannoneer that can repair siege engines and deal bonus damage to cavalry.\nGrand Galley: Large war galley that can convert into a floating Military School.\nGreat Bombard: Largest gunpowder siege engine that can be fielded. Has long range and area damage attack.\nAkinji: Long-ranged cavalry which fires two arrows in quick succession. Must be unlocked through the Imperial Council."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "训练单位和时代推移会获得可转化为维齐尔点数的经验，行动成本越高，获得的经验就越多。获得多达 5 点维齐尔点数并花费它们来解锁强大的独特奥斯曼加成。",
+        "军事学校可在不消耗资源的情况下持续生产单位。",
+        "随着时代推移，来自铁匠和大学的影响力可提供军事单位生产速度加成。",
+        "军事和科技建筑成本更便宜。",
+        "苏丹亲兵火枪兵单位在城堡时代 (第三时代) 中可用，能够修复攻城器械。",
+        "奥斯曼军乐队的战鼓手可增强附近军事单位的攻击和防御能力。",
+        "派出具有更远射程和范围伤害的重型火炮攻城器械。",
+        "生产 可以改造为水上军事学校的大型桨帆船。",
+        "贸易船和运输船的移动速度增加。",
+        "无法将野猪视为食物。"
+      ]
+    },
+    {
+      "title": "军事学校训练",
+      "description": "建造军事学校建筑，可以在不消耗任何资源的情况下连续生产特定种类的单位，然而生产效率也随之下降。"
+    },
+    {
+      "title": "帝国议会",
+      "description": "训练单位和时代推移会提供可转化为维齐尔点数的经验，行动成本越高，获得的经验就越多。获得多达 5 点维齐尔点数并花费它们来解锁强大的独特奥斯曼加成。"
+    },
+    {
+      "title": "军事诱惑",
+      "description": "用更便宜的军事和技术建筑训练、升级和组建一支军队。"
+    },
+    {
+      "title": "运输路线",
+      "description": "商船、渔船和运输船的移动速度增加。"
+    },
+    {
+      "title": "影响力",
+      "description": "在铁匠铺或大学影响范围内建造的军事生产建筑将随年代推移获得生产速度加成。"
+    },
+    {
+      "title": "独特单位",
+      "description": "西帕希骑兵：骑手替代者。激活坚毅能力，可对远程单位造成额外伤害，但会承受来自近战武器的更多伤害。\n奥斯曼军乐队：马上战鼓手，在开启战鼓能力时为附近单位提供军事增益。\n• 攻击战鼓：提高攻击速度。\n• 近战防御战鼓：提升近战护甲。\n• 远程防御战鼓：提升远程护甲。\n苏丹亲兵：强大的火枪兵，可以修复攻城器械，并对骑兵造成额外伤害。\n大型桨帆船：可以改造成一所水上军事学校的大型战舰。\n重型火炮：可供部署的最大型的火药攻城器械。具有远距离攻击范围和区域打击手段。\n阿金基轻骑兵：远程骑兵，可快速连射两只箭。必须通过帝国议会进行解锁。"
     }
   ],
   "techtree": {

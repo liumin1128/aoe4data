@@ -1,6 +1,8 @@
 {
   "name": "Byzantines",
+  "nameCN": "拜占庭人",
   "description": "The Byzantines construct sprawling networks of life-giving Aqueducts and Cisterns. Leverage powerful unique abilities and hire Mercenaries with exquisite Olive Oil. Peasants work tirelessly to manufacture Olive Oil for the empire.",
+  "descriptionCN": "拜占庭人建造了庞大的水渠和蓄水池网络，为生命提供了源源不断的水源。他们利用强大的独特能力，用上等橄榄油雇佣雇佣兵。农民们不知疲倦地为帝国生产橄榄油。",
   "classes": "City Planning, Mercenaries, Defense",
   "overview": [
     {
@@ -44,6 +46,50 @@
     {
       "title": "Unique Units",
       "description": "Limitanei: Spearman replacement. Light melee infantry with the Shield Wall ability to increase ranged armor at the cost of move speed.\nVarangian Guard: Man-at-Arms replacement. Use the Berserking ability to increase damage at the cost of armor. Can construct Transport Ships and increase armor of transports when garrisoned. Gains increased movement speed when disembarking from Transport Ships.\nCataphract: Knight replacement. Heavy cavalry with Trample, a powerful targeted ability that runs through and damages enemies in its path.\nCheirosiphon: A ram equipped with a short ranged Greek Fire attack.\nDromon: Springald Ship replacement. Equipped with Greek Fire."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "蓄水池可以进行切换，提高对单位生产速度、研究速度或建筑防御力的影响力。与水渠相连接时可提高加成。",
+        "可以使用各种希腊之火的野战单位。",
+        "从建成的每座建筑收集额外石料。",
+        "采集橄榄油，橄榄油可用来生产雇佣兵单位。",
+        "从封建时代 (第二时代) 开始，可以在雇佣兵之家以雇佣兵的形式生产其他文明的独特单位。",
+        "工人从浆果丛中、橄榄树林中以及鱼类身上采集到橄榄油。",
+        "商人在成功进行贸易时提供橄榄油。",
+        "市场可以交易橄榄油。",
+        "运输船在卸载后可暂时提高单位移动速度。"
+      ]
+    },
+    {
+      "title": "橄榄油",
+      "description": "收集可用于招募雇佣兵单位的独特资源。村民采集的橄榄油相当于从浆果丛采集的 50% 食物，从橄榄树林采集的 20% 食物，以及从近海鱼群采集的 10% 食物。\n捕鱼艇产生的橄榄油相当于从鱼群获得的 20% 食物，并且商人会根据交易量提供 20% 橄榄油。"
+    },
+    {
+      "title": "雇佣兵",
+      "description": "购买合同或确立贸易站的控制权，从而在雇佣兵之家用橄榄油招募其他文明的独特单位。"
+    },
+    {
+      "title": "蓄水池和水渠",
+      "description": "蓄水池可以提高附近村民的采集速度，还能帮助增强附近的建筑，从而提高单位生产速度、研究速度或是建筑防御力。\n铺设水渠网，将水渠与蓄水池相连接，可以增强蓄水池的加成效果。"
+    },
+    {
+      "title": "野外石料",
+      "description": "从建造的每种建筑采集石料。所收集的石料数量取决于建筑规模。"
+    },
+    {
+      "title": "希腊之火",
+      "description": "基耶罗喷火筒、升级后的德罗蒙战舰和巨型投石机在攻击时会投掷希腊之火，让一片区域燃起火焰，造成持续伤害。"
+    },
+    {
+      "title": "轻型投石车炮台",
+      "description": "哨站和城堡可进行轻型投石车炮台升级。石墙塔装备轻型投石车炮台，而不是扭力弩炮。"
+    },
+    {
+      "title": "独特单位",
+      "description": "边防军：长矛兵的替代单位。具备盾墙能力的轻型近战步兵，可以牺牲移动速度来提高远程护甲。\n瓦兰吉卫队：武士的替代单位。可以使用狂战士能力，牺牲护甲来增加伤害。可以建造运输船，驻守时还可以提升运输工具的护甲。离开运输船时移动速度提升。\n甲胄骑兵：骑士的替代单位。具备践踏能力的重装骑兵。践踏能力十分强大，可以一路踏过目标，对沿途的敌人造成伤害。\n基耶罗喷火筒：配备了短程希腊之火攻击的冲车。\n德罗蒙战舰：扭力弩炮船的替代单位。装备了希腊之火。"
     }
   ],
   "techtree": {

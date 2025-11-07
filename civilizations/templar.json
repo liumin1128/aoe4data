@@ -1,6 +1,8 @@
 {
   "name": "Knights Templar",
+  "nameCN": "圣殿骑士团",
   "description": "Founded to protect the meek and weary, the Knights Templar establish Commanderies throughout Europe to call on their allies. Fielding a spectacular array of heavy troops, the Templars lead the charge into battle with discipline and heart. Fortresses dot the carefully cultivated landscape, providing key defensive positions and safe haven to the pilgrims they protect.",
+  "descriptionCN": "为了保护弱小与疲惫之人，圣殿骑士团在欧洲各地建立了指挥所以召集他们的盟友。拥有壮观的重装部队阵容，以自律和勇武著称的圣殿骑士团总是冲锋陷阵。要塞作为重要的防御据点散布于精心耕作的土地上，用于守卫重要位置以及为他们保护的朝圣者提供庇护。",
   "classes": "Pilgrims, Commanderies, Knights",
   "overview": [
     {
@@ -44,6 +46,50 @@
     {
       "title": "Unique Units",
       "description": "Templar Brother: Knight replacement. More expensive than a regular Knight, but has additional health and damage.\nFeudal Age\nKnight Hospitaller Commanderie - Hospitaller Knight: Heavy Melee Infantry that can heal nearby friendly units.\nKingdom of France Commanderie - Chevalier Confrere: Heavy Cavalry that is cheaper than a regular Knight. Gains additional health for each nearby Heavy Cavalry unit.\nPrincipality of Antioch Commanderie - Serjeant: Heavy Infantry with high melee armor. Throws axes which deal melee damage from range.\nCastle Age\nAngevin Empire Commanderie - Heavy Spearman: Armored Spearman that is stronger around Fortresses.\nRepublic of Genoa Commanderie - Genoese Crossbowman: Expensive Crossbowman that deals additional damage to melee infantry.\nKingdom of Castile Commanderie - Genitour: Mounted Javelineer that excels against ranged units.\nImperial Age\nKingdom of Poland Commanderie - Szlachta Cavalry: Elite Cavalry with exceptional ranged armor. Slows the attacks of enemies it damages and deals additional damage to light infantry.\nTeutonic Order Commanderie - Teutonic Knight: Absurdly Powerful Heavy Infantry that gains power for each enemy felled in combat. Reduces the armor of nearby enemies.\nRepublic of Venice Commanderie - Condottiero: Fast infantry that costs only gold. Strong against Gunpowder units.\nVenetian Galley: Large oared vessel with a long range forward mounted Trebuchet.\nVenetian Trader: Expensive but fast moving trader. Max Build limit of 5."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "在城镇中心建立一个指挥所，即可进入新时代。",
+        "指挥所可以永久解锁单位和加成。",
+        "朝圣者到达圣地后会产出黄金。",
+        "在封建时代建造要塞。",
+        "要塞可以增加附近单位的射程和附近石墙的生命值。",
+        "要塞的作用类似于地标，但可以被完全摧毁。",
+        "伐木工会自动存入木材，其采集速度也会在进入新时代后提升。",
+        "攻城武器和攻城器械的木材消耗更低。",
+        "巨型投石机可额外发射一枚弹药。"
+      ]
+    },
+    {
+      "title": "建立指挥所",
+      "description": "在城镇中心建立三个独特的指挥所之一，即可进入新时代。每个指挥所都可永久解锁一种独特单位和加成。"
+    },
+    {
+      "title": "法兰克防御计划",
+      "description": "要塞取代了城堡，且出现在封建时代。\n远程单位在位于要塞附近时攻击距离 +15%，石墙放置在要塞或圣殿骑士团总部影响范围内时生命值 +25%，并获得默认箭矢。\n要塞的作用类似于地标，但可以被完全摧毁。"
+    },
+    {
+      "title": "朝圣",
+      "description": "圣殿骑士团无法训练商人，而是只能从成功的朝圣中产生黄金。进入封建时代后，圣殿骑士团可以为朝圣者开辟安全通道，供其前往圣地。\n每 60 秒，一群朝圣者会从圣殿骑士团司令部前往选定圣地，并根据行程长短产出黄金。每拥有一个已启用的要塞，朝圣者的数量便增加 1 个 (上限为 10 个)。\n在游戏开始时就会显示圣地和圣物。"
+    },
+    {
+      "title": "沿海巨港",
+      "description": "建造巨港而不是码头，后者成本更加昂贵，但生命值增加、炮台更坚固、为渔船提供的驻扎空间更多，并能增加附近船只的生命值。"
+    },
+    {
+      "title": "景观保护",
+      "description": "村民在没有伐木场的情况下会自动存放木材。\n在每个时代，木材的采集速度 +20%，并且会生产所采集木材的 20% 作为额外食物。"
+    },
+    {
+      "title": "攻城专家",
+      "description": "巨型投石机可发射额外的弹药，并且能部署在具有独特炮台的要塞顶部。\n攻城武器厂和攻城器械的木材成本 -25%。"
+    },
+    {
+      "title": "独特单位",
+      "description": "圣殿骑士修士：骑士的替代单位。比普通骑士更贵，但生命值和伤害更高。\n封建时代\n医院骑士指挥所 - 医院骑士：重装近战步兵，可治疗附近的友方单位。\n法兰西王国指挥所 - 同伴骑士：重装骑兵，价格比普通骑士更低。附近每存在一名重装骑兵，可获得额外生命值。\n安条克公国 - 萨金特卫兵：重装步兵，拥有较高的近战护甲。远程投掷飞斧，造成近战伤害。\n城堡时代\n安茹帝国指挥所 - 重装长矛兵：拥有护甲的长矛兵，在要塞周围时会变得更加强力。\n热那亚共和国指挥所 - 热那亚弩手：造价昂贵的弩手，可对近战步兵造成额外伤害。\n卡斯蒂利亚王国 - 标枪骑兵：骑马的掷枪兵，擅长对付远程单位。\n帝王时代\n波兰王国指挥所 - 什拉赫塔骑兵：精锐骑兵，拥有极高的远程护甲。对敌人造成伤害时会使其减速，对轻型步兵造成额外伤害。\n条顿骑士团指挥所 - 条顿骑士：异常强大的重装步兵，在战场上每击败一个敌人都能获得力量。可降低附近敌人的护甲。\n威尼斯共和国指挥所 - 意大利佣兵：速度较快的步兵，只需花费黄金制造。擅长对付火药单位。\n威尼斯箭船：大型桨橹船，配备前置长程巨型投石机。\n威尼斯商人：造价昂贵但行动迅速的商人。建造上限：5。"
     }
   ],
   "techtree": {

@@ -1,6 +1,8 @@
 {
   "name": "Golden Horde",
+  "nameCN": "金帐汗国",
   "description": "Leading the Golden Horde westwards, Batu Khan expanded the Mongolian Empire right into the heart of Eastern Europe. The Khan’s great Golden Tent was the center of network of control, with outposts that allowed them to maintain a vast territory. While still powerful raiders, the Golden Horde sacrificed the mobility of their camps to field larger forces needed to control their vassal states.",
+  "descriptionCN": "拔都汗率领金帐汗国一路西征，将蒙古帝国版图扩张至东欧腹地。那座恢弘的黄金帐篷是大汗统治网络的核心，遍布各地的哨站支撑起广袤疆域的控制体系。尽管仍保持着强悍的掠夺传统，但为控制众多附庸国，金帐汗国不得不牺牲游牧营地的机动性，转而维持规模庞大的驻军。",
   "classes": "Aggression, Cavalry, Horde",
   "overview": [
     {
@@ -54,6 +56,60 @@
     {
       "title": "Unique Units",
       "description": "Golden Horde Khan: Heavy Cavalry that scales in strength on age up. Can fire an arrow that increases the damage taken by enemies in an area. The Khan will also provide an increasing attack damage aura the longer the Khan is in combat.\nTorguud: Heavy Cavalry which can protect the Khan, redirecting any damage taken by the Khan to the Torguud.\nKharash: Weak Light Melee Infantry units that provide armor to nearby allies.\nKipchak: Horse archer that can fire arrows which cause the target hit to bleed.\nTraction Trebuchet: Faster move speed, setup time and attack speed.\nKeshik: Heavy Cavalry available in Feudal Age, regenerates Health after every attack."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "开局时便已拥有最大人口上限。",
+        "单位总是批量招募。",
+        "牲畜围栏是一种独特的建筑，可以容纳 4 名村民在此工作，同时也是食物存放点。",
+        "可以在多个石料矿床上建造敖包，从而提升石料收入。",
+        "只需花费石料的独特科技。",
+        "黑暗时代 (第一时代) 可建造马厩。",
+        "通过建造和升级黄金帐篷来进入新时代。",
+        "强化前哨会根据黄金帐篷中设置的法令提供影响或光环加成。",
+        "丝绸之路：当活跃商人数量达到 5/10/15 时，额外生成的食物、木材和黄金 +10%。",
+        "运输船拥有 +50% 生命值和 +15% 移动速度。",
+        "侦察兵可以部署猎隼侦察术能力来持续关注周围区域。"
+      ]
+    },
+    {
+      "title": "黄金帐篷",
+      "description": "黄金帐篷是金帐汗国唯一的地标，玩家可在此升级至下一个时代并提升该建筑的生命值。在黄金帐篷可以选择法令，这能改变强化哨站提供的影响或光环加成。\n可通过黄金帐篷招募拔都汗和土尔扈特。"
+    },
+    {
+      "title": "汗国大军",
+      "description": "单位会以二个为一组进行生产。可通过研究科技提升批次产量。"
+    },
+    {
+      "title": "牲畜围栏",
+      "description": "建造牲畜围栏 (而非农田或牧场) 获取食物。绵羊尸体可以直接存放在牲畜围栏中并在此进行采集。"
+    },
+    {
+      "title": "强化哨站",
+      "description": "强化前哨拥有更高生命值，并会提供影响效果或光环加成，具体取决于在黄金帐篷选择的法令。"
+    },
+    {
+      "title": "强化运输",
+      "description": "运输船登陆速度加快，更耐久，生命值 +50%，移动速度 +15%。"
+    },
+    {
+      "title": "丝绸之路",
+      "description": "派出商人探索丝绸之路，可以根据你的活跃商人总数从贸易中获得更多资源。\n• 5 位以上的商人：+10% 食物\n• 10 位以上的商人：+10% 食物和木材\n• 15 位以上的商人：+10% 食物、木材和黄金"
+    },
+    {
+      "title": "石料科技和敖包",
+      "description": "在石料露头上建造敖包，即可直接收获石料而无需村民采集。在每次进入新时代时，最大可建造敖包数量 +1。"
+    },
+    {
+      "title": "猎隼侦察术",
+      "description": "侦察兵可以部署猎隼侦察术能力来持续关注周围区域。"
+    },
+    {
+      "title": "独特单位",
+      "description": "金帐汗国可汗：可以随时代提升实力的重装骑兵。可以用袭扰箭增加区域内敌人受到的伤害。此外，可汗战斗的时间越长，所提供的攻击伤害光环的效果也会越强。\n土尔扈特：能保护可汗的重装骑兵，可将可汗受到的伤害转移到自己身上。\n肉盾：弱小的轻型近战步兵单位，可提升附近盟友的护甲。\n钦察突骑：能用袭扰箭射中目标使其流血的骑马弓兵。\n牵引式巨型投石机：拥有更快的移动速度和攻击速度，以及更短的架设时间。\n怯薛骑兵：可在封建时代训练的重装骑兵，每次攻击后都会恢复生命值。"
     }
   ],
   "techtree": {

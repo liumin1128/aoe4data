@@ -1,6 +1,8 @@
 {
   "name": "House of Lancaster",
+  "nameCN": "兰开斯特王朝",
   "description": "The House of Lancaster emerges as a powerful branch of English royalty. Manors are the backbone of the economy by providing sustainable economic practices. Lancaster military might is of technological advantage and superior tactics on the battlefield. Dismantle enemy formations with potent shock troops then pick them apart with superior ranged infantry.",
+  "descriptionCN": "兰开斯特王朝是作为英格兰皇室的强大支系出现在历史舞台上的。庄园通过提供可持续的经济实践来稳固经济基础。兰开斯特军队的实力主要体现在战场上的科技优势和战术天赋。用强大的突击部队冲散敌人的阵型，然后用精锐的远程步兵将他们逐一击破。",
   "classes": "Manors, Defense, Economy",
   "overview": [
     {
@@ -42,6 +44,49 @@
         "Hobelar: Horseman Replacement. Cheap and expendable cavalry with high ranged armor.",
         "Earl's Guard: Man-at-Arms Replacement. Heavy Melee Infantry that periodically throws daggers.",
         "Demilancer: Special Heavy Cavalry. Accessed only via landmarks, the Demilancer is a durable cavalry unit with low damage."
+      ]
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "村民收集羊毛的速度 +20%。",
+        "建造庄园可自动生产食物和木材。",
+        "城镇中心建造完成后会生成 4 只绵羊。",
+        "城堡建造完成后可提供 3 个免费的伯爵护卫。",
+        "已启用的城堡可以提升伯爵护卫和短矛骑兵的伤害。",
+        "攻击敌方单位时，村民会使用短弓。",
+        "船只的建造成本 -10%。"
+      ]
+    },
+    {
+      "title": "封建制度",
+      "description": "在封建时代，建造庄园可产生被动收入。庄园可作为所有资源类型的存放建筑，提供 +10 的人口空间。每个庄园每分钟能生产 30 食物和 10 木材，并为附近的每个村民额外生产 4 食物和 2 木材。\n利用独特科技提升庄园的建造上限。"
+    },
+    {
+      "title": "羊毛产业",
+      "description": "每个城镇中心建造完成后都会生成 4 只绵羊。村民采集羊毛的速度 +20%。"
+    },
+    {
+      "title": "防御城镇",
+      "description": "首都城镇中心射出的箭矢数 +1，而且村民可以使用短弓攻击敌方单位。"
+    },
+    {
+      "title": "众志成城",
+      "description": "城堡建成时，可免费提供 3 个伯爵护卫。每个启用的城堡可为伯爵护卫和短矛骑兵提供 +1 伤害，最高可达 +4。"
+    },
+    {
+      "title": "造船工",
+      "description": "海军训练可以提高码头的工作效率，使船只建造成本 -10%。"
+    },
+    {
+      "title": "独特单位",
+      "list": [
+        "英皇侍卫：弓兵的替代单位。移动速度和射程较高的远程步兵。升级后可以对目标区域进行毁灭性的齐射。",
+        "骑马步兵：骑手的替代单位。造价便宜的一次性骑兵单位，拥有较高远程护甲。",
+        "伯爵护卫：武士的替代单位。重装近战步兵，可以定期投掷匕首。",
+        "短矛骑兵：特殊的重装骑兵。短矛骑兵只可通过地标生产，是一个伤害较低但皮糙肉厚的骑兵单位。"
       ]
     }
   ],

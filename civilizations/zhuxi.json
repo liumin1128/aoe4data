@@ -1,6 +1,8 @@
 {
   "name": "Zhu Xi's Legacy",
+  "nameCN": "朱子遗训",
   "description": "The teachings of philosopher Zhu Xi reshape the Chinese civilization. With Zhu Xi’s Legacy, the Chinese boast a sophisticated administration with superior Imperial Officials and advanced technologies. The brimming treasury helps to establish powerful dynasties and research a breadth of unique technologies. Recruit Palace Guards, Zhuge Nus, and Grenadiers early on to protect the Empire.",
+  "descriptionCN": "哲学家朱熹的教诲重塑了中国文明。借助朱子遗训，中国拥有复杂的行政机构，以及出色的朝廷命官和高级科技。这些充盈的财富可以帮助建立强大的王朝并研究各种独特科技。早早征召皇宫卫兵、诸葛弩手和掷弹兵来保护朝廷。",
   "classes": "Dynasties, Taxes, Technology",
   "overview": [
     {
@@ -44,6 +46,50 @@
     {
       "title": "Unique Units",
       "description": "Imperial Official: Use the Supervise ability to boost the production speed of research and military buildings by +150% - supervising economic buildings increases the amount of resources dropped off by Villagers by +20%.\nZhuge Nu: Archer replacement. Light ranged infantry with a rapid burst attack effective vs. light units.\nPalace Guard: Man-at-Arms replacement. Heavy melee infantry that exchanges armor for move speed.\nNest of Bees: Mangonel replacement. Siege engine that fires a barrage of rockets, doing area of effect damage.\nGrenadier: Light ranged gunpowder infantry that throws grenades dealing area of effect damage."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "从唐朝开始，地标建造成本 -15%，解锁村庄。",
+        "通过建造一个时代的两个地标来进入新的朝代，解锁特殊加成和建筑。",
+        "训练的单位、研究的科技和存放的资源会产生税收 (黄金)，可以由朝廷命官收取。",
+        "独特科技大幅升级朝廷命官，解锁新的单位并提升军事单位。",
+        "在封建时代可以训练早期皇宫卫兵。",
+        "在不进入王朝的情况下，可以使用诸葛弩手和掷弹兵。",
+        "村民建造防御设施速度 +50%，建造其他建筑速度 +100%。",
+        "在黑暗时代可以免费获得化学科技，并使城镇中心、城堡和哨站改为使用手铳射击槽，而不是防御型射箭槽。",
+        "码头工作速度 +10%。"
+      ]
+    },
+    {
+      "title": "盛世王朝",
+      "description": "从唐朝开始你的旅程 - 地标的成本 -15% 并解锁了村庄。\n在一个时代内建造两个地标可以开启拥有特殊加成、独特建筑和单位的朝代。\n• 宋朝：经济和人口建筑的木材成本折扣为 -30% - 解锁谷仓建筑。\n• 元朝：所有单位折扣为 10% - 解锁宝塔建筑。\n• 明朝：独特单位可造成 +20% 伤害。"
+    },
+    {
+      "title": "赋税",
+      "description": "训练的单位、研究的科技和存放的资源会产生税收 (黄金)，可以由朝廷命官收取。由白鹿洞书院和朱熹书院的独特行政科技可极大强化朝廷命官。"
+    },
+    {
+      "title": "王朝单位",
+      "description": "在不建立王朝的情况下使用诸葛弩手和掷弹兵。地标可以解锁强大的少林僧侣、元朝掠夺者和皇宫卫兵。在封建时代可以训练早期皇宫卫兵。"
+    },
+    {
+      "title": "火药大师",
+      "description": "在游戏开始时免费解锁化学科技，防御建筑改为使用手铳射击槽，而不是射箭槽。"
+    },
+    {
+      "title": "快速建造",
+      "description": "村民建造防御设施的速度 +50%，建造其他建筑的速度 +100%。船坞工作速度 +10%。"
+    },
+    {
+      "title": "保护皇宫",
+      "description": "在封建时代 (第二时代) 训练早期皇宫卫兵以保护皇帝。"
+    },
+    {
+      "title": "独特单位",
+      "description": "朝廷命官：可以使用监督能力使研究和军事建筑的工作速度 +150%，还可以监督经济建筑以使村民存放的资源量 +20%。\n诸葛弩手：步弓手替代单位。轻型远程步兵，可以快速地发动爆发攻击，擅长对付轻型单位。\n皇宫卫兵：武士替代单位。重型近战步兵，可牺牲护甲以换取移动速度。\n一窝蜂：轻型投石车替代单位。这种攻城器械可以发射大片火箭，造成范围伤害。\n掷弹兵：轻型远程火药步兵，可以投掷震天雷，造成范围伤害。"
     }
   ],
   "techtree": {

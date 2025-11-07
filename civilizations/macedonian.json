@@ -1,6 +1,8 @@
 {
   "name": "Macedonian Dynasty",
+  "nameCN": "马其顿王朝",
   "description": "Emperor Basil II employed Varangians to defend against revolts fomented by Byzantine nobles. Arriving on ships from the north, these foreign-born warriors were not swayed by Byzantine politics and culture, creating an elite shock division protecting emperors for centuries to come. The Macedonian Dynasty mints Silver as a unique resource to spend at Varangian Arsenals, sharpening their blades and honing their skills while they protect the Emperor.",
+  "descriptionCN": "皇帝巴西尔二世雇佣了瓦兰吉人来抵御拜占庭贵族煽动的叛乱。这些出生在外国的战士从北方乘船抵达，没有被拜占庭的政治和文化所影响，组建起一支精锐的突击部队，在随后数百年间始终守护着历代帝王。马其顿王朝将白银铸造成特殊资源，专用于瓦兰吉兵工厂的开支，用于磨砺他们的刀剑，提升他们的技能，同时保护皇帝。",
   "classes": "Varangians, Silver, Technology",
   "overview": [
     {
@@ -52,6 +54,58 @@
     {
       "title": "Unique Units",
       "description": "Atgeirmaðr: Spearman replacement. Light melee infantry with a passive ability that increases their attack speed when Varangian units are nearby.\nBogmaðr: Archer replacement. Light ranged infantry with an ability to bypass armor at the cost of move speed. \nEarly Varangian Guard: Man-at-Arms replacement. Use the Berserking ability to increase damage at the cost of armor. Can construct Transport Ships and increase armor of transports when garrisoned.\nRiddari: Knight replacement. Heavy cavalry with an ability to throw axes from range for a period of time.\nCheirosiphon: A ram equipped with a short ranged Greek Fire attack.\nDromon: Springald Ship replacement. Equipped with Greek Fire."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "村民从黄金和石料中提取出白银来研究独特科技。",
+        "在瓦兰吉兵工厂影响范围内的采矿场和城镇中心会被动产生白银。",
+        "花费白银让瓦兰吉兵工厂超过三个层级的科技。",
+        "在封建时代 (第二时代) 可以使用早期瓦兰吉卫队。",
+        "从瓦兰吉堡垒生产所有独特的瓦兰吉单位。",
+        "瓦兰吉单位拥有独特能力，可提升其战斗效果。",
+        "使用瓦兰吉军营免费增援战斗中倒下的战士。",
+        "部署能够使用各种希腊之火的单位。",
+        "运输船在卸货时可暂时提升单位的移动速度。"
+      ]
+    },
+    {
+      "title": "方铅矿采集",
+      "description": "村民在黄金矿脉和石料露头中发现丰富的方铅矿床，并在开采时将白银作为一种独特资源提取出来。\n村民提取的白银相当于开采的黄金或石料的 40%。"
+    },
+    {
+      "title": "影响力 - 白银铸造",
+      "description": "(translation not found) (undefined)"
+    },
+    {
+      "title": "瓦兰吉锻造",
+      "description": "在瓦兰吉兵工厂花费白银研究独特的军事科技。替代铁匠铺和大学。马其顿王朝的每类军事升级可以超过三个阶层。"
+    },
+    {
+      "title": "据点",
+      "description": "利用瓦兰吉堡垒加强帝国的防御，这些堡垒可以生产所有瓦兰吉单位并能放箭进行防御。"
+    },
+    {
+      "title": "军营",
+      "description": "在瓦兰吉军营选择援军。一旦有足够多的战士在战斗中阵亡，免费的瓦兰吉战士就会抵达军营以增强损失的兵力。\n如果临水，则可以选择船只作为援军。"
+    },
+    {
+      "title": "瓦兰吉符文石",
+      "description": "雕刻符文石以纪念过去在战斗中取得的胜利。在足够多的敌人落入瓦兰吉人手中之后，可能会创建一个符文石，在某个区域内激励附近的瓦兰吉人获得战斗加成。"
+    },
+    {
+      "title": "希腊之火",
+      "description": "基耶罗喷火筒、升级后的德罗蒙战舰、扭力弩炮和巨型投石机在攻击时会投掷希腊之火，让一片区域燃起火焰，造成持续伤害。"
+    },
+    {
+      "title": "轻型投石车炮台",
+      "description": "哨站和城堡可进行轻型投石车炮台升级。石墙塔装备轻型投石车炮台，而不是扭力弩炮。"
+    },
+    {
+      "title": "独特单位",
+      "description": "阿特盖尔：长矛兵的替代单位。拥有被动技能的轻型近战步兵，当附近有瓦兰吉单位时可提升攻击速度。\n波莫：弓兵的替代单位。能够牺牲移动速度来绕过装甲的轻型远程步兵。\n早期瓦兰吉卫队：武士的替代单位。可以使用狂战士技能，牺牲护甲来增加伤害。驻守时可以建造运输船，还可以提升运输工具的护甲。\n瑞塔利：骑士的替代单位。重装骑兵，能够短时间内远程投掷斧头。\n基耶罗喷火筒：一种配备短距离希腊之火的攻击冲车。\n德罗蒙战舰：扭力弩炮船的替代单位。配备希腊之火。"
     }
   ],
   "techtree": {

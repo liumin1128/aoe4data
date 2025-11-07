@@ -98,8 +98,8 @@ async function buildTechTree(civ: CivConfig, context: RunContext = { debug: fals
       if (icon_url) {
         item.icon = icon_url;
       } else {
-         console.log(`undefined icon for ${file}`, item.icon);
-         item.icon = undefined;
+        console.log(`undefined icon for ${file}`, item.icon);
+        item.icon = undefined;
       }
     }
     item.icon_src = undefined;
@@ -218,6 +218,7 @@ function getCivInfo(army_bag: any, bps_race_bag: any) {
   const overview = army_bag.ui?.global_traits_summary.map((x) => {
     const title = t(x.title);
     const description = x.description_formatter?.value ? t(x.description_formatter.formatter, x.description_formatter.formatter_arguments) : t(x.description);
+
     const list = description.startsWith("• ")
       ? description
           .split("• ")
@@ -227,11 +228,30 @@ function getCivInfo(army_bag: any, bps_race_bag: any) {
     if (list) return { title, list };
     return { title, description };
   });
+  const overviewCN = army_bag.ui?.global_traits_summary.map((x) => {
+    const title = t(x.title, [], "zh-hans");
+    const description = x.description_formatter?.value
+      ? t(x.description_formatter.formatter, x.description_formatter.formatter_arguments, "zh-hans")
+      : t(x.description, [], "zh-hans");
+
+    const list = description.startsWith("• ")
+      ? description
+          .split("• ")
+          .map((x) => x.trim())
+          .filter(Boolean)
+      : undefined;
+    if (list) return { title, list };
+    return { title, description };
+  });
+
   return {
     name: t(bps_race_bag.name),
+    nameCN: t(bps_race_bag.name, [], "zh-hans"),
     description: t(bps_race_bag.description),
+    descriptionCN: t(bps_race_bag.description, [], "zh-hans"),
     classes: t(army_bag.ui?.one_liner),
     overview,
+    overviewCN,
   } as any;
 }
 

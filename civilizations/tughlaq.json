@@ -1,6 +1,8 @@
 {
   "name": "Tughlaq Dynasty",
+  "nameCN": "图格鲁克王朝",
   "description": "Ghiyasuddin Tughlaq’s reign as Sultan laid the framework for advancement in arts, architecture, and expansion of the Tughlaq Dynasty. After commanding the construction of the Tughlaqabad Fort, future Sultans, Amirs, and governors expanded their military presence through force and show of power. The Tughlaq Dynasty calls for quick construction of additional forts while governors oversee hard working elephants and villagers.",
+  "descriptionCN": "吉亚苏丁·图格鲁克苏丹王统治期间，为艺术、建筑领域的进步以及图格鲁克王朝的疆域扩张奠定了基础。在他下令建造腾格拉卡巴德堡垒后，继任的苏丹王、埃米尔及总督们通过武力和威权展示不断强化军事实力。图格鲁克王朝要求尽快建造更多堡垒，而总督们则负责监督辛勤工作的大象和村民。",
   "classes": "Elephants, Forts, Governors",
   "overview": [
     {
@@ -50,6 +52,55 @@
     {
       "title": "Unique Units",
       "description": "Raiding Elephant: Fast elephant effective at raiding, flanking, and countering ranged units. Can trample to bypass any unit to deal damage in an area.\nHealer Elephant: High health and armored melee elephant mounted with two Imams that can heal units individually. Deals more damage for each nearby melee infantry.\nWar Elephant: Heavy melee cavalry mounted with a Spearman that has high health and damage with a strong siege attack.\nBallista Elephant: Ranged elephant mounted with a ballista thats effective against melee units and can pierce multiple targets."
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "当村民和渔船存放资源时，城镇中心、工作大象和码头可提供额外资源。",
+        "工作大象可自由移动，并可作为通用资源存放点使用。",
+        "虽然所有科技更加昂贵，但研究近乎立竿见影。",
+        "腾格拉卡巴德堡垒可作为城堡使用，从封建时代 (第二时代) 起开始使用。",
+        "腾格拉卡巴德堡垒可进行升级，来提升防御并解锁总督。",
+        "在任意堡垒选择一位总督，带领王朝达到新高度。",
+        "总督可提供经济、进度、军事、研究和宗教加成。",
+        "步兵单位可以建造木栅栏。",
+        "从浆果丛采集食物的速率 +30%，但无法从野猪身上采集食物。\n 浆果的运载量 +3。",
+        "渔船可以利用远程攻击，实现自我防御。"
+      ]
+    },
+    {
+      "title": "工作伙伴",
+      "description": "使用工作大象减轻压在村民身上的负担。这些大象可作为通用存放点使用，并且可以到处自由移动，从而节省时间和资源，让村民专注于工作。\n当村民和渔船存放资源时，工作大象、城镇中心和码头可提供额外资源。"
+    },
+    {
+      "title": "博学",
+      "description": "为了寻求知识与智慧，图格鲁克王朝投入更多资源用于科技研究，力求实现近乎瞬间的研究速度。"
+    },
+    {
+      "title": "传奇堡垒",
+      "description": "使用腾格拉卡巴德堡垒让你的敌人感到恐惧。这种防御建筑从封建时代 (II) 开始可以使用，可通过升级提升其伤害输出、生命值，并解锁你选择的总督。"
+    },
+    {
+      "title": "总督支援",
+      "description": "在腾格拉卡巴德堡垒的 6 位总督之中任意选择一位，帮助图格鲁克王朝达到新的高度。每次腾格拉卡巴德堡垒强化升级后，总督的实力会提升。总督可为经济、进度、军事、研究和宗教提供加成。\n每座堡垒只能任命一位总督。"
+    },
+    {
+      "title": "编篮",
+      "description": "村民从浆果丛采集食物的速率快 30%，但无法从野猪身上采集食物。\n村民从浆果丛采集食物的运载量 +3。"
+    },
+    {
+      "title": "边界防御工事",
+      "description": "使用可建造木栅栏的步兵单位为聚落建立防御工事。"
+    },
+    {
+      "title": "防御水手",
+      "description": "渔船可以通过远程攻击来自卫，并拥有 50% 的额外生命值。"
+    },
+    {
+      "title": "独特单位",
+      "description": "突袭大象：迅捷的大象，擅长突袭、侧翼攻击并克制远程单位。可发动践踏技能穿越任何单位，对区域内的敌人造成伤害。\n治疗者大象：高生命值和高护甲的近战大象，搭载两名能单独治疗单位的伊玛目。每当附近有近战步兵时，造成更多伤害。\n战斗大象：重型近战骑兵，搭载一名长矛兵，拥有高生命值和高伤害，并具有强大的攻城能力。\n弩炮大象：远程大象，搭载一个可有效对付近战单位且可穿透多个目标的弩炮。"
     }
   ],
   "techtree": {
