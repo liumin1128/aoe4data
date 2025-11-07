@@ -4,6 +4,7 @@
   "description": "The House of Lancaster emerges as a powerful branch of English royalty. Manors are the backbone of the economy by providing sustainable economic practices. Lancaster military might is of technological advantage and superior tactics on the battlefield. Dismantle enemy formations with potent shock troops then pick them apart with superior ranged infantry.",
   "descriptionCN": "兰开斯特王朝是作为英格兰皇室的强大支系出现在历史舞台上的。庄园通过提供可持续的经济实践来稳固经济基础。兰开斯特军队的实力主要体现在战场上的科技优势和战术天赋。用强大的突击部队冲散敌人的阵型，然后用精锐的远程步兵将他们逐一击破。",
   "classes": "Manors, Defense, Economy",
+  "classesCN": "庄园、防御、经济",
   "overview": [
     {
       "title": "Civilization Bonuses",

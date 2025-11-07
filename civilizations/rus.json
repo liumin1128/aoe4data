@@ -4,6 +4,7 @@
   "description": "The Rus derive great benefit from the countryside. They are able to gather resources more readily from hunting and forestry and can field strong combat units. Enemies face strong early game fortifications and a diverse economy that cannot easily be disrupted.",
   "descriptionCN": "罗斯可从乡村获得巨大利益，更容易从狩猎和林业活动中采集资源，并能集结强大的作战单位。他们在游戏早期阶段可发展出强大的防御工事和多样化的经济体系，敌人很难将其击垮。",
   "classes": "Expansion, Cavalry, Hunting",
+  "classesCN": "扩张、骑兵、狩猎",
   "overview": [
     {
       "title": "Civilization Bonuses",

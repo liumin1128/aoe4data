@@ -250,6 +250,7 @@ function getCivInfo(army_bag: any, bps_race_bag: any) {
     description: t(bps_race_bag.description),
     descriptionCN: t(bps_race_bag.description, [], "zh-hans"),
     classes: t(army_bag.ui?.one_liner),
+    classesCN: t(army_bag.ui?.one_liner, [], "zh-hans"),
     overview,
     overviewCN,
   } as any;

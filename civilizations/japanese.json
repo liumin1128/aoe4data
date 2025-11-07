@@ -4,6 +4,7 @@
   "description": "Ruling over the Japanese land, the Daimyo enhances agriculture and employs Samurai to defend their territory. The unique Forge works tirelessly to sharpen their blades to give an edge in battle. Fierce Samurai Bannermen lead their diverse army of infantry and cavalry to victory.",
   "descriptionCN": "大名统治着日本的土地，加强农业生产并雇佣武士来保卫他们的领土。独特的锻造厂持续不断地磨砺他们的兵刃，让他们在战斗中更有优势。勇猛的旗本日本武士带领他们由步兵和骑兵组成的多样化部队走向胜利。",
   "classes": "Agriculture, Bannermen, Infantry",
+  "classesCN": "农业、旗本武士、步兵",
   "overview": [
     {
       "title": "Civilization Bonuses",

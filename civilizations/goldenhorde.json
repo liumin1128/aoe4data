@@ -4,6 +4,7 @@
   "description": "Leading the Golden Horde westwards, Batu Khan expanded the Mongolian Empire right into the heart of Eastern Europe. The Khan’s great Golden Tent was the center of network of control, with outposts that allowed them to maintain a vast territory. While still powerful raiders, the Golden Horde sacrificed the mobility of their camps to field larger forces needed to control their vassal states.",
   "descriptionCN": "拔都汗率领金帐汗国一路西征，将蒙古帝国版图扩张至东欧腹地。那座恢弘的黄金帐篷是大汗统治网络的核心，遍布各地的哨站支撑起广袤疆域的控制体系。尽管仍保持着强悍的掠夺传统，但为控制众多附庸国，金帐汗国不得不牺牲游牧营地的机动性，转而维持规模庞大的驻军。",
   "classes": "Aggression, Cavalry, Horde",
+  "classesCN": "侵略、骑兵、汗国大军",
   "overview": [
     {
       "title": "Civilization Bonuses",

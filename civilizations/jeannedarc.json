@@ -4,6 +4,7 @@
   "description": "A spark of hope for the French people, Jeanne d'Arc takes to the battlefield and inspires courage to her followers. Starting as a humble villager, Jeanne begins the Journey of a Hero in the Dark Age. Experience forges Jeanne into a powerful leader, gaining access to trusted companions and powerful abilities which shape the empire she was destined to create.",
   "descriptionCN": "贞德是法兰西人的希望之火，她走上战场，鼓舞了追随者们的勇气。贞德从一个卑微的村民开始了黑暗时代的英雄之旅。经验将贞德锻造成一位强大的领袖，她获得了值得信赖的同伴和强大的能力，这一切塑造了她注定要创建的帝国。",
   "classes": "Trade, Cavalry, Hero",
+  "classesCN": "贸易、骑兵、英雄",
   "overview": [
     {
       "title": "Civilization Bonuses",

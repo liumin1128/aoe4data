@@ -4,6 +4,7 @@
   "description": "Emperor Basil II employed Varangians to defend against revolts fomented by Byzantine nobles. Arriving on ships from the north, these foreign-born warriors were not swayed by Byzantine politics and culture, creating an elite shock division protecting emperors for centuries to come. The Macedonian Dynasty mints Silver as a unique resource to spend at Varangian Arsenals, sharpening their blades and honing their skills while they protect the Emperor.",
   "descriptionCN": "皇帝巴西尔二世雇佣了瓦兰吉人来抵御拜占庭贵族煽动的叛乱。这些出生在外国的战士从北方乘船抵达，没有被拜占庭的政治和文化所影响，组建起一支精锐的突击部队，在随后数百年间始终守护着历代帝王。马其顿王朝将白银铸造成特殊资源，专用于瓦兰吉兵工厂的开支，用于磨砺他们的刀剑，提升他们的技能，同时保护皇帝。",
   "classes": "Varangians, Silver, Technology",
+  "classesCN": "瓦兰吉、白银、科技",
   "overview": [
     {
       "title": "Civilization Bonuses",

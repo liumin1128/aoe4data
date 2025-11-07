@@ -4,6 +4,7 @@
   "description": "Prelates enhance the economy of the Holy Roman Empire, while powerful infantry units form the core of its military. Enemies must face an opponent able to rapidly recover from attacks and field strong counterattacks.",
   "descriptionCN": "高级教士可提升神圣罗马帝国的经济，其军队的核心由强大的步兵单位构成。他们在受到袭击后能够迅速恢复并发动强力反击，令敌人难以招架。",
   "classes": "Infantry, Religion, Defense",
+  "classesCN": "步兵、宗教、防御",
   "overview": [
     {
       "title": "Civilization Bonuses",

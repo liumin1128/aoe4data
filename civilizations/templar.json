@@ -4,6 +4,7 @@
   "description": "Founded to protect the meek and weary, the Knights Templar establish Commanderies throughout Europe to call on their allies. Fielding a spectacular array of heavy troops, the Templars lead the charge into battle with discipline and heart. Fortresses dot the carefully cultivated landscape, providing key defensive positions and safe haven to the pilgrims they protect.",
   "descriptionCN": "为了保护弱小与疲惫之人，圣殿骑士团在欧洲各地建立了指挥所以召集他们的盟友。拥有壮观的重装部队阵容，以自律和勇武著称的圣殿骑士团总是冲锋陷阵。要塞作为重要的防御据点散布于精心耕作的土地上，用于守卫重要位置以及为他们保护的朝圣者提供庇护。",
   "classes": "Pilgrims, Commanderies, Knights",
+  "classesCN": "朝圣者、指挥所、骑士",
   "overview": [
     {
       "title": "Civilization Bonuses",

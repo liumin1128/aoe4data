@@ -4,6 +4,7 @@
   "description": "The Sengoku Jidai was an era of shifting alliances and ceaseless warfare. Three rival clans can be supported to gain powerful advantages to your ranged infantry, melee infantry or cavalry. Even in the midst of war there was time for celebration; the Matsuri festival is the heart of commerce and trade providing powerful bonuses to their economy.",
   "descriptionCN": "战国时代烽火连天，各氏族之间的结盟不断变化。你可以支持三个敌对氏族，让你的远程步兵、近战步兵或骑兵获得强大的优势。即使在战争中，也仍有时间进行庆祝，祭典庆祝活动是商业和贸易的核心，能为氏族的经济带来强大的加成。",
   "classes": "Agriculture, Daimyo, City Planning",
+  "classesCN": "农业、大名、城市规划",
   "overview": [
     {
       "title": "Civilization Bonuses",

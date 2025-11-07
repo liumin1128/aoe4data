@@ -4,6 +4,7 @@
   "description": "The Ottoman Army can expand to dominate the battlefield, supported by Military Schools that are able to continuously produce units to swell the ranks of their formations. Supporting those formations, the Mehter war drums signal the highly trained troops to take situational advantage.",
   "descriptionCN": "奥斯曼军队能够快速扩张并称霸战场，而且得益于军事学校的支持，能够不断生产单位，壮大军阵的兵力。奥斯曼军乐队的战鼓还可以为这些军阵提供支援，他们可以用鼓声向这些训练有素的部队发出信号，帮助他们取得战局的优势。",
   "classes": "Imperial Council, Military Schools, Siege",
+  "classesCN": "帝国议会、军事学校、攻城",
   "overview": [
     {
       "title": "Civilization Bonuses",

@@ -4,6 +4,7 @@
   "description": "The teachings of philosopher Zhu Xi reshape the Chinese civilization. With Zhu Xi’s Legacy, the Chinese boast a sophisticated administration with superior Imperial Officials and advanced technologies. The brimming treasury helps to establish powerful dynasties and research a breadth of unique technologies. Recruit Palace Guards, Zhuge Nus, and Grenadiers early on to protect the Empire.",
   "descriptionCN": "哲学家朱熹的教诲重塑了中国文明。借助朱子遗训，中国拥有复杂的行政机构，以及出色的朝廷命官和高级科技。这些充盈的财富可以帮助建立强大的王朝并研究各种独特科技。早早征召皇宫卫兵、诸葛弩手和掷弹兵来保护朝廷。",
   "classes": "Dynasties, Taxes, Technology",
+  "classesCN": "王朝、税金、科技",
   "overview": [
     {
       "title": "Civilization Bonuses",

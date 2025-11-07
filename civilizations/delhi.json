@@ -4,6 +4,7 @@
   "description": "The Delhi Sultanate stays many steps ahead of their enemies with great networks of scholars. Fully realized, they field the intimidating War Elephant and trample those in their path.",
   "descriptionCN": "德里苏丹国凭借其庞大的学者人脉网将敌人远远甩在身后。他们充分认识到，可以利用令人生畏的战象将挡路的敌人统统踩在脚下。",
   "classes": "Elephants, Research, Religion",
+  "classesCN": "大象、研究、宗教",
   "overview": [
     {
       "title": "Civilization Bonuses",

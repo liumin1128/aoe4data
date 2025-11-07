@@ -15,6 +15,7 @@ export type CivInfo = {
   name: string;
   nameCN: string;
   classes: string;
+  classesCN: string;
   description: string;
   descriptionCN: string;
   // backdrop?: string;

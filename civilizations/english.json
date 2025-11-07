@@ -4,6 +4,7 @@
   "description": "Exceptional early infantry provide the English with a powerful punch backed up by reliable Food production from the fields.",
   "descriptionCN": "优秀的早期步兵为英格兰提供了强大的作战力量，农田的食物生产为其提供可靠的后盾。",
   "classes": "Defense, Longbows, Farming",
+  "classesCN": "防御、长弓、农耕",
   "overview": [
     {
       "title": "Civilization Bonuses",

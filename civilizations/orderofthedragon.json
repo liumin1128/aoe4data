@@ -4,6 +4,7 @@
   "description": "The Order of the Dragon is established by handpicked wealthy elites to crush hostile empires. Investing large amounts of resources into training only a few exceptional warriors, the Order succeeds in raising an elite army unlike any other.",
   "descriptionCN": "龙之骑士团由精选的富有精锐力量所建立，来摧毁敌对的帝国。骑士团投入大量资源来训练仅一小部分表现优异的战士，成功组建了一支与众不同的精锐军队。",
   "classes": "Quality, Infantry, Defense",
+  "classesCN": "质量、步兵、防御",
   "overview": [
     {
       "title": "Civilization Bonuses",
