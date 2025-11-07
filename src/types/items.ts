@@ -227,6 +227,10 @@ export interface UnifiedItem<T extends Item = Item> {
   displayClasses: string[];
   icon?: string;
   description?: string;
+  nameCN?: string;
+  descriptionCN?: string;
+  overviewCN?: string[];
+  displayClassesCN?: string[];
 }
 
 export enum ITEMS {
