@@ -1,6 +1,7 @@
 import { Get } from ".";
 import type { CivAbbr, CivSlug, CivConfig } from "../types/civs";
 import { CIVILIZATION_BY_SLUG } from "../types/civs";
+import { CIVILIZATIONS } from "../lib/config/civs";
 import { Item, ItemType, Modifier, UnifiedItem } from "../types/items";
 
 export { CivSlug, CivAbbr };
@@ -10,12 +11,12 @@ type NumberKeys<T> = { [K in keyof T]: T[K] extends number ? K : never }[keyof T
 export type ItemSlug = `${"units" | "buildings" | "technologies" | "upgrades" | "abilities"}/${string}`;
 
 export function getAbbr(civ: CivAbbr | CivSlug | CivConfig): CivAbbr {
-  if (typeof civ === "string") return civ.length <= 3 ? civ : CIVILIZATION_BY_SLUG[civ];
+  if (typeof civ === "string") return civ.length <= 3 ? (civ as CivAbbr) : CIVILIZATION_BY_SLUG[civ as CivSlug].abbr;
   return civ.abbr;
 }
 
 export function getSlug(civ: CivAbbr | CivSlug | CivConfig): CivSlug {
-  if (typeof civ === "string") return civ.length <= 3 ? civ : CIVILIZATION_BY_SLUG[civ];
+  if (typeof civ === "string") return civ.length <= 3 ? CIVILIZATIONS[civ as CivAbbr].slug : (civ as CivSlug);
   return civ.slug;
 }
 
