@@ -10,8 +10,8 @@
   "civs": [
     "mac"
   ],
-  "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
-  "descriptionCN": "在击败 1 个军事单位后雕刻符文石，以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格，近战伤害 +15，移动速度 +150%。持续 1 秒。",
+  "description": "Carve a Runestone after defeating 5 military units to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
+  "descriptionCN": "在击败 5 个军事单位后雕刻符文石，以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格，近战伤害 +1，移动速度 +15%。持续 150 秒。",
   "classes": [
     "runestone",
     "unchargeable"
@@ -40,8 +40,26 @@
     "varangian-guard"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/runestones-1.png",
+  "hitpoints": 0,
   "weapons": [],
-  "armor": [],
+  "armor": [
+    {
+      "type": "melee",
+      "value": 1
+    },
+    {
+      "type": "ranged",
+      "value": 1
+    },
+    {
+      "type": "siege",
+      "value": 1
+    },
+    {
+      "type": "fire",
+      "value": 1
+    }
+  ],
   "sight": {
     "inner_height": 0,
     "inner_radius": 0,

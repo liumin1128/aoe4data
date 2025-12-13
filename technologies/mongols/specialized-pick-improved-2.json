@@ -21,10 +21,10 @@
     "scar_tiered_upgrade"
   ],
   "displayClasses": [
-    "Mining Technology 1/3"
+    "Mining Technology"
   ],
   "displayClassesCN": [
-    "采矿科技 1/3"
+    "采矿科技"
   ],
   "unique": true,
   "costs": {

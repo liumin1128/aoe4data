@@ -10,8 +10,8 @@
   "civs": [
     "tug"
   ],
-  "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence.",
-  "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +15%。",
+  "description": "The Tower of Victory increases the attack speed of Elephants by +20% when produced from buildings within influence.",
+  "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +20%。",
   "classes": [
     "age1_landmark1",
     "audio_production_landmark",

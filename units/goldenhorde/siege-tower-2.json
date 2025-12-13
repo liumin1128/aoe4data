@@ -4,8 +4,8 @@
   "type": "unit",
   "name": "Siege Tower",
   "nameCN": "攻城塔",
-  "pbgid": 133340,
-  "attribName": "unit_siege_tower_3_rus",
+  "pbgid": 8432239,
+  "attribName": "unit_siege_tower_3_mon_ha_gol",
   "age": 2,
   "civs": [
     "gol"
@@ -44,7 +44,10 @@
     "archer",
     "crossbowman",
     "handcannoneer",
-    "rus-tribute"
+    "kharash",
+    "man-at-arms",
+    "rus-tribute",
+    "spearman"
   ],
   "icon": "https://data.aoe4world.com/images/units/siege-tower-3.png",
   "hitpoints": 480,

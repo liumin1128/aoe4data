@@ -10,7 +10,7 @@
   "civs": [
     "gol"
   ],
-  "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
+  "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
   "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
   "classes": [
     "economic_upgrade",

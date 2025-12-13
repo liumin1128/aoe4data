@@ -54,7 +54,7 @@
     {
       "name": "Greek Fire",
       "type": "siege",
-      "damage": 6,
+      "damage": 7,
       "speed": 3,
       "range": {
         "min": 0,
@@ -73,6 +73,20 @@
           },
           "effect": "change",
           "value": 8,
+          "type": "passive"
+        },
+        {
+          "property": "siegeAttack",
+          "target": {
+            "class": [
+              [
+                "naval",
+                "fireship"
+              ]
+            ]
+          },
+          "effect": "change",
+          "value": 3,
           "type": "passive"
         }
       ],
@@ -96,7 +110,7 @@
   "armor": [
     {
       "type": "ranged",
-      "value": 3
+      "value": 4
     }
   ],
   "sight": {
@@ -109,6 +123,6 @@
     "height": 10
   },
   "movement": {
-    "speed": 1.5
+    "speed": 1.625
   }
 }
