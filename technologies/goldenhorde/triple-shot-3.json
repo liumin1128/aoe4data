@@ -11,7 +11,7 @@
     "gol"
   ],
   "description": "Kipchak Archers fire 2 additional arrows that each deal 50% less damage.",
-  "descriptionCN": "钦察弓兵会额外发射 2 箭矢，每支箭矢造成的伤害 -50%。",
+  "descriptionCN": "钦察弓兵会额外发射 2 支箭矢，每支箭矢造成的伤害 -50%。",
   "classes": [],
   "displayClasses": [
     "Stone Technology"

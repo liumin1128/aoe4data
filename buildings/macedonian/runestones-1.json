@@ -3,7 +3,7 @@
   "baseId": "runestones",
   "type": "building",
   "name": "Runestones",
-  "nameCN": "符文石群",
+  "nameCN": "符文石",
   "pbgid": 9003200,
   "attribName": "building_varangian_runestone_byz_ha_mac",
   "age": 1,
@@ -11,7 +11,7 @@
     "mac"
   ],
   "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
-  "descriptionCN": "雕刻符文石以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格、近战伤害 +1，移动速度 +15%。持续 150 秒。",
+  "descriptionCN": "在击败 1 个军事单位后雕刻符文石，以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格，近战伤害 +15，移动速度 +150%。持续 1 秒。",
   "classes": [
     "runestone",
     "unchargeable"

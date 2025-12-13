@@ -11,7 +11,7 @@
     "gol"
   ],
   "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost and Rus Tributes are upgraded with increased armor and a bardiche axe.",
-  "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
+  "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，土尔扈特石料成本和生产速度 -???%，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
   "classes": [
     "abbasid_wing_upgrade",
     "age_up_upgrade",
