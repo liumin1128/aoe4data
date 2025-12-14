@@ -16768,12 +16768,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 75,
+        "wood": 50,
         "stone": 0,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 75,
+        "total": 50,
         "popcap": 0,
         "time": 20
       },
@@ -16821,7 +16821,6 @@
         "building",
         "golden_tent",
         "landmark",
-        "military_only_production",
         "select_special_building",
         "siegeable",
         "town_center_or_landmark",
@@ -20859,8 +20858,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Defensive Landmark that can do a one-time muster of units from Manors in each Age.\nGrants all Manors +500 health and an arrowslit emplacement.",
-      "descriptionCN": "防御地标，每个时代可以从庄园召唤一次单位。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
+      "description": "Defensive Landmark that can do a one-time muster of units in each Age. The cost of mustering units is reduced by 50 resources per Manor.\nGrants all Manors +500 health and an arrowslit emplacement.",
+      "descriptionCN": "防御地标，每个时代可以集结一次单位。每座庄园集结单位的成本 -50 资源。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",
@@ -21030,8 +21029,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
-      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n人口上限 +10。",
+      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nVillagers only affect one Manor at a time.\nIncreases your maximum Population by +10.",
+      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n村民一次只影响一座庄园。\n人口上限 +10。",
       "classes": [
         "building",
         "economy_building",
@@ -31391,7 +31390,7 @@
         "mac"
       ],
       "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons for Silver.",
-      "descriptionCN": "允许生产一窝蜂、回回炮和皇家加农炮来换取白银。",
+      "descriptionCN": "允许使用白银生产一窝蜂、回回炮和皇家加农炮。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -32322,8 +32321,8 @@
       "civs": [
         "mac"
       ],
-      "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
-      "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
+      "description": "Acts as a Stable. A powerful Champion Scout, Horseman, and Riddari are trained for free over time.\nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+      "descriptionCN": "可作为马厩使用。随着时间的推移，可免费训练强大的精锐侦察兵、骑手和瑞塔利。\n精锐提供的光环可以增加火把的伤害，增强骑兵的伤害，并激励步兵更快地移动。",
       "classes": [
         "age1_landmark2",
         "building",
@@ -33115,15 +33114,15 @@
       "baseId": "runestones",
       "type": "building",
       "name": "Runestones",
-      "nameCN": "符文石群",
+      "nameCN": "符文石",
       "pbgid": 9003200,
       "attribName": "building_varangian_runestone_byz_ha_mac",
       "age": 1,
       "civs": [
         "mac"
       ],
-      "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
-      "descriptionCN": "雕刻符文石以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格、近战伤害 +1，移动速度 +15%。持续 150 秒。",
+      "description": "Carve a Runestone after defeating 5 military units to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
+      "descriptionCN": "在击败 5 个军事单位后雕刻符文石，以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格，近战伤害 +1，移动速度 +15%。持续 150 秒。",
       "classes": [
         "runestone",
         "unchargeable"
@@ -33152,8 +33151,26 @@
         "varangian-guard"
       ],
       "icon": "https://data.aoe4world.com/images/buildings/runestones-1.png",
+      "hitpoints": 0,
       "weapons": [],
-      "armor": [],
+      "armor": [
+        {
+          "type": "melee",
+          "value": 1
+        },
+        {
+          "type": "ranged",
+          "value": 1
+        },
+        {
+          "type": "siege",
+          "value": 1
+        },
+        {
+          "type": "fire",
+          "value": 1
+        }
+      ],
       "sight": {
         "inner_height": 0,
         "inner_radius": 0,
@@ -33765,7 +33782,6 @@
         "building",
         "military_only_production",
         "military_production_building",
-        "naval_production_building",
         "production_building",
         "siegeable"
       ],
@@ -43614,12 +43630,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 100,
+        "wood": 75,
         "stone": 0,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 100,
+        "total": 75,
         "popcap": 0,
         "time": 35
       },
@@ -47589,9 +47605,9 @@
       "description": "Increases Hojo Clan support providing bonuses to Barracks Infantry.  \nProduces the Daimyo unit. Hojo Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
       "descriptionCN": "增加北条氏支援，为兵营步兵提供加成。\n生产大名单位。每建造一座北条氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_hojo",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -47606,12 +47622,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 150,
-        "stone": 150,
+        "wood": 125,
+        "stone": 125,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 300,
+        "total": 250,
         "popcap": 0,
         "time": 30
       },
@@ -47656,7 +47672,7 @@
         "sen"
       ],
       "description": "The Koka Township has the ability to scout a target area anywhere on the map and an ability to spawn a Shinobi ambush near one of your buildings or near Stealth Forest.",
-      "descriptionCN": "甲贺镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
+      "descriptionCN": "甲贺城镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -47860,9 +47876,9 @@
       "description": "Increases Oda Clan support providing bonuses to Archery Range Infantry.\nProduces the Daimyo unit. Oda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
       "descriptionCN": "增加织田氏支援，为靶场步兵提供加成。\n生产大名单位。每建造一座织田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_oda",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -47877,12 +47893,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 150,
-        "stone": 150,
+        "wood": 125,
+        "stone": 125,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 300,
+        "total": 250,
         "popcap": 0,
         "time": 30
       },
@@ -48704,9 +48720,9 @@
       "description": "Increases Takeda Clan support providing bonuses to Stables Cavalry.\nProduces the Daimyo unit. Takeda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
       "descriptionCN": "增加武田氏支援，为马厩骑兵提供加成。\n生产大名单位。每建造一座武田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_takeda",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -48721,12 +48737,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 150,
-        "stone": 150,
+        "wood": 125,
+        "stone": 125,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 300,
+        "total": 250,
         "popcap": 0,
         "time": 30
       },
@@ -49482,7 +49498,7 @@
         "tug"
       ],
       "description": "Acts as a Mosque and provides early access to Healer Elephants. Produces Imams and Healer Elephants at a discount of 65 Gold.",
-      "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。以 65 黄金折扣生产伊玛目和治疗者大象。",
+      "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。生产伊玛目和治疗者大象的黄金成本 -65。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -50128,12 +50144,6 @@
         "base": 25,
         "line": 25,
         "height": 8
-      },
-      "garrison": {
-        "capacity": 20,
-        "classes": [
-          "monk"
-        ]
       },
       "influences": [],
       "influencesCN": []
@@ -50941,8 +50951,8 @@
       "civs": [
         "tug"
       ],
-      "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence.",
-      "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +15%。",
+      "description": "The Tower of Victory increases the attack speed of Elephants by +20% when produced from buildings within influence.",
+      "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +20%。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",
@@ -51114,11 +51124,11 @@
       "costs": {
         "food": 0,
         "wood": 0,
-        "stone": 425,
+        "stone": 400,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 425,
+        "total": 400,
         "popcap": 0,
         "time": 135
       },

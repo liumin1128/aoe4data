@@ -29423,7 +29423,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/building-carts-2.png",
-      "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produce when advancing to later Ages.",
+      "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produced when advancing to later Ages.",
       "variations": [
         {
           "id": "building-carts-2",
@@ -29437,8 +29437,8 @@
           "civs": [
             "gol"
           ],
-          "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produce when advancing to later Ages.",
-          "descriptionCN": "生产 2 辆建筑车，可以展开为一座军事建筑。\n进入更高级的时代，会额外生产一辆建筑车。",
+          "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produced when advancing to later Ages.",
+          "descriptionCN": "生产 2 辆建筑车，可以展开为一座军事建筑。\n在进入更高级的时代时，额外生产一辆建筑车。",
           "classes": [
             "abbasid_wing_upgrade",
             "age_up_upgrade",
@@ -29881,7 +29881,7 @@
             "oliveoil": 0,
             "total": 1800,
             "popcap": 0,
-            "time": 125
+            "time": 110
           },
           "producedBy": [
             "golden-tent"
@@ -29912,7 +29912,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/over-grazing-3.png",
-      "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
+      "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
       "variations": [
         {
           "id": "over-grazing-3",
@@ -29926,8 +29926,8 @@
           "civs": [
             "gol"
           ],
-          "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
-          "descriptionCN": "村民的食物采集速度提升 10% (不包括放牧绵羊)。",
+          "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
+          "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
           "classes": [
             "economic_upgrade",
             "mongol_ha_gol_upgrade",
@@ -30362,7 +30362,7 @@
             "oliveoil": 0,
             "total": 1800,
             "popcap": 0,
-            "time": 125
+            "time": 110
           },
           "producedBy": [
             "golden-tent"
@@ -30393,7 +30393,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/rotation-grazing-2.png",
-      "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
+      "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
       "variations": [
         {
           "id": "rotation-grazing-2",
@@ -30407,8 +30407,8 @@
           "civs": [
             "gol"
           ],
-          "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
-          "descriptionCN": "村民的食物采集速度提升 10% (不包括放牧绵羊)。",
+          "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
+          "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
           "classes": [
             "economic_upgrade",
             "mongol_ha_gol_upgrade",
@@ -30588,7 +30588,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/stone-armies-3.png",
-      "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost and Rus Tributes are upgraded with increased armor and a bardiche axe.",
+      "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost, Torguud Stone cost and production speed are decreased by 20%, and Rus Tributes are upgraded with increased armor and a bardiche axe.",
       "variations": [
         {
           "id": "stone-armies-3",
@@ -30602,8 +30602,8 @@
           "civs": [
             "gol"
           ],
-          "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost and Rus Tributes are upgraded with increased armor and a bardiche axe.",
-          "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
+          "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost, Torguud Stone cost and production speed are decreased by 20%, and Rus Tributes are upgraded with increased armor and a bardiche axe.",
+          "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，土尔扈特石料成本和生产速度 -20%，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
           "classes": [
             "abbasid_wing_upgrade",
             "age_up_upgrade",
@@ -30626,7 +30626,7 @@
             "oliveoil": 0,
             "total": 3600,
             "popcap": 0,
-            "time": 140
+            "time": 110
           },
           "producedBy": [
             "golden-tent"
@@ -30731,7 +30731,7 @@
       "classes": [],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/triple-shot-3.png",
-      "description": "Kipchak Archers fire 2 additional arrows that each deal 50% less damage.",
+      "description": "Kipchak Archers fire 2 additional arrows that each deal 70% less damage.",
       "variations": [
         {
           "id": "triple-shot-3",
@@ -30745,8 +30745,8 @@
           "civs": [
             "gol"
           ],
-          "description": "Kipchak Archers fire 2 additional arrows that each deal 50% less damage.",
-          "descriptionCN": "钦察弓兵会额外发射 2 箭矢，每支箭矢造成的伤害 -50%。",
+          "description": "Kipchak Archers fire 2 additional arrows that each deal 70% less damage.",
+          "descriptionCN": "钦察弓兵会额外发射 2 支箭矢，每支箭矢造成的伤害 -70%。",
           "classes": [],
           "displayClasses": [
             "Stone Technology"
@@ -30973,7 +30973,7 @@
             "oliveoil": 0,
             "total": 3600,
             "popcap": 0,
-            "time": 140
+            "time": 110
           },
           "producedBy": [
             "golden-tent"
@@ -32259,7 +32259,7 @@
       ],
       "minAge": 4,
       "icon": "https://data.aoe4world.com/images/technologies/exact-militia-program-4.png",
-      "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
+      "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
       "variations": [
         {
           "id": "exact-militia-program-4",
@@ -32273,8 +32273,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
-          "descriptionCN": "每个庄园征召 1 个短矛骑兵、1 个伯爵护卫，以及 1 个英皇侍卫。",
+          "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
+          "descriptionCN": "征召 9 个短矛骑兵、9 个伯爵护卫，以及 9 个英皇侍卫。",
           "classes": [
             "english_upgrade",
             "military_upgrade",
@@ -32469,7 +32469,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/muster-the-nobles-2.png",
-      "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
+      "description": "Levy 5 Demilancers.",
       "variations": [
         {
           "id": "muster-the-nobles-2",
@@ -32483,8 +32483,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
-          "descriptionCN": "征召 2 个短矛骑兵，每拥有一个庄园可额外获得 1 个。",
+          "description": "Levy 5 Demilancers.",
+          "descriptionCN": "征召 5 个短矛骑兵。",
           "classes": [
             "english_upgrade",
             "military_upgrade",
@@ -32500,10 +32500,10 @@
           ],
           "unique": true,
           "costs": {
-            "food": 200,
+            "food": 250,
             "wood": 0,
             "stone": 0,
-            "gold": 300,
+            "gold": 250,
             "vizier": 0,
             "oliveoil": 0,
             "total": 500,
@@ -32864,7 +32864,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/shire-levy-3.png",
-      "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
+      "description": "Levy 10 Yeomen.",
       "variations": [
         {
           "id": "shire-levy-3",
@@ -32878,8 +32878,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
-          "descriptionCN": "征召 8 个英皇侍卫，每拥有一个庄园则可额外获得 1 个英皇侍卫。",
+          "description": "Levy 10 Yeomen.",
+          "descriptionCN": "征召 10 个英皇侍卫。",
           "classes": [
             "english_upgrade",
             "military_upgrade",
@@ -37692,6 +37692,7 @@
         "chinese_ha_01_upgrade",
         "chinese_upgrade",
         "crusader_cmp_upgrade",
+        "emplacement_upgrade",
         "english_upgrade",
         "french_ha_01_upgrade",
         "french_upgrade",
@@ -37730,6 +37731,7 @@
             "chinese_ha_01_upgrade",
             "chinese_upgrade",
             "crusader_cmp_upgrade",
+            "emplacement_upgrade",
             "english_upgrade",
             "french_ha_01_upgrade",
             "french_upgrade",
@@ -40077,7 +40079,7 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Wood Gathering Technology 1/3"
+        "Wood Gathering Technology"
       ],
       "classes": [
         "economic_upgrade",
@@ -40114,10 +40116,10 @@
             "scar_tiered_upgrade"
           ],
           "displayClasses": [
-            "Wood Gathering Technology 1/3"
+            "Wood Gathering Technology"
           ],
           "displayClassesCN": [
-            "木材采集科技 1/3"
+            "木材采集科技"
           ],
           "unique": true,
           "costs": {
@@ -40612,7 +40614,7 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Food Gathering Technology 1/3"
+        "Food Gathering Technology"
       ],
       "classes": [
         "economic_upgrade",
@@ -40649,10 +40651,10 @@
             "scar_tiered_upgrade"
           ],
           "displayClasses": [
-            "Food Gathering Technology 1/3"
+            "Food Gathering Technology"
           ],
           "displayClassesCN": [
-            "食物采集科技 1/3"
+            "食物采集科技"
           ],
           "unique": true,
           "costs": {
@@ -41754,7 +41756,7 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Mining Technology 1/3"
+        "Mining Technology"
       ],
       "classes": [
         "economic_upgrade",
@@ -41791,10 +41793,10 @@
             "scar_tiered_upgrade"
           ],
           "displayClasses": [
-            "Mining Technology 1/3"
+            "Mining Technology"
           ],
           "displayClassesCN": [
-            "采矿科技 1/3"
+            "采矿科技"
           ],
           "unique": true,
           "costs": {
@@ -46225,7 +46227,7 @@
             "sen"
           ],
           "description": "Increase Ikko-ikki Monk movement speed by +33%.",
-          "descriptionCN": "一向宗僧兵的移动速度 +33%。",
+          "descriptionCN": "一向一揆僧侣的移动速度 +33%。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -46519,7 +46521,7 @@
             "sen"
           ],
           "description": "Naginata Samurai can fire a Yumi periodically from range.",
-          "descriptionCN": "薙刀日本武士可定期远程发射一支日本长弓。",
+          "descriptionCN": "薙刀日本武士可定期使用日本长弓发动远程攻击。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -46644,7 +46646,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/yatai-farm-gather-2.png",
-      "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min.",
+      "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min. Increases the maximum rate to 80 Food / min.",
       "variations": [
         {
           "id": "yatai-farm-gather-2",
@@ -46658,8 +46660,8 @@
           "civs": [
             "sen"
           ],
-          "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min.",
-          "descriptionCN": "屋台可以从附近的农田收集食物，每块农田提供 +4 食物/分钟。",
+          "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min. Increases the maximum rate to 80 Food / min.",
+          "descriptionCN": "屋台可以从附近的农田收集食物，每块农田都提供 +4 食物/分钟。最大速率可增加至 80 食物/分钟。",
           "classes": [
             "japanese_ha_sen_upgrade",
             "military_upgrade",
@@ -46936,7 +46938,7 @@
           "baseId": "khanda-drills",
           "type": "technology",
           "name": "Khanda Drills",
-          "nameCN": "印度直剑操练",
+          "nameCN": "印度坎达直剑操练",
           "pbgid": 9004421,
           "attribName": "upgrade_improved_infantry_charge_sul_ha_tug",
           "age": 3,
@@ -46944,7 +46946,7 @@
             "tug"
           ],
           "description": "Khanda training improves Man-at-Arms charge duration by 3 seconds and increases damage of their charge attack by 100%.",
-          "descriptionCN": "印度直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
+          "descriptionCN": "印度坎达直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
           "classes": [
             "military_upgrade",
             "scar_castle_age_upgrade",
@@ -47294,13 +47296,13 @@
             },
             {
               "property": "rangedArmor",
-              "value": 4,
+              "value": 3,
               "effect": "change",
               "type": "passive"
             },
             {
               "property": "meleeArmor",
-              "value": 3,
+              "value": 2,
               "effect": "change",
               "type": "passive"
             }

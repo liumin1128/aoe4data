@@ -11,7 +11,7 @@
     "sen"
   ],
   "description": "Naginata Samurai can fire a Yumi periodically from range.",
-  "descriptionCN": "薙刀日本武士可定期远程发射一支日本长弓。",
+  "descriptionCN": "薙刀日本武士可定期使用日本长弓发动远程攻击。",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",

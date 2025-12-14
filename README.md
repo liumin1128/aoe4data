@@ -231,17 +231,16 @@ All of this data is open source, you may use it in your projects, websites and a
 导出最新的原始数据，储存到source文件夹
 
 ```
-cd C:\Users\liumin\Downloads\data-main\data-main
+cd C:\Users\liumin\Documents\aoe4\aoe4data
 
 Set-ExecutionPolicy -ExecutionPolicy Bypass
 
 .\Extract-AOE4Patch.ps1 -GamePath 'D:\SteamLibrary\steamapps\common\Age of Empires IV'
+
+Copy-Item -Path 'D:\SteamLibrary\steamapps\common\Age of Empires IV\cardinal\archives\LocaleSimplifiedChinese.sga' -Destination 'C:\Users\liumin\Documents\aoe4\aoe4data\source' -Force -Verbose
+
+dotnet ./source/AOEMods.Essence/AOEMods.Essence.CLI.dll sga-unpack ./source/LocaleSimplifiedChinese.sga ./source/latest/locale
+
+yarn parse
 ```
 
-在D:\SteamLibrary\steamapps\common\Age of Empires IV、cardinal\archives\LocaleSimplifiedChinese.sga找到对应语言文件，移动到source文件夹，执行命令导出对应翻译
-
-```
-dotnet ./source/AOEMods.Essence/AOEMods.Essence.CLI.dll sga-unpack ./source/LocaleSimplifiedChinese.sga ../source/locale
-```
-
-执行yarn parse，会到处带有中文的最新数据

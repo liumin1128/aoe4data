@@ -21,7 +21,7 @@
   ],
   "minAge": 2,
   "icon": "https://data.aoe4world.com/images/buildings/manor-2.png",
-  "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
+  "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nVillagers only affect one Manor at a time.\nIncreases your maximum Population by +10.",
   "variations": [
     {
       "id": "manor-2",
@@ -35,8 +35,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
-      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n人口上限 +10。",
+      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nVillagers only affect one Manor at a time.\nIncreases your maximum Population by +10.",
+      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n村民一次只影响一座庄园。\n人口上限 +10。",
       "classes": [
         "building",
         "economy_building",

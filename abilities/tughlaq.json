@@ -130,8 +130,8 @@
       "civs": [
         "tug"
       ],
-      "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
-      "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
+      "description": "Assistance from Worker Elephants increases resources dropped off by 5%.",
+      "descriptionCN": "工作大象的协助使存放的资源增加 5%。",
       "classes": [],
       "displayClasses": [],
       "displayClassesCN": [

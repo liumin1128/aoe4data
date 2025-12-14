@@ -12,9 +12,9 @@
     "Military Building"
   ],
   "classes": [
-    "barracks",
     "building",
     "daimyo_estate",
+    "daimyo_estate_hojo",
     "military_only_production",
     "military_production_building",
     "production_building",
@@ -39,9 +39,9 @@
       "description": "Increases Hojo Clan support providing bonuses to Barracks Infantry.  \nProduces the Daimyo unit. Hojo Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
       "descriptionCN": "增加北条氏支援，为兵营步兵提供加成。\n生产大名单位。每建造一座北条氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_hojo",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -56,12 +56,12 @@
       "unique": true,
       "costs": {
         "food": 0,
-        "wood": 150,
-        "stone": 150,
+        "wood": 125,
+        "stone": 125,
         "gold": 0,
         "vizier": 0,
         "oliveoil": 0,
-        "total": 300,
+        "total": 250,
         "popcap": 0,
         "time": 30
       },

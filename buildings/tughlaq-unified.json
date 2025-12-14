@@ -655,7 +655,7 @@
             "tug"
           ],
           "description": "Acts as a Mosque and provides early access to Healer Elephants. Produces Imams and Healer Elephants at a discount of 65 Gold.",
-          "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。以 65 黄金折扣生产伊玛目和治疗者大象。",
+          "descriptionCN": "可作为清真寺使用，并在早期让玩家使用治疗者大象。生产伊玛目和治疗者大象的黄金成本 -65。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -1458,12 +1458,6 @@
             "base": 25,
             "line": 25,
             "height": 8
-          },
-          "garrison": {
-            "capacity": 20,
-            "classes": [
-              "monk"
-            ]
           },
           "influences": [],
           "influencesCN": []
@@ -2573,7 +2567,7 @@
       ],
       "minAge": 1,
       "icon": "https://data.aoe4world.com/images/buildings/tower-of-victory-1.png",
-      "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence.",
+      "description": "The Tower of Victory increases the attack speed of Elephants by +20% when produced from buildings within influence.",
       "variations": [
         {
           "id": "tower-of-victory-1",
@@ -2587,8 +2581,8 @@
           "civs": [
             "tug"
           ],
-          "description": "The Tower of Victory increases the attack speed of Elephants by +15% when produced from buildings within influence.",
-          "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +15%。",
+          "description": "The Tower of Victory increases the attack speed of Elephants by +20% when produced from buildings within influence.",
+          "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +20%。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -2821,11 +2815,11 @@
           "costs": {
             "food": 0,
             "wood": 0,
-            "stone": 425,
+            "stone": 400,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 425,
+            "total": 400,
             "popcap": 0,
             "time": 135
           },

@@ -13,6 +13,7 @@
   "description": "Collects Food from nearby sources without consuming them in addition to a base rate of 20 Food every minute. After collecting enough Food it will send a trader to its Home Matsuri, which improves the Matsuri gather rate aura by 5%, +250 health and grants +50 additional Food. \nFood sources overlapped by multiple Yatai are only counted once and Boar do not retaliate while near a Yatai. The Yatai is limited to 3 and is increased by +1 per age up.",
   "descriptionCN": "从附近来源收集食物，但不会进行消耗，此外基础速率为每分钟 20 食物。收集到足够的食物后，将会派出一名商人前往参加主祭典，这可让祭典采集速率光环 +5%，生命值 +250，并额外提供 +50 的食物。\n多个屋台所覆盖的食物来源只计算一次，野猪在屋台附近时不会反击。屋台的上限为 3，并且每次提升时代 +1。",
   "classes": [
+    "human",
     "mobile_building",
     "packable_building",
     "yatai"
@@ -32,7 +33,7 @@
     "vizier": 0,
     "oliveoil": 0,
     "total": 125,
-    "popcap": 1,
+    "popcap": 0,
     "time": 15
   },
   "producedBy": [

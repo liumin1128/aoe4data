@@ -2934,9 +2934,9 @@
         "Military Building"
       ],
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_hojo",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -2961,9 +2961,9 @@
           "description": "Increases Hojo Clan support providing bonuses to Barracks Infantry.  \nProduces the Daimyo unit. Hojo Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
           "descriptionCN": "增加北条氏支援，为兵营步兵提供加成。\n生产大名单位。每建造一座北条氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
-            "barracks",
             "building",
             "daimyo_estate",
+            "daimyo_estate_hojo",
             "military_only_production",
             "military_production_building",
             "production_building",
@@ -2978,12 +2978,12 @@
           "unique": true,
           "costs": {
             "food": 0,
-            "wood": 150,
-            "stone": 150,
+            "wood": 125,
+            "stone": 125,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 300,
+            "total": 250,
             "popcap": 0,
             "time": 30
           },
@@ -3057,7 +3057,7 @@
             "sen"
           ],
           "description": "The Koka Township has the ability to scout a target area anywhere on the map and an ability to spawn a Shinobi ambush near one of your buildings or near Stealth Forest.",
-          "descriptionCN": "甲贺镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
+          "descriptionCN": "甲贺城镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
           "classes": [
             "age1_landmark1",
             "audio_production_landmark",
@@ -3316,9 +3316,9 @@
         "Military Building"
       ],
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_oda",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -3343,9 +3343,9 @@
           "description": "Increases Oda Clan support providing bonuses to Archery Range Infantry.\nProduces the Daimyo unit. Oda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
           "descriptionCN": "增加织田氏支援，为靶场步兵提供加成。\n生产大名单位。每建造一座织田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
-            "barracks",
             "building",
             "daimyo_estate",
+            "daimyo_estate_oda",
             "military_only_production",
             "military_production_building",
             "production_building",
@@ -3360,12 +3360,12 @@
           "unique": true,
           "costs": {
             "food": 0,
-            "wood": 150,
-            "stone": 150,
+            "wood": 125,
+            "stone": 125,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 300,
+            "total": 250,
             "popcap": 0,
             "time": 30
           },
@@ -4478,9 +4478,9 @@
         "Military Building"
       ],
       "classes": [
-        "barracks",
         "building",
         "daimyo_estate",
+        "daimyo_estate_takeda",
         "military_only_production",
         "military_production_building",
         "production_building",
@@ -4505,9 +4505,9 @@
           "description": "Increases Takeda Clan support providing bonuses to Stables Cavalry.\nProduces the Daimyo unit. Takeda Daimyo Estate health is increased +1000 and cost increased x2 Stone and Wood.",
           "descriptionCN": "增加武田氏支援，为马厩骑兵提供加成。\n生产大名单位。每建造一座武田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
           "classes": [
-            "barracks",
             "building",
             "daimyo_estate",
+            "daimyo_estate_takeda",
             "military_only_production",
             "military_production_building",
             "production_building",
@@ -4522,12 +4522,12 @@
           "unique": true,
           "costs": {
             "food": 0,
-            "wood": 150,
-            "stone": 150,
+            "wood": 125,
+            "stone": 125,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 300,
+            "total": 250,
             "popcap": 0,
             "time": 30
           },

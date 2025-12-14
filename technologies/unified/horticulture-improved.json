@@ -9,7 +9,7 @@
   ],
   "unique": true,
   "displayClasses": [
-    "Food Gathering Technology 1/3"
+    "Food Gathering Technology"
   ],
   "classes": [
     "economic_upgrade",
@@ -46,10 +46,10 @@
         "scar_tiered_upgrade"
       ],
       "displayClasses": [
-        "Food Gathering Technology 1/3"
+        "Food Gathering Technology"
       ],
       "displayClassesCN": [
-        "食物采集科技 1/3"
+        "食物采集科技"
       ],
       "unique": true,
       "costs": {

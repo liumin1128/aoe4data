@@ -11,7 +11,7 @@
     "mac"
   ],
   "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons for Silver.",
-  "descriptionCN": "允许生产一窝蜂、回回炮和皇家加农炮来换取白银。",
+  "descriptionCN": "允许使用白银生产一窝蜂、回回炮和皇家加农炮。",
   "classes": [
     "age3_landmark1",
     "audio_production_landmark",

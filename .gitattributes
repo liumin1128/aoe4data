@@ -1,0 +1,29 @@
+# Normalize text files to LF in the repository. Use repo-managed rules instead of
+# relying on individual global git settings.
+* text=auto eol=lf
+
+# Treat common binary formats as binary so they are never normalized
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.sga binary
+*.dll binary
+*.exe binary
+*.so binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
+
+# Explicitly set JSON files as text with LF endings
+*.json text eol=lf
+
+# Powershell and scripts
+*.ps1 text eol=lf
+*.sh text eol=lf
+
+# Keep lockfiles as text
+yarn.lock text eol=lf

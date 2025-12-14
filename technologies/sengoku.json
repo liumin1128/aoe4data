@@ -3072,7 +3072,7 @@
         "sen"
       ],
       "description": "Increase Ikko-ikki Monk movement speed by +33%.",
-      "descriptionCN": "一向宗僧兵的移动速度 +33%。",
+      "descriptionCN": "一向一揆僧侣的移动速度 +33%。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -3670,7 +3670,7 @@
         "sen"
       ],
       "description": "Naginata Samurai can fire a Yumi periodically from range.",
-      "descriptionCN": "薙刀日本武士可定期远程发射一支日本长弓。",
+      "descriptionCN": "薙刀日本武士可定期使用日本长弓发动远程攻击。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
@@ -5211,8 +5211,8 @@
       "civs": [
         "sen"
       ],
-      "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min.",
-      "descriptionCN": "屋台可以从附近的农田收集食物，每块农田提供 +4 食物/分钟。",
+      "description": "Yatai can collect Food from nearby Farm Fields, with each Farm Field providing +4 Food / min. Increases the maximum rate to 80 Food / min.",
+      "descriptionCN": "屋台可以从附近的农田收集食物，每块农田都提供 +4 食物/分钟。最大速率可增加至 80 食物/分钟。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",
