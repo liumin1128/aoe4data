@@ -444,7 +444,7 @@
         "mac"
       ],
       "description": "Allows production of Nest of Bees, Huihui Pao, and Royal Cannons for Silver.",
-      "descriptionCN": "允许生产一窝蜂、回回炮和皇家加农炮来换取白银。",
+      "descriptionCN": "允许使用白银生产一窝蜂、回回炮和皇家加农炮。",
       "classes": [
         "age3_landmark1",
         "audio_production_landmark",
@@ -1375,8 +1375,8 @@
       "civs": [
         "mac"
       ],
-      "description": "Acts as a Stable. Champions emerge from the trials of the Imperial Hippodrome until each one spawns. \nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
-      "descriptionCN": "可作为马厩使用。精锐会从帝国竞技场的试炼中出现，直到每个精锐生成。\n精锐可提供光环，光环可以提升火把的伤害，增强骑兵的伤害，并鼓舞步兵更快地移动。",
+      "description": "Acts as a Stable. A powerful Champion Scout, Horseman, and Riddari are trained for free over time.\nChampions provide auras that increase damage of torches, enhance damage of cavalry, and inspire infantry to move faster.",
+      "descriptionCN": "可作为马厩使用。随着时间的推移，可免费训练强大的精锐侦察兵、骑手和瑞塔利。\n精锐提供的光环可以增加火把的伤害，增强骑兵的伤害，并激励步兵更快地移动。",
       "classes": [
         "age1_landmark2",
         "building",
@@ -2168,15 +2168,15 @@
       "baseId": "runestones",
       "type": "building",
       "name": "Runestones",
-      "nameCN": "符文石群",
+      "nameCN": "符文石",
       "pbgid": 9003200,
       "attribName": "building_varangian_runestone_byz_ha_mac",
       "age": 1,
       "civs": [
         "mac"
       ],
-      "description": "Carve a Runestone to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
-      "descriptionCN": "雕刻符文石以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格、近战伤害 +1，移动速度 +15%。持续 150 秒。",
+      "description": "Carve a Runestone after defeating 5 military units to celebrate honorable victories in combat, enhancing Varangian ranged weapons by 1 tile, melee damage by 1, and move speed by 15%. Lasts 150 seconds.",
+      "descriptionCN": "在击败 5 个军事单位后雕刻符文石，以庆祝战斗中的光荣胜利，使瓦兰吉远程武器 +1 格，近战伤害 +1，移动速度 +15%。持续 150 秒。",
       "classes": [
         "runestone",
         "unchargeable"
@@ -2205,8 +2205,26 @@
         "varangian-guard"
       ],
       "icon": "https://data.aoe4world.com/images/buildings/runestones-1.png",
+      "hitpoints": 0,
       "weapons": [],
-      "armor": [],
+      "armor": [
+        {
+          "type": "melee",
+          "value": 1
+        },
+        {
+          "type": "ranged",
+          "value": 1
+        },
+        {
+          "type": "siege",
+          "value": 1
+        },
+        {
+          "type": "fire",
+          "value": 1
+        }
+      ],
       "sight": {
         "inner_height": 0,
         "inner_radius": 0,
@@ -2818,7 +2836,6 @@
         "building",
         "military_only_production",
         "military_production_building",
-        "naval_production_building",
         "production_building",
         "siegeable"
       ],

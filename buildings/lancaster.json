@@ -950,8 +950,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Defensive Landmark that can do a one-time muster of units from Manors in each Age.\nGrants all Manors +500 health and an arrowslit emplacement.",
-      "descriptionCN": "防御地标，每个时代可以从庄园召唤一次单位。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
+      "description": "Defensive Landmark that can do a one-time muster of units in each Age. The cost of mustering units is reduced by 50 resources per Manor.\nGrants all Manors +500 health and an arrowslit emplacement.",
+      "descriptionCN": "防御地标，每个时代可以集结一次单位。每座庄园集结单位的成本 -50 资源。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
       "classes": [
         "age1_landmark2",
         "audio_production_landmark",
@@ -1121,8 +1121,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nIncreases your maximum Population by +10.",
-      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n人口上限 +10。",
+      "description": "Acts as a drop off building for all resource types. Passively generates 10 wood and 30 food per minute. Generates an additional 4 food and 2 wood for each nearby villager. \nVillagers only affect one Manor at a time.\nIncreases your maximum Population by +10.",
+      "descriptionCN": "可作为所有资源类型的存放建筑。每分钟可被动生产 10 木材和 30 食物。可为附近的每个村民额外生产 4 食物和 2 木材。\n村民一次只影响一座庄园。\n人口上限 +10。",
       "classes": [
         "building",
         "economy_building",

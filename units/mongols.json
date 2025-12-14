@@ -5025,6 +5025,20 @@
               "effect": "change",
               "value": 3,
               "type": "passive"
+            },
+            {
+              "property": "meleeAttack",
+              "target": {
+                "class": [
+                  [
+                    "worker",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 20,
+              "type": "passive"
             }
           ],
           "durations": {
@@ -5167,6 +5181,20 @@
               },
               "effect": "change",
               "value": 4,
+              "type": "passive"
+            },
+            {
+              "property": "meleeAttack",
+              "target": {
+                "class": [
+                  [
+                    "worker",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 24,
               "type": "passive"
             }
           ],
@@ -5311,6 +5339,20 @@
               "effect": "change",
               "value": 5,
               "type": "passive"
+            },
+            {
+              "property": "meleeAttack",
+              "target": {
+                "class": [
+                  [
+                    "worker",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 28,
+              "type": "passive"
             }
           ],
           "durations": {
@@ -5453,6 +5495,20 @@
               },
               "effect": "change",
               "value": 6,
+              "type": "passive"
+            },
+            {
+              "property": "meleeAttack",
+              "target": {
+                "class": [
+                  [
+                    "worker",
+                    "elephant"
+                  ]
+                ]
+              },
+              "effect": "change",
+              "value": 34,
               "type": "passive"
             }
           ],

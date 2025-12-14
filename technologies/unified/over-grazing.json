@@ -20,7 +20,7 @@
   ],
   "minAge": 3,
   "icon": "https://data.aoe4world.com/images/technologies/over-grazing-3.png",
-  "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
+  "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
   "variations": [
     {
       "id": "over-grazing-3",
@@ -34,8 +34,8 @@
       "civs": [
         "gol"
       ],
-      "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
-      "descriptionCN": "村民的食物采集速度提升 10% (不包括放牧绵羊)。",
+      "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
+      "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
       "classes": [
         "economic_upgrade",
         "mongol_ha_gol_upgrade",

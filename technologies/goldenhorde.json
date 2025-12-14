@@ -738,8 +738,8 @@
       "civs": [
         "gol"
       ],
-      "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produce when advancing to later Ages.",
-      "descriptionCN": "生产 2 辆建筑车，可以展开为一座军事建筑。\n进入更高级的时代，会额外生产一辆建筑车。",
+      "description": "Produces 2 Building Carts which can be unpacked into a Military Building.\nAn additional building cart is produced when advancing to later Ages.",
+      "descriptionCN": "生产 2 辆建筑车，可以展开为一座军事建筑。\n在进入更高级的时代时，额外生产一辆建筑车。",
       "classes": [
         "abbasid_wing_upgrade",
         "age_up_upgrade",
@@ -3118,7 +3118,7 @@
         "oliveoil": 0,
         "total": 1800,
         "popcap": 0,
-        "time": 125
+        "time": 110
       },
       "producedBy": [
         "golden-tent"
@@ -3197,8 +3197,8 @@
       "civs": [
         "gol"
       ],
-      "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
-      "descriptionCN": "村民的食物采集速度提升 10% (不包括放牧绵羊)。",
+      "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
+      "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
       "classes": [
         "economic_upgrade",
         "mongol_ha_gol_upgrade",
@@ -3749,7 +3749,7 @@
         "oliveoil": 0,
         "total": 1800,
         "popcap": 0,
-        "time": 125
+        "time": 110
       },
       "producedBy": [
         "golden-tent"
@@ -3852,8 +3852,8 @@
       "civs": [
         "gol"
       ],
-      "description": "Increase Pasture gathering rate for Food by 10%. Does not apply to herded Sheep.",
-      "descriptionCN": "村民的食物采集速度提升 10% (不包括放牧绵羊)。",
+      "description": "Increase Stockyard gathering rate for Food by 10%. Does not apply to herded Sheep.",
+      "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
       "classes": [
         "economic_upgrade",
         "mongol_ha_gol_upgrade",
@@ -4755,8 +4755,8 @@
       "civs": [
         "gol"
       ],
-      "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost and Rus Tributes are upgraded with increased armor and a bardiche axe.",
-      "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
+      "description": "The Golden Tent can rapidly produce unique units at a discounted Stone cost, Torguud Stone cost and production speed are decreased by 20%, and Rus Tributes are upgraded with increased armor and a bardiche axe.",
+      "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，土尔扈特石料成本和生产速度 -20%，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
       "classes": [
         "abbasid_wing_upgrade",
         "age_up_upgrade",
@@ -4779,7 +4779,7 @@
         "oliveoil": 0,
         "total": 3600,
         "popcap": 0,
-        "time": 140
+        "time": 110
       },
       "producedBy": [
         "golden-tent"
@@ -5064,8 +5064,8 @@
       "civs": [
         "gol"
       ],
-      "description": "Kipchak Archers fire 2 additional arrows that each deal 50% less damage.",
-      "descriptionCN": "钦察弓兵会额外发射 2 箭矢，每支箭矢造成的伤害 -50%。",
+      "description": "Kipchak Archers fire 2 additional arrows that each deal 70% less damage.",
+      "descriptionCN": "钦察弓兵会额外发射 2 支箭矢，每支箭矢造成的伤害 -70%。",
       "classes": [],
       "displayClasses": [
         "Stone Technology"
@@ -5384,7 +5384,7 @@
         "oliveoil": 0,
         "total": 3600,
         "popcap": 0,
-        "time": 140
+        "time": 110
       },
       "producedBy": [
         "golden-tent"

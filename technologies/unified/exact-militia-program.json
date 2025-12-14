@@ -20,7 +20,7 @@
   ],
   "minAge": 4,
   "icon": "https://data.aoe4world.com/images/technologies/exact-militia-program-4.png",
-  "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
+  "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
   "variations": [
     {
       "id": "exact-militia-program-4",
@@ -34,8 +34,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
-      "descriptionCN": "每个庄园征召 1 个短矛骑兵、1 个伯爵护卫，以及 1 个英皇侍卫。",
+      "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
+      "descriptionCN": "征召 9 个短矛骑兵、9 个伯爵护卫，以及 9 个英皇侍卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

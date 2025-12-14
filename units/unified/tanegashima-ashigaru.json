@@ -9,7 +9,6 @@
   ],
   "unique": true,
   "displayClasses": [
-    "Light Ranged Gunpowder Infantry",
     "Ranged Gunpowder Infantry"
   ],
   "classes": [
@@ -22,7 +21,6 @@
     "human",
     "included_by_military_hotkeys",
     "infantry",
-    "infantry_light",
     "land_military",
     "military",
     "ranged",
@@ -56,17 +54,16 @@
         "human",
         "included_by_military_hotkeys",
         "infantry",
-        "infantry_light",
         "land_military",
         "military",
         "ranged",
         "ranged_infantry"
       ],
       "displayClasses": [
-        "Light Ranged Gunpowder Infantry"
+        "Ranged Gunpowder Infantry"
       ],
       "displayClassesCN": [
-        "轻型远程火药步兵"
+        "远程火药步兵"
       ],
       "unique": true,
       "costs": {

@@ -2523,7 +2523,7 @@
       ],
       "minAge": 4,
       "icon": "https://data.aoe4world.com/images/technologies/exact-militia-program-4.png",
-      "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
+      "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
       "variations": [
         {
           "id": "exact-militia-program-4",
@@ -2537,8 +2537,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 1 Demilancer, 1 Earl's Guard, and 1 Yeoman per Manor.",
-          "descriptionCN": "每个庄园征召 1 个短矛骑兵、1 个伯爵护卫，以及 1 个英皇侍卫。",
+          "description": "Levy 9 Demilancers, 9 Earl's Guards, and 9 Yeomen.",
+          "descriptionCN": "征召 9 个短矛骑兵、9 个伯爵护卫，以及 9 个英皇侍卫。",
           "classes": [
             "english_upgrade",
             "military_upgrade",
@@ -5127,7 +5127,7 @@
       ],
       "minAge": 2,
       "icon": "https://data.aoe4world.com/images/technologies/muster-the-nobles-2.png",
-      "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
+      "description": "Levy 5 Demilancers.",
       "variations": [
         {
           "id": "muster-the-nobles-2",
@@ -5141,8 +5141,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
-          "descriptionCN": "征召 2 个短矛骑兵，每拥有一个庄园可额外获得 1 个。",
+          "description": "Levy 5 Demilancers.",
+          "descriptionCN": "征召 5 个短矛骑兵。",
           "classes": [
             "english_upgrade",
             "military_upgrade",
@@ -5158,10 +5158,10 @@
           ],
           "unique": true,
           "costs": {
-            "food": 200,
+            "food": 250,
             "wood": 0,
             "stone": 0,
-            "gold": 300,
+            "gold": 250,
             "vizier": 0,
             "oliveoil": 0,
             "total": 500,
@@ -6536,7 +6536,7 @@
       ],
       "minAge": 3,
       "icon": "https://data.aoe4world.com/images/technologies/shire-levy-3.png",
-      "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
+      "description": "Levy 10 Yeomen.",
       "variations": [
         {
           "id": "shire-levy-3",
@@ -6550,8 +6550,8 @@
           "civs": [
             "hl"
           ],
-          "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
-          "descriptionCN": "征召 8 个英皇侍卫，每拥有一个庄园则可额外获得 1 个英皇侍卫。",
+          "description": "Levy 10 Yeomen.",
+          "descriptionCN": "征召 10 个英皇侍卫。",
           "classes": [
             "english_upgrade",
             "military_upgrade",

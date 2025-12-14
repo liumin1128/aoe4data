@@ -35,7 +35,7 @@
         "sen"
       ],
       "description": "Increase Ikko-ikki Monk movement speed by +33%.",
-      "descriptionCN": "一向宗僧兵的移动速度 +33%。",
+      "descriptionCN": "一向一揆僧侣的移动速度 +33%。",
       "classes": [
         "japanese_ha_sen_upgrade",
         "military_upgrade",

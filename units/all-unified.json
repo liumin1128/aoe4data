@@ -38240,6 +38240,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -38382,6 +38396,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -38526,6 +38554,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -38668,6 +38710,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -38812,6 +38868,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -38954,6 +39024,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -39098,6 +39182,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -39240,6 +39338,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -39384,6 +39496,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -39526,6 +39652,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -39670,6 +39810,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -39812,6 +39966,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -39956,6 +40124,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -40098,6 +40280,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -40242,6 +40438,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -40384,6 +40594,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -40531,6 +40755,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -40676,6 +40914,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -40823,6 +41075,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -40965,6 +41231,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -41109,6 +41389,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -41251,6 +41545,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -41395,6 +41703,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -41537,6 +41859,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -41681,6 +42017,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -41824,6 +42174,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -41966,6 +42330,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -42111,6 +42489,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -42254,6 +42646,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -42399,6 +42805,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -42543,6 +42963,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -42686,6 +43120,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -42736,6 +43184,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -42880,6 +43342,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -42930,6 +43406,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -43074,6 +43564,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -43124,6 +43628,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -43268,6 +43786,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -43318,6 +43850,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -43462,6 +44008,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -43604,6 +44164,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -43748,6 +44322,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -43890,6 +44478,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -44034,6 +44636,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -44176,6 +44792,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -44320,6 +44950,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -44462,6 +45106,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -44606,6 +45264,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -44748,6 +45420,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -44892,6 +45578,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -45034,6 +45734,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -45178,6 +45892,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -45320,6 +46048,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -45464,6 +46206,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -45606,6 +46362,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -45751,6 +46521,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -45894,6 +46678,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -46039,6 +46837,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -46183,6 +46995,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -46325,6 +47151,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -46469,6 +47309,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -46611,6 +47465,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -46755,6 +47623,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -46897,6 +47779,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -47041,6 +47937,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -47183,6 +48093,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -47327,6 +48251,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -47469,6 +48407,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -47613,6 +48565,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -47756,6 +48722,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -47898,6 +48878,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -48043,6 +49037,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -48116,6 +49124,20 @@
                   },
                   "effect": "change",
                   "value": 3,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
                   "type": "passive"
                 }
               ],
@@ -48238,6 +49260,20 @@
                   "effect": "change",
                   "value": 4,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -48311,6 +49347,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -48433,6 +49483,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -48506,6 +49570,20 @@
                   },
                   "effect": "change",
                   "value": 5,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -48628,6 +49706,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -48701,6 +49793,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -52172,12 +53278,12 @@
           "unique": false,
           "costs": {
             "food": 0,
-            "wood": 90,
+            "wood": 100,
             "stone": 0,
-            "gold": 90,
+            "gold": 100,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 180,
+            "total": 200,
             "popcap": 2,
             "time": 30
           },
@@ -53567,12 +54673,12 @@
           "unique": false,
           "costs": {
             "food": 0,
-            "wood": 90,
+            "wood": 100,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 90,
+            "total": 100,
             "popcap": 2,
             "time": 20
           },
@@ -65473,7 +66579,7 @@
             {
               "name": "Greek Fire",
               "type": "siege",
-              "damage": 6,
+              "damage": 7,
               "speed": 3,
               "range": {
                 "min": 0,
@@ -65492,6 +66598,20 @@
                   },
                   "effect": "change",
                   "value": 8,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "naval",
+                        "fireship"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 3,
                   "type": "passive"
                 }
               ],
@@ -65515,7 +66635,7 @@
           "armor": [
             {
               "type": "ranged",
-              "value": 3
+              "value": 4
             }
           ],
           "sight": {
@@ -65528,7 +66648,7 @@
             "height": 10
           },
           "movement": {
-            "speed": 1.5
+            "speed": 1.625
           }
         },
         {
@@ -65587,7 +66707,7 @@
             {
               "name": "Greek Fire",
               "type": "siege",
-              "damage": 6,
+              "damage": 7,
               "speed": 3,
               "range": {
                 "min": 0,
@@ -65606,6 +66726,20 @@
                   },
                   "effect": "change",
                   "value": 8,
+                  "type": "passive"
+                },
+                {
+                  "property": "siegeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "naval",
+                        "fireship"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 3,
                   "type": "passive"
                 }
               ],
@@ -65629,7 +66763,7 @@
           "armor": [
             {
               "type": "ranged",
-              "value": 3
+              "value": 4
             }
           ],
           "sight": {
@@ -65642,7 +66776,7 @@
             "height": 10
           },
           "movement": {
-            "speed": 1.5
+            "speed": 1.625
           }
         }
       ]
@@ -70917,6 +72051,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -71060,6 +72208,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -71205,6 +72367,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -71348,6 +72524,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -77065,8 +78255,8 @@
           "type": "unit",
           "name": "Siege Tower",
           "nameCN": "攻城塔",
-          "pbgid": 133340,
-          "attribName": "unit_siege_tower_3_rus",
+          "pbgid": 8432239,
+          "attribName": "unit_siege_tower_3_mon_ha_gol",
           "age": 2,
           "civs": [
             "gol"
@@ -77105,7 +78295,10 @@
             "archer",
             "crossbowman",
             "handcannoneer",
-            "rus-tribute"
+            "kharash",
+            "man-at-arms",
+            "rus-tribute",
+            "spearman"
           ],
           "icon": "https://data.aoe4world.com/images/units/siege-tower-3.png",
           "hitpoints": 480,
@@ -82036,7 +83229,7 @@
             "mercenary-house"
           ],
           "icon": "https://data.aoe4world.com/images/units/war-elephant-3.png",
-          "hitpoints": 850,
+          "hitpoints": 800,
           "weapons": [
             {
               "name": "Tusks",
@@ -82133,6 +83326,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -82231,7 +83438,7 @@
             "stable"
           ],
           "icon": "https://data.aoe4world.com/images/units/war-elephant-3.png",
-          "hitpoints": 850,
+          "hitpoints": 800,
           "weapons": [
             {
               "name": "Tusks",
@@ -82329,6 +83536,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -82422,7 +83643,7 @@
             "stable"
           ],
           "icon": "https://data.aoe4world.com/images/units/war-elephant-3.png",
-          "hitpoints": 850,
+          "hitpoints": 800,
           "weapons": [
             {
               "name": "Tusks",
@@ -82496,6 +83717,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -83609,7 +84844,7 @@
             "oliveoil": 0,
             "total": 600,
             "popcap": 5,
-            "time": 90
+            "time": 45
           },
           "producedBy": [
             "dock"
@@ -85902,7 +87137,8 @@
             "formational",
             "human",
             "official",
-            "worker"
+            "worker",
+            "xbox_support_quick_find"
           ],
           "displayClasses": [
             "Worker"
@@ -87279,7 +88515,7 @@
             "oliveoil": 0,
             "total": 340,
             "popcap": 3,
-            "time": 60
+            "time": 30
           },
           "producedBy": [
             "dock"
@@ -97649,6 +98885,7 @@
         "infantry",
         "kharash",
         "land_military",
+        "light_melee_infantry",
         "melee",
         "melee_infantry",
         "military",
@@ -97681,6 +98918,7 @@
             "infantry",
             "kharash",
             "land_military",
+            "light_melee_infantry",
             "melee",
             "melee_infantry",
             "military",
@@ -98794,18 +100032,18 @@
             "oliveoil": 0,
             "total": 175,
             "popcap": 1,
-            "time": 20
+            "time": 35
           },
           "producedBy": [
             "golden-tent"
           ],
           "icon": "https://data.aoe4world.com/images/units/torguud-2.png",
-          "hitpoints": 320,
+          "hitpoints": 300,
           "weapons": [
             {
               "name": "Mace",
               "type": "melee",
-              "damage": 19,
+              "damage": 17,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -98845,13 +100083,13 @@
                 "teardown": 0,
                 "cooldown": 1.25
               },
-              "attribName": "weapon_torch_lancer_mon",
-              "pbgid": 2135368
+              "attribName": "weapon_torch_bodyguard_mon_ha_gol",
+              "pbgid": 9005310
             },
             {
               "name": "Lance",
               "type": "melee",
-              "damage": 30,
+              "damage": 26,
               "speed": 0.525,
               "range": {
                 "min": 0,
@@ -98950,7 +100188,7 @@
             "golden-tent"
           ],
           "icon": "https://data.aoe4world.com/images/units/torguud-3.png",
-          "hitpoints": 240,
+          "hitpoints": 220,
           "weapons": [
             {
               "name": "Mace",
@@ -98995,13 +100233,13 @@
                 "teardown": 0,
                 "cooldown": 1.25
               },
-              "attribName": "weapon_torch_lancer_mon",
-              "pbgid": 2135368
+              "attribName": "weapon_torch_bodyguard_mon_ha_gol",
+              "pbgid": 9005310
             },
             {
               "name": "Lance",
               "type": "melee",
-              "damage": 18,
+              "damage": 15,
               "speed": 0.525,
               "range": {
                 "min": 0,
@@ -101061,12 +102299,12 @@
             "abbey-of-kings"
           ],
           "icon": "https://data.aoe4world.com/images/units/lord-of-lancaster-2.png",
-          "hitpoints": 220,
+          "hitpoints": 200,
           "weapons": [
             {
               "name": "Great Sword",
               "type": "melee",
-              "damage": 16,
+              "damage": 14,
               "speed": 2.375,
               "range": {
                 "min": 0,
@@ -101083,8 +102321,8 @@
                 "teardown": 0,
                 "cooldown": 1
               },
-              "attribName": "weapon_abbey_king_axe_eng",
-              "pbgid": 2104834
+              "attribName": "weapon_abbey_lord_lan",
+              "pbgid": 9005378
             },
             {
               "name": "Torch",
@@ -101112,7 +102350,7 @@
             {
               "name": "Sword",
               "type": "melee",
-              "damage": 12,
+              "damage": 14,
               "speed": 1.375,
               "range": {
                 "min": 0,
@@ -101129,8 +102367,8 @@
                 "teardown": 0,
                 "cooldown": 0.5
               },
-              "attribName": "weapon_manatarms_3_charge",
-              "pbgid": 137013
+              "attribName": "weapon_abbey_lord_charge_lan",
+              "pbgid": 9005379
             }
           ],
           "armor": [
@@ -105148,13 +106386,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -105324,13 +106562,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -105500,13 +106738,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -105676,13 +106914,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -105875,13 +107113,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -106074,13 +107312,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 25,
+            "food": 30,
             "wood": 35,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 60,
+            "total": 65,
             "popcap": 1,
             "time": 13
           },
@@ -109859,6 +111097,20 @@
                   "effect": "change",
                   "value": 8,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -110062,6 +111314,20 @@
                   },
                   "effect": "change",
                   "value": 10,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -111997,6 +113263,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -112143,6 +113423,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -112291,6 +113585,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -112437,6 +113745,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -113514,7 +114836,7 @@
             "height": 10
           },
           "movement": {
-            "speed": 1.75
+            "speed": 1.7
           }
         }
       ]
@@ -113951,7 +115273,7 @@
             "height": 10
           },
           "movement": {
-            "speed": 1.75
+            "speed": 1.7
           }
         },
         {
@@ -114129,7 +115451,7 @@
             "height": 10
           },
           "movement": {
-            "speed": 1.75
+            "speed": 1.7
           }
         }
       ]
@@ -114430,6 +115752,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -114614,6 +115950,20 @@
                   },
                   "effect": "change",
                   "value": 4,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
                   "type": "passive"
                 }
               ],
@@ -114800,6 +116150,20 @@
                   "effect": "change",
                   "value": 5,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -114984,6 +116348,20 @@
                   },
                   "effect": "change",
                   "value": 6,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 34,
                   "type": "passive"
                 }
               ],
@@ -121853,6 +123231,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 40,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -122001,6 +123393,20 @@
                   },
                   "effect": "change",
                   "value": 8,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 40,
                   "type": "passive"
                 }
               ],
@@ -122151,6 +123557,20 @@
                   "effect": "change",
                   "value": 10,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -122299,6 +123719,20 @@
                   },
                   "effect": "change",
                   "value": 12,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
@@ -126173,7 +127607,7 @@
           "baseId": "naginata-samurai-levy",
           "type": "unit",
           "name": "Naginata Samurai Levy",
-          "nameCN": "薙刀日本征召武士",
+          "nameCN": "薙刀日本武士征兵",
           "pbgid": 9003840,
           "attribName": "unit_samurai_levy_jpn_ha_sen",
           "age": 1,
@@ -126469,6 +127903,20 @@
                   "effect": "change",
                   "value": 3,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 20,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -126533,7 +127981,6 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Light Ranged Gunpowder Infantry",
         "Ranged Gunpowder Infantry"
       ],
       "classes": [
@@ -126546,7 +127993,6 @@
         "human",
         "included_by_military_hotkeys",
         "infantry",
-        "infantry_light",
         "land_military",
         "military",
         "ranged",
@@ -126580,17 +128026,16 @@
             "human",
             "included_by_military_hotkeys",
             "infantry",
-            "infantry_light",
             "land_military",
             "military",
             "ranged",
             "ranged_infantry"
           ],
           "displayClasses": [
-            "Light Ranged Gunpowder Infantry"
+            "Ranged Gunpowder Infantry"
           ],
           "displayClassesCN": [
-            "轻型远程火药步兵"
+            "远程火药步兵"
           ],
           "unique": true,
           "costs": {
@@ -126778,7 +128223,7 @@
       ],
       "unique": true,
       "displayClasses": [
-        "Light Ranged Gunpowder Infantry"
+        "Ranged Gunpowder Infantry"
       ],
       "classes": [
         "annihilation_condition",
@@ -126790,7 +128235,6 @@
         "human",
         "included_by_military_hotkeys",
         "infantry",
-        "infantry_light",
         "land_military",
         "military",
         "ranged",
@@ -126824,17 +128268,16 @@
             "human",
             "included_by_military_hotkeys",
             "infantry",
-            "infantry_light",
             "land_military",
             "military",
             "ranged",
             "ranged_infantry"
           ],
           "displayClasses": [
-            "Light Ranged Gunpowder Infantry"
+            "Ranged Gunpowder Infantry"
           ],
           "displayClassesCN": [
-            "轻型远程火药步兵"
+            "远程火药步兵"
           ],
           "unique": true,
           "costs": {
@@ -127451,7 +128894,7 @@
           "baseId": "yari-cavalry-levy",
           "type": "unit",
           "name": "Yari Cavalry Levy",
-          "nameCN": "日本长枪征召骑兵",
+          "nameCN": "日本长枪骑兵征兵",
           "pbgid": 9003838,
           "attribName": "unit_horseman_levy_jpn_ha_sen",
           "age": 1,
@@ -127618,6 +129061,7 @@
         "Worker"
       ],
       "classes": [
+        "human",
         "mobile_building",
         "packable_building",
         "yatai"
@@ -127641,6 +129085,7 @@
           "description": "Collects Food from nearby sources without consuming them in addition to a base rate of 20 Food every minute. After collecting enough Food it will send a trader to its Home Matsuri, which improves the Matsuri gather rate aura by 5%, +250 health and grants +50 additional Food. \nFood sources overlapped by multiple Yatai are only counted once and Boar do not retaliate while near a Yatai. The Yatai is limited to 3 and is increased by +1 per age up.",
           "descriptionCN": "从附近来源收集食物，但不会进行消耗，此外基础速率为每分钟 20 食物。收集到足够的食物后，将会派出一名商人前往参加主祭典，这可让祭典采集速率光环 +5%，生命值 +250，并额外提供 +50 的食物。\n多个屋台所覆盖的食物来源只计算一次，野猪在屋台附近时不会反击。屋台的上限为 3，并且每次提升时代 +1。",
           "classes": [
+            "human",
             "mobile_building",
             "packable_building",
             "yatai"
@@ -127660,7 +129105,7 @@
             "vizier": 0,
             "oliveoil": 0,
             "total": 125,
-            "popcap": 1,
+            "popcap": 0,
             "time": 15
           },
           "producedBy": [
@@ -128486,7 +129931,7 @@
             "mosque"
           ],
           "icon": "https://data.aoe4world.com/images/units/healer-elephant-2.png",
-          "hitpoints": 450,
+          "hitpoints": 400,
           "weapons": [
             {
               "name": "Tusks",
@@ -128605,7 +130050,7 @@
             "mosque"
           ],
           "icon": "https://data.aoe4world.com/images/units/healer-elephant-4.png",
-          "hitpoints": 450,
+          "hitpoints": 400,
           "weapons": [
             {
               "name": "Tusks",
@@ -128737,13 +130182,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 200,
+            "food": 180,
             "wood": 40,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 240,
+            "total": 220,
             "popcap": 2,
             "time": 25
           },
@@ -128860,13 +130305,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 200,
+            "food": 180,
             "wood": 40,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 240,
+            "total": 220,
             "popcap": 2,
             "time": 25
           },
@@ -128987,13 +130432,13 @@
           ],
           "unique": true,
           "costs": {
-            "food": 200,
+            "food": 180,
             "wood": 40,
             "stone": 0,
             "gold": 0,
             "vizier": 0,
             "oliveoil": 0,
-            "total": 240,
+            "total": 220,
             "popcap": 2,
             "time": 25
           },
@@ -129093,15 +130538,12 @@
       ],
       "classes": [
         "annihilation_condition",
-        "cavalry",
         "dynamic_root_war_elephant",
         "economy_building",
-        "elephant",
         "emits_herding_interest",
         "formational",
         "heavy",
         "resource_drop_off",
-        "war_elephant",
         "worker_elephant"
       ],
       "minAge": 2,
@@ -129124,15 +130566,12 @@
           "descriptionCN": "辛勤的后勤大象。\n+ 通用资源存放\n+ 存放的所有资源均获得加成\n+ 无人口需求 - 上限为 20\n- 移动速度慢",
           "classes": [
             "annihilation_condition",
-            "cavalry",
             "dynamic_root_war_elephant",
             "economy_building",
-            "elephant",
             "emits_herding_interest",
             "formational",
             "heavy",
             "resource_drop_off",
-            "war_elephant",
             "worker_elephant"
           ],
           "displayClasses": [

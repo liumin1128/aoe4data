@@ -20,7 +20,7 @@
   ],
   "minAge": 3,
   "icon": "https://data.aoe4world.com/images/technologies/shire-levy-3.png",
-  "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
+  "description": "Levy 10 Yeomen.",
   "variations": [
     {
       "id": "shire-levy-3",
@@ -34,8 +34,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Levy 8 Yeoman and an additional 1 Yeoman for each Manor.",
-      "descriptionCN": "征召 8 个英皇侍卫，每拥有一个庄园则可额外获得 1 个英皇侍卫。",
+      "description": "Levy 10 Yeomen.",
+      "descriptionCN": "征召 10 个英皇侍卫。",
       "classes": [
         "english_upgrade",
         "military_upgrade",

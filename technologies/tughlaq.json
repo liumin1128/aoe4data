@@ -2062,7 +2062,7 @@
       "baseId": "khanda-drills",
       "type": "technology",
       "name": "Khanda Drills",
-      "nameCN": "印度直剑操练",
+      "nameCN": "印度坎达直剑操练",
       "pbgid": 9004421,
       "attribName": "upgrade_improved_infantry_charge_sul_ha_tug",
       "age": 3,
@@ -2070,7 +2070,7 @@
         "tug"
       ],
       "description": "Khanda training improves Man-at-Arms charge duration by 3 seconds and increases damage of their charge attack by 100%.",
-      "descriptionCN": "印度直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
+      "descriptionCN": "印度坎达直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
       "classes": [
         "military_upgrade",
         "scar_castle_age_upgrade",
@@ -3580,13 +3580,13 @@
         },
         {
           "property": "rangedArmor",
-          "value": 4,
+          "value": 3,
           "effect": "change",
           "type": "passive"
         },
         {
           "property": "meleeArmor",
-          "value": 3,
+          "value": 2,
           "effect": "change",
           "type": "passive"
         }

@@ -20,7 +20,7 @@
   ],
   "minAge": 2,
   "icon": "https://data.aoe4world.com/images/technologies/muster-the-nobles-2.png",
-  "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
+  "description": "Levy 5 Demilancers.",
   "variations": [
     {
       "id": "muster-the-nobles-2",
@@ -34,8 +34,8 @@
       "civs": [
         "hl"
       ],
-      "description": "Levy 2 Demilancers and an additional 1 for each Manor.",
-      "descriptionCN": "征召 2 个短矛骑兵，每拥有一个庄园可额外获得 1 个。",
+      "description": "Levy 5 Demilancers.",
+      "descriptionCN": "征召 5 个短矛骑兵。",
       "classes": [
         "english_upgrade",
         "military_upgrade",
@@ -51,10 +51,10 @@
       ],
       "unique": true,
       "costs": {
-        "food": 200,
+        "food": 250,
         "wood": 0,
         "stone": 0,
-        "gold": 300,
+        "gold": 250,
         "vizier": 0,
         "oliveoil": 0,
         "total": 500,

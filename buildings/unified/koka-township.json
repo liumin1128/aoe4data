@@ -109,7 +109,7 @@
         "sen"
       ],
       "description": "The Koka Township has the ability to scout a target area anywhere on the map and an ability to spawn a Shinobi ambush near one of your buildings or near Stealth Forest.",
-      "descriptionCN": "甲贺镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
+      "descriptionCN": "甲贺城镇能够在地图上任意位置侦察目标区域，并且能够在你的其中一座建筑附近或浓密森林附近生成忍者埋伏。",
       "classes": [
         "age1_landmark1",
         "audio_production_landmark",

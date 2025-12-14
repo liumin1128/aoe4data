@@ -10167,7 +10167,7 @@
       "classes": [],
       "minAge": 1,
       "icon": "https://data.aoe4world.com/images/abilities/ability-production-speed-edict-1.png",
-      "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +50%.\nOnly one edict can be active.",
+      "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +20%.\nOnly one edict can be active.",
       "variations": [
         {
           "id": "ability-production-speed-edict-1",
@@ -10181,8 +10181,8 @@
           "civs": [
             "gol"
           ],
-          "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +50%.\nOnly one edict can be active.",
-          "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +50%。\n只能启用一个法令。",
+          "description": "Activate to increase the production speed of the Golden Tent and Military Buildings within the influence of a Fortified Outpost by +20%.\nOnly one edict can be active.",
+          "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +20%。\n只能启用一个法令。",
           "classes": [],
           "displayClasses": [],
           "displayClassesCN": [
@@ -14107,7 +14107,7 @@
             "mac"
           ],
           "description": "Supports nearby Mining Camps and Town Centers with passive Silver generation. The amount processed equals to 12% of the total amount of Silver dropped off at that mine.",
-          "descriptionCN": "支持附近的采矿场和城镇中心，并被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
+          "descriptionCN": "支持附近的采矿场和城镇中心，使其被动产生白银。加工量等于存放在该矿场的白银总量的 12%。",
           "classes": [],
           "displayClasses": [],
           "displayClassesCN": [
@@ -16729,7 +16729,7 @@
       "classes": [],
       "minAge": 1,
       "icon": "https://data.aoe4world.com/images/abilities/ability-shinobi-ambush-1.png",
-      "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 50% and slow enemies by 30% for 3 seconds.\nThe Shinobi will escape after 90 seconds or if they used their 3 grenades.",
+      "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 40% and slow enemies by 25% for 3 seconds.\nThe Shinobi will escape after 45 seconds or if they used their 3 grenades.",
       "variations": [
         {
           "id": "ability-shinobi-ambush-1",
@@ -16743,8 +16743,8 @@
           "civs": [
             "sen"
           ],
-          "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 50% and slow enemies by 30% for 3 seconds.\nThe Shinobi will escape after 90 seconds or if they used their 3 grenades.",
-          "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +50%，并让敌方的速度 -30%，持续 3 秒。\n忍者在 90 秒后或用完 3 枚烟雾弹后就会逃走。",
+          "description": "Target near Stealth Forest or one of your buildings to summon a group Shinobi with Torinoko Grenades that increase damage taken by 40% and slow enemies by 25% for 3 seconds.\nThe Shinobi will escape after 45 seconds or if they used their 3 grenades.",
+          "descriptionCN": "瞄准浓密森林附近或其中一座己方建筑，使用鸟之子烟雾弹召唤一群忍者，让敌方承受的伤害 +40%，并让敌方的速度 -25%，持续 3 秒。\n忍者在 45 秒后或用完 3 枚烟雾弹后就会逃走。",
           "classes": [],
           "displayClasses": [],
           "displayClassesCN": [
@@ -16766,7 +16766,7 @@
           "icon": "https://data.aoe4world.com/images/abilities/ability-shinobi-ambush-1.png",
           "active": "manual",
           "auraRange": 2500,
-          "cooldown": 90,
+          "cooldown": 120,
           "effects": []
         }
       ]
@@ -16835,7 +16835,7 @@
       "classes": [],
       "minAge": 1,
       "icon": "https://data.aoe4world.com/images/abilities/ability-elephant-economics-1.png",
-      "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
+      "description": "Assistance from Worker Elephants increases resources dropped off by 5%.",
       "variations": [
         {
           "id": "ability-elephant-economics-1",
@@ -16849,8 +16849,8 @@
           "civs": [
             "tug"
           ],
-          "description": "Assistance from Worker Elephants increases resources dropped off to 5%.",
-          "descriptionCN": "工作大象的协助使存放的资源增加至 5%。",
+          "description": "Assistance from Worker Elephants increases resources dropped off by 5%.",
+          "descriptionCN": "工作大象的协助使存放的资源增加 5%。",
           "classes": [],
           "displayClasses": [],
           "displayClassesCN": [

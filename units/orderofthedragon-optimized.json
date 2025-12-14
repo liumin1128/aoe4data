@@ -3156,6 +3156,20 @@
                   "effect": "change",
                   "value": 6,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 40,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -3245,6 +3259,20 @@
                   },
                   "effect": "change",
                   "value": 8,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 40,
                   "type": "passive"
                 }
               ],
@@ -3336,6 +3364,20 @@
                   "effect": "change",
                   "value": 10,
                   "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 24,
+                  "type": "passive"
                 }
               ],
               "durations": {
@@ -3425,6 +3467,20 @@
                   },
                   "effect": "change",
                   "value": 12,
+                  "type": "passive"
+                },
+                {
+                  "property": "meleeAttack",
+                  "target": {
+                    "class": [
+                      [
+                        "worker",
+                        "elephant"
+                      ]
+                    ]
+                  },
+                  "effect": "change",
+                  "value": 28,
                   "type": "passive"
                 }
               ],
