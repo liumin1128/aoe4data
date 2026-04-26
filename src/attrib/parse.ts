@@ -58,8 +58,10 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     let nameCN = getTranslation(ui_ext?.ui_contextual_info?.screen_name ?? ui_ext?.screen_name ?? ui_ext.title, [], "zh-hans");
 
     if (name === NO_TRANSLATION_FOUND) name = file.split("/").pop()!;
+    if (nameCN.startsWith(NO_TRANSLATION_FOUND)) nameCN = name;
     const description = parseDescription(ui_ext);
-    const descriptionCN = parseDescription(ui_ext, "zh-hans");
+    const localizedDescription = parseDescription(ui_ext, "zh-hans");
+    const descriptionCN = localizedDescription.startsWith("not-found-") ? description : localizedDescription;
 
     const attribName = file.split("/").pop()!.replace(".xml", "").replace(".json", "");
 
@@ -73,9 +75,10 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     const displayClasses = getTranslationFormatter(ui_ext.extra_text ?? ui_ext.extra_text_formatter)
       .split(",")
       .map((x) => x.trim());
-    const displayClassesCN = getTranslation(ui_ext.extra_text, [], "zh-hans")
-      .split(",")
-      .map((x) => x.trim());
+    const localizedDisplayClasses = getTranslationFormatter(ui_ext.extra_text ?? ui_ext.extra_text_formatter, "zh-hans");
+    const displayClassesCN = localizedDisplayClasses.startsWith(NO_TRANSLATION_FOUND)
+      ? displayClasses
+      : localizedDisplayClasses.split(",").map((x) => x.trim());
 
     const classes = convertClasses(type_ext?.unit_type_list ?? squad_type_ext?.squad_type_list ?? data.upgrade_bag?.upgrade_type ?? []);
 

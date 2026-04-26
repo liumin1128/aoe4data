@@ -5,31 +5,37 @@ export function unifyItems(items: Item[]): UnifiedItem[] {
   return Object.values(
     items.reduce((acc, item) => {
       const id = item.baseId;
+      const itemName = item.name ?? item.baseId;
+      const itemNameCN = item.nameCN ?? itemName;
+      const itemDescriptionCN = item.descriptionCN ?? item.description;
+      const itemDisplayClasses = item.displayClasses ?? [];
+      const itemDisplayClassesCN = item.displayClassesCN ?? itemDisplayClasses;
+
       if (!acc[id])
         acc[id] = {
           id: id,
-          name: item.name,
-          nameCN: item.nameCN,
+          name: itemName,
+          nameCN: itemNameCN,
           type: item.type,
           civs: item.civs,
           unique: item.unique,
-          displayClasses: item.displayClasses ?? [],
-          displayClassesCN: item.displayClassesCN ?? [],
+          displayClasses: itemDisplayClasses,
+          displayClassesCN: itemDisplayClassesCN,
           classes: item.classes,
           minAge: item.age,
           icon: item.icon,
           description: item.description,
-          descriptionCN: item.descriptionCN,
+          descriptionCN: itemDescriptionCN,
           variations: [item],
         };
       else {
-        if (item.name.length < acc[id].name.length) acc[id].name = item.name;
-        if (item.nameCN.length < (acc[id].nameCN?.length ?? Infinity)) acc[id].nameCN = item.nameCN;
+        if (itemName.length < (acc[id].name?.length ?? Infinity)) acc[id].name = itemName;
+        if (itemNameCN.length < (acc[id].nameCN?.length ?? Infinity)) acc[id].nameCN = itemNameCN;
         acc[id].variations.push(item);
         acc[id].civs = uniqueArray([...acc[id].civs, ...item.civs]).sort();
         acc[id].classes = uniqueArray([...acc[id].classes, ...item.classes]);
-        acc[id].displayClasses = uniqueArray([...acc[id].displayClasses, ...(item.displayClasses ?? [])]);
-        acc[id].displayClassesCN = uniqueArray([...((acc[id].displayClassesCN ?? []) as string[]), ...(item.displayClassesCN ?? [])]);
+        acc[id].displayClasses = uniqueArray([...acc[id].displayClasses, ...itemDisplayClasses]);
+        acc[id].displayClassesCN = uniqueArray([...((acc[id].displayClassesCN ?? []) as string[]), ...itemDisplayClassesCN]);
         acc[id].minAge = Math.min(acc[id].minAge, item.age);
         acc[id].unique = acc[id].unique;
       }

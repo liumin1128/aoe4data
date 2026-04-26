@@ -34,7 +34,7 @@ export function getTranslation(id: number, args: string[] = [], locale = "en") {
 export function getTranslationFormatter(formatter: TranslationFormatter | number, locale = "en") {
   if (typeof formatter === 'object') {
     const translationParams = formatter?.formatter_arguments?.map((x) => Object.values(x)[0] ?? x) ?? [];
-    return getTranslation(formatter?.formatter, translationParams);
+    return getTranslation(formatter?.formatter, translationParams, locale);
   } else {
     return getTranslation(formatter, [], locale);
   }
