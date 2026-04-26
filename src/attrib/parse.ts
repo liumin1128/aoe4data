@@ -55,8 +55,12 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     if (!type_ext && ebpExts.type_ext) type_ext = ebpExts.type_ext;
 
     let name = getTranslation(ui_ext?.ui_contextual_info?.screen_name ?? ui_ext?.screen_name ?? ui_ext.title);
+    let nameCN = getTranslation(ui_ext?.ui_contextual_info?.screen_name ?? ui_ext?.screen_name ?? ui_ext.title, [], "zh-hans");
+
     if (name === NO_TRANSLATION_FOUND) name = file.split("/").pop()!;
     const description = parseDescription(ui_ext);
+    const descriptionCN = parseDescription(ui_ext, "zh-hans");
+
     const attribName = file.split("/").pop()!.replace(".xml", "").replace(".json", "");
 
     const squad_requirement_ext = data.extensions.find((e) => e.squadexts == "sbpextensions/squad_requirement_ext");
@@ -96,11 +100,13 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       baseId,
       type: "unit",
       name,
+      nameCN,
       pbgid,
       attribName,
       age,
       civs: [civ.abbr],
       description,
+      descriptionCN,
       classes,
       displayClasses,
       unique,
@@ -284,7 +290,7 @@ function findExt(data: any, key: string, value: string) {
   return data?.extensions?.find((x) => x[key] === value);
 }
 
-function parseDescription(ui_ext: any) {
+function parseDescription(ui_ext: any, locale?: string) {
   if (!ui_ext) return `not-found-${Math.random()}`;
 
   const { formatter, formatter_arguments } = !!ui_ext.help_text_formatter?.formatter
@@ -297,7 +303,8 @@ function parseDescription(ui_ext: any) {
 
   const translation = getTranslation(
     formatter,
-    formatter_arguments.map((x) => (typeof x === "number" ? x : Object.values(x)[0] ?? x))
+    formatter_arguments.map((x) => (typeof x === "number" ? x : Object.values(x)[0] ?? x)),
+    locale
   );
 
   if (translation === NO_TRANSLATION_FOUND) return `not-found-${Math.random()}`; // throw new Error("No translation found for " + ui_ext.help_text);

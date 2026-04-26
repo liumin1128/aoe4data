@@ -42,9 +42,11 @@ export interface Item {
   displayClasses: string[];
 
   name: string;
+  nameCN: string;
   age: number;
 
   description: string;
+  descriptionCN: string;
   icon_src?: string;
   icon?: string;
 
@@ -225,6 +227,10 @@ export interface UnifiedItem<T extends Item = Item> {
   displayClasses: string[];
   icon?: string;
   description?: string;
+  nameCN?: string;
+  descriptionCN?: string;
+  overviewCN?: string[];
+  displayClassesCN?: string[];
 }
 
 export enum ITEMS {

@@ -7,4 +7,9 @@ export type CivInfo = {
   description: string;
   // backdrop?: string;
   overview: { title: string; description?: string; list?: string[] }[];
+
+  nameCN: string;
+  classesCN: string;
+  descriptionCN: string;
+  overviewCN: { title: string; description?: string; list?: string[] }[];
 };
