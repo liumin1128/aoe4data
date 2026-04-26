@@ -3,37 +3,39 @@ import { uniqueArray } from "./array";
 
 export function unifyItems(items: Item[]): UnifiedItem[] {
   return Object.values(
-    items.reduce(
-      (acc, item) => {
-        const id = item.baseId;
-        if (!acc[id])
-          acc[id] = {
-            id: id,
-            name: item.name,
-            type: item.type,
-            civs: item.civs,
-            unique: item.unique,
-            displayClasses: item.displayClasses ?? [],
-            classes: item.classes,
-            minAge: item.age,
-            icon: item.icon,
-            description: item.description,
-            variations: [item],
-          };
-        else {
-          if (item.name.length < acc[id].name.length) acc[id].name = item.name;
-          acc[id].variations.push(item);
-          acc[id].civs = uniqueArray([...acc[id].civs, ...item.civs]).sort();
-          acc[id].classes = uniqueArray([...acc[id].classes, ...item.classes]);
-          acc[id].displayClasses = uniqueArray([...acc[id].displayClasses, ...(item.displayClasses ?? [])]);
-          acc[id].minAge = Math.min(acc[id].minAge, item.age);
-          acc[id].unique = acc[id].unique;
-        }
+    items.reduce((acc, item) => {
+      const id = item.baseId;
+      if (!acc[id])
+        acc[id] = {
+          id: id,
+          name: item.name,
+          nameCN: item.nameCN,
+          type: item.type,
+          civs: item.civs,
+          unique: item.unique,
+          displayClasses: item.displayClasses ?? [],
+          displayClassesCN: item.displayClassesCN ?? [],
+          classes: item.classes,
+          minAge: item.age,
+          icon: item.icon,
+          description: item.description,
+          descriptionCN: item.descriptionCN,
+          variations: [item],
+        };
+      else {
+        if (item.name.length < acc[id].name.length) acc[id].name = item.name;
+        if (item.nameCN.length < (acc[id].nameCN?.length ?? Infinity)) acc[id].nameCN = item.nameCN;
+        acc[id].variations.push(item);
+        acc[id].civs = uniqueArray([...acc[id].civs, ...item.civs]).sort();
+        acc[id].classes = uniqueArray([...acc[id].classes, ...item.classes]);
+        acc[id].displayClasses = uniqueArray([...acc[id].displayClasses, ...(item.displayClasses ?? [])]);
+        acc[id].displayClassesCN = uniqueArray([...((acc[id].displayClassesCN ?? []) as string[]), ...(item.displayClassesCN ?? [])]);
+        acc[id].minAge = Math.min(acc[id].minAge, item.age);
+        acc[id].unique = acc[id].unique;
+      }
 
-        return acc;
-      },
-      {} as Record<ItemId, UnifiedItem>,
-    ),
+      return acc;
+    }, {} as Record<ItemId, UnifiedItem>)
   );
 }
 
@@ -49,21 +51,24 @@ export function optimizeItems<T extends Item>(items: UnifiedItem<T>[]): Optimize
     if (item.variations.length <= 1) return { ...item, shared: {} as Optimized<T> };
     let ageBase = [] as Partial<T>[];
     let optimizedVariations: Partial<T>[] = []; // = item.variations.map((variation) => ({ ...variation } as Partial<T>))
-    let ages = {} as Record<number, T[]>;
-    item.variations.forEach((v) => {
-      if (ages[v.age]) ages[v.age].push(v);
-      else ages[v.age] = [v];
+    let ages = {};
+    item.variations.forEach(v => {
+      if (ages[v.age])
+        ages[v.age].push(v);
+      else
+        ages[v.age] = [v];
     });
-    for (const [age, ageVariations] of Object.entries(ages)) {
+    for (const age of Object.keys(ages)) {
       const ageId = `${item.id}-${age}`;
-      const { common, variations } = optimizeItemValues<T>(ageVariations);
+      let ageVariations: Partial<T>[] = ages[age];
+      const { common, variations } = optimizeItemValues(ageVariations);
       common.id = ageId;
       ageBase.push(common);
       optimizedVariations.push(...variations);
     }
 
-    const { common, variations } = optimizeItemValues<T>(ageBase, ageBase.length > 1 ? ["weapons", "armor", "name"] : []);
-    const shared = {} as Record<string, Partial<T>>;
+    const { common, variations } = optimizeItemValues(ageBase, ageBase.length > 1 ? ["weapons", "armor", "name"] : []);
+    const shared = {};
 
     for (const variation of variations) if (Object.entries(variation).filter(([k, v]) => !!v && k != "id").length > 1) shared[variation.id as string] = variation;
 
@@ -78,7 +83,7 @@ export function optimizeItems<T extends Item>(items: UnifiedItem<T>[]): Optimize
 
 function optimizeItemValues<T extends Item>(items: Partial<T>[], ignoreKeys: string[] = []): { common: Partial<T>; variations: Partial<T>[] } {
   let common: Partial<T> = {};
-  let variations: Partial<T>[] = items.map((v) => ({ ...v }) as Partial<T>);
+  let variations: Partial<T>[] = items.map((v) => ({ ...v } as Partial<T>));
   for (const key of Object.keys(items[0])) {
     if (["pbgid", "id", "attribName", "civs", ...ignoreKeys].includes(key)) continue;
     // for each key, compare all variation values, and take the one that is most common as base value
@@ -87,17 +92,17 @@ function optimizeItemValues<T extends Item>(items: Partial<T>[], ignoreKeys: str
     // in all other cases compare with a simple ===
 
     const usage = new Map<string, number>();
-    const comparableValues = variations.map((variation) => [JSON.stringify(variation[key as keyof Partial<T>]), variation[key as keyof Partial<T>]] as [string, any]);
+    const comparableValues = variations.map((variation) => [JSON.stringify(variation[key]), variation[key]]);
     for (const [key] of comparableValues) usage.set(key, (usage.get(key) ?? 0) + 1);
 
-    const [mostCommonKey] = Array.from(usage.entries()).sort((a, b) => b[1] - a[1])[0];
+    const [mostCommonKey] = [...usage.entries()].sort((a, b) => b[1] - a[1])[0];
     const mostCommonValue = comparableValues.find(([key]) => key === mostCommonKey)![1];
 
     comparableValues.forEach(([ckey], i) => {
-      if (ckey === mostCommonKey) variations[i][key as keyof Partial<T>] = undefined;
+      if (ckey === mostCommonKey) variations[i][key] = undefined;
     });
 
-    common[key as keyof Partial<T>] = mostCommonValue as any;
+    common[key] = mostCommonValue;
   }
 
   return {
