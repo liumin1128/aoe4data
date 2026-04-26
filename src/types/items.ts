@@ -42,11 +42,10 @@ export interface Item {
   displayClasses: string[];
 
   name: string;
-  nameCN: string;
   age: number;
 
   description: string;
-  descriptionCN: string;
+
   icon_src?: string;
   icon?: string;
 
@@ -69,6 +68,10 @@ export interface Item {
 
   pbgid?: number;
   attribName?: string;
+
+  nameCN: string;
+  descriptionCN: string;
+  displayClassesCN: string[];
 }
 
 export interface PhysicalItem extends Item {

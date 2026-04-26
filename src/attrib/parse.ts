@@ -73,6 +73,9 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     const displayClasses = getTranslationFormatter(ui_ext.extra_text ?? ui_ext.extra_text_formatter)
       .split(",")
       .map((x) => x.trim());
+    const displayClassesCN = getTranslation(ui_ext.extra_text, [], "zh-hans")
+      .split(",")
+      .map((x) => x.trim());
 
     const classes = convertClasses(type_ext?.unit_type_list ?? squad_type_ext?.squad_type_list ?? data.upgrade_bag?.upgrade_type ?? []);
 
@@ -100,13 +103,11 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       baseId,
       type: "unit",
       name,
-      nameCN,
       pbgid,
       attribName,
       age,
       civs: [civ.abbr],
       description,
-      descriptionCN,
       classes,
       displayClasses,
       unique,
@@ -114,6 +115,10 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       producedBy: [],
       icon_src,
       icon,
+
+      nameCN,
+      descriptionCN,
+      displayClassesCN,
     };
 
     if (type === ITEM_TYPES.ABILITIES) {
