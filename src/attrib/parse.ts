@@ -72,13 +72,18 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     const baseId = getBasedId(name, type, description);
     const id = `${baseId}-${age}`;
 
-    const displayClasses = getTranslationFormatter(ui_ext.extra_text ?? ui_ext.extra_text_formatter)
-      .split(",")
-      .map((x) => x.trim());
-    const localizedDisplayClasses = getTranslationFormatter(ui_ext.extra_text ?? ui_ext.extra_text_formatter, "zh-hans");
-    const displayClassesCN = localizedDisplayClasses.startsWith(NO_TRANSLATION_FOUND)
-      ? displayClasses
-      : localizedDisplayClasses.split(",").map((x) => x.trim());
+    const displayTextFormatter = ui_ext.extra_text ?? ui_ext.extra_text_formatter;
+    let displayClasses: string[] = [];
+    let displayClassesCN: string[] = [];
+    if (displayTextFormatter) {
+      displayClasses = getTranslationFormatter(displayTextFormatter)
+        .split(",")
+        .map((x) => x.trim());
+      const localizedDisplayClasses = getTranslationFormatter(displayTextFormatter, "zh-hans");
+      displayClassesCN = localizedDisplayClasses.startsWith(NO_TRANSLATION_FOUND)
+        ? displayClasses
+        : localizedDisplayClasses.split(",").map((x) => x.trim());
+    }
 
     const classes = convertClasses(type_ext?.unit_type_list ?? squad_type_ext?.squad_type_list ?? data.upgrade_bag?.upgrade_type ?? []);
 
