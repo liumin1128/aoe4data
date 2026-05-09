@@ -76,13 +76,16 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
     let displayClasses: string[] = [];
     let displayClassesCN: string[] = [];
     if (displayTextFormatter) {
-      displayClasses = getTranslationFormatter(displayTextFormatter)
-        .split(",")
-        .map((x) => x.trim());
+      const enDisplayClasses = getTranslationFormatter(displayTextFormatter);
+      if (!enDisplayClasses.startsWith(NO_TRANSLATION_FOUND)) {
+        displayClasses = enDisplayClasses.split(",").map((x) => x.trim());
+      }
       const localizedDisplayClasses = getTranslationFormatter(displayTextFormatter, "zh-hans");
-      displayClassesCN = localizedDisplayClasses.startsWith(NO_TRANSLATION_FOUND)
-        ? displayClasses
-        : localizedDisplayClasses.split(",").map((x) => x.trim());
+      if (!localizedDisplayClasses.startsWith(NO_TRANSLATION_FOUND)) {
+        displayClassesCN = localizedDisplayClasses.split(",").map((x) => x.trim());
+      } else {
+        displayClassesCN = displayClasses;
+      }
     }
 
     const classes = convertClasses(type_ext?.unit_type_list ?? squad_type_ext?.squad_type_list ?? data.upgrade_bag?.upgrade_type ?? []);
@@ -141,6 +144,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
           ...item,
           type: "ability",
           displayClasses: [],
+          displayClassesCN: [],
           classes: [],
           effects,
         };
@@ -153,6 +157,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
         ...item,
         type: "ability",
         displayClasses: [],
+        displayClassesCN: [],
         classes: [],
         active: parseAbilityActivation(file),
         auraRange: ability_data.range / 4,

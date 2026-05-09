@@ -26,6 +26,7 @@ export function getTranslationRaw(id: number, locale = "en") {
 }
 
 export function getTranslation(id: number, args: string[] = [], locale = "en") {
+  if (id == null || isNaN(id)) return NO_TRANSLATION_FOUND + ` (${id})`;
   const translation = getLocale(locale)?.get(id);
   if (!translation) return NO_TRANSLATION_FOUND + ` (${id})`;
   return interpolateString(translation, args);
