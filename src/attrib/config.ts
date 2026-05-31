@@ -1,4 +1,5 @@
 import path from "path";
+import fs from "fs";
 import { ITEM_TYPES } from "../lib/config";
 import { CivSlug } from "../sdk/utils";
 
@@ -7,6 +8,12 @@ export const ATTRIB_FOLDER = path.join(SOURCE_FOLDER, "/attrib");
 export const ICON_FOLDER = path.join(SOURCE_FOLDER, "/ui/icons");
 export const LOCALES_FOLDER = path.join(SOURCE_FOLDER, "/locale");
 export const ESSENCE_FOLDER = path.join(SOURCE_FOLDER, "/attrib");
+
+/** Resolve the target of source/latest junction and extract the game version string (e.g. "16.1.10056") */
+export function getGameVersion(): string {
+  const realPath = fs.realpathSync(SOURCE_FOLDER);
+  return path.basename(realPath);
+}
 
 // Unit files not discovered by sync.ts
 export const hardcodedDiscovery = {

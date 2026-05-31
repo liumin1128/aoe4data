@@ -1,9 +1,9 @@
 import { ItemList } from "./utils";
-import allUnits from "../../units/all-optimized.json";
-import allBuildings from "../../buildings/all-optimized.json";
-import allTechnologies from "../../technologies/all-optimized.json";
-import allUpgrades from "../../upgrades/all-optimized.json";
-import allAbilities from "../../abilities/all-optimized.json";
+import allUnitsRaw from "../../units/all-optimized.json";
+import allBuildingsRaw from "../../buildings/all-optimized.json";
+import allTechnologiesRaw from "../../technologies/all-optimized.json";
+import allUpgradesRaw from "../../upgrades/all-optimized.json";
+import allAbilitiesRaw from "../../abilities/all-optimized.json";
 import { Building, Technology, Unit, Upgrade, Ability } from "../types/items";
 import { CivInfo, CivAbbr } from "../types/civs";
 import { Optimized, optimizedToUnified } from "../lib/utils/items";
@@ -34,11 +34,13 @@ import mac from "../../civilizations/macedonian.json";
 
 import jin from "../../civilizations/jindynasty.json";
 
-const units = new ItemList<Unit>(...optimizedToUnified(allUnits.data as unknown as Optimized<Unit>[]));
-const buildings = new ItemList<Building>(...optimizedToUnified(allBuildings.data as unknown as Optimized<Building>[]));
-const technologies = new ItemList<Technology>(...optimizedToUnified(allTechnologies.data as unknown as Optimized<Technology>[]));
-const upgrades = new ItemList<Upgrade>(...optimizedToUnified(allUpgrades.data as unknown as Optimized<Upgrade>[]));
-const abilities = new ItemList<Ability>(...optimizedToUnified(allAbilities.data as unknown as Optimized<Ability>[]));
+const gameVersion = allUnitsRaw.__game_version__ as string;
+
+const units = new ItemList<Unit>(...optimizedToUnified((allUnitsRaw as typeof allUnitsRaw & { data: Optimized<Unit>[] }).data));
+const buildings = new ItemList<Building>(...optimizedToUnified((allBuildingsRaw as typeof allBuildingsRaw & { data: Optimized<Building>[] }).data));
+const technologies = new ItemList<Technology>(...optimizedToUnified((allTechnologiesRaw as typeof allTechnologiesRaw & { data: Optimized<Technology>[] }).data));
+const upgrades = new ItemList<Upgrade>(...optimizedToUnified((allUpgradesRaw as typeof allUpgradesRaw & { data: Optimized<Upgrade>[] }).data));
+const abilities = new ItemList<Ability>(...optimizedToUnified((allAbilitiesRaw as typeof allAbilitiesRaw & { data: Optimized<Ability>[] }).data));
 
 const list = [ab, ay, by, ch, de, en, fr, hl, hr, ja, je, kt, ma, mo, od, ot, ru, zx, sen, tug, gol, mac, jin] as CivInfo[];
 
@@ -76,4 +78,5 @@ export const DataRegistry = {
   upgrades,
   abilities,
   civilizations,
+  gameVersion,
 };

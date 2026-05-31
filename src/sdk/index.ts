@@ -3,7 +3,7 @@ import { getAbbr, ItemSlug } from "./utils";
 import { CivInfo, CivConfig } from "../types/civs";
 import { DataRegistry } from "./data";
 
-const { units, buildings, technologies, upgrades, abilities } = DataRegistry;
+const { units, buildings, technologies, upgrades, abilities, gameVersion } = DataRegistry;
 
 const civilizations: Record<CivAbbr, CivInfo> & { Get: typeof GetCiv; list: CivInfo[] } = {
   ...DataRegistry.civilizations,
@@ -39,6 +39,6 @@ function Get(id: number | ItemSlug, data = { units, buildings, technologies, upg
   if (type == "abilities") return data.abilities.get(slug);
 }
 
-export { Get, civilizations, units, buildings, technologies, upgrades, abilities };
+export { Get, civilizations, units, buildings, technologies, upgrades, abilities, gameVersion };
 
-const Data = { Get, civilizations, units, buildings, technologies, upgrades, abilities };
+const Data = { Get, civilizations, units, buildings, technologies, upgrades, abilities, gameVersion };
