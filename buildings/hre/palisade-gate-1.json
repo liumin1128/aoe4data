@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palisade-gate-1.png",
+  "nameCN": "木城门",
+  "descriptionCN": "轻型防御城门。必须建造在木栅栏上。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 1350,
   "weapons": [],
   "armor": [

@@ -25,6 +25,9 @@
     "cistern-of-the-first-hill"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-automatic-pilgrim-flask-off-1.png",
+  "nameCN": "自动使用朝圣者之瓶饮水 (关闭)",
+  "descriptionCN": "切换为开启以激活低生命值时自动饮水功能，每秒恢复的生命值快速增加 25，持续 6 秒。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "effects": [

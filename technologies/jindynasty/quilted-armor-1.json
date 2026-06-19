@@ -32,5 +32,10 @@
     "war-stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/quilted-armor-1.png",
+  "nameCN": "间棉护甲",
+  "descriptionCN": "利用当地猎人的技艺，靺鞨族人可装备新的护甲，这能让受到的加成伤害 -50%。",
+  "displayClassesCN": [
+    "骑射手科技"
+  ],
   "effects": []
 }

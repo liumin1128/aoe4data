@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/rhomphaia-3.png",
+  "nameCN": "长柄逆刃刀",
+  "descriptionCN": "瓦兰吉卫队和瑞塔利装备了威力强大的长柄逆刃刀，使卫队轻型步兵的伤害 +3，瑞塔利的伤害 +3。",
+  "displayClassesCN": [
+    "瓦兰吉科技"
+  ],
   "effects": []
 }

@@ -49,6 +49,11 @@
     "meinwerk-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bloomery-2.png",
+  "nameCN": "熟铁块吹炼法",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+  "displayClassesCN": [
+    "近战伤害科技 1/3"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

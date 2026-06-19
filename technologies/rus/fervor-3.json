@@ -35,6 +35,11 @@
     "abbey-of-the-trinity"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fervor-3.png",
+  "nameCN": "狂热",
+  "descriptionCN": "圣者的祝福效果范围增加 +5 格，圣者的祝福提供的伤害增加 +1。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

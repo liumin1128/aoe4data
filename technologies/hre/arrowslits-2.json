@@ -45,6 +45,11 @@
     "outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/arrowslits-2.png",
+  "nameCN": "射箭槽",
+  "descriptionCN": "为此建筑添加防御型射箭槽并使驻扎单位的弓箭攻击范围 +1。只能添加一座武器炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": [
     {
       "property": "unknown",

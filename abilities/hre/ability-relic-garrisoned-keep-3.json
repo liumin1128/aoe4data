@@ -27,6 +27,9 @@
     "stone-wall-tower"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-relic-garrisoned-1.png",
+  "nameCN": "存放的圣物",
+  "descriptionCN": "• 护甲 +25%\n• 伤害 +25%\n• 视野范围 +20%\n• 武器攻击范围 +20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

@@ -49,6 +49,11 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/drift-nets-3.png",
+  "nameCN": "流刺网",
+  "descriptionCN": "渔船的采集速率 +10%，运载量 +20，移动速度 +10%。",
+  "displayClassesCN": [
+    "捕鱼科技 2/2"
+  ],
   "effects": [
     {
       "property": "foodGatherRate",

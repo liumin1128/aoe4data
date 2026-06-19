@@ -33,5 +33,10 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hunting-tradition-2.png",
+  "nameCN": "狩猎传统",
+  "descriptionCN": "村民狩猎肉类采集速率 +20%。",
+  "displayClassesCN": [
+    "狩猎科技"
+  ],
   "effects": []
 }

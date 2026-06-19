@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/farimba-garrison-2.png",
+  "nameCN": "死士驻军",
+  "descriptionCN": "从以下三种单位中招募其一来强化你的军队：曼萨·穆索法迪、曼萨掷枪手或自由民战士。另两种单位可以花费额外成本进行招募。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -46,6 +46,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/mounted-samurai-4.png",
+  "nameCN": "精锐骑马武士",
+  "descriptionCN": "成本昂贵的骑兵，拥有高伤害和强大的冲锋攻击力。自带偏转护甲能力，可定期抵挡攻击。\n+ 重型装甲\n+ 脱离战斗后偏转护甲会重新充能\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 270,
   "weapons": [
     {

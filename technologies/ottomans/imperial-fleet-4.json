@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/imperial-fleet-4.png",
+  "nameCN": "帝国舰队",
+  "descriptionCN": "火药船的生产速度提高 25%，移动速度提高 25%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "productionSpeed",

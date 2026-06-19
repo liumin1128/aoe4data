@@ -37,6 +37,11 @@
     "wynguard-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/gunpowder-contingent-4.png",
+  "nameCN": "火药分遣队",
+  "descriptionCN": "生产一支由 2 个机关炮和 1 个长管炮组成的军队。",
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

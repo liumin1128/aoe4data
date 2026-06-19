@@ -35,6 +35,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-academy-improved-3.png",
+  "nameCN": "军事学院 (已强化)",
+  "descriptionCN": "建筑中的军事和运输工具单位的生产速度提升 53%。\n该效果不适用于宗教单位或其他辅助单位。\n如果已经研究过军事学院，生产速度则提升 20%。",
+  "displayClassesCN": [
+    "生产科技"
+  ],
   "effects": [
     {
       "property": "buildTime",

@@ -45,6 +45,11 @@
     "abbey-of-kings"
   ],
   "icon": "https://data.aoe4world.com/images/units/lord-of-lancaster-2.png",
+  "nameCN": "兰开斯特领主",
+  "descriptionCN": "一位强大的兰开斯特领主，擅长战斗，可以令附近军事单位的生命值 +5%。\n+ 大量生命值。\n+ 强化附近单位。\n- 移动速度慢。\n- 会受到骑士、长矛骑兵和弩手克制。",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 170,
   "weapons": [
     {

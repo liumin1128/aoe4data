@@ -43,6 +43,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/serjeant-3.png",
+  "nameCN": "老练萨金特卫兵",
+  "descriptionCN": "强壮的步兵，可投掷斧头，从远程造成近战伤害。\n+ 擅长对付近战单位\n- 不擅长对付远程单位",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 145,
   "weapons": [
     {

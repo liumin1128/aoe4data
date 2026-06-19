@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/house-of-wisdom-1.png",
+  "nameCN": "智慧宫",
+  "descriptionCN": "包含阿尤布王朝的文明科技。\n阿尤布通过智慧宫来发展到下一个时代。建造各座偏殿以发展到下一个时代并获得额外的科技。\n偏殿奖励基于其建造的时代而提高。",
+  "displayClassesCN": [
+    "科技建筑、地标"
+  ],
   "hitpoints": 2000,
   "weapons": [],
   "armor": [

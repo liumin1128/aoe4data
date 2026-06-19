@@ -30,5 +30,10 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/alliance-conducted-at-sea-4.png",
+  "nameCN": "海上之盟",
+  "descriptionCN": "每个进贡属国向商人额外提供 +10% 的收入。",
+  "displayClassesCN": [
+    "进贡科技"
+  ],
   "effects": []
 }

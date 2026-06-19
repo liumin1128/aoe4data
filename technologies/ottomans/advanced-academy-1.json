@@ -32,5 +32,10 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/advanced-academy-1.png",
+  "nameCN": "高级学院",
+  "descriptionCN": "军事生产速度 +25%，并为军事学校提供训练长矛骑兵和禁卫军的能力。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": []
 }

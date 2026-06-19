@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/angevin-empire-2.png",
+  "nameCN": "安茹帝国",
+  "descriptionCN": "- 要塞和码头的生命值 +30%。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": [
     {
       "property": "hitpoints",

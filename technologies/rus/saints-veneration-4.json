@@ -35,6 +35,11 @@
     "abbey-of-the-trinity"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/saints-veneration-4.png",
+  "nameCN": "圣人的崇拜",
+  "descriptionCN": "僧侣战士的生命值增加 +100。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

@@ -45,6 +45,11 @@
     "the-white-tower"
   ],
   "icon": "https://data.aoe4world.com/images/units/horseman-2.png",
+  "nameCN": "骑手",
+  "descriptionCN": "快速骑兵能有效突袭、攻击侧翼和克制远程单位。\n+ 高移动速度\n - 不擅长对付近战单位\n - 会受到长矛兵克制",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 125,
   "weapons": [
     {

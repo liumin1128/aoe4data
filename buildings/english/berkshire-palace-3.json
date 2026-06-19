@@ -44,6 +44,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/berkshire-palace-3.png",
+  "nameCN": "伯克郡宫殿",
+  "descriptionCN": "作为一个城堡使用，拥有增加的生命值和强大的燃烧箭。所有武器都有 14.5 格的射程。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 6500,
   "weapons": [
     {

@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-attack-ship-production-2.png",
+  "nameCN": "攻击船生产",
+  "descriptionCN": "开启以派遣攻击船增援",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "varangian",

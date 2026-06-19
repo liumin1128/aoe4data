@@ -43,6 +43,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/sofa-2.png",
+  "nameCN": "索法骑手",
+  "descriptionCN": "重装骑兵更低廉，生命值和护甲更少。\n+ 高移动速度\n+ 更便宜的成本\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 160,
   "weapons": [
     {

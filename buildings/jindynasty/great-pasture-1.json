@@ -45,6 +45,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/great-pasture-1.png",
+  "nameCN": "大牧场",
+  "descriptionCN": "可作为战争马厩和草原使用。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

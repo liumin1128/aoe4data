@@ -34,5 +34,10 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/polutasvarf-3.png",
+  "nameCN": "宫殿掠夺",
+  "descriptionCN": "当一个地标或城镇中心被摧毁时，附近的所有瓦兰吉单位都会为玩家带来白银增益。",
+  "displayClassesCN": [
+    "单位科技"
+  ],
   "effects": []
 }

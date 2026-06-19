@@ -34,5 +34,10 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-bed-crossbows-3.png",
+  "nameCN": "升级为老练弓床弩",
+  "descriptionCN": "将弓床弩升级为老练弓床弩。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

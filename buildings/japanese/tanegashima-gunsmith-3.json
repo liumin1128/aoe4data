@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/tanegashima-gunsmith-3.png",
+  "nameCN": "种子岛枪匠",
+  "descriptionCN": "每 30 秒储备武器供给，可用于立即生产火药单位，并带有 2 储备。生产大筒兵，一种独特的重型远程火药步兵，可造成攻城伤害。允许使用风琴炮。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

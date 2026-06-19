@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palatine-school-3.png",
+  "nameCN": "贵族学校",
+  "descriptionCN": "可在此地标花费白银快速批量生产精锐甲胄骑兵。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

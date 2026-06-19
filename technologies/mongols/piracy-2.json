@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/piracy-2.png",
+  "nameCN": "海盗行为",
+  "descriptionCN": "击沉一艘敌方船只时可获得 +25 木材和 +25 黄金。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "unknown",

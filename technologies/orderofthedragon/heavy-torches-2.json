@@ -31,5 +31,10 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/heavy-torches-2.png",
+  "nameCN": "重型火炬",
+  "descriptionCN": "镀金长矛兵火炬可造成效果范围伤害。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": []
 }

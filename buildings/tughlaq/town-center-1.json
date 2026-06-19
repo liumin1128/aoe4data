@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/town-center-1.png",
+  "nameCN": "城镇中心",
+  "descriptionCN": "在此存放的所有资源均会额外获得大象经济加成。可生产村民、侦察兵、工作大象，并能提高人口上限。驻扎时可增加额外的攻击次数。\n非首都城镇中心不能侦测匿踪或伪装。",
+  "displayClassesCN": [
+    "经济和人口建筑"
+  ],
   "hitpoints": 2500,
   "weapons": [],
   "armor": [

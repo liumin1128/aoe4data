@@ -31,12 +31,17 @@
     "gold": 0,
     "total": 100,
     "popcap": 0,
-    "time": 10
+    "time": 5
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/market-2.png",
+  "nameCN": "市场",
+  "descriptionCN": "可生产商人及交易资源。每次生产商人时都会产生税。",
+  "displayClassesCN": [
+    "经济建筑、交易站"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mehmed-imperial-armory-2.png",
+  "nameCN": "穆罕默德帝国军械库",
+  "descriptionCN": "免费生产攻城器械，但训练时间更长。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

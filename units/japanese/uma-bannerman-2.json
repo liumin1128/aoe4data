@@ -49,6 +49,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/uma-bannerman-2.png",
+  "nameCN": "骑马旗本武士",
+  "descriptionCN": "骑马武士，拥有可增加骑兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 移动速度快\n+ 重型护甲\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 230,
   "weapons": [
     {

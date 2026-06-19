@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-donso-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将坚韧当佐兵升级为老练当佐兵。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

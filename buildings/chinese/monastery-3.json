@@ -30,12 +30,17 @@
     "gold": 0,
     "total": 200,
     "popcap": 0,
-    "time": 13
+    "time": 7
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/monastery-3.png",
+  "nameCN": "修道院",
+  "descriptionCN": "生产宗教单位。\n每次生产一个单位或进行研究都会产生税。\n在城堡时代 (第三时代)，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
+  "displayClassesCN": [
+    "宗教建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

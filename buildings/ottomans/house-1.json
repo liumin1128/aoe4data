@@ -34,6 +34,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/house-1.png",
+  "nameCN": "房屋",
+  "descriptionCN": "提升您的人口上限。",
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/warrior-scout-2.png",
+  "nameCN": "战士侦察兵",
+  "descriptionCN": "将先锋士兵升级为战士侦察兵",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "unlocks": ""
 }

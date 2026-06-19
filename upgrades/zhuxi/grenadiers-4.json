@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/grenadiers-4.png",
+  "nameCN": "升级为掷弹兵",
+  "descriptionCN": "将早期掷弹兵升级为掷弹兵。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

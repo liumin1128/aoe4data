@@ -31,6 +31,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/efficient-production-1.png",
+  "nameCN": "高效生产",
+  "descriptionCN": "允许学者驻扎在军事建筑中，使生产速度提升 100%。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "productionSpeed",

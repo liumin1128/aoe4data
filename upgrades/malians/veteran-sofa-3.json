@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-sofa-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将索法骑手升级为老练索法骑手。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

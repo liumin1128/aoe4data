@@ -26,6 +26,9 @@
     "cistern-of-the-first-hill"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-akritoi-defense-1.png",
+  "nameCN": "边防部队防御",
+  "descriptionCN": "为附近村民装备更强的武器并提供 +2 护甲，持续 30 秒。\n+1 伤害 - 黑暗时代\n+1 伤害 - 封建时代\n+1 伤害 - 城堡时代\n+2 伤害 - 帝王时代",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 9.5,
   "cooldown": 120,

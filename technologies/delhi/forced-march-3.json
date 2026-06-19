@@ -31,9 +31,15 @@
     "time": 225
   },
   "producedBy": [
-    "blacksmith"
+    "blacksmith",
+    "tower-of-victory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/forced-march-3.png",
+  "nameCN": "急行军",
+  "descriptionCN": "步兵单位获得急行军能力。\n激活后，步兵移动速度 +100%，持续 10 秒，但在造成伤害时会中断效果。",
+  "displayClassesCN": [
+    "步兵能力解锁"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

@@ -38,6 +38,11 @@
     "astronomical-clocktower"
   ],
   "icon": "https://data.aoe4world.com/images/units/clocktower-springald-3.png",
+  "nameCN": "钟楼扭力弩炮",
+  "descriptionCN": "反单位攻城武器。能发射可穿透多个单位的弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 对建筑造成的伤害极低",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 85,
   "weapons": [
     {

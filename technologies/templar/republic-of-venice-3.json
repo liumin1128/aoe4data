@@ -36,5 +36,10 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/republic-of-venice-3.png",
+  "nameCN": "威尼斯共和国",
+  "descriptionCN": "- 在市场中交易资源时，将基本购买或卖出价格的变化减少 75%。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": []
 }

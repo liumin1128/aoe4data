@@ -35,6 +35,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/greek-fire-projectiles-4.png",
+  "nameCN": "希腊之火炮弹",
+  "descriptionCN": "配重式巨型投石机造成的伤害 +30%，可以向目标倾泻希腊之火，造成范围伤害。希腊之火不与其他效果叠加。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

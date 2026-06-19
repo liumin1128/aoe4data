@@ -9,7 +9,7 @@
   "civs": [
     "ma"
   ],
-  "description": "Increase villager gather rate and move speed by +50%",
+  "description": "Increase villager Food gather rate by +50%.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -24,6 +24,9 @@
     "griot-bara"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-food-festival-1.png",
+  "nameCN": "食物节庆",
+  "descriptionCN": "村民食物采集速率 +50%。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 30,

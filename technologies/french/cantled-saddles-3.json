@@ -35,6 +35,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cantled-saddles-3.png",
+  "nameCN": "高鞍尾马鞍",
+  "descriptionCN": "皇家骑士在冲锋后的伤害加成从 +3 提升为 +10。",
+  "displayClassesCN": [
+    "皇家骑士科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

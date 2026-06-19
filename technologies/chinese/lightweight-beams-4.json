@@ -50,6 +50,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lightweight-beams-4.png",
+  "nameCN": "轻质横梁",
+  "descriptionCN": "攻城锤攻击速度 +20%，战场工程时间 -50%。",
+  "displayClassesCN": [
+    "攻城锤科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

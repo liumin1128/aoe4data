@@ -9,7 +9,7 @@
   "civs": [
     "hr"
   ],
-  "description": "Military units deal +15% damage and gain +1 armor.",
+  "description": "Military units deal +10% damage and gain +1 armor.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-inspired-1.png",
+  "nameCN": "精神鼓舞",
+  "descriptionCN": "军事单位造成的伤害 +10% ，护甲 +1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": [
@@ -85,7 +88,7 @@
         ]
       },
       "effect": "multiply",
-      "value": 1.15,
+      "value": 1.1,
       "type": "ability",
       "duration": 60
     },
@@ -99,7 +102,7 @@
         ]
       },
       "effect": "multiply",
-      "value": 1.15,
+      "value": 1.1,
       "type": "ability",
       "duration": 60
     },
@@ -116,7 +119,7 @@
         ]
       },
       "effect": "multiply",
-      "value": 1.15,
+      "value": 1.1,
       "type": "influence",
       "duration": 60
     },
@@ -130,7 +133,7 @@
         ]
       },
       "effect": "multiply",
-      "value": 1.15,
+      "value": 1.1,
       "type": "influence",
       "duration": 60
     }

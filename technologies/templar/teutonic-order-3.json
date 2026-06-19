@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/teutonic-order-3.png",
+  "nameCN": "条顿骑士团",
+  "descriptionCN": "- 所有黄金单位的近战护甲 +2。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

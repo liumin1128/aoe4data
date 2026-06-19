@@ -34,6 +34,11 @@
     "zhu-xis-library"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/dynastic-protectors-4.png",
+  "nameCN": "王朝守护者",
+  "descriptionCN": "允许生产独特的骑兵单位、帝国卫队和元朝掠夺者。",
+  "displayClassesCN": [
+    "长矛骑兵科技"
+  ],
   "effects": [
     {
       "property": "unknown",

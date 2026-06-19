@@ -36,6 +36,11 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/slate-and-stone-construction-3.png",
+  "nameCN": "石板和石造建筑",
+  "descriptionCN": "所有建筑的火焰护甲 +5。",
+  "displayClassesCN": [
+    "建筑科技"
+  ],
   "effects": [
     {
       "property": "fireArmor",

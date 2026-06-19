@@ -34,5 +34,10 @@
     "lancaster-castle"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shire-levy-3.png",
+  "nameCN": "郡税",
+  "descriptionCN": "征召 12 个英皇侍卫。",
+  "displayClassesCN": [
+    "防御能力"
+  ],
   "effects": []
 }

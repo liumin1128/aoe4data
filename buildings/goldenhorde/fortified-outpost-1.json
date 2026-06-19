@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/fortified-outpost-1.png",
+  "nameCN": "设防哨站",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单位。可以升级武器和防御工事。单位驻扎时可进行攻击。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 1700,
   "weapons": [
     {

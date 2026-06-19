@@ -49,6 +49,11 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/extended-lines-2.png",
+  "nameCN": "延绳钓",
+  "descriptionCN": "渔船的采集速率 +15%，运载量 +10。",
+  "displayClassesCN": [
+    "捕鱼科技 1/2"
+  ],
   "effects": [
     {
       "property": "foodGatherRate",

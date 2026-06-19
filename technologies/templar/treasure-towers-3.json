@@ -32,5 +32,10 @@
     "fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/treasure-towers-3.png",
+  "nameCN": "藏宝塔",
+  "descriptionCN": "要塞光环范围内的修道院、圣地和朝圣者的黄金产量 +20%。",
+  "displayClassesCN": [
+    "经济升级"
+  ],
   "effects": []
 }

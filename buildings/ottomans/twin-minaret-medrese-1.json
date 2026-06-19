@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/twin-minaret-medrese-1.png",
+  "nameCN": "双子宣礼塔神学院",
+  "descriptionCN": "可作为磨坊使用。浆果丛的数量 +4，收获速度 +50%。浆果丛如果被采集完，会在 120 秒后会重新生长。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

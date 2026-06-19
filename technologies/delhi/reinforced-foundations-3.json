@@ -30,6 +30,11 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/reinforced-foundations-3.png",
+  "nameCN": "强化地基",
+  "descriptionCN": "为了获得保护，村民和步兵可以驻扎在房屋内。房屋获得驻军弓箭和 +50% 生命值。",
+  "displayClassesCN": [
+    "人口科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

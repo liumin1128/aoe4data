@@ -35,5 +35,10 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/superior-mobility-improved-2.png",
+  "nameCN": "卓越机动性 (已强化)",
+  "descriptionCN": "收起的建筑移动速度 +70%，收起/展开的速度 +50%。\n如果已经研究过卓越机动性，则速度会 +20%。",
+  "displayClassesCN": [
+    "拆装科技"
+  ],
   "unlocks": ""
 }

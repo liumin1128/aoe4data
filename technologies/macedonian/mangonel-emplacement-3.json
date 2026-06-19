@@ -33,6 +33,11 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mangonel-emplacement-3.png",
+  "nameCN": "轻型投石车炮台",
+  "descriptionCN": "为该建筑增加一座用于防御的轻型投石车炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": [
     {
       "property": "unknown",

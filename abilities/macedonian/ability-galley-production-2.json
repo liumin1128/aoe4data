@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-galley-production-2.png",
+  "nameCN": "箭船生产",
+  "descriptionCN": "开启以派遣箭船增援",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "varangian",

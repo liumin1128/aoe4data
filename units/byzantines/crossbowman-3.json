@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/crossbowman-3.png",
+  "nameCN": "弩手",
+  "descriptionCN": "高伤害远程单位，最适合对付重型目标。\n+ 反重型专家\n- 生命值低\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 80,
   "weapons": [
     {

@@ -35,6 +35,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/biology-improved-4.png",
+  "nameCN": "生物学 (已强化)",
+  "descriptionCN": "投资自然科学可使所有骑兵的生命值 +35%。\n如果已完成生物学研究，则 +10%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

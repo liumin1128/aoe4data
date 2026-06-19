@@ -42,6 +42,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/onna-musha-3.png",
+  "nameCN": "女武者",
+  "descriptionCN": "机动性高的远程骑兵单位，擅长对付重型单位。\n+ 移动速度快\n+ 武器范围远\n+ 对抗重型单位可获得伤害加成\n- 不擅长对抗远程单位",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 80,
   "weapons": [
     {

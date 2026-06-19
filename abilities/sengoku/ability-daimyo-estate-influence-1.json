@@ -26,6 +26,9 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-daimyo-estate-influence-1.png",
+  "nameCN": "大名府邸影响",
+  "descriptionCN": "当处于任何大名府邸的影响范围内时，兵营、靶场和马厩的生产速度 +20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

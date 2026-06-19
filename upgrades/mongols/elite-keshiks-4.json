@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-keshiks-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将老练怯薛骑兵升级为精锐怯薛骑兵。",
+  "displayClassesCN": [
+    "单位科技 2/2"
+  ],
   "unlocks": ""
 }

@@ -38,6 +38,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/units/dervish-2.png",
+  "nameCN": "德尔维希",
+  "descriptionCN": "骑马的宗教单位。可拾取圣物、招降敌方单位以及占领圣地。\n+ 可使用强力的群体治疗能力来治疗区域内的友方单位。\n+ 携带圣物时治疗效果提升。\n+ 速度快。",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 120,
   "weapons": [],
   "armor": [],

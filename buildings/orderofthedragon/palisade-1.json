@@ -35,6 +35,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palisade-1.png",
+  "nameCN": "木栅栏",
+  "descriptionCN": "轻型的防御城墙，可快速为区域设防。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 1350,
   "weapons": [],
   "armor": [

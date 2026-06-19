@@ -42,6 +42,11 @@
     "regnitz-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/units/prelate-3.png",
+  "nameCN": "高级教士",
+  "descriptionCN": "不具备战斗能力的辅助单位，从城堡时代 (第三时代) 开始，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 生命值较低",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

@@ -34,6 +34,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cranequins-4.png",
+  "nameCN": "齿轮弩",
+  "descriptionCN": "弩能够装载更强的箭矢，这些箭矢的射程 +0.5，伤害 +2。",
+  "displayClassesCN": [
+    "弩箭科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -39,6 +39,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/ribauldequin-4.png",
+  "nameCN": "风琴炮",
+  "descriptionCN": "有五根炮管的火药武器，擅长对付成群的单位。能对建筑造成少量伤害。\n+ 单次齐射可击中多个目标\n- 攻击范围短\n- 远程护甲较低",
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "hitpoints": 215,
   "weapons": [
     {

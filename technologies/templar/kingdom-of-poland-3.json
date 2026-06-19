@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kingdom-of-poland-3.png",
+  "nameCN": "波兰王国",
+  "descriptionCN": "- 所有骑兵的生命值 +10% ，且冲锋伤害 +50%。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

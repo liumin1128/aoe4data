@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/golden-horn-tower-2.png",
+  "nameCN": "金角湾塔",
+  "descriptionCN": "定期免费生产已解锁的雇佣兵单位。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

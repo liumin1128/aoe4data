@@ -35,6 +35,11 @@
     "meinwerk-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/awl-pikes-2.png",
+  "nameCN": "锥头枪",
+  "descriptionCN": "长矛兵和骑手的伤害 +2。",
+  "displayClassesCN": [
+    "长矛兵和骑手科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

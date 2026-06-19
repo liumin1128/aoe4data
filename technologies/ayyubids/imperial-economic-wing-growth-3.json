@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/economic-wing-growth-3.png",
+  "nameCN": "经济偏殿：发展",
+  "descriptionCN": "建造经济偏殿。\n完成后获得 10 个村民，且所有村民工作速度提高 +10%。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": []
 }

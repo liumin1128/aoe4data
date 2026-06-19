@@ -49,6 +49,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/adjustable-crossbars-4.png",
+  "nameCN": "可调式横杆",
+  "descriptionCN": "投石车射程 +1，爆炸范围 +75%，且攻击抛射物 +1。",
+  "displayClassesCN": [
+    "轻型投石车科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

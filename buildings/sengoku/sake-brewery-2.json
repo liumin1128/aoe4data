@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/sake-brewery-2.png",
+  "nameCN": "清酒厂",
+  "descriptionCN": "酒厂会在自身周围生产床麹法垫子，村民可以使用这些垫子来产生黄金。村民可将石料和黄金存放于这座建筑。",
+  "displayClassesCN": [
+    "第三时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

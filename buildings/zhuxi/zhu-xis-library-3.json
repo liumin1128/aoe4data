@@ -32,12 +32,17 @@
     "gold": 1200,
     "total": 3600,
     "popcap": 0,
-    "time": 250
+    "time": 125
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/zhu-xis-library-3.png",
+  "nameCN": "朱熹书院",
+  "descriptionCN": "提供一系列非常独特的升级。\n可解锁元朝掠夺者和皇宫卫兵。仅可研究 2 科技。",
+  "displayClassesCN": [
+    "第四时代：军事与科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -24,6 +24,9 @@
     "fortified-outpost"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-defensive-aura-edict-1.png",
+  "nameCN": "防御光环法令",
+  "descriptionCN": "哨站附近的单位额外获得 +10% 生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": []

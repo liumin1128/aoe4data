@@ -33,5 +33,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-raider-elephants-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将突袭大象升级为老练突袭大象",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

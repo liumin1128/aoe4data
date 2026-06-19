@@ -34,6 +34,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/improved-processing-4.png",
+  "nameCN": "强化加工",
+  "descriptionCN": "村民存放的资源额外 +8%。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": [
     {
       "property": "unknown",

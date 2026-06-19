@@ -9,7 +9,7 @@
   "civs": [
     "sen"
   ],
-  "description": "Nearby units gain a permanent healing buff. The healing buff will heal the unit when out of combat by 4 health every 5 seconds.",
+  "description": "Nearby units gain a permanent healing buff. The healing buff will heal the unit when out of combat by 4 health every 6 seconds.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -24,6 +24,9 @@
     "ryokan"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-ryokan-healing-1.png",
+  "nameCN": "日式旅馆治疗",
+  "descriptionCN": "附近的单位获得永久治疗增益。在单位脱离战斗时，该治疗增益每 6 秒可使单位恢复 4 生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 8.5,
   "effects": []

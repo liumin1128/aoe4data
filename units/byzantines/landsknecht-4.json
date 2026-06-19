@@ -45,6 +45,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/landsknecht-4.png",
+  "nameCN": "精锐国土佣仆",
+  "descriptionCN": "骁勇的无装甲步兵，手持巨型双手剑，适合在混合部队中作战。\n+ 近战攻击可造成范围伤害\n- 生命值低\n- 会受到弓兵克制",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 105,
   "weapons": [
     {

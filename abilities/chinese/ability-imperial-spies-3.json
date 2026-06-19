@@ -24,6 +24,9 @@
     "imperial-palace"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-imperial-spies-1.png",
+  "nameCN": "皇家密探",
+  "descriptionCN": "激活后可显示敌方工人位置 15 秒。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 250,
   "cooldown": 120,

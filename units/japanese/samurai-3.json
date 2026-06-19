@@ -44,6 +44,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/samurai-3.png",
+  "nameCN": "老练日本武士",
+  "descriptionCN": "重型步兵，具有优秀的伤害和防御力。同时具有偏转护甲能力，可定期抵挡攻击。\n+ 重型护甲\n+ 脱离战斗后偏转护甲会重新恢复\n- 移动速度较慢\n- 会受到骑士、长矛骑兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 155,
   "weapons": [
     {

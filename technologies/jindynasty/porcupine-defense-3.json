@@ -30,6 +30,11 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/porcupine-defense-3.png",
+  "nameCN": "箭猪防御",
+  "descriptionCN": "使用刺刀火枪强化一窝蜂，可将 10 伤害反弹给近战攻击者。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

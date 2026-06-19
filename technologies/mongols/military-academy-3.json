@@ -49,6 +49,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-academy-3.png",
+  "nameCN": "军事学院",
+  "descriptionCN": "建筑中的步兵、骑兵、攻城以及运输工具单位的生产速度 +33%。\n该效果不适用于宗教单位或其他辅助单位。",
+  "displayClassesCN": [
+    "生产科技"
+  ],
   "effects": [
     {
       "property": "buildTime",

@@ -35,6 +35,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/do-maru-armor-4.png",
+  "nameCN": "胴丸护甲",
+  "descriptionCN": "启用偏转护甲时，骑马武士的移动速度 +10%。",
+  "displayClassesCN": [
+    "骑马武士科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

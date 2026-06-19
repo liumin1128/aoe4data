@@ -9,7 +9,7 @@
   "civs": [
     "tug"
   ],
-  "description": "Reduces Stone cost of buildings by 20%.\nUnlocks an additional upgrade to each Tughlaqabad Fort which further enhances health and Governor benefits.",
+  "description": "Reduces Stone cost of buildings by 25%.\nUnlocks an additional upgrade to each Tughlaqabad Fort which further enhances health and Governor benefits.",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",
@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/compound-of-the-defender-2.png",
+  "nameCN": "守护者大院",
+  "descriptionCN": "建筑的石材消耗减少 25%。\n为每座腾格拉卡巴德堡垒额外解锁一项升级，进一步提升其生命值和总督增益效果。",
+  "displayClassesCN": [
+    "第三时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

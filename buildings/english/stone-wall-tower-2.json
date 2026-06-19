@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stone-wall-tower-2.png",
+  "nameCN": "石墙塔",
+  "descriptionCN": "防御坚实的箭塔，会发射扭力弩炮。必须建于石墙上。\n步兵可利用箭塔前往石墙顶端。\n城堡网络：附近敌人会触发警报，从而加快守军的射击速度。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 3000,
   "weapons": [
     {

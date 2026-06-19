@@ -35,5 +35,10 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/banco-repairs-2.png",
+  "nameCN": "堤岸修复",
+  "descriptionCN": "建筑修理速度 +50%。",
+  "displayClassesCN": [
+    "建筑科技"
+  ],
   "effects": []
 }

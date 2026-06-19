@@ -42,6 +42,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/tanegashima-ashigaru-4.png",
+  "nameCN": "精锐火绳枪足轻",
+  "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
+  "displayClassesCN": [
+    "远程火药步兵"
+  ],
   "hitpoints": 115,
   "weapons": [
     {

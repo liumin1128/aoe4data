@@ -38,6 +38,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/keep-3.png",
+  "nameCN": "城堡",
+  "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、武器攻击范围和视野范围。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

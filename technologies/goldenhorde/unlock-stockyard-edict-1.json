@@ -28,5 +28,10 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/unlock-stockyard-edict-1.png",
+  "nameCN": "解锁牲畜围栏法令",
+  "descriptionCN": "启用牲畜围栏法令后，强化哨站影响范围内的牲畜围栏在被使用时会生产黄金。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

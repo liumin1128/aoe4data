@@ -52,6 +52,11 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/units/riddari-4.png",
+  "nameCN": "精锐瑞塔利",
+  "descriptionCN": "拥有高伤害和近战护甲的骑兵，能远距离投掷斧头。\n+ 重型护甲\n+ 近战能力强\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战瓦兰吉骑兵"
+  ],
   "hitpoints": 270,
   "weapons": [
     {

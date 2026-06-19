@@ -24,6 +24,9 @@
     "fortress"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-desert-citadels-1.png",
+  "nameCN": "沙漠城堡",
+  "descriptionCN": "附近单位的射程 +15%，护甲 +1/+1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 7,
   "effects": []

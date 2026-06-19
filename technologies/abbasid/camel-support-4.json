@@ -35,6 +35,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/camel-support-4.png",
+  "nameCN": "骆驼支援",
+  "descriptionCN": "骆驼可提升附近步兵的护甲 +2。",
+  "displayClassesCN": [
+    "骆驼科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

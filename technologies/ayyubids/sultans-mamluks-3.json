@@ -33,6 +33,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/sultans-mamluks-3.png",
+  "nameCN": "苏丹的马穆鲁克",
+  "descriptionCN": "击败一个单位后，步兵伤害 +25%，移动速度 +20%，持续 30 秒。",
+  "displayClassesCN": [
+    "步兵科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/temple-of-equality-2.png",
+  "nameCN": "平等院",
+  "descriptionCN": "生产佛教僧侣，并包含独特的佛教科技。佛教僧侣和佛教寺庙可以在战斗中提供支持，可通过施放僧兵经文降低敌人带来的伤害。当使用佛教招降时，佛教僧侣可增强附近单位造成的伤害。\n \n此外，还允许额外建造 4 座佛教寺庙。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

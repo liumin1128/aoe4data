@@ -32,5 +32,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/storm-lances-3.png",
+  "nameCN": "风暴长矛",
+  "descriptionCN": "长矛兵装备了风暴长矛，冷却期间可获得一次爆炸远程攻击。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": []
 }

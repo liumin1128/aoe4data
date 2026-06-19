@@ -48,6 +48,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/camel-rider-3.png",
+  "nameCN": "骆驼骑兵",
+  "descriptionCN": "高机动性且耐久的近战单位，擅长对付各类骑兵。\n+ 对骑兵有伤害加成\n+ 可使敌方骑兵造成的伤害降低\n- 高成本",
+  "displayClassesCN": [
+    "轻型近战骑兵、骆驼"
+  ],
   "hitpoints": 270,
   "weapons": [
     {

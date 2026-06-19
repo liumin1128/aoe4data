@@ -34,18 +34,23 @@
   ],
   "unique": true,
   "costs": {
-    "food": 300,
+    "food": 250,
     "wood": 0,
     "stone": 0,
     "gold": 350,
-    "total": 650,
+    "total": 600,
     "popcap": 4,
-    "time": 45
+    "time": 40
   },
   "producedBy": [
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/ballista-elephant-3.png",
+  "nameCN": "弩炮大象",
+  "descriptionCN": "安装在象背上的弩炮能够有效对付近战步兵和打击多个目标。\n+ 高生命值和高护甲\n+ 对近战单位造成额外伤害\n- 移动速度慢",
+  "displayClassesCN": [
+    "重装骑兵，大象"
+  ],
   "hitpoints": 400,
   "weapons": [
     {

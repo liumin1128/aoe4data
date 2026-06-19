@@ -45,5 +45,10 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/silk-bowstrings-4.png",
+  "nameCN": "蚕丝弓弦",
+  "descriptionCN": "用丝线制作弓弦可以使弓兵的射程 +1，使骑射手的射程 +0.5。",
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "effects": []
 }

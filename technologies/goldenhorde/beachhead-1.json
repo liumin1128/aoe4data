@@ -28,5 +28,10 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/beachhead-1.png",
+  "nameCN": "就地坚守",
+  "descriptionCN": "冲车获得原地固防的能力，它的防御会大幅提升，并能发射多支箭矢，但代价是无法进行移动。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

@@ -36,5 +36,10 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kingdom-of-france-1.png",
+  "nameCN": "法兰西王国",
+  "descriptionCN": "- 陆地军事单位生产速度 +15%，黄金花费 -5%。",
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "effects": []
 }

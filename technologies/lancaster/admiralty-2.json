@@ -34,5 +34,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/admiralty-2.png",
+  "nameCN": "海军部",
+  "descriptionCN": "战斗船的攻击范围 +1。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/armor-clad-3.png",
+  "nameCN": "重装甲",
+  "descriptionCN": "武士的远程和近战护甲 +2。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

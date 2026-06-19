@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-desert-raider-blade-1.png",
+  "nameCN": "沙漠掠夺者之刃",
+  "descriptionCN": "切换为近战武器剑。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0.0025,
   "effects": [

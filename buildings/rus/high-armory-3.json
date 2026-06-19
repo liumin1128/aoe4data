@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/high-armory-3.png",
+  "nameCN": "高级军械库",
+  "descriptionCN": "邻近攻城器械厂的攻城器械成本 -20%，并包含独特攻城器械科技。",
+  "displayClassesCN": [
+    "第四时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

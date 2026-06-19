@@ -36,6 +36,11 @@
     "shaman"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/relic-ovoo-1.png",
+  "nameCN": "圣物敖包",
+  "descriptionCN": "圣物敖包不必安置在石料矿床上；如果敖包被摧毁，圣物就会掉落。\n每分钟收获 60 石料。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/grand-fulani-corral-2.png",
+  "nameCN": "富拉尼大围栏",
+  "descriptionCN": "附近的牛每分钟提供 18 食物。",
+  "displayClassesCN": [
+    "第三时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/floating-gate-2.png",
+  "nameCN": "水上鸟居",
+  "descriptionCN": "每 2 分钟生产一次携带依代的神道教神主。第一位神官会立即生成。最多可以在建筑中存放 4 个依代，以提供独特的加成。\n解锁神道教神社，其中拥有独特的神道教科技并生产神道教神主。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

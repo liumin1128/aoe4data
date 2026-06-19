@@ -31,9 +31,15 @@
     "time": 210
   },
   "producedBy": [
-    "blacksmith"
+    "blacksmith",
+    "tower-of-victory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/iron-undermesh-2.png",
+  "nameCN": "铁制底网",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+  "displayClassesCN": [
+    "远程护甲科技 1/3"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

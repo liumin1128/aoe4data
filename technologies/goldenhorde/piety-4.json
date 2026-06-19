@@ -45,6 +45,11 @@
     "prayer-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/piety-4.png",
+  "nameCN": "虔诚",
+  "descriptionCN": "宗教单位和治疗者的生命值 +40。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

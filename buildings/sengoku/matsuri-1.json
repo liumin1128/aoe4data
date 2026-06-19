@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/matsuri-1.png",
+  "nameCN": "祭典",
+  "descriptionCN": "祭典承担了早期市场和通用存放位置的角色。\n \n生产屋台。屋台可以采集食物，当食物装满时，它会派出一名商人返回祭典，这将使祭典的采集速度光环的效果 +5%。",
+  "displayClassesCN": [
+    "经济建筑、交易站"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

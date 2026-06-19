@@ -31,5 +31,10 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bed-crossbow-emplacement-3.png",
+  "nameCN": "弓床弩位置",
+  "descriptionCN": "为此建筑增加一处防御弓床弩位置。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": []
 }

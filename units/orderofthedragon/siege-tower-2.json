@@ -42,6 +42,11 @@
     "gilded-spearman"
   ],
   "icon": "https://data.aoe4world.com/images/units/siege-tower-3.png",
+  "nameCN": "攻城塔",
+  "descriptionCN": "高大的步兵运输工具，不具备战斗能力。允许将其中驻扎的步兵直接投放到石墙上。\n+ 高远程护甲\n- 无法攻击\n- 移动速度较慢",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 480,
   "weapons": [],
   "armor": [],

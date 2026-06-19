@@ -50,6 +50,11 @@
     "meinwerk-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/angled-surfaces-4.png",
+  "nameCN": "斜面",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+  "displayClassesCN": [
+    "远程护甲科技 3/3"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

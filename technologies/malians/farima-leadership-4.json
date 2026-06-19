@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/farima-leadership-4.png",
+  "nameCN": "法里玛领导制",
+  "descriptionCN": "索法骑手提高附近步兵的移动速度 +15%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

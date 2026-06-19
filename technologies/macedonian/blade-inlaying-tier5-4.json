@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/blade-inlaying-tier5-4.png",
+  "nameCN": "刀片嵌饰",
+  "descriptionCN": "所有骑兵的伤害提升 1。",
+  "displayClassesCN": [
+    "骑兵科技 5/6"
+  ],
   "effects": []
 }

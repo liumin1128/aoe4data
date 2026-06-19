@@ -45,6 +45,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/grand-winery-1.png",
+  "nameCN": "大酒庄",
+  "descriptionCN": "可兼作磨坊和修道院使用。在受其光环影响时，村民采集食物速度 +30%。驻守的圣物可产生白银而不是黄金。",
+  "displayClassesCN": [
+    "第二时代 - 经济与宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

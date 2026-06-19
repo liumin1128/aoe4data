@@ -33,6 +33,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/padded-lamellar-4.png",
+  "nameCN": "衬垫札甲",
+  "descriptionCN": "高效的铁匠技艺可为军队打造更强大的札甲，所有骑兵和近战步兵的生命值 +25%。",
+  "displayClassesCN": [
+    "骑兵和近战步兵升级"
+  ],
   "effects": [
     {
       "property": "hitpoints",

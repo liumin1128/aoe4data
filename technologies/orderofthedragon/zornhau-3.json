@@ -30,6 +30,11 @@
     "meinwerk-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/zornhau-3.png",
+  "nameCN": "怒击",
+  "descriptionCN": "镀金国土佣仆装备了长戟来攻击敌人。被这种武器攻击时，单位会进入流血状态，每秒受到 2 点伤害，持续 10 秒。\n所有的治疗效果都可以消除流血状态。",
+  "displayClassesCN": [
+    "国土佣仆科技"
+  ],
   "effects": [
     {
       "property": "unknown",

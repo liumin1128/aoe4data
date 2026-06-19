@@ -38,6 +38,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/counterweight-trebuchet-3.png",
+  "nameCN": "配重式巨型投石机",
+  "descriptionCN": "强大的攻城器械，擅长从极远的距离摧毁建筑及城墙。\n+ 对建筑有伤害加成\n- 必须架设才能开火\n- 无法精准命中单位",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 140,
   "weapons": [
     {

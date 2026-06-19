@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/castle-4.png",
+  "nameCN": "城堡",
+  "descriptionCN": "重兵驻守与防御位置配备了威力强大的火箭，可以对单一目标造成高伤害。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 5500,
   "weapons": [
     {

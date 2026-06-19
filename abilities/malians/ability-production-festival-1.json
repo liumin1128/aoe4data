@@ -1,0 +1,37 @@
+{
+  "id": "ability-production-festival-1",
+  "baseId": "ability-production-festival",
+  "type": "ability",
+  "name": "Production Festival",
+  "pbgid": 2062645,
+  "attribName": "festival_military_mal",
+  "age": 1,
+  "civs": [
+    "ma"
+  ],
+  "description": "Increase the production speed of all units except Traders by +100% for 90 seconds.",
+  "classes": [],
+  "displayClasses": [],
+  "costs": {
+    "food": 0,
+    "wood": 0,
+    "stone": 0,
+    "gold": 300,
+    "total": 300,
+    "popcap": 0
+  },
+  "producedBy": [
+    "griot-bara"
+  ],
+  "icon": "https://data.aoe4world.com/images/abilities/ability-production-festival-1.png",
+  "nameCN": "生产庆典",
+  "descriptionCN": "除商人外，所有单位的生产速度 +100%，持续 90 秒。",
+  "displayClassesCN": [],
+  "active": "manual",
+  "auraRange": 0,
+  "cooldown": 30,
+  "effects": [],
+  "unlockedBy": [
+    "buildings/griot-bara"
+  ]
+}

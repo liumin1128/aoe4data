@@ -40,6 +40,11 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/units/demolition-ship-2.png",
+  "nameCN": "爆破船",
+  "descriptionCN": "装满炸药的小船。被歼灭后会爆炸，对区域内的所有单位造成伤害。\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
+  "displayClassesCN": [
+    "燃烧船"
+  ],
   "hitpoints": 145,
   "weapons": [
     {

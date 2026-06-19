@@ -9,7 +9,7 @@
   "civs": [
     "by"
   ],
-  "description": "Consume all Supply Points to increase cavalry damage by +4, move speed by +10%, and health regeneration by +2. \nEach Supply Point increases Triumph's duration by 1 seconds. A maximum of 45 Supply Points can be collected.",
+  "description": "Consume all Supply Points to increase cavalry damage by +4, move speed by +10%, and health regeneration by +2.5. \nEach Supply Point increases Triumph's duration by 1 seconds. A maximum of 45 Supply Points can be collected.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -25,6 +25,9 @@
     "imperial-hippodrome"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-triumph-1.png",
+  "nameCN": "凯旋",
+  "descriptionCN": "消耗所有补给点，使骑兵伤害 +4，移动速度 +10%，生命值恢复效果 +2.5。\n每个补给点可使凯旋的持续时间增加 1 秒。最多可以收集 45 个补给点。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 30,
@@ -65,7 +68,7 @@
         ]
       },
       "effect": "change",
-      "value": 2,
+      "value": 2.5,
       "type": "ability"
     }
   ],

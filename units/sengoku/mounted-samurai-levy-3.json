@@ -46,6 +46,11 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/units/mounted-samurai-levy-3.png",
+  "nameCN": "骑马日本武士征兵",
+  "descriptionCN": "拥有强大冲锋能力和杀伤力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 230,
   "weapons": [
     {
@@ -137,7 +142,7 @@
             ]
           },
           "effect": "change",
-          "value": 4,
+          "value": 3,
           "type": "passive"
         }
       ],

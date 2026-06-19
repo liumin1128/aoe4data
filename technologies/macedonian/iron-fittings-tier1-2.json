@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/iron-fittings-tier1-2.png",
+  "nameCN": "铁制配件",
+  "descriptionCN": "所有攻城单位的生命值提升 5%。",
+  "displayClassesCN": [
+    "攻城科技 1/6"
+  ],
   "effects": []
 }

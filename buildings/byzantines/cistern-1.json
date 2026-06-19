@@ -22,10 +22,10 @@
   "costs": {
     "food": 0,
     "wood": 0,
-    "stone": 120,
+    "stone": 100,
     "gold": 0,
     "oliveoil": 0,
-    "total": 120,
+    "total": 100,
     "popcap": 0,
     "time": 15
   },
@@ -33,6 +33,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/cistern-1.png",
+  "nameCN": "水池",
+  "descriptionCN": "根据网络等级，附近村民的采集速率 +10/14/18/22/26%。产生影响力，提升生产、研究或防御。可激活阿克里人防御，使附近村民快速武装起来。\n将蓄水池连接到水渠，可强化它们的影响力和村民采集速率光环。",
+  "displayClassesCN": [
+    "影响建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

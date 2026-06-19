@@ -35,5 +35,10 @@
     "war-stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-mohe-tribesman-3.png",
+  "nameCN": "升级为老练靺鞨族人",
+  "descriptionCN": "将靺鞨族人升级为老练靺鞨族人。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

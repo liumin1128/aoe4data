@@ -32,6 +32,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/anatolian-hills-1.png",
+  "nameCN": "安纳托利亚山丘",
+  "descriptionCN": "在地标城镇中心产生 12 只绵羊，并且村民的采矿速度 +15%。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

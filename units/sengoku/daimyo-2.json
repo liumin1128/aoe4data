@@ -49,6 +49,11 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/units/daimyo-2.png",
+  "nameCN": "大名",
+  "descriptionCN": "高生命值、高伤害的近战骑兵，提供的光环可提高附近军事单位的攻击速度。擅长对付近战单位。每个已建造的大名庄园限造一个。\n+ 重型护甲\n+ 近战能力强大\n - 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 240,
   "weapons": [
     {

@@ -34,6 +34,11 @@
     "manor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/open-field-system-2.png",
+  "nameCN": "敞田制",
+  "descriptionCN": "封建土地分配制的进步使庄园的建造上限 +4，其生命值 +200。",
+  "displayClassesCN": [
+    "庄园科技 2/2"
+  ],
   "effects": [
     {
       "property": "hitpoints",

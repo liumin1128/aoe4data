@@ -33,6 +33,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siha-bow-limbs-4.png",
+  "nameCN": "西哈弓臂",
+  "descriptionCN": "蒙古突骑和汗的远程伤害 +1。",
+  "displayClassesCN": [
+    "远程伤害科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

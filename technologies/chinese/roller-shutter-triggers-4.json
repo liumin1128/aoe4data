@@ -50,6 +50,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/roller-shutter-triggers-4.png",
+  "nameCN": "卷帘式触发器",
+  "descriptionCN": "扭力弩炮攻击速度 +30%，并且获得 +10% 远程抗性。",
+  "displayClassesCN": [
+    "扭力弩炮科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

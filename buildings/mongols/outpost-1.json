@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/outpost-1.png",
+  "nameCN": "哨站",
+  "descriptionCN": "简单的驻军及防守位置。\n视野开阔，可侦测匿踪或伪装单位。\n可升级武器。\n驿站：提升附近骑兵和商人的速度。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

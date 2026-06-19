@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-kabura-ya-1.png",
+  "nameCN": "鸣镝箭",
+  "descriptionCN": "女武者会在看到敌人时发射镝矢以加快移动速度，持续 10 秒。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 6,
   "effects": [

@@ -28,5 +28,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stables-reinforcements-3.png",
+  "nameCN": "马厩援军",
+  "descriptionCN": "马厩批量生产 +1，不会增加资源成本或招募时间。此外，还有土尔扈特批量生产 +1。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

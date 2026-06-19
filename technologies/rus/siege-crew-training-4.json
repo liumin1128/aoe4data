@@ -37,6 +37,11 @@
     "high-armory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siege-crew-training-4.png",
+  "nameCN": "攻城人员训练",
+  "descriptionCN": "轻型投石车、巨型投石机和手推炮的架设及拆解速度都是即时的。",
+  "displayClassesCN": [
+    "轻型投石车、巨型投石机和手推炮科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

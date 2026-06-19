@@ -35,5 +35,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-bogmadr-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将波莫升级为老练波莫。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

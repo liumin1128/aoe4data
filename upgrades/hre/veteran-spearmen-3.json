@@ -47,5 +47,10 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-spearmen-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将坚韧长矛兵升级为老练长矛兵。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

@@ -48,5 +48,10 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/naval-springald-emplacement-2.png",
+  "nameCN": "海军扭力弩炮炮台",
+  "descriptionCN": "为此巨港添加一部防御型海军扭力弩炮。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

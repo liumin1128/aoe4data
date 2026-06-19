@@ -9,7 +9,7 @@
   "civs": [
     "jin"
   ],
-  "description": "War Junks are equipped with repeating Bed Crossbows, firing a burst of 2 piercing bolts.",
+  "description": "Replaces Springald Ship weaponry with repeating Bed Crossbows that fire bursts of 2 piercing bolts.",
   "classes": [
     "military_upgrade",
     "scar_castle_age_upgrade",
@@ -34,5 +34,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/naval-crossbows-3.png",
+  "nameCN": "海军弩",
+  "descriptionCN": "将扭力弩炮船武器替换成连发弓床弩，后者可发射一连串 2 穿透箭矢。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

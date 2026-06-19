@@ -34,5 +34,10 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/proselytization-4.png",
+  "nameCN": "传教",
+  "descriptionCN": "伊玛目不需持有圣物便可招降单位，但只能以一个单位为目标。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": []
 }

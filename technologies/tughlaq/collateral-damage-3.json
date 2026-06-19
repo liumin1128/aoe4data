@@ -34,5 +34,10 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/collateral-damage-3.png",
+  "nameCN": "附带损坏",
+  "descriptionCN": "象兵造成的额外伤害提升 30%。",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": []
 }

@@ -34,6 +34,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/gambesons-3.png",
+  "nameCN": "软甲",
+  "descriptionCN": "弓弩手的近战护甲 +5。",
+  "displayClassesCN": [
+    "弓弩手科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mansa-quarry-1.png",
+  "nameCN": "皇家采石场",
+  "descriptionCN": "每分钟产生 75 黄金。可以切换为产生石料。",
+  "displayClassesCN": [
+    "第二时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

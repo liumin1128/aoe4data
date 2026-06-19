@@ -32,5 +32,10 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/silk-road-mercenary-contract-1.png",
+  "nameCN": "丝绸之路雇佣兵合同",
+  "descriptionCN": "解锁掷枪兵、骆驼骑兵和掷弹兵雇佣兵的生产。\n掷枪兵：封建时代\n骆驼骑兵：老练合同\n掷弹兵：精锐合同",
+  "displayClassesCN": [
+    "雇佣兵合同"
+  ],
   "effects": []
 }

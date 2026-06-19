@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/chemistry-4.png",
+  "nameCN": "化学",
+  "descriptionCN": "炼金术研究的进步使所有火药攻城武器的伤害加成 +25%。",
+  "displayClassesCN": [
+    "火药科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

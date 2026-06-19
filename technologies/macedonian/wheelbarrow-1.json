@@ -35,6 +35,11 @@
     "grand-winery"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/wheelbarrow-1.png",
+  "nameCN": "独轮推车",
+  "descriptionCN": "村民的运载量 +5，移动速度 +15%。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

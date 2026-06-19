@@ -35,6 +35,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/reload-drills-4.png",
+  "nameCN": "装填训练",
+  "descriptionCN": "手推炮的攻击速度 +33%。",
+  "displayClassesCN": [
+    "手推炮科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

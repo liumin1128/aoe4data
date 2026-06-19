@@ -9,7 +9,7 @@
   "civs": [
     "ab"
   ],
-  "description": "Grant +3 armor to Traders and Trade Ships.",
+  "description": "Grant +2 armor to Traders and Trade Ships.",
   "classes": [
     "abbasid_upgrade",
     "ayyubid_cmp_upgrade",
@@ -31,9 +31,14 @@
     "time": 45
   },
   "producedBy": [
-    "house-of-wisdom"
+    "market"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/armored-caravans-2.png",
+  "nameCN": "装甲商队",
+  "descriptionCN": "商人和商船护甲 +2。",
+  "displayClassesCN": [
+    "贸易科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",
@@ -44,7 +49,7 @@
         ]
       },
       "effect": "change",
-      "value": 3,
+      "value": 2,
       "type": "passive"
     },
     {
@@ -56,7 +61,7 @@
         ]
       },
       "effect": "change",
-      "value": 3,
+      "value": 2,
       "type": "passive"
     }
   ]

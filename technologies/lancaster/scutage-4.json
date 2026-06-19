@@ -34,5 +34,10 @@
     "manor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/scutage-4.png",
+  "nameCN": "免役税",
+  "descriptionCN": "兰开斯特国王向所有附庸国征税以资助战争。庄园每分钟产生 30 的黄金。",
+  "displayClassesCN": [
+    "庄园科技"
+  ],
   "effects": []
 }

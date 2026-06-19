@@ -35,6 +35,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/zeal-4.png",
+  "nameCN": "狂热",
+  "descriptionCN": "受到学者治疗的单位攻击速度 +50%，持续 3 秒。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

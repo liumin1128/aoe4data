@@ -9,7 +9,7 @@
   "civs": [
     "od"
   ],
-  "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units. Gathers resources 28% quicker and builds and repairs 20% faster than regular Villagers.\n- Weak in combat",
+  "description": "Gathers Wood, Food, Stone, and Gold. Builds and repairs buildings and can repair siege engines and naval units. Gathers resources 27% quicker and builds and repairs 20% faster than regular Villagers.\n- Weak in combat",
   "classes": [
     "annihilation_condition",
     "builder",
@@ -38,6 +38,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/gilded-villager-1.png",
+  "nameCN": "镀金村民",
+  "descriptionCN": "采集木材、食物、石料和黄金。建造并修理建筑，也可修理攻城器械和海军单位。与普通村民相比，收集资源速度加快 27%，并且建造和修理速度加快 20%。\n- 战斗能力弱",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 65,
   "weapons": [
     {

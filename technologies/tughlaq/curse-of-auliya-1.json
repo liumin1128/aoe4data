@@ -31,5 +31,10 @@
     "tughlaqabad-fort"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/curse-of-auliya-1.png",
+  "nameCN": "阿乌里亚的诅咒",
+  "descriptionCN": "这座腾格拉卡巴德堡垒的攻击者陷入恐惧之中，以堡垒作为目标时，攻击速度减慢 30%。",
+  "displayClassesCN": [
+    "防御升级"
+  ],
   "effects": []
 }

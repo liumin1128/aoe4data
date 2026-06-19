@@ -35,5 +35,10 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/hardened-gilded-spearmen-2.png",
+  "nameCN": "升级为坚韧",
+  "descriptionCN": "将镀金长矛兵升级为坚韧镀金长矛兵。",
+  "displayClassesCN": [
+    "单位科技 1/3"
+  ],
   "unlocks": ""
 }

@@ -36,6 +36,11 @@
     "lumber-camp"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/forestry-1.png",
+  "nameCN": "林业",
+  "descriptionCN": "村民伐木速率加倍。",
+  "displayClassesCN": [
+    "伐木科技"
+  ],
   "effects": [
     {
       "property": "unknown",

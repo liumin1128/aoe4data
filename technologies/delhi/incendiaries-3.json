@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/incendiaries-3.png",
+  "nameCN": "燃烧弹",
+  "descriptionCN": "燃烧船的爆炸范围 +20%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

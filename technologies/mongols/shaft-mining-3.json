@@ -35,5 +35,10 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shaft-mining-3.png",
+  "nameCN": "竖井开采",
+  "descriptionCN": "村民的黄金采集速率提升 15%。",
+  "displayClassesCN": [
+    "采矿科技 2/3"
+  ],
   "effects": []
 }

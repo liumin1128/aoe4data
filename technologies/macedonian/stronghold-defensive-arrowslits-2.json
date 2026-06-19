@@ -35,5 +35,10 @@
     "varangian-stronghold"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stronghold-defensive-arrowslits-2.png",
+  "nameCN": "堡垒防御射箭槽",
+  "descriptionCN": "用默认射箭槽炮台升级所有瓦兰吉堡垒，能以 6 格武器攻击范围造成 10 伤害。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": []
 }

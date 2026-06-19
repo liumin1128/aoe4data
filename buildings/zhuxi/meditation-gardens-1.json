@@ -33,12 +33,17 @@
     "gold": 200,
     "total": 600,
     "popcap": 0,
-    "time": 190
+    "time": 95
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/meditation-gardens-1.png",
+  "nameCN": "冥想花园",
+  "descriptionCN": "每 30 秒，附近的黄金矿脉、石料露头和浆果丛的资源价值 +5%，最多 +60%。\n树木以 +2.5% 的较缓速率增长，最多 +30%。\n330 秒后，可产生相当于上述附近资源储备处当前资源 5% 的资源。经过充分采集后，还可产生每个资源储备处最大资源量 5% 的资源。",
+  "displayClassesCN": [
+    "第二时代：被动地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -40,6 +40,11 @@
     "khaganate-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/huihui-pao-4.png",
+  "nameCN": "回回炮",
+  "descriptionCN": "巨大的攻城器械，攻击范围非常远，特别擅长摧毁建筑物和城墙。\n+ 攻击范围极长\n- 必须架设才能开火",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 260,
   "weapons": [
     {

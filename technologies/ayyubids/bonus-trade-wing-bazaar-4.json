@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/trade-wing-bazaar-4.png",
+  "nameCN": "贸易偏殿：集市",
+  "descriptionCN": "建造贸易偏殿。\n每三分钟会有一个贸易商队携带随机的四种实用资源和单位抵达。\n这些贸易的质量取决于建造贸易偏殿所在的时代。使用贸易偏殿进入更晚的时代可以提供更赚钱的贸易。",
+  "displayClassesCN": [
+    "解锁加成"
+  ],
   "effects": []
 }

@@ -34,6 +34,11 @@
     "royal-institute"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/crossbow-stirrups-3.png",
+  "nameCN": "弩手脚镫",
+  "descriptionCN": "弓弩手的攻击速度 +25%。",
+  "displayClassesCN": [
+    "弓弩手科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

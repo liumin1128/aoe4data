@@ -31,6 +31,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-sea-gate-castle-1.png",
+  "nameCN": "海门城堡",
+  "descriptionCN": "防御建筑的伤害 +20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

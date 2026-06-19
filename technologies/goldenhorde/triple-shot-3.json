@@ -28,6 +28,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/triple-shot-3.png",
+  "nameCN": "三连发",
+  "descriptionCN": "钦察弓兵会额外发射 2 支箭矢，每支箭矢造成的伤害 -70%。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

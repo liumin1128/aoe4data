@@ -28,5 +28,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/archery-range-reinforcements-3.png",
+  "nameCN": "靶场援军",
+  "descriptionCN": "靶场批量生产 +1，不会增加资源成本或招募时间。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

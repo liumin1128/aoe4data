@@ -51,6 +51,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siege-works-4.png",
+  "nameCN": "攻城武器",
+  "descriptionCN": "新的木工技术可使攻城部队的生命值 +20%。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

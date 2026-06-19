@@ -35,6 +35,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/raid-bounty-improved-2.png",
+  "nameCN": "突袭赏金 (已强化)",
+  "descriptionCN": "点燃建筑带来的突袭收入 +75 食物和黄金。\n如果已完成突袭赏金研究，则点燃建筑带来的突袭收入 +25 食物和黄金。",
+  "displayClassesCN": [
+    "突袭科技"
+  ],
   "effects": [
     {
       "property": "unknown",

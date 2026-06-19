@@ -35,6 +35,11 @@
     "outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/yam-network-improved-4.png",
+  "nameCN": "驿站网络 (已强化)",
+  "descriptionCN": "所有单位都可获得驿站速度光环效果，而非仅限商人和骑兵单位。此效果不适用于攻城器械。\n强化驿站网络可令位于驿站光环下的商人每 2 秒可恢复 1 生命值。",
+  "displayClassesCN": [
+    "移动科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

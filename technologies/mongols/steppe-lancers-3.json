@@ -33,6 +33,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/steppe-lancers-3.png",
+  "nameCN": "草原长矛骑兵",
+  "descriptionCN": "每次攻击怯薛骑兵恢复的生命值提升 +1，攻击速度增加 +10%。",
+  "displayClassesCN": [
+    "怯薛骑兵科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-yeomen-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将英皇侍卫升级为老练英皇侍卫。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

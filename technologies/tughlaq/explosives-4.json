@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/explosives-4.png",
+  "nameCN": "炸药",
+  "descriptionCN": "燃烧船伤害 +40%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

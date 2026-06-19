@@ -46,6 +46,11 @@
     "khaganate-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/warrior-monk-1.png",
+  "nameCN": "僧侣战士",
+  "descriptionCN": "具备军事头脑的辅助单位，在攻击后可提升附近单位的作战能力。可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n+ 在大型部队里能够发挥较大的作用\n- 伤害较低",
+  "displayClassesCN": [
+    "宗教骑兵"
+  ],
   "hitpoints": 190,
   "weapons": [
     {

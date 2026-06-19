@@ -35,5 +35,10 @@
     "varangian-stronghold"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/varangian-guards-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将早期瓦兰吉卫队升级为瓦兰吉卫队。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

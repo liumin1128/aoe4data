@@ -42,6 +42,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/yari-cavalry-4.png",
+  "nameCN": "精锐日本长枪骑兵",
+  "descriptionCN": "快速骑兵擅长突袭、侧翼攻击和克制远程单位。可对骑兵造成加成伤害。\n+ 移动速度快\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

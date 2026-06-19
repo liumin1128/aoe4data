@@ -51,6 +51,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/swivel-cannon-4.png",
+  "nameCN": "旋转加农炮",
+  "descriptionCN": "扭力弩炮船获得了一门额外的加农炮，可以 360 度射击。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

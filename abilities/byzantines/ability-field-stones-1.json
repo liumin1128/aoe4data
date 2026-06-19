@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-field-stones-1.png",
+  "nameCN": "野外石料",
+  "descriptionCN": "从建造的每种建筑获得各种石料量。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

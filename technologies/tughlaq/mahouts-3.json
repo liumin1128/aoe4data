@@ -34,5 +34,10 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mahouts-3.png",
+  "nameCN": "象夫",
+  "descriptionCN": "大象移动速度 +10%。",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": []
 }

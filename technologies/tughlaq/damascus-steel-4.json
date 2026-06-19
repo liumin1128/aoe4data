@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/damascus-steel-4.png",
+  "nameCN": "大马士革钢",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+  "displayClassesCN": [
+    "近战伤害科技 3/3"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

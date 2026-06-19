@@ -22,8 +22,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-shunshin-1.png",
+  "nameCN": "瞬移",
+  "descriptionCN": "投掷烟雾弹，然后在选定的位置重新出现。",
+  "displayClassesCN": [],
   "active": "manual",
-  "auraRange": 4,
+  "auraRange": 5,
   "cooldown": 30,
   "effects": [
     {

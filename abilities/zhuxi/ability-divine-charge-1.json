@@ -24,6 +24,9 @@
     "temple-of-the-sun"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-divine-charge-1.png",
+  "nameCN": "侵略如火",
+  "descriptionCN": "骑兵单位造成伤害 +20%。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "temple_of_the_sun",

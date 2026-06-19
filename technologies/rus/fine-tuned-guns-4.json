@@ -35,6 +35,11 @@
     "high-armory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fine-tuned-guns-4.png",
+  "nameCN": "精密枪械",
+  "descriptionCN": "手推炮伤害 +20%。手推炮对步兵的伤害 +50。",
+  "displayClassesCN": [
+    "手推炮科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

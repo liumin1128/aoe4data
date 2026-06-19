@@ -34,5 +34,10 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/rain-of-fire-3.png",
+  "nameCN": "火雨",
+  "descriptionCN": "城堡和石墙塔可使用手榴弹攻击附近单位，对其造成爆炸伤害。仇敌当心。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": []
 }

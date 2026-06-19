@@ -50,6 +50,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/jeanne-darc-woman-at-arms-2.png",
+  "nameCN": "圣女贞德 - 披甲女战士",
+  "descriptionCN": "强大的重型步兵领袖，拥有良好的护甲和生命值。如果贞德被击败，可以在城镇中心将她复活。\n+ 重型护甲\n- 会受到骑士、长矛骑兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 225,
   "weapons": [
     {

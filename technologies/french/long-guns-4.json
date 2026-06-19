@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/long-guns-4.png",
+  "nameCN": "长管大炮",
+  "descriptionCN": "海军加农炮伤害 +15%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

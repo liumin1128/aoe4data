@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-static-deployment-1.png",
+  "nameCN": "静态部署",
+  "descriptionCN": "静止不动 10 秒后，射击军的攻击速度 +30%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

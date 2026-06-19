@@ -33,5 +33,10 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muscovy-yasak-2.png",
+  "nameCN": "莫斯科贡赋",
+  "descriptionCN": "被征服的罗斯领土将为重装步兵和重装骑兵提供更大的护盾，使他们的远程护甲 +2。\n木材也会以每分钟 200 的速率生成，但对于每个装备罗斯护盾的单位，木材 -2。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": []
 }

@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/saharan-trade-network-1.png",
+  "nameCN": "撒哈拉贸易网络",
+  "descriptionCN": "可作为已研究防御型标枪炮台的收费哨站使用。为哨站解锁标枪炮台。\n所有被征税的商人以及商船都会在此地标处生产与税金等值的食物，其他所有收费哨站也会生产相当于税金 50% 的食物。",
+  "displayClassesCN": [
+    "第二时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

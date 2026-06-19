@@ -34,12 +34,17 @@
     "gold": 600,
     "total": 1800,
     "popcap": 0,
-    "time": 110
+    "time": 55
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/astronomical-clocktower-2.png",
+  "nameCN": "天文钟楼",
+  "descriptionCN": "可作为攻城武器厂使用，生产的攻城器械生命值 +50%。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

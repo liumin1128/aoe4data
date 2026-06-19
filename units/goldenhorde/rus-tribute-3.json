@@ -43,6 +43,11 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/units/rus-tribute-3.png",
+  "nameCN": "罗斯贡品",
+  "descriptionCN": "罗斯重装步兵被金帐汗国征召服役。\n+ 比其他重装步兵更快\n+ 攻击速度更快\n+ 对骑兵造成额外伤害\n- 护甲减弱\n - 会受到骑士、长矛骑兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

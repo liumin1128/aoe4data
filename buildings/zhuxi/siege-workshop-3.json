@@ -30,12 +30,17 @@
     "gold": 0,
     "total": 250,
     "popcap": 0,
-    "time": 45
+    "time": 22.5
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/siege-workshop-3.png",
+  "nameCN": "攻城武器厂",
+  "descriptionCN": "生产攻城器械和强大的火药单位。\n每次生产一个单位都会产生税。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

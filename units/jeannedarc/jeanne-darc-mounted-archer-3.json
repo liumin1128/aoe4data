@@ -53,6 +53,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/jeanne-darc-mounted-archer-3.png",
+  "nameCN": "圣女贞德 - 骑射手",
+  "descriptionCN": "强大的骑射手，射程极远、伤害极高。如果贞德被击败，她可以在城镇中心被复活。\n+ 射程远\n+ 伤害高\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 280,
   "weapons": [
     {

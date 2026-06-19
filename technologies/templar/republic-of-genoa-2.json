@@ -36,5 +36,10 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/republic-of-genoa-2.png",
+  "nameCN": "热那亚共和国",
+  "descriptionCN": "- 朝圣者产出的黄金 +20%。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": []
 }

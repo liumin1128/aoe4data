@@ -35,5 +35,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-onna-bugeisha-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将老练女武艺者升级为精锐女武艺者。",
+  "displayClassesCN": [
+    "单位科技 2/2"
+  ],
   "unlocks": ""
 }

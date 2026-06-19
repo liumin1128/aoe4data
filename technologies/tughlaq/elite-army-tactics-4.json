@@ -35,6 +35,11 @@
     "madrasa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/elite-army-tactics-4.png",
+  "nameCN": "精锐军队战术",
+  "descriptionCN": "训练精锐步兵可提高战斗力。近战步兵获得伤害 +15% 和生命值 +15%。",
+  "displayClassesCN": [
+    "近战步兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

@@ -35,6 +35,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/teardrop-shields-3.png",
+  "nameCN": "泪滴盾牌",
+  "descriptionCN": "甲胄骑兵的护甲 +1。边防军的移动速度 +15%。瓦兰吉卫队的攻击速度 +15%。",
+  "displayClassesCN": [
+    "重型护甲科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

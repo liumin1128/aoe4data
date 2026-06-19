@@ -50,6 +50,11 @@
     "red-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cannon-emplacement-4.png",
+  "nameCN": "加农炮炮台",
+  "descriptionCN": "为此建筑添加一座防御型加农炮炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": [
     {
       "property": "unknown",

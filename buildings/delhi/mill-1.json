@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mill-1.png",
+  "nameCN": "磨坊",
+  "descriptionCN": "村民可将食物存放于这个建筑。可研究提升食物采集效率的科技。\n在浆果丛附近建造磨坊，可收集的食物量 +100。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

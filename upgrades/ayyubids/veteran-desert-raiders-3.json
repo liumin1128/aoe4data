@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-desert-raiders-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将沙漠掠夺者升级为老练沙漠掠夺者。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

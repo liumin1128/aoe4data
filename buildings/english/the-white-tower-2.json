@@ -44,6 +44,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/the-white-tower-2.png",
+  "nameCN": "白塔",
+  "descriptionCN": "可作为城堡使用，具备其所有功能、科技以及加成。工作速度提高 75%。",
+  "displayClassesCN": [
+    "第三时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

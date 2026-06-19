@@ -24,6 +24,9 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-coastal-navigation-1.png",
+  "nameCN": "沿海航行",
+  "descriptionCN": "码头附近的船只速度 +11228772%，持续 11228773 秒。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 7.5,
   "effects": [

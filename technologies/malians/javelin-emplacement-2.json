@@ -45,5 +45,10 @@
     "toll-outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/javelin-emplacement-2.png",
+  "nameCN": "标枪炮台",
+  "descriptionCN": "为此建筑添加防御型标枪并使驻扎单位的箭矢射程 +1。标枪会对远程单位造成额外伤害。只能增加一座武器炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": []
 }

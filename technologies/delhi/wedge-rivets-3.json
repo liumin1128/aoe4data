@@ -31,9 +31,15 @@
     "time": 300
   },
   "producedBy": [
-    "blacksmith"
+    "blacksmith",
+    "tower-of-victory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/wedge-rivets-3.png",
+  "nameCN": "楔形铆钉",
+  "descriptionCN": "所有非攻城单位的远程护甲 +1。",
+  "displayClassesCN": [
+    "远程护甲科技 2/3"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

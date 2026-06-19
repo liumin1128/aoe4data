@@ -53,6 +53,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/textiles-2.png",
+  "nameCN": "纺织品",
+  "descriptionCN": "村民生命值 +50%。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

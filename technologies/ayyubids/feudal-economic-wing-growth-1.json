@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/economic-wing-growth-1.png",
+  "nameCN": "经济偏殿：发展",
+  "descriptionCN": "建造经济偏殿。\n完成后获得 3 个村民。果园可额外获得 50 食物。",
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "effects": []
 }

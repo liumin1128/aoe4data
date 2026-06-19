@@ -32,6 +32,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/field-work-1.png",
+  "nameCN": "外勤任务",
+  "descriptionCN": "在地标城镇中心产生 2 个伊玛目。伊玛目会治疗附近单位，每秒恢复其 1 生命值。城堡时代的生命值增加到 2，帝王时代的生命值增加到 3。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": [
     {
       "property": "healingRate",

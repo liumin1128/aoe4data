@@ -34,5 +34,10 @@
     "kings-college"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-tactics-training-3.png",
+  "nameCN": "军事战术训练",
+  "descriptionCN": "高级军事战术可以提高部队在战斗中的整体作战能力，使其加成伤害 +20%。",
+  "displayClassesCN": [
+    "军事科技"
+  ],
   "effects": []
 }

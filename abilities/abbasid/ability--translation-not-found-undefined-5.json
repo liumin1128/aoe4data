@@ -1,0 +1,32 @@
+{
+  "id": "ability--translation-not-found-undefined-5",
+  "baseId": "ability--translation-not-found-undefined",
+  "type": "ability",
+  "name": "(translation not found) (undefined)",
+  "pbgid": 9007494,
+  "attribName": "golden_age_tier_5",
+  "age": 5,
+  "civs": [
+    "ab"
+  ],
+  "description": "(translation not found) (undefined)",
+  "classes": [],
+  "displayClasses": [],
+  "costs": {
+    "food": 0,
+    "wood": 0,
+    "stone": 0,
+    "gold": 0,
+    "total": 0,
+    "popcap": 0
+  },
+  "producedBy": [
+    "house-of-wisdom"
+  ],
+  "nameCN": "(translation not found) (undefined)",
+  "descriptionCN": "(translation not found) (undefined)",
+  "displayClassesCN": [],
+  "active": "always",
+  "auraRange": 12.5,
+  "effects": []
+}

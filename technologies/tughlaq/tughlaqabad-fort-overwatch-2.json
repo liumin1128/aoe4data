@@ -34,5 +34,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tughlaqabad-fort-overwatch-2.png",
+  "nameCN": "腾格拉卡巴德堡垒瞭望",
+  "descriptionCN": "腾格拉卡巴德堡垒可使附近码头的生产速度 +30%，射箭槽伤害 +2，武器射程 +1 格。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

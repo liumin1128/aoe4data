@@ -35,5 +35,10 @@
     "varangian-stronghold"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-atgeirmadr-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将坚韧阿特盖尔升级到老练阿特盖尔。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

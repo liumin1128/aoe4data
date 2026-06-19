@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/imported-armor-3.png",
+  "nameCN": "进口护甲",
+  "descriptionCN": "索法骑手的护甲 +2。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

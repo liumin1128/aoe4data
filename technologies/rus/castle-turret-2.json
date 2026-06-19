@@ -32,6 +32,11 @@
     "wooden-fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/castle-turret-1.png",
+  "nameCN": "城堡炮塔",
+  "descriptionCN": "此木制要塞发射的箭矢伤害 +2。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

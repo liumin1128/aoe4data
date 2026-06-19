@@ -50,6 +50,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lumber-preservation-3.png",
+  "nameCN": "木材保存",
+  "descriptionCN": "村民的木材采集速率 +15%。",
+  "displayClassesCN": [
+    "木材采集科技 2/3"
+  ],
   "effects": [
     {
       "property": "woodGatherRate",

@@ -35,6 +35,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/composite-bows-3.png",
+  "nameCN": "复合弓",
+  "descriptionCN": "弓兵的攻击速度 +33%。",
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

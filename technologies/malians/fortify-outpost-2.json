@@ -48,6 +48,11 @@
     "toll-outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fortify-outpost-2.png",
+  "nameCN": "强化哨站",
+  "descriptionCN": "此哨站的生命值 +1000，火焰护甲 +5。",
+  "displayClassesCN": [
+    "防御炮台"
+  ],
   "effects": [
     {
       "property": "hitpoints",

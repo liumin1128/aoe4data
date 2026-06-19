@@ -36,6 +36,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/horticulture-improved-2.png",
+  "nameCN": "园艺学 (已强化)",
+  "descriptionCN": "村民的食物采集速率 +30%，不包括狩猎肉类。\n如果已完成园艺学研究，则 +20%。",
+  "displayClassesCN": [
+    "食物采集科技"
+  ],
   "effects": [
     {
       "property": "foodGatherRate",

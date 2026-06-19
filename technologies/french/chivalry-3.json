@@ -34,6 +34,11 @@
     "royal-institute"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/chivalry-3.png",
+  "nameCN": "骑士精神",
+  "descriptionCN": "皇家骑士在脱离战斗后每 1 秒可恢复 1 生命值。",
+  "displayClassesCN": [
+    "皇家骑士科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

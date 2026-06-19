@@ -31,6 +31,11 @@
     "house"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/border-settlements-2.png",
+  "nameCN": "边境聚落",
+  "descriptionCN": "房屋的视野提升 7 格，并提升其建造速度 500%。",
+  "displayClassesCN": [
+    "建筑科技"
+  ],
   "effects": [
     {
       "property": "lineOfSight",

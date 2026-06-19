@@ -32,5 +32,10 @@
     "lumber-camp"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/draft-horses-3.png",
+  "nameCN": "重型马",
+  "descriptionCN": "使村民的木材采集速率 +15%，木材运载量 +10。",
+  "displayClassesCN": [
+    "伐木科技"
+  ],
   "effects": []
 }

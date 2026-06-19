@@ -9,7 +9,7 @@
   "civs": [
     "by"
   ],
-  "description": "Enemy units hit by Trample become vulnerable and receive +15% increased damage for 12 seconds.",
+  "description": "Enemy units hit by Trample become vulnerable and receive +10% increased damage for 10 seconds.",
   "classes": [
     "byzantine_upgrade",
     "military_upgrade",
@@ -36,6 +36,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/numeri-4.png",
+  "nameCN": "努梅里",
+  "descriptionCN": "敌方单位被践踏击中后将变得脆弱，受到的伤害 +10%，持续 10 秒。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "unknown",

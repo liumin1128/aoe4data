@@ -32,8 +32,8 @@
     "food": 0,
     "wood": 300,
     "stone": 0,
-    "gold": 600,
-    "total": 900,
+    "gold": 450,
+    "total": 750,
     "popcap": 3,
     "time": 45
   },
@@ -41,6 +41,11 @@
     "college-of-artillery"
   ],
   "icon": "https://data.aoe4world.com/images/units/royal-cannon-3.png",
+  "nameCN": "皇家加农炮",
+  "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "hitpoints": 190,
   "weapons": [
     {

@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/padded-jack-4.png",
+  "nameCN": "衬垫外衣",
+  "descriptionCN": "为英皇侍卫和长矛兵装备衬垫外衣，使其近战护甲 +3。",
+  "displayClassesCN": [
+    "义勇兵和长矛兵科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

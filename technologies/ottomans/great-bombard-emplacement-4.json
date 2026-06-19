@@ -37,5 +37,10 @@
     "sea-gate-castle"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/great-bombard-emplacement-4.png",
+  "nameCN": "大型手推炮炮台",
+  "descriptionCN": "为此建筑添加一座大型防御手推炮炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": []
 }

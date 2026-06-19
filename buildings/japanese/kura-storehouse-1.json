@@ -47,6 +47,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/kura-storehouse-1.png",
+  "nameCN": "藏造仓库",
+  "descriptionCN": "通用存放地点，每 50 秒在地标周围会创建一座农田，农田满时，会生成木材。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

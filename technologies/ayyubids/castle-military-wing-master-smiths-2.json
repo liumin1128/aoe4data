@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-wing-master-smiths-2.png",
+  "nameCN": "军事偏殿：铁匠大师",
+  "descriptionCN": "建造军事偏殿。\n进入一个时代后，军事学院和铁匠铺的伤害和护甲科技将变为免费且会自动完成 (其他时代则必须照常进行研究)。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": []
 }

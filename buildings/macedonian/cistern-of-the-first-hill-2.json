@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/cistern-of-the-first-hill-2.png",
+  "nameCN": "地下水宫",
+  "descriptionCN": "充能一项用于提升军事和研究建筑工作速率的能力。如果是对采矿场、伐木场或农田使用，则开始赚取 160 黄金、木材或食物，持续 60 秒。\n保持 9 充能。",
+  "displayClassesCN": [
+    "第三时代：支持与经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

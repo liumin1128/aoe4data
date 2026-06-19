@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/butted-chainmail-tier3-3.png",
+  "nameCN": "对接锁子甲",
+  "descriptionCN": "所有近战步兵的护甲提升 1，生命值提升 5%。",
+  "displayClassesCN": [
+    "近战步兵科技 3/6"
+  ],
   "effects": []
 }

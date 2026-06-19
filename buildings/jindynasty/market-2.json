@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/market-2.png",
+  "nameCN": "市场",
+  "descriptionCN": "可买卖资源及生产驯鹿商人。",
+  "displayClassesCN": [
+    "经济建筑、交易站"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

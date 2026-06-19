@@ -48,5 +48,10 @@
     "war-stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-horsemen-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将骑手升级为老练骑手。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

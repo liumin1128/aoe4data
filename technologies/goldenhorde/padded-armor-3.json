@@ -28,6 +28,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/padded-armor-3.png",
+  "nameCN": "软甲",
+  "descriptionCN": "土尔扈特以及骑手的远程和近战护甲 +1，生命值 +20",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

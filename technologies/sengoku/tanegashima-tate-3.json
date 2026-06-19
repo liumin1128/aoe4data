@@ -34,5 +34,10 @@
     "oda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tanegashima-tate-3.png",
+  "nameCN": "火绳枪盾",
+  "descriptionCN": "火绳枪足轻若不移动，将会自动部署一道站立的盾，可使武器攻击范围 +2 格，远程护甲 +2。",
+  "displayClassesCN": [
+    "织田氏族科技"
+  ],
   "effects": []
 }

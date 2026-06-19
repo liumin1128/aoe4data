@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/elzbach-palace-3.png",
+  "nameCN": "埃尔茨巴赫宫殿",
+  "descriptionCN": "可作为城堡使用，其生命值 +50%。影响范围内的所有建筑受到的伤害 -25%。\n每个城堡可以训练 8 黑骑兵，而不是 5。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 7500,
   "weapons": [
     {

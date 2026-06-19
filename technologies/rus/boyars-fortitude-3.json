@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/boyars-fortitude-3.png",
+  "nameCN": "贵族铁骑的坚毅",
+  "descriptionCN": "罗斯骑兵的生命值 +25。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

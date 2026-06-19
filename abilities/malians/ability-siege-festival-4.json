@@ -24,6 +24,9 @@
     "griot-bara"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-siege-festival-1.png",
+  "nameCN": "攻城节庆",
+  "descriptionCN": "攻城锤、手推炮、配重式巨型投石机和火炬的伤害增加 +50%，并持续 90 秒。\n一旦完成舰载炮研究，可影响扭力弩炮战船。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 30,

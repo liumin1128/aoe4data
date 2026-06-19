@@ -35,6 +35,11 @@
     "high-armory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/wandering-town-4.png",
+  "nameCN": "漂泊城镇",
+  "descriptionCN": "冲车伤害增加 +25%。冲车每 1 秒恢复 2 生命值。",
+  "displayClassesCN": [
+    "冲车科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

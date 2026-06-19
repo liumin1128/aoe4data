@@ -34,5 +34,10 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/khanda-drills-3.png",
+  "nameCN": "印度坎达直剑操练",
+  "descriptionCN": "印度坎达直剑训练可使武士冲锋时长 +3 秒，其冲锋攻击的伤害 +100%。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": []
 }

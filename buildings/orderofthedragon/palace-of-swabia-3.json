@@ -46,6 +46,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palace-of-swabia-3.png",
+  "nameCN": "施瓦本宫殿",
+  "descriptionCN": "可作为城镇中心使用。村民的生产速度 +200% 且成本 -66%。\n建造此地标的成本 -10%。",
+  "displayClassesCN": [
+    "第四时代 - 地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

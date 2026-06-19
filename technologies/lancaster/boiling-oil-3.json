@@ -50,6 +50,11 @@
     "the-white-tower"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/boiling-oil-3.png",
+  "nameCN": "沸油",
+  "descriptionCN": "箭塔和城堡能对附近敌方单位倾倒沸油，对其造成 30 伤害。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": [
     {
       "property": "unknown",

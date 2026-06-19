@@ -37,6 +37,11 @@
     "wynguard-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/wynguard-raiders-1.png",
+  "nameCN": "温嘉德掠夺者",
+  "descriptionCN": "生产一支由 3 名骑手和 3 名骑士组成的军队。",
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

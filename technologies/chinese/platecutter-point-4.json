@@ -9,7 +9,7 @@
   "civs": [
     "ch"
   ],
-  "description": "Increase the ranged damage of all arrows and bolts by +1.",
+  "description": "Increase the ranged damage of all arrows, bolts, and emplacements by +1.",
   "classes": [
     "abbasid_ha_01_upgrade",
     "abbasid_upgrade",
@@ -49,6 +49,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/platecutter-point-4.png",
+  "nameCN": "箭头穿孔板甲",
+  "descriptionCN": "所有弓箭、弩箭和炮台的远程伤害 +1。",
+  "displayClassesCN": [
+    "远程伤害科技 3/3"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

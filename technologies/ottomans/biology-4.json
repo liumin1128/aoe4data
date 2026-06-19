@@ -47,6 +47,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/biology-4.png",
+  "nameCN": "生物学",
+  "descriptionCN": "投资自然科学可使所有骑兵的生命值 +25%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

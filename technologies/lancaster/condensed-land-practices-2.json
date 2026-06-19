@@ -34,6 +34,11 @@
     "manor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/condensed-land-practices-2.png",
+  "nameCN": "土地集中管理制",
+  "descriptionCN": "封建土地分配制的进步使庄园的建造上限 +4，其生命值 +100。",
+  "displayClassesCN": [
+    "庄园科技 1/2"
+  ],
   "effects": [
     {
       "property": "hitpoints",

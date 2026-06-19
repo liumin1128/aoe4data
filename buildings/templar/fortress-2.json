@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/fortress-2.png",
+  "nameCN": "要塞",
+  "descriptionCN": "圣殿骑士团独特的地标防御工事，可以被完全摧毁。\n拥有可以提升附近单位射程的光环。\n每拥有一座要塞都可以增加踏上旅途的朝圣者数量。",
+  "displayClassesCN": [
+    "防御地标"
+  ],
   "hitpoints": 4000,
   "weapons": [
     {

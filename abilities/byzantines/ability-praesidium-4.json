@@ -25,6 +25,9 @@
     "cistern-of-the-first-hill"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-praesidium-4.png",
+  "nameCN": "委员会",
+  "descriptionCN": "在蓄水池影响范围之内，建筑所受伤害将按水位 -5%/-10%/-15%/-20%/-25%。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "resource_toggle",

@@ -24,6 +24,9 @@
     "stone-wall-tower"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-extra-materials-1.png",
+  "nameCN": "额外材料",
+  "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 4,
   "effects": [

@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ruinous-blinding-2.png",
+  "nameCN": "毁灭致盲",
+  "descriptionCN": "瓦兰吉兵工厂能制作更多致命的箭矢，可让波莫射中的单位 -20% 的伤害，持续 5 秒。",
+  "displayClassesCN": [
+    "瓦兰吉弓兵科技"
+  ],
   "effects": []
 }

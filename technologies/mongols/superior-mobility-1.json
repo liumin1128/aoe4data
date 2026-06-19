@@ -34,5 +34,10 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/superior-mobility-1.png",
+  "nameCN": "卓越机动性",
+  "descriptionCN": "组装建筑的移动和组装/拆装速度提高 50%。",
+  "displayClassesCN": [
+    "拆装科技"
+  ],
   "unlocks": ""
 }

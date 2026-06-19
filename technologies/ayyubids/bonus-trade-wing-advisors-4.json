@@ -9,7 +9,7 @@
   "civs": [
     "ay"
   ],
-  "description": "Constructs the Trade Wing.\nUpon completion, gain 7 Atabeg which can be garrisoned in any military production building (except Docks) to increase the health of newly trained units by 20%.",
+  "description": "Constructs the Trade Wing.\nUpon completion, gain 7 Atabeg which can be garrisoned in any military production building (except Docks) to increase the health of newly trained units by 25%.",
   "classes": [
     "abbasid_upgrade",
     "abbasid_wing_upgrade",
@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/trade-wing-advisors-4.png",
+  "nameCN": "贸易偏殿：顾问",
+  "descriptionCN": "建造贸易偏殿。\n完成后获得 7 个阿塔贝格，可驻扎于任意军事生产建筑 (除了码头) 中，使新训练单位的生命值增加 25%。",
+  "displayClassesCN": [
+    "解锁加成"
+  ],
   "effects": []
 }

@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/house-of-learning-2.png",
+  "nameCN": "学苑",
+  "descriptionCN": "除了发展到下一个时代外不会获得任何立即性加成，但包含许多独特的科技。",
+  "displayClassesCN": [
+    "第三时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

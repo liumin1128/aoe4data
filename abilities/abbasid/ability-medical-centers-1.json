@@ -26,6 +26,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-medical-centers-1.png",
+  "nameCN": "医疗中心",
+  "descriptionCN": "治疗附近单位。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 5,
   "effects": [

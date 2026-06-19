@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/spasskaya-tower-3.png",
+  "nameCN": "斯巴斯克塔",
+  "descriptionCN": "可作为城堡使用，配有所有武器炮台，并增加生命值。\n可解锁石墙、石墙城门和石墙塔建筑。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 10000,
   "weapons": [
     {

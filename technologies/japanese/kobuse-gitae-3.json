@@ -35,6 +35,11 @@
     "forge"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kobuse-gitae-3.png",
+  "nameCN": "甲伏锻",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+  "displayClassesCN": [
+    "近战伤害科技 3/4"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

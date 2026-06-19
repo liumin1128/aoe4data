@@ -34,6 +34,11 @@
     "royal-institute"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/enlistment-incentives-3.png",
+  "nameCN": "募兵奖励",
+  "descriptionCN": "提高法兰西人的影响力，使单位的成本额外 -5%。",
+  "displayClassesCN": [
+    "影响力科技"
+  ],
   "effects": [
     {
       "property": "unknown",

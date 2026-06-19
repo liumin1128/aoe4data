@@ -34,5 +34,10 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/flying-fire-battalions-4.png",
+  "nameCN": "飞火营",
+  "descriptionCN": "金朝一边巩固力量，一边强化猛安谋克制度以应对即将到来的威胁。现在，守军由骑马掷弹兵提供支援，可用的守军人数 +10。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": []
 }

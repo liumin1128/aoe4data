@@ -31,6 +31,11 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hearty-rations-3.png",
+  "nameCN": "丰衣足食",
+  "descriptionCN": "村民的运载量 +10。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

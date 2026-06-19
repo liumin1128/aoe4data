@@ -33,6 +33,11 @@
     "royal-institute"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/companion-equipment-3.png",
+  "nameCN": "同伴装备",
+  "descriptionCN": "圣女贞德的生命值和伤害提升25%，并且护甲 +1。圣女贞德同伴的生命值和伤害提升20%。",
+  "displayClassesCN": [
+    "同伴升级"
+  ],
   "effects": [
     {
       "property": "hitpoints",

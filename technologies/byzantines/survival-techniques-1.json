@@ -35,6 +35,11 @@
     "grand-winery"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/survival-techniques-1.png",
+  "nameCN": "生存技术",
+  "descriptionCN": "村民狩猎肉类采集速率 +15%。",
+  "displayClassesCN": [
+    "狩猎科技"
+  ],
   "effects": [
     {
       "property": "huntGatherRate",

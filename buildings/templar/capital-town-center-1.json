@@ -46,6 +46,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/capital-town-center.png",
+  "nameCN": "圣殿骑士团总部",
+  "descriptionCN": "可在此存放所有资源。可生产村民、侦察兵，并提高人口上限。朝圣者从这里开始他们前往圣地的旅程。单位驻扎时可增加额外的攻击次数。\n首都城镇中心可侦测匿踪或伪装单位。",
+  "displayClassesCN": [
+    "经济和人口建筑、地标"
+  ],
   "hitpoints": 8000,
   "weapons": [
     {

@@ -35,6 +35,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/economic-wing-4.png",
+  "nameCN": "经济偏殿",
+  "descriptionCN": "建造经济偏殿。\n以下经济科技变为可用：\n• 新月沃土 (第二时代)\n• 农业 (第三时代)\n• 强化加工 (第四时代)",
+  "displayClassesCN": [
+    "解锁科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

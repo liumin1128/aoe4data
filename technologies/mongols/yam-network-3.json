@@ -33,6 +33,11 @@
     "outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/yam-network-3.png",
+  "nameCN": "驿站网络",
+  "descriptionCN": "所有单位都可获得驿站速度光环效果，而非仅限商人和骑兵单位。此效果不适用于攻城器械。",
+  "displayClassesCN": [
+    "移动科技"
+  ],
   "effects": [
     {
       "property": "unknown",

@@ -43,6 +43,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/spearman-2.png",
+  "nameCN": "坚韧长矛兵",
+  "descriptionCN": "最适合用来对付骑兵单位的步兵。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付重型步兵\n- 会受到弓兵克制",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 90,
   "weapons": [
     {

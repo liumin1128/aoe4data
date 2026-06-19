@@ -35,6 +35,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/whistling-arrows-improved-2.png",
+  "nameCN": "镝矢 (已强化)",
+  "descriptionCN": "汗的信号箭持续时间 +7 秒，且攻击范围 +3 格。\n如果已完成镝矢研究，则汗的信号箭持续时间 +2 秒，且攻击范围 +1 格。",
+  "displayClassesCN": [
+    "汗科技"
+  ],
   "effects": [
     {
       "property": "unknown",

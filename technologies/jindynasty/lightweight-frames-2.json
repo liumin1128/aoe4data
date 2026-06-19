@@ -33,5 +33,10 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lightweight-frames-2.png",
+  "nameCN": "轻质框架",
+  "descriptionCN": "攻城器械的移动速度 +10%。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": []
 }

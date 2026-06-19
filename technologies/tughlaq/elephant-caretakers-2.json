@@ -33,5 +33,10 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/elephant-caretakers-2.png",
+  "nameCN": "大象看护人",
+  "descriptionCN": "脱离战斗的象兵每 2 秒恢复 +2 生命值。",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": []
 }

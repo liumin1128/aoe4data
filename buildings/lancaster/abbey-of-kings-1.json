@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/abbey-of-kings-1.png",
+  "nameCN": "列王修道院",
+  "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒生命值 +6。\n最多任命 4 个兰开斯特领主，兰开斯特领主是强大的近战领袖，可以使附近所有军事单位的最大生命值 +5%。建造完成后为生产队列中添加一名免费的兰开斯特领主。",
+  "displayClassesCN": [
+    "第二时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -34,12 +34,17 @@
     "gold": 1200,
     "total": 3600,
     "popcap": 0,
-    "time": 125
+    "time": 63
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/great-wall-gatehouse-3.png",
+  "nameCN": "长城门楼",
+  "descriptionCN": "必须建造在石墙上。\n自带一个一窝蜂炮台，并可以使城墙上的所有单位的远程伤害 +25%。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 7500,
   "weapons": [
     {

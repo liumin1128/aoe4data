@@ -35,6 +35,11 @@
     "the-silver-tree"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stone-commerce-improved-4.png",
+  "nameCN": "石料商业 (已强化)",
+  "descriptionCN": "商人在交易时供应的石料 +20%。\n如果已完成石料商业研究，则供应的石料 +10%。",
+  "displayClassesCN": [
+    "贸易科技"
+  ],
   "effects": [
     {
       "property": "unknown",

@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-talented-builder-1.png",
+  "nameCN": "建筑天才",
+  "descriptionCN": "贞德建造建筑的速度加快 33%。\n到了等级 2，贞德还能将她的才能共享给周围的建造者。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": [

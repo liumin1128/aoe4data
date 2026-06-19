@@ -49,6 +49,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/geometry-4.png",
+  "nameCN": "几何学",
+  "descriptionCN": "巨型投石机的伤害 +20%。",
+  "displayClassesCN": [
+    "巨型投石机科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

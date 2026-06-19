@@ -34,6 +34,11 @@
     "zhu-xis-library"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/roar-of-the-dragon-4.png",
+  "nameCN": "龙之咆哮",
+  "descriptionCN": "长矛兵和骑手在冲锋时拥有火长矛。",
+  "displayClassesCN": [
+    "近战步兵科技"
+  ],
   "effects": [
     {
       "property": "unknown",

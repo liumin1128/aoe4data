@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/castle-of-the-crow-3.png",
+  "nameCN": "乌城",
+  "descriptionCN": "可作为城堡使用。建造城堡的成本降低 33%。所有城堡附近的攻城单位造成的伤害 +10%，射程 +1 格。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 5500,
   "weapons": [
     {

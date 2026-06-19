@@ -40,6 +40,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/dhow-2.png",
+  "nameCN": "阿拉伯帆船",
+  "descriptionCN": "载有步弓手的轻型战船。\n+ 操控性和速度提升。\n+ 可从铁匠铺的远程伤害科技中获得加成。",
+  "displayClassesCN": [
+    "步弓手船"
+  ],
   "hitpoints": 300,
   "weapons": [
     {

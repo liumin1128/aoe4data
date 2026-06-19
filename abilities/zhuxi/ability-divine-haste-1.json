@@ -24,6 +24,9 @@
     "temple-of-the-sun"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-divine-haste-1.png",
+  "nameCN": "其疾如风",
+  "descriptionCN": "步兵单位移动速度加快 15%。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "temple_of_the_sun",

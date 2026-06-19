@@ -46,6 +46,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/kanabo-samurai-3.png",
+  "nameCN": "老练金碎棒日本武士",
+  "descriptionCN": "伤害较高的强悍步兵。对敌人造成额外伤害，相当于其最大生命值的 +6%。\n+ 高生命值\n+ 擅长对付高生命值单位\n- 移动速度慢\n- 会受到弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 230,
   "weapons": [
     {

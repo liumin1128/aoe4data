@@ -34,6 +34,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stone-bounty-4.png",
+  "nameCN": "石料赏金",
+  "descriptionCN": "点燃建筑带来的突袭收入 +50 石料。",
+  "displayClassesCN": [
+    "突袭科技"
+  ],
   "effects": [
     {
       "property": "unknown",

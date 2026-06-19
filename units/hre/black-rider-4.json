@@ -46,6 +46,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/black-rider-4.png",
+  "nameCN": "黑骑兵",
+  "descriptionCN": "拥有高护甲和强大火绳枪的昂贵骑兵。擅长对付近战单位。拥有卡拉科尔能力。\n对于建造的每座矗立城堡，只能训练 5 名骑兵。\n+ 重型护甲\n- 会受到弩手克制",
+  "displayClassesCN": [
+    "重装远程火药骑兵"
+  ],
   "hitpoints": 225,
   "weapons": [
     {

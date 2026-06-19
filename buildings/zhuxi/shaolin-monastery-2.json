@@ -38,12 +38,17 @@
     "gold": 600,
     "total": 1800,
     "popcap": 0,
-    "time": 220
+    "time": 110
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/shaolin-monastery-2.png",
+  "nameCN": "少林寺",
+  "descriptionCN": "独特的修道院，能够生产少林僧侣。从元朝开始，宝塔也可以生产少林僧侣。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

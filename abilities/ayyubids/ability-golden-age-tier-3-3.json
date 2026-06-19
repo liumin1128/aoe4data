@@ -24,6 +24,9 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-golden-age-tier-3.png",
+  "nameCN": "(translation not found) (undefined)",
+  "descriptionCN": "(translation not found) (undefined)",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

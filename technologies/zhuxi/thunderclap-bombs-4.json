@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/thunderclap-bombs-4.png",
+  "nameCN": "霹雳弹",
+  "descriptionCN": "战船发动一窝蜂攻击。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "siegeAttack",

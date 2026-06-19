@@ -34,5 +34,10 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/dali-horses-2.png",
+  "nameCN": "大理马",
+  "descriptionCN": "骑兵单位的攻击速度 +20%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": []
 }

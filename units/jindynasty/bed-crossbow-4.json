@@ -37,12 +37,17 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/bed-crossbow-4.png",
+  "nameCN": "精锐弓床弩",
+  "descriptionCN": "反近战步兵的攻城武器。可发射可穿透多个单位的一连串弩箭。\n+ 无需架设即可发射\n+ 对近战步兵造成额外伤害\n- 易受近战攻击",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 110,
   "weapons": [
     {
       "name": "Bed Crossbow",
       "type": "ranged",
-      "damage": 12,
+      "damage": 13,
       "speed": 3.125,
       "range": {
         "min": 0,

@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/palace-guards-3.png",
+  "nameCN": "升级为皇宫卫兵",
+  "descriptionCN": "将早期皇宫卫兵升级为皇宫卫兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

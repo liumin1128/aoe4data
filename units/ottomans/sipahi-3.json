@@ -31,19 +31,24 @@
   "unique": true,
   "costs": {
     "food": 120,
-    "wood": 40,
+    "wood": 45,
     "stone": 0,
     "gold": 0,
     "vizier": 0,
-    "total": 160,
+    "total": 165,
     "popcap": 1,
-    "time": 30
+    "time": 31
   },
   "producedBy": [
     "military-school",
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/sipahi-3.png",
+  "nameCN": "老练西帕希骑兵",
+  "descriptionCN": "快速骑兵擅长突袭、侧翼和反制远程单位。可牺牲近战防御来提高攻击速度。\n+ 高移动速度\n+ 擅长对抗远程单位\n- 不擅长对抗近战单位\n- 会受到长矛兵克制",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 175,
   "weapons": [
     {

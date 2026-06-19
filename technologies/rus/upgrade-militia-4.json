@@ -30,6 +30,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/militia-2.png",
+  "nameCN": "(translation not found) (undefined)",
+  "descriptionCN": "(translation not found) (undefined)",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "hitpoints",

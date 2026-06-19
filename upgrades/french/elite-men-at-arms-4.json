@@ -39,5 +39,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-men-at-arms-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将武士升级为精锐武士。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

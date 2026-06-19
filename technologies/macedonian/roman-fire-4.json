@@ -34,5 +34,10 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/roman-fire-4.png",
+  "nameCN": "罗马火",
+  "descriptionCN": "扭力弩炮获得 15% 的攻击速度并会用火包裹它们的炮弹，在撞击后产生一片希腊之火。",
+  "displayClassesCN": [
+    "扭力弩炮科技"
+  ],
   "effects": []
 }

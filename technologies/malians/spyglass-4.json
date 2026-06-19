@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/spyglass-4.png",
+  "nameCN": "小型望远镜",
+  "descriptionCN": "侦察兵的视线半径增加 30%。",
+  "displayClassesCN": [
+    "侦察兵科技"
+  ],
   "effects": [
     {
       "property": "lineOfSight",

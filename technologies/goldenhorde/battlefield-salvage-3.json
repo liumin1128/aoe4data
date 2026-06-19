@@ -28,6 +28,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/battlefield-salvage-3.png",
+  "nameCN": "战场救援",
+  "descriptionCN": "肉盾装备有护盾，可使远程护甲 +2，近战护甲 +2，生命值 +25。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

@@ -52,6 +52,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/jeanne-darc-blast-cannon-4.png",
+  "nameCN": "圣女贞德 - 爆破加农炮",
+  "descriptionCN": "精锐攻城骑兵领袖，拥有高伤害能力。尤其擅长对付建筑。如果贞德被击败，她会重新出现在城镇中心。\n+ 重型护甲\n+ 对建筑造成的伤害较高\n - 仅受优势兵力克制",
+  "displayClassesCN": [
+    "重型攻城骑兵"
+  ],
   "hitpoints": 480,
   "weapons": [
     {

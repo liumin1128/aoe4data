@@ -50,6 +50,11 @@
     "imperial-hippodrome"
   ],
   "icon": "https://data.aoe4world.com/images/units/hippodrome-riddari-1.png",
+  "nameCN": "竞技场瑞塔利",
+  "descriptionCN": "精锐瓦兰吉骑兵，可提升附近步兵的移动速度。\n+ 高护甲\n+ 近战能力强\n- 会受到长矛兵和弩兵克制。",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 250,
   "weapons": [
     {

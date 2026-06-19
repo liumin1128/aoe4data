@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-mangudai-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将蒙古突骑升级为老练蒙古突骑。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

@@ -44,6 +44,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/javelin-thrower-3.png",
+  "nameCN": "老练掷枪兵",
+  "descriptionCN": "远程步兵擅长对抗其他远程单位。\n+ 反远程专家\n+武器射程增加\n+ 自带远程护甲\n- 低生命值\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 80,
   "weapons": [
     {

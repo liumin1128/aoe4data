@@ -34,5 +34,10 @@
     "oda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/higoyumi-1.png",
+  "nameCN": "肥后弓",
+  "descriptionCN": "使日本长弓足轻的伤害 +1。",
+  "displayClassesCN": [
+    "织田氏族科技"
+  ],
   "effects": []
 }

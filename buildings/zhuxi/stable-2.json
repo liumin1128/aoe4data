@@ -30,12 +30,17 @@
     "gold": 0,
     "total": 150,
     "popcap": 0,
-    "time": 30
+    "time": 15
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stable-2.png",
+  "nameCN": "马厩",
+  "descriptionCN": "生产骑兵军事单位。\n每次生产一个单位或进行研究都会产生税。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

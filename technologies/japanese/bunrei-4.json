@@ -35,6 +35,11 @@
     "shinto-shrine"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bunrei-4.png",
+  "nameCN": "分灵",
+  "descriptionCN": "将依代的最大数量增加 +2。立即在水上鸟居产生 2 依代。",
+  "displayClassesCN": [
+    "神道教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

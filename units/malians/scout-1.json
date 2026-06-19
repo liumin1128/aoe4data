@@ -46,6 +46,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/malians/scout-1.png",
+  "nameCN": "先锋侦察兵",
+  "descriptionCN": "轻武装骑兵，擅长探索世界、狩猎野生动物及牧羊。\n+ 能看穿浓密森林\n+ 生命值恢复\n- 战斗能力非常弱",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 110,
   "weapons": [
     {

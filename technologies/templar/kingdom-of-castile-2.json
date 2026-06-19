@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kingdom-of-castile-2.png",
+  "nameCN": "卡斯蒂利亚王国",
+  "descriptionCN": "- 圣地附近的单位造成的伤害 +20% 并恢复生命值。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

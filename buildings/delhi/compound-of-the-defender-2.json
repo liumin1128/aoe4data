@@ -9,7 +9,7 @@
   "civs": [
     "de"
   ],
-  "description": "Infantry units can build Stone Walls, Gates, and Towers. Reduces Stone cost of buildings and their emplacements by 20%.\nContains defensive technologies that ignore building and Imperial Age (IV) requirements.",
+  "description": "Infantry units can build Stone Walls, Gates, and Towers. Reduces Stone cost of buildings and their emplacements by 25%.\nContains defensive technologies that ignore building and Imperial Age (IV) requirements.",
   "classes": [
     "age2_landmark1",
     "audio_production_landmark",
@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/compound-of-the-defender-2.png",
+  "nameCN": "守护者大院",
+  "descriptionCN": "步兵单位可以建造石墙、城门与箭塔。这些建筑及其炮台的石料成本减少 25%。\n 包括无视建筑及帝王时代 (第四时代) 要求的防御技术。",
+  "displayClassesCN": [
+    "第三时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

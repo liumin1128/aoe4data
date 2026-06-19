@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-kipchak-archer-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将钦察弓兵升级为精锐钦察弓兵。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

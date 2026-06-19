@@ -35,5 +35,10 @@
     "varangian-stronghold"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/hardened-atgeirmadr-2.png",
+  "nameCN": "升级为坚韧",
+  "descriptionCN": "将阿特盖尔升级到坚韧阿特盖尔。",
+  "displayClassesCN": [
+    "单位科技 1/3"
+  ],
   "unlocks": ""
 }

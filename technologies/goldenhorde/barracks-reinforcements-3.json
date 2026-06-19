@@ -28,5 +28,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/barracks-reinforcements-3.png",
+  "nameCN": "兵营援军",
+  "descriptionCN": "兵营批量生产 +1，不会增加资源成本或招募时间。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

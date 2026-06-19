@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/springald-crews-3.png",
+  "nameCN": "扭力弩炮队",
+  "descriptionCN": "扭力弩炮船的攻击范围 +1 ，攻击速度 +20%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

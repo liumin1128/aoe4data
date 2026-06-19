@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/pattern-welding-tier4-3.png",
+  "nameCN": "图案焊接",
+  "descriptionCN": "所有近战步兵的伤害提升 1。",
+  "displayClassesCN": [
+    "近战步兵科技 4/6"
+  ],
   "effects": []
 }

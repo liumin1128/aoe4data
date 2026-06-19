@@ -24,6 +24,9 @@
     "temple-of-the-sun"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-divine-defense-1.png",
+  "nameCN": "其徐如林",
+  "descriptionCN": "火药单位和防御性建筑攻击范围 +1。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "temple_of_the_sun",

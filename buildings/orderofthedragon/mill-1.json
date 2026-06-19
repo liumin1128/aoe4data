@@ -38,6 +38,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mill-1.png",
+  "nameCN": "磨坊",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

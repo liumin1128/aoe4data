@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/canoe-tactics-2.png",
+  "nameCN": "独木舟战术",
+  "descriptionCN": "步弓手船只可发射额外 2 个标枪武器。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

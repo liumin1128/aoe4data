@@ -34,5 +34,10 @@
     "varangian-arsenal"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/scale-barding-tier5-4.png",
+  "nameCN": "鳞纹马铠",
+  "descriptionCN": "所有骑兵的护甲提升 1，生命值提升 5%。",
+  "displayClassesCN": [
+    "骑兵科技 5/6"
+  ],
   "effects": []
 }

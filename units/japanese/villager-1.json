@@ -37,6 +37,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/japanese/villager-1.png",
+  "nameCN": "村民",
+  "descriptionCN": "采集木材、食物、石料和黄金。建造和修理建筑，也可以修理攻城器械和海军单位。\n- 战斗能力弱。\n当石料储量达到 5 或更多时，会产出额外 20% 的黄金，当黄金储量达到 5 或更多时，会产出额外 20% 的石料。",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 50,
   "weapons": [
     {

@@ -9,7 +9,7 @@
   "civs": [
     "by"
   ],
-  "description": "Harvestable Food source. Use a Villager to gather Food from the Olive Grove.\nOnly one Villager can work each Olive Grove.\nByzantine Villagers gather Olive Oil equal to 20% of Food gathered.",
+  "description": "Harvestable Food source. Use a Villager to gather Food from the Olive Grove.\nOnly one Villager can work each Olive Grove.\nByzantine Villagers gather Olive Oil equal to 15% of Food gathered.",
   "classes": [
     "building",
     "farm",
@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/olive-grove-1.png",
+  "nameCN": "橄榄树林",
+  "descriptionCN": "可收获的食物来源。用一名村民从橄榄树林采集食物。\n每个橄榄树林只能有一名村民工作。\n拜占庭的村民能采集橄榄油，采集的数量相当于食物采集的 15%。",
+  "displayClassesCN": [
+    "食物来源、建筑"
+  ],
   "hitpoints": 300,
   "weapons": [],
   "armor": [

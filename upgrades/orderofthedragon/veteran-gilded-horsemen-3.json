@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-gilded-horsemen-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将镀金骑手升级为老练镀金骑手。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

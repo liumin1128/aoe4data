@@ -46,6 +46,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/kings-palace-2.png",
+  "nameCN": "王宫",
+  "descriptionCN": "可作为城镇中心使用。村民的生产速度 +10%。",
+  "displayClassesCN": [
+    "第三时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

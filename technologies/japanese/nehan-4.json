@@ -37,6 +37,11 @@
     "temple-of-equality"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/nehan-4.png",
+  "nameCN": "涅槃",
+  "descriptionCN": "将佛教皈依升级为涅槃皈依，其冷却缩短 25%，并在施放时附近盟友单位移动速度额外 +25%。",
+  "displayClassesCN": [
+    "佛教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

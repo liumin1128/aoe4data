@@ -33,6 +33,11 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/khan-and-torguuds-1.png",
+  "nameCN": "汗与土尔扈特",
+  "descriptionCN": "使汗与土尔扈特的成本 -20%，并使其生命值 +30。",
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "effects": [
     {
       "property": "hitpoints",

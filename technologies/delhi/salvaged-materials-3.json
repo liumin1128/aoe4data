@@ -34,5 +34,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/salvaged-materials-3.png",
+  "nameCN": "回收材料",
+  "descriptionCN": "巴格拉战船击杀敌方单位时恢复 30 生命值。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

@@ -50,6 +50,11 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/heated-shot-4.png",
+  "nameCN": "加热射击",
+  "descriptionCN": "步弓手船箭点燃敌方战舰，造成持续伤害。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

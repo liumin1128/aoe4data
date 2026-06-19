@@ -41,6 +41,11 @@
     "oda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/units/tanegashima-ashigaru-levy-3.png",
+  "nameCN": "火绳枪足轻征兵",
+  "descriptionCN": "强大的远程步兵，擅长对付拥有护甲的单位。\n+ 高伤害\n- 高成本\n- 移动速度较慢\n- 会受到骑兵克制",
+  "displayClassesCN": [
+    "远程火药步兵"
+  ],
   "hitpoints": 90,
   "weapons": [
     {

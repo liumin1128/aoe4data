@@ -35,6 +35,11 @@
     "market"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/merchant-guilds-4.png",
+  "nameCN": "商人公会",
+  "descriptionCN": "活跃商人每 6 秒产生 1 黄金。",
+  "displayClassesCN": [
+    "贸易科技"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

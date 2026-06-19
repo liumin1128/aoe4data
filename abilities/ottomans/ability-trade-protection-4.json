@@ -26,6 +26,9 @@
     "sea-gate-castle"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-trade-protection-1.png",
+  "nameCN": "贸易保护",
+  "descriptionCN": "靠近城堡的商人及商船移动速度 +30%，护甲 +8 ，持续 20 秒。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 15,
   "effects": [

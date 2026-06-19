@@ -33,5 +33,10 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stone-armies-3.png",
+  "nameCN": "石料军队",
+  "descriptionCN": "黄金帐篷能够以折扣后的石料成本快速生产独特单位，土尔扈特石料成本和生产速度 -20%，并且罗斯贡品升级为增强的护甲和一把新月战斧。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": []
 }

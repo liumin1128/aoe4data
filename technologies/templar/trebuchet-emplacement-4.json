@@ -48,5 +48,10 @@
     "fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/trebuchet-emplacement-4.png",
+  "nameCN": "巨型投石机炮台",
+  "descriptionCN": "为此建筑添加一座防御性巨型投石机炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": []
 }

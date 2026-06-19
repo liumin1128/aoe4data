@@ -51,6 +51,11 @@
     "sea-gate-castle"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/springald-emplacement-3.png",
+  "nameCN": "扭力弩炮炮台",
+  "descriptionCN": "为此建筑添加一座防御型扭力弩炮炮台。",
+  "displayClassesCN": [
+    "武器炮台"
+  ],
   "effects": [
     {
       "property": "unknown",

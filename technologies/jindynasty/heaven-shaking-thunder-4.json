@@ -33,5 +33,10 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/heaven-shaking-thunder-4.png",
+  "nameCN": "震天雷",
+  "descriptionCN": "爆破手和风暴长矛发出的雷鸣声可吓退敌方骑兵，让附近骑兵造成的伤害 -20%，持续 5 秒。",
+  "displayClassesCN": [
+    "火药科技"
+  ],
   "effects": []
 }

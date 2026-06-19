@@ -31,5 +31,10 @@
     "mount-lu-academy"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/single-whip-reform-1.png",
+  "nameCN": "一条鞭法",
+  "descriptionCN": "朝廷命官移动速度加快 50%。",
+  "displayClassesCN": [
+    "经济升级"
+  ],
   "effects": []
 }

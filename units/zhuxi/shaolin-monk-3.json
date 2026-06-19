@@ -46,6 +46,11 @@
     "shaolin-monastery"
   ],
   "icon": "https://data.aoe4world.com/images/units/shaolin-monk-3.png",
+  "nameCN": "少林僧侣",
+  "descriptionCN": "拥有强大战斗能力的僧侣。\n+ 擅长对抗远程单位\n+ 可治疗自己\n- 无法治疗其他单位",
+  "displayClassesCN": [
+    "战斗僧侣"
+  ],
   "hitpoints": 170,
   "weapons": [
     {

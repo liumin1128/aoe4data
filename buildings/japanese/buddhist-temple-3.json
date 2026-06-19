@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/buddhist-temple-3.png",
+  "nameCN": "佛寺",
+  "descriptionCN": "生产佛教僧侣并研究独特的佛教科技。从城堡时代 (第三时代) 开始，宗教单位可拾取圣物并将其放置在此建筑中以产生黄金。",
+  "displayClassesCN": [
+    "宗教建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

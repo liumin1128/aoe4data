@@ -48,6 +48,11 @@
     "shaolin-monastery"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/herbal-medicine-3.png",
+  "nameCN": "草药",
+  "descriptionCN": "宗教单位和治疗者的治疗速率 +60%。",
+  "displayClassesCN": [
+    "治疗科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

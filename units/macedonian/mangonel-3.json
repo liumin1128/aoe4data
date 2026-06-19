@@ -39,6 +39,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/mangonel-3.png",
+  "nameCN": "轻型投石车",
+  "descriptionCN": "可发射多枚炮弹对范围区域造成伤害。\n+ 擅长对付成群的单位\n- 必须架设才能开火",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 130,
   "weapons": [
     {

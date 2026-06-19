@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/imperial-hippodrome-1.png",
+  "nameCN": "帝国竞技场",
+  "descriptionCN": "可作为马厩使用。随着时间的推移，可免费训练强大的精锐侦察兵、骑手和瑞塔利。\n精锐提供的光环可以增加火把的伤害，增强骑兵的伤害，并激励步兵更快地移动。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

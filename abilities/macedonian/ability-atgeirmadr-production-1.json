@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-atgeirmadr-production-1.png",
+  "nameCN": "阿特盖尔生产",
+  "descriptionCN": "开启以派遣阿特盖尔增援",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "varangian",

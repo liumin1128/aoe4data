@@ -24,6 +24,9 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-mill-influence-1.png",
+  "nameCN": "磨坊影响力",
+  "descriptionCN": "随着时代提升，磨坊影响范围之内的农田采集速率 +20%/+25%/+30%/+30%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

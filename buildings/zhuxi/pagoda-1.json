@@ -28,12 +28,17 @@
     "gold": 0,
     "total": 150,
     "popcap": 0,
-    "time": 40
+    "time": 20
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/pagoda-1.png",
+  "nameCN": "宝塔",
+  "descriptionCN": "宗教单位可拾取圣物，并将其放置在宝塔中，即可每 60 秒生产 +100 黄金、+62 食物、+62 木材和 +25 石料。\n最多可建造 3 座宝塔。",
+  "displayClassesCN": [
+    "宗教建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

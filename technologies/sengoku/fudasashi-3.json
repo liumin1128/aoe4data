@@ -35,6 +35,11 @@
     "farmhouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fudasashi-3.png",
+  "nameCN": "札差",
+  "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
+  "displayClassesCN": [
+    "村民科技 3/3"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/dragon-pavilion-2.png",
+  "nameCN": "龙亭",
+  "descriptionCN": "为所有城镇中心免费提供一座猛安谋克据点，同时城镇中心自身附带一座猛安谋克据点。\n训练使者可享 33% 折扣，完成时会免费生成 1 个使者。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第三时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

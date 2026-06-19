@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-camel-support-1.png",
+  "nameCN": "骆驼支援",
+  "descriptionCN": "步兵在骆驼单位附近时可获得护甲。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 5,
   "effects": [

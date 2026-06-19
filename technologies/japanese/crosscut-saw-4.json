@@ -36,6 +36,11 @@
     "lumber-camp"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/crosscut-saw-4.png",
+  "nameCN": "横切锯",
+  "descriptionCN": "村民的木材采集速率 +15%，木材采集者运载量 +5。",
+  "displayClassesCN": [
+    "木材采集科技 3/3"
+  ],
   "effects": [
     {
       "property": "woodGatherRate",

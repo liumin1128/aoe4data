@@ -24,6 +24,9 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-age-ii-upgrades-1.png",
+  "nameCN": "第二时代升级",
+  "descriptionCN": "升级以发展到第二时代",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

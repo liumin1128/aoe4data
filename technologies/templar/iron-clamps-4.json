@@ -33,5 +33,10 @@
     "fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/iron-clamps-4.png",
+  "nameCN": "铁钳",
+  "descriptionCN": "铁钳可以强化城墙，使石墙和要塞受到火药攻击造成的伤害降低 20%。",
+  "displayClassesCN": [
+    "防御升级"
+  ],
   "effects": []
 }

@@ -37,6 +37,11 @@
     "wynguard-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/earls-retinue-4.png",
+  "nameCN": "伯爵侍从",
+  "descriptionCN": "生产一支由 6 名短矛骑兵和 2 名骑马步兵组成的军队。",
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

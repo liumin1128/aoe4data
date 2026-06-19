@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/knight-poleaxes-4.png",
+  "nameCN": "骑士长柄斧",
+  "descriptionCN": "骑士装备一把长柄斧，近战伤害增加 +4。",
+  "displayClassesCN": [
+    "骑士科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

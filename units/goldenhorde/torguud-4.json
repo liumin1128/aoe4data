@@ -46,7 +46,12 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/units/torguud-4.png",
-  "hitpoints": 300,
+  "nameCN": "精锐土尔扈特",
+  "descriptionCN": "花费昂贵的骑兵，具有高生命值、高近战护甲。擅长对付近战单位。在位于汗附近时，可以将伤害转移到自己身上来保护汗，并且可以在脱离战斗后治疗汗。\n+ 重型护甲\n+ 高生命值\n+ 随时代推进自动增强\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
+  "hitpoints": 280,
   "weapons": [
     {
       "name": "Mace",

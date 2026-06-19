@@ -33,5 +33,10 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/yam-network-trade-3.png",
+  "nameCN": "驿站网络贸易",
+  "descriptionCN": "黄金帐篷每 10 秒为每一座强化哨站产生 10 黄金，最多适用于 6 座强化哨站。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": []
 }

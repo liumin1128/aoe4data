@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/koka-township-1.png",
+  "nameCN": "甲贺城镇",
+  "descriptionCN": "可生产忍者间谍单位，擅长侦察、破坏和暗杀。完成后自动生产一个免费的忍者。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

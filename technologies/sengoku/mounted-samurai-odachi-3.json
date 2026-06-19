@@ -9,7 +9,7 @@
   "civs": [
     "sen"
   ],
-  "description": "Equip Mounted Samurai with an Odachi, a long sword that deals +4 bonus damage against infantry.",
+  "description": "Equip Mounted Samurai with an Odachi, a long sword that deals +3 bonus damage against infantry.",
   "classes": [
     "japanese_ha_sen_upgrade",
     "military_upgrade",
@@ -34,5 +34,10 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mounted-samurai-odachi-3.png",
+  "nameCN": "骑马日本武士大太刀",
+  "descriptionCN": "为骑马日本武士装备一把大太刀，这是一把长剑，会对步兵造成 +3 的额外伤害。",
+  "displayClassesCN": [
+    "武田氏族科技"
+  ],
   "effects": []
 }

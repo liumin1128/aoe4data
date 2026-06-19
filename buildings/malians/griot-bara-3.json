@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/griot-bara-3.png",
+  "nameCN": "说书人巴拉鼓",
+  "descriptionCN": "花费 300 黄金开展一次节庆，可全局提升食物采集率、单位生产速度或火炬及攻城攻击所造成的伤害。每次可以激活一次节庆。",
+  "displayClassesCN": [
+    "第四时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

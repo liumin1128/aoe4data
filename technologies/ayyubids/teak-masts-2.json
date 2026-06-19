@@ -36,6 +36,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/teak-masts-2.png",
+  "nameCN": "柚木桅杆",
+  "descriptionCN": "军事船只的生命值增加 +10%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

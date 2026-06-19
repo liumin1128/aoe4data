@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/rule-of-templars-3.png",
+  "nameCN": "圣殿骑士的规矩",
+  "descriptionCN": "附近的每个冲锋重装骑兵的冲锋伤害 +2。",
+  "displayClassesCN": [
+    "骑士科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

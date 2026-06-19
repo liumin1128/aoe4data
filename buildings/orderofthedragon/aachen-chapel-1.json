@@ -40,6 +40,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/aachen-chapel-1.png",
+  "nameCN": "亚琛教堂",
+  "descriptionCN": "鼓舞大范围内所有村民，使他们的采集速率 +15%。\n可作为所有资源类型的存放点使用。",
+  "displayClassesCN": [
+    "第二时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

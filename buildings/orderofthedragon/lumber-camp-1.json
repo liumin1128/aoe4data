@@ -35,6 +35,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/lumber-camp-1.png",
+  "nameCN": "伐木场",
+  "descriptionCN": "村民可将木材存放于这座建筑。可研究提升木材采集效率的科技。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

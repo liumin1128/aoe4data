@@ -28,12 +28,17 @@
     "gold": 0,
     "total": 150,
     "popcap": 0,
-    "time": 13
+    "time": 7
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/blacksmith-2.png",
+  "nameCN": "铁匠铺",
+  "descriptionCN": "可研究强化步兵和骑兵的科技。\n每次完成科技研究都会产生税。",
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

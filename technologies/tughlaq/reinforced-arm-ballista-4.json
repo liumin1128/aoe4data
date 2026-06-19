@@ -30,6 +30,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/reinforced-arm-ballista-4.png",
+  "nameCN": "强化武装弩炮",
+  "descriptionCN": "将弩炮大象升级为精锐弩炮大象",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

@@ -37,6 +37,11 @@
     "wynguard-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/wynguard-army-4.png",
+  "nameCN": "温嘉德军队",
+  "descriptionCN": "生产一支军队，包括 2 名长矛兵、2 名弩手和 1 个巨型投石机。",
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

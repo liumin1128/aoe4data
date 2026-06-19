@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-path-of-the-archer-1.png",
+  "nameCN": "步弓手之路",
+  "descriptionCN": "贞德选择了步弓手之路，装备弓后能从远处攻击敌人。\n获得神圣之箭能力，可对单一目标造成高伤害。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

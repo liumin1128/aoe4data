@@ -36,5 +36,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/trapezites-2.png",
+  "nameCN": "纵火者",
+  "descriptionCN": "侦察兵使附近单位的火炬伤害 +11254075%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": []
 }

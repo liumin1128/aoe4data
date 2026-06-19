@@ -37,6 +37,11 @@
     "kura-storehouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/takezaiku-2.png",
+  "nameCN": "竹细工",
+  "descriptionCN": "村民运载量 +3，移动速度 +7%，浆果采集速率 +25%。",
+  "displayClassesCN": [
+    "村民科技 2/3"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

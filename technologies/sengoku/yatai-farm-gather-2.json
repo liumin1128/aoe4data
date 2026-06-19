@@ -34,6 +34,11 @@
     "matsuri"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/yatai-farm-gather-2.png",
+  "nameCN": "屋台农田采集",
+  "descriptionCN": "屋台可以从附近的农田收集食物，每块农田都提供 +4 食物/分钟。最大速率可增加至 80 食物/分钟。",
+  "displayClassesCN": [
+    "屋台科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bolt-magazines-3.png",
+  "nameCN": "弩箭匣",
+  "descriptionCN": "更先进的箭匣可以让诸葛弩手发射射程 +0.5 的穿刺弩箭，对轻型近战步兵造成的伤害 +1。",
+  "displayClassesCN": [
+    "诸葛弩手科技"
+  ],
   "effects": []
 }

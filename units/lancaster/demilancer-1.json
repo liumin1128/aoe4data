@@ -29,6 +29,11 @@
     "lancaster-castle"
   ],
   "icon": "https://data.aoe4world.com/images/units/demilancer-1.png",
+  "nameCN": "老练短矛骑兵",
+  "descriptionCN": "独特的重装骑兵，拥有中等伤害和耐力。擅长对付前线单位。\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

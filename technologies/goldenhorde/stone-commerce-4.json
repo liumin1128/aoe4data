@@ -33,6 +33,11 @@
     "market"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stone-commerce-4.png",
+  "nameCN": "石料商业",
+  "descriptionCN": "商人交易时供应的石料 +10%。",
+  "displayClassesCN": [
+    "贸易科技"
+  ],
   "effects": [
     {
       "property": "unknown",

@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/market-2.png",
+  "nameCN": "市场",
+  "descriptionCN": "可生产商人及买卖资源。",
+  "displayClassesCN": [
+    "经济建筑、交易站"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

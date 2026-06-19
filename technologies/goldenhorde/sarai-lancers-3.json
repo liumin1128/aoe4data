@@ -33,5 +33,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/sarai-lancers-3.png",
+  "nameCN": "萨莱长矛骑兵",
+  "descriptionCN": "每次攻击怯薛骑兵恢复的生命值 +1，攻击速度 +10%。土尔扈特获得的治疗攻击效果与怯薛骑兵相同。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

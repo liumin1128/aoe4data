@@ -34,5 +34,10 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/counterweight-defenses-4.png",
+  "nameCN": "配重式防御",
+  "descriptionCN": "所有巨型投石机武器获得 +1 额外弹药。",
+  "displayClassesCN": [
+    "巨型投石机科技"
+  ],
   "effects": []
 }

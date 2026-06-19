@@ -30,5 +30,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/scale-armor-3.png",
+  "nameCN": "鳞甲",
+  "descriptionCN": "镀金步弓手的远程护甲 +3。",
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "effects": []
 }

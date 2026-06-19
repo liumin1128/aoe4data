@@ -34,5 +34,10 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/prolonged-siege-4.png",
+  "nameCN": "长期围攻",
+  "descriptionCN": "攻城单位处于架设状态的时间每延长 10 秒，其造成的伤害便会提升 10% (最多可提升至 50%)。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": []
 }

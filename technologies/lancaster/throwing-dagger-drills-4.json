@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/throwing-dagger-drills-4.png",
+  "nameCN": "投掷匕首操练",
+  "descriptionCN": "伯爵的护卫在投掷时会获得额外的匕首，这些匕首可以造成少量的范围伤害。\n伯爵的护卫现在可以投掷 2 把匕首，但是准确度较低。",
+  "displayClassesCN": [
+    "伯爵护卫科技"
+  ],
   "effects": []
 }

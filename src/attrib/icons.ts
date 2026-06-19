@@ -56,7 +56,7 @@ export async function copyIcon(sourcePath, relativeIconPath, overwrite = false) 
   const sourceExists = sourcePath && await fs.access(sourcePath).then(() => true).catch(() => false);
   const destExists = await fs.access(iconPath).then(() => true).catch(() => false);
 
-  if (overwrite || !destExists || (!overwrite && sourceExists && destExists && await imageDifferent(sourcePath, iconPath))) {
+  if (sourceExists && (overwrite || !destExists || (!overwrite && destExists && await imageDifferent(sourcePath, iconPath)))) {
     console.log(`[Info] Copying icon '${sourcePath}' to '${iconPath}'`);
     const dirName = path.dirname(iconPath);
     if (!await fs.access(dirName).then(() => true).catch(() => false)) {

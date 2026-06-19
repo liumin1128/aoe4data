@@ -1,7 +1,10 @@
 {
   "name": "Jin Dynasty",
+  "nameCN": "金朝",
   "description": "The Jin Dynasty emerges as a formidable military power in northern China. Mounted Villagers move swiftly to claim new resources and land. Seize opportunities and rally hosts of cavalry at a moment's notice to rout enemies and crush opposition. Bribe weak-willed enemies into desertion and establish profitable Tributary States.",
+  "descriptionCN": "金朝是中国北方崛起的一股强大军事力量。乡骑移动速度非常快，能够抢先夺取新的资源和土地。抓住机遇，随时集结大量骑兵击溃敌军并粉碎反抗力量。收买意志薄弱的敌军逃兵，并建立起收入可观的进贡国。",
   "classes": "Cavalry, Mounted Villagers, Tributaries",
+  "classesCN": "骑兵、乡骑、进贡国",
   "overview": [
     {
       "title": "Civilization Bonuses",
@@ -17,7 +20,7 @@
     },
     {
       "title": "Grasslands",
-      "description": "Select from 3 locations upon completing a Landmark to build Grasslands, which gradually spawn up to 5 Horses in their field. Horses increase the health of all Melee Cavalry units by +2 and all Ranged Cavalry by +1, or can be used by Stables within the Influence of the Grasslands to quickly train any mounted unit. Grasslands produce a new Horse every 90/60/45 seconds in the Feudal/Castle/Imperial Ages."
+      "description": "Select from 3 locations upon completing a Landmark to build Grasslands, which gradually spawn up to 5 Horses in their field. Horses increase the health of all Melee Cavalry units by +2 and all Ranged Cavalry by +1, or can be used by Stables within the Influence of the Grasslands to quickly train any mounted unit. Grasslands produce a new Horse every 75/60/45 seconds in the Feudal/Castle/Imperial Ages."
     },
     {
       "title": "Jurchen Legacy",
@@ -46,6 +49,53 @@
         "Mohe Tribesman - Mounted archer replacement. Exceptional at hit and run tactics against light melee infantry.",
         "Zhanma Swordsman - Armored Infantry available only in Imperial Age, deals impressive melee damage with bonus against cavalry.",
         "Meng'an Mouke Defenders - Meng'an Mouke & Mounted Grenadiers spawn from unique emplacements to automatically defend Jin territory."
+      ]
+    }
+  ],
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "最多可训练 20 名乡骑，他们的采集和移动速度比标准村民快得多。",
+        "每当进入新时代，从三个位置中进行选择即可开始建造草原。",
+        "在草原附近建造战争马厩，可使用马匹快速生产骑兵。",
+        "使者可建立进贡关系和收买敌方士兵。",
+        "进贡国可提供食物、使商人收入 +15%，使乡骑的建造上限 +3。",
+        "猛安谋克据点可召集守军来保护附近土地。",
+        "进入封建时代后可解锁弓床弩，能取代扭力弩炮。"
+      ]
+    },
+    {
+      "title": "草原",
+      "description": "完成地标后，可从 3 个位置中进行选择来建造草原，草原会逐渐在田地里生成最多 5 匹马。马匹可使所有近战骑兵单位的生命值 +2，使所有远程骑兵的生命值 +1，或者可由草原影响范围内的马厩用来快速训练任何骑马单位。在封建/城堡/帝王时代，草原每隔 75/60/45 秒产生一匹新马。"
+    },
+    {
+      "title": "女真遗产",
+      "description": "游牧世系最多允许生产 20 的乡骑，其采集、建造和移动速度大幅提升，但成本也更高。建立进贡国并设立贸易站，可将最大建造上限提升 +3。"
+    },
+    {
+      "title": "猛安谋克",
+      "description": "使用猛安谋克据点升级防御建筑，可派出守军保护附近的土地。此外，据点还能缓慢地产生守军，补充损失的兵力。"
+    },
+    {
+      "title": "使者",
+      "description": "最多可训练 2 个拥有两种强大技能的使者。\n在中立贸易聚落建立进贡关系，可获得忠诚的盟友，盟友能代表你采集食物，使乡骑的建造上限 +3，商人的收入 +15%。\n成群收买敌方单位，将敌人变成中立战士，他们能攻击挡在前面的任何目标。"
+    },
+    {
+      "title": "攻城专精",
+      "description": "在封建时代建造机械车间，可提前获得弓床弩——扭力弩炮的替代升级款，可同时发射两枚投射物攻击敌阵。弓床弩位置取代所有防御建筑的扭力弩炮炮台。"
+    },
+    {
+      "title": "独特单位",
+      "list": [
+        "乡骑 - 采集、建造和移动速度都比标准村民快得多的独特村民。",
+        "使者 - 辅助单位，可收买敌方士兵和建立进贡国。",
+        "铁浮屠 - 全身披甲的重装骑兵，每次攻击时造成范围伤害。",
+        "弓床弩 - 扭力弩炮的替代单位，能一次发射一连串箭矢，进入封建时代后解锁。",
+        "爆破手 - 昂贵手铳的替代单位，可对单个目标造成高伤害。",
+        "靺鞨族人 - 骑射手的替代单位。非常善于利用游击突袭战术对付轻型近战步兵。",
+        "斩马刀 - 只能在帝王时代解锁的装甲步兵，可造成相当高的近战伤害，且对抗骑兵时有伤害加成。",
+        "猛安谋克守军 - 从独特据点生成的猛安谋克和骑马掷弹兵，可自动守卫金朝领土。"
       ]
     }
   ],

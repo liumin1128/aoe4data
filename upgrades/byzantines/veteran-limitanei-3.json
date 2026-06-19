@@ -35,5 +35,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-limitanei-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将坚韧边防军升级为老练边防军",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

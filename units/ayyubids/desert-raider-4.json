@@ -45,6 +45,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/desert-raider-4.png",
+  "nameCN": "精锐沙漠掠夺者",
+  "descriptionCN": "可切换远程和近战攻击的全面型骑兵单位。\n+ 远程模式擅长对付轻型步兵\n+ 近战模式擅长对付骑兵\n- 高成本\n- 不擅长对付远程单位",
+  "displayClassesCN": [
+    "轻型远程与近战骆驼"
+  ],
   "hitpoints": 175,
   "weapons": [
     {

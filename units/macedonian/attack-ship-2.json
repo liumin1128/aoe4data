@@ -45,6 +45,11 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/units/attack-ship-2.png",
+  "nameCN": "攻击船",
+  "descriptionCN": "配备船侧弩炮的船只。\n+ 很擅长对付步弓手船\n- 操控性较低",
+  "displayClassesCN": [
+    "扭力弩炮船"
+  ],
   "hitpoints": 450,
   "weapons": [
     {

@@ -48,6 +48,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siege-engineering-2.png",
+  "nameCN": "攻城工程学",
+  "descriptionCN": "近战和远程步兵可以在战场中建造攻城塔和攻城锤。",
+  "displayClassesCN": [
+    "攻城单位解锁"
+  ],
   "effects": [
     {
       "property": "unknown",

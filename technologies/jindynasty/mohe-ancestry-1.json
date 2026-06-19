@@ -33,5 +33,10 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mohe-ancestry-1.png",
+  "nameCN": "靺鞨世系",
+  "descriptionCN": "村民狩猎肉类采集速率 +20%。",
+  "displayClassesCN": [
+    "狩猎科技"
+  ],
   "effects": []
 }

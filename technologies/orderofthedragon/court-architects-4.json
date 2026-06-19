@@ -49,6 +49,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/court-architects-4.png",
+  "nameCN": "宫廷建筑师",
+  "descriptionCN": "资助最优秀的建筑工可使所有建筑的生命值 +30%。",
+  "displayClassesCN": [
+    "建筑科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

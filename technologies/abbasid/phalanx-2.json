@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/phalanx-2.png",
+  "nameCN": "方阵",
+  "descriptionCN": "长矛兵的攻击范围 +100%。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

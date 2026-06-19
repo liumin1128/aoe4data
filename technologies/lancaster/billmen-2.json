@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/billmen-2.png",
+  "nameCN": "钩镰兵",
+  "descriptionCN": "装备了强化钩矛的长矛兵，攻击时使敌人的护甲 -1。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

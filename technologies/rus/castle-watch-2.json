@@ -32,6 +32,11 @@
     "wooden-fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/castle-watch-1.png",
+  "nameCN": "城堡瞭望台",
+  "descriptionCN": "将这座木制要塞的视野范围提升 6 格。",
+  "displayClassesCN": [
+    "视野炮台"
+  ],
   "effects": [
     {
       "property": "lineOfSight",

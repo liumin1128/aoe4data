@@ -36,6 +36,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/liquid-explosives-3.png",
+  "nameCN": "液体炸药",
+  "descriptionCN": "燃烧船可对爆炸范围内的所有敌人造成全值伤害。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "unknown",

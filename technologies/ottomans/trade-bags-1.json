@@ -32,5 +32,10 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/trade-bags-1.png",
+  "nameCN": "交易袋",
+  "descriptionCN": "商人从苏丹哈尼驿站贸易网络收集及获得的黄金量增加 +40%。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": []
 }

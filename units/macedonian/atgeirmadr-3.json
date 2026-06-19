@@ -48,6 +48,11 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/units/atgeirmadr-3.png",
+  "nameCN": "老练阿特盖尔",
+  "descriptionCN": "最适合用来对付骑兵单位的步兵。附近有瓦兰吉单位时，攻击速度更快。\n+ 反骑兵专家\n+ 可对象兵造成额外伤害\n- 不擅长对付装甲步兵\n- 会受到弓兵克制",
+  "displayClassesCN": [
+    "轻型近战瓦兰吉步兵"
+  ],
   "hitpoints": 120,
   "weapons": [
     {

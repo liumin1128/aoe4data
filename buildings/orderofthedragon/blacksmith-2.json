@@ -34,6 +34,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/blacksmith-2.png",
+  "nameCN": "铁匠铺",
+  "descriptionCN": "可研究强化步兵和骑兵的科技。",
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

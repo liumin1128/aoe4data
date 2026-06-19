@@ -9,7 +9,7 @@
   "civs": [
     "mo"
   ],
-  "description": "Must be built on a Stone Outcropping.\nHarvests 70/100/130/160 Stone per minute by Age. Houses unique Mongol technologies.\nConstructing a new Ovoo will destroy the prior one.",
+  "description": "Must be built on a Stone Outcropping.\nHarvests 70/100/140/170 Stone per minute by Age. Houses unique Mongol technologies.\nConstructing a new Ovoo will destroy the prior one.",
   "classes": [
     "building",
     "ovoo",
@@ -33,6 +33,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/ovoo-1.png",
+  "nameCN": "敖包",
+  "descriptionCN": "必须建在石料露头上。\n随着时代提升，每分钟采集 70/100/140/170 石料。可研究独特蒙古科技。\n建造新敖包会摧毁旧有的敖包。",
+  "displayClassesCN": [
+    "影响与科技建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

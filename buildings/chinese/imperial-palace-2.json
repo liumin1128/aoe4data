@@ -33,12 +33,17 @@
     "gold": 600,
     "total": 1800,
     "popcap": 0,
-    "time": 110
+    "time": 55
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/imperial-palace-2.png",
+  "nameCN": "皇宫",
+  "descriptionCN": "一座间谍地标，带有覆盖 28 格的视野范围以及皇家密探能力。激活后可显示敌方工人位置 15 秒。\n朝廷命官可将税金存放于这座建筑。",
+  "displayClassesCN": [
+    "第三时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

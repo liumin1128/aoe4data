@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-warrior-scout-3.png",
+  "nameCN": "老练战士侦察兵",
+  "descriptionCN": "将战士侦察兵升级为老练战士侦察兵",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "unlocks": ""
 }

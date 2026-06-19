@@ -9,7 +9,7 @@
   "civs": [
     "by"
   ],
-  "description": "Charge through enemy units in your path, dealing 12 damage to each one.",
+  "description": "Charge through enemy units in your path, dealing 10 damage to each one.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-trample-1.png",
+  "nameCN": "践踏",
+  "descriptionCN": "向路径中的敌方单位发起冲锋，对每个单位造成 10 点伤害。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 7.5,
   "cooldown": 25,
@@ -35,7 +38,7 @@
         ]
       },
       "effect": "change",
-      "value": 12,
+      "value": 10,
       "type": "ability"
     }
   ]

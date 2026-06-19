@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-camel-unease-1.png",
+  "nameCN": "骆驼惊吓",
+  "descriptionCN": "骆驼可使敌方骑兵单位造成的伤害降低 20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 5,
   "effects": [

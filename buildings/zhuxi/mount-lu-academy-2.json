@@ -32,12 +32,17 @@
     "gold": 600,
     "total": 1800,
     "popcap": 0,
-    "time": 220
+    "time": 110
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mount-lu-academy-1.png",
+  "nameCN": "白鹿洞书院",
+  "descriptionCN": "朝廷命官可以频繁征税，还会收取 20% 的税款用于食物的开销。\n包含特殊升级，可以大幅强化朝廷命官单位。",
+  "displayClassesCN": [
+    "第三时代：主动地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

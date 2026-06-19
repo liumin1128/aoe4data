@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-gunpowder-monarch-1.png",
+  "nameCN": "火药君主",
+  "descriptionCN": "贞德的号召能力现可在战场上召唤她选择的 3 位同伴和一门威力巨大的加农炮。\n获得勇气鼓舞终极能力，可以大幅提升附近盟友的攻击速度。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

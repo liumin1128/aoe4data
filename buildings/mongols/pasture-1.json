@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/pasture-1.png",
+  "nameCN": "牧场",
+  "descriptionCN": "每 140 秒自动生产一只可收集的绵羊。如果生产的绵羊太多且没有被收集，则生产将停止。",
+  "displayClassesCN": [
+    "食物生产建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

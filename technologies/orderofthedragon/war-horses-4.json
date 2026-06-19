@@ -30,6 +30,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/war-horses-4.png",
+  "nameCN": "战马",
+  "descriptionCN": "镀金骑士冲锋时受到的伤害 -25%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": [
     {
       "property": "unknown",

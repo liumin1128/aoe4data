@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-path-of-the-warrior-1.png",
+  "nameCN": "战士之路",
+  "descriptionCN": "贞德选择了战士之路，装备双手剑后能在近距离对抗敌人。\n获得神圣愤怒能力，可在贞德周围造成有效范围伤害。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

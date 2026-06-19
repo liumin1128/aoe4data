@@ -29,12 +29,17 @@
     "gold": 0,
     "total": 75,
     "popcap": 0,
-    "time": 3
+    "time": 2
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/farm-1.png",
+  "nameCN": "农田",
+  "descriptionCN": "可采集的食物来源，利用村民即可从农田采集食物。\n每块农田只能派遣一位村民耕作。",
+  "displayClassesCN": [
+    "食物来源、建筑"
+  ],
   "hitpoints": 300,
   "weapons": [],
   "armor": [

@@ -28,6 +28,11 @@
     "fortified-outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/glorious-charge-3.png",
+  "nameCN": "荣光冲锋",
+  "descriptionCN": "为哨站添加“荣光冲锋”能力。此能力在启用时会产生一个时长为 10 秒的计时器，并在此期间向所有玩家显示哨站及其附近区域。当计时器结束时，哨站附近的所有盟友单位将获得 +50% 移动速度，受到的伤害 -15%，持续 30 秒。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

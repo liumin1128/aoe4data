@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/sultanhani-trade-network-1.png",
+  "nameCN": "苏丹哈尼驿站贸易网络",
+  "descriptionCN": "可作为市场使用。自带 3 个商人驻守其中。每个驻守的商人每分钟会生产 +26 黄金。最多可驻守 10 个商人。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

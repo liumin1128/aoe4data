@@ -9,7 +9,7 @@
   "civs": [
     "ay"
   ],
-  "description": "Garrison inside of a military production building to grant +20% health to newly trained units. Cannot garrison in Docks.",
+  "description": "Garrison inside of a military production building to grant +25% health to newly trained units. Cannot garrison in Docks.",
   "classes": [],
   "displayClasses": [],
   "costs": {
@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-atabeg-supervision-1.png",
+  "nameCN": "阿塔贝格监管",
+  "descriptionCN": "在军事生产建筑内驻扎可使新训练单位生命值 +25%。不能在码头驻扎。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "effects": [

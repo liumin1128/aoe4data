@@ -28,6 +28,11 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/khan-debuff-arrow-2.png",
+  "nameCN": "汗减益箭矢",
+  "descriptionCN": "汗可发射一支信号箭，让 10 格范围内的区域变得可见，并让目标区域内的敌人受到的伤害 +10%，持续 10 秒。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

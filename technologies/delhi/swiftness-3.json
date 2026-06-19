@@ -35,6 +35,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/swiftness-3.png",
+  "nameCN": "迅捷",
+  "descriptionCN": "学者移动速度 +50%。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

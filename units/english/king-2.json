@@ -44,6 +44,11 @@
     "abbey-of-kings"
   ],
   "icon": "https://data.aoe4world.com/images/units/king-2.png",
+  "nameCN": "国王",
+  "descriptionCN": "一个强大的国王，一个强大的重骑兵单位。治疗附近脱离战斗的单位，每 1 秒恢复其 2 生命值。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 220,
   "weapons": [
     {

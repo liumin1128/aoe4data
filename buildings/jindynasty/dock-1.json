@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/dock-1.png",
+  "nameCN": "码头",
+  "descriptionCN": "生产海军单位。\n自动修理附近受损的海军单位。\n最多可容纳三艘渔船。",
+  "displayClassesCN": [
+    "军事和经济建筑、交易站"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

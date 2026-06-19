@@ -30,6 +30,11 @@
     "meinwerk-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bodkin-bolts-4.png",
+  "nameCN": "锥状弩箭",
+  "descriptionCN": "镀金弩手对攻城单位造成的伤害 +20。",
+  "displayClassesCN": [
+    "弩箭科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

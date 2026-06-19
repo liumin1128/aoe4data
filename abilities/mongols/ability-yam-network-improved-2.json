@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-yam-1.png",
+  "nameCN": "驿站",
+  "descriptionCN": "速度提升 25%。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "moveSpeed",

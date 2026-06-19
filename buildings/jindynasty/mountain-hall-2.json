@@ -44,6 +44,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mountain-hall-2.png",
+  "nameCN": "山门殿",
+  "descriptionCN": "可作为修道院使用，且修道院费用 -50%。\n通过采集修道院附近的资源，可产生业力。损失单位会使业力减少。业力达到上限后，可获得四大天王的祝福，持续 60 秒。\n- 建筑每秒恢复 50 生命值。\n- 村民的农田采集速率 +75%。\n- 圣物可额外产生 +300% 黄金。\n- 防御工事攻击速度 +50%。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

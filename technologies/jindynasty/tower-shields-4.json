@@ -33,6 +33,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tower-shields-4.png",
+  "nameCN": "塔盾",
+  "descriptionCN": "装备高塔盾让武士的远程护甲 +3。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

@@ -35,12 +35,17 @@
     "gold": 200,
     "total": 600,
     "popcap": 0,
-    "time": 95
+    "time": 48
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/barbican-of-the-sun-1.png",
+  "nameCN": "烈日瓮城",
+  "descriptionCN": "驻军时可发射远程手铳并添加射箭槽。可升级武器并在浓密森林内提供视野。\n朝廷命官可将税金存放于这座建筑。",
+  "displayClassesCN": [
+    "第二时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

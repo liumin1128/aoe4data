@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/pagoda-forest-3.png",
+  "nameCN": "银山塔林",
+  "descriptionCN": "每 30 秒在附近生成一个小型银山塔林，上限为 15 个。每个小型银山塔林每 30 秒产生 20 木材，并让附近敌人的移动速度 -20%。\n最多可驻扎 3 名僧侣，以释放一次大型连锁招降；每多驻扎一名僧侣，招降效果都会增强。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第四时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-mehter-speed-bonus-1.png",
+  "nameCN": "奥斯曼军乐队速度加成",
+  "descriptionCN": "移动速度加成 +15%",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "moveSpeed",

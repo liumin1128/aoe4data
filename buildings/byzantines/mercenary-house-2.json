@@ -24,11 +24,11 @@
   "unique": true,
   "costs": {
     "food": 0,
-    "wood": 150,
+    "wood": 100,
     "stone": 0,
     "gold": 0,
     "oliveoil": 0,
-    "total": 150,
+    "total": 100,
     "popcap": 0,
     "time": 30
   },
@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mercenary-house-2.png",
+  "nameCN": "雇佣兵之家",
+  "descriptionCN": "购买了雇佣合同后，可生产采集橄榄油的雇佣兵单位。每个玩家只能购买一份合同。\n此外，将该建筑物放置在贸易站附近，还可以解锁另一组雇佣兵，使其生产速度提高 +50%。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

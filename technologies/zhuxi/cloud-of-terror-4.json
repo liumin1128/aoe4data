@@ -34,6 +34,11 @@
     "zhu-xis-library"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cloud-of-terror-4.png",
+  "nameCN": "恐怖之云",
+  "descriptionCN": "增加手推炮的范围伤害。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": [
     {
       "property": "unknown",

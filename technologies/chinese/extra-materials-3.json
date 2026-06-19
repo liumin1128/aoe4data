@@ -33,6 +33,11 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/extra-materials-3.png",
+  "nameCN": "额外材料",
+  "descriptionCN": "塔和城堡会修理附近的城墙和城门，每秒恢复 25 生命值。",
+  "displayClassesCN": [
+    "箭塔和哨站科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-knights-or-lancers-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将骑士或长矛骑兵升级为精锐骑士或精锐长矛骑兵。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

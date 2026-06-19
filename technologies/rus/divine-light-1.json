@@ -35,6 +35,11 @@
     "monastery"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/divine-light-1.png",
+  "nameCN": "神圣之光",
+  "descriptionCN": "圣者的祝福持续时间 +10 秒。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

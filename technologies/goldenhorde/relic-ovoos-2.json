@@ -33,5 +33,10 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/relic-ovoos-2.png",
+  "nameCN": "圣物敖包",
+  "descriptionCN": "萨满可以消耗持有的圣物来建造敖包，这样就可以突破建造上限。敖包石料采集速率 +20%。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": []
 }

@@ -24,6 +24,9 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-defensive-aura-edict-2.png",
+  "nameCN": "防御光环法令",
+  "descriptionCN": "启用后，强化哨站附近单位的生命值 +10%。\n只能启用一个法令。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "edict_toggle",

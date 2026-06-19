@@ -50,6 +50,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/incendiary-arrows-4.png",
+  "nameCN": "燃烧箭",
+  "descriptionCN": "易燃弹药可为非火药远程单位在攻击建筑物时提供攻城箭矢或弩箭，并使其伤害 +20%。",
+  "displayClassesCN": [
+    "远程科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

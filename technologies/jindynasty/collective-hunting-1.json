@@ -33,5 +33,10 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/collective-hunting-1.png",
+  "nameCN": "集体狩猎",
+  "descriptionCN": "当地部落会献上一些驯鹿作为贡品。在你的城镇中心范围内可生成 4 头驯鹿。",
+  "displayClassesCN": [
+    "狩猎科技"
+  ],
   "effects": []
 }

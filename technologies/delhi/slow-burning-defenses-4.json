@@ -34,6 +34,11 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/slow-burning-defenses-4.png",
+  "nameCN": "缓燃防御",
+  "descriptionCN": "石墙塔、城堡和哨站的火焰护甲 +10。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": [
     {
       "property": "fireArmor",

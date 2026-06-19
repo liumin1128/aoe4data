@@ -48,5 +48,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/naval-arrowslits-2.png",
+  "nameCN": "海军射箭槽",
+  "descriptionCN": "在这个码头上添加一个防御型射箭槽，只会对船只作出攻击。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

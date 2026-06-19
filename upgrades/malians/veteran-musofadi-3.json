@@ -34,5 +34,10 @@
     "farimba-garrison"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-musofadi-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将穆索法迪兵升级为老练穆索法迪兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

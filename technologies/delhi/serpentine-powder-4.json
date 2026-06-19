@@ -36,5 +36,10 @@
     "madrasa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/serpentine-powder-4.png",
+  "nameCN": "蛇纹石粉末",
+  "descriptionCN": "使用新型火药，火枪兵对近战步兵的伤害 +5，并在武器开火后短暂提高移动速度。",
+  "displayClassesCN": [
+    "火药科技"
+  ],
   "effects": []
 }

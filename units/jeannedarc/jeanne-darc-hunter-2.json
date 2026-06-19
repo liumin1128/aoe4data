@@ -49,6 +49,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/jeanne-darc-hunter-2.png",
+  "nameCN": "圣女贞德 - 猎人",
+  "descriptionCN": "强壮的远程步兵，能对没有护甲的目标造成较高伤害，并对长矛兵造成额外伤害。如果贞德被击败，她可以在城镇中心被复活。\n+ 射速高\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 225,
   "weapons": [
     {

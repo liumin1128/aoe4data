@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/dome-of-the-faith-1.png",
+  "nameCN": "信仰穹顶建筑",
+  "descriptionCN": "可作为清真寺使用。以 55 黄金折扣生产学者。",
+  "displayClassesCN": [
+    "第二时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

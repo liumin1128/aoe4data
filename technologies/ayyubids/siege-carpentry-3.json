@@ -33,5 +33,10 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siege-carpentry-3.png",
+  "nameCN": "木制攻城器械",
+  "descriptionCN": "完成后，攻城单位可获得结构强化能力。\n攻城单位近战护甲 +20，火焰护甲 +5，持续 10 秒。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": []
 }

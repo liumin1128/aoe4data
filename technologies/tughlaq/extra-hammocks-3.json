@@ -34,6 +34,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/extra-hammocks-3.png",
+  "nameCN": "额外吊床",
+  "descriptionCN": "步弓手船只射出的箭矢数量 +1。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

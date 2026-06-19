@@ -40,6 +40,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/atakebune-4.png",
+  "nameCN": "安宅船",
+  "descriptionCN": "装备有火箭的大型有帆战船。\n+ 反建筑专家\n- 不擅长对抗燃烧战船\n- 移动速度较慢",
+  "displayClassesCN": [
+    "战船"
+  ],
   "hitpoints": 650,
   "weapons": [
     {

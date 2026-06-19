@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/golden-tent-2.png",
+  "nameCN": "黄金帐篷",
+  "descriptionCN": "包含会随时代推进而提升的升级。可在战场上部署拔都汗及其土尔扈特。\n可激活法令，这能改变强化哨站提供的加成。",
+  "displayClassesCN": [
+    "第二时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

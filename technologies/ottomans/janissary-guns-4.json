@@ -35,6 +35,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/janissary-guns-4.png",
+  "nameCN": "苏丹亲兵火枪",
+  "descriptionCN": "苏丹亲兵火枪伤害 +4。",
+  "displayClassesCN": [
+    "苏丹亲兵科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

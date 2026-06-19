@@ -35,5 +35,10 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-gilded-men-at-arms-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将镀金武士升级为精锐镀金武士。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

@@ -29,6 +29,11 @@
     "dragon-pavilion"
   ],
   "icon": "https://data.aoe4world.com/images/units/emissary-1.png",
+  "nameCN": "使者",
+  "descriptionCN": "辅助单位，可在贸易站建立进贡关系，并收买敌方士兵使其倒戈。\n+ 强大能力\n- 成本昂贵\n- 建造上限为 3\n- 易受所有攻击的伤害",
+  "displayClassesCN": [
+    "工人"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

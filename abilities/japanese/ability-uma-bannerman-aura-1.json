@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-uma-bannerman-aura-1.png",
+  "nameCN": "骑马旗本武士光环",
+  "descriptionCN": "光环可使骑兵单位的伤害 +10%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 6,
   "effects": [

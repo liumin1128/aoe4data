@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-chevalier-confreres-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将同伴骑士升级为老练同伴骑士。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

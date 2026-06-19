@@ -35,6 +35,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-wing-3.png",
+  "nameCN": "军事偏殿",
+  "descriptionCN": "建造军事偏殿。完成后可获得 2 名长矛兵和 2 名步弓手 (第二时代)、2 名骆驼骑兵 (第三时代) 或 3 名火枪兵 (第四时代)。\n解锁：\n•新兵训练营 (第二时代) \n•复合弓 (第三时代) \n•骆驼支援 (第四时代)",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": [
     {
       "property": "hitpoints",

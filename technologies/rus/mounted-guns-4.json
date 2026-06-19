@@ -36,5 +36,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mounted-guns-4.png",
+  "nameCN": "舰载炮",
+  "descriptionCN": "用加农炮取代扭力弩炮，可实现更远的射程和更大的伤害。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

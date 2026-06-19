@@ -31,5 +31,10 @@
     "mount-lu-academy"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/regional-inspection-1.png",
+  "nameCN": "地方巡查",
+  "descriptionCN": "朝廷命官的监督强化从 150% 提升至 300%。",
+  "displayClassesCN": [
+    "经济升级"
+  ],
   "effects": []
 }

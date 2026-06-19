@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/knights-hospitaller-1.png",
+  "nameCN": "医院骑士团",
+  "descriptionCN": "- 平民单位的生命值 +30%，移动速度 +10%。使所有来源的治疗效果 +30%。",
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "effects": [
     {
       "property": "hitpoints",

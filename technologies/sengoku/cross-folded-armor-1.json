@@ -34,6 +34,11 @@
     "hojo-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cross-folded-armor-1.png",
+  "nameCN": "十字叠层护甲",
+  "descriptionCN": "兵营步兵的远程护甲 +2。",
+  "displayClassesCN": [
+    "北条氏族科技"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

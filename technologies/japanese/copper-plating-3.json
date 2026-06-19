@@ -36,6 +36,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/copper-plating-3.png",
+  "nameCN": "镀铜",
+  "descriptionCN": "将船只的火力和远程护甲 +2。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "fireArmor",

@@ -37,6 +37,11 @@
     "wynguard-palace"
   ],
   "icon": "https://data.aoe4world.com/images/units/garrison-command-4.png",
+  "nameCN": "驻扎命令",
+  "descriptionCN": "生产一支由 8 名长矛兵和 1 名伯爵护卫组成的军队。",
+  "displayClassesCN": [
+    "混合兵种军队"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

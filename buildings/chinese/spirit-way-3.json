@@ -33,12 +33,17 @@
     "gold": 1200,
     "total": 3600,
     "popcap": 0,
-    "time": 125
+    "time": 63
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/spirit-way-3.png",
+  "nameCN": "皇陵",
+  "descriptionCN": "王朝科技可在此研究，研究成本 -50%，研究速度 +150%。当一个王朝单位被杀死时，附近单位的攻击速度 +20%，生命值 +20，持续 10 秒。\n王朝官员可将税金存放于这座建筑。",
+  "displayClassesCN": [
+    "第四时代：军事与科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

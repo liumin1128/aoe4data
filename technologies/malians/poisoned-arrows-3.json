@@ -34,6 +34,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/poisoned-arrows-3.png",
+  "nameCN": "毒箭",
+  "descriptionCN": "步弓手弓箭可造成额外 3 伤害，持续 6 秒。",
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

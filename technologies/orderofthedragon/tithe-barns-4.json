@@ -44,6 +44,11 @@
     "regnitz-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tithe-barns-4.png",
+  "nameCN": "什一税仓库",
+  "descriptionCN": "放置在修道院的圣物每分钟都会提供 40 食物、40 木材和 10 石料收入。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

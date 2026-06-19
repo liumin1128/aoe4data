@@ -28,12 +28,17 @@
     "gold": 0,
     "total": 450,
     "popcap": 0,
-    "time": 30
+    "time": 15
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/university-4.png",
+  "nameCN": "大学",
+  "descriptionCN": "可研究对整个文明有益的先进科技。\n每次完成科技研究都会产生税。",
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

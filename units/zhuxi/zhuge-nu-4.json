@@ -41,6 +41,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/zhuge-nu-4.png",
+  "nameCN": "精锐诸葛弩手",
+  "descriptionCN": "向敌方单位发射具有巨大伤害潜力的箭矢。\n+ 射速高\n- 对高远程护甲单位无效\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 95,
   "weapons": [
     {

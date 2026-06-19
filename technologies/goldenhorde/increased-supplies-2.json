@@ -28,5 +28,10 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/increased-supplies-2.png",
+  "nameCN": "已增加补给",
+  "descriptionCN": "军事建筑的生产速度 +50%。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": []
 }

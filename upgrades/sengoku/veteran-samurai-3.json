@@ -35,5 +35,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-samurai-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将坚韧日本武士升级为老练日本武士。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

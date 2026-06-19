@@ -43,6 +43,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/grand-galley-3.png",
+  "nameCN": "大型桨帆船",
+  "descriptionCN": "大型带桨船只，可升级为一所海军军事学校。\n+ 大型船舱，升级到军事学校后任何单位都能驻扎\n+ 攻击范围极远\n - 较低的伤害",
+  "displayClassesCN": [
+    "火药船"
+  ],
   "hitpoints": 750,
   "weapons": [
     {

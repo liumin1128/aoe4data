@@ -32,12 +32,17 @@
     "gold": 1200,
     "total": 3600,
     "popcap": 0,
-    "time": 250
+    "time": 125
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/temple-of-the-sun-3.png",
+  "nameCN": "孙武祠",
+  "descriptionCN": "激活强悍的能力，可以提高特定单位的速度、伤害、射程或恢复效果。",
+  "displayClassesCN": [
+    "第四时代：主动地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

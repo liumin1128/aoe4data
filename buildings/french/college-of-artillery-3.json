@@ -9,7 +9,7 @@
   "civs": [
     "fr"
   ],
-  "description": "Produces the Royal Artillery versions of the Cannon, Ribauldequin, and Culverin, which do +30% more damage.\nUnlocks the Artillery ability for all Cannons.\nContains Siege and Gunpowder Technologies, trains units and researches technologies 50% faster.",
+  "description": "Produces the Royal versions of the Cannon and Ribauldequin, which do +30% more damage and cost -25% gold.\nRoyal Cannons gain the Artillery Shot ability and Royal Ribauldequins gain the Fortify ability.\nContains Siege and Gunpowder technologies, trains units and researches technologies 50% faster.",
   "classes": [
     "age3_landmark2",
     "audio_production_landmark",
@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/college-of-artillery-3.png",
+  "nameCN": "炮兵学院",
+  "descriptionCN": "生产皇家版加农炮和机关炮，它们造成的伤害 +30%，成本 -25% 黄金。\n皇家加农炮获得火炮射击能力，皇家机关炮获得强化能力。\n包含攻城和火药科技，单位训练和科技研究速度 +50%。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

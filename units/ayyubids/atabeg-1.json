@@ -9,7 +9,7 @@
   "civs": [
     "ay"
   ],
-  "description": "Can be garrisoned into any military production building to grant +20% health to newly trained units.",
+  "description": "Can be garrisoned into any military production building to grant +25% health to newly trained units.",
   "classes": [
     "annihilation_condition",
     "camel",
@@ -36,6 +36,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/units/atabeg-1.png",
+  "nameCN": "阿塔贝格",
+  "descriptionCN": "可驻扎于任意军事生产建筑中，使新训练的单位生命值 +25%。",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

@@ -44,6 +44,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/genitour-3.png",
+  "nameCN": "标枪骑兵",
+  "descriptionCN": "高机动性的远程骑兵，可投掷标枪。\n+ 高机动性\n+ 非常擅长对付远程单位\n+ 高远程护甲\n - 不擅长对付近战单位",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 105,
   "weapons": [
     {

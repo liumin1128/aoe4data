@@ -38,6 +38,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/galleass-3.png",
+  "nameCN": "三桅战船",
+  "descriptionCN": "大型带桨船只，拥有一门强大的前置手推炮。\n+ 攻击范围长\n+ 反建筑专家",
+  "displayClassesCN": [
+    "火药船"
+  ],
   "hitpoints": 700,
   "weapons": [
     {

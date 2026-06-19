@@ -35,5 +35,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-royal-knights-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将皇家骑士升级为老练皇家骑士。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

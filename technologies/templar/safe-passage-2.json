@@ -34,5 +34,10 @@
     "capital-town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/safe-passage-2.png",
+  "nameCN": "安全通道",
+  "descriptionCN": "激活朝圣者。\n朝圣者每 60 秒生成一次。以 1 名朝圣者开局，每拥有一个要塞便可获得 1 名朝圣者 (最多 10 名)。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": []
 }

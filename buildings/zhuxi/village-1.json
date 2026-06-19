@@ -27,12 +27,17 @@
     "gold": 0,
     "total": 100,
     "popcap": 0,
-    "time": 30
+    "time": 15
   },
   "producedBy": [
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/village-1.png",
+  "nameCN": "村庄",
+  "descriptionCN": "人口上限 +40。\n最多可建造 3 个村庄。",
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [
     {

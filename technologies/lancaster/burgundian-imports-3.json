@@ -34,5 +34,10 @@
     "kings-college"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/burgundian-imports-3.png",
+  "nameCN": "勃艮第进口货物",
+  "descriptionCN": "引进勃艮第手铳后可以在城堡时代训练火枪兵，并使火枪兵的成本 -25%。",
+  "displayClassesCN": [
+    "手铳科技"
+  ],
   "effects": []
 }

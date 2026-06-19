@@ -41,6 +41,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/mehter-2.png",
+  "nameCN": "奥斯曼军乐队",
+  "descriptionCN": "战鼓手将会为范围内的除村民和商人之外的友军单位提供增益。\n+ 战鼓军事增益\n+ 高移动速度\n- 没有武器",
+  "displayClassesCN": [
+    "轻型骑兵"
+  ],
   "hitpoints": 160,
   "weapons": [
     {

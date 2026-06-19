@@ -35,6 +35,11 @@
     "shinto-shrine"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shinto-rituals-3.png",
+  "nameCN": "神道教仪式",
+  "descriptionCN": "神道教神主生命值 +40，治疗速率 +60%，移动速度 +15%。",
+  "displayClassesCN": [
+    "神道教科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

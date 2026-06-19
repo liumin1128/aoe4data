@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/war-stable-2.png",
+  "nameCN": "战争马厩",
+  "descriptionCN": "生产近战和远程骑兵单位。\n商人可以将战争马厩用作他们的本国市场。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

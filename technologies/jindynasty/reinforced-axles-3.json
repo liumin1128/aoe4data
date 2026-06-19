@@ -33,5 +33,10 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/reinforced-axles-3.png",
+  "nameCN": "加强轮轴",
+  "descriptionCN": "攻城器械的移动速度又进一步 +10%。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": []
 }

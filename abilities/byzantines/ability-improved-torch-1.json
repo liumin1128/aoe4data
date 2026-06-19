@@ -15,6 +15,9 @@
   "costs": {},
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-improved-torch-1.png",
+  "nameCN": "强化火炬",
+  "descriptionCN": "附近的侦察兵强化了火炬伤害。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "fireAttack",

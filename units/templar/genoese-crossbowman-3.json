@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/genoese-crossbowman-3.png",
+  "nameCN": "热那亚弩手",
+  "descriptionCN": "高伤害远程单位，擅长对付近战步兵。\n+ 高伤害\n- 生命值低\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 110,
   "weapons": [
     {

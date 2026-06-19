@@ -32,6 +32,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/daimyo-palace-2.png",
+  "nameCN": "大名官邸",
+  "descriptionCN": "旗本日本武士的生产上限增加 +2，并提供一个免费的村民。\n城镇中心生命值增加 +2000，火焰护甲增加 +2，增加一个额外的射箭槽，并附加一个光环，使村民的农田采集速率提高 +40%。",
+  "displayClassesCN": [
+    "城镇中心升级 2/3"
+  ],
   "effects": [
     {
       "property": "hitpoints",

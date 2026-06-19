@@ -43,6 +43,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/dromon-2.png",
+  "nameCN": "德罗蒙战舰",
+  "descriptionCN": "装备了火焰发射器的军事船只，可以升级以使用希腊之火。\n+ 擅长对付箭船\n- 武器射程较近\n- 会受到爆破船克制",
+  "displayClassesCN": [
+    "扭力弩炮船"
+  ],
   "hitpoints": 500,
   "weapons": [
     {

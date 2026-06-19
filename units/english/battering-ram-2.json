@@ -41,6 +41,11 @@
     "the-white-tower"
   ],
   "icon": "https://data.aoe4world.com/images/units/battering-ram-3.png",
+  "nameCN": "攻城锤",
+  "descriptionCN": "耐用的步兵运输工具，擅长对付建筑及城墙。\n+ 高远程护甲\n+ 高生命值\n- 在近战攻击中承受额外的伤害\n- 只能攻击建筑\n- 移动速度慢",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 370,
   "weapons": [
     {

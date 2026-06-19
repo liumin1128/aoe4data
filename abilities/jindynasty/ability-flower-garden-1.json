@@ -24,6 +24,9 @@
     "flower-pagoda"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-flower-garden-1.png",
+  "nameCN": "花园",
+  "descriptionCN": "种植一座花园，使附近村民的采集速度 +25%，非攻城军事单位的攻击速度 +25%。\n这座花园会一直存在，直到种植新的花园。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 2500,
   "cooldown": 60,

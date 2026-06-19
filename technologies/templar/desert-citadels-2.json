@@ -34,5 +34,10 @@
     "fortress"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/desert-citadels-2.png",
+  "nameCN": "沙漠城堡",
+  "descriptionCN": "强化要塞的沙漠哨站光环，附近单位的护甲 +1/+1。",
+  "displayClassesCN": [
+    "军事升级"
+  ],
   "effects": []
 }

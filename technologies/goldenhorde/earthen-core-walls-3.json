@@ -28,6 +28,11 @@
     "fortified-outpost"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/earthen-core-walls-3.png",
+  "nameCN": "土芯墙",
+  "descriptionCN": "强化哨站和木栅栏火焰护甲 +3，生命值 +300。",
+  "displayClassesCN": [
+    "石料科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",
