@@ -5,3 +5,4 @@ src/attrib/.dev
 /devbox.lock
 /devbox.json
 /.envrc
+.parse-*.log

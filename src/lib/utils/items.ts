@@ -6,24 +6,32 @@ export function unifyItems(items: Item[]): UnifiedItem[] {
     items.reduce(
       (acc, item) => {
         const id = item.baseId;
+        const nameCN = item.nameCN ?? item.name;
+        const descriptionCN = item.descriptionCN ?? item.description;
+        const displayClassesCN = item.displayClassesCN ?? item.displayClasses ?? [];
         if (!acc[id])
           acc[id] = {
             id: id,
             name: item.name,
+            nameCN,
             type: item.type,
             civs: item.civs,
             unique: item.unique,
             displayClasses: item.displayClasses ?? [],
+            displayClassesCN,
             classes: item.classes,
             minAge: item.age,
             icon: item.icon,
             description: item.description,
+            descriptionCN,
             translations: item.translations ? { ...item.translations } : undefined,
             variations: [item],
           };
         else {
           if (item.name.length < acc[id].name.length) {
             acc[id].name = item.name;
+            acc[id].nameCN = nameCN;
+            acc[id].descriptionCN = descriptionCN;
             if (item.translations) acc[id].translations = { ...item.translations };
           } else if (!acc[id].translations && item.translations) {
             acc[id].translations = { ...item.translations };
@@ -32,6 +40,7 @@ export function unifyItems(items: Item[]): UnifiedItem[] {
           acc[id].civs = uniqueArray([...acc[id].civs, ...item.civs]).sort();
           acc[id].classes = uniqueArray([...acc[id].classes, ...item.classes]);
           acc[id].displayClasses = uniqueArray([...acc[id].displayClasses, ...(item.displayClasses ?? [])]);
+          acc[id].displayClassesCN = uniqueArray([...(acc[id].displayClassesCN ?? []), ...displayClassesCN]);
           acc[id].minAge = Math.min(acc[id].minAge, item.age);
           acc[id].unique = acc[id].unique;
         }
@@ -68,7 +77,7 @@ export function optimizeItems<T extends Item>(items: UnifiedItem<T>[]): Optimize
       optimizedVariations.push(...variations);
     }
 
-    const { common, variations } = optimizeItemValues<T>(ageBase, ageBase.length > 1 ? ["weapons", "armor", "name"] : []);
+    const { common, variations } = optimizeItemValues<T>(ageBase, ageBase.length > 1 ? ["weapons", "armor", "name", "nameCN"] : []);
     const shared = {} as Record<string, Partial<T>>;
 
     for (const variation of variations) if (Object.entries(variation).filter(([k, v]) => !!v && k != "id").length > 1) shared[variation.id as string] = variation;

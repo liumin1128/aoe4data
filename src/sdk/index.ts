@@ -18,7 +18,7 @@ import {
 import { CivInfo, CivConfig } from "../types/civs";
 import { DataRegistry } from "./data";
 
-const { units, buildings, technologies, upgrades, abilities } = DataRegistry;
+const { units, buildings, technologies, upgrades, abilities, gameVersion } = DataRegistry;
 
 const civilizations: Record<CivAbbr, CivInfo> & { Get: typeof GetCiv; list: CivInfo[] } = {
   ...DataRegistry.civilizations,
@@ -64,6 +64,7 @@ export {
   technologies,
   upgrades,
   abilities,
+  gameVersion,
   localizeCiv,
   localizeCivInfo,
   getCivName,
@@ -86,6 +87,7 @@ const Data = {
   technologies,
   upgrades,
   abilities,
+  gameVersion,
   localizeCiv,
   localizeCivInfo,
   getCivName,

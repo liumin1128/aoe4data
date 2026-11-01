@@ -82,6 +82,13 @@ export interface Item {
   attribName?: string;
   recruits?: RecruitedUnit[];
   translations?: Record<string, ItemTranslation>;
+
+  /** Simplified Chinese name (fork addition, mirrors translations["zh-hans"].name) */
+  nameCN: string;
+  /** Simplified Chinese description (fork addition, mirrors translations["zh-hans"].description) */
+  descriptionCN: string;
+  /** Simplified Chinese display classes (fork addition, mirrors translations["zh-hans"].displayClasses) */
+  displayClassesCN: string[];
 }
 
 export interface PhysicalItem extends Item {
@@ -242,6 +249,13 @@ export interface UnifiedItem<T extends Item = Item> {
   icon?: string;
   description?: string;
   translations?: Record<string, ItemTranslation>;
+
+  /** Simplified Chinese name (fork addition) */
+  nameCN?: string;
+  /** Simplified Chinese description (fork addition) */
+  descriptionCN?: string;
+  /** Simplified Chinese display classes (fork addition) */
+  displayClassesCN?: string[];
 }
 
 export type ItemTranslation = {

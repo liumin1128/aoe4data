@@ -36,6 +36,9 @@ import jin from "../../civilizations/jindynasty.json";
 import sco from "../../civilizations/scots.json";
 import vik from "../../civilizations/vikings.json";
 
+/** Game version the data was built from (fork addition, written by src/attrib/run.ts) */
+const gameVersion = (allUnits as any).__game_version__ as string | undefined;
+
 const units = new ItemList<Unit>(...optimizedToUnified(allUnits.data as unknown as Optimized<Unit>[]));
 const buildings = new ItemList<Building>(...optimizedToUnified(allBuildings.data as unknown as Optimized<Building>[]));
 const technologies = new ItemList<Technology>(...optimizedToUnified(allTechnologies.data as unknown as Optimized<Technology>[]));
@@ -80,4 +83,5 @@ export const DataRegistry = {
   upgrades,
   abilities,
   civilizations,
+  gameVersion,
 };

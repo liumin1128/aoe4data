@@ -25,4 +25,11 @@ export type CivInfo = {
   description: string;
   // backdrop?: string;
   overview: CivOverviewItem[];
+  translations?: Record<string, CivTranslation>;
+
+  /** Simplified Chinese fields (fork addition, mirror translations["zh-hans"]) */
+  nameCN?: string;
+  classesCN?: string;
+  descriptionCN?: string;
+  overviewCN?: CivOverviewItem[];
 };

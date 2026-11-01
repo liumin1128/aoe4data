@@ -134,6 +134,12 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       if (Object.keys(translations).length === 0) translations = undefined;
     }
 
+    // Fork addition: keep the Simplified Chinese values inline for consumers that don't read the locale bundles
+    const zhHans = translations?.["zh-hans"];
+    const nameCN = zhHans?.name ?? name;
+    const descriptionCN = zhHans?.description ?? description ?? "";
+    const displayClassesCN = zhHans?.displayClasses ?? displayClasses;
+
     let item: Item = {
       id: id,
       baseId,
@@ -152,6 +158,9 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
       icon_src,
       icon,
       translations,
+      nameCN,
+      descriptionCN,
+      displayClassesCN,
     };
 
     if (type === ITEM_TYPES.ABILITIES) {
@@ -166,6 +175,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
           ...item,
           type: "ability",
           displayClasses: [],
+          displayClassesCN: [],
           classes: [],
           effects,
         };
@@ -178,6 +188,7 @@ export async function parseItemFromAttribFile(file: string, data: any, civ: CivC
         ...item,
         type: "ability",
         displayClasses: [],
+        displayClassesCN: [],
         classes: [],
         active: parseAbilityActivation(file),
         auraRange: ability_data.range / 4,
