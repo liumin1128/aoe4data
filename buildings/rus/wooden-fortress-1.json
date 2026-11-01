@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/wooden-fortress-1.png",
+  "nameCN": "木制要塞",
+  "descriptionCN": "视野开阔的坚固木制堡垒，可侦测匿踪或伪装单位。可升级武器。单位驻扎时可进行攻击。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

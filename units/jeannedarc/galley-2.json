@@ -39,6 +39,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/galley-2.png",
+  "nameCN": "箭船",
+  "descriptionCN": "载有步弓手的带桨战船。\n+ 操控性提升\n+ 可从铁匠铺的远程伤害科技中获得加成",
+  "displayClassesCN": [
+    "步弓手船"
+  ],
   "hitpoints": 300,
   "weapons": [
     {

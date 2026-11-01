@@ -35,6 +35,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/boot-camp-2.png",
+  "nameCN": "新兵训练营",
+  "descriptionCN": "所有步兵的生命值 +15%。",
+  "displayClassesCN": [
+    "步兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

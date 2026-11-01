@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/local-knowledge-2.png",
+  "nameCN": "本地知识",
+  "descriptionCN": "在解除匿踪之后，穆索法迪战士和穆索法迪火枪兵每次攻击都会获得 +5 的治疗效果，持续 5 秒。",
+  "displayClassesCN": [
+    "治疗科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

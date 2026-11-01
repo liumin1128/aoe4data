@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/college-of-artillery-3.png",
+  "nameCN": "炮兵学院",
+  "descriptionCN": "生产皇家版加农炮和机关炮，它们造成的伤害 +30%，成本 -25% 黄金。\n皇家加农炮获得火炮射击能力，皇家机关炮获得强化能力。\n包含攻城和火药科技，单位训练和科技研究速度 +50%。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

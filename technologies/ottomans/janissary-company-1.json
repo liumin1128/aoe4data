@@ -32,5 +32,10 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/janissary-company-1.png",
+  "nameCN": "苏丹亲兵连队",
+  "descriptionCN": "在地标城镇中心每建造一处地标城镇中心以及一所军事学校可产生 2 个苏丹亲兵。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": []
 }

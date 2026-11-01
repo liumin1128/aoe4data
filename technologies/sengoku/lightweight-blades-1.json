@@ -34,5 +34,10 @@
     "hojo-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lightweight-blades-1.png",
+  "nameCN": "轻质利刃",
+  "descriptionCN": "长矛兵移动速度 +10%，对工人造成的伤害 +5。",
+  "displayClassesCN": [
+    "北条氏族科技"
+  ],
   "effects": []
 }

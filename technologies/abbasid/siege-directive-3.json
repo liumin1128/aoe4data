@@ -34,5 +34,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/siege-directive-3.png",
+  "nameCN": "攻城指令",
+  "descriptionCN": "需要专注于即将到来的攻城战，攻城武器获得的额外伤害 +20%，战场建造速度 +50%。",
+  "displayClassesCN": [
+    "军事科技"
+  ],
   "effects": []
 }

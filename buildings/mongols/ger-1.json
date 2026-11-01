@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/ger-1.png",
+  "nameCN": "蒙古包",
+  "descriptionCN": "村民可将食物、木材和黄金存放于此建筑。可研究提升资源采集效率的科技。\n石料可通过敖包来采集。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

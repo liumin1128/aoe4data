@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/danevirke-1.png",
+  "nameCN": "丹麦长城",
+  "descriptionCN": "更重型的木栅栏城墙，拥有 5 火焰护甲。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 2350,
   "weapons": [],
   "armor": [

@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/kurultai-2.png",
+  "nameCN": "忽里勒台",
+  "descriptionCN": "其光环内的附近单位每 1 秒治疗 +1 生命值，并获得额外 +20% 伤害。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

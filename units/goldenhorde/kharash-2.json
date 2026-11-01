@@ -44,6 +44,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/kharash-2.png",
+  "nameCN": "肉盾",
+  "descriptionCN": "低生命值、低伤害的近战步兵，能被动提升附近单位的护甲。\n+ 价格低廉，可大批量生产 \n- 在对抗所有类型的单位时都处于弱势",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 50,
   "weapons": [
     {

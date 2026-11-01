@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/precision-training-4.png",
+  "nameCN": "精准训练",
+  "descriptionCN": "当佐兵的远程伤害 +6，弓箭手的远程伤害 +2，掷枪兵的远程伤害 +3。",
+  "displayClassesCN": [
+    "远程科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

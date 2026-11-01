@@ -43,6 +43,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/condottiero-4.png",
+  "nameCN": "意大利佣兵",
+  "descriptionCN": "移动迅速的重型步兵，能对火药单位造成更多伤害，且受到火药单位的伤害更低。\n+ 高伤害\n+ 移动速度快\n- 黄金花费高",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 195,
   "weapons": [
     {

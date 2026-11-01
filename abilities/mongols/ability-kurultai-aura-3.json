@@ -24,6 +24,9 @@
     "kurultai"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/kurultai-2.png",
+  "nameCN": "(translation not found) (undefined)",
+  "descriptionCN": "(translation not found) (undefined)",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 10,
   "effects": []

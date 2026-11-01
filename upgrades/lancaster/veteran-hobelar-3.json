@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-hobelar-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将骑马步兵升级为老练骑马步兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

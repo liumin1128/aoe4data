@@ -34,6 +34,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/howdahs-4.png",
+  "nameCN": "象轿兵",
+  "descriptionCN": "升级箭塔象，让精锐弩手代替弓箭手成为骑兵。箭塔象获得 +25% 生命值和 +4 远程护甲。",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

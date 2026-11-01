@@ -36,6 +36,11 @@
     "market"
   ],
   "icon": "https://data.aoe4world.com/images/units/trade-caravan-2.png",
+  "nameCN": "贸易商队",
+  "descriptionCN": "商人通过在他们的本国市场和贸易站或其他玩家的市场之间的往来产生黄金。本国市场和贸易目的地之间的距离越远，产生的黄金就越多。\n本国市场或贸易目的地可以随时更改。",
+  "displayClassesCN": [
+    "工人、商人"
+  ],
   "hitpoints": 60,
   "weapons": [],
   "armor": [],

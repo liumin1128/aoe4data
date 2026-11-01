@@ -17,6 +17,9 @@
     "stone-of-destiny"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-kings-blessing-1.png",
+  "nameCN": "国王的祝福",
+  "descriptionCN": "兵营单位的攻击速度提升 15%。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "attackSpeed",

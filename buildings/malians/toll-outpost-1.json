@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/toll-outpost-1.png",
+  "nameCN": "收费哨站",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n经过的商人和商船可立即额外提供其所携带黄金的 8%。收费哨站建在另一座收费哨站的范围内时，不会产生任何奖金税。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 750,
   "weapons": [
     {

@@ -34,6 +34,11 @@
     "kings-college"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ships-of-the-crown-4.png",
+  "nameCN": "王冠舰船",
+  "descriptionCN": "建造更大更好的船身，使大帆船的伤害 +20%、生命值 +15%、攻击范围 +10%。",
+  "displayClassesCN": [
+    "大帆船科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

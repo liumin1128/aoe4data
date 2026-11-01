@@ -35,6 +35,11 @@
     "high-armory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/banded-arms-4.png",
+  "nameCN": "钢带臂",
+  "descriptionCN": "扭力弩炮的攻击范围 +1 格。",
+  "displayClassesCN": [
+    "扭力弩炮科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/deer-stones-1.png",
+  "nameCN": "鹿石",
+  "descriptionCN": "有了鹿石，可以在靶场获得汗的猎人。\n立即研究驿站网络科技。",
+  "displayClassesCN": [
+    "第二时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

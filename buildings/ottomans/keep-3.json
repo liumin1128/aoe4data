@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/keep-3.png",
+  "nameCN": "城堡",
+  "descriptionCN": "坚实的驻军及防御地点。可进行武器升级。单位驻扎时可增加额外的攻击次数。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

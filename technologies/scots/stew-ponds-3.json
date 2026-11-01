@@ -35,5 +35,10 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/stew-ponds-3.png",
+  "nameCN": "炖池",
+  "descriptionCN": "鱼塘容量提升 1，并将鱼塘附近工人的采集速度从 10% 提升至 20% 。立即生成一名免费柯克曼。",
+  "displayClassesCN": [
+    "低地科技"
+  ],
   "effects": []
 }

@@ -24,6 +24,9 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-muster-mangonels-1.png",
+  "nameCN": "集合投石车",
+  "descriptionCN": "召集拥有土地的封臣，在集合厅招募 2 台投石车。仅可使用一次。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": []

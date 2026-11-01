@@ -35,6 +35,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/camel-rider-shields-3.png",
+  "nameCN": "骆驼骑兵护盾",
+  "descriptionCN": "提供骆驼骑兵护盾，使近战护甲 +3。",
+  "displayClassesCN": [
+    "骆驼骑兵科技 1/2"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/harbor-1.png",
+  "nameCN": "巨港",
+  "descriptionCN": "强大的码头，可生产海军单位并增加附近船只的生命值。\n自动修复附近受损的海军单位。\n最多可容纳 4 艘渔船。",
+  "displayClassesCN": [
+    "军事和经济建筑、交易站"
+  ],
   "hitpoints": 2250,
   "weapons": [
     {

@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mill-1.png",
+  "nameCN": "磨坊",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。\n村民可以收获这些牛作为食物，或者将牛放置在养牛场，牛会随着时间的推移生产食物。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

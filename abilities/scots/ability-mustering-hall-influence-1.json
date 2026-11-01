@@ -24,6 +24,9 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-mustering-hall-influence-1.png",
+  "nameCN": "集合厅影响力",
+  "descriptionCN": "建筑在集合厅影响范围内可为集合提供增益效果。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "effects": []

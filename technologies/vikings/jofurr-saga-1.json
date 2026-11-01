@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-jofurr-saga-1.png",
+  "nameCN": "约弗尔萨迦",
+  "descriptionCN": "村民采集速度提升 10% ，运载量增加 5。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stable-1.png",
+  "nameCN": "马厩",
+  "descriptionCN": "生产骑兵军事单位。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

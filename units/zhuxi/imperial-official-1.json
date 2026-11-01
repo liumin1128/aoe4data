@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/imperial-official-1.png",
+  "nameCN": "朝廷命官",
+  "descriptionCN": "不具备战斗能力的经济辅助单位。可自动从建筑中收税 (黄金)。\n+ 可用来提升建筑的效率\n- 同一时间只能存在一定数量的命官",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 75,
   "weapons": [],
   "armor": [],

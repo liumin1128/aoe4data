@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stone-of-destiny-1.png",
+  "nameCN": "命运之石",
+  "descriptionCN": "命运之石周围建造的建筑可返还 30% 的建造费用为黄金。此效果不适用于地标。可提前获得能够建造鱼塘的柯克曼。",
+  "displayClassesCN": [
+    "第二时代 - 低地经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

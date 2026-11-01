@@ -45,6 +45,11 @@
     "temple-of-equality"
   ],
   "icon": "https://data.aoe4world.com/images/units/ikko-ikki-monk-3.png",
+  "nameCN": "一向一揆僧侣",
+  "descriptionCN": "拥有强大战斗能力的僧侣战士，进攻时可治疗附近单位。不具备定向治疗能力。\n+ 可以治疗自己\n- 移动速度慢",
+  "displayClassesCN": [
+    "宗教近战步兵"
+  ],
   "hitpoints": 160,
   "weapons": [
     {

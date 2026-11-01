@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/outpost-1.png",
+  "nameCN": "哨站",
+  "descriptionCN": "可提供开阔的视野，侦测匿踪或伪装单元。可升级武器和防御工事。单位驻扎时可进行攻击。\n高级教士可以在其中放置圣物，使其产生黄金并提升建筑的护甲、伤害、武器攻击范围和视野范围。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

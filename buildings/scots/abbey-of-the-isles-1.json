@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/abbey-of-the-isles-1.png",
+  "nameCN": "爱奥那修道院",
+  "descriptionCN": "包含一件圣徒之遗，可提供区域治疗，每提升一个时代治疗效果增强。圣物可移动至军事和科技建筑，除区域治疗外，还可提升 135% 的研究与生产速度。无法移动至其他地标或具备防御的建筑。",
+  "displayClassesCN": [
+    "第二时代 - 高地宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/archery-range-2.png",
+  "nameCN": "靶场",
+  "descriptionCN": "生产远程步兵单位。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

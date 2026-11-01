@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/konungr-hall-1.png",
+  "nameCN": "康恩格礼堂",
+  "descriptionCN": "每隔 60 秒举办一次宴会，提供 10 食物，且每座长屋额外提供 5 食物，并拥有一次性持盾女战士集结。\n持盾女战士最多可招募 1 名，每建造一座长屋可额外招募 1 名。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

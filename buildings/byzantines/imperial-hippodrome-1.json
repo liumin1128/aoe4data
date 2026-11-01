@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/imperial-hippodrome-1.png",
+  "nameCN": "帝国竞技场",
+  "descriptionCN": "可作为马厩使用。具备凯旋能力，可使用补给点激活，以增加骑兵近战伤害、移动速度和生命值恢复效果。\n自带 10 个补给点，并且每 25 秒产生一个。击败敌方单位可获取更多点数。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -40,6 +40,11 @@
     "harbor"
   ],
   "icon": "https://data.aoe4world.com/images/units/venetian-galley-4.png",
+  "nameCN": "威尼斯箭船",
+  "descriptionCN": "大型带桨船只，拥有一门远程的前置巨型投石机。\n+ 射程远\n+ 反建筑专家",
+  "displayClassesCN": [
+    "巨型投石机船只"
+  ],
   "hitpoints": 700,
   "weapons": [
     {

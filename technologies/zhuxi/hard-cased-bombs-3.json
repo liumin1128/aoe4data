@@ -33,5 +33,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hard-cased-bombs-3.png",
+  "nameCN": "硬壳炸弹",
+  "descriptionCN": "敌方单位被手榴弹击中时，在 5 秒内会受到 +15% 的远程伤害和近战伤害。",
+  "displayClassesCN": [
+    "掷弹兵科技"
+  ],
   "effects": []
 }

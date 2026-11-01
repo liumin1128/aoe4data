@@ -64,6 +64,68 @@
       "description": "Construct military buildings around the Mustering Hall to increase its level to improve the efficiency of mustering warriors.\nTier 1: Unlocks mustering of Highland Archers. Adds a muster charge. \nTier 2: Reduces cost to muster. Adds a muster charge.\nTier 3: Reduces cost to muster. Adds a muster charge. Mustered warrior health is increased."
     }
   ],
+  "nameCN": "苏格兰人",
+  "classesCN": "集合防御步兵",
+  "descriptionCN": "苏格兰人拥有坚韧的步兵，擅长从隐蔽处伏击敌人。塔楼和城堡守护着村落与珍贵的牲畜，抵御乡间的掠夺者。可在集合厅快速集合增援，并研究强大的高地或低地科技，稳固苏格兰王国。",
+  "overviewCN": [
+    {
+      "title": "文明加成",
+      "list": [
+        "吉利侍从可在开放区域匿踪。",
+        "步兵在浓密森林内视野和移动速度提升。",
+        "塔楼取代哨站，可产出高地牛并增加人口上限。",
+        "高地牛可在浆果丛放牧，持续采集食物。",
+        "高地地标提升高地牛上限。",
+        "在集合厅于封建时代（II）快速集合单位。",
+        "在集合厅研究强力的低地与高地科技。",
+        "教士可建造鱼塘采集黄金，并提升附近工人的采集速度。",
+        "低地地标提升鱼塘建造上限。",
+        "被摧毁的城堡可在完全损毁前限时修复。",
+        "被摧毁的城堡会产生焦土效果，降低附近敌人的战斗能力。",
+        "海上射箭槽成本降低 50%。"
+      ]
+    },
+    {
+      "title": "贵族家族",
+      "description": "塔楼取代哨站，可产出高地牛、吉利侍从，并提升人口上限。"
+    },
+    {
+      "title": "高地财富",
+      "description": "保护高地牛在浆果丛中放牧，随着进食持续提供食物。每建造一个高地地标，牛群容量提升。"
+    },
+    {
+      "title": "高地伏击",
+      "description": "步兵对土地有深厚的了解与联系，在浓密森林内外作战时具有优势。进入浓密森林时无视视野惩罚，且高地伏击激活时移动速度提升。"
+    },
+    {
+      "title": "苏格兰席尔创",
+      "description": "武装侍从默认可抵御骑兵冲锋，洛卡柏斧科技研发后，武士也可抵御骑兵冲锋。"
+    },
+    {
+      "title": "低地与高地",
+      "description": "每次升级时代时，您可选择高地或低地地标。集合厅拥有来自这些地区的独特科技。随着地标建造于某地区，该地区相关科技的费用减半以支持其发展。"
+    },
+    {
+      "title": "应召而战",
+      "description": "在封建时代（第二时代），可于集合厅快速召集战士。"
+    },
+    {
+      "title": "修道院鱼塘",
+      "description": "使用柯克曼创建可收获的鱼塘以获取黄金。工人在活跃鱼塘附近采集速度提升。低地地标可提升鱼塘最大数量。"
+    },
+    {
+      "title": "城堡遗迹",
+      "description": "城堡被摧毁后采用焦土战术，破坏周边区域一段时间。若有敌人位于破坏区域，其战斗能力会暂时降低。此时城堡成为城堡遗迹，若及时修复可避免彻底毁坏。城堡遗迹最多可用 600 石料完全修复，之后修复将免费。"
+    },
+    {
+      "title": "湖泊防御网络",
+      "description": "码头防御射箭槽价格降低 50%。"
+    },
+    {
+      "title": "影响力",
+      "description": "在集合厅周围建造军事建筑可提升其等级，从而提高集合战士的效率。\n阶层 1：解锁集合高地弓兵，并增加一次集合次数。\n阶层 2：降低集合成本，并增加一次集合次数。\n阶层 3：降低集合成本，并增加一次集合次数。集合战士生命值提升。"
+    }
+  ],
   "techtree": {
     "house-1": null,
     "farm-1": null,

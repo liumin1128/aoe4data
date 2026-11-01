@@ -34,6 +34,11 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/neza-training-3.png",
+  "nameCN": "内扎兵训练",
+  "descriptionCN": "长矛兵对骑兵造成的伤害 +35%，生产速度 +50%。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -44,6 +44,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/steppe-redoubt-2.png",
+  "nameCN": "草原防卫据点",
+  "descriptionCN": "可作为蒙古包使用。在此地标存放黄金时，获得的黄金 +50%。",
+  "displayClassesCN": [
+    "第三时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

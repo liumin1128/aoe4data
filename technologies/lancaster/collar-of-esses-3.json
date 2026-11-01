@@ -34,5 +34,10 @@
     "kings-college"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/collar-of-esses-3.png",
+  "nameCN": "埃索斯的项圈",
+  "descriptionCN": "用兰开斯特涂装来装点骑士和短矛骑兵的护甲，对敌方重型单位造成的伤害 +5。",
+  "displayClassesCN": [
+    "骑士科技"
+  ],
   "effects": []
 }

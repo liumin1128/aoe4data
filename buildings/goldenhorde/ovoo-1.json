@@ -34,6 +34,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/ovoo-1.png",
+  "nameCN": "敖包",
+  "descriptionCN": "必须建造在石料露头上。\n每分钟甚至从枯竭的石料存放点收获 60 石料。每次进入新时代后，建造上限 +1。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

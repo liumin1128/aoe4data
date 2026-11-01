@@ -35,5 +35,10 @@
     "baugr-fort"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-berserker-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将强化狂战士升级为老练狂战士。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

@@ -34,6 +34,11 @@
     "monastery"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fanaticism-4.png",
+  "nameCN": "盲信主义",
+  "descriptionCN": "圣殿骑士修士和指挥所单位的生命值低于 50% 时，其伤害 +10%，生命值低于 25% 时，其伤害 +30%。",
+  "displayClassesCN": [
+    "军事升级"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

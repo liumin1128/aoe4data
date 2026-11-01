@@ -33,5 +33,10 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/infantry-support-4.png",
+  "nameCN": "步兵支援",
+  "descriptionCN": "步兵会使附近骆驼的护甲增加 3。",
+  "displayClassesCN": [
+    "步兵科技"
+  ],
   "effects": []
 }

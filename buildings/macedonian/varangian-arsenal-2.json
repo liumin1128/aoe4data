@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/varangian-arsenal-2.png",
+  "nameCN": "瓦兰吉兵工厂",
+  "descriptionCN": "推动马其顿王朝的科技发展。",
+  "displayClassesCN": [
+    "瓦兰吉科技建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

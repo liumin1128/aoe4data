@@ -44,6 +44,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/cateran-2.png",
+  "nameCN": "卡特蓝",
+  "descriptionCN": "迅捷的轻型近战步兵，对工人和建筑有额外伤害。\n+ 移动速度快\n+ 火把更强\n- 被弓兵、骑士、长矛骑兵克制",
+  "displayClassesCN": [
+    "轻型近战步兵，高地战士"
+  ],
   "hitpoints": 110,
   "weapons": [
     {

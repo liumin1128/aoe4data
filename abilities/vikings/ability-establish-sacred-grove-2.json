@@ -25,6 +25,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-establish-sacred-grove-2.png",
+  "nameCN": "建立神圣树林",
+  "descriptionCN": "招募一名维勒尔，将在圣物或圣地上建立神圣树林，使附近单位护甲提升 +1，并自动招募狂战士。\n若附近至少 30 秒内无敌军，神圣树林每秒恢复生命值 5。\n最多可拥有 3 个神圣树林。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 3,

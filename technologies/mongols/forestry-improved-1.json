@@ -36,6 +36,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/forestry-improved-1.png",
+  "nameCN": "林业 (已强化)",
+  "descriptionCN": "村民一击便能伐倒树木。\n木材运载量 +2。",
+  "displayClassesCN": [
+    "伐木科技"
+  ],
   "effects": [
     {
       "property": "unknown",

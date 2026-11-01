@@ -47,6 +47,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/border-reiver-4.png",
+  "nameCN": "边境掠夺者",
+  "descriptionCN": "移动迅速的轻型骑兵，擅长对抗远程骑兵和突袭。\n+ 攻击建筑时使用火把\n+ 对远程骑兵有额外伤害\n- 生命值低\n- 被骑手和弓兵克制",
+  "displayClassesCN": [
+    "轻型火药骑兵"
+  ],
   "hitpoints": 140,
   "weapons": [
     {

@@ -33,6 +33,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/cattle-ranch-2.png",
+  "nameCN": "养牛场",
+  "descriptionCN": "放置于此牧场的牛每分钟产生 +25 食物。这个值会随着食物升级而增加。",
+  "displayClassesCN": [
+    "食物来源、建筑"
+  ],
   "hitpoints": 500,
   "weapons": [],
   "armor": [

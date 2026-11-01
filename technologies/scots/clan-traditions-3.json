@@ -35,6 +35,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/clan-traditions-3.png",
+  "nameCN": "氏族传统",
+  "descriptionCN": "步兵近战伤害提升 15%。高地伏击奖励持续时间增加 10 秒。",
+  "displayClassesCN": [
+    "高地科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

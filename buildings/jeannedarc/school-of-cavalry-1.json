@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/school-of-cavalry-1.png",
+  "nameCN": "骑兵学校",
+  "descriptionCN": "可作为马厩使用。你所有马厩的单位生产速度 +20%。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

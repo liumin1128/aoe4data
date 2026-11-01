@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/abbey-of-kings-1.png",
+  "nameCN": "列王修道院",
+  "descriptionCN": "治疗附近所有脱离战斗的友方单位，每 1 秒恢复其 +6 生命值。也可以加冕一位国王，一位带有治疗光环的强大骑兵领袖。完成后自动生产一个免费国王。",
+  "displayClassesCN": [
+    "第二时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

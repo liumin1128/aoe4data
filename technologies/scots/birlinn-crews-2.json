@@ -35,5 +35,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/birlinn-crews-2.png",
+  "nameCN": "搏林克鲁斯帆船",
+  "descriptionCN": "精通桨与帆，箭船获得 15% 移动速度与 20% 攻击速度加成。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

@@ -15,6 +15,9 @@
   "costs": {},
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-naval-deployment-1.png",
+  "nameCN": "海军部署",
+  "descriptionCN": "运输船在卸载后的移动速度加快。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "unknown",

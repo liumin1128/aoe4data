@@ -24,6 +24,9 @@
     "fishpond"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-relocate-fishpond-1.png",
+  "nameCN": "迁移鱼塘",
+  "descriptionCN": "将此鱼塘迁移至目标位置。任何在鱼塘工作的柯克曼都将尝试在新位置继续采集。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 3,

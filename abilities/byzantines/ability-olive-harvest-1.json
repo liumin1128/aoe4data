@@ -15,5 +15,8 @@
   "costs": {},
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-olive-harvest-1.png",
+  "nameCN": "橄榄收获",
+  "descriptionCN": "村民产生的橄榄油相当于农耕时采集的 15% 食物。",
+  "displayClassesCN": [],
   "effects": []
 }

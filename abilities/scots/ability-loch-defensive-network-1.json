@@ -24,6 +24,9 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-loch-defensive-network-1.png",
+  "nameCN": "湖泊防御网络",
+  "descriptionCN": "射箭槽工事建造费用降低 50%",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

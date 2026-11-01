@@ -58,6 +58,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/armored-hull-3.png",
+  "nameCN": "装甲船身",
+  "descriptionCN": "所有军用舰船的生命值提升 20% ，远程护甲提升 1。",
+  "displayClassesCN": [
+    "海军科技 1/2"
+  ],
   "effects": [
     {
       "property": "hitpoints",

@@ -40,6 +40,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/fishing-knarr-2.png",
+  "nameCN": "捕鱼挪威商船",
+  "descriptionCN": "小型船只，可从深海鱼群或海岸鱼群收集食物，并能运输少量陆地单位穿越水域。收集到的资源可在码头交付。",
+  "displayClassesCN": [
+    "工人、船只"
+  ],
   "hitpoints": 100,
   "weapons": [],
   "armor": [],

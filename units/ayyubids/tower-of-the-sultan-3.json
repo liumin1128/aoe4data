@@ -47,6 +47,11 @@
     "spearman"
   ],
   "icon": "https://data.aoe4world.com/images/units/tower-of-the-sultan-3.png",
+  "nameCN": "苏丹之塔",
+  "descriptionCN": "巨大的步兵运输工具，擅长对付建筑和城墙。每多驻扎一个单位，移动速度都会增加。\n+ 发射箭矢\n+ 高远程护甲\n+ 高生命值\n- 空载时移动速度较慢",
+  "displayClassesCN": [
+    "攻城"
+  ],
   "hitpoints": 800,
   "weapons": [
     {

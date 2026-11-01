@@ -45,6 +45,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/great-wall-bastion-3.png",
+  "nameCN": "长城堡垒",
+  "descriptionCN": "可作为城堡使用，配备 4 具弓床弩武器代替普通炮台。\n所有弓床弩箭矢造成的伤害 +3。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第四时代：军事与科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

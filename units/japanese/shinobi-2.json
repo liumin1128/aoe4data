@@ -40,6 +40,11 @@
     "koka-township"
   ],
   "icon": "https://data.aoe4world.com/images/units/shinobi-2.png",
+  "nameCN": "忍者",
+  "descriptionCN": "近战步兵，擅长侦察、破坏和刺杀。\n+ 可伪装成敌方村民\n+ 对抗近战单位时拥有伤害加成\n+ 能恢复生命值\n- 首都城镇中心、哨站和侦察兵可以识破伪装",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 80,
   "weapons": [
     {

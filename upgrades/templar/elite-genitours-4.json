@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-genitours-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将标枪骑兵升级为精锐标枪骑兵。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

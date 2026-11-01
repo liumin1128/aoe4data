@@ -25,6 +25,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-toggle-villager-production-off-1.png",
+  "nameCN": "村民生产（关闭）",
+  "descriptionCN": "切换为开启，以便在此城镇中心继续生产村民。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "villager_production",

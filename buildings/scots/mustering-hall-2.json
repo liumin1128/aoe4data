@@ -33,6 +33,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mustering-hall-2.png",
+  "nameCN": "集合厅",
+  "descriptionCN": "包含高地和低地的科技。每当选择某地区的地标时，该地区强力科技的成本将降低。通过消耗食物和集合冲锋招募战士，每种集合方式仅能使用一次。\n为军事生产建筑生成影响力。每座建筑都计入集合厅等级，提升集合效率并增加额外集合冲锋次数。\n默认拥有 1 次集合冲锋。",
+  "displayClassesCN": [
+    "科技 & 军事建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

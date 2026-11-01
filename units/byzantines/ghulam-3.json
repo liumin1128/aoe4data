@@ -47,6 +47,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/ghulam-3.png",
+  "nameCN": "古拉姆",
+  "descriptionCN": "强悍的步兵，可快速而连续地发动两次攻击。\n+ 高护甲\n+ 冲锋时的攻击伤害较高\n- 基础攻击伤害低于武士\n- 可在战场上建造轻型投石车和扭力弩炮，不需要攻城技师\n- 移动较慢\n- 会受到骑士、长矛骑兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 195,
   "weapons": [
     {

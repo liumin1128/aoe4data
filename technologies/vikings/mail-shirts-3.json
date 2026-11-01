@@ -29,6 +29,9 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-mail-shirts-2.png",
+  "nameCN": "锁子甲衫",
+  "descriptionCN": "所有非攻城单位的远程与近战护甲提升 2。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

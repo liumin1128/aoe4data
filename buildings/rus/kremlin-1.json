@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/kremlin-1.png",
+  "nameCN": "克里姆林",
+  "descriptionCN": "可作为木制要塞使用，自带射箭槽、城堡炮塔和城堡瞭望台科技。\n每 80 秒可以征用民兵前往首都城镇中心。进入城堡时代后，征用的民兵数量增加。",
+  "displayClassesCN": [
+    "第二时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

@@ -34,6 +34,11 @@
     "prayer-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/monastic-shrines-3.png",
+  "nameCN": "僧侣祭坛",
+  "descriptionCN": "祈祷帐篷可在没有敖包的情况下为其影响范围内提供强化生产效果。",
+  "displayClassesCN": [
+    "生产科技"
+  ],
   "effects": [
     {
       "property": "unknown",

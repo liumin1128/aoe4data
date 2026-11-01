@@ -42,6 +42,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/longship-2.png",
+  "nameCN": "维京长船",
+  "descriptionCN": "搭载弓箭手的划桨箭船，可将陆地单位运送过水。\n+ 机动性增强\n+ 每装载一名非村民单位，生命值提升 +30，并额外发射 +1 支箭矢。",
+  "displayClassesCN": [
+    "步弓手船"
+  ],
   "hitpoints": 300,
   "weapons": [
     {

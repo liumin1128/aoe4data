@@ -34,5 +34,10 @@
     "baugr-fort"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ulfberht-swords-3.png",
+  "nameCN": "乌尔夫贝特剑",
+  "descriptionCN": "希尔德曼装备乌尔夫贝特剑，伤害提升 +5。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": []
 }

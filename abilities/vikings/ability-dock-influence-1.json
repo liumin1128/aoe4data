@@ -25,6 +25,9 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-dock-influence-1.png",
+  "nameCN": "码头影响力",
+  "descriptionCN": "所有码头中的船只造价，每有一座长屋处于任何码头影响范围内，便减少 4%（最多可达16%）。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

@@ -36,6 +36,11 @@
     "regnitz-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/inspired-warriors-3.png",
+  "nameCN": "战意激昂",
+  "descriptionCN": "高级教士的移动速度 +10%，可鼓舞成群的军事单位，使他们的护甲 +1 和伤害 +10%。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

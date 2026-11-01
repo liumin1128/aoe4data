@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/fortified-palisade-wall-1.png",
+  "nameCN": "硬木栅栏",
+  "descriptionCN": "坚固的防御城墙，可快速为区域设防。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 2700,
   "weapons": [],
   "armor": [

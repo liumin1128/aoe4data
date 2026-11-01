@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-the-long-wall-1.png",
+  "nameCN": "长墙",
+  "descriptionCN": "所有站在城墙上的单位的远程伤害 +25%。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "rangedAttack",

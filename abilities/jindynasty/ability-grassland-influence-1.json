@@ -24,6 +24,9 @@
     "grassland"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-grassland-influence-1.png",
+  "nameCN": "草原影响",
+  "descriptionCN": "用草原上的马匹立即训练骑兵，享受 25 资源折扣。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

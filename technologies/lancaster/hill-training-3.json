@@ -34,5 +34,10 @@
     "kings-college"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hill-training-3.png",
+  "nameCN": "山地训练",
+  "descriptionCN": "在崎岖的地形中进行训练时，骑马步兵的冲锋伤害 +125%，生产速度 +100%。",
+  "displayClassesCN": [
+    "骑兵科技"
+  ],
   "effects": []
 }

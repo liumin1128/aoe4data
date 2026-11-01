@@ -26,6 +26,9 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-blacksmith-and-university-influence-1.png",
+  "nameCN": "铁匠铺和大学的影响",
+  "descriptionCN": "随着时代提升，在铁匠铺或大学的影响范围内的建筑的军事单位生产速度 +20%/+30%/+40%。伊斯坦布尔天文台可将此加成提升到 +85%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

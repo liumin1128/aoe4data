@@ -35,5 +35,10 @@
     "baugr-fort"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hamrammr-2.png",
+  "nameCN": "哈姆拉姆尔",
+  "descriptionCN": "狂战士暴怒在生命值低于 50% 时触发，并额外恢复 50% 的生命值。",
+  "displayClassesCN": [
+    "狂战士科技"
+  ],
   "effects": []
 }

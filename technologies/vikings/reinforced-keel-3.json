@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/reinforced-keel-3.png",
+  "nameCN": "加强龙骨",
+  "descriptionCN": "船只生命值提升 25% ，远程护甲提升 1。",
+  "displayClassesCN": [
+    "海军科技 1/2"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

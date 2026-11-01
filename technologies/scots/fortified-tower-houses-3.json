@@ -29,5 +29,10 @@
     "tower-of-skye"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fortified-tower-houses-3.png",
+  "nameCN": "加固塔楼",
+  "descriptionCN": "所有塔楼以石材加固自身，其火焰护甲提升 5。",
+  "displayClassesCN": [
+    "塔楼科技"
+  ],
   "effects": []
 }

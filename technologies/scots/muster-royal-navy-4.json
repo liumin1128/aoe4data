@@ -32,6 +32,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-royal-navy-4.png",
+  "nameCN": "集合皇家海军",
+  "descriptionCN": "国王召集皇家造船厂，派遣援军至三湖瞭望台，招募 4 箭船、4 重型船和 3 大帆船。每场只能使用一次。",
+  "displayClassesCN": [
+    "皇家海军召集"
+  ],
   "effects": [],
   "recruits": [
     {

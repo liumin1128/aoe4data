@@ -35,5 +35,10 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fermtouns-and-pastures-2.png",
+  "nameCN": "农庄与牧场",
+  "descriptionCN": "村民采集农田速度提升 20%，高地牛采集浆果丛速度提升 20%。",
+  "displayClassesCN": [
+    "低地与高地科技"
+  ],
   "effects": []
 }

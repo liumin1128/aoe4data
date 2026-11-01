@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stone-wall-gate-2.png",
+  "nameCN": "石墙城门",
+  "descriptionCN": "重型防御城门。必须建于石墙上。\n步兵可利用城门前往城墙顶端。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 3000,
   "weapons": [],
   "armor": [

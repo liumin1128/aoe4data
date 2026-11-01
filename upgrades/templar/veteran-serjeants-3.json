@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-serjeants-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将萨金特卫兵升级为老练萨金特卫兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

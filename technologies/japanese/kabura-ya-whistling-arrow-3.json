@@ -35,6 +35,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kabura-ya-whistling-arrow-3.png",
+  "nameCN": "鸣镝矢",
+  "descriptionCN": "女武者会在看到敌人时发射镝矢以加快速度，持续 10 秒。",
+  "displayClassesCN": [
+    "女武者科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

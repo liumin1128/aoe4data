@@ -42,6 +42,11 @@
     "rikets-nyckel-castle"
   ],
   "icon": "https://data.aoe4world.com/images/units/sk-ne-crossbowmen-1.png",
+  "nameCN": "斯科讷弩手",
+  "descriptionCN": "高伤害远程单位，擅长对付重型目标。成本较低，但伤害和生命值有所降低。\n+ 对重型单位有特效\n- 生命值较低\n- 被骑兵克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 75,
   "weapons": [
     {

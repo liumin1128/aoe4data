@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/the-silver-tree-1.png",
+  "nameCN": "银之树",
+  "descriptionCN": "可作为市场使用。贸易商的生产速度提高+40%，黄金成本降低-40%。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palace-of-the-sultan-3.png",
+  "nameCN": "苏丹宫殿",
+  "descriptionCN": "为苏丹宫殿任命一名总督，可立即获得总督的第四阶层捐助者加成。",
+  "displayClassesCN": [
+    "第四时代 - 地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

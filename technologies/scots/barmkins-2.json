@@ -32,5 +32,10 @@
     "tower-of-skye"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/barmkins-2.png",
+  "nameCN": "防卫墙外围",
+  "descriptionCN": "塔楼被授予土地以建造防卫墙外围，在遭遇袭击时，为高地牛提供额外 4 个驻扎栏位。",
+  "displayClassesCN": [
+    "塔楼科技"
+  ],
   "effects": []
 }

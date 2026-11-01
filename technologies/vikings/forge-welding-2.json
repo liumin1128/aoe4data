@@ -29,6 +29,9 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-forge-welding-1.png",
+  "nameCN": "锻焊",
+  "descriptionCN": "所有步兵、骑兵及防御工事的伤害提升 1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

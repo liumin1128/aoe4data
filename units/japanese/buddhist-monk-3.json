@@ -41,6 +41,11 @@
     "temple-of-equality"
   ],
   "icon": "https://data.aoe4world.com/images/units/buddhist-monk-3.png",
+  "nameCN": "佛教僧侣",
+  "descriptionCN": "能够减少敌人攻击伤害的辅助单位。可拾取圣物、招降敌方单位及占领圣地。\n+ 成本更低\n+ 招降可提高友军单位伤害\n+ 自动减少敌人攻击伤害\n+ 可治疗单位",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

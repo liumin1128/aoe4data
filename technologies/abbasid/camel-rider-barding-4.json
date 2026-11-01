@@ -34,6 +34,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/camel-rider-barding-4.png",
+  "nameCN": "骆驼骑兵皮甲",
+  "descriptionCN": "骆驼骑兵的护甲 +2。",
+  "displayClassesCN": [
+    "骆驼骑兵科技 2/2"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

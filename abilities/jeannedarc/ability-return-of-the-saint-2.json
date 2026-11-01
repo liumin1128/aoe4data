@@ -24,6 +24,9 @@
     "capital-town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-return-of-the-saint-2.png",
+  "nameCN": "圣者归来",
+  "descriptionCN": "进贡并立即让贞德返回战场。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 1,
   "cooldown": 120,

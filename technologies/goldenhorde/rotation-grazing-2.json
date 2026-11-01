@@ -34,5 +34,10 @@
     "ger"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/rotation-grazing-2.png",
+  "nameCN": "轮牧",
+  "descriptionCN": "牲畜围栏的食物采集速率 +10%，不包括放牧绵羊。",
+  "displayClassesCN": [
+    "食物采集科技 1/2"
+  ],
   "effects": []
 }

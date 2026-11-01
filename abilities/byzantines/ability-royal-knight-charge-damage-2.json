@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-royal-knight-charge-damage-1.png",
+  "nameCN": "皇家骑士冲锋伤害",
+  "descriptionCN": "伤害提升 5 秒。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "meleeAttack",

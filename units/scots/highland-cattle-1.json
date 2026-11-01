@@ -35,6 +35,11 @@
     "tower-of-skye"
   ],
   "icon": "https://data.aoe4world.com/images/units/highland-cattle-1.png",
+  "nameCN": "高地牛",
+  "descriptionCN": "高地牛在浆果丛旁觅食以获得食物。进食时每分钟可产出 30 食物。\n初始产量为 9，每建造一个高地地标，产量增加 4。",
+  "displayClassesCN": [
+    "食物采集者"
+  ],
   "hitpoints": 75,
   "weapons": [],
   "armor": [],

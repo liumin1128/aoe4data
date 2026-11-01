@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/chamber-of-commerce-1.png",
+  "nameCN": "商会",
+  "descriptionCN": "作为市场使用。为研究的每项经济技术培训一名自由商人。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

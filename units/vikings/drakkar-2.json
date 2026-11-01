@@ -43,6 +43,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/drakkar-2.png",
+  "nameCN": "德拉卡尔",
+  "descriptionCN": "配备投斧手的桨帆战船。\n+ 机动性提升\n+ 可用渔网减缓敌舰",
+  "displayClassesCN": [
+    "龙船"
+  ],
   "hitpoints": 500,
   "weapons": [
     {

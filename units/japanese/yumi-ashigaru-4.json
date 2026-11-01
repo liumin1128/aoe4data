@@ -42,6 +42,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/yumi-ashigaru-4.png",
+  "nameCN": "精锐弓足轻",
+  "descriptionCN": "行动迅速且成本低廉的远程步兵，能对无护甲的目标造成可观伤害。\n+ 移动速度较高\n+ 比弓兵成本低\n- 生命值较低\n- 不擅长对付高远程护甲目标\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 85,
   "weapons": [
     {

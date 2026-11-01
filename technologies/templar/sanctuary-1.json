@@ -34,5 +34,10 @@
     "capital-town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/sanctuary-1.png",
+  "nameCN": "庇护所",
+  "descriptionCN": "庇护所的保证可使朝圣者人数增加 1。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": []
 }

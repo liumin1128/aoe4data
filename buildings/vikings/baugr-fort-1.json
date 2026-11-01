@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/baugr-fort-1.png",
+  "nameCN": "抱格尔堡垒",
+  "descriptionCN": "作为兵营，可训练所有单位并研究所有科技。所有兵营工作速度提升 25% ，科技成本降低 15% 。\n立即将邦地和狂战士升级至强化状态。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

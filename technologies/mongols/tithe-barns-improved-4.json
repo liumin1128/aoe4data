@@ -35,6 +35,11 @@
     "prayer-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tithe-barns-improved-4.png",
+  "nameCN": "什一税仓库 (已强化)",
+  "descriptionCN": "放置在祈祷帐篷里的圣物每分钟会提供 +60 食物、+60 木材和 +15 石料收入。\n如果已完成什一税仓库研究，则食物和木材收入分别 +20，石料收入 +5。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "unknown",

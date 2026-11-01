@@ -31,6 +31,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-network-of-castles-1.png",
+  "nameCN": "城堡网络",
+  "descriptionCN": "当敌人在附近的时候，此建筑会发出警报，让附近单位的攻击速度 +20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

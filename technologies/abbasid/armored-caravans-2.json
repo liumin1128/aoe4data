@@ -34,6 +34,11 @@
     "market"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/armored-caravans-2.png",
+  "nameCN": "装甲商队",
+  "descriptionCN": "商人和商船护甲 +2。",
+  "displayClassesCN": [
+    "贸易科技"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

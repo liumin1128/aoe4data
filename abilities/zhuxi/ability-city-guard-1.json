@@ -24,6 +24,9 @@
     "jiangnan-tower"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-city-guard-1.png",
+  "nameCN": "城市护卫",
+  "descriptionCN": "生成一支由 4 名诸葛弩手和 3 名皇宫卫兵组成的军队。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "temple_of_the_sun",

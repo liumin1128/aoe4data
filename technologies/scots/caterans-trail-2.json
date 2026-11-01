@@ -35,5 +35,10 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/caterans-trail-2.png",
+  "nameCN": "卡特蓝的足迹",
+  "descriptionCN": "卡特蓝技能使步兵移动速度提升 15% 。步兵在浓密森林中脱离战斗时每秒恢复 1 生命值。",
+  "displayClassesCN": [
+    "高地科技"
+  ],
   "effects": []
 }

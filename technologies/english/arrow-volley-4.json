@@ -35,6 +35,11 @@
     "council-hall"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/arrow-volley-4.png",
+  "nameCN": "万箭齐发",
+  "descriptionCN": "长弓兵获得万箭齐发能力，此项被激活的能力可将长弓兵的攻击所需时间减少 1 秒，持续 6 秒。",
+  "displayClassesCN": [
+    "长弓兵能力解锁"
+  ],
   "effects": [
     {
       "property": "attackSpeed",

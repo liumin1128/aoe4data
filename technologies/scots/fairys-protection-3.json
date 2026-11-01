@@ -32,5 +32,10 @@
     "tower-house"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fairys-protection-3.png",
+  "nameCN": "仙子之佑",
+  "descriptionCN": "在该塔楼创建浓密森林。前 3 个由塔楼生成的浓密森林无需消耗资源。",
+  "displayClassesCN": [
+    "塔楼科技"
+  ],
   "effects": []
 }

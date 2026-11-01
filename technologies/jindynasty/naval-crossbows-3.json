@@ -40,5 +40,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/naval-crossbows-3.png",
+  "nameCN": "海军弩",
+  "descriptionCN": "将扭力弩炮船武器替换成连发弓床弩，后者可发射一连串 2 穿透箭矢。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

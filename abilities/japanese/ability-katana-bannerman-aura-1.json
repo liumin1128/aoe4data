@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-katana-bannerman-aura-1.png",
+  "nameCN": "刀剑旗本武士光环",
+  "descriptionCN": "光环可使近战步兵的伤害 +15%。\n旗帜在死亡时掉落并持续提供 30 秒钟相同的光环。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 6,
   "effects": [

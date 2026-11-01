@@ -34,6 +34,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/longhouse-1.png",
+  "nameCN": "长屋",
+  "descriptionCN": "将您的村民容量增加 10，最大人口增加 25。生产邦地长矛兵，但速度降低25% 。可通过四种附加组件之一升级，提升长屋的多功能性。",
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

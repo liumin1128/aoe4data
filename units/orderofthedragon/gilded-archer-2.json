@@ -42,6 +42,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/gilded-archer-2.png",
+  "nameCN": "镀金步弓手",
+  "descriptionCN": "与标准弓箭手相比，远程步兵可对非装甲目标造成很高的伤害，攻击速度更快，武器射程更远。\n+ 更远的武器射程\n+ 更快的攻击速度\n- 不擅长对付装甲目标\n- 会受到骑兵克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 125,
   "weapons": [
     {

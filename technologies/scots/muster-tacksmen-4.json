@@ -33,6 +33,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-tacksmen-4.png",
+  "nameCN": "集合泰克斯曼",
+  "descriptionCN": "召集忠诚的高地酋长，在集合厅招募 7 名塔克斯曼。仅可使用一次。",
+  "displayClassesCN": [
+    "皇家召集"
+  ],
   "effects": [],
   "recruits": [
     {

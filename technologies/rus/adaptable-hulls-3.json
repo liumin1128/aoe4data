@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/adaptable-hulls-3.png",
+  "nameCN": "适应性强的船身",
+  "descriptionCN": "罗德亚船型之间的转换速度提高了 50%，并且不再有成本损失。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "unknown",

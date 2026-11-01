@@ -36,5 +36,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-cataphracts-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将甲胄骑兵升级为精锐甲胄骑兵。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

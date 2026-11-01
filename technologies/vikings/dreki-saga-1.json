@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-dreki-saga-1.png",
+  "nameCN": "龙船萨迦",
+  "descriptionCN": "神圣树林产出狂战士速度提升 15%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

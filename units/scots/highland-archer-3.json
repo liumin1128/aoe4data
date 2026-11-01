@@ -44,6 +44,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/highland-archer-3.png",
+  "nameCN": "老练高地弓兵",
+  "descriptionCN": "远程步兵，武器射程降低以换取更高伤害。对无甲目标效果极佳。\n+ 伤害\n+ 高射速\n- 武器射程\n- 对高远程护甲目标效果较弱\n- 被骑兵克制",
+  "displayClassesCN": [
+    "轻型远程步兵，高地战士"
+  ],
   "hitpoints": 80,
   "weapons": [
     {

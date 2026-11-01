@@ -35,6 +35,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/sanctity-2.png",
+  "nameCN": "圣洁",
+  "descriptionCN": "可让学者在城堡时代 (第三时代) 之前占领圣地。圣地会额外产生 +25% 黄金。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "goldGeneration",

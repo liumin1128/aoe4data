@@ -43,6 +43,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/zhanma-swordsman-4.png",
+  "nameCN": "斩马刀",
+  "descriptionCN": "精锐重装近战步兵，拥有高伤害和高耐力。\n+ 擅长对付骑兵\n- 不擅长对付弩手",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 250,
   "weapons": [
     {

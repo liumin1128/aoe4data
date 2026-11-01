@@ -35,6 +35,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/all-seeing-eye-2.png",
+  "nameCN": "全视之眼",
+  "descriptionCN": "学者的视野范围 +100%。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "lineOfSight",

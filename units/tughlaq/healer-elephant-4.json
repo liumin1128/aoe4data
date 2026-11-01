@@ -47,6 +47,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/units/healer-elephant-4.png",
+  "nameCN": "精锐治疗者大象",
+  "descriptionCN": "后勤大象驮着两名伊玛目，每名伊玛目都可以单独治疗盟友单位。周围有近战步兵时，会获得额外伤害，并能占领圣地。\n+ 高生命值和护甲\n- 移动速度慢\n- 会受到长矛兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵、大象"
+  ],
   "hitpoints": 400,
   "weapons": [
     {

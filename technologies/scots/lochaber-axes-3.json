@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lochaber-axes-3.png",
+  "nameCN": "洛卡柏斧",
+  "descriptionCN": "装备洛卡柏斧的武士，获得 3 伤害与 4 对骑兵伤害加成。武士可抵御骑兵冲锋。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -42,6 +42,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/khans-hunter-3.png",
+  "nameCN": "汗的老练猎人",
+  "descriptionCN": "支持骑射手，可以在移动时射击。拥有汗的猎人光环，可以提高附近远程单位的射程 \n+高机动性\n+出色视野范围\n-低生命值",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 90,
   "weapons": [
     {

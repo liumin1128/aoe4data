@@ -24,6 +24,9 @@
     "buddhist-temple"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-five-mountain-ministries-1.png",
+  "nameCN": "五项山地事工",
+  "descriptionCN": "每 6 秒对最近的敌人施放僧兵经文。僧兵经文可减少敌方伤害 50%，持续 60 秒。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 10,
   "effects": []

@@ -26,6 +26,9 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-dhun-eideann-3.png",
+  "nameCN": "敦埃丁",
+  "descriptionCN": "低地科技成本降低 50%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/three-loch-lookout-3.png",
+  "nameCN": "三湖瞭望台",
+  "descriptionCN": "拥有广阔视野，并为集合厅或三湖瞭望台增加 3 次集合冲锋。通过集合获得的战士数量提升 75%。若建筑毗邻水域，还可选择集合海军。",
+  "displayClassesCN": [
+    "第四时代 - 高地军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

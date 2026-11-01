@@ -34,6 +34,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/battle-hardened-4.png",
+  "nameCN": "身经百战",
+  "descriptionCN": "皇宫卫兵的生命值 +30。",
+  "displayClassesCN": [
+    "皇宫卫兵科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

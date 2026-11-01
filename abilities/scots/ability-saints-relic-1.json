@@ -31,6 +31,9 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-saints-relic-1.png",
+  "nameCN": "圣徒之遗",
+  "descriptionCN": "附近友方非攻城单位在圣物影响下每秒恢复 1 生命。每提升一个时代，每秒恢复量增加 1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 7,
   "effects": [

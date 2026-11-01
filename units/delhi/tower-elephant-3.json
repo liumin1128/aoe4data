@@ -46,6 +46,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/tower-elephant-3.png",
+  "nameCN": "箭塔象",
+  "descriptionCN": "强大的远程骑兵，移动时也可进行射击。\n+ 高生命值\n+ 背上有强大的步弓手\n+ 可以攻击石墙\n- 移动速度较慢",
+  "displayClassesCN": [
+    "远程骑兵、大象"
+  ],
   "hitpoints": 600,
   "weapons": [
     {

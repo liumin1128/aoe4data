@@ -24,6 +24,9 @@
     "konungr-hall"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-call-shield-maidens-1.png",
+  "nameCN": "召唤持盾女战士",
+  "descriptionCN": "派遣 1 名持盾女战士，并且每建造一座长屋可额外派遣 1 名持盾女战士。无视持盾女战士的常规招募上限，仅可使用一次。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "effects": []

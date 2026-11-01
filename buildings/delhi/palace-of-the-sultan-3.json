@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/palace-of-the-sultan-3.png",
+  "nameCN": "苏丹宫殿",
+  "descriptionCN": "自动生产苏丹的精锐箭塔象。派遣学者 (最多 4 名) 驻扎于地标可提升生产速度。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -35,5 +35,10 @@
     "council-hall"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-longbowmen-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将长弓兵升级为老练长弓兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

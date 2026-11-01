@@ -35,5 +35,10 @@
     "war-stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-iron-pagodas-3.png",
+  "nameCN": "升级为老练铁浮屠",
+  "descriptionCN": "将铁浮屠升级为老练铁浮屠。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

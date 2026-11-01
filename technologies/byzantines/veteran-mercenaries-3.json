@@ -37,5 +37,10 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-mercenaries-3.png",
+  "nameCN": "老练合同",
+  "descriptionCN": "将坚韧雇佣兵升级为老练雇佣兵。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

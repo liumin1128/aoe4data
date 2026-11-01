@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-battle-veteran-1.png",
+  "nameCN": "战斗老兵",
+  "descriptionCN": "每次攻击后恢复生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 5,
   "effects": [

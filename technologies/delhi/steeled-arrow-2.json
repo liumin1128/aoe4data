@@ -35,6 +35,11 @@
     "tower-of-victory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/steeled-arrow-2.png",
+  "nameCN": "钢制箭头",
+  "descriptionCN": "所有弓箭、弩箭和炮台的远程伤害 +1。",
+  "displayClassesCN": [
+    "远程伤害科技 1/3"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

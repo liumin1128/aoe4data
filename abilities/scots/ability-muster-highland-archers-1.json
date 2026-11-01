@@ -24,6 +24,9 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-muster-highland-archers-1.png",
+  "nameCN": "集合高地弓兵",
+  "descriptionCN": "召唤忠诚的高地酋长，在集合厅招募 9 名高地弓兵。仅可使用一次。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": []

@@ -35,5 +35,10 @@
     "council-hall"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/elite-longbowmen-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将老练长弓兵升级为精锐长弓兵。",
+  "displayClassesCN": [
+    "单位科技 2/2"
+  ],
   "unlocks": ""
 }

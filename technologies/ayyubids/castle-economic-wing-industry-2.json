@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/economic-wing-industry-2.png",
+  "nameCN": "经济偏殿：工业",
+  "descriptionCN": "建造经济偏殿。\n完成后，获得 900 木材和 400 石料。村民建造建筑的速度 +40%。",
+  "displayClassesCN": [
+    "发展到第三时代"
+  ],
   "effects": []
 }

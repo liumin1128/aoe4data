@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/ryokan-1.png",
+  "nameCN": "日式旅馆",
+  "descriptionCN": "人口 +60，附近单位获得永久治疗增益，在脱离战斗后每 6 秒恢复 4 生命值。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

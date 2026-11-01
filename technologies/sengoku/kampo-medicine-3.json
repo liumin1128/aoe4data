@@ -34,6 +34,11 @@
     "temple-of-equality"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/kampo-medicine-3.png",
+  "nameCN": "汉方医学",
+  "descriptionCN": "一向一揆僧侣攻击光环治疗效果 +1。",
+  "displayClassesCN": [
+    "佛教科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/rikets-nyckel-castle-3.png",
+  "nameCN": "里凯茨尼克尔城堡",
+  "descriptionCN": "作为城堡使用，可发射箭雨。人口与最大人口数提升 10。所有单位阶级科技成本降低 50%。建造完成时征募 10 名斯科讷弩手。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 5500,
   "weapons": [
     {

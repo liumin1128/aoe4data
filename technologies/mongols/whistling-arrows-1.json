@@ -34,6 +34,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/whistling-arrows-1.png",
+  "nameCN": "镝矢",
+  "descriptionCN": "汗的信号箭持续时间 +5 秒，且攻击范围 +2 格。",
+  "displayClassesCN": [
+    "汗科技"
+  ],
   "effects": [
     {
       "property": "unknown",

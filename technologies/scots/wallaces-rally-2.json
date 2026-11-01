@@ -34,5 +34,10 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/wallaces-rally-2.png",
+  "nameCN": "华莱士的集合",
+  "descriptionCN": "华莱士的遗产继续激励他的族人，使步兵生产速度提升 50%。步兵集合后，在非战斗状态下移动速度提升 25%，持续 25 秒。",
+  "displayClassesCN": [
+    "生产科技"
+  ],
   "effects": []
 }

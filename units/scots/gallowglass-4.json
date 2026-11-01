@@ -44,6 +44,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/gallowglass-4.png",
+  "nameCN": "精锐武装侍从",
+  "descriptionCN": "重型近战步兵，装备双手苏格兰阔刃大剑，适合混编军队。\n+ 近战攻击造成范围伤害\n+ 可抵御骑兵冲锋\n- 攻击速度缓慢\n- 易被弩、骑士克制",
+  "displayClassesCN": [
+    "重型近战步兵，高地战士"
+  ],
   "hitpoints": 210,
   "weapons": [
     {

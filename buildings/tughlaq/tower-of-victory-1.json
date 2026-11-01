@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/tower-of-victory-1.png",
+  "nameCN": "胜利之塔",
+  "descriptionCN": "在胜利之塔的影响范围内的建筑中生产大象，可将其攻击速度 +20%。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

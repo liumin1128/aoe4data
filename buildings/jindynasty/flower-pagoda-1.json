@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/flower-pagoda-1.png",
+  "nameCN": "花塔",
+  "descriptionCN": "赋予种植花园的能力，只要身处花园中，村民的采集速率和非攻城军事单位的攻击速度都会得到提升。\n生成 3 个草原标杆。在这些草原标杆上只能建造一片草原。",
+  "displayClassesCN": [
+    "第二时代：经济地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

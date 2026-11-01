@@ -24,6 +24,9 @@
     "rikets-nyckel-castle"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/rikets-nyckel-castle-3.png",
+  "nameCN": "(translation not found) (undefined)",
+  "descriptionCN": "(translation not found) (undefined)",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

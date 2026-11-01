@@ -26,6 +26,9 @@
     "tower-of-skye"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-tower-of-skye-2.png",
+  "nameCN": "斯凯岛之塔",
+  "descriptionCN": "高地科技成本降低 50%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

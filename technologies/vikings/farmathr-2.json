@@ -33,6 +33,11 @@
     "market"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/farmathr-2.png",
+  "nameCN": "法马瑟尔",
+  "descriptionCN": "商人和商船的生命值提升 25%，移动速度提升 10%。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

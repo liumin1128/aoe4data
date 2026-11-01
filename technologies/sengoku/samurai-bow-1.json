@@ -34,5 +34,10 @@
     "hojo-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/samurai-bow-1.png",
+  "nameCN": "日本武士弓",
+  "descriptionCN": "薙刀日本武士可定期使用日本长弓发动远程攻击。",
+  "displayClassesCN": [
+    "北条氏族科技"
+  ],
   "effects": []
 }

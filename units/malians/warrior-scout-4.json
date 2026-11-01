@@ -46,6 +46,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/warrior-scout-4.png",
+  "nameCN": "精锐战士侦察兵",
+  "descriptionCN": "行动快速的骑兵，擅长突袭和对抗远程单位。\n+ 对远程单位造成额外伤害 \n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 不擅对抗近战单位",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 155,
   "weapons": [
     {

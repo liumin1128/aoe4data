@@ -35,6 +35,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/additional-torches-improved-3.png",
+  "nameCN": "更多火炬 (已强化)",
+  "descriptionCN": "所有步兵和骑兵的火炬伤害 +5。\n如果已完成更多火炬研究，则所有步兵和骑兵的火炬伤害 +2。",
+  "displayClassesCN": [
+    "突袭科技"
+  ],
   "effects": [
     {
       "property": "fireAttack",

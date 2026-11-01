@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/foreign-engineering-company-3.png",
+  "nameCN": "外国工程公司",
+  "descriptionCN": "允许使用白银生产一窝蜂、回回炮和皇家加农炮。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

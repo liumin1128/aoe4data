@@ -35,5 +35,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-onna-bugeisha-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将女武艺者升级为老练女武艺者。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

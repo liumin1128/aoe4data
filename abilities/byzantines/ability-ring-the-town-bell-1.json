@@ -26,6 +26,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-ring-the-town-bell-1.png",
+  "nameCN": "敲响警钟",
+  "descriptionCN": "警报并命令附近所有村民自动前往最近的可驻扎建筑避难。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 5,

@@ -35,6 +35,11 @@
     "regnitz-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/devoutness-3.png",
+  "nameCN": "虔诚",
+  "descriptionCN": "受到鼓舞的村民采集资源的速度提升 +5%，建造建筑物和防御工事的速度提升 +25%。",
+  "displayClassesCN": [
+    "高级教士科技"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

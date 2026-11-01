@@ -35,6 +35,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/geometry-improved-4.png",
+  "nameCN": "几何学 (已强化)",
+  "descriptionCN": "巨型投石机的伤害 +30%。\n如果已完成几何学的研究，则伤害 +10%。",
+  "displayClassesCN": [
+    "攻城科技"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

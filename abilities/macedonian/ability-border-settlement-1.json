@@ -25,6 +25,9 @@
     "house"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-border-settlement-1.png",
+  "nameCN": "边境聚落",
+  "descriptionCN": "视野范围增加 7 格。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

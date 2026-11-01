@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/khaganate-palace-3.png",
+  "nameCN": "汗国宫殿",
+  "descriptionCN": "自动生成来自蒙古帝国及其领地的各种军队。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

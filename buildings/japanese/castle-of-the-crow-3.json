@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/castle-of-the-crow-3.png",
+  "nameCN": "乌城",
+  "descriptionCN": "充当一座城堡。可从所选的中立贸易站定期生成宝藏商队。宝藏商队在抵达乌城时提供大量食物、木材、黄金以及部分石料。",
+  "displayClassesCN": [
+    "第四时代：防御地标"
+  ],
   "hitpoints": 5500,
   "weapons": [
     {

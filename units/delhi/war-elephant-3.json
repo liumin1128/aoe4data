@@ -45,6 +45,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/war-elephant-3.png",
+  "nameCN": "战象",
+  "descriptionCN": "重装骑兵，擅长对付骑兵、攻城器械、城墙和建筑。\n+ 高生命值、高护甲\n+ 背上有一名高级长矛兵\n+ 可以攻击石墙\n- 移动速度较慢",
+  "displayClassesCN": [
+    "重装近战骑兵、大象"
+  ],
   "hitpoints": 800,
   "weapons": [
     {

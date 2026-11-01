@@ -30,6 +30,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/armored-beasts-4.png",
+  "nameCN": "装甲野兽",
+  "descriptionCN": "赋予战象 +20% 生命值和 +4 远程护甲。",
+  "displayClassesCN": [
+    "大象科技"
+  ],
   "effects": [
     {
       "property": "rangedArmor",

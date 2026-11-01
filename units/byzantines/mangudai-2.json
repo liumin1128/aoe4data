@@ -43,6 +43,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/byzantines/mangudai-2.png",
+  "nameCN": "蒙古突骑",
+  "descriptionCN": "机动性惊人的远程骑兵，移动时能以缓慢的射速进行射击。\n+ 射速高\n- 武器射程较近",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 85,
   "weapons": [
     {

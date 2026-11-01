@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-bjorn-saga-1.png",
+  "nameCN": "比约恩萨迦",
+  "descriptionCN": "步兵生命值提升 10%，冲锋距离增加 2 格。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

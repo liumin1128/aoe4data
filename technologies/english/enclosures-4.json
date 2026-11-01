@@ -34,6 +34,11 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/enclosures-4.png",
+  "nameCN": "圈地",
+  "descriptionCN": "每一块有村民耕种的农田圈地每 6 秒会产生 +1 黄金。",
+  "displayClassesCN": [
+    "农田科技"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

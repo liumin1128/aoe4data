@@ -36,5 +36,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/upgrade-riddari-into-elite-riddari-4.png",
+  "nameCN": "升级为精锐",
+  "descriptionCN": "将瑞塔利升级为精锐瑞塔利。",
+  "displayClassesCN": [
+    "单位科技 1/1"
+  ],
   "unlocks": ""
 }

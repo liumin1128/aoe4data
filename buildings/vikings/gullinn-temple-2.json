@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/gullinn-temple-2.png",
+  "nameCN": "古林神庙",
+  "descriptionCN": "作为神圣树林使用。允许维勒尔在圣地建立神圣树林，并解锁龙船萨迦，使神圣树林狂战士产量提升 15% 。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -39,6 +39,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/bedouin-skirmisher-2.png",
+  "nameCN": "贝都因掷矛手",
+  "descriptionCN": "使用标枪来抵御轻型装甲敌人的远程步兵。\n+ 对抗轻型步兵时可获得加成\n+ 长距离\n- 不擅长对付骑兵",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 90,
   "weapons": [
     {

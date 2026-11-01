@@ -35,6 +35,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/extra-oars-2.png",
+  "nameCN": "额外船桨",
+  "descriptionCN": "维京长船的货舱容量提升 +6，武器伤害提升 +1。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

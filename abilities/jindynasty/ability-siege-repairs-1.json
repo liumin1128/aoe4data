@@ -24,6 +24,9 @@
     "machine-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-siege-repairs-1.png",
+  "nameCN": "攻城修复工作",
+  "descriptionCN": "修复附近的攻城器械，每秒恢复 2 生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 4.5,
   "effects": []

@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-rider-companions-1.png",
+  "nameCN": "骑兵同伴",
+  "descriptionCN": "可以在马厩训练贞德骑兵了。\n获得“骑兵就绪！”，这可将 3 名骑兵集结到她身边。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

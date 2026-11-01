@@ -35,5 +35,10 @@
     "valdemar-castle"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/danevirke-3.png",
+  "nameCN": "丹麦长城",
+  "descriptionCN": "将木栅栏转换为丹麦长城城墙，生命值提升 1000，并拥有 5 火焰护甲。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": []
 }

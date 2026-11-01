@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/farmhouse-1.png",
+  "nameCN": "农舍",
+  "descriptionCN": "提高人口上限而且村民可将食物存放于这座建筑。可研究提升食物采集效率的科技。",
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

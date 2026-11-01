@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-ascetic-recovery-1.png",
+  "nameCN": "苦行恢复",
+  "descriptionCN": "少林僧侣在脱离战斗时会恢复生命值。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

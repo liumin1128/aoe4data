@@ -59,6 +59,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shipwrights-4.png",
+  "nameCN": "造船工",
+  "descriptionCN": "所有军用舰船的生命值提升 20% ，远程护甲提升 1。",
+  "displayClassesCN": [
+    "海军科技 2/2"
+  ],
   "effects": [
     {
       "property": "hitpoints",

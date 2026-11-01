@@ -36,6 +36,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/textiles-improved-3.png",
+  "nameCN": "纺织品 (已强化)",
+  "descriptionCN": "村民生命值 +50%。\n如果已完成纺织品研究，则生命值 +100%。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

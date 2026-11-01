@@ -45,6 +45,11 @@
     "military-school"
   ],
   "icon": "https://data.aoe4world.com/images/units/akinji-2.png",
+  "nameCN": "阿金基轻骑兵",
+  "descriptionCN": "高机动性的远程骑兵，可快速连续发射两支箭。\n+ 高机动性\n- 不擅长对抗远程单位",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 95,
   "weapons": [
     {

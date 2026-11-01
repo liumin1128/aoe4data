@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/kipchak-archer-3.png",
+  "nameCN": "钦察弓兵",
+  "descriptionCN": "机动性高的远程骑兵，擅长对付速度较慢的近战单位，并且击中单位后使其流血。任何治疗都会消除流血状态。\n+ 高机动性\n- 低伤害\n- 不擅长对付远程单位",
+  "displayClassesCN": [
+    "轻型远程骑兵"
+  ],
   "hitpoints": 105,
   "weapons": [
     {

@@ -25,6 +25,9 @@
     "sacred-grove"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-toggle-berserker-production-off-1.png",
+  "nameCN": "狂战士自动生产（关闭）",
+  "descriptionCN": "开启后将恢复该神圣树林的狂战士生产。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "effects": []

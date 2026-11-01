@@ -37,6 +37,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/goldenhorde/villager-1.png",
+  "nameCN": "村民",
+  "descriptionCN": "采集木材、食物和黄金。建造并修理建筑，也可修理攻城器械和海军单位。\n- 不擅近战\n- 无法采集石料 (可建造一个敖包来采集石料)",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 50,
   "weapons": [
     {

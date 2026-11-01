@@ -31,6 +31,11 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/farmstead-1.png",
+  "nameCN": "农庄",
+  "descriptionCN": "长屋变为食物收集点，并新增两块可采集的蔬菜田，采集速度比农田快 50%。长屋生命值提升 500。\n农庄升级长屋最多限 6 座。",
+  "displayClassesCN": [
+    "长屋升级"
+  ],
   "effects": [
     {
       "property": "hitpoints",

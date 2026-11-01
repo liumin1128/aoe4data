@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-jormungandr-saga-1.png",
+  "nameCN": "巨蛇萨迦",
+  "descriptionCN": "船只与攻城武器费用降低 8%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

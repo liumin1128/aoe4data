@@ -36,6 +36,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/culture-wing-3.png",
+  "nameCN": "文化偏殿",
+  "descriptionCN": "以下文化科技现已开放：\n• 知识保存（第二时代）\n• 代数（第三时代）\n• 公共图书馆（第四时代）",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": [
     {
       "property": "hitpoints",

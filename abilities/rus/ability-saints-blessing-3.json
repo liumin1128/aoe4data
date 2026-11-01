@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-saints-blessing-1.png",
+  "nameCN": "圣者的祝福",
+  "descriptionCN": "攻击敌人后，僧侣战士会在一段时间内提升邻近友方罗斯军事单位的护甲和伤害。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 2,
   "effects": [

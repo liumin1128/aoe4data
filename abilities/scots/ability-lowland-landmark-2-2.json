@@ -26,6 +26,9 @@
     "snowdoun-gate"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-snowdoun-gate-2.png",
+  "nameCN": "斯诺当大门",
+  "descriptionCN": "低地科技成本降低 50%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

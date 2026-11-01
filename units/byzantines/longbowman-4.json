@@ -42,6 +42,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/longbowman-4.png",
+  "nameCN": "精锐长弓兵",
+  "descriptionCN": "便宜的远程步兵，能对没有护甲的目标造成可观伤害。\n+ 攻击范围长\n+ 可建造拒马阻挡骑兵冲锋\n- 移动速度较慢\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 95,
   "weapons": [
     {

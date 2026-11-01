@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/wynguard-palace-3.png",
+  "nameCN": "温嘉德宫殿",
+  "descriptionCN": "可以生产 4 个营队：温嘉德军队、温嘉德长弓兵、温嘉德掠夺者和温嘉德步兵。",
+  "displayClassesCN": [
+    "第四时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

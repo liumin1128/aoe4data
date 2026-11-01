@@ -24,6 +24,9 @@
     "koka-township"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-shinobi-scout-1.png",
+  "nameCN": "忍者侦察兵",
+  "descriptionCN": "显示以 10 格为半径的一片区域，持续 20 秒。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 2500,
   "cooldown": 120,

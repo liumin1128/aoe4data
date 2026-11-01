@@ -36,6 +36,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/specialized-pick-improved-2.png",
+  "nameCN": "特制矿锄 (已强化)",
+  "descriptionCN": "村民的黄金采集速率提升 35%。\n如果已完成特制矿锄研究，则提升 20%。",
+  "displayClassesCN": [
+    "采矿科技"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/regnitz-cathedral-2.png",
+  "nameCN": "雷格尼茨大教堂",
+  "descriptionCN": "可作为修道院使用。所有放置在其中的圣物产生的黄金 +100%。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

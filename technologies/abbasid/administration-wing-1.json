@@ -36,5 +36,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/administration-wing-1.png",
+  "nameCN": "行政偏殿",
+  "descriptionCN": "建造行政偏殿。被动提供的所有黄金时代加成效果 +50%。\n解锁内容：\n• 城市规划 (第二时代)\n• 攻城指令 (第三时代)\n• 大集市 (第四时代)",
+  "displayClassesCN": [
+    "发展到第二时代"
+  ],
   "effects": []
 }

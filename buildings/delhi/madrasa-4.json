@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/madrasa-4.png",
+  "nameCN": "穆斯林学塾",
+  "descriptionCN": "可研究对整个文明有益的先进科技。",
+  "displayClassesCN": [
+    "科技建筑"
+  ],
   "hitpoints": 2100,
   "weapons": [],
   "armor": [

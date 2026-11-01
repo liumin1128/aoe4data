@@ -43,6 +43,11 @@
     "imperial-hippodrome"
   ],
   "icon": "https://data.aoe4world.com/images/units/hippodrome-horseman-1.png",
+  "nameCN": "竞技场骑手",
+  "descriptionCN": "快速骑兵，可增强附近骑兵的伤害。\n+ 移动速度快\n+ 恢复生命值\n- 不擅长对付近战单位\n- 会受到长矛兵克制",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

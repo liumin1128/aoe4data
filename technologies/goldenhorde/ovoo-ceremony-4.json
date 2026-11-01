@@ -34,5 +34,10 @@
     "ger"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ovoo-ceremony-4.png",
+  "nameCN": "敖包仪式",
+  "descriptionCN": "敖包的石料采集速率 +20%。",
+  "displayClassesCN": [
+    "石料采集科技 2/2"
+  ],
   "effects": []
 }

@@ -24,6 +24,9 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-kharash-edict-4.png",
+  "nameCN": "肉盾法令",
+  "descriptionCN": "启用后，每当招募任何单位时，强化哨站影响范围内的黄金帐篷和军事建筑都会额外生产一个肉盾。\n只能启用一个法令。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "edict_toggle",

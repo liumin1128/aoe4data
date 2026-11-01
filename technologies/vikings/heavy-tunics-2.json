@@ -29,6 +29,9 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-heavy-tunics-1.png",
+  "nameCN": "重装紧身上衣",
+  "descriptionCN": "所有非攻城单位的远程与近战护甲提升 1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

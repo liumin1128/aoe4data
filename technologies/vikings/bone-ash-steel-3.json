@@ -29,6 +29,9 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-bone-ash-steel-2.png",
+  "nameCN": "骨灰钢",
+  "descriptionCN": "所有步兵、骑兵及防御工事的伤害提升 2。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/hardened-donso-2.png",
+  "nameCN": "升级为坚韧",
+  "descriptionCN": "将当佐兵升级为坚韧当佐兵。",
+  "displayClassesCN": [
+    "单位科技 1/3"
+  ],
   "unlocks": ""
 }

@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/tughlaqabad-fort-2.png",
+  "nameCN": "腾格拉卡巴德堡垒",
+  "descriptionCN": "重型驻军及防御地点，可选择总督加成。可进行武器升级。单位驻扎时可增加额外的攻击。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 2000,
   "weapons": [
     {

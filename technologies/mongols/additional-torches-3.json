@@ -34,6 +34,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/additional-torches-3.png",
+  "nameCN": "更多火炬",
+  "descriptionCN": "所有步兵和骑兵的火炬伤害 +3。",
+  "displayClassesCN": [
+    "突袭科技"
+  ],
   "effects": [
     {
       "property": "fireAttack",

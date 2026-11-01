@@ -25,6 +25,9 @@
     "outpost"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-yam-1.png",
+  "nameCN": "驿站",
+  "descriptionCN": "哨站附近的骑兵和商人的速度 +15%，持续 10 秒。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

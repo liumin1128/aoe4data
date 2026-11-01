@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/snowdoun-gate-2.png",
+  "nameCN": "斯诺当大门",
+  "descriptionCN": "免费生产已切换的步兵，每分钟可获得价值 190 的资源。\n在集合厅研究的科技将提升该地标的步兵生产速度 15%。当敌人接近时，步兵会加快部署，并额外提升 15% 的生产速度。",
+  "displayClassesCN": [
+    "第三时代 - 低地军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

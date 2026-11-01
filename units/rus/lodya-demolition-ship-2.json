@@ -41,6 +41,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/lodya-demolition-ship-2.png",
+  "nameCN": "罗德亚爆破船",
+  "descriptionCN": "装满炸药的小船。在遭到摧毁时会爆炸，对该区域内的所有单位造成伤害。\n+ 罗德亚可以转换为任何其他船型\n- 离爆炸中心越远造成伤害越低\n- 自毁是唯一武器",
+  "displayClassesCN": [
+    "燃烧船"
+  ],
   "hitpoints": 145,
   "weapons": [
     {

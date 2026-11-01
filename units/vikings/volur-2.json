@@ -37,6 +37,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/volur-2.png",
+  "nameCN": "维勒尔",
+  "descriptionCN": "辅助单位，无战斗能力，可被牺牲以在圣物上建立神圣树林，或可自动在长屋之间移动，提升其生产效率。\n- 易受所有攻击伤害\n- 移动速度缓慢",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

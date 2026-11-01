@@ -25,6 +25,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/buildings/saga-pillars-1.png",
+  "nameCN": "萨迦之柱",
+  "descriptionCN": "在此遗址的每根柱子上雕刻您的传奇故事，激励民众，让您的传说永世流传。",
+  "displayClassesCN": [
+    "宗教遗址"
+  ],
   "weapons": [],
   "armor": [],
   "sight": {

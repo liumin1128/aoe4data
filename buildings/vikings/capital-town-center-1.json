@@ -45,6 +45,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/capital-town-center.png",
+  "nameCN": "城镇中心",
+  "descriptionCN": "所有资源均可在此存放。可生产村民、侦察兵，并提升最大人口。驻扎时可获得额外攻击。\n首都城镇中心可侦测单位潜行或伪装。维京首都附近的石柱会逐步揭示萨迦进度。",
+  "displayClassesCN": [
+    "经济和人口建筑、地标"
+  ],
   "hitpoints": 7000,
   "weapons": [],
   "armor": [

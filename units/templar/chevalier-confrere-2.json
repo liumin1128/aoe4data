@@ -46,6 +46,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/chevalier-confrere-2.png",
+  "nameCN": "同伴骑士",
+  "descriptionCN": "重装骑兵，可造成较高伤害。附近存在重装骑兵时，可获得额外生命值加成。\n+ 比普通骑士便宜\n+ 重型护甲\n+ 擅长近战战斗\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 160,
   "weapons": [
     {

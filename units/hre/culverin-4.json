@@ -39,6 +39,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/culverin-4.png",
+  "nameCN": "长管炮",
+  "descriptionCN": "远程移动加农炮，对抗建筑时可获得加成。\n+ 擅长对抗防御工事\n+ 无需架设即可发射",
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

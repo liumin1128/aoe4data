@@ -32,5 +32,10 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/western-mercenary-contract-1.png",
+  "nameCN": "西方雇佣兵合同",
+  "descriptionCN": "解锁长弓兵、国土佣仆和射击军雇佣兵的生产。\n长弓兵：封建时代\n国土佣仆：老练合同\n射击军：精锐合同",
+  "displayClassesCN": [
+    "雇佣兵合同"
+  ],
   "effects": []
 }

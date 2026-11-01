@@ -33,6 +33,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/house-1.png",
+  "nameCN": "房屋",
+  "descriptionCN": "将人口上限提升 5。马里房屋的建造成本较标准成本减半。",
+  "displayClassesCN": [
+    "人口建筑"
+  ],
   "hitpoints": 550,
   "weapons": [],
   "armor": [

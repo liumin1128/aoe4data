@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stone-wall-2.png",
+  "nameCN": "石墙",
+  "descriptionCN": "坚固的城墙，火把无法攻击。\n城墙上的单位受到远程攻击的伤害 -25%，攻城攻击的伤害 -50%，并且它们的射程 +1。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 3000,
   "weapons": [],
   "armor": [

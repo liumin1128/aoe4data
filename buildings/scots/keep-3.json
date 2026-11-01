@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/keep-3.png",
+  "nameCN": "城堡",
+  "descriptionCN": "重兵驻守，防御坚固，可升级武器。驻守时可增加额外攻击。\n城堡被摧毁后，会成为可修复的城堡遗迹，并使周边区域在 60 秒内被破坏。处于破坏区域的敌人战斗能力降低。城堡遗迹可在 60 秒内随时修复恢复，修复最多需消耗 600 石料，之后修复免费。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

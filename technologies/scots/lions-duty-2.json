@@ -35,5 +35,10 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/lions-duty-2.png",
+  "nameCN": "狮之义务",
+  "descriptionCN": "步兵在地标、城堡、塔楼和石墙塔附近时获得 1 护甲。",
+  "displayClassesCN": [
+    "低地科技"
+  ],
   "effects": []
 }

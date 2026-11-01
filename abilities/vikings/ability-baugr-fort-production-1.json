@@ -17,6 +17,9 @@
     "baugr-fort"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-baugr-fort-production-1.png",
+  "nameCN": "抱格尔堡垒生产",
+  "descriptionCN": "兵营工作速度提升 25%",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "unknown",

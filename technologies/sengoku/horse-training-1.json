@@ -34,6 +34,11 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/horse-training-1.png",
+  "nameCN": "驯马",
+  "descriptionCN": "骑兵的移动速度 +5%。",
+  "displayClassesCN": [
+    "武田氏族科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

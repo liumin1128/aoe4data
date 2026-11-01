@@ -52,6 +52,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/jeanne-darc-knight-3.png",
+  "nameCN": "圣女贞德 - 骑士",
+  "descriptionCN": "强大的重装骑兵领袖，具有高伤害和高生命值。如果贞德被击败，她可以在城镇中心被复活。\n+ 重型护甲\n+ 移动速度快\n- 会受到长矛兵克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 360,
   "weapons": [
     {

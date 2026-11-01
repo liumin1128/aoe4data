@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/istanbul-observatory-3.png",
+  "nameCN": "伊斯坦布尔天文台",
+  "descriptionCN": "可作为大学使用。大学和铁匠铺所提供的影响力，以及大型桨帆船的生产速度均提升至 +85%。",
+  "displayClassesCN": [
+    "第四时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

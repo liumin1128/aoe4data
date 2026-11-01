@@ -36,6 +36,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/oda-clan-daimyo-estate-2.png",
+  "nameCN": "织田氏族大名府邸",
+  "descriptionCN": "增加织田氏支援，为靶场步兵提供加成。\n生产大名单位。每建造一座织田氏大名府邸，其生命值 +1000，消耗的石料和木材 +x2。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 2000,
   "weapons": [],
   "armor": [

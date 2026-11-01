@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/istanbul-imperial-palace-2.png",
+  "nameCN": "伊斯坦布尔皇宫",
+  "descriptionCN": "在全局范围内获得双倍帝国议会经验值，并且维齐尔点数上限 +4。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -39,6 +39,11 @@
     "gilded-villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/burgrave-palace-2.png",
+  "nameCN": "城主宫殿",
+  "descriptionCN": "可作为兵营使用，产生单位的工作效率增加 35%，生产成本减少 35%。研究科技速度加快 35%。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

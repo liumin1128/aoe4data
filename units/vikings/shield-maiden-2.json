@@ -42,6 +42,11 @@
     "konungr-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/shield-maiden-2.png",
+  "nameCN": "持盾女战士",
+  "descriptionCN": "重型远程单位，靠近友方建筑时拥有+2伤害和+25%移动速度。\n+ 护甲较高\n+ 生命值较高\n+ 为附近村民提供+2护甲\n- 易被骑兵克制",
+  "displayClassesCN": [
+    "重型远程步兵"
+  ],
   "hitpoints": 100,
   "weapons": [
     {

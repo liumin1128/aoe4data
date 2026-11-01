@@ -35,6 +35,11 @@
     "forge"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hizukuri-2.png",
+  "nameCN": "火造",
+  "descriptionCN": "所有非攻城单位的近战伤害 +1。",
+  "displayClassesCN": [
+    "近战伤害科技 2/4"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

@@ -35,5 +35,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/snaerisspjot-3.png",
+  "nameCN": "斯内里斯普约特",
+  "descriptionCN": "将德拉卡尔的武器更换为投掷长矛，伤害提升 2，射程提升 1。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

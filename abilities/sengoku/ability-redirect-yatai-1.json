@@ -24,6 +24,9 @@
     "matsuri"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-redirect-yatai-1.png",
+  "nameCN": "改变屋台的方向",
+  "descriptionCN": "启用时，所有屋台的主祭典均设为这座建筑。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "toggleGroup": "matsuri_call",

@@ -24,6 +24,9 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-scorched-earth-1.png",
+  "nameCN": "焦土",
+  "descriptionCN": "当城堡被敌军摧毁时，周边区域将在 60 秒内被破坏，并成为城堡遗迹。受影响的敌人攻击速度降低 15%，移动速度降低 25%。城堡遗迹可在 60 秒内随时修缮恢复。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

@@ -32,6 +32,11 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/pasture-and-loom-2.png",
+  "nameCN": "牧场和织布机",
+  "descriptionCN": "自动研究近战和远程护甲科技。上一时代的科技研究速度提升 60 秒。长屋生命值提升 750。\n仅限 1 牧场和织布机升级过的长屋。",
+  "displayClassesCN": [
+    "长屋升级"
+  ],
   "effects": [
     {
       "property": "hitpoints",

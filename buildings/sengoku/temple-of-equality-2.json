@@ -41,6 +41,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/temple-of-equality-2.png",
+  "nameCN": "平等院",
+  "descriptionCN": "可作为佛教寺庙使用，其中包含独特的一向一揆升级。可将一向一揆僧侣的训练成本降低 25%。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

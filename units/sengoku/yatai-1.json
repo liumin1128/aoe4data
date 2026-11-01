@@ -33,6 +33,11 @@
     "matsuri"
   ],
   "icon": "https://data.aoe4world.com/images/units/yatai-1.png",
+  "nameCN": "屋台",
+  "descriptionCN": "从附近来源收集食物，但不会进行消耗，此外基础速率为每分钟 10 食物。收集到足够的食物后，将会派出一名商人前往参加主祭典，这可让祭典采集速率光环 +5%，生命值 +250，并额外提供 +50 的食物。\n多个屋台所覆盖的食物来源只计算一次，野猪在屋台附近时不会反击。屋台的上限为 3，并且每次提升时代 +1。",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 320,
   "weapons": [],
   "armor": [],

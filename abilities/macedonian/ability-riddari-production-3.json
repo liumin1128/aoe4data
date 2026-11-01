@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-riddari-production-3.png",
+  "nameCN": "瑞塔利生产",
+  "descriptionCN": "开启以派遣瑞塔利增援",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "varangian",

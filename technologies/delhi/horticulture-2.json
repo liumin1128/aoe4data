@@ -34,6 +34,11 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/horticulture-2.png",
+  "nameCN": "园艺学",
+  "descriptionCN": "村民的食物采集速率 +10%，不包括狩猎肉类。",
+  "displayClassesCN": [
+    "食物采集科技 1/3"
+  ],
   "effects": [
     {
       "property": "foodGatherRate",

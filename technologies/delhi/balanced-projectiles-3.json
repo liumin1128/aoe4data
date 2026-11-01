@@ -35,6 +35,11 @@
     "tower-of-victory"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/balanced-projectiles-3.png",
+  "nameCN": "平衡炮弹",
+  "descriptionCN": "所有弓箭、弩箭和炮台的远程伤害 +1。",
+  "displayClassesCN": [
+    "远程伤害科技 2/3"
+  ],
   "effects": [
     {
       "property": "rangedAttack",

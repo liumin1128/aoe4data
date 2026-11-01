@@ -34,5 +34,10 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-yari-cavalry-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将日本长枪骑兵升级为老练日本长枪骑兵。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/mining-camp-1.png",
+  "nameCN": "采矿场",
+  "descriptionCN": "村民可将石料和黄金存放于这座建筑。可研究提升采矿效率的科技。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

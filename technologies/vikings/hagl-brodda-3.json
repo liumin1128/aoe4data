@@ -33,5 +33,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/hagl-brodda-3.png",
+  "nameCN": "哈格尔·布罗达",
+  "descriptionCN": "弓兵攻击时会射出箭雨，向附近随机位置额外发射 2 支箭，且这些箭造成的伤害降低 3。",
+  "displayClassesCN": [
+    "步弓手科技"
+  ],
   "effects": []
 }

@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-varangian-reinforcements-1.png",
+  "nameCN": "瓦兰吉援军",
+  "descriptionCN": "在战斗中足够多的单位阵亡后，用瓦兰吉人、箭船或攻击船进行增援。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "cooldown": 60,

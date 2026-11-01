@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-kanabo-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将金碎棒升级为老练金碎棒",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

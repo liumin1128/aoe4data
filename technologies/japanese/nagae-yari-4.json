@@ -35,6 +35,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/nagae-yari-4.png",
+  "nameCN": "日本长枪",
+  "descriptionCN": "长矛兵配备了较强的长矛，可使武器攻击范围 +20%，对骑兵造成的伤害 +15%。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

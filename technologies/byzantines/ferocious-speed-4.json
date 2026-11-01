@@ -35,6 +35,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ferocious-speed-4.png",
+  "nameCN": "狂暴速度",
+  "descriptionCN": "瓦兰吉卫队在激活狂战士时移动速度 +30%。",
+  "displayClassesCN": [
+    "瓦兰吉卫队科技"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

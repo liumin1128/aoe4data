@@ -35,6 +35,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/danevirke-gate-1.png",
+  "nameCN": "丹麦长城城门",
+  "descriptionCN": "轻型防御城门。必须建造在丹麦长城城墙段上。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 2350,
   "weapons": [],
   "armor": [

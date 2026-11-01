@@ -34,6 +34,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/additional-barrels-4.png",
+  "nameCN": "加装炮管",
+  "descriptionCN": "一窝蜂获得 3 额外的火箭。",
+  "displayClassesCN": [
+    "一窝蜂科技"
+  ],
   "effects": [
     {
       "property": "burst",

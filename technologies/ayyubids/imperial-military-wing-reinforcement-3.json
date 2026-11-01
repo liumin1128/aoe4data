@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/military-wing-reinforcement-3.png",
+  "nameCN": "军事偏殿：援军",
+  "descriptionCN": "建造军事偏殿。\n完成后，骑兵单位获得建造攻城武器的能力。\n智慧宫立即生产 7 名沙漠掠夺者，并在本局游戏剩余时间内每 2 分钟生产该数量的沙漠掠夺者。",
+  "displayClassesCN": [
+    "发展到第四时代"
+  ],
   "effects": []
 }

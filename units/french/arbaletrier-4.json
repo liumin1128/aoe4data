@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/arbaletrier-4.png",
+  "nameCN": "精锐弓弩手",
+  "descriptionCN": "配备了防御型大盾的高伤害远程单位。最适合在有友军协助时使用。\n+ 反重型专家\n+ 自带近战护甲\n- 生命值低\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 95,
   "weapons": [
     {

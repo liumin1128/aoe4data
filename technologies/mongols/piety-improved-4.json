@@ -35,6 +35,11 @@
     "prayer-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/piety-improved-4.png",
+  "nameCN": "虔诚 (已强化)",
+  "descriptionCN": "所有萨满的生命值 +60。\n如果已完成虔诚研究，则 +20。",
+  "displayClassesCN": [
+    "宗教科技"
+  ],
   "effects": [
     {
       "property": "hitpoints",

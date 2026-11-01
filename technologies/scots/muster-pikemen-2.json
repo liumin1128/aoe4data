@@ -33,6 +33,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-pikemen-2.png",
+  "nameCN": "集合长矛兵",
+  "descriptionCN": "召集拥有土地的封臣，在集合厅招募 8 名长枪兵。每场只能使用一次。",
+  "displayClassesCN": [
+    "皇家召集"
+  ],
   "effects": [],
   "recruits": [
     {

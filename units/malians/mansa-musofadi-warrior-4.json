@@ -45,6 +45,11 @@
     "farimba-garrison"
   ],
   "icon": "https://data.aoe4world.com/images/units/mansa-musofadi-warrior-4.png",
+  "nameCN": "精锐曼萨穆索法迪战士",
+  "descriptionCN": "擅长伏击和克制重型目标的步兵。拥有额外的近战护甲和生命值。\n+ 可以进入匿踪状态\n+ 反重型专家\n- 生命值低\n- 受弓兵克制\n- 首都城镇中心、哨站和侦察兵可以识破匿踪",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 150,
   "weapons": [
     {

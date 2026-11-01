@@ -25,6 +25,9 @@
     "castle-of-the-crow"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-castle-of-the-crow-aura-1.png",
+  "nameCN": "乌城光环",
+  "descriptionCN": "城堡附近攻城单位的攻击造成的伤害 +10%，射程 +1 格。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 15,
   "effects": []

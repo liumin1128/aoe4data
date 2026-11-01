@@ -34,6 +34,11 @@
     "house-of-learning"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/tranquil-venue-3.png",
+  "nameCN": "宁静之地",
+  "descriptionCN": "清真寺可以使脱离战斗的单位每秒回复 +4 生命值。",
+  "displayClassesCN": [
+    "清真寺科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

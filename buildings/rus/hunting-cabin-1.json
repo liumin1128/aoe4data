@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/hunting-cabin-1.png",
+  "nameCN": "狩猎小屋",
+  "descriptionCN": "村民可将食物存放于这座建筑。可研究增加食物采集效率和生产侦察兵的科技。\n根据附近的树木数量生产黄金。位于重合区域的树木只计算一次。",
+  "displayClassesCN": [
+    "经济建筑"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

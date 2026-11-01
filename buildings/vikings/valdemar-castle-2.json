@@ -43,6 +43,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/valdemar-castle-2.png",
+  "nameCN": "瓦尔德马尔城堡",
+  "descriptionCN": "作为城堡使用。授予丹麦长城科技，该科技将木栅栏替换为更坚固的城墙，使其获得 +5 火焰护甲。日德兰骑士被击杀时可额外获得 20 黄金。",
+  "displayClassesCN": [
+    "第三时代：防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

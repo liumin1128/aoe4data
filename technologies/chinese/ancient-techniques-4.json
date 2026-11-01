@@ -35,6 +35,11 @@
     "university"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ancient-techniques-4.png",
+  "nameCN": "古代技术",
+  "descriptionCN": "每达到一个王朝时村民的采集速率 +5%。",
+  "displayClassesCN": [
+    "采集科技"
+  ],
   "effects": [
     {
       "property": "foodGatherRate",

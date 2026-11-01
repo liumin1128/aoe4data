@@ -33,6 +33,11 @@
     "the-white-stupa"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/pax-mongolica-4.png",
+  "nameCN": "蒙古和平",
+  "descriptionCN": "所有哨站的生命值 +300，火焰护甲 +3。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": [
     {
       "property": "fireArmor",

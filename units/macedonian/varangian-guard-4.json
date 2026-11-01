@@ -49,6 +49,11 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/units/varangian-guard-4.png",
+  "nameCN": "精英瓦兰吉卫队",
+  "descriptionCN": "伤害较高的强壮步兵。可使用狂战士能力，牺牲护甲来增加伤害。\n+ 重型护甲\n+ 提升运输工具的护甲\n+ 离开运输船时移动速度提升\n+ 在盟军奇观附近时护甲提升\n- 移动速度较慢\n- 会受到弩手克制",
+  "displayClassesCN": [
+    "重装近战瓦兰吉步兵"
+  ],
   "hitpoints": 195,
   "weapons": [
     {

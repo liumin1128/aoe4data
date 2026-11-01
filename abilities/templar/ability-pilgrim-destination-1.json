@@ -24,6 +24,9 @@
     "capital-town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-pilgrim-destination-1.png",
+  "nameCN": "朝圣者目的地",
+  "descriptionCN": "为你的朝圣者选择一个圣地。朝圣者不能前往被敌人占领的圣地。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 0,
   "cooldown": 5,

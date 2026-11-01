@@ -35,5 +35,10 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/culture-wing-logistics-4.png",
+  "nameCN": "文化偏殿：后勤学",
+  "descriptionCN": "建造文化偏殿。\n完成后，可获得 4 名德尔维希，该单位的治疗效果 +50%，并永久启用。",
+  "displayClassesCN": [
+    "解锁加成"
+  ],
   "effects": []
 }

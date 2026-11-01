@@ -46,6 +46,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/tower-of-skye-2.png",
+  "nameCN": "斯凯岛之塔",
+  "descriptionCN": "作为配备射箭槽和弩炮的塔楼使用，可生成局部浓密森林，并使步兵在浓密森林中时伤害提升 15%。塔楼可解锁创建更多浓密森林的能力。箭船可解锁仙子之选技能。",
+  "displayClassesCN": [
+    "第三时代 - 高地防御地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

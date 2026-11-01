@@ -34,5 +34,10 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/bondi-forester-2.png",
+  "nameCN": "邦地护林员",
+  "descriptionCN": "每个邦地每分钟提供 10 木材，最多每分钟提供 250 木材。",
+  "displayClassesCN": [
+    "长矛兵科技"
+  ],
   "effects": []
 }

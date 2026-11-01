@@ -24,6 +24,9 @@
     "pagoda-forest"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-spiritual-awakening-1.png",
+  "nameCN": "精神觉醒",
+  "descriptionCN": "试图以该地标为圆心，逐层向外扩散招降敌方单位由你控制。驻扎僧侣可增加圈层，最多 3 层。\n冷却时间：7 分钟。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 6.25,
   "cooldown": 420,

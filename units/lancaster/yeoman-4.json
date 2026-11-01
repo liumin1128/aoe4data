@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/yeoman-4.png",
+  "nameCN": "精锐英皇侍卫",
+  "descriptionCN": "行动迅速的远程步兵，能对无护甲目标造成可观的伤害。\n+ 射程远\n+ 移动速度快\n- 会受到骑手克制",
+  "displayClassesCN": [
+    "轻型远程步兵"
+  ],
   "hitpoints": 95,
   "weapons": [
     {

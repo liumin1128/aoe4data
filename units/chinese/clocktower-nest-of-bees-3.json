@@ -40,6 +40,11 @@
     "astronomical-clocktower"
   ],
   "icon": "https://data.aoe4world.com/images/units/clocktower-nest-of-bees-3.png",
+  "nameCN": "钟楼一窝蜂",
+  "descriptionCN": "创新的野战武器，可发射一连串火箭来破坏防御阵地及成群的敌军部队。\n+ 可对大部分单位造成效果不错的范围伤害\n- 移动速度极慢\n- 不擅长应对包围",
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "hitpoints": 120,
   "weapons": [
     {

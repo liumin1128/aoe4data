@@ -38,6 +38,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/mounted-villager-1.png",
+  "nameCN": "乡骑",
+  "descriptionCN": "骑马的经济单位，相比普通村民，采集资源和建造建筑的速度都更快。可修复建筑、攻城器械和海军单位。\n建造上限为 20，可通过派遣使者建立进贡关系 +3。\n+ 移动速度快\n+ 采集速率快\n- 战斗能力弱\n- 造价昂贵",
+  "displayClassesCN": [
+    "工人"
+  ],
   "hitpoints": 85,
   "weapons": [
     {

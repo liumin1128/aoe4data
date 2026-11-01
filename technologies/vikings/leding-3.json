@@ -35,5 +35,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/leding-3.png",
+  "nameCN": "莱丁",
+  "descriptionCN": "码头影响力还会让每座长屋提升船只生产速度 5%，最多可提升至 20%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

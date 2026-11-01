@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-tower-of-victory-aura-1.png",
+  "nameCN": "胜利之塔光环",
+  "descriptionCN": "在此地标附近移动的近战和远程步兵攻击速度永久 +20%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 7.5,
   "effects": [

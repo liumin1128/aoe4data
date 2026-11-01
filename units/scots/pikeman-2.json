@@ -44,6 +44,11 @@
     "mustering-hall"
   ],
   "icon": "https://data.aoe4world.com/images/units/pikeman-2.png",
+  "nameCN": "强化长枪兵",
+  "descriptionCN": "装备长矛的步兵，最适合对抗骑兵。\n+ 增加武器攻击距离\n+ 反骑兵专精\n+ 对战象有额外伤害\n- 被弓兵克制",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 100,
   "weapons": [
     {

@@ -40,6 +40,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/units/bedouin-swordsman-1.png",
+  "nameCN": "贝都因剑士",
+  "descriptionCN": "擅长近战的剑士大师\n+ 对抗近战单位时可获得加成\n- 不擅长对付远程单位",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 160,
   "weapons": [
     {

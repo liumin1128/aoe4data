@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/market-2.png",
+  "nameCN": "市场",
+  "descriptionCN": "允许买卖资源并激活朝圣者借贷。",
+  "displayClassesCN": [
+    "经济建筑、交易站"
+  ],
   "hitpoints": 1000,
   "weapons": [],
   "armor": [

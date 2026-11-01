@@ -34,5 +34,10 @@
     "takeda-clan-daimyo-estate"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/improved-yari-1.png",
+  "nameCN": "强化日本长枪",
+  "descriptionCN": "日本长枪骑兵反骑兵伤害 +2。",
+  "displayClassesCN": [
+    "武田氏族科技"
+  ],
   "effects": []
 }

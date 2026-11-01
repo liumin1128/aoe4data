@@ -45,6 +45,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/gilded-knight-3.png",
+  "nameCN": "镀金骑士",
+  "descriptionCN": "拥有强大冲锋能力的昂贵骑兵。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 400,
   "weapons": [
     {

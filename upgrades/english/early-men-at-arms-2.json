@@ -34,5 +34,10 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/early-men-at-arms-2.png",
+  "nameCN": "升级为早期",
+  "descriptionCN": "将先锋武士升级为早期武士。",
+  "displayClassesCN": [
+    "单位科技 1/3"
+  ],
   "unlocks": ""
 }

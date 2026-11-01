@@ -34,6 +34,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fertile-crescent-2.png",
+  "nameCN": "新月沃土",
+  "descriptionCN": "将经济型建筑和房屋的成本降低 30%。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": [
     {
       "property": "foodCost",

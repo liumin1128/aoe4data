@@ -26,6 +26,9 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-three-loch-lookout-3.png",
+  "nameCN": "三湖瞭望台",
+  "descriptionCN": "高地科技成本降低 50%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": [

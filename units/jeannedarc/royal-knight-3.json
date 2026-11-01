@@ -46,6 +46,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/royal-knight-3.png",
+  "nameCN": "老练皇家骑士",
+  "descriptionCN": "在冲锋后的 5 秒内获得伤害加成。擅长对付大多数单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 230,
   "weapons": [
     {

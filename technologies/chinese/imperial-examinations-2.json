@@ -34,6 +34,11 @@
     "imperial-academy"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/imperial-examinations-2.png",
+  "nameCN": "科举制",
+  "descriptionCN": "将朝廷命官的最大携带黄金数量从 +40 提升至 +70。",
+  "displayClassesCN": [
+    "朝廷命官科技"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

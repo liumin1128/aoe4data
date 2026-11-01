@@ -34,6 +34,11 @@
     "blacksmith"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/insulated-helm-3.png",
+  "nameCN": "绝缘头盔",
+  "descriptionCN": "所有非攻城单位的近战护甲 +1。",
+  "displayClassesCN": [
+    "近战护甲科技 2/3"
+  ],
   "effects": [
     {
       "property": "meleeArmor",

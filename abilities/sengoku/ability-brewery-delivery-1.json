@@ -24,6 +24,9 @@
     "sake-brewery"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-brewery-delivery-1.png",
+  "nameCN": "酒厂送货",
+  "descriptionCN": "当从床麹法垫子收集 350 黄金时，清酒会被送到附近的祭典。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 10,
   "effects": []

@@ -34,5 +34,10 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/synchronized-shot-3.png",
+  "nameCN": "协同射击",
+  "descriptionCN": "解锁英皇侍卫的协同射击能力。",
+  "displayClassesCN": [
+    "英皇侍卫科技"
+  ],
   "effects": []
 }

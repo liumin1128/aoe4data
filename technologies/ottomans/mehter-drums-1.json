@@ -32,6 +32,11 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/mehter-drums-1.png",
+  "nameCN": "奥斯曼军乐队战鼓",
+  "descriptionCN": "在地标城镇中心处产生 2 支奥斯曼军乐队。奥斯曼军乐队使同一个阵型中的单位提升 +15% 的移动速度。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": [
     {
       "property": "moveSpeed",

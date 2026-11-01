@@ -25,6 +25,9 @@
     "mountain-hall"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-karma-1.png",
+  "nameCN": "羯磨",
+  "descriptionCN": "在这座宗教建筑范围内采集资源的村民产生业力。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": []

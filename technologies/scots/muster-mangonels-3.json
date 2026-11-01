@@ -33,6 +33,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-mangonels-3.png",
+  "nameCN": "集合投石车",
+  "descriptionCN": "召集拥有土地的封臣，在集合厅招募 2 台投石车。仅可使用一次。",
+  "displayClassesCN": [
+    "皇家召集"
+  ],
   "effects": [],
   "recruits": [
     {

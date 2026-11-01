@@ -34,6 +34,11 @@
     "keep"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/medical-centers-4.png",
+  "nameCN": "医疗中心",
+  "descriptionCN": "城镇中心和城堡可治疗附近单位，每 1 秒恢复其 +1 的生命值。",
+  "displayClassesCN": [
+    "防御科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

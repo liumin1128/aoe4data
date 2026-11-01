@@ -24,6 +24,9 @@
     "kongens-d-r-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-royal-procession-1.png",
+  "nameCN": "皇家游行",
+  "descriptionCN": "扩大长屋收取什一税的范围。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 2.25,
   "effects": []

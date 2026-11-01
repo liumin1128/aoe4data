@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-construct-the-kingdom-1.png",
+  "nameCN": "建造王国",
+  "descriptionCN": "附近村民建造建筑的速度加快 33%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": [

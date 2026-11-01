@@ -36,6 +36,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/double-broadax-improved-2.png",
+  "nameCN": "双阔斧 (已强化)",
+  "descriptionCN": "村民的木材采集速率 +35%。\n如果已完成双宽斧研究，则 +20%。",
+  "displayClassesCN": [
+    "木材采集科技"
+  ],
   "effects": [
     {
       "property": "woodGatherRate",

@@ -35,6 +35,11 @@
     "forge"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/cupellation-4.png",
+  "nameCN": "灰吹法",
+  "descriptionCN": "黄金采集者存放资源量额外 +15%。",
+  "displayClassesCN": [
+    "采矿科技 3/3"
+  ],
   "effects": [
     {
       "property": "goldGatherRate",

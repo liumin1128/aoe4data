@@ -33,6 +33,11 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/preservation-of-knowledge-2.png",
+  "nameCN": "保存知识",
+  "descriptionCN": "所有科技和时代进步的成本降低 -20%。",
+  "displayClassesCN": [
+    "研究科技"
+  ],
   "effects": [
     {
       "property": "goldCost",

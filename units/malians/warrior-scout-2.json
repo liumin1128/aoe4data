@@ -46,6 +46,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/warrior-scout-2.png",
+  "nameCN": "战士侦察兵",
+  "descriptionCN": "行动快速的骑兵，擅长突袭、探索世界、狩猎野生动物和放牧绵羊。\n+ 更高生命值恢复\n+ 更高移动速度\n+ 能看穿浓密森林\n- 战斗中较弱",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 110,
   "weapons": [
     {

@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/hisar-academy-3.png",
+  "nameCN": "希萨尔学院",
+  "descriptionCN": "可作为穆斯林学塾使用。根据研究科技数量，每分钟产生 +12 份食物。不适用于炮台。",
+  "displayClassesCN": [
+    "第四时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -45,6 +45,11 @@
     "mercenary-house"
   ],
   "icon": "https://data.aoe4world.com/images/units/grenadier-4.png",
+  "nameCN": "掷弹兵",
+  "descriptionCN": "使用震天雷的高级远程步兵，可造成小范围伤害。\n+ 可造成范围伤害\n - 对单一目标造成的伤害较低\n - 移动速度较慢",
+  "displayClassesCN": [
+    "轻型远程火药步兵"
+  ],
   "hitpoints": 150,
   "weapons": [
     {

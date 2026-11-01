@@ -42,6 +42,11 @@
     "stone-of-destiny"
   ],
   "icon": "https://data.aoe4world.com/images/units/kirkman-2.png",
+  "nameCN": "柯克曼",
+  "descriptionCN": "辅助单位，可建立并采集鱼塘。能够拾取圣物、转换敌方单位并占领圣地。\n+ 治疗友军单位\n- 移动速度较慢",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

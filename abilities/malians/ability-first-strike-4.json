@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-first-strike-1.png",
+  "nameCN": "先发制人",
+  "descriptionCN": "可提升下一次攻击造成的伤害。",
+  "displayClassesCN": [],
   "effects": [
     {
       "property": "meleeAttack",

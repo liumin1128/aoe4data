@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/tower-house-1.png",
+  "nameCN": "塔楼",
+  "descriptionCN": "生产高地牛，拥有更广视野，并能侦测潜行或伪装单位。可升级武器与防御工事。驻扎时可进行攻击。最大人口数提升15。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [
     {

@@ -33,6 +33,9 @@
     "tower-of-skye"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-lions-duty-1.png",
+  "nameCN": "狮之义务",
+  "descriptionCN": "发散光环，提升步兵的护甲。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 8,
   "effects": []

@@ -40,6 +40,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-city-planning-1.png",
+  "nameCN": "城市规划",
+  "descriptionCN": "制定一个清晰的帝国建设计划；对于每座相邻的类似建筑，建筑的生命值 +8%，工作速率 +8%。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

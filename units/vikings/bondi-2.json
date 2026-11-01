@@ -47,6 +47,11 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/units/bondi-2.png",
+  "nameCN": "强化邦地",
+  "descriptionCN": "步兵最适合对抗骑兵单位，拥有更高的生命值和护甲。当靠近其他邦地时，会组成盾墙，获得额外生命值。\n+ 擅长反骑兵\n+ 对战象有额外伤害\n- 造价更高\n- 对重步兵较弱\n- 会受到弓兵克制",
+  "displayClassesCN": [
+    "轻型近战步兵"
+  ],
   "hitpoints": 105,
   "weapons": [
     {

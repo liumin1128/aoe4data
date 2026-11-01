@@ -35,6 +35,11 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/two-handed-weapons-3.png",
+  "nameCN": "双手武器",
+  "descriptionCN": "武士手持双手武器，使其伤害 +2。",
+  "displayClassesCN": [
+    "武士科技"
+  ],
   "effects": [
     {
       "property": "meleeAttack",

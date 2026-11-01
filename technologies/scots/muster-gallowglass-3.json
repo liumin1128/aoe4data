@@ -33,6 +33,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-gallowglass-3.png",
+  "nameCN": "集合武装侍从",
+  "descriptionCN": "呼唤忠诚的高地首领，在集合厅招募 7 武装侍从。每场只能使用一次。",
+  "displayClassesCN": [
+    "呼唤高地"
+  ],
   "effects": [],
   "recruits": [
     {

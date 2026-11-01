@@ -34,6 +34,11 @@
     "mill"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/fresh-foodstuffs-2.png",
+  "nameCN": "新鲜食品",
+  "descriptionCN": "生产村民成本 -40%。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "foodCost",

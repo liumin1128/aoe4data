@@ -35,6 +35,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/herbal-medicine-3.png",
+  "nameCN": "草药",
+  "descriptionCN": "学者的治疗速率 +60%。",
+  "displayClassesCN": [
+    "治疗科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

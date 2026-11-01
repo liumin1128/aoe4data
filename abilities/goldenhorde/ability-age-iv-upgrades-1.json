@@ -24,6 +24,9 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-age-iv-upgrades-1.png",
+  "nameCN": "第四时代升级",
+  "descriptionCN": "升级以发展到第四时代",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

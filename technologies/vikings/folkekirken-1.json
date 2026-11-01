@@ -33,5 +33,10 @@
     "kongens-d-r-cathedral"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/folkekirken-1.png",
+  "nameCN": "民众教会",
+  "descriptionCN": "人口与最大人口数提升 10。",
+  "displayClassesCN": [
+    "经济科技"
+  ],
   "effects": []
 }

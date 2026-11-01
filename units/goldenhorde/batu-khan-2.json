@@ -46,6 +46,11 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/units/batu-khan-2.png",
+  "nameCN": "拔都汗",
+  "descriptionCN": "近战骑兵领队，可在汗攻击时提高附近盟友的攻击伤害。只能通过黄金帐篷招募。\n+ 坚韧的重装骑兵\n+ 随时代推进自动增强\n- 每位金帐汗国玩家只能拥有一位汗",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 190,
   "weapons": [
     {

@@ -42,6 +42,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/abbey-of-the-trinity-2.png",
+  "nameCN": "圣三一修道院",
+  "descriptionCN": "可作为修道院使用。僧侣战士的成本 -50%，并包含独特宗教科技。",
+  "displayClassesCN": [
+    "第三时代：宗教地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

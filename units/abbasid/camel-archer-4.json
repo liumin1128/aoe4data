@@ -43,6 +43,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/units/camel-archer-4.png",
+  "nameCN": "精锐骆驼射手",
+  "descriptionCN": "高机动性且耐久的远程单位。\n+对长矛兵有伤害加成\n-高成本",
+  "displayClassesCN": [
+    "轻型远程骑兵、骆驼"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

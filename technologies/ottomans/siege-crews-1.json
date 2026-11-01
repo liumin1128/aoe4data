@@ -32,5 +32,10 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/technologies/siege-crews-1.png",
+  "nameCN": "攻城人员",
+  "descriptionCN": "让步兵可以驻扎在攻城器械中。驻扎时，攻击和架设速度提升 +25%。",
+  "displayClassesCN": [
+    "帝国议会"
+  ],
   "effects": []
 }

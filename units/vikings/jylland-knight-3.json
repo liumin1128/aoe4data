@@ -45,6 +45,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/jylland-knight-3.png",
+  "nameCN": "日德兰骑士",
+  "descriptionCN": "高成本骑兵，拥有高伤害和较强的近战护甲。对近战单位效果显著。成本较低，但伤害和生命值有所降低。\n+ 重甲\n+ 近战能力强\n+ 死亡时可获得 10 黄金\n- 被长枪兵和弩兵克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 200,
   "weapons": [
     {

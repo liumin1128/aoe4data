@@ -40,6 +40,11 @@
     "siege-workshop"
   ],
   "icon": "https://data.aoe4world.com/images/units/cannon-4.png",
+  "nameCN": "加农炮",
+  "descriptionCN": "最强大的攻城加农炮，极为擅长摧毁建筑或对付坚固的目标。\n+ 对建筑有伤害加成",
+  "displayClassesCN": [
+    "攻城、火药"
+  ],
   "hitpoints": 190,
   "weapons": [
     {

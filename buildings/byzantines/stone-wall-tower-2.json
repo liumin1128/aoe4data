@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/stone-wall-tower-2.png",
+  "nameCN": "石墙塔",
+  "descriptionCN": "防御坚实的箭塔，可发射轻型投石车。必须建于石墙上。\n可利用箭塔前往城墙顶端。",
+  "displayClassesCN": [
+    "防御建筑"
+  ],
   "hitpoints": 3000,
   "weapons": [
     null

@@ -33,6 +33,11 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/muster-border-reivers-3.png",
+  "nameCN": "集合边境劫掠者",
+  "descriptionCN": "召集边境劫掠者，并将 12 招募至集合厅。仅可使用一次。",
+  "displayClassesCN": [
+    "皇家召集"
+  ],
   "effects": [],
   "recruits": [
     {

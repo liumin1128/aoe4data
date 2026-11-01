@@ -40,6 +40,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/lancaster-castle-1.png",
+  "nameCN": "兰开斯特城堡",
+  "descriptionCN": "防御地标，每个时代可以集结一次单位。每座庄园集结单位的成本 -50 资源。\n赋予所有庄园 +500 生命值，以及一个射箭槽炮台。",
+  "displayClassesCN": [
+    "第二时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [
     {

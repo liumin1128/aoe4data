@@ -24,6 +24,9 @@
     "three-loch-lookout"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-muster-cateran-1.png",
+  "nameCN": "集合卡特蓝",
+  "descriptionCN": "呼唤忠诚的高地首领，在集合厅招募 8 卡特蓝。每场只能使用一次。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 12.5,
   "effects": []

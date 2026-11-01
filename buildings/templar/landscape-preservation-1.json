@@ -34,6 +34,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/landscape-preservation-1.png",
+  "nameCN": "景观保护",
+  "descriptionCN": "圣殿骑士村民无需伐木场即可采集木材。",
+  "displayClassesCN": [
+    "(translation not found) (undefined)"
+  ],
   "hitpoints": 750,
   "weapons": [],
   "armor": [

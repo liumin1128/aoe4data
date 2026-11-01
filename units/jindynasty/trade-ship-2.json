@@ -39,6 +39,11 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/units/trade-ship-2.png",
+  "nameCN": "商船",
+  "descriptionCN": "商船在被派往有海岸贸易站或其他玩家码头的贸易路线时，可产生黄金和木材。\n- 不具备战斗能力",
+  "displayClassesCN": [
+    "工人、船只"
+  ],
   "hitpoints": 225,
   "weapons": [],
   "armor": [],

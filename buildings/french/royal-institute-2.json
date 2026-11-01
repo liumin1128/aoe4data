@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/royal-institute-2.png",
+  "nameCN": "皇家学院",
+  "descriptionCN": "可研究法兰西人的所有独特科技。此建筑的研究成本 -30%，并可无视时代需求。",
+  "displayClassesCN": [
+    "第三时代：科技地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

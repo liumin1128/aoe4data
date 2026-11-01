@@ -36,5 +36,10 @@
     "longhouse"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/veteran-bondi-3.png",
+  "nameCN": "升级为老练",
+  "descriptionCN": "将强化邦地升级为老练邦地。",
+  "displayClassesCN": [
+    "单位科技 2/3"
+  ],
   "unlocks": ""
 }

@@ -35,5 +35,10 @@
     "dock"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/sunstones-2.png",
+  "nameCN": "日长石",
+  "descriptionCN": "船只视野范围提升 50%，移动速度提升 15%。",
+  "displayClassesCN": [
+    "海军科技"
+  ],
   "effects": []
 }

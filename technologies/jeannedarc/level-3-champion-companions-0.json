@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-champion-companions-1.png",
+  "nameCN": "冠军剑士同伴",
+  "descriptionCN": "可以在兵营训练贞德冠军剑士了。\n获得“伙计们，拿起武器！”，这可将 3 名冠军剑士集结到她身边。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

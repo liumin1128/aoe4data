@@ -39,6 +39,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/burgrave-palace-2.png",
+  "nameCN": "城主宫殿",
+  "descriptionCN": "可作为兵营使用，生产速度提升 400%。\n步兵的冲锋伤害 +50%。",
+  "displayClassesCN": [
+    "第三时代：军事地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

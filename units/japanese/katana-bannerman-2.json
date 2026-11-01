@@ -46,6 +46,11 @@
     "barracks"
   ],
   "icon": "https://data.aoe4world.com/images/units/katana-bannerman-2.png",
+  "nameCN": "刀剑旗本武士",
+  "descriptionCN": "日本武士，拥有可增加近战步兵伤害的光环。自带偏转护甲能力，可定期抵挡攻击。\n+ 死亡时掉落旗帜\n+ 重型护甲\n+ 提高移动速度\n- 会受到骑士、长矛骑兵和弩手克制",
+  "displayClassesCN": [
+    "重装近战步兵"
+  ],
   "hitpoints": 155,
   "weapons": [
     {

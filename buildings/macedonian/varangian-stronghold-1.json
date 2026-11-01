@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/varangian-stronghold-1.png",
+  "nameCN": "瓦兰吉堡垒",
+  "descriptionCN": "能够生产任何瓦兰吉单位的建筑。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 2000,
   "weapons": [
     {

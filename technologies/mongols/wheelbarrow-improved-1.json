@@ -36,6 +36,11 @@
     "steppe-redoubt"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/wheelbarrow-improved-1.png",
+  "nameCN": "独轮推车 (已强化)",
+  "descriptionCN": "村民的资源运载量 +9，移动速度 +15%。\n如果已完成独轮推车研究，则资源运载量 +4。",
+  "displayClassesCN": [
+    "村民科技"
+  ],
   "effects": [
     {
       "property": "carryCapacity",

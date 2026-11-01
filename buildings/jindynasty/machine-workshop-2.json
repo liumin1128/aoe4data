@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/machine-workshop-2.png",
+  "nameCN": "机械车间",
+  "descriptionCN": "生产远程步兵和攻城器械。\n修复附近的攻城器械。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1750,
   "weapons": [],
   "armor": [

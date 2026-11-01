@@ -35,6 +35,11 @@
     "prayer-tent"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/herbal-medicine-improved-3.png",
+  "nameCN": "草药 (已强化)",
+  "descriptionCN": "宗教单位的治疗速率 +90%。\n如果已完成草药研究，则 +30%。",
+  "displayClassesCN": [
+    "治疗科技"
+  ],
   "effects": [
     {
       "property": "healingRate",

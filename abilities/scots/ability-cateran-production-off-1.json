@@ -24,6 +24,9 @@
     "snowdoun-gate"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-cateran-production-off-1.png",
+  "nameCN": "卡特蓝生产（关闭）",
+  "descriptionCN": "开启以继续生产免费卡特蓝。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "snowdoun",

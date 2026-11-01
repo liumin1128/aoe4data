@@ -23,6 +23,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-detonate-1.png",
+  "nameCN": "引爆",
+  "descriptionCN": "引爆这艘船只。",
+  "displayClassesCN": [],
   "active": "manual",
   "auraRange": 2,
   "effects": [

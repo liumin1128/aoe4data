@@ -39,6 +39,11 @@
     "mosque"
   ],
   "icon": "https://data.aoe4world.com/images/units/imam-3.png",
+  "nameCN": "伊玛目",
+  "descriptionCN": "不具备战斗能力的辅助单位，可拾取圣物、招降敌方单位及占领圣地。\n+ 可治疗友方单位\n- 移动速度较慢",
+  "displayClassesCN": [
+    "宗教"
+  ],
   "hitpoints": 90,
   "weapons": [],
   "armor": [],

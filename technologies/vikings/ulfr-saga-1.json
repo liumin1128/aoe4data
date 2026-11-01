@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-ulfr-saga-1.png",
+  "nameCN": "乌尔弗萨迦",
+  "descriptionCN": "近战步兵获得 +5 火把伤害和 +1 格火把攻击距离。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

@@ -31,6 +31,9 @@
     "saga-pillars"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-hrafn-saga-1.png",
+  "nameCN": "哈拉芬萨迦",
+  "descriptionCN": "所有科技成本降低 15% ，铁匠铺/织布机研究速度加快 45 秒。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

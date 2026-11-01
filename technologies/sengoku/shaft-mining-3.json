@@ -35,5 +35,10 @@
     "forge"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/shaft-mining-3.png",
+  "nameCN": "竖井开采",
+  "descriptionCN": "村民的黄金和石料采集速率 +15%。",
+  "displayClassesCN": [
+    "采矿科技 2/3"
+  ],
   "effects": []
 }

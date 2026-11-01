@@ -47,6 +47,11 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/units/scots/ghillie-1.png",
+  "nameCN": "吉利侍从",
+  "descriptionCN": "擅长伪装、侦察、狩猎野生动物及放牧绵羊。\n+ 可在开放区域匿踪\n+ 能看见浓密森林内部\n+ 生命值恢复\n+ 移动速度极快\n- 战斗能力极弱",
+  "displayClassesCN": [
+    "轻型近战骑兵"
+  ],
   "hitpoints": 110,
   "weapons": [
     {

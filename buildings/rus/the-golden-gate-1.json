@@ -38,6 +38,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/the-golden-gate-1.png",
+  "nameCN": "金门",
+  "descriptionCN": "允许以优惠的价格换取资源。每 50 秒会额外产生一次换取机会。",
+  "displayClassesCN": [
+    "第二时代：地标"
+  ],
   "hitpoints": 5000,
   "weapons": [],
   "armor": [

@@ -24,6 +24,9 @@
     "jiangnan-tower"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-imperial-retinue-1.png",
+  "nameCN": "御前侍卫",
+  "descriptionCN": "生成一支由 4 名元朝突袭者和 1 名王朝禁卫组成的军队。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "temple_of_the_sun",

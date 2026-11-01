@@ -35,5 +35,10 @@
     "burgrave-palace"
   ],
   "icon": "https://data.aoe4world.com/images/upgrades/gilded-men-at-arms-3.png",
+  "nameCN": "升级为武士",
+  "descriptionCN": "将早期镀金武士升级为镀金武士。",
+  "displayClassesCN": [
+    "单位科技 1/2"
+  ],
   "unlocks": ""
 }

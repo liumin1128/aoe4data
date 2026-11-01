@@ -25,6 +25,9 @@
     "varangian-warcamp"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-varangian-guard-production-2.png",
+  "nameCN": "瓦兰吉卫队生产",
+  "descriptionCN": "开启以派遣瓦兰吉卫队增援",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0.0025,
   "toggleGroup": "varangian",

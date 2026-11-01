@@ -37,6 +37,11 @@
     "villager"
   ],
   "icon": "https://data.aoe4world.com/images/buildings/barracks-1.png",
+  "nameCN": "兵营",
+  "descriptionCN": "生产近战步兵单位。",
+  "displayClassesCN": [
+    "军事建筑"
+  ],
   "hitpoints": 1500,
   "weapons": [],
   "armor": [

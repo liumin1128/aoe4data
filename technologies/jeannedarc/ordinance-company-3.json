@@ -34,5 +34,10 @@
     "royal-institute"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/ordinance-company-3.png",
+  "nameCN": "圣令连队",
+  "descriptionCN": "圣化建筑还能使单位的木材和黄金成本降低 25%。",
+  "displayClassesCN": [
+    "影响力科技"
+  ],
   "effects": []
 }

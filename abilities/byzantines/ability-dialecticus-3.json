@@ -25,6 +25,9 @@
     "cistern-of-the-first-hill"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-dialecticus-3.png",
+  "nameCN": "辩证法",
+  "descriptionCN": "在蓄水池影响范围之内，研究速率将按水位 +30%/+60%/+90%/+120%/+150%。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "resource_toggle",

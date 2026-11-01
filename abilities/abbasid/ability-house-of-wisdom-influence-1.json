@@ -24,6 +24,9 @@
     "house-of-wisdom"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-house-of-wisdom-influence-1.png",
+  "nameCN": "智慧宫影响力",
+  "descriptionCN": "影响范围内的建筑火焰护甲 +5。\n在智慧宫影响范围内建造的建筑可以帮助加快进入黄金时代的进度，并解锁额外的加成。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": [

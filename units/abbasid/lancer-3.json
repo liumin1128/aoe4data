@@ -45,6 +45,11 @@
     "stable"
   ],
   "icon": "https://data.aoe4world.com/images/units/lancer-3.png",
+  "nameCN": "长矛骑兵",
+  "descriptionCN": "拥有高杀伤力和近战护甲的昂贵骑兵。擅长对付近战单位。\n+ 重型护甲\n+ 近战能力强大\n- 会受到长矛兵及弩手克制",
+  "displayClassesCN": [
+    "重装近战骑兵"
+  ],
   "hitpoints": 230,
   "weapons": [
     {

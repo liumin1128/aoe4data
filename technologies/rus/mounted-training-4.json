@@ -34,6 +34,11 @@
     "archery-range"
   ],
   "icon": "https://data.aoe4world.com/images/technologies/mounted-training-4.png",
+  "nameCN": "骑射培训",
+  "descriptionCN": "增加骑射手的武器射程 +1 并解锁疾驰技能。\n疾驰：激活后，以最大速度移动，以及武器攻击范围增加 +2 格，持续 8 秒。",
+  "displayClassesCN": [
+    "骑射手科技"
+  ],
   "effects": [
     {
       "property": "maxRange",

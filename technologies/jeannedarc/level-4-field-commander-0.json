@@ -27,6 +27,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-field-commander-1.png",
+  "nameCN": "战地指挥官",
+  "descriptionCN": "贞德的号召能力现可在战场上召唤她选择的 7 位同伴。\n获得天堂之力终极能力，可以大幅强化单个单位。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": []

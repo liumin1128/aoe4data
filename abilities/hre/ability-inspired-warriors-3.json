@@ -22,6 +22,9 @@
   },
   "producedBy": [],
   "icon": "https://data.aoe4world.com/images/abilities/ability-inspired-1.png",
+  "nameCN": "精神鼓舞",
+  "descriptionCN": "军事单位造成的伤害 +10% ，护甲 +1。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0.0025,
   "effects": [

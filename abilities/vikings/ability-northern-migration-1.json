@@ -25,6 +25,9 @@
     "town-center"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-northern-migration-1.png",
+  "nameCN": "北方迁移",
+  "descriptionCN": "只要村民容量有剩余，就会自动免费招募村民。建造更多长屋可以提升村民容量。\n村民容量已达上限，无法继续招募村民。除非建造更多长屋。",
+  "displayClassesCN": [],
   "active": "always",
   "auraRange": 0,
   "effects": []

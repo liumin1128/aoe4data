@@ -24,6 +24,9 @@
     "golden-tent"
   ],
   "icon": "https://data.aoe4world.com/images/abilities/ability-production-speed-edict-1.png",
+  "nameCN": "生产速度法令",
+  "descriptionCN": "启用后，在强化哨站影响范围内的黄金帐篷和军事建筑的生产速度 +15%。\n只能启用一个法令。",
+  "displayClassesCN": [],
   "active": "toggle",
   "auraRange": 0,
   "toggleGroup": "edict_toggle",
